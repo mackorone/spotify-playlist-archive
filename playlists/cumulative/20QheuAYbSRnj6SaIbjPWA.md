@@ -4,7 +4,7 @@
 
 > 2021
 
-112 songs - 7 hr 28 min
+113 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,5 +120,6 @@
 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 | 2025-01-13 |  |
 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2024-01-14 |  |
 | [Wish You Were Here](https://open.spotify.com/track/1HzDhHApjdjXPLHF6GGYhu) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Collection Of Great Dance Songs](https://open.spotify.com/album/15Tc3f1XzDKLodDXDELISe) | 5:21 | 2024-12-05 |  |
+| [You Could Be Happy](https://open.spotify.com/track/7zkLcJktbodeRntovGdXQK) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 3:01 | 2025-03-09 |  |
 
 \*This playlist was first scraped on 2024-01-15. Prior content cannot be recovered.

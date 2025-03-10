@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 38968,
+  "num_followers": 39018,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8o3AAAAAACHXMiHoKiI9V6t5Ta+Js6o",
+  "snapshot_id": "Z8uIgAAAAAAKHV9ptohSjJ/tOMS0nawU",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Soul",
-        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 239640,
-      "name": "Perfect Soul",
-      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
+      "duration_ms": 204866,
+      "name": "Black Rainbow",
+      "url": "https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3"
     },
     {
       "added_at": null,
@@ -103,6 +103,22 @@
       "duration_ms": 227477,
       "name": "Sun Killer",
       "url": "https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
     },
     {
       "added_at": null,
@@ -132,25 +148,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Black Rainbow",
-      "url": "https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soft Spine",
-        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "Soft Spine",
-      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
+      "duration_ms": 261139,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
       "duration_ms": 198067,
       "name": "Yellowjacket (feat. Sam Carter)",
       "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soft Spine",
+        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
     },
     {
       "added_at": null,
@@ -200,25 +216,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 261139,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crystal Roses",
-        "url": "https://open.spotify.com/album/5I6pmP96LxAOc3fID57YcM"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Crystal Roses",
-      "url": "https://open.spotify.com/track/2MHH8AK3ulpPO2Ns6k1FVh"
+      "duration_ms": 256466,
+      "name": "Tsunami Sea",
+      "url": "https://open.spotify.com/track/7bGzUyc4a949g2c0EIzMpx"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Tsunami Sea",
-      "url": "https://open.spotify.com/track/7bGzUyc4a949g2c0EIzMpx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rule Of Nines",
         "url": "https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 211154,
       "name": "Rule Of Nines",
       "url": "https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 331653,
+      "name": "A Haven With Two Faces",
+      "url": "https://open.spotify.com/track/7z5VyHN6KeN1xF7y4uJ5Nq"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 331653,
-      "name": "A Haven With Two Faces",
-      "url": "https://open.spotify.com/track/7z5VyHN6KeN1xF7y4uJ5Nq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Ride The Wave",
+      "url": "https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "Ride The Wave",
-      "url": "https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 224075,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Crystal Roses",
+      "url": "https://open.spotify.com/track/24sCYoOyqR880pCFfQsika"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
       "duration_ms": 211123,
       "name": "Sew Me Up",
       "url": "https://open.spotify.com/track/1YQiA0Kfml44BqF68ZQ48n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/158w8pSMF1Z13xzgHhGXRV"
     },
     {
       "added_at": null,

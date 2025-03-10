@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Amarte",
+        "url": "https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293413,
+      "name": "Como Hacer",
+      "url": "https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0"
+    },
+    {
+      "album": {
         "name": "SEROTONINA (DELUXE)",
         "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"

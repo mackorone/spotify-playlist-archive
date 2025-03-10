@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 
 > Enjoy the world of “Sgt\. Frog”! 地球侵略のために派遣された宇宙人・ケロロ軍曹と仲間たちによる物語。オマージュ満載な傑作コメディを彩る歴代OP/ED曲、挿入歌を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,289 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

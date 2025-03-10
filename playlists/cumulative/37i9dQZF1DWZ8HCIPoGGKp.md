@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-325 songs - 14 hr 24 min
+326 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Green Noise 436 Hz Bell](https://open.spotify.com/track/4LDDxMhyuYP0Bo0y6puCC1) | [HOLISTIK](https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4) | [Green Noise](https://open.spotify.com/album/5xp7qiBsjDBibBlN0Sel06) | 3:00 | 2023-02-03 |  |
 | [Green Noise 500 Hz](https://open.spotify.com/track/0rxmsK0e7l4FImr7HnYSEu) | [WNBN](https://open.spotify.com/artist/7u9Ogseij8tcGiDLTCjpbC) | [Natures Soundtrack](https://open.spotify.com/album/3i94lLag4dkjHTEsRug0rE) | 2:05 | 2022-12-09 |  |
 | [Green Noise : Night Rain](https://open.spotify.com/track/0PBlHMSUnfrrBu1M9tm4kM) | [Ablation](https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD) | [The Color Of Nature](https://open.spotify.com/album/24p6noTStBR2AsQ8gbiuyP) | 2:01 | 2022-12-09 |  |
-| [Green Noise Ambient Nature](https://open.spotify.com/track/3QvCrVrR50Wb99fxXTEG52) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Green Noise Relaxation](https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd) | 2:44 | 2023-02-03 |  |
+| [Green Noise Ambient Nature](https://open.spotify.com/track/3QvCrVrR50Wb99fxXTEG52) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Green Noise Relaxation](https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd) | 2:44 | 2023-02-03 | 2025-03-10 |
 | [Green Noise and Calming Ocean Waves](https://open.spotify.com/track/2Mru2svx8kplFkQ3vn6n4M) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Green Noise Moments](https://open.spotify.com/album/2m9XRZvwhhbjciq6ZcPOey) | 3:23 | 2023-05-05 | 2023-10-06 |
 | [Green Noise and Water Meditation](https://open.spotify.com/track/0ECspZ5t3pFxmi4vL87PkG) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Green Noise and Water Meditation](https://open.spotify.com/album/4KgSNTHTbmhO4x6FyPCVGZ) | 3:08 | 2023-05-05 |  |
 | [Green Noise Beside the Waterfall](https://open.spotify.com/track/4qzc7OV8QSLyVQjnL3IfxR) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Green Noise Water](https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw) | 2:06 | 2023-01-13 |  |
@@ -165,6 +165,7 @@
 | [Green Noise Rain](https://open.spotify.com/track/4P9mX7y426wdAmMUt6R0xW) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Benefitial Green Noise](https://open.spotify.com/album/6oz26icls7R9tS5xDgPb8a) | 1:50 | 2022-12-09 | 2023-06-17 |
 | [Green Noise Rain Storm](https://open.spotify.com/track/4UTRW6NIYuQ6Dvp2mTrU67) | [Aeoluzzz](https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V) | [Green Noise Rain Storm](https://open.spotify.com/album/1L1jy92Ekxn9sMocU6U1As) | 2:48 | 2023-09-08 |  |
 | [Green Noise Reflection](https://open.spotify.com/track/3fRNErrf4U3665fXnEK5DA) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Green Noise Symphony](https://open.spotify.com/album/7qLBlaGYtmRjvIkQRmBe4L) | 3:24 | 2023-03-10 | 2023-07-08 |
+| [Green Noise Relaxation](https://open.spotify.com/track/3kCCVXigZmtITOEfVpSDxh) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Green Noise Relaxation](https://open.spotify.com/album/0L8uI35Hj20SkhBaMmshN3) | 2:02 | 2025-02-06 |  |
 | [Green Noise Relaxation](https://open.spotify.com/track/5hmEFHyeQOuBtFgMwzIlVZ) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Green Noise Relaxation](https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd) | 3:16 | 2023-02-03 | 2023-10-21 |
 | [Green Noise Rippling Stream](https://open.spotify.com/track/3xKYNCdqWxvISQxKzkhp04) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Green Noise Water](https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw) | 1:58 | 2023-01-13 | 2023-06-17 |
 | [Green Noise Ritual](https://open.spotify.com/track/2u6gCtrkaPT3IInl2MZIQc) | [Karma Ritual](https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b) | [Green Noise Ritual](https://open.spotify.com/album/2Sp5fhJUBzeLgYXTQlt0bf) | 2:48 | 2023-05-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,469 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,473 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 44 | [I de Schwiiz](https://open.spotify.com/track/4uBmWRtomdBBFAVNHOVflp) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/0n3UzP0bmjDNUHeCT7tl32) | 5:37 |
 | 45 | [Villech](https://open.spotify.com/track/3uOGs571OyoxsYsO3B9vQM) | [Fygeludi](https://open.spotify.com/artist/3Gf5HXGmPDFTZQMzE0CeO4), [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Tour de Suisse](https://open.spotify.com/album/6KwaoppsoovbcsJAmGP5Cq) | 4:30 |
 | 46 | [Traktor Racing](https://open.spotify.com/track/4zxGnFV66gDHNJSQRNgdRu) | [Hmk & daeWue](https://open.spotify.com/artist/0bKPUOOWraWxDKu11tkNHp) | [Am Uferstah](https://open.spotify.com/album/66PPg7jl8YQeLf0e4ZGMn9) | 2:58 |
-| 47 | [Nie Meh \- KG Re\-Edit](https://open.spotify.com/track/1vTMuV48PP7CR4h402dJ28) | [Jeans for Jesus](https://open.spotify.com/artist/6rjJd6hQrTcYS7vgigd4uF), [Baze](https://open.spotify.com/artist/2uTa7Fzt5yaVCmy9tUaiMd), [KG](https://open.spotify.com/artist/2y0QGjnlzB39Nf2duLQoxk) | [Jeans for Jesus \(Remixes\)](https://open.spotify.com/album/0VihSV4g8Yo9zzuB2V4q6E) | 5:30 |
-| 48 | [Die Grundregeln](https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui) | [Beat Dictator Crew](https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo), [Bdc](https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V) | [Mitgehen oder Aussteigen](https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH) | 3:40 |
-| 49 | [Single](https://open.spotify.com/track/1m0sV8wKf5h2quSzZyWeyT) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Odyssey](https://open.spotify.com/album/3yhyu630s4VRNBZ8fxSQbE) | 3:09 |
+| 47 | [Single](https://open.spotify.com/track/1m0sV8wKf5h2quSzZyWeyT) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Odyssey](https://open.spotify.com/album/3yhyu630s4VRNBZ8fxSQbE) | 3:09 |
+| 48 | [Nie Meh \- KG Re\-Edit](https://open.spotify.com/track/1vTMuV48PP7CR4h402dJ28) | [Jeans for Jesus](https://open.spotify.com/artist/6rjJd6hQrTcYS7vgigd4uF), [Baze](https://open.spotify.com/artist/2uTa7Fzt5yaVCmy9tUaiMd), [KG](https://open.spotify.com/artist/2y0QGjnlzB39Nf2duLQoxk) | [Jeans for Jesus \(Remixes\)](https://open.spotify.com/album/0VihSV4g8Yo9zzuB2V4q6E) | 5:30 |
+| 49 | [Die Grundregeln](https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui) | [Beat Dictator Crew](https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo), [Bdc](https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V) | [Mitgehen oder Aussteigen](https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH) | 3:40 |
 | 50 | [Extra](https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul), [Nativ](https://open.spotify.com/artist/3D9JUF3jSyhMh88bYb4wJX) | [Link Up \(Remix\) / Extra](https://open.spotify.com/album/4azTTTDQOh91aouGjgbRnm) | 3:13 |
 
 Snapshot ID: `Z1bebQAAAADyDexPGzfUlDX9yskMiZdZ`

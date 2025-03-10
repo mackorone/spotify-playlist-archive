@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 49771,
+  "num_followers": 49789,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -519,18 +535,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Liliana",
+          "url": "https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF"
+        },
+        {
+          "name": "Cam Noble",
+          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+      "duration_ms": 128666,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -567,26 +587,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
-      },
-      "artists": [
-        {
-          "name": "Liliana",
-          "url": "https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF"
-        },
-        {
-          "name": "Cam Noble",
-          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
-      },
-      "artists": [
-        {
-          "name": "Reiki Ruawai",
-          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 283133,
       "name": "Learning",
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -935,26 +951,6 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Little Fun (feat. Sammy Johnson)",
-        "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
-      },
-      "artists": [
-        {
-          "name": "Hamo Dell",
-          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
-        },
-        {
-          "name": "Sammy Johnson",
-          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Little Fun (feat. Sammy Johnson)",
-      "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -979,18 +975,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
+        "name": "Little Fun (feat. Sammy Johnson)",
+        "url": "https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9"
       },
       "artists": [
         {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+          "name": "Hamo Dell",
+          "url": "https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
         }
       ],
-      "duration_ms": 246857,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
+      "duration_ms": 170106,
+      "name": "Little Fun (feat. Sammy Johnson)",
+      "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "catch the night",
+        "url": "https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        }
+      ],
+      "duration_ms": 175595,
+      "name": "catch the night",
+      "url": "https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Love in the Open",
         "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "catch the night",
-        "url": "https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
       "artists": [
         {
-          "name": "Kee'ahn",
-          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
         }
       ],
-      "duration_ms": 175595,
-      "name": "catch the night",
-      "url": "https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n"
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1103,22 +1119,6 @@
       "duration_ms": 127329,
       "name": "No Apologies 1.9 V2_demo",
       "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Figure Out (feat. JAIE)",
+        "url": "https://open.spotify.com/album/00lQadmdVTecUp147ww5NN"
+      },
+      "artists": [
+        {
+          "name": "JAWN",
+          "url": "https://open.spotify.com/artist/2yRfs4MG77gLXamZ5RsVRE"
+        },
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Figure Out (feat. JAIE)",
+      "url": "https://open.spotify.com/track/0VRbh9c002tLmNm4G1nhWN"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1203,22 +1223,6 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3"
     }
   ],
   "unique_name": "Soulful",

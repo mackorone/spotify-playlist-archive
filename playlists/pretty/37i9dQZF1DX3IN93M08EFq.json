@@ -1,6 +1,6 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 63481,
+  "num_followers": 63482,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/3twNvmDtFQtAd5gMKedhLD"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Vilja Bli",
         "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 193360,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/3twNvmDtFQtAd5gMKedhLD"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -427,38 +427,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Wounded Rhymes (The Lost Sessions)",
-        "url": "https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Ramlar",
-      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "In Lust We Trust",
         "url": "https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 272360,
       "name": "Calleth You, Cometh I",
       "url": "https://open.spotify.com/track/2kvg4AwMIstkygdQhfFfSf"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Wounded Rhymes (The Lost Sessions)",
+        "url": "https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/3DsDDXmMtucnf7Etgr0n7x"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Ramlar",
+      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "What If Leaving Is a Loving Thing",
         "url": "https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
-        "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
+        "name": "Welcome To The Infant Freebase",
+        "url": "https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "The Soundtrack Of Our Lives",
+          "url": "https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2"
         }
       ],
-      "duration_ms": 231320,
-      "name": "Kom igen Lena!",
-      "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
+      "duration_ms": 281573,
+      "name": "Instant Repeater '99",
+      "url": "https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -571,38 +571,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Welcome To The Infant Freebase",
-        "url": "https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa"
-      },
-      "artists": [
-        {
-          "name": "The Soundtrack Of Our Lives",
-          "url": "https://open.spotify.com/artist/1DoYbXxolkSNTovBmuG0C2"
-        }
-      ],
-      "duration_ms": 281573,
-      "name": "Instant Repeater '99",
-      "url": "https://open.spotify.com/track/3siMxQL1FUH2viB14AaGqU"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Music Machine",
-        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
-      },
-      "artists": [
-        {
-          "name": "Melody Club",
-          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Palace Station",
-      "url": "https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "State of the Ark",
         "url": "https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr"
       },
@@ -619,18 +587,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Din tid kommer",
-        "url": "https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd"
+        "name": "Music Machine",
+        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Melody Club",
+          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
         }
       ],
-      "duration_ms": 281890,
-      "name": "Din tid kommer",
-      "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
+      "duration_ms": 196093,
+      "name": "Palace Station",
+      "url": "https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -663,6 +631,22 @@
       "duration_ms": 179586,
       "name": "Vi kommer att d\u00f6 samtidigt",
       "url": "https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
+        "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 231320,
+      "name": "Kom igen Lena!",
+      "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -727,6 +711,22 @@
       "duration_ms": 222052,
       "name": "I Surrender (Bonus Track)",
       "url": "https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/4KlUqRzW0bNtNlMSgja6Ve"
+      },
+      "artists": [
+        {
+          "name": "The Plan",
+          "url": "https://open.spotify.com/artist/1xp8n7sGGGHKO6pwxH8RCI"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Mon Amour (Alternative Single Mix)",
+      "url": "https://open.spotify.com/track/6XFGNx6By4F97mrIZBkRZa"
     }
   ],
   "unique_name": "Spela Shoreline!",

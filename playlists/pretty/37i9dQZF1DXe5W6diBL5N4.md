@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: BTOB\(비투비\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,209 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,277 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 82 | [CARNIVAL](https://open.spotify.com/track/1OASHXjaydGBfW7dbo4jQm) | [NOMAD](https://open.spotify.com/artist/3hscj9beAfMyBhBxJsHisK) | [CARNIVAL](https://open.spotify.com/album/1kEvaRXCMFPpiIEYM081ow) | 2:56 |
 | 83 | [Tenderly](https://open.spotify.com/track/3AJn0W6ClnfnedS3Yn2vhM) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [Tenderly](https://open.spotify.com/album/3jtAyz786J0WboNCwmnj0j) | 3:14 |
 | 84 | [코카콜라](https://open.spotify.com/track/52ZBWgMhxf9yiBc3K5NsuP) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [코카콜라](https://open.spotify.com/album/7EJT2h3j5oGLrBldzKbPGm) | 2:22 |
-| 85 | [Like That](https://open.spotify.com/track/1Pdr2hd1Dqg1upa0tecMoQ) | [Dasloe](https://open.spotify.com/artist/6Z5WM8PzEbNN9YO4RFSDtu), [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl), [Seon](https://open.spotify.com/artist/1yg8PHX9mX0BYTAiJYjAhV) | [Like That](https://open.spotify.com/album/18Cji3USabsCi2JbErf3Qa) | 2:46 |
+| 85 | [Like That](https://open.spotify.com/track/1Pdr2hd1Dqg1upa0tecMoQ) | [Dasloe](https://open.spotify.com/artist/6Z5WM8PzEbNN9YO4RFSDtu), [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl), [SEON](https://open.spotify.com/artist/6goOnZGxjbe6jdEI9eHT00) | [Like That](https://open.spotify.com/album/18Cji3USabsCi2JbErf3Qa) | 2:46 |
 | 86 | [G.M.M.B \(Give My Money Back\)](https://open.spotify.com/track/7eUUAkyWFXONMZq2NdPEQQ) | [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Aidan Kim](https://open.spotify.com/artist/7MD5reS7KjpTYtODGy67N1) | [G.M.M.B \(Give My Money Back\)](https://open.spotify.com/album/1oSM9kBks2qW81ca17o3Gn) | 2:27 |
 | 87 | [GO MAX](https://open.spotify.com/track/6WEEsETsneU2NFZvOKOLS8) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [GO MAX](https://open.spotify.com/album/2h4E9cCI9uLUkh7SiPnFyS) | 2:18 |
 | 88 | [Burnout party](https://open.spotify.com/track/75Fhk7F7Q1tL60v8Tux889) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Half seventy](https://open.spotify.com/album/3gpbY448U0v9brN6Kz6waj) | 3:58 |

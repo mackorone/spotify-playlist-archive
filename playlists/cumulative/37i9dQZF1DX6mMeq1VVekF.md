@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Chiderah
 
-468 songs - 1 day 0 hr 5 min
+469 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Better with the Devil](https://open.spotify.com/track/5QEnhFijS6JQmXd9DL3n5M) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Better with the Devil](https://open.spotify.com/album/1vaYQ0wD5xjAmLwJOlEh62) | 4:10 | 2022-07-17 | 2022-07-26 |
 | [Big Fat Liar](https://open.spotify.com/track/0zMulZKhUroYHauRqdp9j3) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Big Fat Liar](https://open.spotify.com/album/79Ls4iSOgSuuLoYn0wJmDt) | 2:51 | 2022-10-23 | 2023-05-16 |
 | [Big Machines](https://open.spotify.com/track/40LA6fP3JSv0gumX0MKD34) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Big Machines](https://open.spotify.com/album/4MNwenfk92ftVxxkO8QxoV) | 3:20 | 2022-07-17 | 2022-10-21 |
-| [Black & Tan](https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Black & Tan](https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis) | 2:18 | 2024-10-03 |  |
+| [Black & Tan](https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Black & Tan](https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis) | 2:18 | 2024-10-03 | 2025-03-10 |
 | [black glass](https://open.spotify.com/track/6VjbIp3AeoCO1WNPelECnf) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [southerngothic.](https://open.spotify.com/album/2ZFeiHv9PkRkA0StT9L4We) | 2:23 | 2024-10-03 | 2024-10-18 |
 | [Black on Black](https://open.spotify.com/track/6TL99vn4EAj53RERX836SD) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Black on Black](https://open.spotify.com/album/1lFxOgqkpLWdrKCoepr0wq) | 2:59 | 2022-06-24 | 2022-07-23 |
 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 | 2022-08-22 | 2023-03-10 |
@@ -118,6 +118,7 @@
 | [Dark Days](https://open.spotify.com/track/2CZK0do1yJntY27iBK3PKD) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Worst Generation](https://open.spotify.com/album/3eRX6QYuVXL9jux0bCDdFi) | 3:02 | 2022-07-17 | 2022-11-03 |
 | [Dark Days \(feat\. Kojey Radical\)](https://open.spotify.com/track/5DnO74JMfDrGasa0DWXqyc) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Dark Days \(feat\. Kojey Radical\)](https://open.spotify.com/album/0CuYJriC5GvIxkcjasXBQL) | 3:02 | 2022-06-24 | 2022-07-29 |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2022-06-24 | 2022-07-24 |
+| [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 | 2025-03-07 |  |
 | [Debonair](https://open.spotify.com/track/0nBczYadwDVgmHsLDn3p4o) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 4:20 | 2022-06-24 | 2022-07-29 |
 | [Desert Belly](https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Desert Belly](https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug) | 3:02 | 2024-12-13 |  |
 | [Different](https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a) | [Different](https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2) | 2:33 | 2023-05-15 | 2024-05-03 |

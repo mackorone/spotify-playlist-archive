@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-769 songs - 1 day 21 hr 49 min
+771 songs - 1 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
 | [Activíctima](https://open.spotify.com/track/22mdJjwKLG0LkavrkLEj0H) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [Activíctima](https://open.spotify.com/album/1PX5yQZZZMtKU27Xc7Mc21) | 3:29 | 2021-12-24 | 2022-07-27 |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-12-24 | 2022-03-07 |
+| [AGUA](https://open.spotify.com/track/6JFbsFLjUP6rEL6tQAbpp9) | [Carla Delgado](https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom) | [LOS CINCO ELEMENTOS](https://open.spotify.com/album/4UuLcOxd0miCPzd315KVpL) | 2:58 | 2025-03-07 |  |
 | [Agua](https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA) | [Clara Presta](https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX), [Matias Cella](https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC) | [Las Mareas](https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9) | 3:14 | 2024-08-30 | 2025-01-20 |
 | [Agua Bendita](https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Agua Bendita](https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0) | 2:47 | 2025-02-27 |  |
 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 | 2022-04-01 | 2022-05-28 |
@@ -453,6 +454,7 @@
 | [Miña Rula / Non Teñas Medo](https://open.spotify.com/track/6t5rXtW76GQiCfdR4IWHQW) | [Santi Araújo](https://open.spotify.com/artist/4OhOLgx55siRiNJmSXoAMc), [Leonor Watling](https://open.spotify.com/artist/3Ugtds1yOqfTzTwP9iHFZ3) | [Miña Rula / Non Teñas Medo](https://open.spotify.com/album/68eQTK4Za02Ytl2IJ9qF1w) | 3:32 | 2022-02-04 | 2022-05-27 |
 | [Momentánea](https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Momentánea](https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a) | 4:00 | 2021-12-24 | 2023-02-18 |
 | [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 | 2024-01-19 | 2024-03-08 |
+| [Mujer](https://open.spotify.com/track/08y5JyrixoNYXnZcWcLyaV) | [Pablo Und Destruktion](https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd) | [Mujer](https://open.spotify.com/album/6TaMw9HXmDeMefJDTewDRi) | 1:56 | 2025-03-07 |  |
 | [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 |  |
 | [Muérdeme la vida](https://open.spotify.com/track/37hP2T2zaVHf5ahQP0PGMQ) | [Rocío Ojuelos](https://open.spotify.com/artist/2qw2bM2FOqesfaWJybn7M5) | [Muérdeme la vida](https://open.spotify.com/album/35l8xqCQ8nZaw0SHS8DdBs) | 3:12 | 2024-12-20 | 2025-01-11 |
@@ -508,7 +510,7 @@
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2024-08-03 |
 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
-| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 |  |
+| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 | 2025-03-10 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
@@ -637,7 +639,7 @@
 | [Si llega el fin](https://open.spotify.com/track/1r1oclIVtc9FUiKxy4tX8u) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Si llega el fin](https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck) | 2:18 | 2024-01-05 | 2024-01-27 |
 | [Si me atreviera](https://open.spotify.com/track/4dhwyB7sgHgzGin75SnKgV) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK), [Mäbu](https://open.spotify.com/artist/0HtE1nxmFwJqqE6o3dA591) | [Si me atreviera](https://open.spotify.com/album/42SAr1aoBj4eUlqNaANVYK) | 3:35 | 2024-10-04 | 2024-10-26 |
 | [Si te vas](https://open.spotify.com/track/7z2lbDCKutqY3TT5Oof84E) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Si te vas](https://open.spotify.com/album/6208RozH4lBLu94n6ih083) | 3:03 | 2024-01-12 | 2024-01-20 |
-| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 |  |
+| [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 | 2025-03-10 |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2023-06-23 |  |
 | [Silencio](https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:27 | 2021-12-24 | 2022-05-13 |
 | [Simón](https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Simón](https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD) | 4:58 | 2024-08-30 | 2024-09-15 |

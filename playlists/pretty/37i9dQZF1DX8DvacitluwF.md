@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd?si=TsDkAagBRgq\_ZdeZK0yOqA">Coco Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,553 likes - 68 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,564 likes - 68 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

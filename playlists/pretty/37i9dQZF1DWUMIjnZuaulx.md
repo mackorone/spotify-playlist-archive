@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Yolanda Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,489 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,539 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 17 | [Proverbs 3 \- Live](https://open.spotify.com/track/7fnF0NlZkkPPFJANfOk45V) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Proverbs 3 \(Live\)](https://open.spotify.com/album/3PIsoOqMBxnpppTKRnEXZ0) | 7:36 |
 | 18 | [Live Breathe Fight](https://open.spotify.com/track/2B1mKaseBbCnN99Gl1bOPv) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Live Breathe Fight](https://open.spotify.com/album/1dXJkxzfNm889xH7VTHUOT) | 4:05 |
 | 19 | [Double \- Live](https://open.spotify.com/track/0PxJd6rpPasL8Lhu98EWr1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Double \(Live\)](https://open.spotify.com/album/34WLAUHcSwO8kdWUIuGAFE) | 4:51 |
-| 20 | [Bless Your Name](https://open.spotify.com/track/4zhAYUrK36w69fBpqw5Vwh) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Bless Your Name](https://open.spotify.com/album/4a8KPGCTqnC9q9oVfaJymj) | 7:40 |
+| 20 | [Bless Your Name \- Live](https://open.spotify.com/track/4zhAYUrK36w69fBpqw5Vwh) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Bless Your Name \(Live\)](https://open.spotify.com/album/4a8KPGCTqnC9q9oVfaJymj) | 7:40 |
 | 21 | [Lead Me On \- Live](https://open.spotify.com/track/1BqBJvGZn8G7buagrQfmJP) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 7:41 |
 | 22 | [It's Whatever You Say](https://open.spotify.com/track/1xRIBHf45IrVdSKD2UQq22) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [It's Whatever You Say](https://open.spotify.com/album/2lhovzXQ1rs5MalGJnKndl) | 4:36 |
 | 23 | [Even If Extended Version](https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Even If Extended Version](https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU) | 9:27 |

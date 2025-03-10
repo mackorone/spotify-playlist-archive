@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > \[Festival Dates: May 3\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2025, the largest hip\-hop festival in Korea! \(5월 3일 열리는 한국 최대 규모의 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2025의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,105 likes - 42 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,116 likes - 42 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 9 min
+90 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Extendo](https://open.spotify.com/track/0X441lDZdVgldillcqBvmc) | [Boykii](https://open.spotify.com/artist/3j62Is7UouiuIWT5c3ykmH), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Extendo](https://open.spotify.com/album/6koyn8DQ1i5dJvVb18wjcr) | 2:49 | 2025-01-09 |  |
 | [Eén Foto](https://open.spotify.com/track/0rUSDftSf4fodYCFBTReQM) | [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Nieuwe Kunst](https://open.spotify.com/album/52va1rCOlsCToUUuLOdWb5) | 2:14 | 2024-01-29 |  |
 | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/track/5VsPGOcT3E1SE13DzmEuVa) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Whiteboy](https://open.spotify.com/artist/4SePiClNpVeSglyNsTvmAD), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/album/6I4uvK9tXIaSpWCEqKBhhO) | 3:47 | 2024-01-29 |  |
-| [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-12 |  |
+| [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-12 | 2025-03-10 |
+| [Gaan We Weg?](https://open.spotify.com/track/6MUfSTr5MKTgX9oziFxx8c) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:21 | 2025-03-09 |  |
 | [Go](https://open.spotify.com/track/4nZ1vYEr9rEStuFiLuZuRK) | [RSG](https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Go](https://open.spotify.com/album/7JeuWr4BwSEKfeYV209LYL) | 4:00 | 2025-01-09 |  |
 | [Gone](https://open.spotify.com/track/4SD9rX9fCnWiSrV0e8z2Jt) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1) | [Gone](https://open.spotify.com/album/07x7ouNUiAFvUPiAxvsoTA) | 2:43 | 2024-01-29 |  |
 | [Gouden Lot](https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gouden Lot](https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za) | 2:09 | 2024-11-09 |  |

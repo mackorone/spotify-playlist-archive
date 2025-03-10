@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-558 songs - 23 hr 5 min
+559 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 | 2021-03-15 |  |
 | [Moments](https://open.spotify.com/track/4oNzCgudNshAbYW75dJK5S) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Moments](https://open.spotify.com/album/5cEt0Egy5444h9eHvofAUn) | 2:16 | 2019-05-26\* | 2022-04-20 |
 | [Momma Time](https://open.spotify.com/track/1oT9Ax3RM3yv3zSNAaNQLe) | [Kankick](https://open.spotify.com/artist/1F9XUalYzU3FBioU2EBJro) | [Kan Cassette Vol.1](https://open.spotify.com/album/3yYfMdo5u2OKxiHGmwBXZW) | 2:12 | 2019-05-26\* | 2020-01-14 |
+| [Moon](https://open.spotify.com/track/2XilllM3LNVQPvCrOX749W) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3) | [Scene](https://open.spotify.com/album/6YcPnmN692PwIMCe7RcCor) | 3:12 | 2025-03-06 |  |
 | [More Life](https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [More Life](https://open.spotify.com/album/5dCl9F9geisB78oPu9VDKw) | 2:34 | 2019-08-31 | 2022-11-05 |
 | [Morning Cartoons](https://open.spotify.com/track/0KjQTnwnwBddIkplN5xsU8) | [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98), [Mark Generous](https://open.spotify.com/artist/679N9KYUiZMRnJYts1xDx7) | [Morning Cartoons](https://open.spotify.com/album/2BBagTuzwUy6XWJpIFzufV) | 2:07 | 2020-06-29 | 2022-04-21 |
 | [Mount Fuji](https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY) | 3:01 | 2024-01-25 | 2024-10-05 |
@@ -507,7 +508,7 @@
 | [Tica](https://open.spotify.com/track/0TbP8PMzDHZjf5ocW37yto) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Tica](https://open.spotify.com/album/5jqy8FPbh0CqaprCgCUcMD) | 2:03 | 2020-07-11 | 2021-12-21 |
 | [Time](https://open.spotify.com/track/0wEANUkFdVqV9CkO8vZyjL) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Paradise EP](https://open.spotify.com/album/2zQxEMyfW9qxqGaykkYeSP) | 3:44 | 2020-08-30 | 2021-10-26 |
 | [Time Goes by](https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Time Goes by](https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo) | 1:53 | 2024-09-27 | 2024-10-21 |
-| [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 | 2021-07-22 |  |
+| [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 | 2021-07-22 | 2025-03-10 |
 | [To Be Yours Again](https://open.spotify.com/track/7HKSKQwNv76Bj5mEbOWEau) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [To Be Yours Again](https://open.spotify.com/album/0BdEgweItRwACUH7ILdKSt) | 1:42 | 2020-01-14 | 2021-08-27 |
 | [Tokyo spriff](https://open.spotify.com/track/2azwjU9pUQ0CMvt2PWfz9f) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Tokyo spriff](https://open.spotify.com/album/41KuDs15zdwIW7c5nqkfwO) | 2:47 | 2022-07-14 | 2022-07-29 |
 | [Tokyo spriff](https://open.spotify.com/track/7LpfH63D7PJvPnD69uleVj) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Tokyo spriff](https://open.spotify.com/album/7HDVHww04LgGpTGYFEq9ly) | 2:47 | 2022-07-28 | 2022-11-23 |

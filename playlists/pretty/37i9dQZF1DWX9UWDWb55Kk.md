@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,620 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,578 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 165 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/5zOAudPQIs5U8zP6LQGHmH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MALAMENTE \(Cap.1: Augurio\)](https://open.spotify.com/album/2O7Zu2OPZzqehwh1wiO764) | 2:29 |
 | 166 | [Guantanamera](https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Guantanamera](https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm) | 3:10 |
 | 167 | [Mala Mujer](https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Mala Mujer](https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe) | 3:42 |
-| 168 | [Fiebre \(Prod\. King DouDou\)](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 |
+| 168 | [Fiebre \- Prod\. King DouDou](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 |
 | 169 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
 | 170 | [Outro](https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:07 |
 | 171 | [jewels](https://open.spotify.com/track/5Th0BjYQQ66cvouPY8hCIo) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [fuchsia](https://open.spotify.com/album/3omuwZyKjZKARjOjMPuPlQ) | 3:13 |
@@ -431,7 +431,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 421 | [We the People](https://open.spotify.com/track/3zfM1xD4wnRzk8sgrJEj4z) | [Inüit](https://open.spotify.com/artist/7KFe5HjgvzsDZvgfzEXLVY) | [Action](https://open.spotify.com/album/1BPaCgCz4R17qhAun1nPKZ) | 2:37 |
 | 422 | [Daylight](https://open.spotify.com/track/3qNMVEjrsTtFAEpidSkk3m) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [darkDark](https://open.spotify.com/artist/11GGe7fWhCxU6C8iWoX34E) | [Daylight \(feat\. DarkDark\)](https://open.spotify.com/album/068zO9nJDws90hQFVbQHeD) | 3:35 |
 | 423 | [Bo$$day](https://open.spotify.com/track/5Ffwxh0yiixJq4vb1RIwqs) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/5bJG3i8JuLi4XoXMg7aO5w) | 2:25 |
-| 424 | [Podría Ser Peor \(Remix\)](https://open.spotify.com/track/0V9Iq1SR5YkL7BkKj7TmRg) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Podría Ser Peor \(Remix\)](https://open.spotify.com/album/0AAlqjRFkDhD5kFv8WkN8t) | 4:17 |
+| 424 | [Podría Ser Peor \- Remix](https://open.spotify.com/track/0V9Iq1SR5YkL7BkKj7TmRg) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Podría Ser Peor \(Remix\)](https://open.spotify.com/album/0AAlqjRFkDhD5kFv8WkN8t) | 4:17 |
 | 425 | [Dinamita](https://open.spotify.com/track/4Fe8UM8MCSQa7vE73RPjSG) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Fuego](https://open.spotify.com/album/4tnlfKvZE36lZJhzpMK1ZQ) | 4:37 |
 | 426 | [Dark Souls](https://open.spotify.com/track/5gdgdRHDCARaPoQ0k9br44) | [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX) | [Dark Souls EP](https://open.spotify.com/album/7I7HkWDAGmsNIrDpkH3pAI) | 4:27 |
 | 427 | [I Don't Really Like It](https://open.spotify.com/track/62jyaqGftdibrSlSsf2SEr) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [I Don't Really Like It](https://open.spotify.com/album/5easEKx3wtguPIGDFPNsqz) | 3:48 |

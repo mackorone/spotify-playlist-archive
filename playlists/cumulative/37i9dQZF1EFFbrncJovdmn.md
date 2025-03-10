@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-26 songs - 1 hr 25 min
+27 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Last Cigarette](https://open.spotify.com/track/1N8dCEzqaRqrEC6NryhE5R) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:31 | 2024-06-13 |  |
 | [loverboi](https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/6Bb9cNrQmvFh42jDgFyrJk) | 2:16 | 2024-06-13 |  |
 | [Nowhere Town](https://open.spotify.com/track/7ichJTFzVYIc44JvrC0IhN) | [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Nowhere Town](https://open.spotify.com/album/7K6CM5XQqEgvPVm3aobaUD) | 3:54 | 2024-06-13 |  |
+| [Only Us](https://open.spotify.com/track/3td5p9421OGARlJexBzn4e) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [BASSLOVE \- MORE BASS🔉MORE LOVE♥️](https://open.spotify.com/album/4KSvU2vXKsEz9cr37ifInS) | 2:51 | 2025-03-09 |  |
 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 | 2024-06-15 |  |
 | [Shivers](https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:27 | 2024-06-13 |  |
 | [Shivers \(feat\. FEDUK & SLAVA MARLOW\)](https://open.spotify.com/track/64MeGCH5YppnMj0iNyaXvY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [Shivers \(feat\. FEDUK & SLAVA MARLOW\)](https://open.spotify.com/album/6LRQlyFOrfJoUxJH1oE0kn) | 2:46 | 2024-06-13 |  |

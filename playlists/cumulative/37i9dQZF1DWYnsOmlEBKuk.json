@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Marina Spectrum",
+        "url": "https://open.spotify.com/album/3lJgm6LPUnZ3gTrKqC3CB8"
+      },
+      "artists": [
+        {
+          "name": "Asana Ventus",
+          "url": "https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Marina Spectrum",
+      "url": "https://open.spotify.com/track/0c2MpWGREvtCbThpvgUCuU"
+    },
+    {
+      "album": {
         "name": "Embracing Subsets",
         "url": "https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa"
       },
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 150000,
       "name": "Softening Frequencies Part 1",
       "url": "https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy"

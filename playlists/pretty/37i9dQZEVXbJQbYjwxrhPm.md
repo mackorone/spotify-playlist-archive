@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 838 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Монопол](https://open.spotify.com/track/3AyQkHqh5cENWthtwRL6oS) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Монопол](https://open.spotify.com/album/38Jzp2ZUjd3UkBSy7Vemzn) | 2:40 |
 | 50 | [Dale Baby](https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Dale Baby](https://open.spotify.com/album/60PSUmuJBrGcg2RWXnxlgB) | 2:50 |
 
-Snapshot ID: `L1+t8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2D9GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

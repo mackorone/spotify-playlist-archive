@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,013 likes - 72 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,053 likes - 72 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 2 | [Clair de Lune](https://open.spotify.com/track/7pa1EJv9TrLtrx1ogsGtPL) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Epic](https://open.spotify.com/album/4XpN8C7ulShkadw4dGJuPy) | 11:07 |
 | 3 | [When I Fall in Love \(Arr\. Evans / Transcr\. Trifonov for Piano\)](https://open.spotify.com/track/2lLthkA5PPN11uar9McseV) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Young: When I Fall in Love \(Arr\. Evans / Transcr\. Trifonov for Piano\)](https://open.spotify.com/album/5YCR5u6aiAiVyhiY0Wgn2t) | 2:59 |
 | 4 | [Gnossienne No\. 1](https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 6:56 |
-| 5 | [Tchaikovsky: Nutcracker Suite, Opus 71: Dance of Reed Flutes](https://open.spotify.com/track/2OxmPYsanoipCUTNpZwIpx) | [Jo\-Yu Chen](https://open.spotify.com/artist/0ZB4v1ZDNxI7xhX9AqovZx) | [Tchaikovsky: Nutcracker Suite, Opus 71: Dance of Reed Flutes](https://open.spotify.com/album/5jhZAXBmrXrrS8QghkqXM1) | 4:03 |
+| 5 | [Tchaikovsky The Nutcracker Dance of the Reed Flutes](https://open.spotify.com/track/2OxmPYsanoipCUTNpZwIpx) | [Jo\-Yu Chen](https://open.spotify.com/artist/0ZB4v1ZDNxI7xhX9AqovZx) | [Tchaikovsky The Nutcracker Dance of the Reed Flutes](https://open.spotify.com/album/5jhZAXBmrXrrS8QghkqXM1) | 4:03 |
 | 6 | [Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/2rgufOrTopmbEea9g0UJmR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Félicien Brut](https://open.spotify.com/artist/0eDrryGufj7n7Jou377AGU), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Edouard Macarez](https://open.spotify.com/artist/7uvOmP5c9TEmFoHmmpQ5BH) | [The Paris Album: Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/album/4rPrVoTfSehLZmKYm9NLu8) | 4:36 |
 | 7 | [Jazz Suite: II\. Lyrical Waltz](https://open.spotify.com/track/0WnwSo371dIEB36yjmj30L) | [Alexander Tsfasman](https://open.spotify.com/artist/3atRqsryvDLegi0JAotJHC), [Zlata Chochieva](https://open.spotify.com/artist/17Lk8hvcGG9cqBLZUNHFSj), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1), [Karl\-Heinz Steffens](https://open.spotify.com/artist/6JNtfG8zqLa0I2cKnGl8OF) | [Tsfasman: Lyrical Waltz \(from Jazz Suite\)](https://open.spotify.com/album/54c1xOBccIOW6m8wjNYQWC) | 4:53 |
 | 8 | [Variation 25 \(From J.S\. Bach: Goldberg Variations, BWV 988\)](https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 7:11 |

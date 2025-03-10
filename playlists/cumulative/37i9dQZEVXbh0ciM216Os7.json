@@ -10502,7 +10502,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -18759,6 +18759,28 @@
     },
     {
       "album": {
+        "name": "Heart Around Sleeve",
+        "url": "https://open.spotify.com/album/4Crs7MQtDELSrgW4j47RZH"
+      },
+      "artists": [
+        {
+          "name": "MaJaWick Music",
+          "url": "https://open.spotify.com/artist/3ja66uldzLppPUt3WIHpwg"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134321,
+      "name": "Heart Around Sleeve",
+      "url": "https://open.spotify.com/track/1ApCG0o7wZfa4mUppC3IPj"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },
@@ -20448,7 +20470,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 188341,
       "name": "I Choose Violence (Original)",
       "url": "https://open.spotify.com/track/4zkg8JIpqhWIZLwm2J9aZ1"
@@ -26718,7 +26740,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 79088,
       "name": "lying",
       "url": "https://open.spotify.com/track/7I4Wh2GXOund6TP9VUC8mr"
@@ -41508,7 +41530,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 183370,
       "name": "Take Your Money",
       "url": "https://open.spotify.com/track/7JS4iOjCoBPe4psXkAszwf"
@@ -43050,6 +43072,32 @@
       "duration_ms": 129104,
       "name": "The Grouch - Demo",
       "url": "https://open.spotify.com/track/4eeRBEPxzI07bjK1cWg8sS"
+    },
+    {
+      "album": {
+        "name": "All Bark Single",
+        "url": "https://open.spotify.com/album/1mSx1pcMtO6itMZ3tl7Gid"
+      },
+      "artists": [
+        {
+          "name": "The Incomplete Orchestra",
+          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lost Wisdom",
+          "url": "https://open.spotify.com/artist/5x2kiiCXAsp8CZ7inkRQA1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229697,
+      "name": "The Ice Rain - V2 Tamuz Funk",
+      "url": "https://open.spotify.com/track/3txOFgQFAKPTIGYn9RA6Vn"
     },
     {
       "album": {

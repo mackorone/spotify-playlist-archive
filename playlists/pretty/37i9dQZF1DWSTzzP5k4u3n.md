@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,939 likes - 79 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,937 likes - 79 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
-| 2 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
+| 1 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
+| 2 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
 | 3 | [Kuusamo](https://open.spotify.com/track/4Dj7m0piDFWivE7kFEg4Nx) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Esa Kotilainen](https://open.spotify.com/artist/2fmZJOTP97iGhwlnOicgEc) | [Kuusamo](https://open.spotify.com/album/5DSctkA40sxfSA6QP0I6rU) | 4:54 |
 | 4 | [Miltä tuntuu kun rakastaa](https://open.spotify.com/track/6yqnnLUPiD1HGoBEV34oOS) | [Jore Marjaranta](https://open.spotify.com/artist/7nHSXwq9ZCP2btdSNc40k1) | [Miltä tuntuu kun rakastaa](https://open.spotify.com/album/6UkOXBAe4FAExJnSUBCJQf) | 3:26 |
 | 5 | [Sun täytyy kuulla tää](https://open.spotify.com/track/1AXb63w8n5DvrliGUGvvoD) | [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Sun täytyy kuulla tää](https://open.spotify.com/album/0c8g0cduzuy6QGX0pnuBk0) | 3:39 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 78 | [Vihaa ja rakkautta](https://open.spotify.com/track/796ubEueApvI9WRFBgTkkM) | [Freesi](https://open.spotify.com/artist/4sRObLNOtgx4bdcOmMzwad) | [Vihaa ja rakkautta](https://open.spotify.com/album/4Qz9J3ZUGhN2Dk6hIuLsao) | 3:06 |
 | 79 | [Tää ei hajoo](https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N) | [Indica](https://open.spotify.com/artist/1Nc6H2qbH5SljekjNBTX7m) | [Tää ei hajoo / Kieroja aarioita](https://open.spotify.com/album/6XhSAiVeoGAs8z0j40zIn2) | 3:07 |
 
-Snapshot ID: `Z8obMAAAAABHlj7EtXOfL827MdM7w+Bv`
+Snapshot ID: `Z81zLgAAAACJhtUl7YOwNfMqA0OwipVg`

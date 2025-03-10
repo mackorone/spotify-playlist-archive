@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 88193,
+  "num_followers": 88332,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Build a Bitch",
         "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "21st Century Cool Girl",
         "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 174002,
-      "name": "Living Hell",
-      "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
       },
@@ -487,26 +471,6 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "UNDEFEATED",
-        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        },
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        }
-      ],
-      "duration_ms": 173105,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -543,6 +507,42 @@
       "duration_ms": 213233,
       "name": "Idol",
       "url": "https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 174002,
+      "name": "Living Hell",
+      "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "UNDEFEATED",
+        "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "duration_ms": 173105,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "universe",
+        "url": "https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 186627,
+      "name": "universe",
+      "url": "https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "universe",
-        "url": "https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 186627,
-      "name": "universe",
-      "url": "https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "THE GRATITUDE PROJECT",
-        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "SHOULD I BE OK?",
-      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "THE GRATITUDE PROJECT",
+        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "SHOULD I BE OK?",
+      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Dance Like Nobody's Watching",
+        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225267,
+      "name": "Dance Like Nobody's Watching",
+      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Catch Me In The Air",
         "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Dance Like Nobody's Watching",
-        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225267,
-      "name": "Dance Like Nobody's Watching",
-      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 193396,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Too Many Things",
         "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
       },
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Bad Girls Behave",
-        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 170007,
-      "name": "Bad Girls Behave",
-      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 193396,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "PRIMAL",
         "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 160357,
       "name": "PRIMAL",
       "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Bad Girls Behave",
+        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 170007,
+      "name": "Bad Girls Behave",
+      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Confessions Of A Baddie",
+        "url": "https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ"
+      },
+      "artists": [
+        {
+          "name": "BAER",
+          "url": "https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta"
+        }
+      ],
+      "duration_ms": 145538,
+      "name": "Confessions Of A Baddie",
+      "url": "https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "Am I Human?",
         "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
       },
@@ -1115,6 +1131,22 @@
       "duration_ms": 152829,
       "name": "Am I Human?",
       "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Cellulite",
+        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 190398,
+      "name": "Cellulite",
+      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1151,34 +1183,18 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Confessions Of A Baddie",
-        "url": "https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ"
+        "name": "THAT'S ON YOU!",
+        "url": "https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK"
       },
       "artists": [
         {
-          "name": "BAER",
-          "url": "https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta"
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
         }
       ],
-      "duration_ms": 145538,
-      "name": "Confessions Of A Baddie",
-      "url": "https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Cellulite",
-        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 190398,
-      "name": "Cellulite",
-      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
+      "duration_ms": 159963,
+      "name": "THAT'S ON YOU!",
+      "url": "https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "THAT'S ON YOU!",
-        "url": "https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK"
+        "name": "MADAME",
+        "url": "https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO"
       },
       "artists": [
         {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+          "name": "SYA",
+          "url": "https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl"
         }
       ],
-      "duration_ms": 159963,
-      "name": "THAT'S ON YOU!",
-      "url": "https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel"
+      "duration_ms": 183655,
+      "name": "MADAME",
+      "url": "https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1231,22 +1247,6 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "MADAME",
-        "url": "https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO"
-      },
-      "artists": [
-        {
-          "name": "SYA",
-          "url": "https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl"
-        }
-      ],
-      "duration_ms": 183655,
-      "name": "MADAME",
-      "url": "https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1323,6 +1323,42 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "PrettyGirlBop",
+        "url": "https://open.spotify.com/album/253sTENcjmo16asURVBroB"
+      },
+      "artists": [
+        {
+          "name": "SYA",
+          "url": "https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "duration_ms": 154437,
+      "name": "PrettyGirlBop",
+      "url": "https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Poster Child",
+        "url": "https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe"
+      },
+      "artists": [
+        {
+          "name": "SANJ",
+          "url": "https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "fire sign fuck u",
+      "url": "https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "CATWALK (feat. Rico Nasty) (prod. GOLDBUUDA)",
         "url": "https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq"
       },
@@ -1347,60 +1383,8 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "Poster Child",
-        "url": "https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe"
-      },
-      "artists": [
-        {
-          "name": "SANJ",
-          "url": "https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "fire sign fuck u",
-      "url": "https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215507,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "PrettyGirlBop",
-        "url": "https://open.spotify.com/album/253sTENcjmo16asURVBroB"
-      },
-      "artists": [
-        {
-          "name": "SYA",
-          "url": "https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl"
-        },
-        {
-          "name": "Yung Raja",
-          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
-        }
-      ],
-      "duration_ms": 154437,
-      "name": "PrettyGirlBop",
-      "url": "https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "one last fucc",
-        "url": "https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX"
+        "name": "i deserve better",
+        "url": "https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4"
       },
       "artists": [
         {
@@ -1408,25 +1392,9 @@
           "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
         }
       ],
-      "duration_ms": 234367,
-      "name": "one last fucc",
-      "url": "https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
+      "duration_ms": 206147,
+      "name": "i deserve better",
+      "url": "https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 215507,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "TRIGGER HAPPY",
         "url": "https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU"
       },
@@ -1459,6 +1443,38 @@
       "duration_ms": 219245,
       "name": "TRIGGER HAPPY",
       "url": "https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "one last fucc",
+        "url": "https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX"
+      },
+      "artists": [
+        {
+          "name": "Ka Lia Universe",
+          "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
+        }
+      ],
+      "duration_ms": 234367,
+      "name": "one last fucc",
+      "url": "https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1495,22 +1511,6 @@
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "i deserve better",
-        "url": "https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4"
-      },
-      "artists": [
-        {
-          "name": "Ka Lia Universe",
-          "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
-        }
-      ],
-      "duration_ms": 206147,
-      "name": "i deserve better",
-      "url": "https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX"
     },
     {
       "added_at": "2025-02-14 05:00:32",

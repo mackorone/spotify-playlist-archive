@@ -1377,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "Bring Back The Techno",
+        "url": "https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+        },
+        {
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181117,
+      "name": "Bring Back The Techno",
+      "url": "https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo"
+    },
+    {
+      "album": {
         "name": "Bring It Back To Me",
         "url": "https://open.spotify.com/album/1MFcZzdhLf5W9gxjLhtECA"
       },
@@ -2548,7 +2574,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 183000,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR"

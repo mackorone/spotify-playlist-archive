@@ -4,7 +4,7 @@
 
 > mostly furry
 
-296 songs - 15 hr 3 min
+297 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Puro the Black Goo](https://open.spotify.com/track/2Fcj8MCckSuyqAVrMHWNSQ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:58 | 2024-12-24 |  |
 | [Puro's Home](https://open.spotify.com/track/172R0wRMnR0DDXYO6NNE16) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:53 | 2024-12-24 |  |
 | [Raised by Aliens](https://open.spotify.com/track/5ezyCaoc5XiVdkpRYWeyG5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:05 | 2024-12-07 |  |
+| [Rawr :3](https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi) | [Rawr :3](https://open.spotify.com/album/1Pz50tlzfchpsbVr6SaCf8) | 2:00 | 2025-03-09 |  |
 | [Ready For This](https://open.spotify.com/track/6JyzuWC92biyVZ1l4vUYzi) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Leslie Kritzer](https://open.spotify.com/artist/0VJgvx0e4MTvL1A9o2HKQz), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 3:29 | 2024-05-14 |  |
 | [Ready To Say](https://open.spotify.com/track/67wa7q4eiGHl1u2LZjzMrW) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Ready To Say](https://open.spotify.com/album/6ociTSeBfOGdVOZJZJyFEI) | 4:02 | 2024-07-19 |  |
 | [Respectless](https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR), [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp), [James Monroe Iglehart](https://open.spotify.com/artist/1RHbG28m5gaCOeIgaxEgLb) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 1:35 | 2024-03-08 |  |

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,258 songs - 3 day 14 hr 4 min
+2,259 songs - 3 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1112,7 +1112,7 @@
 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 | 2022-04-15 | 2022-05-13 |
 | [Lo\-fi Radio](https://open.spotify.com/track/65iNa3MLS7bQugeJIaxUUX) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Lo\-fi Radio](https://open.spotify.com/album/26xbX5jZTUU7QsrEN8U16C) | 1:24 | 2022-04-15 | 2022-12-17 |
 | [LOafer](https://open.spotify.com/track/16tHVLOSfc0kAcoYnpb6Ya) | [mät!z](https://open.spotify.com/artist/2tzQ9KVwZiasl9POE4kImZ) | [LOafer](https://open.spotify.com/album/2KWSWzOpSBL8bazf9Ozfh2) | 2:19 | 2022-12-23 | 2023-03-25 |
-| [Loafing About](https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Loafing About](https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi) | 2:48 | 2023-03-08 |  |
+| [Loafing About](https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Loafing About](https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi) | 2:48 | 2023-03-08 | 2025-03-10 |
 | [Lofi Chills](https://open.spotify.com/track/5AIieq46ttlXzCUbbUSlfb) | [Faded Colors](https://open.spotify.com/artist/6mv2rXvtqW9ELifLRCPD3w), [Layers](https://open.spotify.com/artist/7DrYhFJgZejq1tztifxlU6) | [Lofi Chills](https://open.spotify.com/album/1AsxWsJiKbncVKzccKxeHX) | 2:36 | 2022-11-11 | 2023-03-25 |
 | [Lofi Dad Joke Aficionado](https://open.spotify.com/track/5b9pde7o6a43zLwuJQBivT) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Dad Joke Aficionado](https://open.spotify.com/album/5aWY8ART6X9meOmFdBGKhb) | 2:19 | 2022-04-15 | 2022-06-03 |
 | [lofi jam](https://open.spotify.com/track/7HQmkAioOUG8ZxPkfcEw5p) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [lofi jam](https://open.spotify.com/album/6dsQvoFTSMBp7e3rwyzWf6) | 2:19 | 2022-04-15 | 2022-08-19 |
@@ -1724,7 +1724,7 @@
 | [Shelter from the Rain](https://open.spotify.com/track/5mVcNIcuA4AaLSe8ktZadf) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Shelter from the Rain](https://open.spotify.com/album/1Ud55m8IUWsnJ3fDXcNm5f) | 2:15 | 2023-10-20 |  |
 | [sherbert lemon](https://open.spotify.com/track/6oPALt4XihU2L0aT8uuuXT) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [sherbert lemon](https://open.spotify.com/album/3bE3RjpZubC98DPrmOSlco) | 2:15 | 2024-07-26 | 2025-02-12 |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
-| [Shimmer](https://open.spotify.com/track/22wNJY4P4mwQJh0TupVykW) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3) | [Shimmer](https://open.spotify.com/album/52x2AVmjbEPTXxZ3l7jUOr) | 2:21 | 2024-11-29 | 2025-01-22 |
+| [Shimmer](https://open.spotify.com/track/22wNJY4P4mwQJh0TupVykW) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3) | [Shimmer](https://open.spotify.com/album/52x2AVmjbEPTXxZ3l7jUOr) | 2:21 | 2024-11-29 |  |
 | [Shine](https://open.spotify.com/track/2iy5zw1TcG78KODuv9hG1P) | [Ah\. BLOOM](https://open.spotify.com/artist/1WCbF1wd3vJOgwlBy4csXn), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Shine](https://open.spotify.com/album/3TE8nSmg9B4WkCbkJXhHRW) | 3:53 | 2022-12-16 | 2023-09-16 |
 | [Shiny Cement \- Garden](https://open.spotify.com/track/4Z5iuqme7UL1ihly12mbZr) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shiny Cement](https://open.spotify.com/album/5BQNNaVQL1pKqyBZtOFj4E) | 2:20 | 2022-06-17 | 2023-09-29 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 | 2022-12-17 |
@@ -1802,7 +1802,7 @@
 | [Somber](https://open.spotify.com/track/2TDQlamYl8cSi6C5mk2xkp) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Somber](https://open.spotify.com/album/7IMkSebRnzJSYaiSYhPVmi) | 2:42 | 2025-01-24 |  |
 | [Someday](https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Someday](https://open.spotify.com/album/2hSAOh15pAteCBD9wP2vOB) | 2:03 | 2022-12-16 | 2024-02-02 |
 | [something in the distance](https://open.spotify.com/track/5Fvh9jmdW7SMEuUzEHhMkJ) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [something in the distance](https://open.spotify.com/album/125elJh3sxp3XPmxSLVK0y) | 2:46 | 2025-02-27 |  |
-| [Something Shines](https://open.spotify.com/track/6m7m9bv8WjlW4I0OlLpLTD) | [Drogra](https://open.spotify.com/artist/46C1yy45Hsu5NlD7QnNFri) | [Something Shines](https://open.spotify.com/album/1ecZUb3TFQ2Egx0TeQmLsA) | 2:15 | 2024-02-02 |  |
+| [Something Shines](https://open.spotify.com/track/6m7m9bv8WjlW4I0OlLpLTD) | [Drogra](https://open.spotify.com/artist/46C1yy45Hsu5NlD7QnNFri) | [Something Shines](https://open.spotify.com/album/1ecZUb3TFQ2Egx0TeQmLsA) | 2:15 | 2024-02-02 | 2025-03-10 |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2022-04-15 | 2024-05-14 |
 | [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2022-10-01 | 2025-01-01 |
 | [somewhat breezy](https://open.spotify.com/track/3UbbHzb70XtG3ozVzNXR6v) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [somewhat breezy](https://open.spotify.com/album/4YzDP6DkHpOEmRIRajmHQU) | 2:02 | 2022-04-15 | 2022-10-29 |
@@ -2140,6 +2140,7 @@
 | [vintage landscapes](https://open.spotify.com/track/2uLsD4apV6zjuY2ekztXlp) | [metabolar](https://open.spotify.com/artist/1AnyVsimkm8D6kViojzN9i) | [vintage landscapes](https://open.spotify.com/album/66ixXEar501O1uSaRDr5QW) | 1:40 | 2022-04-15 | 2022-09-17 |
 | [Vintage Melodies](https://open.spotify.com/track/3PAadp1onddvYcedG4iTeB) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Nostalgic Nites](https://open.spotify.com/album/6Uw7UIoOaYZ5wfr5VF72WP) | 2:03 | 2023-02-21 | 2023-09-29 |
 | [Violet](https://open.spotify.com/track/5ef8IbRrcVziFxriCF1q3o) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Violet](https://open.spotify.com/album/56ja5PFmZotIYyyq2dt4dC) | 2:44 | 2022-07-08 | 2023-03-09 |
+| [violett](https://open.spotify.com/track/6Gpsp7BIZaXuMua2uoozYM) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [violett](https://open.spotify.com/album/0oVauZ9v5kgCLQJSfqreUP) | 2:40 | 2025-03-07 |  |
 | [Virtue](https://open.spotify.com/track/2bcwdq26TGOyEFRINRbvg5) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Virtue](https://open.spotify.com/album/0HO2Dv3ukrUlTl46T7Gc7e) | 2:41 | 2022-11-18 | 2023-09-16 |
 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 | 2022-11-25 |  |
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2022-05-27 | 2024-05-14 |

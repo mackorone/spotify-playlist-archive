@@ -1,6 +1,6 @@
 {
   "description": "go back in time and (re) discover these gems.",
-  "num_followers": 3722,
+  "num_followers": 3754,
   "original_name": "joyitas vintage",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-11-08 19:34:18",
       "album": {
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 258959,
+      "name": "Se Que Ya No Volver\u00e1s",
+      "url": "https://open.spotify.com/track/3FHQWc6FgVTNJAmdqo268D"
+    },
+    {
+      "added_at": "2024-11-08 19:34:18",
+      "album": {
         "name": "3980",
         "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 225440,
       "name": "Como Has Logrado",
       "url": "https://open.spotify.com/track/3Sj5hFcruCnVzOUQCO0SG5"
-    },
-    {
-      "added_at": "2024-11-08 19:34:18",
-      "album": {
-        "name": "Luna Nueva",
-        "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 258959,
-      "name": "Se Que Ya No Volver\u00e1s",
-      "url": "https://open.spotify.com/track/3FHQWc6FgVTNJAmdqo268D"
     },
     {
       "added_at": "2024-11-08 19:34:18",

@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 7959,
+  "num_followers": 7963,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8o3AAAAAADWhBdfc0L/vDRQQgdPhdaJ",
+  "snapshot_id": "Z8uIgAAAAABPv+xieuuEVw6A+f+Kqogv",
   "tracks": [
     {
       "added_at": null,
@@ -699,34 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
+        "name": "Queen Chavosa (Remix)",
+        "url": "https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "DJ LOBA BOSS",
+          "url": "https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV"
         },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 246965,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
+      "duration_ms": 101090,
+      "name": "Queen Chavosa - Remix",
+      "url": "https://open.spotify.com/track/2898k850lyu9U35V7zzSDY"
     },
     {
       "added_at": null,
@@ -771,22 +759,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Chavosa (Remix)",
-        "url": "https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
       "artists": [
         {
-          "name": "DJ LOBA BOSS",
-          "url": "https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 101090,
-      "name": "Queen Chavosa - Remix",
-      "url": "https://open.spotify.com/track/2898k850lyu9U35V7zzSDY"
+      "duration_ms": 246965,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     },
     {
       "added_at": null,

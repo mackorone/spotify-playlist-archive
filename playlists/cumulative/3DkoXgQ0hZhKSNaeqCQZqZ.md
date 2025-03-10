@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-322 songs - 17 hr 0 min
+323 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [GOTH BITCH DUB \- 5p4M Remix](https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG), [5p4M](https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf) | [GOTH BITCH DUB: DARK MODE ACTIVATED](https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN) | 3:03 | 2025-01-27 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 |  |
+| [HEAVENSENT!](https://open.spotify.com/track/6uen3LTLbdTnRtge8fA3pv) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [POM\-POM GUILLOTINE](https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ) | 3:16 | 2025-03-10 |  |
 | [High Sky \- Remix](https://open.spotify.com/track/0rziGzCavNZsDVJl222JSb) | [Retri](https://open.spotify.com/artist/47aYUNg7lhL9arG8W8PSBW), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [High Sky \(Remix\)](https://open.spotify.com/album/3WfUus5Fo8QWjV3FwGYOtF) | 4:00 | 2024-02-09 |  |
 | [Hockey](https://open.spotify.com/track/6b39sywjsmS8Zo7g4PMQeM) | [Clarence Kelly](https://open.spotify.com/artist/63ecaIQEQ1kWQbi6ZKVYiB) | [Hockey](https://open.spotify.com/album/6rJcckvCabsY3tXwAyDL4w) | 4:17 | 2025-01-25 |  |
 | [how it feels to fly](https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP) | [Sarajevo Noise Beat](https://open.spotify.com/artist/5Cw1pwfT5W9pvGyO30ojCf), [What The PUP!](https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9), [lillybug](https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U) | [how it feels to fly](https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD) | 4:29 | 2024-11-18 |  |
@@ -177,7 +178,7 @@
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 |  |
 | [memories i can't replace](https://open.spotify.com/track/30Rb5WwyJESVTg0GwA7FQ0) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [memories i can't replace](https://open.spotify.com/album/7yQiKXTTXJyVIgfTfIr1QY) | 2:26 | 2024-08-15 |  |
 | [Memory Merge](https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Memory Merge](https://open.spotify.com/album/10TkVdtVrvg5Pcm4jsnRPg) | 4:32 | 2024-05-20 |  |
-| [Minimal Spaces](https://open.spotify.com/track/5JYguXWKAtNXM1OnmsAFs4) | [Zunkz](https://open.spotify.com/artist/0UOXglBL2dBoKtIH5Uk1KB), [Outflown](https://open.spotify.com/artist/0Pu0kj6pZZpESARwTn60I7) | [Minimal Spaces](https://open.spotify.com/album/0Sd8oItMgiNIn83XEWn9Vi) | 2:08 | 2024-05-08 |  |
+| [Minimal Spaces](https://open.spotify.com/track/5JYguXWKAtNXM1OnmsAFs4) | [Zunkz](https://open.spotify.com/artist/0UOXglBL2dBoKtIH5Uk1KB) | [Minimal Spaces](https://open.spotify.com/album/0Sd8oItMgiNIn83XEWn9Vi) | 2:08 | 2024-05-08 |  |
 | [Mint Chewing Gum, etc](https://open.spotify.com/track/0jEhzWUdib0oA0lMSkNRCB) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [The Circus Egotistica or, How I Spent Most of my Life as a Lost Cause](https://open.spotify.com/album/4pdMwzzJhyhv2LkGitCEj3) | 3:44 | 2024-11-18 |  |
 | [Misfortune \(Undertale AU: TS!Underswap\)](https://open.spotify.com/track/59PQDgTc2Jn64MD2MrJudE) | [PorkNDogs](https://open.spotify.com/artist/4WgYTdWcbBE7XssWdkRIBJ), [Saster](https://open.spotify.com/artist/2wh9IsIFT6RYQWGS0yzo5S) | [PorkNDogs' Undertale Classics, Vol\. 6](https://open.spotify.com/album/2XOYV5KqYLHqbymAts5OmM) | 3:04 | 2023-11-17 |  |
 | [money](https://open.spotify.com/track/4wpwvztn5KxYhD9qDg1hxH) | [kendall :3](https://open.spotify.com/artist/2hiVR9qgIJowlO17AE5mhY) | [swallow](https://open.spotify.com/album/3AlQ6zOxf5VhlJZNlVcC40) | 4:57 | 2024-08-15 |  |

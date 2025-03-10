@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd & Omar Apollo
 
-2,060 songs - 4 day 13 hr 4 min
+2,061 songs - 4 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,7 @@
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 |  |
 | [Effortless](https://open.spotify.com/track/1kERj1mdR9X6ZkCGsbIwYc) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Effortless](https://open.spotify.com/album/32En4ZcvsHfgeQh26fX9wn) | 2:41 | 2020-10-13\* | 2020-10-23 |
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2021-02-10 | 2021-10-12 |
-| [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 |  |
+| [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 | 2025-03-10 |
 | [elephant in the room \(feat\. gnash\)](https://open.spotify.com/track/56HNSLs2MTdyEG5wmFmrmq) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [elephant in the room \(feat\. gnash\)](https://open.spotify.com/album/6Y1FI0cFIx4YThAYC5D8CW) | 2:39 | 2020-10-13\* | 2021-03-02 |
 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 | 2022-10-21 | 2022-12-07 |
 | [Emilee](https://open.spotify.com/track/0iOEtxh9XIYfgxd2b1EHaH) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Emilee: Act I](https://open.spotify.com/album/3dzdsmQ1JI6V2nUF6hKbv8) | 1:30 | 2022-06-24 | 2022-08-06 |
@@ -961,6 +961,7 @@
 | [In My Head](https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Closure & Campari: After Hours](https://open.spotify.com/album/5dkGwwTDSKTiAq8Qp4yWn8) | 2:36 | 2022-04-01 | 2022-04-13 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-06-03 | 2021-10-14 |
 | [In Or In\-Between \(Remix\)](https://open.spotify.com/track/6dGPZFOXEAtTeTt98g8Qgn) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [In Or In\-Between \(Remix\)](https://open.spotify.com/album/7q6NYmqtJPUX8oQmbePCmY) | 3:08 | 2023-04-05 | 2023-04-22 |
+| [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 | 2025-03-07 |  |
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-10 | 2022-05-21 |
 | [In Time](https://open.spotify.com/track/2fFfZSl0faCTDNXZ2Lo2KE) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Sleeping In](https://open.spotify.com/album/3NusJrwTXCCW7UnV0IxSwV) | 3:46 | 2022-04-08 | 2022-07-19 |
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-02-25 | 2022-04-21 |

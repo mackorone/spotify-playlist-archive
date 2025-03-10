@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-210 songs - 14 hr 50 min
+211 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 | 2025-02-14 |  |
 | [Don't Give Up \(On Love\) \- Radio Edit](https://open.spotify.com/track/510dajaNLOHBE2F8ozAdzn) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Don't Give Up \(On Love\) \[Radio Edit\]](https://open.spotify.com/album/0RPdEPXWKThpkqBvyTAkDR) | 3:07 | 2020-11-06 | 2022-07-29 |
 | [Don't Go \- Dusky Remix](https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Ghettos & Gardens Remixes](https://open.spotify.com/album/6nvWsEug3D5U126QJWnu1k) | 6:30 | 2020-11-06 | 2022-07-29 |
-| [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2024-01-26 |  |
+| [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2024-01-26 | 2025-03-10 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2020-11-06 | 2024-04-05 |
 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 | 2024-01-18 |
 | [Finder \- Original](https://open.spotify.com/track/2urGLvUk2UxfGZ7oFxQmuN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/1ubRC7bEVKoI7sD5mqXrFs) | 5:49 | 2020-11-06 | 2022-07-29 |
@@ -83,6 +83,7 @@
 | [Hey Hey](https://open.spotify.com/track/2NaRHscQkcVbro7Ys4FP2k) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 3:09 | 2024-01-17 | 2024-04-19 |
 | [Hey Hey](https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey](https://open.spotify.com/album/4WOHS9vWb4Mu1bjNobDHmO) | 3:10 | 2020-11-06 | 2025-02-14 |
 | [Higher Level \- Bicep Remix](https://open.spotify.com/track/4FtjMbx5rC3fUqcBJXhu1G) | [Isaac Tichauer](https://open.spotify.com/artist/3yKDEsiOdoYMIuopxLMDu6), [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Street Lessons Remixes EP](https://open.spotify.com/album/1pqlFMVY8tYDfE3TYHwegS) | 6:04 | 2020-11-06 | 2022-07-29 |
+| [Hooked on You](https://open.spotify.com/track/0washXlWqFEj5oCjNWwA2E) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hooked](https://open.spotify.com/album/2xS5Vj4er6u3W6aCBnq2iN) | 6:23 | 2025-02-14 |  |
 | [House & Pressure](https://open.spotify.com/track/3W2bm5HR9tnS4ENFNJJ4XF) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [House & Pressure](https://open.spotify.com/album/5f36IdWpaugA1uQ5Yr6Zxu) | 2:28 | 2020-11-06 | 2023-11-05 |
 | [House & Pressure](https://open.spotify.com/track/4BG03MHYQwuWENZ31vFlsV) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [House & Pressure](https://open.spotify.com/album/1KRUeWNgOQvxzJDTT9MApz) | 2:28 | 2020-11-06 | 2024-04-19 |
 | [Hungry For The Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/6ZiPqZL5U2htruNEYflsYB) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Azari & III](https://open.spotify.com/album/7vd55snhAOrAXNsqxBqX1T) | 6:46 | 2020-11-06 | 2025-02-14 |

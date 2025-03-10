@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "HIVER AUTOMNE",
+        "url": "https://open.spotify.com/album/3zcwS8dRR30sgEmjqYNv9z"
+      },
+      "artists": [
+        {
+          "name": "Souffrance",
+          "url": "https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182384,
+      "name": "HIVER AUTOMNE",
+      "url": "https://open.spotify.com/track/77tMzKJzSlUnRuxuLw9gPm"
+    },
+    {
+      "album": {
         "name": "H\u00f4tel",
         "url": "https://open.spotify.com/album/3ooBULlHTXEEoQfXylxpKT"
       },

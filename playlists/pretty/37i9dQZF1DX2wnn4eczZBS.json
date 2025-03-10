@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Joost & Spinvis",
-  "num_followers": 9957,
+  "num_followers": 9956,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "voor alles bang / h-e-l-p",
-        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 187408,
-      "name": "h-e-l-p",
-      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
         "name": "TWIJFELS",
         "url": "https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 165937,
       "name": "Verlaten Terrein",
       "url": "https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "voor alles bang / h-e-l-p",
+        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 187408,
+      "name": "h-e-l-p",
+      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "kleine auto, grote hot wheel",
-        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
-      },
-      "artists": [
-        {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "dichtbij, veraf",
-      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
         "name": "Koortsdroom",
         "url": "https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 156406,
       "name": "Koortsdroom",
       "url": "https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "kleine auto, grote hot wheel",
+        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "dichtbij, veraf",
+      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "Spijbelaar",
-        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 216582,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
         "name": "Naamloze Liefde",
         "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
       },
@@ -659,6 +643,54 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
+        "name": "Spijbelaar",
+        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 216582,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "Het Vliegt Voorbij",
+        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 163261,
+      "name": "Het Vliegt Voorbij",
+      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "Ik Weet Het",
+        "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "duration_ms": 241833,
+      "name": "Ik Weet Het",
+      "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
         "name": "Te Echt",
         "url": "https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW"
       },
@@ -679,18 +711,18 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "Ik Weet Het",
-        "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
+        "name": "Meester Van Niks",
+        "url": "https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU"
       },
       "artists": [
         {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
         }
       ],
-      "duration_ms": 241833,
-      "name": "Ik Weet Het",
-      "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
+      "duration_ms": 136298,
+      "name": "Steeds Weer",
+      "url": "https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -787,38 +819,6 @@
       "duration_ms": 219357,
       "name": "Dag en Nacht",
       "url": "https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
-        "name": "Het Vliegt Voorbij",
-        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 163261,
-      "name": "Het Vliegt Voorbij",
-      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
-        "name": "Blijven",
-        "url": "https://open.spotify.com/album/6K1aa83670KggQuqWy1Mrn"
-      },
-      "artists": [
-        {
-          "name": "monokimono",
-          "url": "https://open.spotify.com/artist/4DXrrpP0iZv5KlcnZvYawZ"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "Blijven",
-      "url": "https://open.spotify.com/track/3iKkOyOmhhavRA3v4Rzy7O"
     }
   ],
   "unique_name": "indiepuntnl",

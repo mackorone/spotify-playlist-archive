@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 
 > De  genomineerden Edisons Pop 2025: Pop, Song, Album, Nederlandstalig, Hollands, Dance, Rock, Alternative, Hiphop, Soul/R&B/Funk en Nieuwkomer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,567 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,601 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

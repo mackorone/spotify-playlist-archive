@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Azevedo",
-  "num_followers": 132666,
+  "num_followers": 132677,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
-        "name": "Ritmia Do Funk",
-        "url": "https://open.spotify.com/album/2jQ136UkTZyOI0TJT9q45E"
-      },
-      "artists": [
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Trap Select",
-          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Ritmia Do Funk",
-      "url": "https://open.spotify.com/track/4VHy9SlOGYP91atYIidFQl"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 177877,
       "name": "Dose de Gin",
       "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
+        "name": "Ritmia Do Funk",
+        "url": "https://open.spotify.com/album/2jQ136UkTZyOI0TJT9q45E"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Ritmia Do Funk",
+      "url": "https://open.spotify.com/track/4VHy9SlOGYP91atYIidFQl"
     },
     {
       "added_at": "2025-03-07 03:01:21",
@@ -475,6 +475,74 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
+        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 208241,
+      "name": "Novos Ricos - Ao Vivo",
+      "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
+        "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        }
+      ],
+      "duration_ms": 152408,
+      "name": "Bloquinho",
+      "url": "https://open.spotify.com/track/1FLFQBah9xsUn13FtYkBLM"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "RANDANDAN",
+      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
         "name": "Assault (Carro Bicho)",
         "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
       },
@@ -523,74 +591,6 @@
       "duration_ms": 409846,
       "name": "Assault (Carro Bicho)",
       "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "RANDANDAN",
-      "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
-        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 208241,
-      "name": "Novos Ricos - Ao Vivo",
-      "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
-        "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
-        "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        }
-      ],
-      "duration_ms": 152408,
-      "name": "Bloquinho",
-      "url": "https://open.spotify.com/track/1FLFQBah9xsUn13FtYkBLM"
     },
     {
       "added_at": "2025-03-07 03:01:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
+        "name": "Burberry London",
+        "url": "https://open.spotify.com/album/6Dn168fSwR834tcj6iXBoT"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 140824,
+      "name": "Burberry London",
+      "url": "https://open.spotify.com/track/4HvoQDsHcDbM0zdlKGTRcD"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
         "name": "PABLO",
         "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
       },
@@ -763,24 +779,8 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
-        "name": "Burberry London",
-        "url": "https://open.spotify.com/album/6Dn168fSwR834tcj6iXBoT"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 140824,
-      "name": "Burberry London",
-      "url": "https://open.spotify.com/track/4HvoQDsHcDbM0zdlKGTRcD"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
-        "name": "OTAFITA",
-        "url": "https://open.spotify.com/album/5G5V9ggklYsLSVfg4bfVnT"
+        "name": "DPP",
+        "url": "https://open.spotify.com/album/36YP6TxFyh8MUyBPSwHzWn"
       },
       "artists": [
         {
@@ -788,21 +788,45 @@
           "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Jg\u00ea",
-          "url": "https://open.spotify.com/artist/5AVOd85ksSiI2QULxv0gM2"
+          "name": "sONTH",
+          "url": "https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9"
         },
         {
           "name": "Agostinhx",
           "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         }
       ],
-      "duration_ms": 202926,
-      "name": "PLACO",
-      "url": "https://open.spotify.com/track/3klLSvaW7alyLWJyhcthga"
+      "duration_ms": 151181,
+      "name": "DPP",
+      "url": "https://open.spotify.com/track/1BurY5wAAoV1vly4LHeW8Q"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
     },
     {
       "added_at": "2025-03-07 03:01:21",
@@ -879,30 +903,6 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pra Se Entorpecer",
-      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
         "name": "Pr\u00f3ximo Milion\u00e1rio",
         "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
       },
@@ -943,34 +943,6 @@
       "duration_ms": 160000,
       "name": "Date",
       "url": "https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
-        "name": "DPP",
-        "url": "https://open.spotify.com/album/36YP6TxFyh8MUyBPSwHzWn"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "sONTH",
-          "url": "https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9"
-        },
-        {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        }
-      ],
-      "duration_ms": 151181,
-      "name": "DPP",
-      "url": "https://open.spotify.com/track/1BurY5wAAoV1vly4LHeW8Q"
     },
     {
       "added_at": "2025-03-07 03:01:21",
@@ -1031,6 +1003,34 @@
       "duration_ms": 108648,
       "name": "BAGD\u00c1",
       "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
+        "name": "OTAFITA",
+        "url": "https://open.spotify.com/album/5G5V9ggklYsLSVfg4bfVnT"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Jg\u00ea",
+          "url": "https://open.spotify.com/artist/5AVOd85ksSiI2QULxv0gM2"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "PLACO",
+      "url": "https://open.spotify.com/track/3klLSvaW7alyLWJyhcthga"
     },
     {
       "added_at": "2025-03-07 03:01:21",

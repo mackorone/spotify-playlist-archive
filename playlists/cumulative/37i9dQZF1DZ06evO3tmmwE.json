@@ -239,6 +239,36 @@
     },
     {
       "album": {
+        "name": "Bo Bundy On A Dirt Road",
+        "url": "https://open.spotify.com/album/4b0ycCQXMVbdCbWKQXI2xR"
+      },
+      "artists": [
+        {
+          "name": "TheWaterBoyz710",
+          "url": "https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "BeatZoff",
+          "url": "https://open.spotify.com/artist/4iRztXXKqHE0Dz031YFkD1"
+        },
+        {
+          "name": "Country BoyZ 710",
+          "url": "https://open.spotify.com/artist/4MduDZb0JOHTWQRAhE3AWT"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bo Bundy On A Dirt Road",
+      "url": "https://open.spotify.com/track/5pWflj63E3oq6BCIl8QJ2P"
+    },
+    {
+      "album": {
         "name": "Nino de Oro",
         "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },

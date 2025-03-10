@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 BURNART FESTIVAL 2월 1일\(토\) 18:20 @ 킨텍스 1전시장 5홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,562 likes - 19 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,569 likes - 19 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

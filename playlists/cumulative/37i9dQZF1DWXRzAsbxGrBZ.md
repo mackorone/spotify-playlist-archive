@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-239 songs - 1 day 3 hr 29 min
+240 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 | 2024-10-31 | 2025-03-08 |
 | [For You \- Radio Edit](https://open.spotify.com/track/4GXU7T8VbLPMPB1vSmDqfV) | [Sir LSG](https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5) | [For You](https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU) | 4:49 | 2024-04-25 |  |
 | [For You \- Vocal Mix](https://open.spotify.com/track/2TLoBukozkvOYSXE4bOwUH) | [Sir LSG](https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5) | [For You](https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU) | 8:00 | 2025-02-21 |  |
-| [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 | 2024-05-16 |  |
+| [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 | 2024-05-16 | 2025-03-10 |
 | [Forever \- TekniQ Soulful Mix](https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Forever \(TekniQ Remixes\)](https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3) | 5:55 | 2022-09-14 | 2023-03-18 |
 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 | 2022-09-14 | 2024-04-26 |
 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 | 2024-01-10 |
@@ -146,6 +146,7 @@
 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 | 2024-05-16 | 2025-02-22 |
 | [NDOD'EMNYAMA \(feat\. Fatso 98\) \- Fatso 98 Remix](https://open.spotify.com/track/6U1SCG7HN3KaRXH8sDUn0q) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [THE XO EFFECT 2](https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt) | 7:51 | 2025-02-21 | 2025-02-28 |
 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 | 2022-09-14 | 2022-12-14 |
+| [Need You.](https://open.spotify.com/track/6h4TuK1fhkm3RqGMjAeZan) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG), [SpheraQ](https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE) | [Over Loved](https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf) | 7:15 | 2025-03-07 |  |
 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 | 2024-04-24 |
 | [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 | 2024-02-15 | 2025-02-22 |
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 | 2024-04-26 |

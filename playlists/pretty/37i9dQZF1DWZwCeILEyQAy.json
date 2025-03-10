@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Megan Thee Stallion",
-  "num_followers": 484682,
+  "num_followers": 484663,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-03-07 05:00:44",
       "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Blick Sum",
-      "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
-    },
-    {
-      "added_at": "2025-03-07 05:00:44",
-      "album": {
         "name": "Somethin' (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2025-03-07 05:00:44",
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "She's Back",
+      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+    },
+    {
+      "added_at": "2025-03-07 05:00:44",
+      "album": {
         "name": "Nichel",
         "url": "https://open.spotify.com/album/5HJQHHweJzPtgOAd1WwgnC"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 237170,
       "name": "Nichel",
       "url": "https://open.spotify.com/track/1mxIgI68I1bvfMUyQPH6o9"
+    },
+    {
+      "added_at": "2025-03-07 05:00:44",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Blick Sum",
+      "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
     },
     {
       "added_at": "2025-03-07 05:00:44",
@@ -587,22 +603,6 @@
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
-    },
-    {
-      "added_at": "2025-03-07 05:00:44",
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "She's Back",
-      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
     },
     {
       "added_at": "2025-03-07 05:00:44",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-03-07 05:00:44",
       "album": {
-        "name": "Come Here (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 194875,
-      "name": "Come Here (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
-    },
-    {
-      "added_at": "2025-03-07 05:00:44",
-      "album": {
         "name": "Tomioka (with Flo Milli) [Remix]",
         "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2025-03-07 05:00:44",
       "album": {
+        "name": "Come Here (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 194875,
+      "name": "Come Here (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
+    },
+    {
+      "added_at": "2025-03-07 05:00:44",
+      "album": {
         "name": "Kash Kommandments",
         "url": "https://open.spotify.com/album/3Jl8CMpyyGtUPAoT0XPplY"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 209261,
       "name": "Kash Kommandments",
       "url": "https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH"
-    },
-    {
-      "added_at": "2025-03-07 05:00:44",
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "No Bih",
-      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": "2025-03-07 05:00:44",
@@ -887,18 +871,18 @@
     {
       "added_at": "2025-03-07 05:00:44",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 143783,
-      "name": "Figueroa",
-      "url": "https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E"
+      "duration_ms": 179200,
+      "name": "No Bih",
+      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": "2025-03-07 05:00:44",
@@ -923,34 +907,38 @@
     {
       "added_at": "2025-03-07 05:00:44",
       "album": {
-        "name": "TAKE 25",
-        "url": "https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
-          "name": "CUZZOS",
-          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
-        },
-        {
-          "name": "Teaawhy",
-          "url": "https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt"
-        },
-        {
-          "name": "Milly Mo",
-          "url": "https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u"
-        },
-        {
-          "name": "Jasscole",
-          "url": "https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6"
-        },
-        {
-          "name": "BB",
-          "url": "https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 161783,
-      "name": "GOOCHIE MAYNE",
-      "url": "https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76"
+      "duration_ms": 143783,
+      "name": "Figueroa",
+      "url": "https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E"
+    },
+    {
+      "added_at": "2025-03-07 05:00:44",
+      "album": {
+        "name": "Get In There (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 195005,
+      "name": "Get In There (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
     }
   ],
   "unique_name": "Pressure",

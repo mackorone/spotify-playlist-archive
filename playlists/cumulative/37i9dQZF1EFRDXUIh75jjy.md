@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-227 songs - 11 hr 43 min
+228 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,9 @@
 | [Daydream](https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5PU9JkMbxGEtcspgUcgVwj) | 2:47 | 2024-06-07 |  |
 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 | 2024-06-07 |  |
 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 | 2024-06-07 |  |
-| [Death Grip](https://open.spotify.com/track/3yI8gK4M1SUNn7ePXbUK5x) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Death Grip](https://open.spotify.com/album/1aHe3DgFL7WILUw9n1CRFY) | 3:08 | 2025-02-06 |  |
+| [Death Grip](https://open.spotify.com/track/3yI8gK4M1SUNn7ePXbUK5x) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Death Grip](https://open.spotify.com/album/1aHe3DgFL7WILUw9n1CRFY) | 3:08 | 2025-02-06 | 2025-03-10 |
 | [Death Grip](https://open.spotify.com/track/5jOCZRdWItMJKacbZolEJF) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Death Grip](https://open.spotify.com/album/42mJsxvnDKCV4eMDBxDcpR) | 3:08 | 2024-10-08 | 2025-02-07 |
+| [Death Grip](https://open.spotify.com/track/6bA83ldB28Xl1CLnTYVpq8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Could’ve Been Anyone](https://open.spotify.com/album/7Btm2MR9ygjv2oTyBJ3Mzi) | 3:08 | 2025-03-09 |  |
 | [Different for Us](https://open.spotify.com/track/4iDtwZRmjyXMSnmWr5U1O6) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Jordan Powers](https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:05 | 2024-06-07 |  |
 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 | 2024-06-07 |  |
 | [Don't Hurt \(feat\. Brezy\)](https://open.spotify.com/track/0dfy8LYDzGRC2TMMde0vex) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Brezy](https://open.spotify.com/artist/13NUtXm6qqGiPcRRBNdZsq) | [Don't Hurt \(feat\. Brezy\)](https://open.spotify.com/album/2D2QBvtnhYh8z3cOlKfvwZ) | 3:35 | 2024-06-07 |  |

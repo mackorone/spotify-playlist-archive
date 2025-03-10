@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,747 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,737 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 91 | [Sounds of Dark](https://open.spotify.com/track/5aidg7HWe4shHPEqbSWbbs) | [Dark Dark Night](https://open.spotify.com/artist/2pfCaY4iv4rCELaEJrAPao) | [Scary Moments](https://open.spotify.com/album/3SYaFklowfZf9pRD1PI39O) | 3:03 |
 | 92 | [A Grave Matter \- Sound Effect](https://open.spotify.com/track/2dqn4lT3s7674n0O0FGIK9) | [Walt Disney Sound Effects Group](https://open.spotify.com/artist/3BjToroiHzQkT1yR087GRl) | [Mickey's Monster Bash](https://open.spotify.com/album/0dcoxFgMPKe0WWgmoBLGaG) | 2:12 |
 | 93 | [Devil's Cauldron](https://open.spotify.com/track/62mrbUVRK0Ony4xII2rPUD) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:16 |
-| 94 | [In the Basement](https://open.spotify.com/track/2M9XfHIsEYZg3DsZxYFBlm) | [Monster Mash Halloween](https://open.spotify.com/artist/6B9xxpfiI7PGAnnDk59dwS), [Spooky Sounds For Halloween](https://open.spotify.com/artist/5aFslAdRaWoMHgTVZe6t00), [Scary Halloween Music](https://open.spotify.com/artist/6Y6fszlaYrTWIbaxQtdsGO) | [\#1 Ominous Sounds to Give You Chills](https://open.spotify.com/album/5meKG4MgP3CpXubX2weGx6) | 2:00 |
+| 94 | [In the Basement](https://open.spotify.com/track/2M9XfHIsEYZg3DsZxYFBlm) | [Solis Reverie](https://open.spotify.com/artist/5HuBzRd3f2vV1gResOL6SQ) | [Spellbound Slumbering Haven](https://open.spotify.com/album/5meKG4MgP3CpXubX2weGx6) | 2:00 |
 | 95 | [Goblins](https://open.spotify.com/track/2uXM5ay4qmjTPK3XAzSv2e) | [Hell on Halloween](https://open.spotify.com/artist/4tUZxqyxEFaXK1XAT8uqcl) | [Creepy Ambience](https://open.spotify.com/album/32LgDWdMoovNxQDvj5z1Ln) | 3:47 |
 | 96 | [Misty Dark Night](https://open.spotify.com/track/3xeKzfMiL1avVFcwmJPv3m) | [Dark Ambience](https://open.spotify.com/artist/5neeMavY4cbA1qi7k6FIZd) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:40 |
 | 97 | [Dark Forest](https://open.spotify.com/track/6Jt5y3oAOHMPqBu1E4glNE) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:39 |

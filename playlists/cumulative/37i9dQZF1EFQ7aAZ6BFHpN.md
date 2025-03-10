@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 15 hr 41 min
+206 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [On The Double](https://open.spotify.com/track/5DgvQdgGwYLqG4yK8owSRr) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 2:49 | 2024-07-24 |  |
 | [Once](https://open.spotify.com/track/2jCjGgisq1fAGPhLXqCm5U) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Verve Jazz Masters 22: Billy Eckstine](https://open.spotify.com/album/4HU6gci1rDGzzra6JGTi5y) | 2:51 | 2025-01-09 |  |
 | [One Man](https://open.spotify.com/track/0geL00mBChQvKJlGoYWvFl) | [Martin Martini](https://open.spotify.com/artist/2mH3j2sF6WavBC62cQKfkX) | [Vienna 1913](https://open.spotify.com/album/0Vt2ZoSK5RGvKb8YGsxurA) | 1:19 | 2025-01-09 |  |
-| [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-28 |  |
+| [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-28 | 2025-03-10 |
+| [One Of These Mornings](https://open.spotify.com/track/2Mbo5NxUBF3dMsTLUxhSwO) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 3:11 | 2025-03-09 |  |
 | [Our Little Kitchenette](https://open.spotify.com/track/0AQlJlTXS8S812djx0LRJt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:22 | 2024-07-24 |  |
 | [Overflow](https://open.spotify.com/track/2DKtHTCrrdjIfISJe9uDLK) | [Bernt Rosengren Octet](https://open.spotify.com/artist/00YyCPR9UjuVm4UCypwhhR) | [Plays Porgy & Bess](https://open.spotify.com/album/1rfBJOOVXK7EENlH8M0UT7) | 3:21 | 2024-07-24 |  |
 | [Pay Some Attention to Me](https://open.spotify.com/track/6GnjjWJKJtSM5RSGaCF0WD) | [Lena Jansson](https://open.spotify.com/artist/4m4gSGFjX9mrzRrQUdnxVo), [Nils Lindberg Combo](https://open.spotify.com/artist/2jUufg1a3S5np12pTCdNqk) | [Jansson, Lena: That Certain Feeling](https://open.spotify.com/album/2bXBKhTIcmH4YI7kBEolIW) | 5:27 | 2024-07-24 |  |

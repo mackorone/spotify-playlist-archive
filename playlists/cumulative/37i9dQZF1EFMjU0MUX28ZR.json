@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Sugarcoat",
+        "url": "https://open.spotify.com/album/7rOUvjZLw3Nwp90KthdpKL"
+      },
+      "artists": [
+        {
+          "name": "AleXa",
+          "url": "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191047,
+      "name": "Joy of Missing Out",
+      "url": "https://open.spotify.com/track/0pNBvEYh2khOnyu6OtfNj5"
+    },
+    {
+      "album": {
         "name": "Joy of Missing Out",
         "url": "https://open.spotify.com/album/3cjn75z7esRmLnsQQ5HtJ4"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 191047,
       "name": "Joy of Missing Out",
       "url": "https://open.spotify.com/track/4px2IKHQM1iCsryBZv0naR"
@@ -1782,6 +1800,24 @@
       "duration_ms": 176842,
       "name": "Warp Speed Suzie",
       "url": "https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9"
+    },
+    {
+      "album": {
+        "name": "Tell My Therapist I'm Fine (Deluxe)",
+        "url": "https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106985,
+      "name": "Woman Is King",
+      "url": "https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFMjU0MUX28ZR"

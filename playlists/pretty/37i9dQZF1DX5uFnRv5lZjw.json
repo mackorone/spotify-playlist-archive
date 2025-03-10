@@ -1,6 +1,6 @@
 {
   "description": "2025: doom scrolling is out, off-grid is in.",
-  "num_followers": 26,
+  "num_followers": 85,
   "original_name": "digital detox\u270c\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-03-07 15:31:43",
       "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv"
+    },
+    {
+      "added_at": "2025-03-07 15:31:43",
+      "album": {
         "name": "Floating in Between",
         "url": "https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 176137,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2025-03-07 15:31:43",
-      "album": {
-        "name": "The Summer Portraits",
-        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Jay",
-      "url": "https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv"
     },
     {
       "added_at": "2025-03-07 15:31:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-03-07 15:31:43",
       "album": {
-        "name": "Little House In Silver Lake",
-        "url": "https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Little House In Silver Lake",
-      "url": "https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr"
-    },
-    {
-      "added_at": "2025-03-07 15:31:43",
-      "album": {
         "name": "Proposals",
         "url": "https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 137813,
       "name": "Proposals",
       "url": "https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE"
+    },
+    {
+      "added_at": "2025-03-07 15:31:43",
+      "album": {
+        "name": "Little House In Silver Lake",
+        "url": "https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Little House In Silver Lake",
+      "url": "https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr"
     },
     {
       "added_at": "2025-03-07 15:31:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-03-07 15:31:43",
       "album": {
-        "name": "Foothills",
-        "url": "https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi"
-      },
-      "artists": [
-        {
-          "name": "Alto Fernando",
-          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
-        }
-      ],
-      "duration_ms": 133908,
-      "name": "Foothills",
-      "url": "https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV"
-    },
-    {
-      "added_at": "2025-03-07 15:31:43",
-      "album": {
         "name": "The Conservatory Window",
         "url": "https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 174061,
       "name": "The Conservatory Window",
       "url": "https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA"
+    },
+    {
+      "added_at": "2025-03-07 15:31:43",
+      "album": {
+        "name": "Foothills",
+        "url": "https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "duration_ms": 133908,
+      "name": "Foothills",
+      "url": "https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV"
     },
     {
       "added_at": "2025-03-07 15:31:43",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-03-07 15:31:43",
       "album": {
+        "name": "Hiver",
+        "url": "https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "duration_ms": 149931,
+      "name": "Hiver",
+      "url": "https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP"
+    },
+    {
+      "added_at": "2025-03-07 15:31:43",
+      "album": {
         "name": "Fleeting Dreams",
         "url": "https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 156189,
       "name": "Skyline Sonnet",
       "url": "https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl"
-    },
-    {
-      "added_at": "2025-03-07 15:31:43",
-      "album": {
-        "name": "Hiver",
-        "url": "https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Sapphire",
-          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
-        }
-      ],
-      "duration_ms": 149931,
-      "name": "Hiver",
-      "url": "https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP"
     },
     {
       "added_at": "2025-03-07 15:31:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-07 15:31:43",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg"
-      },
-      "artists": [
-        {
-          "name": "Sune Klintberg",
-          "url": "https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY"
-        }
-      ],
-      "duration_ms": 166563,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o"
-    },
-    {
-      "added_at": "2025-03-07 15:31:43",
-      "album": {
         "name": "Sole In Viso",
         "url": "https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 143835,
       "name": "Sole In Viso",
       "url": "https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm"
+    },
+    {
+      "added_at": "2025-03-07 15:31:43",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg"
+      },
+      "artists": [
+        {
+          "name": "Sune Klintberg",
+          "url": "https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY"
+        }
+      ],
+      "duration_ms": 166563,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o"
     },
     {
       "added_at": "2025-03-07 15:31:43",

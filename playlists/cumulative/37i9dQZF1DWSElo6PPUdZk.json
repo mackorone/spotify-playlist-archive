@@ -71,6 +71,32 @@
     },
     {
       "album": {
+        "name": "30 Falcon",
+        "url": "https://open.spotify.com/album/3uaJ2ZAXYL9dBwdwi4dd8x"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        },
+        {
+          "name": "Sahil Thapar",
+          "url": "https://open.spotify.com/artist/3bze3etaYqANIcGf6y6ohD"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "30 Falcon",
+      "url": "https://open.spotify.com/track/77e6JIYU4re4jRrYBhixv7"
+    },
+    {
+      "album": {
         "name": "8 Parche",
         "url": "https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu"
       },
@@ -2796,7 +2822,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 115616,
       "name": "Naseeb",
       "url": "https://open.spotify.com/track/5JgMsHeJypXp3Ixgkhdz1U"

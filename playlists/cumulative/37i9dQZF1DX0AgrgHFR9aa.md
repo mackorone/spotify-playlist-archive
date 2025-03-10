@@ -4,7 +4,7 @@
 
 > Les plus belles plumes rap français du moment\. Photo : Youssoupha
 
-146 songs - 8 hr 5 min
+147 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [H21](https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [H21](https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v) | 6:23 | 2024-11-07 |  |
 | [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 | 2024-08-30 |
 | [Hip\-hop Académie](https://open.spotify.com/track/6mmZ7mcSAJ1fOXog7uYLnF) | [Grödash](https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu), [DJ Rolxx](https://open.spotify.com/artist/6F3rbxyy8bOUkv6QEWcLfV) | [Hip\-hop Académie](https://open.spotify.com/album/35RPjksDCO0XNnMVClejAQ) | 2:50 | 2025-01-09 | 2025-03-07 |
+| [HIVER AUTOMNE](https://open.spotify.com/track/77tMzKJzSlUnRuxuLw9gPm) | [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [HIVER AUTOMNE](https://open.spotify.com/album/3zcwS8dRR30sgEmjqYNv9z) | 3:02 | 2025-03-09 |  |
 | [Hôtel](https://open.spotify.com/track/7D8a360I1Z1sOr714l59B3) | [Felhur x Andro](https://open.spotify.com/artist/7pM6sUyReIMJOA88s1WqYT) | [Hôtel](https://open.spotify.com/album/3ooBULlHTXEEoQfXylxpKT) | 3:30 | 2024-10-10 | 2024-11-22 |
 | [IN PARIS](https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [IN PARIS](https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ) | 1:58 | 2024-06-27 | 2024-07-12 |
 | [INSECURE](https://open.spotify.com/track/1m5FSfWOOFRq6dM3llpZOe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 4:07 | 2024-11-28 |  |

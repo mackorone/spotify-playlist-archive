@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,860 likes - 22 songs - 1 hr 25 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,869 likes - 23 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 14 | [Flight and Pursuit \- Richard Sen Remix](https://open.spotify.com/track/0Q54iLRgaaR2AWken6qto4) | [C.A.R.](https://open.spotify.com/artist/0f5WhR4J5QIfykB15aOKNK), [Richard Sen](https://open.spotify.com/artist/5JdGnUoHsAtIwmyW7L4tCM) | [Recrossing Prior Street](https://open.spotify.com/album/5MGm2i8WTCK5UmToj0l0YY) | 6:43 |
 | 15 | [The Night Belongs To You](https://open.spotify.com/track/3ePVhxW69qGToTbytD1YCh) | [Fabuleers](https://open.spotify.com/artist/1ZsohGiVBohlJYzHyp3vra) | [There's Got To Be A Girl: The Best Of Chase Records Vol\. 1](https://open.spotify.com/album/0kwiVCiVE01he2QXC0TyTO) | 2:13 |
 | 16 | [Ondulé](https://open.spotify.com/track/51PeRhioEqrpaLNqZVmG4Q) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Super](https://open.spotify.com/album/4phF3iDXu0p0VBzaa2hDhX) | 3:57 |
-| 17 | [in the summer we just had](https://open.spotify.com/track/2DQWN1oEfCv8pEEI5ao2SN) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [in the summer we just had](https://open.spotify.com/album/3zlwylkH1VasUDYJMyk6VG) | 1:54 |
-| 18 | [Spangled](https://open.spotify.com/track/0XM5F4U2CfjYn9iv0Qra7Q) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:43 |
-| 19 | [Mountain Language](https://open.spotify.com/track/0oyjNHLOXu0aewrfGaxk75) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:16 |
-| 20 | [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 |
-| 21 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
-| 22 | [Magnólia](https://open.spotify.com/track/68DcdIbgA4vEektkulFWPZ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:14 |
+| 17 | [Spangled](https://open.spotify.com/track/0XM5F4U2CfjYn9iv0Qra7Q) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:43 |
+| 18 | [Mountain Language](https://open.spotify.com/track/0oyjNHLOXu0aewrfGaxk75) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:16 |
+| 19 | [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 |
+| 20 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
+| 21 | [Magnólia](https://open.spotify.com/track/68DcdIbgA4vEektkulFWPZ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:14 |
+| 22 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 |
+| 23 | [Atoms For Peace](https://open.spotify.com/track/1yr5rQnDL8QhJWCI6rPId8) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Eraser](https://open.spotify.com/album/4X8Y79gWo6xm7Osdapg58E) | 5:13 |
 
-Snapshot ID: `AAAMCferJrNaRHvbNIiGEjLtkFDga0jJ`
+Snapshot ID: `AAAMDJHWDmuywC0yRZrbyvxmlzStJnFP`

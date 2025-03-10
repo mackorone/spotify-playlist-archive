@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,743 likes - 95 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,746 likes - 95 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

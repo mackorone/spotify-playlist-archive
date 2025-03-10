@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 2025年1月24日・25日・26日、日本武道館にて開催！アニソンフェス“<a href="https://www.lisani.jp/live/">リスアニ！LIVE 2025</a>”セットリストを公開！The official playlist of "LisAni! LIVE 2025"
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,889 likes - 94 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,893 likes - 94 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

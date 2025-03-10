@@ -25232,7 +25232,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 137437,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG"
@@ -49436,7 +49436,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 156404,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/0h4FhO4anm49Y1RqOtJGr6"
@@ -66247,6 +66247,24 @@
     },
     {
       "album": {
+        "name": "shimmers",
+        "url": "https://open.spotify.com/album/5RdPoV2NtACzvtrt70azWd"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "shimmers",
+      "url": "https://open.spotify.com/track/6iNQ0fLQhPPiCDOwp6aaOs"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/7Fs7MsqeMY4dlEKm2jrSVb"
       },
@@ -74690,6 +74708,24 @@
       "duration_ms": 132112,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5flCtFDMbtxnbc33pekd92"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3DipFw150DI1cDUnaAoOu4"
+      },
+      "artists": [
+        {
+          "name": "Screwaholic",
+          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137578,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4JreKrf8Qu58FAu5dr5LFv"
     },
     {
       "album": {

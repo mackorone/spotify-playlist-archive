@@ -5709,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Glimmers",
+        "url": "https://open.spotify.com/album/1XzhGnS0rspiOQZ552QHo5"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Glimmers",
+      "url": "https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM"
+    },
+    {
+      "album": {
         "name": "Glitch Flower",
         "url": "https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO"
       },
@@ -8248,7 +8266,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 151500,
       "name": "Latenights",
       "url": "https://open.spotify.com/track/4QzstlFFX0WAsSk0b0ft63"

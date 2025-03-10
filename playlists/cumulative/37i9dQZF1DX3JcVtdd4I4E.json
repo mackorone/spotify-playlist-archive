@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 154623,
       "name": "Arrow",
       "url": "https://open.spotify.com/track/4l32LFfLPx6GOEUDoclQD7"
@@ -1560,6 +1560,24 @@
       "duration_ms": 112131,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
+    },
+    {
+      "album": {
+        "name": "Little Brother",
+        "url": "https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296261,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1"
     },
     {
       "album": {

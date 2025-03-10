@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: JISOO
 
-342 songs - 20 hr 45 min
+343 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2024-08-30 | 2024-11-23 |
 | [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 | 2025-01-16 | 2025-02-14 |
 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 | 2024-09-13 | 2024-10-26 |
+| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-09 |  |
 | [Loop \(ฉันจึงวนกลับมา\)](https://open.spotify.com/track/0Fye2qtgBqOzHxb4cPSjWb) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz) | [Loop \(ฉันจึงวนกลับมา\) \- Single](https://open.spotify.com/album/05DGgZgqUX2HbssDax9YoL) | 3:50 | 2024-08-30 |  |
 | [Love & Secret](https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Love & Secret](https://open.spotify.com/album/5Nf4Rf9Xankkmsb4737GM6) | 2:28 | 2024-07-12 | 2024-07-27 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
@@ -203,7 +204,7 @@
 | [ตาข่ายดักฝัน \(Rainbow Catcher\)](https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Rainbow Landscape](https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd) | 4:25 | 2024-08-16 | 2024-08-28 |
 | [ติดฝน](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-06-27 | 2024-09-14 |
 | [ติดแก\(ลม\) \[Glamour Girl\]](https://open.spotify.com/track/5P4gPTCSX4h7eLbRW6QG5S) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [MUKTA](https://open.spotify.com/artist/6qhHW3pFQd2uAUbW2InXQ4) | [ติดแก\(ลม\) \[Glamour Girl\]](https://open.spotify.com/album/528ZGuFgT6cLxRhIG6ZuHb) | 3:22 | 2024-12-06 | 2024-12-13 |
-| [ตื่น \(Wake Up Call\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [ตื่น \(Wake Up Call\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj) | 2:56 | 2025-02-28 |  |
+| [ตื่น \(Wake Up Call\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [ตื่น \(Wake Up Call\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj) | 2:56 | 2025-02-28 | 2025-03-10 |
 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [XX](https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 | 2024-07-12 | 2024-07-27 |
 | [ถ้าคิดถึงเธอขึ้นมา](https://open.spotify.com/track/54HAal2HAWet2sjAAJDiVq) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ถ้าคิดถึงเธอขึ้นมา](https://open.spotify.com/album/7yXNQfGme0CQzAm9uYIkld) | 4:04 | 2024-06-27 | 2024-07-06 |
 | [ถ้าหากฉันรู้ว่ามันจะเจ็บ \(ALT\. ENDING\)](https://open.spotify.com/track/05OkPDrO17g0cU4gXjGR0H) | [Lomosonic](https://open.spotify.com/artist/3RnRECOTd7fAWTPgmwRYMc) | [ถ้าหากฉันรู้ว่ามันจะเจ็บ \(ALT\. ENDING\)](https://open.spotify.com/album/1NF8GzDpRk4Mhhhz5IlP6b) | 3:54 | 2025-01-09 | 2025-02-22 |

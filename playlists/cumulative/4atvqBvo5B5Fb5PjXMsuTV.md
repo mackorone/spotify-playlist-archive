@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Mar 14:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Mar 19:04 UTC.
 
-4,322 songs - 10 day 0 hr 10 min
+4,324 songs - 10 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ankaran](https://open.spotify.com/track/6oXl3uSpSodmkClmCP16Nt) | [Hiljson Mandela](https://open.spotify.com/artist/05RXYlsCKzkb418GEvYCip), [Biba](https://open.spotify.com/artist/2AVWBp9fVh1GOCQflKM7wo) | [Ankaran](https://open.spotify.com/album/08n7jrfr0xzBjE7PvpgY1S) | 2:08 | 2024-05-16 | 2024-05-18 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-15 | 2025-01-23 |
 | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/track/2MYh0CcF8dGciG2JoZtAX7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ivory Nwigwe](https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ), [Yael Hilton](https://open.spotify.com/artist/3Gl0EmGURWi1cO7N9GXIwF) | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/album/7jxkQioIJb8LrVQZpe3u4w) | 1:39 | 2024-08-25 | 2024-08-30 |
+| [anointment](https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [anointment](https://open.spotify.com/album/2ErOik3Sm5yDZCFkDWZ3co) | 3:49 | 2025-03-09 |  |
 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-09-13 | 2024-09-18 |
 | [Anti\-Spirit Machine](https://open.spotify.com/track/0RwqJdZbJJu2lb11aqOtjv) | [Umbra Vitae](https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa) | [Anti\-Spirit Machine](https://open.spotify.com/album/05CgxQlWiDMyNufNLzeD9q) | 3:40 | 2024-05-21 | 2024-05-23 |
 | [antidepressants](https://open.spotify.com/track/2fy2HfwP9GG0ejirtD0a2H) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [antidepressants](https://open.spotify.com/album/5YB3WRUwQoDWaStYqQkFDu) | 1:58 | 2025-02-28 |  |
@@ -934,7 +935,7 @@
 | [dead2me](https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [dead2me](https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3) | 2:44 | 2024-12-03 | 2024-12-07 |
 | [DEADASS](https://open.spotify.com/track/2v729TfRh0M6ehIymBLADW) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DEADASS](https://open.spotify.com/album/2GYEjZUxauQmT0uk4vzdD3) | 1:54 | 2024-12-17 | 2024-12-21 |
 | [Deadpool X Wolverine](https://open.spotify.com/track/7H716i2hNsNiSjNAHufMLn) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Deadpool X Wolverine](https://open.spotify.com/album/3JaALfvJCUvU559EtyjP1H) | 2:34 | 2024-09-14 | 2024-09-17 |
-| [Dear Darlin](https://open.spotify.com/track/7yBli6zh4uZ0qXNY5R98qp) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Dear Darlin](https://open.spotify.com/album/0wDHOoa3ZBi5pcMEp2iIdI) | 3:21 | 2025-03-02 |  |
+| [Dear Darlin](https://open.spotify.com/track/7yBli6zh4uZ0qXNY5R98qp) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Dear Darlin](https://open.spotify.com/album/0wDHOoa3ZBi5pcMEp2iIdI) | 3:21 | 2025-03-02 | 2025-03-10 |
 | [DEAR IMMIGRATION](https://open.spotify.com/track/3aSWjgvC5d0dC2i9lF0FKl) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEAR IMMIGRATION](https://open.spotify.com/album/7KH2H2NX6J6e41rauBE3y9) | 2:38 | 2024-06-11 | 2024-06-13 |
 | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/track/7D5xfRWhezT4QyOnwh7lcr) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/album/1pH81EVN0YItmlphDI5k6b) | 3:07 | 2024-08-02 | 2024-08-08 |
 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 | 2025-02-12 | 2025-02-15 |
@@ -1567,7 +1568,7 @@
 | [Growing Up](https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [Growing Up](https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm) | 3:53 | 2024-10-04 | 2024-10-06 |
 | [Growth Sux](https://open.spotify.com/track/1emWc8cnkrkLWJQ9LYoXzx) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Growth Sux](https://open.spotify.com/album/3OsFR50hnTKb7epzcZyG3S) | 2:47 | 2025-01-27 | 2025-01-31 |
 | [GROWUP](https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [GROWUP](https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl) | 2:26 | 2024-10-10 | 2024-10-12 |
-| [GRWM \(eww\)](https://open.spotify.com/track/51jemv8huWarBH4L3reoNC) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GRWM \(eww\)](https://open.spotify.com/album/6iTtRvsRNfpF3WzVz9tEe0) | 3:46 | 2025-03-01 |  |
+| [GRWM \(eww\)](https://open.spotify.com/track/51jemv8huWarBH4L3reoNC) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GRWM \(eww\)](https://open.spotify.com/album/6iTtRvsRNfpF3WzVz9tEe0) | 3:46 | 2025-03-01 | 2025-03-10 |
 | [Grădina Interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina Interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 | 2024-09-26 | 2024-09-28 |
 | [guardian](https://open.spotify.com/track/4lm8Yub4q6Tc1U8nBHnp87) | [BRUHMANEGOD](https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY), [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [guardian](https://open.spotify.com/album/7EPcsutcoS80QtOzM2fI4L) | 4:25 | 2024-05-11 | 2024-05-15 |
 | [GUESS](https://open.spotify.com/track/0eNyt9NmppskKVo0fw0XmT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [GUESS](https://open.spotify.com/album/0q0G9omHqvzRGMjIsvHOGD) | 2:20 | 2024-09-18 | 2024-09-21 |
@@ -2063,6 +2064,7 @@
 | [King David Flow](https://open.spotify.com/track/5qHkLB0G7fLWGqJgKaRaZp) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [King David Flow](https://open.spotify.com/album/1JicDIB0ZhrDisuWfR7LEd) | 3:47 | 2024-08-15 | 2024-08-17 |
 | [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-03 | 2024-05-07 |
 | [Kisapmata](https://open.spotify.com/track/1Xs9mIQdHSy6XG7ZtCx40b) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Kisapmata](https://open.spotify.com/album/3BXUesZKgsCPPIUM7t1ChU) | 4:53 | 2024-07-19 | 2024-07-21 |
+| [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-09 |  |
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-25 | 2024-09-28 |
 | [KISS ME!](https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [KISS ME!](https://open.spotify.com/album/0MjhodGE6inzZVxfOkWzfl) | 2:20 | 2024-11-30 | 2024-12-04 |
 | [Kiss The Sky](https://open.spotify.com/track/2SuRhgjUzegI6wP1SswwnG) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Kiss The Sky](https://open.spotify.com/album/5PNz8K8v5kaTUgZaLOvFO8) | 3:22 | 2025-02-06 | 2025-02-14 |

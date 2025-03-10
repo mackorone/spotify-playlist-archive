@@ -11601,6 +11601,24 @@
     },
     {
       "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454666,
+      "name": "Ein langer Weg",
+      "url": "https://open.spotify.com/track/4BjXZXez1sUCXQFidFNwh6"
+    },
+    {
+      "album": {
         "name": "Los Wachos",
         "url": "https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq"
       },
@@ -14918,7 +14936,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 354426,
       "name": "Geliebtes Monster",
       "url": "https://open.spotify.com/track/0hPjYlFsTRPlSWdweQPW01"

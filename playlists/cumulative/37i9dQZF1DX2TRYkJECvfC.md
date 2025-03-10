@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-578 songs - 2 day 0 hr 10 min
+579 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Feedback](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Feedback](https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB) | 5:58 | 2024-01-26 |  |
 | [FEEL](https://open.spotify.com/track/3xVmdUM5hgmLYzndh8FMz7) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [FEEL](https://open.spotify.com/album/0EaHTIUCFrPWr1AahAo86D) | 3:28 | 2024-04-12 | 2024-10-12 |
 | [Feel My Love](https://open.spotify.com/track/4ba2rqxxNcXQ5rfWZMo1Q1) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [SkyReacher](https://open.spotify.com/album/4fKaOHXcPHsqbL7UZYJKHK) | 6:44 | 2024-04-12 | 2025-03-09 |
+| [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 | 2025-03-07 |  |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |
@@ -424,7 +425,7 @@
 | [Robots With Soul Part 2 \- Original Mix](https://open.spotify.com/track/5y6CnB9Q3WDQvVG5rwoYZ1) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:54 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 3 \- Original Mix](https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:20 | 2021-12-08 | 2022-07-26 |
 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 | 2021-12-08 | 2024-07-13 |
-| [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 | 2024-04-12 |  |
+| [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 | 2024-04-12 | 2025-03-10 |
 | [Running up That Hill](https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Running up That Hill](https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw) | 5:07 | 2022-02-21 |  |
 | [Safe Place \- Mixed](https://open.spotify.com/track/4UVw2XBBjIZGErQUOAjAXS) | [Delano Smith](https://open.spotify.com/artist/2HadNlQJIJDPNJMtMQNQU4) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/3G96swfKatQvIVo4Fn6BcE) | 6:00 | 2022-01-14 | 2022-07-21 |
 | [Sailed](https://open.spotify.com/track/0AuyIbBGezzXo4zHvYVfEn) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Sailed](https://open.spotify.com/album/1MsQiYcjOZfsEg33k2szWW) | 4:04 | 2024-05-31 | 2024-11-09 |

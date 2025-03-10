@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Miki
 
-3,152 songs - 6 day 23 hr 14 min
+3,153 songs - 6 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Bienvenue dans High & Fines Herbes](https://open.spotify.com/track/3wV0qYUvnJWfL9a2CQJqD1) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Kay The Prodigy](https://open.spotify.com/artist/4ziOwyCpUFMlERkfyoEV6p), [Stony Stone](https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR), [thaHomey](https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j) | [Bienvenue dans High & Fines Herbes](https://open.spotify.com/album/2wJ9ImpdqwVGngJDDx5VX8) | 3:28 | 2024-12-20 | 2025-02-08 |
 | [Big AK](https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Big AK](https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl) | 1:37 | 2023-07-07 | 2023-07-15 |
 | [Big Bang](https://open.spotify.com/track/5zyBcDmNjybiqWFyzCJXkZ) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Big Bang](https://open.spotify.com/album/39xP7d2eHjiZrrSNYyzhvp) | 2:45 | 2024-11-22 | 2024-11-30 |
-| [BIG BODY](https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG BODY](https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu) | 2:59 | 2025-01-17 |  |
+| [BIG BODY](https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG BODY](https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu) | 2:59 | 2025-01-17 | 2025-03-10 |
 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 | 2024-10-11 | 2024-12-25 |
 | [Big boy](https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Big boy](https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7) | 2:29 | 2022-09-30 | 2022-10-15 |
 | [Big Day](https://open.spotify.com/track/4nltl0ZfRm7L6YrNduGARB) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Big Day](https://open.spotify.com/album/3C8wMCFoToMmA4tFFd04tG) | 2:53 | 2024-02-16 | 2024-03-02 |
@@ -1852,6 +1852,7 @@
 | [Mbappé](https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Mbappé](https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG) | 3:06 | 2023-05-19 | 2023-07-08 |
 | [Me croirez\-vous ?](https://open.spotify.com/track/2QHh8H1ybiPjr47XwCqBfn) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Me croirez\-vous ?](https://open.spotify.com/album/30mozVFL0FCPZB8K9Nidtd) | 3:25 | 2022-09-16 | 2022-10-01 |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-08 | 2024-05-03 |
+| [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-03-07 |  |
 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 | 2024-06-07 | 2024-08-24 |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2022-02-26 |
 | [Mean mug](https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [1001 Nuits](https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA) | 4:16 | 2024-06-21 | 2024-07-06 |

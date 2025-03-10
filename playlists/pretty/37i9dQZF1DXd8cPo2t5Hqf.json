@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 385670,
+  "num_followers": 385771,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "Tell Your World EP",
+        "url": "https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7"
+      },
+      "artists": [
+        {
+          "name": "livetune",
+          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Tell Your World",
+      "url": "https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/4EThV35Hzn0ZyJ1qsYvhG7"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 271690,
       "name": "\u3053\u3061\u3089\u3001\u5e78\u798f\u5b89\u5fc3\u59d4\u54e1\u4f1a\u3067\u3059\u3002",
       "url": "https://open.spotify.com/track/3yphjYSP0G3gvCPQnuEDXu"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "Tell Your World EP",
-        "url": "https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7"
-      },
-      "artists": [
-        {
-          "name": "livetune",
-          "url": "https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Tell Your World",
-      "url": "https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
-        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
-      },
-      "artists": [
-        {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
         "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 414040,
       "name": "ODDS&ENDS -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
+        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
+      },
+      "artists": [
+        {
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
-      },
-      "artists": [
-        {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
         "url": "https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 210000,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+      },
+      "artists": [
+        {
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1076,6 +1076,22 @@
       },
       "artists": [
         {
+          "name": "Yuuyu",
+          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
+        }
+      ],
+      "duration_ms": 238390,
+      "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
           "name": "OSTER project",
           "url": "https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off"
         }
@@ -1099,22 +1115,6 @@
       "duration_ms": 516642,
       "name": "\u30e1\u30c6\u30aa",
       "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
-          "name": "Yuuyu",
-          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
-        }
-      ],
-      "duration_ms": 238390,
-      "name": "\u6df1\u6d77\u5c11\u5973 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "SPiCa",
-        "url": "https://open.spotify.com/album/7CoAfW1ZHIfjN4RHdVcrxm"
-      },
-      "artists": [
-        {
-          "name": "tokuP",
-          "url": "https://open.spotify.com/artist/4hSzJm2YTXFH8VRgPX2IkU"
-        }
-      ],
-      "duration_ms": 219259,
-      "name": "SPiCa",
-      "url": "https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 149531,
       "name": "\u307f\u304f\u307f\u304f\u306b\u3057\u3066\u3042\u3052\u308b\u266a\u3010\u3057\u3066\u3084\u3093\u3088\u3011 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "SPiCa",
+        "url": "https://open.spotify.com/album/7CoAfW1ZHIfjN4RHdVcrxm"
+      },
+      "artists": [
+        {
+          "name": "tokuP",
+          "url": "https://open.spotify.com/artist/4hSzJm2YTXFH8VRgPX2IkU"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "SPiCa",
+      "url": "https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Neko seT",
-        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
-      },
-      "artists": [
-        {
-          "name": "daniwellP",
-          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
         "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 225936,
       "name": "shake it! -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Neko seT",
+        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
+      },
+      "artists": [
+        {
+          "name": "daniwellP",
+          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
+        }
+      ],
+      "duration_ms": 234404,
+      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u76f8\u611b\u6027\u7406\u8ad6",
+        "url": "https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "\u611b\u8a00\u8449",
+      "url": "https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 308000,
       "name": "MEGANE",
       "url": "https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u76f8\u611b\u6027\u7406\u8ad6",
-        "url": "https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "\u611b\u8a00\u8449",
-      "url": "https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u5fd8\u5374\u5fc3\u4e2d",
-        "url": "https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG"
+        "name": "\u30c6\u30ec\u30ab\u30af\u30b7\u601d\u6625\u671f",
+        "url": "https://open.spotify.com/album/2xIPHUU6LqDneqJA8sI603"
       },
       "artists": [
         {
-          "name": "0-9",
-          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
         }
       ],
-      "duration_ms": 253954,
-      "name": "\u5fd8\u5374\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg"
+      "duration_ms": 207164,
+      "name": "\u30c6\u30ec\u30ab\u30af\u30b7\u601d\u6625\u671f",
+      "url": "https://open.spotify.com/track/5n7KTWl0A7Zbb3au8PTSHW"
     }
   ],
   "unique_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",

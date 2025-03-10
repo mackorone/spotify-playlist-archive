@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8o3AAAAAAB/g3CrQqTmHqSYZ67WpXO3",
+  "snapshot_id": "Z8uIgAAAAADfuchKtHAggsaCkn2u7vLT",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandpaper and Silk",
-        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 242975,
-      "name": "Sandpaper And Silk",
-      "url": "https://open.spotify.com/track/5jC6Qa2r8l3FsAGlm5YeZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 187666,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sandpaper and Silk",
+        "url": "https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 242975,
+      "name": "Sandpaper And Silk",
+      "url": "https://open.spotify.com/track/5jC6Qa2r8l3FsAGlm5YeZu"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Somewhere In Between",
+      "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hawthorne Heights / Emery",
         "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 182378,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/60gIh4WWldcXdpWubK5Ntj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Somewhere In Between",
-      "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
     },
     {
       "added_at": null,

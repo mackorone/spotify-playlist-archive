@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 RaiNao is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,882 likes - 20 songs - 56 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,805 likes - 20 songs - 56 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

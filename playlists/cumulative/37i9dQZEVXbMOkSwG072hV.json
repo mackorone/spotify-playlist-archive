@@ -6135,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
@@ -10268,7 +10286,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 148360,
       "name": "Cabeleira Do Zez\u00e9",
       "url": "https://open.spotify.com/track/7rwXwVOfULqhoa8vdOSLJx"
@@ -14022,7 +14040,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 223759,
       "name": "Copo de Gin",
       "url": "https://open.spotify.com/track/1aXkHbe1ACBD4rDqNMoPaw"
@@ -16254,7 +16272,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -20742,7 +20760,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 128903,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
@@ -21436,6 +21454,28 @@
       "duration_ms": 116271,
       "name": "EU J\u00c1 SOFRI POR AMOR MAS N\u00c3O SOFRO MAIS",
       "url": "https://open.spotify.com/track/2sWWu68ZmobaPdwPsC4RXs"
+    },
+    {
+      "album": {
+        "name": "EU MANDEI VOC\u00ca DEITAR",
+        "url": "https://open.spotify.com/album/6sYIglqMgC3xjLZFpyB8Mp"
+      },
+      "artists": [
+        {
+          "name": "DJ 2P DO COMPLEXO",
+          "url": "https://open.spotify.com/artist/19pJ8UbiWChutLrC3FIdFu"
+        },
+        {
+          "name": "NEIKON",
+          "url": "https://open.spotify.com/artist/11dMOt4UjioHKJSeJxD9xg"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116472,
+      "name": "EU MANDEI VOC\u00ca DEITAR",
+      "url": "https://open.spotify.com/track/2khQhAOTAff5stb9DPUgUK"
     },
     {
       "album": {
@@ -32912,7 +32952,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
@@ -32934,7 +32974,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -43936,7 +43976,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 134769,
       "name": "N\u00d3S TA POR AE",
       "url": "https://open.spotify.com/track/4kUGkDkfqnlFmfqW9XprvY"
@@ -67338,7 +67378,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 104000,
       "name": "Vou Raspar Seu Bigodin",
       "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"

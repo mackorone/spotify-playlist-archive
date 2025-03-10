@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6819,
+  "num_followers": 6822,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les chemins de traverse (Remastered)",
-        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+        "name": "LA COURSE",
+        "url": "https://open.spotify.com/album/4uwweIPWe2AIZknk4aL85E"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+        },
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
         }
       ],
-      "duration_ms": 163466,
-      "name": "Je l'aime \u00e0 mourir - Remastered",
-      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+      "duration_ms": 115067,
+      "name": "KILLCAM",
+      "url": "https://open.spotify.com/track/3MdbKq8mWOW0TB76PbcjnD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -263,22 +267,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "LA COURSE",
-        "url": "https://open.spotify.com/album/4uwweIPWe2AIZknk4aL85E"
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
       },
       "artists": [
         {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
-        },
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 115067,
-      "name": "KILLCAM",
-      "url": "https://open.spotify.com/track/3MdbKq8mWOW0TB76PbcjnD"
+      "duration_ms": 163466,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 210791,
       "name": "Croise les doigts",
       "url": "https://open.spotify.com/track/1Gy5hu4pDPRxkR0eWB5lfs"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
+        "name": "Du feu dans les lilas",
+        "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
       "artists": [
         {
@@ -1224,13 +1224,13 @@
           "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         },
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
         }
       ],
-      "duration_ms": 292480,
-      "name": "J'aurai cent ans",
-      "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
+      "duration_ms": 211600,
+      "name": "Derri\u00e8re le jour",
+      "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Du feu dans les lilas",
-        "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        },
-        {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Derri\u00e8re le jour",
-      "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 108066,
       "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "J'aurai cent ans",
+      "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'ai brod\u00e9 mon c\u0153ur",
-        "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
-      },
-      "artists": [
-        {
-          "name": "Marie-Annick Lepine",
-          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
-        }
-      ],
-      "duration_ms": 34000,
-      "name": "Apr\u00e8s la nuit",
-      "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "On frap la route?",
         "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 172000,
       "name": "Holla",
       "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "J'ai brod\u00e9 mon c\u0153ur",
+        "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
+      },
+      "artists": [
+        {
+          "name": "Marie-Annick Lepine",
+          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
+        }
+      ],
+      "duration_ms": 34000,
+      "name": "Apr\u00e8s la nuit",
+      "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "D\u00e9sol\u00e9 mouvement geste",
-        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
-      },
-      "artists": [
-        {
-          "name": "Navet Confit",
-          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
-        },
-        {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Il a plu il a neig\u00e9",
-      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Holistique",
         "url": "https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 193652,
       "name": "Plage",
       "url": "https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "D\u00e9sol\u00e9 mouvement geste",
+        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
+      },
+      "artists": [
+        {
+          "name": "Navet Confit",
+          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
+        },
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Il a plu il a neig\u00e9",
+      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
     },
     {
       "added_at": "2024-06-19 20:38:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,728 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,776 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 57 | [Rendezvous](https://open.spotify.com/track/2veLnenW3fky3BBOKWFfwH) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Rendezvous](https://open.spotify.com/album/5EvhOZgGd0Iz4aONhMj0fY) | 6:34 |
 | 58 | [VIP](https://open.spotify.com/track/1ZrCQtuN4BQBkCXxOzlIWz) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [It's You](https://open.spotify.com/album/5O7SS1r3GTrLWiPYVYLMQ7) | 4:41 |
 | 59 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
-| 60 | [One Of Us \(feat\. Forrest\) \- Dennis Ferrer Remix](https://open.spotify.com/track/6iaeP583gh9MQKQC2VAcTf) | [Sabb](https://open.spotify.com/artist/19F8sVMnf7QTOq8j52wWJY), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Defected In The House Radio Show Episode 022 \(hosted by Dennis Ferrer\) \[Mixed\]](https://open.spotify.com/album/5CZeuqwmr5snNgwZu7143j) | 4:21 |
+| 60 | [One Of Us \(feat\. Forrest\) \- Dennis Ferrer Remix](https://open.spotify.com/track/6iaeP583gh9MQKQC2VAcTf) | [Sabb](https://open.spotify.com/artist/4XjV4d0CbVawOt812M778N), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Defected In The House Radio Show Episode 022 \(hosted by Dennis Ferrer\) \[Mixed\]](https://open.spotify.com/album/5CZeuqwmr5snNgwZu7143j) | 4:21 |
 | 61 | [Mute Navigator \- Original Mix](https://open.spotify.com/track/537Ur1uhDs6fkpoOQmklwe) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [Mute Navigator](https://open.spotify.com/album/3TMmIoCdNazxjcXEw7azVq) | 6:44 |
 | 62 | [Closer \- Radio Edit](https://open.spotify.com/track/6YKW4wcIDefjPzaB5XEpeS) | [As I Am](https://open.spotify.com/artist/6xq703R9S1pfnUYv8npQTU), [Jedd Roberts](https://open.spotify.com/artist/3Fb5rkZb1joETygPJsBF6V) | [Closer](https://open.spotify.com/album/0PdouvNAaoaniNawGgdsaC) | 3:17 |
 | 63 | [In Common \- Black Coffee Remix](https://open.spotify.com/track/45gbor15xy5IXj2P5oXQNf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [In Common \(The Remixes\)](https://open.spotify.com/album/7K0eeA5BaamKDiTZ8mm05D) | 4:58 |

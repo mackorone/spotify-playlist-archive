@@ -10869,6 +10869,32 @@
     },
     {
       "album": {
+        "name": "Old Days",
+        "url": "https://open.spotify.com/album/6PygLwE6EdC61KkbdZxkyu"
+      },
+      "artists": [
+        {
+          "name": "phil's ok.",
+          "url": "https://open.spotify.com/artist/5HdoLuXD0KtSA3gECZqkty"
+        },
+        {
+          "name": "Dawilk",
+          "url": "https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf"
+        },
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133043,
+      "name": "Old Days",
+      "url": "https://open.spotify.com/track/2ztNil2eRGwHwbFuroE1yy"
+    },
+    {
+      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/7bgRbp7mMV6VPTtC82bVBi"
       },
@@ -11392,6 +11418,32 @@
       "duration_ms": 173334,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1FTv0RrB7cMhfmGBE6gXGQ"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2NG3Iws73bVXofVUywUlS1"
+      },
+      "artists": [
+        {
+          "name": "Arthur",
+          "url": "https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3"
+        },
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
+        },
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2q81xr0WPyPMnSpTEZoAnQ"
     },
     {
       "album": {
@@ -15246,7 +15298,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 186226,
       "name": "Through Glass",
       "url": "https://open.spotify.com/track/3v60ytSWrozCqpiAZbkI1O"
@@ -16904,7 +16956,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 173947,
       "name": "YOU & I",
       "url": "https://open.spotify.com/track/2ZubOPqKkjUH3mdTsHl80U"

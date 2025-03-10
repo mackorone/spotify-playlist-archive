@@ -19459,6 +19459,24 @@
     },
     {
       "album": {
+        "name": "Hat\u0131r\u0131m Yok mu",
+        "url": "https://open.spotify.com/album/0KNshE9SpQfVStSSJoPqnG"
+      },
+      "artists": [
+        {
+          "name": "Sedat Sayan",
+          "url": "https://open.spotify.com/artist/1ZxwLxdytOprkobPFkSPj4"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222540,
+      "name": "Ellere D\u00fc\u015f",
+      "url": "https://open.spotify.com/track/2lGPoP83l7qIHlWaM43My4"
+    },
+    {
+      "album": {
         "name": "ELLER\u0130M BO\u015e",
         "url": "https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj"
       },
@@ -37036,7 +37054,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 269293,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi"
@@ -38026,7 +38044,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 153144,
       "name": "Main Hi Kyon",
       "url": "https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS"
@@ -43480,7 +43498,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 153837,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4EmOvfpI6RsyNk4qRGVZxJ"
@@ -72582,7 +72600,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 237426,
       "name": "\u4e09\u4eba\u904a",
       "url": "https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU"
@@ -72672,7 +72690,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 224498,
       "name": "\u624d\u4e8c\u5341\u4e09",
       "url": "https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH"

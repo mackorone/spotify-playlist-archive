@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,014 songs - 1 day 15 hr 17 min
+1,015 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2023-10-27 |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-01 | 2022-07-29 |
 | [Gliding](https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Gliding](https://open.spotify.com/album/6qJG6AhrAb4wxIuR1fsKjp) | 1:43 | 2023-04-03 | 2024-10-12 |
+| [Glimmers](https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Glimmers](https://open.spotify.com/album/1XzhGnS0rspiOQZ552QHo5) | 2:21 | 2025-03-07 |  |
 | [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-04-15 | 2022-06-03 |
 | [glossy window](https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [glossy window](https://open.spotify.com/album/0AoH1D4zGLEW72v3xI91QR) | 2:10 | 2022-07-01 | 2024-08-10 |
@@ -442,7 +443,7 @@
 | [Lastly](https://open.spotify.com/track/4YS0gtYzdEVp2lUfvvnFXS) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Lastly](https://open.spotify.com/album/4aD6nKJleOgIcFLUN9eYry) | 2:05 | 2023-01-13 | 2023-11-24 |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-15 | 2022-09-03 |
 | [Late Night Jams](https://open.spotify.com/track/5j2yseMUjUsSFLWEI1nihH) | [Ouija Chords](https://open.spotify.com/artist/3tcxWYxIzG1rkrWBRqybBT) | [Late Night Jams](https://open.spotify.com/album/3alL8x7PTdVr4gqr7lUQuf) | 1:49 | 2022-09-16 | 2023-10-20 |
-| [Latenights](https://open.spotify.com/track/4QzstlFFX0WAsSk0b0ft63) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Latenights](https://open.spotify.com/album/6SA7RcerGNmTM9OIQ994g5) | 2:31 | 2022-11-25 |  |
+| [Latenights](https://open.spotify.com/track/4QzstlFFX0WAsSk0b0ft63) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Latenights](https://open.spotify.com/album/6SA7RcerGNmTM9OIQ994g5) | 2:31 | 2022-11-25 | 2025-03-10 |
 | [Latex](https://open.spotify.com/track/2IfYpqvhlKUQ7BcURXGWHo) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Latex](https://open.spotify.com/album/6yKF2qc08283e2ooJrdawF) | 2:37 | 2022-04-15 |  |
 | [Layer 11](https://open.spotify.com/track/1bGs3t13EhRBFpsriAPTrS) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Layer 11](https://open.spotify.com/album/0s6MSC4PuCQqllrO6FjAaI) | 2:20 | 2022-11-25 |  |
 | [Layovers](https://open.spotify.com/track/11fKCRvb1iBkuHK7Etq3bv) | [Shapes N Clouds](https://open.spotify.com/artist/1hzy68RXMgXkGADAtpTHBl), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Layovers](https://open.spotify.com/album/0IBctredI1PfDUiPFP3OkB) | 2:49 | 2022-08-05 | 2022-10-14 |

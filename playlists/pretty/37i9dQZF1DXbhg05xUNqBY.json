@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Simple as That",
+        "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jones",
+          "url": "https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "The Thank You Song",
+      "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Simple as That",
-        "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Jones",
-          "url": "https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "The Thank You Song",
-      "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "A King & His Kindness",
-        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 248633,
-      "name": "Who is This Jesus?",
-      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Nothing but the Blood of Jesus",
         "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "A King & His Kindness",
+        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
+      },
+      "artists": [
+        {
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+        }
+      ],
+      "duration_ms": 248633,
+      "name": "Who is This Jesus?",
+      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1s10ErGVp2HSe8yQqrVUQ4"
+      },
+      "artists": [
+        {
+          "name": "Lynn Marie",
+          "url": "https://open.spotify.com/artist/3kchCQYT10xiyu2OzxK17H"
+        }
+      ],
+      "duration_ms": 236086,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4b63kPFb3CuPu0GOV2WFgf"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1s10ErGVp2HSe8yQqrVUQ4"
-      },
-      "artists": [
-        {
-          "name": "Lynn Marie",
-          "url": "https://open.spotify.com/artist/3kchCQYT10xiyu2OzxK17H"
-        }
-      ],
-      "duration_ms": 236086,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/4b63kPFb3CuPu0GOV2WFgf"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/3nUYvwazbTWIhGSjVHbfCu"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 232363,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/1Teva30jEfi9cEfDbQ1D9A"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "The End of It All",
+        "url": "https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX"
+      },
+      "artists": [
+        {
+          "name": "Alisha Eich",
+          "url": "https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1"
+        }
+      ],
+      "duration_ms": 214521,
+      "name": "The End of It All",
+      "url": "https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1751,22 +1767,6 @@
       "duration_ms": 281141,
       "name": "You're Still God - Live",
       "url": "https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "The End of It All",
-        "url": "https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX"
-      },
-      "artists": [
-        {
-          "name": "Alisha Eich",
-          "url": "https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1"
-        }
-      ],
-      "duration_ms": 214521,
-      "name": "The End of It All",
-      "url": "https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ"
     },
     {
       "added_at": "2024-07-26 09:52:44",

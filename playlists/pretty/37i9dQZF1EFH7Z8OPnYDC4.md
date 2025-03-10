@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494 likes - 330 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 330 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 84 | [Some Enchanted Evening \(From "South Pacific"\)](https://open.spotify.com/track/1wrmfmLogYsH5lcs0VntZZ) | [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6), [Giorgio Tozzi](https://open.spotify.com/artist/4OEwK9zvDEcRKWnW4dYjv0) | [Mitzi and Morris At the Movies](https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4) | 5:53 |
 | 85 | [This Nearly Was Mine](https://open.spotify.com/track/4BKxQQcll17isb1T6OL3fo) | [Emile De Becque](https://open.spotify.com/artist/1plfcn0c0NhdTZhoaEm6Qd) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 2:09 |
 | 86 | [I Enjoy Being A Girl](https://open.spotify.com/track/75tcdNn1SLvufUs3SY6Emw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [The Marvelous Mrs\. Maisel: Season 1 \(Music From The Prime Original Series\)](https://open.spotify.com/album/2aZqQ4xF5qTlEhrXmyJtcu) | 3:15 |
-| 87 | [Mister Snow](https://open.spotify.com/track/6PhehL1B9KoHF8OYP8NsIh) | [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 5:02 |
-| 88 | [Hallelujah, I'm a Bum](https://open.spotify.com/track/4aJKkm3GYi8rCYPbhV8r0b) | [Harry McClintock](https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO) | [Haywire Mac](https://open.spotify.com/album/4lv5NIEdsrjgsbcPZWkfPh) | 2:57 |
+| 87 | [Hallelujah, I'm a Bum](https://open.spotify.com/track/4aJKkm3GYi8rCYPbhV8r0b) | [Harry McClintock](https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO) | [Haywire Mac](https://open.spotify.com/album/4lv5NIEdsrjgsbcPZWkfPh) | 2:57 |
+| 88 | [Mister Snow](https://open.spotify.com/track/6PhehL1B9KoHF8OYP8NsIh) | [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 5:02 |
 | 89 | [The Most Beautiful Girl in the World](https://open.spotify.com/track/6ddd4OhO0bvYb1iTZb421r) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:23 |
 | 90 | [Bloody Mary](https://open.spotify.com/track/0sqkZeU248LS8Hs5xco8eL) | [Ken Darby Male Chorus](https://open.spotify.com/artist/59Gk1wc3QsasqaglzYllZX) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:54 |
 | 91 | [Something Wonderful](https://open.spotify.com/track/2F9Fa6OjqlWr41VgkulONg) | [Ruthie Ann Miles](https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:51 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbriDAAAAABEKyx22+lJxXcXtlKLNLEC`
+Snapshot ID: `AbrnrAAAAAA66fGgBzCAXs5ml0Dq/J5z`

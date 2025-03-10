@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > IC & Virji <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,416 likes - 391 songs - 1 day 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,473 likes - 391 songs - 1 day 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

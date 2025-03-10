@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-396 songs - 20 hr 31 min
+397 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Beauty Sleep Brown Noise \- Seamless](https://open.spotify.com/track/2uUSMaeodusMJNZ9fAPdsR) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 2:53 | 2022-10-26 |  |
 | [Better Stay Inside \(Brown Noise\)](https://open.spotify.com/track/5hvZmY0YGbXfr7L2C8tBxf) | [Zero Oto](https://open.spotify.com/artist/4iYTkNx9MkmIxDMESbIbio) | [Better Stay Inside](https://open.spotify.com/album/0N2A6HAx9qMGBKMUYvY7ST) | 5:56 | 2022-01-07 | 2023-01-21 |
 | [Beyond Brown Noise](https://open.spotify.com/track/3VDIwdXHDmSOcHCJx5XaTL) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Beyond Brown Noise](https://open.spotify.com/album/5qkYY3XTt8WYNmAUFw4Dkv) | 2:35 | 2024-01-10 |  |
-| [Big City Brown Noise](https://open.spotify.com/track/6p0QCTHChgNeBi1vxP2L7N) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Big City Brown Noise](https://open.spotify.com/album/0YjyRni3HXuhka7Ff942Qv) | 3:04 | 2023-10-06 |  |
+| [Big City Brown Noise](https://open.spotify.com/track/6p0QCTHChgNeBi1vxP2L7N) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Big City Brown Noise](https://open.spotify.com/album/0YjyRni3HXuhka7Ff942Qv) | 3:04 | 2023-10-06 | 2025-03-10 |
 | [Big Waterfall Brown Noise](https://open.spotify.com/track/7eDoyHAqFhm4QRME1GYQFV) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:23 | 2022-07-29 |  |
 | [Blizzful Brown Noise](https://open.spotify.com/track/1d5PwQ0y69KCn5Ek7CRfSw) | [Yin Shui](https://open.spotify.com/artist/1lZlfq2dH04NjJl8vZgoYc) | [Blizzful Brown Noise](https://open.spotify.com/album/043WFMJ8vFNrhrdg46GCmF) | 2:54 | 2024-07-26 | 2024-12-12 |
 | [Brown & Beautiful](https://open.spotify.com/track/6XGoB0EKMCvm63YV61ndRf) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Brown Heavenly Noise](https://open.spotify.com/album/0iBBk21u80JLwr4TO0tRGk) | 2:54 | 2022-10-26 | 2023-03-10 |
@@ -214,6 +214,7 @@
 | [Clouds \(Brown Noise\)](https://open.spotify.com/track/2g5t61FK81Fg05dLT6jZ5j) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bedtime Brown Noise](https://open.spotify.com/album/1Vw1qEL9XX6yKjqnwgEf13) | 3:46 | 2022-06-14 | 2023-10-27 |
 | [Cozy Brown Noise 125 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/5uCl0fZUTihAj5QXeEpgxu) | [Puffs Of Bliss](https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq) | [Cozy Brown Noise 125 Hz Q 0.5](https://open.spotify.com/album/29x19DdtjMVYKhhTPXWez2) | 2:51 | 2022-06-14 |  |
 | [Cozy Brown Noise Part 2](https://open.spotify.com/track/70GRo6VnkR6W0oYertyJ3O) | [Colors Of Fluff](https://open.spotify.com/artist/3i23IWJed3WRcLvgCv4HA2) | [Cozy Brown Noise](https://open.spotify.com/album/18lAPEiro512Fkfpr47IUv) | 2:51 | 2022-12-16 |  |
+| [Cozy Chesnut Dreams](https://open.spotify.com/track/3eL5FsGnbgNY7ygd5JKuHm) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Cozy Chesnut Dreams](https://open.spotify.com/album/5vUw31uxjtckjCMqrCQ09p) | 4:30 | 2025-02-25 |  |
 | [Craving Sleep](https://open.spotify.com/track/7pijMSrmFltPz3QSQrt7Ml) | [Perfect Zounds](https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ) | [Constitutional Noise](https://open.spotify.com/album/76TTatc2WoLSC70jFPl4K7) | 1:53 | 2022-01-07 | 2023-06-29 |
 | [Crux Brown Noise](https://open.spotify.com/track/4gUI9mfQupthMokSX28qWJ) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 3:04 | 2022-01-07 | 2022-12-17 |
 | [Curing Brown Noise](https://open.spotify.com/track/7rKsBBSWIxNoNVpxl3esKU) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Curing Brown Noise](https://open.spotify.com/album/2UrNk9OcEo7z7FzHEYYerq) | 3:34 | 2022-10-26 |  |

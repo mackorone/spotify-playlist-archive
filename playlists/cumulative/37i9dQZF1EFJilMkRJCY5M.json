@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Hello California",
+        "url": "https://open.spotify.com/album/2PnbNBgtDA7VPdIJaHOYV3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250284,
+      "name": "Home We Choose",
+      "url": "https://open.spotify.com/track/0XxwxPxS2oK6Iv0Ge6DwkB"
+    },
+    {
+      "album": {
         "name": "Home We Choose",
         "url": "https://open.spotify.com/album/3JCvxtcHrxJ97MlqVUUnEA"
       },
@@ -872,7 +890,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 250284,
       "name": "Home We Choose",
       "url": "https://open.spotify.com/track/0zGMBpjVICRyirb4R37Z2d"

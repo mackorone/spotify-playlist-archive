@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen: un homenaje a Violeta Parra. ",
-  "num_followers": 14326,
+  "num_followers": 14332,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Lev\u00edtico 20:9",
-      "url": "https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Cari\u00f1o Malo",
         "url": "https://open.spotify.com/album/1Py0xymBaKzMvbAFi9I5ug"
       },
@@ -183,34 +167,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
+      "duration_ms": 228213,
+      "name": "Lev\u00edtico 20:9",
+      "url": "https://open.spotify.com/track/0l3zOe0a5HH4uAw6ZS89dn"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -243,6 +211,38 @@
       "duration_ms": 204312,
       "name": "Canci\u00f3n para Acunar",
       "url": "https://open.spotify.com/track/72vh5bshCrmUNZ1ijYfrDf"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -295,18 +295,26 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+        "name": "Chao",
+        "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 176599,
-      "name": "A la Mar Fui por Naranjas",
-      "url": "https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48"
+      "duration_ms": 309221,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -343,30 +351,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Chao",
-        "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 309221,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Tu Isla",
         "url": "https://open.spotify.com/album/78d7xBJ5aj3JHBCHJObniR"
       },
@@ -387,6 +371,38 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
+        "name": "Del otro lado",
+        "url": "https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 176599,
+      "name": "A la Mar Fui por Naranjas",
+      "url": "https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Del otro lado",
-        "url": "https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
       },
       "artists": [
         {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+          "name": "Nicole Bunout",
+          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI"
+      "duration_ms": 198954,
+      "name": "Ser jazm\u00edn, ser golondrina",
+      "url": "https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -435,18 +451,22 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx"
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
       "artists": [
         {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 198954,
-      "name": "Ser jazm\u00edn, ser golondrina",
-      "url": "https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg"
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
     },
     {
       "added_at": "2025-02-05 15:44:52",
@@ -527,62 +547,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "Aunque Duela",
-        "url": "https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Pajarito",
-          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
-        },
-        {
-          "name": "Catalina y Las Bordonas de Oro",
-          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Noche no te vayas",
-      "url": "https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
-        "name": "Que me des tu cari\u00f1o",
-        "url": "https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6"
-      },
-      "artists": [
-        {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        }
-      ],
-      "duration_ms": 210823,
-      "name": "Que me des tu cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Unita",
         "url": "https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx"
       },
@@ -619,6 +583,42 @@
       "duration_ms": 211500,
       "name": "Petronila",
       "url": "https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Aunque Duela",
+        "url": "https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Noche no te vayas",
+      "url": "https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "Po\u00e9tica Bailable Vol. 1",
+        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3"
     }
   ],
   "unique_name": "EQUAL Chile",

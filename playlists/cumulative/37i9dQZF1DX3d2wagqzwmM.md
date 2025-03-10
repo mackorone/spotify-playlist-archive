@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: D'Angello & Francis
 
-558 songs - 1 day 4 hr 39 min
+559 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Boys with the Bass](https://open.spotify.com/track/588RciZEGcf1OsPVqKGgFr) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Boys with the Bass](https://open.spotify.com/album/6f81JndxCpIdt5y9C0dq7L) | 2:17 | 2022-06-09 | 2022-07-30 |
 | [Breaking Through](https://open.spotify.com/track/6jv0t2PcQM4urAiF3w9GjU) | [Renato S](https://open.spotify.com/artist/2M9nsWRUhhvYvfZmOYgTwZ), [K1LO](https://open.spotify.com/artist/7c3CDjLPLotUtT0U4nSv0Z), [Future Nex](https://open.spotify.com/artist/63irfIb8L1InEPxKnHobdb) | [Breaking Through](https://open.spotify.com/album/0uLVKjfLACrkWYcmAErp4h) | 3:05 | 2022-06-02 | 2022-06-10 |
 | [Breathless](https://open.spotify.com/track/5tv7mnf7It0QSeAcQqCx7I) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Crash & Smile in Dada Land \- August](https://open.spotify.com/album/21d8b7JIJZiKjr2idiOa1p) | 3:10 | 2023-08-24 | 2023-09-30 |
+| [Bring Back The Techno](https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Bring Back The Techno](https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME) | 3:01 | 2025-03-06 |  |
 | [Bring It Back To Me](https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Bring It Back To Me](https://open.spotify.com/album/1MFcZzdhLf5W9gxjLhtECA) | 2:42 | 2022-04-14 | 2022-07-28 |
 | [Bring It Home](https://open.spotify.com/track/5psWU2jGCGr96IkgqHsHHs) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Bring It Home](https://open.spotify.com/album/6YekFTHei1ykAcF2p51hJx) | 2:42 | 2022-04-14 | 2022-07-27 |
 | [Bulldog](https://open.spotify.com/track/19nsltZHkVqAcbb2l88nZl) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Bulldog](https://open.spotify.com/album/3rgoXlNRYK7WbG4LsDWzjs) | 3:13 | 2022-04-14 | 2022-06-22 |
@@ -124,7 +125,7 @@
 | [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-14 | 2024-12-18 |
 | [Disco Dancer](https://open.spotify.com/track/7bAELPbQxGZG69KcsyyWbm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Disco Dancer](https://open.spotify.com/album/4pXwKxIA4uqzIdGBV9kc6t) | 3:00 | 2023-12-14 | 2024-01-19 |
 | [DIZZY](https://open.spotify.com/track/4tad4xhOPGpdn75AR2AutJ) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [DIZZY](https://open.spotify.com/album/0OKLtHtRMgVCYilRq4Rmny) | 3:17 | 2024-09-26 | 2024-11-15 |
-| [Don't Stop](https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Don't Stop](https://open.spotify.com/album/11quz1atuSXaO7Wzadme9m) | 3:03 | 2024-12-20 |  |
+| [Don't Stop](https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Don't Stop](https://open.spotify.com/album/11quz1atuSXaO7Wzadme9m) | 3:03 | 2024-12-20 | 2025-03-10 |
 | [Don't You Want Me](https://open.spotify.com/track/2FxJX5c1FkfLpladsgoLAD) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [Don't You Want Me](https://open.spotify.com/album/6cGN6MEAMsWtglYJXwb1Af) | 2:33 | 2022-04-14 | 2022-10-14 |
 | [DOPAMINE](https://open.spotify.com/track/151txDMLIDSM09ck9bzrXy) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [DOPAMINE](https://open.spotify.com/album/5yqxGufhD9VZHM2eI2uLDj) | 3:45 | 2022-05-12 | 2022-07-15 |
 | [DOPAMINE](https://open.spotify.com/track/4Mjc2zxEwmfs2iiyD2iniI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:45 | 2022-12-27 | 2023-01-03 |

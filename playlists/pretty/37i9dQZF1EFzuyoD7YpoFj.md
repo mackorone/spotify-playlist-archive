@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 405 songs - 21 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 405 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 95 | [Lotus Bloom](https://open.spotify.com/track/1FipQSNOOFX9ozHEOhBCA0) | [Blue Stone](https://open.spotify.com/artist/5ZCcVPmY6ymLPStzhEFolI) | [Messages](https://open.spotify.com/album/5E70XG2vFTkW0Buxm39NRy) | 4:54 |
 | 96 | [True Love](https://open.spotify.com/track/1ofDB7PXhHez9ewlJdqGaF) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Hollywood Musicals](https://open.spotify.com/album/7cyUYpjcFWylXVrupufK8i) | 3:06 |
 | 97 | [Good Lookin'](https://open.spotify.com/track/7BfFvobZKp9D8CzGUXE4dh) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Miss Etta James: The Complete Modern and Kent Recordings](https://open.spotify.com/album/2VvaqZM4wcBLL8i4qYf31N) | 2:11 |
-| 98 | [Embraceable You](https://open.spotify.com/track/77BP5hP4ruuxg8fDtolA8r) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music Presents Nat King Cole](https://open.spotify.com/album/42hYk8WNldHN1djZxyLfkq) | 3:26 |
-| 99 | [Come Along With Me](https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Best Of The Del Vikings](https://open.spotify.com/album/5rD1gVh3RZ6PfZLlodeWG9) | 1:59 |
+| 98 | [Come Along With Me](https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Best Of The Del Vikings](https://open.spotify.com/album/5rD1gVh3RZ6PfZLlodeWG9) | 1:59 |
+| 99 | [Embraceable You](https://open.spotify.com/track/77BP5hP4ruuxg8fDtolA8r) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music Presents Nat King Cole](https://open.spotify.com/album/42hYk8WNldHN1djZxyLfkq) | 3:26 |
 | 100 | [I'm in Love](https://open.spotify.com/track/7KfDFBUpW8QA2etcR0Og8X) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Most Things Haven't Worked Out](https://open.spotify.com/album/5kJYRgdltMekWMls3mEBSE) | 8:38 |
 | 101 | [You And Me \(We Wanted It All\)](https://open.spotify.com/track/6iA7PtgzePpEjz0qaGyYgp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 4:09 |
 | 102 | [You'd Be So Nice To Come Home To \- Remastered 1998](https://open.spotify.com/track/5cNTrq3s5Us1aibaLQfXCi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:04 |
@@ -370,8 +370,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 360 | [Visit Panama](https://open.spotify.com/track/4EE4oqFo0wxD8mrQDPiwyl) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Rhumba and Conga with Cugat](https://open.spotify.com/album/5Xu4nuEFz1Jx3nZ1LgJWGp) | 3:24 |
 | 361 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 |
 | 362 | [Noite e Dia](https://open.spotify.com/track/0GHM6p3dWeF42wfW6m0AeC) | [Vitoria Maldonado](https://open.spotify.com/artist/2nG4E6YcuST9Fql9uUQa3Q), [Ron Carter Quartet](https://open.spotify.com/artist/1FZbleR1waNhe2389QAtaN) | [BRASIL L.I.K.E\. Versões](https://open.spotify.com/album/29JD82mnjsGjt5E9Deq0yS) | 3:26 |
-| 363 | [Der er Stille i Nat](https://open.spotify.com/track/3qJGdiAC1Rx05BpwWasOd9) | [Katrine Falkenberg](https://open.spotify.com/artist/12OytbQmTaREPGbzz1g1oh) | [I De Små Timer](https://open.spotify.com/album/7LwQRRNN6QPwFjhe7UIQD8) | 2:56 |
-| 364 | [Nymph Errant: The Physician](https://open.spotify.com/track/2oruZcWvBgoayQ2Y477IEB) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Porter, Cole: But in the Morning, No \(1930\-1943\)](https://open.spotify.com/album/4bKjxnVbPozs10v7BhCnO5) | 3:04 |
+| 363 | [Nymph Errant: The Physician](https://open.spotify.com/track/2oruZcWvBgoayQ2Y477IEB) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Porter, Cole: But in the Morning, No \(1930\-1943\)](https://open.spotify.com/album/4bKjxnVbPozs10v7BhCnO5) | 3:04 |
+| 364 | [Der er Stille i Nat](https://open.spotify.com/track/3qJGdiAC1Rx05BpwWasOd9) | [Katrine Falkenberg](https://open.spotify.com/artist/12OytbQmTaREPGbzz1g1oh) | [I De Små Timer](https://open.spotify.com/album/7LwQRRNN6QPwFjhe7UIQD8) | 2:56 |
 | 365 | [I Got Beauty](https://open.spotify.com/track/5JyCjjIZSewGWlfyny7TaM) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Out Of This World](https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI) | 2:25 |
 | 366 | [Lost Liberty Blues](https://open.spotify.com/track/0qA1taZ05HXvLMMw0pazYy) | [Maude Maggart](https://open.spotify.com/artist/4wTzstrh0MiJCszv5s8nov) | [Look For The Silver Lining](https://open.spotify.com/album/3bkN6mz4OANEzLhLNBjwdB) | 1:14 |
 | 367 | [See That You're Born in Texas](https://open.spotify.com/track/2m1I96VI4xleOHLGtyDanJ) | [Something for the Boys Ensemble](https://open.spotify.com/artist/16BLrbRexYqtGXjqMRGgNu) | [Something for the Boys \(2018 Studio Cast Recording\)](https://open.spotify.com/album/65LY4Eb3mx3xevfaycMflh) | 2:48 |
@@ -414,4 +414,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 404 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbriDAAAAAC+lfJAN5g5lxL2SVtvYx5q`
+Snapshot ID: `AbrntgAAAACTzhdja6fXhzh2BFYcBkIX`

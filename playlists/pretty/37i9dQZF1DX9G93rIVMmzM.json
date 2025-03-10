@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 328881,
+  "num_followers": 328982,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 243522,
+      "name": "Keep Sweet",
+      "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
         "name": "Avenged Sevenfold",
         "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+        "name": "Team Sleep (U.S. Release)",
+        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Team Sleep",
+          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         }
       ],
-      "duration_ms": 243522,
-      "name": "Keep Sweet",
-      "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+      "duration_ms": 188133,
+      "name": "Blvd. Nights",
+      "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -615,22 +631,6 @@
       "duration_ms": 192340,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "Team Sleep (U.S. Release)",
-        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
-      },
-      "artists": [
-        {
-          "name": "Team Sleep",
-          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Blvd. Nights",
-      "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -859,6 +859,26 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
+        "name": "velvet",
+        "url": "https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 170462,
+      "name": "velvet",
+      "url": "https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
         "name": "GALORE",
         "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "velvet",
-        "url": "https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        },
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 170462,
-      "name": "velvet",
-      "url": "https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 190833,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "Ant In The Afterbirth (feat. Loathe)",
         "url": "https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 222580,
       "name": "Ant In The Afterbirth - feat. Loathe",
       "url": "https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 190833,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1087,6 +1087,22 @@
       "duration_ms": 247320,
       "name": "Aquila",
       "url": "https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "i want the light to swallow me whole",
+        "url": "https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 218784,
+      "name": "i want the light to swallow me whole",
+      "url": "https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1135,22 +1151,6 @@
       "duration_ms": 200624,
       "name": "CHILDREN OF SORROW",
       "url": "https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "i want the light to swallow me whole",
-        "url": "https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 218784,
-      "name": "i want the light to swallow me whole",
-      "url": "https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj"
     },
     {
       "added_at": "2025-03-07 05:00:32",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,416 songs - 3 day 9 hr 45 min
+1,417 songs - 3 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -859,7 +859,7 @@
 | [Need Me Right](https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Need Me Right](https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM) | 2:24 | 2022-12-17 |  |
 | [Need U](https://open.spotify.com/track/48GmVZwvkoVC5StfMLfNJE) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Need U](https://open.spotify.com/album/2yBTjWwQLEr2i0LTIcUmwT) | 3:39 | 2019-08-31 | 2020-10-30 |
 | [Need You](https://open.spotify.com/track/6p6cQ8Tn7UV9MAPDe0pHD2) | [Cerus](https://open.spotify.com/artist/7fquLeTBUvpluuODNIgSLY), [Lyra D.](https://open.spotify.com/artist/3rzHZCEpnWprcZOnNXy1xE) | [Need You](https://open.spotify.com/album/3yUCouzEI7ZkzEldUq1WBX) | 3:48 | 2020-06-04 | 2021-09-25 |
-| [Need You](https://open.spotify.com/track/74cLnkWR7HipkVt9yLBBO1) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9), [The Luv](https://open.spotify.com/artist/1OsWW3Akaw0Xz5eeKORfhY) | [Need You](https://open.spotify.com/album/2NbcL4xJTl7QpBnLIrXuGY) | 3:34 | 2024-04-09 |  |
+| [Need You](https://open.spotify.com/track/74cLnkWR7HipkVt9yLBBO1) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9), [The Luv](https://open.spotify.com/artist/1OsWW3Akaw0Xz5eeKORfhY) | [Need You](https://open.spotify.com/album/2NbcL4xJTl7QpBnLIrXuGY) | 3:34 | 2024-04-09 | 2025-03-10 |
 | [Need You Now](https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Need You Now](https://open.spotify.com/album/5C3KEDOzJjeaEfyvrnGD68) | 3:01 | 2020-10-30 | 2021-09-25 |
 | [Need You Now](https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Need You Now](https://open.spotify.com/album/4Ov2ROEu45kJN8JsKGoXJm) | 3:04 | 2019-08-09\* | 2020-03-29 |
 | [Neon \(Alluvion\)](https://open.spotify.com/track/6QzlmvDyanUTOurfdXLLwR) | [Thomas Hayes](https://open.spotify.com/artist/1127FlmEDHXC26IBsg8zHP), [Joni Fatora](https://open.spotify.com/artist/43NRjpCGCIj6GkhnAMdC60) | [Neon \(Alluvion\)](https://open.spotify.com/album/2J1QlSIGYvivKQOShRog3h) | 3:26 | 2020-04-16 | 2021-09-11 |
@@ -1372,6 +1372,7 @@
 | [With Every Heartbeat](https://open.spotify.com/track/7hszaqqhPkMZ8CHUWUE5ag) | [Son Of 8](https://open.spotify.com/artist/4oTsCGdqRXW2bs7FbYtqIi), [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [With Every Heartbeat](https://open.spotify.com/album/30Vqyo3E3acZ0utPRZqQmJ) | 3:17 | 2019-08-10 | 2019-08-27 |
 | [With Me](https://open.spotify.com/track/3BAqz3rhnEEIvW8KWBr3E7) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [With Me](https://open.spotify.com/album/08JGDZxUzYyCPaZYziCP88) | 3:03 | 2020-09-07 | 2021-09-25 |
 | [With You](https://open.spotify.com/track/3gCF6JWBIyUxkKSA5GjCPR) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 4:31 | 2019-08-09\* | 2019-11-30 |
+| [With You](https://open.spotify.com/track/3MaQZqQ8LwRgOYHdQSyvxm) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Erolflynn](https://open.spotify.com/artist/6SWhyQG2La9G5ERxV3u64L) | [With You](https://open.spotify.com/album/7pvH2zsXHMCPsEOb1OFBQI) | 2:30 | 2025-03-07 |  |
 | [With You](https://open.spotify.com/track/4EQsvb4EX5TgiXiwMxADJL) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [With You](https://open.spotify.com/album/0WpclKxFD2ZPtqf58NnbEl) | 2:57 | 2020-02-24 | 2021-09-25 |
 | [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 | 2023-03-07 | 2025-03-09 |
 | [With You, Friends \(Long Drive\)](https://open.spotify.com/track/1aF6jpITT6RzPxrYsZJeIm) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 6:29 | 2019-08-09\* | 2019-08-27 |

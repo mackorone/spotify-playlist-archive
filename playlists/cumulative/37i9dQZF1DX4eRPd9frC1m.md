@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-397 songs - 21 hr 34 min
+398 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Don’t You](https://open.spotify.com/track/22KuNvUTXHXMWVTAHOVA5g) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Don’t You](https://open.spotify.com/album/1GqED9CbRT7TaDrnX0zVq6) | 3:36 | 2021-11-19 | 2022-01-08 |
 | [DOPE](https://open.spotify.com/track/4kfJjBolZLPkfDxRYbibf7) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [NvrLeft](https://open.spotify.com/artist/2OL86NTb076d9B6laTqWKs) | [DOPE](https://open.spotify.com/album/5VucFyBylOUBIWGJLIoryY) | 2:45 | 2021-11-19 | 2022-01-08 |
 | [Dream State](https://open.spotify.com/track/1UjKSiQCcL6j4pvLBJDjXn) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Dream State](https://open.spotify.com/album/2enXCPdEfvakhOYgXoRrFK) | 3:22 | 2021-11-19 | 2022-01-08 |
+| [Drown](https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Drown](https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8) | 2:40 | 2025-03-07 |  |
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-02-24 |  |
 | [Emergence](https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [LLLLNNNN](https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR) | [Emergence](https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd) | 2:56 | 2022-01-07 | 2022-07-21 |
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-01-08 |
@@ -179,7 +180,7 @@
 | [Just A Memory](https://open.spotify.com/track/04uN33LDNYMhtE8RHK4LJx) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Volt](https://open.spotify.com/artist/2kKSibjeb2x2e6L3VjJkRu) | [Just A Memory](https://open.spotify.com/album/3RIpjhTOcDiVBS44LMUd48) | 2:32 | 2021-11-19 | 2022-01-08 |
 | [KAMIKAZE](https://open.spotify.com/track/47cElLEwnbplOSL5iHeu4o) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [KAMIKAZE](https://open.spotify.com/album/3FU0HokIS8Apw4Mt6zNYqL) | 3:51 | 2021-11-19 | 2022-01-08 |
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 | 2023-10-25 |
-| [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 | 2024-09-06 |  |
+| [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 | 2024-09-06 | 2025-03-10 |
 | [KEEP MOVING](https://open.spotify.com/track/2JVBtjVMRIctYNfyfH2jFG) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [KEEP MOVING](https://open.spotify.com/album/3MgI9BRVnHvFyYIQdOuG6F) | 4:06 | 2021-11-19 | 2022-01-08 |
 | [Keep Pushin' \(Beast\)](https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd) | [Keep Pushin' \(Beast\)](https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC) | 3:05 | 2024-11-22 |  |
 | [Kill Dem](https://open.spotify.com/track/6hNZISTiVkTEyex4iffmlF) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Take Kontrol EP](https://open.spotify.com/album/0GafcS48qSca0W4Hx2LxLP) | 3:26 | 2021-11-19 | 2022-01-08 |

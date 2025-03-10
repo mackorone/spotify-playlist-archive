@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "LOS CINCO ELEMENTOS",
+        "url": "https://open.spotify.com/album/4UuLcOxd0miCPzd315KVpL"
+      },
+      "artists": [
+        {
+          "name": "Carla Delgado",
+          "url": "https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/6JFbsFLjUP6rEL6tQAbpp9"
+    },
+    {
+      "album": {
         "name": "Las Mareas",
         "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
       },
@@ -8799,6 +8817,24 @@
     },
     {
       "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/6TaMw9HXmDeMefJDTewDRi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Und Destruktion",
+          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116095,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/08y5JyrixoNYXnZcWcLyaV"
+    },
+    {
+      "album": {
         "name": "Bajamar",
         "url": "https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh"
       },
@@ -9940,7 +9976,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
@@ -12490,7 +12526,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"

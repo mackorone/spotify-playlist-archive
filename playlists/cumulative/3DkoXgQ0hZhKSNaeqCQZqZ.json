@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "POM-POM GUILLOTINE",
+        "url": "https://open.spotify.com/album/5sPglyjvgeRbUqP4HdkYXJ"
+      },
+      "artists": [
+        {
+          "name": "lizzy's personal army",
+          "url": "https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "HEAVENSENT!",
+      "url": "https://open.spotify.com/track/6uen3LTLbdTnRtge8fA3pv"
+    },
+    {
+      "album": {
         "name": "High Sky (Remix)",
         "url": "https://open.spotify.com/album/3WfUus5Fo8QWjV3FwGYOtF"
       },
@@ -3358,10 +3376,6 @@
         {
           "name": "Zunkz",
           "url": "https://open.spotify.com/artist/0UOXglBL2dBoKtIH5Uk1KB"
-        },
-        {
-          "name": "Outflown",
-          "url": "https://open.spotify.com/artist/0Pu0kj6pZZpESARwTn60I7"
         }
       ],
       "date_added": "2024-05-08",

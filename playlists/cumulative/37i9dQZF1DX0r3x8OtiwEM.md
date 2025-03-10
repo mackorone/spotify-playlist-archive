@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-680 songs - 2 day 18 hr 21 min
+681 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alfortville](https://open.spotify.com/track/2c7WrSsnIYnBYCrUi0HP11) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Alfortville EP](https://open.spotify.com/album/2U8G8IAd5eEDk3rvfFddan) | 7:15 | 2021-05-07 | 2021-05-28 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-08-12 |  |
 | [All I Know](https://open.spotify.com/track/3xaiWZvVvs59VpCtNWEUY6) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Megan EP](https://open.spotify.com/album/4vzXrvITQCyH3FSQMygG2V) | 7:43 | 2020-03-25 | 2020-04-09 |
+| [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 | 2025-03-07 |  |
 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
 | [Alle](https://open.spotify.com/track/1SMyvP1TNiTiJ8rDZG54BJ) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha), [La Fraicheur](https://open.spotify.com/artist/5xrTRjPCPnJZVsI6RUaG1i) | [Alle](https://open.spotify.com/album/1s3j5UFwrQGG8Z971wgeaD) | 6:41 | 2019-10-24 | 2020-03-19 |
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-09-01 | 2024-10-13 |
@@ -349,7 +350,7 @@
 | [Luminous](https://open.spotify.com/track/39zV5zT04fDhtCECIoLWZf) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [SPLIT 02](https://open.spotify.com/album/6zauR5OL3j8drzdk8dyLla) | 6:08 | 2020-09-11 | 2020-12-05 |
 | [Lutanium](https://open.spotify.com/track/1Is0qsDYVt1C7eFJXfV87j) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peter Groskreutz](https://open.spotify.com/artist/4jQG9Atvh30T0vUM0A7nm3) | [Drifting Rocks](https://open.spotify.com/album/5SmuYVVsroSUApTayB6UmS) | 6:12 | 2020-08-30 | 2020-11-14 |
 | [Magna Terram](https://open.spotify.com/track/3lrqo0H2qAyGuaGMlckgBY) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Memorial](https://open.spotify.com/album/6frDY8rWqFXwdmCjhiuho4) | 8:25 | 2019-09-06 | 2020-05-22 |
-| [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 | 2024-12-06 |  |
+| [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 | 2024-12-06 | 2025-03-10 |
 | [Malecón Azul \- Extended Mix](https://open.spotify.com/track/7zaekywYAg9HuOEK1XXrz0) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Malecón Azul](https://open.spotify.com/album/0S2CP7bvlI3JolkH5c4LGj) | 7:16 | 2019-08-08 | 2020-06-11 |
 | [Mangata](https://open.spotify.com/track/1b1xsJxcacFAv5Y9wybBQf) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 7:06 | 2019-10-17 | 2020-06-10 |
 | [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-06-30 | 2024-04-19 |

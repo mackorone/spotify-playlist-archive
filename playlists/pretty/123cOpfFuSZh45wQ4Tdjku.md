@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 933 likes - 295 songs - 15 hr 1 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 931 likes - 296 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -303,5 +303,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 293 | [Confessions of a Rotten Girl](https://open.spotify.com/track/1dHVuQPNmn5rhRgOdD0WlF) | [SAWTOWNE](https://open.spotify.com/artist/7FrCrchJaoLmKcn3jcGWoX) | [Confessions of a Rotten Girl](https://open.spotify.com/album/6eaUMgU5URwsLllOml5Iwn) | 3:26 |
 | 294 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |
 | 295 | [With My Friends](https://open.spotify.com/track/55J7Zl7xiFqiGofRHgodbO) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [With My Friends](https://open.spotify.com/album/1fFd2zeApK1EmTlM7ksl9T) | 2:28 |
+| 296 | [Rawr :3](https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi) | [Rawr :3](https://open.spotify.com/album/1Pz50tlzfchpsbVr6SaCf8) | 2:00 |
 
-Snapshot ID: `AAABWmmRHx2bmvXaSH9mlBZLkUr3XuIF`
+Snapshot ID: `AAABW2zKbjcVKuherJ8zwrOBrjohpkiZ`

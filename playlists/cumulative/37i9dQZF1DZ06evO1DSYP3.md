@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-101 songs - 4 hr 44 min
+102 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 | 2024-01-29 |  |
 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 | 2024-01-29 | 2025-02-16 |
 | [Light This Bitch Up](https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 4:03 | 2024-01-29 |  |
-| [Lights Out \(feat\. John Mackk & Lil Bean\)](https://open.spotify.com/track/6tlgzzsJ7Yzz5xrTRjtJG1) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [Lights Out \(feat\. John Mackk & Lil Bean\)](https://open.spotify.com/album/0qACXOpD4MmGz6448C0CaI) | 2:05 | 2024-12-22 |  |
+| [Lights Out \(feat\. John Mackk & Lil Bean\)](https://open.spotify.com/track/0VXacox6s7pB4SRFwcF42I) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 2:05 | 2025-03-10 |  |
+| [Lights Out \(feat\. John Mackk & Lil Bean\)](https://open.spotify.com/track/6tlgzzsJ7Yzz5xrTRjtJG1) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [Lights Out \(feat\. John Mackk & Lil Bean\)](https://open.spotify.com/album/0qACXOpD4MmGz6448C0CaI) | 2:05 | 2024-12-22 | 2025-03-10 |
 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 | 2024-01-29 | 2025-01-18 |
 | [LIL LAD \(UNIMPRESSED\)](https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:32 | 2024-07-11 |  |
 | [Lo Lo](https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:23 | 2024-06-09 |  |

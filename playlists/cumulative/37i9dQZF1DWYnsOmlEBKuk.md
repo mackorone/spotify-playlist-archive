@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-249 songs - 12 hr 9 min
+250 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 | 2023-09-11 |  |
 | [Lullaby Noise](https://open.spotify.com/track/6OJyeoxhqTWQgBdeL2UQFE) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Baby Sleep Noise](https://open.spotify.com/album/175abkm2ojCKUtNBP691ZV) | 2:49 | 2023-09-11 | 2023-12-05 |
 | [Magic Baby Noise](https://open.spotify.com/track/3mdZaRNblDtvpwSrjZef4p) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Baby Noise Machine](https://open.spotify.com/album/69XDtLpr30IiwcnJuNGYuR) | 3:16 | 2023-09-11 |  |
+| [Marina Spectrum](https://open.spotify.com/track/0c2MpWGREvtCbThpvgUCuU) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Marina Spectrum](https://open.spotify.com/album/3lJgm6LPUnZ3gTrKqC3CB8) | 2:44 | 2025-02-04 |  |
 | [Mellow Forest Noise](https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:26 | 2023-09-11 |  |
 | [Mind Clearing Noise](https://open.spotify.com/track/2O6IBOoJa3xdf9UJYDu2ek) | [Hypnotic Noise](https://open.spotify.com/artist/5NEOAF1p2oJqwe3RWBCgmL) | [Hypnotic Noise](https://open.spotify.com/album/1XFz2dz73iuCiXadt8rpAi) | 2:44 | 2023-09-11 |  |
 | [Mind Clearing Noise](https://open.spotify.com/track/4u75RQbjnohewfAQBXdEAn) | [Kilo Herz](https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL) | [Ocean Of Noise](https://open.spotify.com/album/6o5AdyLgf4mnYnYAUp9H86) | 3:26 | 2023-09-11 |  |
@@ -153,7 +154,7 @@
 | [Soft Blast](https://open.spotify.com/track/7fn5ya7NmgMuuOJbIgPAfy) | [Bits & Noise](https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ) | [Soft Blast](https://open.spotify.com/album/5FabJyxm47hPSwUrJkJLx8) | 2:13 | 2023-09-11 |  |
 | [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2023-09-11 |  |
 | [Soft Noise](https://open.spotify.com/track/4fsfEiFvQfE29jOV2PSCJW) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Baby Bedtime Noise](https://open.spotify.com/album/5LEScikAzc9W54vqrtENDq) | 2:30 | 2023-09-11 |  |
-| [Softening Frequencies Part 1](https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Softening Frequencies](https://open.spotify.com/album/3klP1gEXHQAoOoXxoMW3ov) | 2:30 | 2023-09-11 |  |
+| [Softening Frequencies Part 1](https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Softening Frequencies](https://open.spotify.com/album/3klP1gEXHQAoOoXxoMW3ov) | 2:30 | 2023-09-11 | 2025-03-10 |
 | [Sonido Sonora](https://open.spotify.com/track/2XW35SHWNOv15kYLwbeCcn) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ondas de Sonido Blancas](https://open.spotify.com/album/763mIagaLoDTcpWcVwmgSR) | 2:54 | 2023-12-04 | 2024-06-08 |
 | [Soothing Deep](https://open.spotify.com/track/7onLbJEZjADTmezCnSWND5) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 3:07 | 2023-09-11 |  |
 | [Soothing Field Noise](https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:33 | 2023-09-11 |  |

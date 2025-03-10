@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Asteromata",
+        "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175385,
+      "name": "Asteromata",
+      "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
+    },
+    {
+      "album": {
         "name": "Mut",
         "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
       },
@@ -7344,7 +7362,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 149766,
       "name": "Doot Doot (6 7) (Bonus Track)",
       "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 116362,
       "name": "DREI FOTZEN MIT NEM BOMBENARSCH",
       "url": "https://open.spotify.com/track/08osUJlz5tYiBdvBofX11v"
@@ -12818,7 +12836,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 179826,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/42QSbLEWLo0RhXG7hwwpdF"
@@ -12951,6 +12969,24 @@
     },
     {
       "album": {
+        "name": "Mein Lied F\u00fcr Dich",
+        "url": "https://open.spotify.com/album/0HIs4TKCDukLpSvVZXE6Ti"
+      },
+      "artists": [
+        {
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
+        }
+      ],
+      "date_added": "2025-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296573,
+      "name": "Ich liebe das Leben",
+      "url": "https://open.spotify.com/track/0O4y3bhVmVia7L5FYLXjoS"
+    },
+    {
+      "album": {
         "name": "Ich Liebe Das Leben",
         "url": "https://open.spotify.com/album/3TFTemTUIkDG3lRPP83YMm"
       },
@@ -12962,7 +12998,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 296853,
       "name": "Ich liebe das Leben",
       "url": "https://open.spotify.com/track/3c12xbWbu6Xv3oeoV2upg6"
@@ -17390,7 +17426,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 157000,
       "name": "Mein Lieblingstier ist der Zapfhahn",
       "url": "https://open.spotify.com/track/131bBiUC9lvi2vm86PfCG0"
@@ -17518,7 +17554,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 214146,
       "name": "Mendil",
       "url": "https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G"
@@ -17650,7 +17686,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -20372,7 +20408,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -24290,7 +24326,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 142943,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/5J40E1eRcEKaN8xl3Ba0D5"
@@ -28030,7 +28066,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 157151,
       "name": "vorsatz",
       "url": "https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH"

@@ -20856,7 +20856,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 168250,
       "name": "Loafing About",
       "url": "https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao"
@@ -32384,7 +32384,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/22wNJY4P4mwQJh0TupVykW"
@@ -33824,7 +33824,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-10",
       "duration_ms": 135529,
       "name": "Something Shines",
       "url": "https://open.spotify.com/track/6m7m9bv8WjlW4I0OlLpLTD"
@@ -40194,6 +40194,24 @@
       "duration_ms": 164124,
       "name": "Violet",
       "url": "https://open.spotify.com/track/5ef8IbRrcVziFxriCF1q3o"
+    },
+    {
+      "album": {
+        "name": "violett",
+        "url": "https://open.spotify.com/album/0oVauZ9v5kgCLQJSfqreUP"
+      },
+      "artists": [
+        {
+          "name": "yellofish",
+          "url": "https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "violett",
+      "url": "https://open.spotify.com/track/6Gpsp7BIZaXuMua2uoozYM"
     },
     {
       "album": {

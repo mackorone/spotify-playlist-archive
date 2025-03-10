@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Melodies of the movement\. Cover: Roberta Flack
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,483 likes - 65 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,535 likes - 65 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 8737,
+  "num_followers": 8743,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Dance Like No One's Watching",
+        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 211396,
+      "name": "Dance Like No One\u2019s Watching",
+      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Detroit 2",
         "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
@@ -427,26 +443,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "CASINO",
-        "url": "https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        },
-        {
-          "name": "CHASE B",
-          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "CASINO",
-      "url": "https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
         "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
       },
@@ -471,18 +467,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Dance Like No One's Watching",
-        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4"
       },
       "artists": [
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        },
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
         }
       ],
-      "duration_ms": 211396,
-      "name": "Dance Like No One\u2019s Watching",
-      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
+      "duration_ms": 214847,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
