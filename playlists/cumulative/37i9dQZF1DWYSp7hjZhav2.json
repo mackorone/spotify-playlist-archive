@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 342626,
       "name": "Aran",
       "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 240495,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc"
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Shut Down",
+        "url": "https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245414,
+      "name": "Cybernova",
+      "url": "https://open.spotify.com/track/13dzpIlhBBeZrR0LOFpfUw"
+    },
+    {
+      "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 217983,
       "name": "Faust",
       "url": "https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX"
@@ -2004,6 +2022,24 @@
     {
       "album": {
         "name": "Glow / Void",
+        "url": "https://open.spotify.com/album/475GMKPJGGO9c9SzrhLUv2"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/5Q9m03fBYtSlKwAUnfZ9RB"
+    },
+    {
+      "album": {
+        "name": "Glow / Void",
         "url": "https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1"
       },
       "artists": [
@@ -2106,6 +2142,24 @@
       "duration_ms": 229744,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/1IPZfbfenyYPTg45HcNxgS"
+    },
+    {
+      "album": {
+        "name": "Hera",
+        "url": "https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Hera - Radio Edit",
+      "url": "https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713"
     },
     {
       "album": {
@@ -2224,6 +2278,32 @@
       "duration_ms": 180540,
       "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "album": {
+        "name": "Hypnotized (John Summit Remix)",
+        "url": "https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Hypnotized (feat. Ellie Goulding) - John Summit Remix",
+      "url": "https://open.spotify.com/track/1VAVEYZlzBp7d8UlWJvaDD"
     },
     {
       "album": {
@@ -2440,7 +2520,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 339346,
       "name": "Jai",
       "url": "https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs"
@@ -2690,6 +2770,24 @@
       "duration_ms": 304598,
       "name": "Let You In (Max Cooper Remix)",
       "url": "https://open.spotify.com/track/3NfwgeXFaf7YcakBM6VeZr"
+    },
+    {
+      "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/2W5TS5U8FLi9O46FBTAzIn"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy"
     },
     {
       "album": {
@@ -3146,6 +3244,28 @@
       "duration_ms": 410450,
       "name": "No One Gets Left Behind - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/4XyU0ejVdU766tdJ0EnIiP"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Weekend Heroes",
+          "url": "https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "No One\u2019s Coming",
+      "url": "https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs"
     },
     {
       "album": {
@@ -3756,7 +3876,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 209032,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/5MpcZ5F3J2mqIF4qW2ZLYL"
@@ -3850,7 +3970,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 203155,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3OA3QzszT68km4YEfTIJtF"
@@ -4002,7 +4122,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 207110,
       "name": "Save Me - Goom Gum & Stylo Remix",
       "url": "https://open.spotify.com/track/2sFEEozHdCfiLechuhgLfK"
@@ -4410,7 +4530,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 249600,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
@@ -4505,6 +4625,28 @@
     },
     {
       "album": {
+        "name": "The Future Is Unknown",
+        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263520,
+      "name": "The Future Is Unknown",
+      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
+    },
+    {
+      "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
       },
@@ -4516,7 +4658,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 215521,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6qwC8vjpa2mzkkpdXgwC9U"
@@ -4962,7 +5104,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 269062,
       "name": "Walking With A Ghost (feat. Delhia De France)",
       "url": "https://open.spotify.com/track/2LcaeVp0rTIhpS3cF8rlz2"
@@ -5006,7 +5148,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
@@ -5076,7 +5218,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 313734,
       "name": "Welcome To The Opera - Adriatique Remix",
       "url": "https://open.spotify.com/track/2FOAzrnnPeIvTCxduyfeKG"
@@ -5120,7 +5262,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 344640,
       "name": "XX",
       "url": "https://open.spotify.com/track/60LXnlFE4YaX7BsLcfGx2b"

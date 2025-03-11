@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 932130,
+  "num_followers": 932330,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAAgs8TOLcQwb+qlDYN/n8by",
+  "snapshot_id": "Z8zaAAAAAADuwrjWZb9cj1bXXh79VUJo",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 178607,
-      "name": "No Le Tengas Compasi\u00f3n",
-      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 219962,
       "name": "Carrera A Muerte",
       "url": "https://open.spotify.com/track/2rJBndq82AOiGEEE84im02"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 178607,
+      "name": "No Le Tengas Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "Melod\u00eda Para Dos",
-      "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 169691,
       "name": "La Prietita Que Yo Quiero",
       "url": "https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186734,
+      "name": "Melod\u00eda Para Dos",
+      "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 \u00c9xitos Con Orquesta/Grupo",
-        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Nuevas Baladas",
-        "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
+        "name": "20 \u00c9xitos Con Orquesta/Grupo",
+        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 186003,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
+      "duration_ms": 164440,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 199893,
       "name": "La Derrota",
       "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Nuevas Baladas",
+        "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186003,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/7fnWTFPCOrP3Hmp7zHXq1Z"
     },
     {
       "added_at": null,

@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "4EVA",
+        "url": "https://open.spotify.com/album/6u1CvK2OB8qtHYjGrJuyOa"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "4EVA",
+      "url": "https://open.spotify.com/track/7hs8xU52dYK7byd7WLOcKV"
+    },
+    {
+      "album": {
         "name": "6 AM",
         "url": "https://open.spotify.com/album/4J9OPrsqAr0fCyyjS8oJhC"
       },
@@ -1450,7 +1472,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 216131,
       "name": "Bl\u00edster",
       "url": "https://open.spotify.com/track/26vcoEHrsEkWSl1EmKxNFY"
@@ -1684,6 +1706,28 @@
       "duration_ms": 208000,
       "name": "Bukowski",
       "url": "https://open.spotify.com/track/34fKPzASNYaX70vBeg24Lv"
+    },
+    {
+      "album": {
+        "name": "BULLSHIT 3",
+        "url": "https://open.spotify.com/album/2C9jAFT0LXHiE607RcMrty"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337000,
+      "name": "BULLSHIT 3",
+      "url": "https://open.spotify.com/track/4VIsAZ648nC4imKo1D432e"
     },
     {
       "album": {
@@ -5114,7 +5158,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 204645,
       "name": "J\u00f3venes para siempre",
       "url": "https://open.spotify.com/track/1fDX7LMNUqP3ExYcmTflJ7"
@@ -5401,6 +5445,28 @@
     },
     {
       "album": {
+        "name": "La Gioconda",
+        "url": "https://open.spotify.com/album/2sNhF5sdyXz2H5FWaHW1Or"
+      },
+      "artists": [
+        {
+          "name": "Dawiz",
+          "url": "https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs"
+        },
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97206,
+      "name": "La Gioconda",
+      "url": "https://open.spotify.com/track/11rsPZ1uMSjFK2NHOLeNmK"
+    },
+    {
+      "album": {
         "name": "La G\u00f3ndola",
         "url": "https://open.spotify.com/album/0nqA4JsLWiByBgmRm5B8aP"
       },
@@ -5534,7 +5600,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 184000,
       "name": "La Presi\u00f3n",
       "url": "https://open.spotify.com/track/5ypuVIBvxyWja7Pz7bjAPc"

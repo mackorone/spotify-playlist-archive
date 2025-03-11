@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 45457,
+  "num_followers": 45461,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAADg6QXNzNMBz8yCY+bxJFB6",
+  "snapshot_id": "Z8zaAAAAAABKmTd1LPexkMlmF4lJ1rvR",
   "tracks": [
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor y Veneno",
+        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Amor y Veneno",
+      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor y Veneno",
-        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Amor y Veneno",
-      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bienvenida La Vida",
         "url": "https://open.spotify.com/album/1yNGk7lIC7IjULWBaALDfc"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 178364,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Veinticinco",
         "url": "https://open.spotify.com/album/5kMOVXa9KmVVgZSOE6xA96"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 184546,
       "name": "Enamorado Y Sin Ti",
       "url": "https://open.spotify.com/track/4YPp8ZNDC7Mwoxl378F1d8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 178364,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU"
     },
     {
       "added_at": null,

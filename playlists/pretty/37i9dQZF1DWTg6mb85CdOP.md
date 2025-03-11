@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,772 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,771 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 51 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
 | 52 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
 | 53 | [MELAZA](https://open.spotify.com/track/47rWtn2fBitY9ieQ5yIY3B) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [3000](https://open.spotify.com/album/5u2yO314Y0z6QxTKmlKWDh) | 2:26 |
-| 54 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
-| 55 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
+| 54 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
+| 55 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
 | 56 | [Can You See Me?](https://open.spotify.com/track/4jbxZxReqWBaiTbQOXNVW6) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/6KvNf7qKt0wgLEz56NQyXP) | 8:22 |
 | 57 | [Quiero Ser Sexy](https://open.spotify.com/track/0pB2IRloEdYo9F3qwcIAYy) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Quiero Ser Sexy](https://open.spotify.com/album/2IH5JvSodRPEiHbpRTte8m) | 3:55 |
 | 58 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 |
 | 59 | [Tal Vez](https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Tal Vez](https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v) | 4:22 |
-| 60 | [El Circo](https://open.spotify.com/track/73RnzyAGGOZ9nsBTRkc0lv) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Obrigaggi](https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t) | 4:04 |
+| 60 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
 | 61 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
-| 62 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
-| 63 | [Pardon](https://open.spotify.com/track/1nBA4QinIbQyRzVgG0UJGy) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 3:48 |
+| 62 | [Pardon](https://open.spotify.com/track/1nBA4QinIbQyRzVgG0UJGy) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 3:48 |
+| 63 | [El Circo](https://open.spotify.com/track/73RnzyAGGOZ9nsBTRkc0lv) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Obrigaggi](https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t) | 4:04 |
 | 64 | [Acuyuye](https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Diva Cruz](https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6) | [Brujas EP](https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9) | 4:29 |
 | 65 | [Miso](https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Kinesia](https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6) | 3:32 |
 | 66 | [Kiero K Me Kieras](https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Kiero K Me Kieras](https://open.spotify.com/album/7a94blel8vrcVTyeWH77Dy) | 3:43 |

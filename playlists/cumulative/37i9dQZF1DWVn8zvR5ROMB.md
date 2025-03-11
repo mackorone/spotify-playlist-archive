@@ -4,7 +4,7 @@
 
 > All of the newest country songs in one playlist! Featuring Ingrid Andress, Kelsea Ballerini, Cameron Whitcomb and more.
 
-9,172 songs - 20 day 21 hr 59 min
+9,173 songs - 20 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6031,6 +6031,7 @@
 | [Pank Drank](https://open.spotify.com/track/1lyCTC08ItSx57ncpBxgs0) | [The Chattahoochies](https://open.spotify.com/artist/47AfOSxR8ab6QrEEabLZOs) | [Pank Drank](https://open.spotify.com/album/1lOFGH7IXqUDRgfLmZvXbU) | 3:17 | 2023-12-08 | 2023-12-16 |
 | [Paper Airplane](https://open.spotify.com/track/5VtJXLUIsFw94ZtCBhkz5I) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Paper Airplane](https://open.spotify.com/album/1sO4Zy6l8XkGHUpwcOqFAi) | 4:06 | 2022-02-11 | 2022-02-26 |
 | [Paper Doll](https://open.spotify.com/track/6BdCP8T37AjwckD5RxgcFh) | [The Lockhearts](https://open.spotify.com/artist/1aF7p8yc6L5TSTClZOogx0) | [Paper Doll](https://open.spotify.com/album/2BBXF8I2KID570T3aM6vp9) | 4:33 | 2024-10-25 | 2024-11-02 |
+| [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 | 2025-03-11 |  |
 | [Parallel](https://open.spotify.com/track/0s0ExKwCRYPLZVw8qkGvbv) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Songs To Keep You Warm](https://open.spotify.com/album/7CtRGTImiw2tsq1Bf1AXe0) | 3:11 | 2022-10-28 | 2022-11-05 |
 | [Paralyzed](https://open.spotify.com/track/5M5tf63hmJ4FpKb49TOBmb) | [Kevin Smiley](https://open.spotify.com/artist/6Km1v74PaJGilhxUmfAY1K) | [Paralyzed](https://open.spotify.com/album/5ZueioBEKMc5x30NB4EG57) | 2:35 | 2024-05-10 | 2024-05-18 |
 | [Paris Wheel](https://open.spotify.com/track/2KC3k3ak5DkuSvlXTNaJbm) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [A Tale of 7 Cities](https://open.spotify.com/album/1OCJGUFMKdhzGnDQafmzW1) | 3:56 | 2022-06-24 | 2022-07-02 |

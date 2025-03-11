@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 225113,
+  "num_followers": 225130,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAABW1A2xp0nDWFDjj6J59Hb+",
+  "snapshot_id": "Z8zaAAAAAABxZfb1j/R+B/aaHOnWRCQx",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Borracho Drunk Steady Beer",
+      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 222746,
       "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
       "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Borracho Drunk Steady Beer",
-      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
     },
     {
       "added_at": null,
@@ -855,26 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Todos los Rumberos",
-        "url": "https://open.spotify.com/album/69M76iFB13orBTuymkmh4M"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 271280,
-      "name": "A Todos los Rumberos",
-      "url": "https://open.spotify.com/track/2QAwnJ1GBB9MVrKUzd88q0"
+      "duration_ms": 276906,
+      "name": "C.D.A.",
+      "url": "https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8"
     }
   ],
   "unique_name": "This Is Panteon Rococo",

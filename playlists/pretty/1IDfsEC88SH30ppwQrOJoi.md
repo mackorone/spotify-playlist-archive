@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,365 likes - 113 songs - 5 hr 39 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,365 likes - 115 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 111 | [El Tikital \- Day Mix](https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Morena](https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [El Tikital \(Day Mix\)](https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915) | 2:30 |
 | 112 | [Drip](https://open.spotify.com/track/0dfNT0PN07Ea7EU7lpoedL) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Drip](https://open.spotify.com/album/4M1hKTiZyAn6fA169Fr8MB) | 3:27 |
 | 113 | [All I Need](https://open.spotify.com/track/0D8o8KQzuOtxxgaDDiasxW) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [All I Need](https://open.spotify.com/album/6O9GRSikWchQaCnzAevGhh) | 2:59 |
+| 114 | [Shingaling Shingaling](https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [Reebs](https://open.spotify.com/artist/5gnvJivfNKC78JcOknY5Y0) | [Shingaling Shingaling](https://open.spotify.com/album/6kRYsgKCkmWeDnkT7m6eUS) | 2:26 |
+| 115 | [On & On](https://open.spotify.com/track/73r0IA1j4oLM8CPTKTiH86) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Eddy Don't Sail](https://open.spotify.com/artist/7bKSZzB7rAS834Ete3bAmx) | [On & On](https://open.spotify.com/album/2ETS2W9kWIEW4jrMjYYx5N) | 2:29 |
 
-Snapshot ID: `AAAKQVZRfwM2GWNufw35BbLKpmkkeCvq`
+Snapshot ID: `AAAKQ0v2hyAdobZeZ98HrC3iriH9GgpW`

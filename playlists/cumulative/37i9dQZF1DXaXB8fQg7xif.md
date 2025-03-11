@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,199 songs - 2 day 16 hr 24 min
+1,200 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-14 |  |
 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 | 2024-09-06 | 2024-09-20 |
 | [Beat Freak \(ft\. lau.ra\)](https://open.spotify.com/track/4C2ohxfUodwGkMN67lxGbs) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Beat Freak \(ft\. lau.ra\)](https://open.spotify.com/album/0P4SStuw8AYCIx2CTp80jF) | 3:34 | 2021-04-21 | 2022-04-20 |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 |  |
 | [BED \- David Guetta Festival Mix](https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED \(David Guetta Festival Mix\)](https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd) | 3:55 | 2021-04-24 | 2022-07-29 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-18 | 2023-04-15 |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-05-12 |  |
@@ -911,7 +912,7 @@
 | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\)](https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5) | 3:11 | 2020-12-27 | 2021-11-20 |
 | [San Frandisco](https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/1yvc0dwbzh1nGEBk6rOZoc) | 3:05 | 2022-07-14 | 2022-09-15 |
 | [San Frandisco](https://open.spotify.com/track/4KrATQEoEbKAAY7j0kMDBl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/66IfXKLEgsVPqwElkk8aeP) | 3:05 | 2020-05-22\* | 2022-07-29 |
-| [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 | 2024-11-29 |  |
+| [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 | 2024-11-29 | 2025-03-11 |
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2020-12-27 | 2021-03-23 |
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-05-26 | 2024-04-06 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |

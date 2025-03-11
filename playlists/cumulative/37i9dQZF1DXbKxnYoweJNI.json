@@ -3093,7 +3093,7 @@
     },
     {
       "album": {
-        "name": "FINAL FINAL FINAL",
+        "name": "FINAL FINAL FINAL (feat. The Crane, Gummy B)",
         "url": "https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V"
       },
       "artists": [
@@ -3102,19 +3102,19 @@
           "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
         },
         {
-          "name": "The Crane",
-          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
-        },
-        {
           "name": "Gummy B",
           "url": "https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
         }
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 236464,
-      "name": "FINAL FINAL FINAL",
+      "name": "FINAL FINAL FINAL (feat. The Crane, Gummy B)",
       "url": "https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC"
     },
     {
@@ -27554,10 +27554,28 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 176981,
       "name": "\u79d1\u5e7b\u5c0f\u8aaa",
       "url": "https://open.spotify.com/track/416Z4twQflY6NmXtxI013g"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:\uff0a- \u5408\u4f5c\u7684\u79d8\u5bc6",
+        "url": "https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5afa\u975c",
+          "url": "https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193060,
+      "name": "\u79d1\u5e7b\u5c0f\u8aaa (prod. by S\u014dryo)",
+      "url": "https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ"
     },
     {
       "album": {

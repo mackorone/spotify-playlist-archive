@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-157 songs - 10 hr 37 min
+159 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-11-13 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2023-02-03 | 2023-05-04 |
 | [BERSAMAMU \- Remake Version](https://open.spotify.com/track/2rVTMes9ujNJ7OFv5T5XQG) | [SEVENSOUL](https://open.spotify.com/artist/1tqdhetOqWgYvtEDoSbBij) | [BERSAMAMU \(Remake Version\)](https://open.spotify.com/album/4lXTP25PSW0wZjPdIXZnhb) | 3:36 | 2025-03-07 |  |
-| [Bertengkar Manis](https://open.spotify.com/track/7jQQZRS69OWGT2asKcmp6p) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 4:05 | 2023-10-06 |  |
+| [Bertengkar Manis](https://open.spotify.com/track/7jQQZRS69OWGT2asKcmp6p) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 4:05 | 2023-10-06 | 2025-03-11 |
 | [Biar Mantan Tau](https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Biar Mantan Tau](https://open.spotify.com/album/4MX7M5najq0wZTRjcYe4aX) | 3:19 | 2023-02-03 | 2025-02-05 |
 | [Biarku Merindu](https://open.spotify.com/track/6CxAzRJjOUr3LL1qXbQCry) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Biarku Merindu](https://open.spotify.com/album/3ZGwkNHkhqkw3J9id6LVgG) | 2:57 | 2024-02-13 |  |
 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-01-07 |  |
@@ -94,7 +94,7 @@
 | [Kisah Romantis](https://open.spotify.com/track/37Esp6rBYhZa8pxJs5xzIV) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [OST\. Cinta Silver](https://open.spotify.com/album/5qPDSS9JkOf6As1DqdhKpF) | 4:23 | 2023-02-03 | 2024-09-28 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-04-30 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-04-30 |  |
-| [Kurayu Bidadari](https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2) | [Al\-Ghazali](https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx) | [Kurayu Bidadari](https://open.spotify.com/album/2H8OsKxm0ShyAVWLORyJri) | 4:30 | 2023-08-16 |  |
+| [Kurayu Bidadari](https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2) | [Al\-Ghazali](https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx) | [Kurayu Bidadari](https://open.spotify.com/album/2H8OsKxm0ShyAVWLORyJri) | 4:30 | 2023-08-16 | 2025-03-11 |
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2023-02-03 | 2024-11-26 |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-12 |  |
 | [Ldr](https://open.spotify.com/track/5VW8Srfc9zInoLTXq8bXUK) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Sebuah Cerita](https://open.spotify.com/album/2s1MfOgZZetupfPMptd49j) | 3:23 | 2023-02-03 | 2024-11-26 |
@@ -111,6 +111,7 @@
 | [Mercusuar](https://open.spotify.com/track/3fgdtD7nivCvPueM8UmvFg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 3:56 | 2024-02-13 |  |
 | [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 | 2024-09-27 |  |
 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-05-15 | 2025-02-05 |
+| [Nuansa Romansa](https://open.spotify.com/track/3LwX0Ikils12jvt5sWsAmo) | [Danar](https://open.spotify.com/artist/324cP6fYaUtaQiGyc2UViq), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Nuansa Romansa](https://open.spotify.com/album/4kM1iRXUWBgL3jYCRR5aZB) | 4:00 | 2025-03-10 |  |
 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-06-23 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 |  |
 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 | 2024-06-05 |  |
@@ -157,6 +158,7 @@
 | [Ternyata Hanya Kamu](https://open.spotify.com/track/1Cm9rVxlCWgGqB3Y3kmJCh) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Ternyata Hanya Kamu](https://open.spotify.com/album/1H0CPGh2BWcQMJ2t8tbOgV) | 4:44 | 2023-02-03 |  |
 | [Terpukau](https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:12 | 2023-02-03 |  |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-11-13 |  |
+| [Teruntuk Mia](https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B) | [Nuh...](https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT) | [Teruntuk Mia](https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG) | 3:16 | 2025-03-10 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2023-02-03 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-02 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2023-02-03 |  |

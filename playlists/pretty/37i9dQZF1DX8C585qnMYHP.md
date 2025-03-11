@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,564 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,576 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 36 | [THIEVES](https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [BORNE WORLD](https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV) | 2:58 |
 | 37 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 |
 | 38 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 39 | [Ready to Leave](https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Souvenirs](https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx) | 3:28 |
-| 40 | [Bearded Fireworm](https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
+| 39 | [Bearded Fireworm](https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
+| 40 | [Ready to Leave](https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Souvenirs](https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx) | 3:28 |
 | 41 | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/album/5P7A3lqcPyjge2jR5p376p) | 3:25 |
 | 42 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
 | 43 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 44 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
 | 45 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
-| 46 | [the mould](https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 2:21 |
-| 47 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 |
+| 46 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 |
+| 47 | [the mould](https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 2:21 |
 | 48 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
 | 49 | [Interstellar](https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:37 |
 | 50 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |

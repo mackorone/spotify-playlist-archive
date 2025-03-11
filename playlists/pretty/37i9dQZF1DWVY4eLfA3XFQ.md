@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Mau P at the Sphere 💊 50% techno, 50% house
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,943 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,029 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 82 | [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 |
 | 83 | [Still My Baby](https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Still My Baby](https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn) | 3:11 |
 | 84 | [Horny](https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Horny](https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N) | 3:02 |
-| 85 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 |
-| 86 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 |
-| 87 | [Demon Time](https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Demon Time](https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg) | 3:21 |
+| 85 | [Demon Time](https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Demon Time](https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg) | 3:21 |
+| 86 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 |
+| 87 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 |
 | 88 | [Falling Back](https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Falling Back](https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo) | 3:30 |
 | 89 | [Dame Más \(Gasolina\)](https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Dame Más \(Gasolina\)](https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf) | 3:01 |
 | 90 | [Don't Touch That Dial](https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Don't Touch That Dial EP](https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl) | 3:14 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-678 songs - 1 day 10 hr 23 min
+679 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Back Again](https://open.spotify.com/track/68CEXLdtD26YVdF9CE8FAo) | [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB) | [Back Again](https://open.spotify.com/album/7dZ7VB8uTdIrkSsK0IlHdW) | 2:47 | 2025-02-25 |  |
 | [Back For More](https://open.spotify.com/track/2ZNr0akG6bZggKDDI7PZAB) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Back For More](https://open.spotify.com/album/3FDe6WKhFluZ4qAu0Y90tI) | 3:39 | 2022-06-30 | 2023-04-28 |
 | [Back on Dash](https://open.spotify.com/track/66i7MyCc1Tq4iGZxxHOCej) | [DJVI](https://open.spotify.com/artist/5rn3BUzOWjGGWkCSHQsADZ) | [Back on Dash](https://open.spotify.com/album/3uOH80WiPsBfObjNAzXm32) | 3:06 | 2024-11-08 |  |
+| [Back To Default](https://open.spotify.com/track/1NwoE3fQro8s73N9Afkw2n) | [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4) | [Back To Default](https://open.spotify.com/album/0oyjf4QTdlY3R3Xawwt6Y8) | 3:23 | 2025-03-10 |  |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2023-08-10 |
 | [Backstreet Boy](https://open.spotify.com/track/6j3JSY4y4r4yMyoE3vBiYo) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Backstreet Boy](https://open.spotify.com/album/2pHO3gJwfCCnB9xcHJkJQA) | 3:28 | 2025-01-03 |  |
 | [Bad Girl](https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Bad Girl](https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv) | 2:44 | 2023-12-13 | 2024-04-17 |

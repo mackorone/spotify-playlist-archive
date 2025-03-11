@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Not Easy",
+        "url": "https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Not Easy",
+      "url": "https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq"
+    },
+    {
+      "album": {
         "name": "Notorious Desi",
         "url": "https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh"
       },
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 181995,
       "name": "Western Up",
       "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"

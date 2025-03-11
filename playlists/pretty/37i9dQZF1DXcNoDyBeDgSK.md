@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain]
 
 > Music from "Blue Exorcist" ©加藤和恵／集英社・「青の祓魔師」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,557 likes - 55 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,566 likes - 55 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Harry Styles
 
-1,315 songs - 3 day 7 hr 11 min
+1,316 songs - 3 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Queen Of Me \- Spotify Singles](https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:35 | 2023-03-15 |  |
 | [Raataan Chill Mix \- Spotify Singles \(Tanishk Bagchi, Jubin Nautiyal, Hanita Bhambri\)](https://open.spotify.com/track/0yIUl79oGZKSYeLY1KEOxP) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Raataan Chill Mix \[Spotify Singles \(Tanishk Bagchi, Jubin Nautiyal, Hanita Bhambri\)\]](https://open.spotify.com/album/0GV2kn3m9N9G79IjQkqzEn) | 2:34 | 2025-02-10 |  |
 | [Raising Hell \(feat\. Ben Harper\) \- Spotify Singles](https://open.spotify.com/track/10eIuPr0k9qyyhyLbxiU9d) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 2:24 | 2022-03-16 |  |
+| [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 | 2025-03-10 |  |
 | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH) | 2:16 | 2022-01-19 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2022-01-19 |  |
 | [Ready / Problems \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5vo56PaLPIECnaM1u7xQvg) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Spotify Singles](https://open.spotify.com/album/7GK8op4PSztyNeaCjcstmF) | 4:35 | 2025-02-13 |  |

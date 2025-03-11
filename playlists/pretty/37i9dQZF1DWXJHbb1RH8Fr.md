@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,412 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,430 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 13 | [Ney'le Zalimsin Hicazkar Taksim](https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5) | [Murat Akman](https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe) | [Ney Taksimleri](https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD) | 1:50 |
 | 14 | [Gül Bahçesi](https://open.spotify.com/track/764idkmt4QTajFaD4LGG21) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-II](https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f) | 3:49 |
 | 15 | [Ben Yürürüm](https://open.spotify.com/track/0BmoZp6aDQOak3MKe9Ufy1) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 2:18 |
-| 16 | [Göğe Açılan Eller](https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:57 |
+| 16 | [Allah'a Aşk](https://open.spotify.com/track/0BgGpBmpcxi2aEAqvePKl6) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 5:44 |
 | 17 | [Hakikat](https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 4:29 |
 | 18 | [Makam Ferahfeza: Pesrev](https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf) | [Kudsi Erguner](https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI) | [Turkey: The Turkish Ney](https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci) | 7:25 |
 | 19 | [Nihavend Peşrev](https://open.spotify.com/track/0xZGGZy6QfcJk3cN72UD0J) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:24 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 22 | [Ney İle Bûselik Taksim](https://open.spotify.com/track/3GWWmNoKCbqucT16pmQzU0) | [Yüce Gümüş](https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Nağmeler Evi \(Çocuklar ve Gençler İçin Müzik Kültürü\)](https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu) | 6:55 |
 | 23 | [Segah Taksim](https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 3:22 |
 | 24 | [Uşşak İlahiler](https://open.spotify.com/track/1FEOekvfha7BrAq3xvTlzW) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 4:23 |
-| 25 | [Allah'a Aşk](https://open.spotify.com/track/0BgGpBmpcxi2aEAqvePKl6) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 5:44 |
+| 25 | [Göğe Açılan Eller](https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:57 |
 | 26 | [Uyan Ey Gözlerim](https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div) | [Kervan City](https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS) | [Ney Dinletisi, Vol\. 1](https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz) | 3:19 |
 | 27 | [Ney Taksimi](https://open.spotify.com/track/00edBDjyZcCVR4wjxtXNo2) | [Süleyman Erguner](https://open.spotify.com/artist/0HpFsCxk1wv6CuW1Buql19) | [Sükrü Tunar \- Türk Musikisinin Unutulmayan Bestecileri 10 \(The Unforgettable Composers Of Turkish Music\)](https://open.spotify.com/album/7i3TgRfo8b9Cyp0tTNRBdi) | 1:00 |
 | 28 | [Makam Ferahfeza: Taksim](https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY) | [Kudsi Erguner](https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI) | [Turkey: The Turkish Ney](https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci) | 5:39 |

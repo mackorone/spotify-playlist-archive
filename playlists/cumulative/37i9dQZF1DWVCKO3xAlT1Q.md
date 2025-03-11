@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-67 songs - 3 hr 17 min
+70 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/06NQCNZajDFb15rJLcotRc) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:57 | 2025-03-02 |  |
 | [Milkshake Man](https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh) | 2:52 | 2025-02-28 |  |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2024-05-11 | 2025-03-01 |
+| [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 | 2025-03-10 |  |
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-11 | 2025-03-01 |
 | [One Milkali \(One Blood\)](https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [One Milkali \(One Blood\)](https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao) | 2:56 | 2024-05-11 | 2025-03-01 |
 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 | 2024-05-11 | 2025-03-01 |
@@ -64,10 +65,12 @@
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [TiTAN](https://open.spotify.com/track/669R9eowHoeQkrbnkUalI8) | [Besa](https://open.spotify.com/artist/6Ou6egP0Y2KxEI2yobIN3y) | [TiTAN](https://open.spotify.com/album/1fdGNyepzrzUcpsnGfNxDI) | 2:56 | 2024-05-11 | 2025-03-01 |
+| [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-03-10 |  |
 | [Ulveham](https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB) | 3:02 | 2024-05-11 | 2025-03-01 |
 | [Unforgettable](https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob) | 2:48 | 2024-05-11 | 2025-03-01 |
 | [Veronika](https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6) | [Raiven](https://open.spotify.com/artist/5RBzgTi4eJswbWLigxtNkI) | [Veronika](https://open.spotify.com/album/3Ep62W58uONUkDa6yphNDq) | 2:46 | 2024-05-11 | 2025-03-01 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-28 |  |
+| [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-03-10 |  |
 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-03-07 |  |
 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 | 2024-05-11 | 2025-03-01 |
 | [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 | 2025-03-07 |  |

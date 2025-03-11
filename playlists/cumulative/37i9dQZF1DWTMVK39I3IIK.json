@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Det sker alt for tit",
+        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187422,
+      "name": "Det sker alt for tit",
+      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+    },
+    {
+      "album": {
         "name": "JEG VIL IKKE VIDE DU FINDES",
         "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
       },
@@ -812,6 +830,24 @@
       "duration_ms": 150938,
       "name": "drikker med mig selv",
       "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207312,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
     },
     {
       "album": {
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 200801,
       "name": "Genf\u00e6rd",
       "url": "https://open.spotify.com/track/0DSXSBT15E18Wzmh4JV41L"
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"

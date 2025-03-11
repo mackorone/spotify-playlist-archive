@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Christian Alicea
 
-301 songs - 21 hr 53 min
+302 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 | 2022-01-01 |  |
 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 | 2022-01-01 |  |
 | [Era para Siempre \- Versión Salsa](https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Era para Siempre \(Versión Salsa\)](https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg) | 3:06 | 2025-02-28 |  |
-| [Es Ajena](https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz) | [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn), [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Es Ajena](https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI) | 3:51 | 2024-01-26 |  |
+| [Es Ajena](https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz) | [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn), [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Es Ajena](https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI) | 3:51 | 2024-01-26 | 2025-03-11 |
 | [Es por Ti](https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por Ti](https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et) | 3:04 | 2022-05-20 | 2023-04-17 |
 | [Es por ti](https://open.spotify.com/track/2aS68sRyREHLCF2hft3NOt) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Es por ti](https://open.spotify.com/album/2CQbvu5ncDwr0toXCR3JTF) | 3:04 | 2022-03-18 | 2022-07-29 |
 | [Es Un Secreto](https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Yo Deluxe](https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU) | 3:28 | 2024-03-15 |  |
@@ -209,6 +209,7 @@
 | [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-04-29 | 2022-11-20 |
 | [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 | 2023-01-19 | 2023-06-10 |
 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 | 2022-01-01 |  |
+| [Perderte](https://open.spotify.com/track/4jl9umIMZEg3W8k3oQPztT) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Perderte](https://open.spotify.com/album/2rBn4nT9aTizRcVNlWfAk7) | 3:29 | 2025-03-05 |  |
 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-09 |  |
 | [Por Ella](https://open.spotify.com/track/7C2nNvvtr5zZSvV5ZTBAie) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Sólo para Mujeres](https://open.spotify.com/album/28fSBWZmuscPV59hEgsxSF) | 4:37 | 2022-01-01 | 2022-07-29 |
 | [Por Retenerte](https://open.spotify.com/track/0vGEHf4yeVN0sn8IwY1HW4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/1aGfPCEPzO2N98CkYDA1f1) | 4:44 | 2022-01-01 | 2022-07-29 |

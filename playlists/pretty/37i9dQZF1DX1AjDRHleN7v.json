@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 366972,
+  "num_followers": 367038,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
+        "name": "Origem",
+        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 153165,
+      "name": "Vestido De Seda",
+      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 193205,
       "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
       "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
-        "name": "Origem",
-        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 153165,
-      "name": "Vestido De Seda",
-      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
     },
     {
       "added_at": "2025-02-28 17:10:11",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "Flor de Aruanda",
-        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Flor de Aruanda",
-      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 203342,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
+        "name": "Flor de Aruanda",
+        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "Flor de Aruanda",
+      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
     },
     {
       "added_at": "2025-02-28 17:10:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2025-02-28 17:10:11",

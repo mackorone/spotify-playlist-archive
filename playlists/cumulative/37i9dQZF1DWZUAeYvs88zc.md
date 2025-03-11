@@ -4,11 +4,11 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-562 songs - 1 day 7 hr 32 min
+563 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-21 |  |
+| [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-21 | 2025-03-11 |
 | [4 In The Morning](https://open.spotify.com/track/64fSdRkaB7ksxI9suUGYmi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:51 | 2019-07-28 | 2019-08-10 |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2019-05-26\* | 2021-10-02 |
 | [8Track \- Spotify Singles](https://open.spotify.com/track/03erzHIEr9Oiv6u5OADpXB) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [8Track \(Spotify Singles\)](https://open.spotify.com/album/20UErVpYtx3XM72nRTWQcI) | 3:12 | 2021-11-20 | 2022-07-29 |
@@ -174,6 +174,7 @@
 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 | 2019-06-25 | 2021-10-27 |
 | [Hailey](https://open.spotify.com/track/1bQ5gQOyzWbPl6TXFuvi8z) | [WRENN](https://open.spotify.com/artist/1mUvCFjlnNilmIebNqKYo8) | [Hailey](https://open.spotify.com/album/1ZJA6YpalHfiMeNIjFKDmo) | 2:47 | 2021-04-15 | 2021-10-23 |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-10-23 |  |
+| [Happy](https://open.spotify.com/track/1g95lQtQLQ0Q7X2gZrIirD) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Happy](https://open.spotify.com/album/5MTDyK1TSUbLYsdqwOuPbB) | 3:34 | 2025-03-10 |  |
 | [Happy](https://open.spotify.com/track/0rdE01utHXxJuJ9Zbsmf82) | [Stay Over](https://open.spotify.com/artist/2WYklsnVBJ99Jhou8xbu6m) | [Happy](https://open.spotify.com/album/3b4TarizaktXmuCVDwf3WQ) | 2:06 | 2020-04-15 | 2021-10-27 |
 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 | 2022-01-27 |  |
 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 | 2019-06-25 | 2021-10-01 |

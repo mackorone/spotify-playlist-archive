@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 87800,
       "name": "25 Variations and Fugue on a Theme by Handel, Op. 24: Variation 13",
       "url": "https://open.spotify.com/track/5wj5iKrrPlfAXdNO8N03e8"
@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "The Love Collection",
+        "url": "https://open.spotify.com/album/5b92s9UWoiRLasCAxeMEbR"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/7jup0fSS8K38GhvqrAcDuJ"
+    },
+    {
+      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/4co38pNGce2RafeZCclxM1"
       },
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 215373,
       "name": "Don't Cry For Me Argentina - From \"Evita\"",
       "url": "https://open.spotify.com/track/070WOieG9BDQ5m9mEExtta"
@@ -11748,10 +11766,28 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 239240,
       "name": "Take That Look Off Your Face",
       "url": "https://open.spotify.com/track/7wXFRFghLnQrq7gsdPp9DP"
+    },
+    {
+      "album": {
+        "name": "Hits of Stage and Screen",
+        "url": "https://open.spotify.com/album/11JaMUrSxHySM8b2UcA78x"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239573,
+      "name": "Take That Look Off Your Face",
+      "url": "https://open.spotify.com/track/3EnAhjOYInQ6xhEjlwziBR"
     },
     {
       "album": {

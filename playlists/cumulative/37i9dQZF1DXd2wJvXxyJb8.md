@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> n gosta de mim? tepa
+> as gigas da net
 
 479 songs - 22 hr 41 min
 

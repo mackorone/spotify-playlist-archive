@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZc0Chktkil.md) - [plain]
 
 > Strength and honor! Listen to the music from Gladiator and Gladiator II.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,473 likes - 38 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,511 likes - 38 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

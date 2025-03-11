@@ -4,7 +4,7 @@
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: wannasleep
 
-1,747 songs - 4 day 5 hr 39 min
+1,748 songs - 4 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 | 2024-12-12 | 2025-01-03 |
 | [FEEL THE FRIGHT](https://open.spotify.com/track/79n4brL0NrPTQmy4MtELBa) | [Nini Music](https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm), [NiNi](https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ) | [FEEL THE FRIGHT](https://open.spotify.com/album/5tqDpYAW88b4QBYnyHNOQA) | 2:40 | 2024-10-24 | 2024-11-08 |
 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 | 2024-09-19 | 2024-11-29 |
-| [FINAL FINAL FINAL](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [FINAL FINAL FINAL](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 | 2025-02-27 |  |
+| [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 | 2025-02-27 |  |
 | [Finally Home](https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [Finally Home](https://open.spotify.com/album/198hQcblSP2zjXHYUpScOS) | 5:18 | 2024-12-05 | 2024-12-20 |
 | [FIND OUT](https://open.spotify.com/track/1F9OpPKXi7DzlN6tisWlKm) | [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Ririka](https://open.spotify.com/artist/5D88MJITPMZxGCQLXbbOqJ), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [FIND OUT](https://open.spotify.com/album/6DqBJ8oodUGk5N2GaQdKVZ) | 2:26 | 2024-06-27 | 2024-07-12 |
 | [Finding Light](https://open.spotify.com/track/55xbkkAvDb5w2GB25y3X6D) | [謝青燁Eric](https://open.spotify.com/artist/14oZ0wuwtWNmoegX9VwxDn), [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [Finding Light](https://open.spotify.com/album/2VVUhaoRZjdTcNuGqiFqga) | 4:04 | 2024-07-18 | 2024-08-16 |
@@ -1443,7 +1443,8 @@
 | [神模神樣](https://open.spotify.com/track/6BNzpB20ygvpiU1z7zS4gz) | [OuiMCB](https://open.spotify.com/artist/4E1CT4sw3JisO0nEx5xqHP) | [神模神樣](https://open.spotify.com/album/51vKP7yAJWFiFyJj3XXDR6) | 2:52 | 2024-08-01 | 2024-09-06 |
 | [神的孩子都在摔跤](https://open.spotify.com/track/5qANggpluY26UYONwunDtv) | [無妄合作社](https://open.spotify.com/artist/6py5j29igdKEvG75sZpTbW) | [開往天堂的海盜船](https://open.spotify.com/album/4MeuCJLMPrbkEO8Q9alBtQ) | 5:45 | 2024-10-24 | 2024-11-15 |
 | [秋风偷走我的心](https://open.spotify.com/track/1gp5RjU6hYOiJLK7G3slwI) | [CJ周密](https://open.spotify.com/artist/5tuQYJL84gx9HxDlkfwubA) | [秋风偷走我的心](https://open.spotify.com/album/5h3D5sQmXoHHfT9ETCp8VT) | 2:44 | 2025-01-23 | 2025-02-07 |
-| [科幻小說](https://open.spotify.com/track/416Z4twQflY6NmXtxI013g) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:56 | 2025-03-06 |  |
+| [科幻小說](https://open.spotify.com/track/416Z4twQflY6NmXtxI013g) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:56 | 2025-03-06 | 2025-03-11 |
+| [科幻小說 \(prod\. by Sōryo\)](https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:＊\- 合作的秘密](https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb) | 3:13 | 2025-03-10 |  |
 | [秘](https://open.spotify.com/track/0meO8FZgMlLBMCn43Z3lHL) | [冠妤 Nikko](https://open.spotify.com/artist/4NUexdfszshMuohBRzHANX) | [秘](https://open.spotify.com/album/58RAeYeBC6ZqCXW7EszdrK) | 3:47 | 2024-07-18 | 2024-07-27 |
 | [稳当 \(Fire\)](https://open.spotify.com/track/09DnKzw7fwP8UFSUT04dSR) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth), [Jonny小鬼](https://open.spotify.com/artist/0k8nmxWVmjiqCReo5We0D0) | [稳当 \(Fire\)](https://open.spotify.com/album/0t6L8HKb3GZcqBmGj21P0R) | 3:39 | 2025-02-06 | 2025-02-28 |
 | [空中飛人](https://open.spotify.com/track/4e9w10Ol98ka8EPOKGmS3R) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [空中飛人](https://open.spotify.com/album/1X9pMfm6fESRw4gNF0F8Ol) | 5:14 | 2024-08-15 | 2024-09-06 |

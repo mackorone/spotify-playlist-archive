@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=rBufI7v1QgSOIThE1xhDIw">DJ Tira</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,234 likes - 62 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,268 likes - 62 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

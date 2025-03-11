@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "SEA/SONS",
+        "url": "https://open.spotify.com/album/3dFhSqjS7Kg6IpPt5KTYUP"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227380,
+      "name": "Heart Of Gold",
+      "url": "https://open.spotify.com/track/3t61ux15gVCtuJZLzptmd0"
+    },
+    {
+      "album": {
         "name": "Choices Made While Dreaming",
         "url": "https://open.spotify.com/album/0GJZZ8KCwqt3i95hJ4nZuU"
       },

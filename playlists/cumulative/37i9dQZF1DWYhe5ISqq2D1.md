@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 青葉市子
 
-482 songs - 1 day 6 hr 59 min
+483 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Counting Dog](https://open.spotify.com/track/31QpOfZ2Hhg9nLVAURiYl8) | [Shugo Tokumaru](https://open.spotify.com/artist/0jQlt8C2OuW3ZwHTSvTDI5) | [Song Symbiosis](https://open.spotify.com/album/2589MaXA7W0CINZWTLcZxE) | 4:04 | 2024-07-16 | 2024-09-18 |
 | [Dancing on the Mirror](https://open.spotify.com/track/7ytRkrwlXnqFDNTeyMvFtD) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Dancing on the Mirror](https://open.spotify.com/album/6p94bt5BJ7gGhv2JM07teB) | 3:29 | 2024-07-30 | 2024-11-20 |
 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 | 2024-12-24 | 2025-01-15 |
-| [Darlin' Honey Love](https://open.spotify.com/track/1d5hiJkg95e8N0KI7Qzwrz) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O) | [Darlin' Honey Love](https://open.spotify.com/album/0TYwjKtBrc2fXzSL4YoJDf) | 2:39 | 2025-01-14 |  |
+| [Darlin' Honey Love](https://open.spotify.com/track/1d5hiJkg95e8N0KI7Qzwrz) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O) | [Darlin' Honey Love](https://open.spotify.com/album/0TYwjKtBrc2fXzSL4YoJDf) | 2:39 | 2025-01-14 | 2025-03-11 |
 | [Daydreams](https://open.spotify.com/track/51lACgMujfk4XYOgQ7iNc5) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Daydreams](https://open.spotify.com/album/4njWvo2B5vDghHpShpiWF8) | 3:36 | 2024-07-02 | 2024-07-10 |
 | [Dear stranger](https://open.spotify.com/track/7cWfA4LLhvNq2l2KPOlSi4) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Dear stranger](https://open.spotify.com/album/06kTnjCMXpv7EfI1g4zPc5) | 3:58 | 2024-10-08 | 2025-01-15 |
 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 | 2025-02-18 | 2025-02-26 |
@@ -202,6 +202,7 @@
 | [Wannabe](https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Wannabe](https://open.spotify.com/album/1wLVxgVaAol2Vmz7A9M6Fn) | 4:25 | 2024-11-19 | 2025-03-10 |
 | [We don't need heroes](https://open.spotify.com/track/66PLaLborZo2mvNIs546T5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [We don't need heroes](https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1) | 3:10 | 2025-01-28 | 2025-02-19 |
 | [When it blooms cherry blossoms](https://open.spotify.com/track/5fMpRSSZ8K8eJZYeuAHm2J) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [When it blooms cherry blossoms](https://open.spotify.com/album/2awYDLo0fNo5lk7DQ9at45) | 4:16 | 2025-02-25 | 2025-03-05 |
+| [While listening to your dreams, I'm weaving funny ideas!](https://open.spotify.com/track/2SoUv5PuyA99w2XwwwQRST) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch / While listening to your dreams, I'm weaving funny ideas!](https://open.spotify.com/album/18IiAJ8iKo5e2nlv7voDgD) | 3:10 | 2025-03-04 |  |
 | [Wind](https://open.spotify.com/track/3FcGv9fUNiNu7LuzXnQvCn) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [wind e.p.](https://open.spotify.com/album/1MtCi1jcGMGrQsEvq1xEro) | 2:59 | 2024-11-13 | 2024-11-20 |
 | [wind, flower, noise, and street](https://open.spotify.com/track/52s4jyBjDYQXgkDQvHAsAY) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [wind, flower, noise, and street](https://open.spotify.com/album/5UWoz1NRite9yXtPVECuIw) | 4:12 | 2025-02-04 | 2025-02-26 |
 | [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2024-07-02 | 2024-07-31 |

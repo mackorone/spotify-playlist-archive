@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,252 songs - 11 day 10 hr 42 min
+7,253 songs - 11 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2582,6 +2582,7 @@
 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 | 2022-11-25 |  |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-10 |  |
 | [Green Curtains](https://open.spotify.com/track/3yjAnyQs5a8CpfhKnnuaZz) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Green Curtains](https://open.spotify.com/album/7qO7KJxDQIS80LRm1WaA6a) | 2:43 | 2023-07-06 | 2024-01-26 |
+| [green eyes](https://open.spotify.com/track/4kFJsKCMl6eBTXJQae7yd7) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Jazzstrumentals](https://open.spotify.com/album/4FnpK4gnPzrdrt1YcAR3Vj) | 1:49 | 2025-03-07 |  |
 | [green hill](https://open.spotify.com/track/7K0usVZLN9kE14nUImEWE9) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/3EZavwo1gshsgEem0R0NVf) | 2:14 | 2022-12-23 | 2023-12-08 |
 | [Green in Blue](https://open.spotify.com/track/2RgPd8HmoF0APf5HM1S2pH) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Green in Blue](https://open.spotify.com/album/5VanKtpQ6712abEzrrsoMO) | 2:32 | 2021-12-03 | 2022-06-17 |
 | [Green Jewel](https://open.spotify.com/track/0c0uIy763LsqxRutmcIoYw) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Green Jewel](https://open.spotify.com/album/0l4PWKGmXCbMjMbad22rJd) | 1:43 | 2023-05-23 | 2023-07-14 |
@@ -3528,7 +3529,7 @@
 | [Light Blue](https://open.spotify.com/track/1MR84S2jOKu98U48pUIFQA) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/46cEmEYX7yPfkwyFVAEBCh) | 2:37 | 2022-09-02 | 2022-11-20 |
 | [Light Blue](https://open.spotify.com/track/2RTfUv4FdLK04d2oasfaND) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/7EmayVIg0jsQZeCJrlpSAn) | 2:37 | 2022-11-18 | 2022-12-09 |
 | [light breeze](https://open.spotify.com/track/2Q6U5dHI5X0k4jG8Zbww8F) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [light breeze](https://open.spotify.com/album/6tNzcgbxRRZaLctoLugAX7) | 2:49 | 2022-08-26 | 2022-11-25 |
-| [Light Breeze](https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Light Breeze](https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth) | 2:05 | 2023-09-22 |  |
+| [Light Breeze](https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Light Breeze](https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth) | 2:05 | 2023-09-22 | 2025-03-11 |
 | [Light It Up](https://open.spotify.com/track/0UnxuUzeW8LAAgQFbOgOwS) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Light It Up](https://open.spotify.com/album/2lDFPAiVZclsLncjbYjlrh) | 2:35 | 2023-08-10 | 2023-09-20 |
 | [Light Time](https://open.spotify.com/track/6GykzEBOn6H9QNmEYhjK6q) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Light Time](https://open.spotify.com/album/4xtCLh67I4JlB7wUKwG5vS) | 1:15 | 2022-07-29 | 2022-11-11 |
 | [Light Tower](https://open.spotify.com/track/1j5iv2pHY6bhK3FNPqduhS) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Textures, Vol\. 1](https://open.spotify.com/album/12kYlTM2a3e5ONRZD5XsUl) | 1:28 | 2019-11-20 | 2020-06-24 |

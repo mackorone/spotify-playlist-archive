@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
-  "num_followers": 153145,
+  "num_followers": 153417,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-02-28 21:00:46",
       "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2025-02-28 21:00:46",
+      "album": {
         "name": "FLOWERS for VASES / descansos",
         "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2025-02-28 21:00:46",
-      "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2025-02-28 21:00:46",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-28 21:00:46",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2025-02-28 21:00:46",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2025-02-28 21:00:46",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2025-02-28 21:00:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-02-28 21:00:46",
       "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 93253,
-      "name": "On Your Own Love Again",
-      "url": "https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu"
-    },
-    {
-      "added_at": "2025-02-28 21:00:46",
-      "album": {
         "name": "Awake Me (Acoustic)",
         "url": "https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2025-02-28 21:00:46",
       "album": {
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 93253,
+      "name": "On Your Own Love Again",
+      "url": "https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu"
+    },
+    {
+      "added_at": "2025-02-28 21:00:46",
+      "album": {
         "name": "Best Days (Acoustic)",
         "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 179063,
       "name": "Best Days - Acoustic",
       "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
-    },
-    {
-      "added_at": "2025-02-28 21:00:46",
-      "album": {
-        "name": "A Country Dance",
-        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
-      },
-      "artists": [
-        {
-          "name": "Joanna Sternberg",
-          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "A Country Dance",
-      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
     },
     {
       "added_at": "2025-02-28 21:00:46",
@@ -1171,6 +1155,22 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "added_at": "2025-02-28 21:00:46",
+      "album": {
+        "name": "A Country Dance",
+        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "A Country Dance",
+      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
     },
     {
       "added_at": "2025-02-28 21:00:46",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-02-28 21:00:46",
       "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Nothing We Say",
+      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
+    },
+    {
+      "added_at": "2025-02-28 21:00:46",
+      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
-    },
-    {
-      "added_at": "2025-02-28 21:00:46",
-      "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Nothing We Say",
-      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
     },
     {
       "added_at": "2025-02-28 21:00:46",

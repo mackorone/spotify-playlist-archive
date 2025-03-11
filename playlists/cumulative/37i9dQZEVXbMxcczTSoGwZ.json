@@ -6622,7 +6622,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn"
@@ -23554,7 +23554,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 169329,
       "name": "L\u00f6yt\u00e4\u00e4 mut",
       "url": "https://open.spotify.com/track/47p94jgL5CekzREJnOp3M0"
@@ -25588,7 +25588,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 183866,
       "name": "mietin sua pahalla",
       "url": "https://open.spotify.com/track/2RvIQZw7Oz1XHEhuSmreWv"
@@ -33404,7 +33404,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 207796,
       "name": "P\u00e4iv\u00e4 joka meid\u00e4t pilaa",
       "url": "https://open.spotify.com/track/2qo5CfTfodd6h69qSirj9W"
@@ -34420,6 +34420,24 @@
       "duration_ms": 98152,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180029,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/1xYhFfJInHS8hsGfrJW4lI"
     },
     {
       "album": {
@@ -38168,7 +38186,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m"

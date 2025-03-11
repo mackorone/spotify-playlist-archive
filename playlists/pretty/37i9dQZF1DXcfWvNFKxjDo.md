@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: MATTN
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,158 likes - 82 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,228 likes - 82 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

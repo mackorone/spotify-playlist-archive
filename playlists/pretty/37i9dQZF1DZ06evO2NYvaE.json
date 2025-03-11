@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 39018,
+  "num_followers": 39080,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAAKHV9ptohSjJ/tOMS0nawU",
+  "snapshot_id": "Z8zaAAAAAABR76yqq3n0LXVhTcVHzVux",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 204866,
       "name": "Black Rainbow",
       "url": "https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Loss, No Love",
-        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "No Loss, No Love",
-      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 261139,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Loss, No Love",
+        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Be",
-        "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 245830,
-      "name": "Blessed Be",
-      "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 256466,
       "name": "Tsunami Sea",
       "url": "https://open.spotify.com/track/7bGzUyc4a949g2c0EIzMpx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed Be",
+        "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 245830,
+      "name": "Blessed Be",
+      "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rule Of Nines",
-        "url": "https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 211154,
-      "name": "Rule Of Nines",
-      "url": "https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 331653,
       "name": "A Haven With Two Faces",
       "url": "https://open.spotify.com/track/7z5VyHN6KeN1xF7y4uJ5Nq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rule Of Nines",
+        "url": "https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 211154,
+      "name": "Rule Of Nines",
+      "url": "https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Ride The Wave",
+      "url": "https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "Ride The Wave",
-      "url": "https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 224075,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tsunami Sea",
         "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 199960,
       "name": "Crystal Roses",
       "url": "https://open.spotify.com/track/24sCYoOyqR880pCFfQsika"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 224075,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
     },
     {
       "added_at": null,

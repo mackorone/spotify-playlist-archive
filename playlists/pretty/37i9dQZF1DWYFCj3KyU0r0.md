@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,584 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,666 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 45 | [Gentle Stream Ambience](https://open.spotify.com/track/1FCp5LjTO2YsW9zmQJ7nOk) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Soothing Nature Sounds](https://open.spotify.com/album/6vbXz5ZRueTrOsNwC8pFFv) | 3:05 |
 | 46 | [Lots Of Birds](https://open.spotify.com/track/5rMSnbkf864tD4lXPmXRAO) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [HD Bird Sounds](https://open.spotify.com/album/0UCVzEgBYRyrVhIdMVQvNi) | 2:38 |
 | 47 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
-| 48 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
-| 49 | [Birdsong in the Spring Sunshine](https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds: Total Relaxation](https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg) | 9:59 |
+| 48 | [Birdsong in the Spring Sunshine](https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds: Total Relaxation](https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg) | 9:59 |
+| 49 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
 | 50 | [Calm Waves](https://open.spotify.com/track/77HIe7T6ZFhUELCuyUBB6O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 2:22 |
 | 51 | [Soft Rain to Focus](https://open.spotify.com/track/1JKfSe2PeDG7GPKnUbZvfn) | [Universe Collectors](https://open.spotify.com/artist/2RavKkz1kkDUEVWjSrLUOu) | [Hypnotic Rain Sounds](https://open.spotify.com/album/2azcIdtzQRkCTHrDiCc3XF) | 3:37 |
 | 52 | [Gentle & Soothing Waves](https://open.spotify.com/track/4tCdxjBYd8FB37Ghzm90xv) | [Natalia Cornell](https://open.spotify.com/artist/4tudTZdoFOJkJqoxf584HK) | [Gentle & Soothing Waves](https://open.spotify.com/album/1O1oCL07H8eaNA9kjKYYRT) | 2:47 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 56 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
 | 57 | [Rainy River](https://open.spotify.com/track/1Fb4WFrV09zRVT7EMZ0Jm9) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Waterways](https://open.spotify.com/album/0chQez1VOlWV1lV6hkdmgv) | 2:02 |
 | 58 | [Dream A Little Ocean](https://open.spotify.com/track/53zuMhOcAgFoyiqWTWbAyu) | [Dreams of Dreams](https://open.spotify.com/artist/3ukM0chAmXUoKjdG4evPMZ) | [Ocean Sound Effects](https://open.spotify.com/album/6mKOEeFkctULRUSSvG9p0H) | 2:52 |
-| 59 | [Gentle River Stream](https://open.spotify.com/track/3blTUGzyf6wXsHHtnaKSFj) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Waterfalls](https://open.spotify.com/album/1s4YsdTG2OuTydHldsAW0L) | 3:05 |
-| 60 | [Shoreline Surf](https://open.spotify.com/track/5DAUIxWI8mbZKoFSX3hLe2) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:52 |
+| 59 | [Shoreline Surf](https://open.spotify.com/track/5DAUIxWI8mbZKoFSX3hLe2) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:52 |
+| 60 | [Gentle River Stream](https://open.spotify.com/track/3blTUGzyf6wXsHHtnaKSFj) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Waterfalls](https://open.spotify.com/album/1s4YsdTG2OuTydHldsAW0L) | 3:05 |
 
 Snapshot ID: `Z7SlyAAAAACP+xO2SQapkB2B9+Ph9M4D`

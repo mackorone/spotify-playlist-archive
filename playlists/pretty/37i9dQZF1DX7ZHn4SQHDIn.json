@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1EijAAAAAC/tME+r8Y79inE7s76iGYK",
+  "snapshot_id": "Z86rGQAAAABMABvvh1NhWv8mnikmV3rQ",
   "tracks": [
+    {
+      "added_at": "2025-03-10 09:04:25",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz"
+      },
+      "artists": [
+        {
+          "name": "YEJI",
+          "url": "https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA"
+    },
     {
       "added_at": "2024-10-15 19:47:01",
       "album": {

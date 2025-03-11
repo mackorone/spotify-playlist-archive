@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Doja Cat, LISA, RAYE",
-  "num_followers": 4091032,
+  "num_followers": 4091046,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -805,26 +805,6 @@
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Aquamarine / Arcamarine",
-        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Aquamarine / Arcamarine",
-      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Hide Away (Alan Walker Remix)",
@@ -843,6 +823,26 @@
       "duration_ms": 137538,
       "name": "Hide Away - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Aquamarine / Arcamarine",
+        "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Aquamarine / Arcamarine",
+      "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1037,6 +1037,34 @@
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
+      "added_at": "2025-03-08 00:45:15",
+      "album": {
+        "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
+    },
+    {
       "added_at": "2024-09-13 18:27:00",
       "album": {
         "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
@@ -1141,34 +1169,6 @@
       "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
     },
     {
-      "added_at": "2025-03-08 00:45:15",
-      "album": {
-        "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
-        "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Numb (Alok Remix)",
@@ -1253,26 +1253,6 @@
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "It's ok I'm ok (remixes)",
-        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "It's ok I'm ok - Ian Asher remix",
-      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Don't Go Yet (Major Lazer Remix)",
@@ -1311,6 +1291,26 @@
       "duration_ms": 156404,
       "name": "Lose You - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "It's ok I'm ok (remixes)",
+        "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 166125,
+      "name": "It's ok I'm ok - Ian Asher remix",
+      "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2024-07-26 04:00:00",

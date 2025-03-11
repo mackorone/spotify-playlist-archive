@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7563,
+  "num_followers": 7564,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAABEIr03fl3YnLkhy3RxqtnR",
+  "snapshot_id": "Z8zaAAAAAAAJihqbWLg/YBxn7Zoh6c2I",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 de Coleccion",
-        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Devolucion",
-      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Cantineras, Vol. 1",
         "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 177573,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 de Coleccion",
+        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Devolucion",
+      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Que Bonita Chaparrita",
-      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Llorar por Amor",
         "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21 Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Que Bonita Chaparrita",
+      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 Exitos de los Relampagos del Norte",
         "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 129360,
       "name": "Rogante",
       "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 134699,
+      "name": "All\u00e1 en el Baile Grande",
+      "url": "https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

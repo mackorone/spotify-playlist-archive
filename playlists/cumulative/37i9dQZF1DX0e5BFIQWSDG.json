@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DAIMA",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Dani Gambino",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 175555,
       "name": "Frena",
       "url": "https://open.spotify.com/track/1sk1gRQHhySVQvLKEheGmm"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 254636,
       "name": "Gia Panta Kai Ligo Akoma",
       "url": "https://open.spotify.com/track/3aEHpJUXI2fs7qq6AV50UN"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 155076,
       "name": "GIMMIE",
       "url": "https://open.spotify.com/track/3C4vDKPYaUpG0ZH8y4axeV"
@@ -2045,6 +2045,54 @@
     },
     {
       "album": {
+        "name": "JackpoTT",
+        "url": "https://open.spotify.com/album/4SdmEvfSZkKNkLfYg6F6l8"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "JackpoTT",
+      "url": "https://open.spotify.com/track/1qu9xjffk1viZGNVeU7rSy"
+    },
+    {
+      "album": {
+        "name": "Jeff Dahmer",
+        "url": "https://open.spotify.com/album/4hZ8W7l1HwbsM7WboSNFiP"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193890,
+      "name": "Jeff Dahmer",
+      "url": "https://open.spotify.com/track/7k9HUu4QwXgkDsuGfCGPeb"
+    },
+    {
+      "album": {
         "name": "KALOKAIRI",
         "url": "https://open.spotify.com/album/2487Rk9dc5Zg0f7ohXrXMV"
       },
@@ -2170,6 +2218,32 @@
       "duration_ms": 146278,
       "name": "KOINO MYSTIKO",
       "url": "https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR"
+    },
+    {
+      "album": {
+        "name": "KLIRONOMOI TOU TIPOTA",
+        "url": "https://open.spotify.com/album/0Hplr3f02tgaWxo6cdSzzU"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "12os Pithikos",
+          "url": "https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI"
+        },
+        {
+          "name": "Kaist",
+          "url": "https://open.spotify.com/artist/4imUIlkV0mdCbhSPRMyclz"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289846,
+      "name": "KOMPOI",
+      "url": "https://open.spotify.com/track/3K2ZyExFUnmx4sCJW7Z9OY"
     },
     {
       "album": {
@@ -3253,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "KLIRONOMOI TOU TIPOTA",
+        "url": "https://open.spotify.com/album/0Hplr3f02tgaWxo6cdSzzU"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "PINELLI",
+      "url": "https://open.spotify.com/track/5PB5TadVdpjkHqGdrL9n9C"
+    },
+    {
+      "album": {
         "name": "PIRATES",
         "url": "https://open.spotify.com/album/1sX7gogveZwnm2XNAap1Kb"
       },
@@ -3332,6 +3428,24 @@
       "duration_ms": 107368,
       "name": "PISTOLI",
       "url": "https://open.spotify.com/track/01VhKVS36ULA1OyAuLOid0"
+    },
+    {
+      "album": {
+        "name": "PLEIN",
+        "url": "https://open.spotify.com/album/7fqPJsEoM98r1jkJqJLqiS"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160365,
+      "name": "PLEIN",
+      "url": "https://open.spotify.com/track/1UqsfSfADTuFvSAwiChUUE"
     },
     {
       "album": {
@@ -4266,7 +4380,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 153722,
       "name": "VIP",
       "url": "https://open.spotify.com/track/1MzSOhTWEPzy18WT0hzcK9"

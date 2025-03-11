@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd & Omar Apollo
 
-2,061 songs - 4 day 13 hr 7 min
+2,062 songs - 4 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1467,6 +1467,7 @@
 | [Prom](https://open.spotify.com/track/0jDly7CyGCcPWGw5LNr7KL) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Prom](https://open.spotify.com/album/0NB5k9Uopjw1Fxg5wjISAk) | 4:09 | 2021-05-08 | 2022-04-16 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2021-03-06 | 2022-04-06 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2024-01-25 |
+| [PSILOCYBIN & DAISIES](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 | 2025-03-07 |  |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-06-04 | 2022-10-18 |
 | [Puppet](https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Puppet](https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx) | 3:17 | 2023-11-17 | 2024-01-28 |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-10-13\* | 2020-10-16 |
@@ -2032,7 +2033,7 @@
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-05 | 2021-05-28 |
 | [yayou hoi](https://open.spotify.com/track/6Thafr92OJpMDGTgpV1Q0M) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/4eqUFj1G7nSod95q2CLxms) | 3:08 | 2020-10-13\* | 2021-02-27 |
 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 | 2022-12-16 | 2022-12-24 |
-| [Yesterday's World](https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 4:06 | 2024-12-06 |  |
+| [Yesterday's World](https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 4:06 | 2024-12-06 | 2025-03-11 |
 | [Yippie Ki Yay](https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Yippie Ki Yay](https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1) | 4:26 | 2023-03-24 | 2023-08-02 |
 | [Yoga \(with salem ilese\)](https://open.spotify.com/track/24qTFQSTSe3cac6LAgBuC4) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Yoga](https://open.spotify.com/album/4dUoTI5rzCbWGX3MPsCH0U) | 2:13 | 2021-05-03 | 2021-05-23 |
 | [YOU](https://open.spotify.com/track/0HC9b7pwCxlrjfR8co5tSP) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [YOU](https://open.spotify.com/album/2fIzj3GEqMEKxW8ooFrFjV) | 3:17 | 2021-05-08 | 2021-10-13 |

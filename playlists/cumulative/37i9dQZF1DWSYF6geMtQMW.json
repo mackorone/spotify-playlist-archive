@@ -180,7 +180,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05d5\u05dc\u05de\u05ea",
+        "url": "https://open.spotify.com/album/5jcb6kq6QA3ts3wQ4xMczF"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "\u05d7\u05d5\u05dc\u05de\u05ea",
+      "url": "https://open.spotify.com/track/3N48942rc1DKId7vmDDcy0"
+    },
+    {
+      "album": {
         "name": "\u05d7\u05d5\u05de\u05e8 \u05de\u05de\u05db\u05e8",
         "url": "https://open.spotify.com/album/0WEAhwC2G8U70VAlga0yZs"
       },
@@ -1745,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "\u05e1\u05d9\u05e4\u05d5\u05e8\u05d9 \u05e6\u05d3\u05d9\u05e7\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        },
+        {
+          "name": "Ben Zur",
+          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172999,
+      "name": "\u05e1\u05d9\u05e4\u05d5\u05e8\u05d9 \u05e6\u05d3\u05d9\u05e7\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d1\u05e8\u05e0\u05d5 \u05d4\u05db\u05dc",
         "url": "https://open.spotify.com/album/3PIMlTzSQFaYRYcsD2pwPn"
       },
@@ -1774,7 +1814,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 182439,
       "name": "\u05e2\u05d5\u05d1\u05d3 \u05d1\u05db\u05e4\u05e8",
       "url": "https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR"

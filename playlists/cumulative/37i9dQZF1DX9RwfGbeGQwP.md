@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,549 songs - 2 day 10 hr 15 min
+1,550 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Airmode](https://open.spotify.com/track/5sutYbAzYOsOaw3SBWXSOb) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Airmode](https://open.spotify.com/album/4uCZClT1s76MUKHgC3ipMz) | 2:22 | 2022-04-22 | 2022-11-21 |
 | [Airmode](https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:22 | 2022-11-11 | 2022-11-26 |
 | [Alaska](https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6) | [passmeby](https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W) | [Alaska](https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE) | 2:18 | 2023-04-11 | 2025-01-28 |
+| [Albatross](https://open.spotify.com/track/3sxuaiB0g8EqV1YMx3I86d) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Albatross](https://open.spotify.com/album/1JCyIEEoQSANiib69THZdT) | 2:03 | 2025-03-07 |  |
 | [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 |  |
 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-08 |  |
 | [alice in dreamland](https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [alice in dreamland](https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc) | 2:16 | 2024-01-19 |  |
@@ -1215,7 +1216,7 @@
 | [Smokers Delight](https://open.spotify.com/track/2r3L8vTYNoiXVPM4G9jbpm) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Smokers Delight](https://open.spotify.com/album/10CkZnvZUBEJ24uzYxeBvk) | 1:57 | 2022-04-15 | 2022-11-12 |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2022-01-27 | 2022-06-10 |
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-01-27 | 2022-09-09 |
-| [smoothie thursday](https://open.spotify.com/track/011JEXsItSkGoYo4kDEGbE) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [smoothie thursday](https://open.spotify.com/album/2LUAYJjRSxDH1RHN6bdQAu) | 2:03 | 2024-12-13 |  |
+| [smoothie thursday](https://open.spotify.com/track/011JEXsItSkGoYo4kDEGbE) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [smoothie thursday](https://open.spotify.com/album/2LUAYJjRSxDH1RHN6bdQAu) | 2:03 | 2024-12-13 | 2025-03-11 |
 | [Smoothology](https://open.spotify.com/track/29iPA5TBi6bWTraMDUKkqR) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Smoothology](https://open.spotify.com/album/0RdMK6Bn9b3B5HMCF8kxt9) | 2:34 | 2024-01-12 |  |
 | [Smoove it](https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Smoove it](https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE) | 2:39 | 2023-11-24 |  |
 | [Snacks On The Beach](https://open.spotify.com/track/7I9YFbEsvtYfAnR7MEdSCi) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Snacks On The Beach](https://open.spotify.com/album/4lFuYHK0y9xpPAblxC0A3O) | 2:30 | 2022-04-15 | 2022-10-29 |

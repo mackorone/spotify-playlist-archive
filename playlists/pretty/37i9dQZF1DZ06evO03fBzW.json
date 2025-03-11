@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 114120,
+  "num_followers": 114131,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAAnVrlH4zb1A0S/PEg1HqIv",
+  "snapshot_id": "Z8zaAAAAAAA+qaWUSeHPCV21lh8xq7/o",
   "tracks": [
     {
       "added_at": null,
@@ -50,15 +50,11 @@
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 302720,
-      "name": "Underneath It All",
-      "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
     },
     {
       "added_at": null,
@@ -118,11 +114,15 @@
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
+      "duration_ms": 302720,
+      "name": "Underneath It All",
+      "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent &amp; friends\. Featuring new music from Woesum &amp; Bassvictim, plus the latest cuts from Baalti &amp; High Klassified
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,886 likes - 100 songs - 5 hr 12 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,884 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

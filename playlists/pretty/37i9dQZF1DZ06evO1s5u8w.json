@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 192505,
+  "num_followers": 192530,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAACw1xUs+obAPy1oRGbxdfwV",
+  "snapshot_id": "Z8zaAAAAAAAiRvUxnfuNTzwMGvmboyjQ",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Uh-Oh, Love Comes to Town - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
+      "duration_ms": 156480,
+      "name": "Sugar on My Tongue - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1w3IeWPxVHuw0gyXcGV2pN"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Sugar on My Tongue - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1w3IeWPxVHuw0gyXcGV2pN"
+      "duration_ms": 169466,
+      "name": "Uh-Oh, Love Comes to Town - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Creatures of Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music",
         "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 214120,
       "name": "Air",
       "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Creatures of Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Pastor Mike Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,724 likes - 55 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,768 likes - 55 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

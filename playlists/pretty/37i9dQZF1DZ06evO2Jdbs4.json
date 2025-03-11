@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAADLQrskguL0oyF23xJjBBq",
+  "snapshot_id": "Z8zaAAAAAADpM7edBiXivlLJFKmdK8UO",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+        "name": "No s\u00e9 de qu\u00e9 manera",
+        "url": "https://open.spotify.com/album/6NB4WLZFflkWuxw5O5ibIw"
       },
       "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 224200,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
+      "duration_ms": 184821,
+      "name": "No s\u00e9 de qu\u00e9 manera",
+      "url": "https://open.spotify.com/track/2LbYWtn8lqcKZwSl3FYP0i"
     },
     {
       "added_at": null,
@@ -123,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 207360,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/2YLoqYRDpNMwSvTGhjP3gC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No s\u00e9 de qu\u00e9 manera",
-        "url": "https://open.spotify.com/album/6NB4WLZFflkWuxw5O5ibIw"
-      },
-      "artists": [
-        {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "No s\u00e9 de qu\u00e9 manera",
-      "url": "https://open.spotify.com/track/2LbYWtn8lqcKZwSl3FYP0i"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Nichelle Lewis in The Wiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,797 likes - 74 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,813 likes - 74 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

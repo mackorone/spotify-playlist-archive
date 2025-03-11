@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,040 likes - 113 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,041 likes - 113 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 5 | [Secret](https://open.spotify.com/track/7uifbpk6BOwusz3pqkuxDz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Secret](https://open.spotify.com/album/6kVvuKiJRKeJWp8iMJszTP) | 3:16 |
 | 6 | [Morgonkvisten](https://open.spotify.com/track/7ITtw8y3Egz8sk9TxcaWsb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Morgonkvisten](https://open.spotify.com/album/2rwyriumBjz17fzGRmw8cJ) | 2:28 |
 | 7 | [Dansa](https://open.spotify.com/track/6Skh4lWhrgPDUI4zZG3JBT) | [Ravin](https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm) | [Dansa](https://open.spotify.com/album/4sSLcBi5f5B0oHejht8mQw) | 2:01 |
-| 8 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
-| 9 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
-| 10 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
-| 11 | [Händerna Mot Pannan](https://open.spotify.com/track/76KpCGl9YQ4cUFSgU9dMX8) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Händerna Mot Pannan](https://open.spotify.com/album/2Y7WZ6XHe4jsNOW82sGN0s) | 2:48 |
-| 12 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
-| 13 | [DRUNK AND LOVED](https://open.spotify.com/track/7yN6x2Hhlfk0Gssv1Fu39v) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DRUNK AND LOVED](https://open.spotify.com/album/3WXEivTwwkiYGxhFsaijxx) | 2:41 |
+| 8 | [DRUNK AND LOVED](https://open.spotify.com/track/7yN6x2Hhlfk0Gssv1Fu39v) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DRUNK AND LOVED](https://open.spotify.com/album/3WXEivTwwkiYGxhFsaijxx) | 2:41 |
+| 9 | [ord mot ord](https://open.spotify.com/track/5KqdQSnwZHvSkzjfBToKga) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI) | [ord mot ord](https://open.spotify.com/album/57O0oZw1dXNehqQmLQdlwB) | 2:39 |
+| 10 | [Mi Vida](https://open.spotify.com/track/2lJlGAKUNG1HZ9h382qIs0) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mi Vida](https://open.spotify.com/album/5I2zpVd8CWerpDRwYlVtAE) | 2:17 |
+| 11 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 |
+| 12 | [Händerna Mot Pannan](https://open.spotify.com/track/76KpCGl9YQ4cUFSgU9dMX8) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Händerna Mot Pannan](https://open.spotify.com/album/2Y7WZ6XHe4jsNOW82sGN0s) | 2:48 |
+| 13 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 |
 | 14 | [STORSTAD](https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [STORSTAD](https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D) | 2:01 |
 | 15 | [LYFTER](https://open.spotify.com/track/5ydBK5gDFVVZlbX6KU9VO5) | [nOnting](https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ) | [LYFTER](https://open.spotify.com/album/2JOcNikcgGNYHrUEdAr1b0) | 2:18 |
 | 16 | [Lila](https://open.spotify.com/track/4cIRd5Xk4APeiTzIA2PT6z) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lila](https://open.spotify.com/album/5FCD1dm5HTiUmDGeSAanFs) | 2:15 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 112 | [skitdag \(feat\. Clayton\)](https://open.spotify.com/track/5Eocjojgyk5o9aGbxcLtIu) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [skitdag \(feat\. Clayton\)](https://open.spotify.com/album/4R9DcKWekG05uTxiApLD5T) | 2:52 |
 | 113 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 |
 
-Snapshot ID: `Z8opBwAAAACgpaFoJwvFDbaXJggQLWoz`
+Snapshot ID: `Z86hpQAAAACzUwwNNxL+pA6l235y10eQ`

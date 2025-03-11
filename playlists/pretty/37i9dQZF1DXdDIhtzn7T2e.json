@@ -1,13 +1,145 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 82218,
+  "num_followers": 82214,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpcwAAAAAiw9EdidQv4Q/O10I6fbUB",
+  "snapshot_id": "Z8+q9wAAAADbN5Ngd5JNOKDyw3Iqt/q4",
   "tracks": [
+    {
+      "added_at": "2024-04-20 04:00:00",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF"
+    },
+    {
+      "added_at": "2024-04-20 04:00:00",
+      "album": {
+        "name": "Raised",
+        "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Our Grass Is Legal",
+      "url": "https://open.spotify.com/track/5WREsIXrQ8pleixunsClED"
+    },
+    {
+      "added_at": "2024-04-20 04:00:00",
+      "album": {
+        "name": "Port Saint Joe",
+        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "Weed, Whiskey And Willie",
+      "url": "https://open.spotify.com/track/02rxQiuRlHK7LFkrZGf3ii"
+    },
+    {
+      "added_at": "2024-04-20 04:00:00",
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2025-01-10 05:00:35",
+      "album": {
+        "name": "this little lighter of mine (joy version)",
+        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "this little lighter of mine (joy version)",
+      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/1RiA5Wa5zMTNkUhFhkEl51"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 297826,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/79mK0g0E4VxwY8MroggugG"
+    },
+    {
+      "added_at": "2024-04-20 04:00:00",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "All Time High",
+      "url": "https://open.spotify.com/track/3TEbThqomZVo8Fpe5TiWfW"
+    },
+    {
+      "added_at": "2024-04-20 04:00:00",
+      "album": {
+        "name": "12 Stories",
+        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/6s4zZQXESbvdX2Nc5tOulD"
+    },
     {
       "added_at": "2024-04-20 04:00:00",
       "album": {
@@ -179,22 +311,6 @@
     {
       "added_at": "2024-04-20 04:00:00",
       "album": {
-        "name": "12 Stories",
-        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/6s4zZQXESbvdX2Nc5tOulD"
-    },
-    {
-      "added_at": "2024-04-20 04:00:00",
-      "album": {
         "name": "I Smoke Weed",
         "url": "https://open.spotify.com/album/5fUsjj8OrROaXvrfTEW2nd"
       },
@@ -251,22 +367,6 @@
     {
       "added_at": "2024-04-20 04:00:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF"
-    },
-    {
-      "added_at": "2024-04-20 04:00:00",
-      "album": {
         "name": "Old Familiar Drunken Feeling",
         "url": "https://open.spotify.com/album/1WA2SE1Wl91iWGLCSBTjLW"
       },
@@ -299,18 +399,18 @@
     {
       "added_at": "2024-04-20 04:00:00",
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+      "duration_ms": 261200,
+      "name": "No Stone Unturned",
+      "url": "https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -331,22 +431,6 @@
       "duration_ms": 204411,
       "name": "California Sober (Feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
-    },
-    {
-      "added_at": "2024-04-20 04:00:00",
-      "album": {
-        "name": "Raised",
-        "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Our Grass Is Legal",
-      "url": "https://open.spotify.com/track/5WREsIXrQ8pleixunsClED"
     },
     {
       "added_at": "2024-04-20 04:00:00",
@@ -379,22 +463,6 @@
       "duration_ms": 182160,
       "name": "Wacky Tobaccy",
       "url": "https://open.spotify.com/track/7hhhV61dsJvZmS526eGC1f"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/1RiA5Wa5zMTNkUhFhkEl51"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 297826,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/79mK0g0E4VxwY8MroggugG"
     },
     {
       "added_at": "2024-04-20 04:00:00",
@@ -463,26 +531,6 @@
       "duration_ms": 183076,
       "name": "Smoke It - Demo",
       "url": "https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:35",
-      "album": {
-        "name": "this little lighter of mine (joy version)",
-        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "this little lighter of mine (joy version)",
-      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
     },
     {
       "added_at": "2024-04-20 04:00:00",
@@ -731,22 +779,6 @@
     {
       "added_at": "2024-04-20 04:00:00",
       "album": {
-        "name": "Port Saint Joe",
-        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Weed, Whiskey And Willie",
-      "url": "https://open.spotify.com/track/02rxQiuRlHK7LFkrZGf3ii"
-    },
-    {
-      "added_at": "2024-04-20 04:00:00",
-      "album": {
         "name": "Welcome To Hazeville",
         "url": "https://open.spotify.com/album/4vDNImXpWWDNb7qrJagoJm"
       },
@@ -899,22 +931,6 @@
       "duration_ms": 201600,
       "name": "When I'm Stoned",
       "url": "https://open.spotify.com/track/32xpxaQUNHLvVn887yhnNK"
-    },
-    {
-      "added_at": "2024-04-20 04:00:00",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "All Time High",
-      "url": "https://open.spotify.com/track/3TEbThqomZVo8Fpe5TiWfW"
     },
     {
       "added_at": "2024-04-20 04:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 348413,
       "name": "High Time",
       "url": "https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99"
-    },
-    {
-      "added_at": "2024-04-20 04:00:00",
-      "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "No Stone Unturned",
-      "url": "https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN"
     },
     {
       "added_at": "2024-04-20 04:00:00",

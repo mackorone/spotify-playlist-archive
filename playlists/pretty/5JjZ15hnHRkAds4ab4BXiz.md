@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 488 songs - 1 day 6 hr 46 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 489 songs - 1 day 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -496,5 +496,6 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 486 | [Heaven](https://open.spotify.com/track/3WUetIYOqcHBqRIQqyUTCN) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:53 |
 | 487 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 |
 | 488 | [Johan Von Bronx](https://open.spotify.com/track/3dWaDHwsvudH9vywNjVUVf) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:01 |
+| 489 | [Father Electricity](https://open.spotify.com/track/1VeHgjA3KTfiMYM4pL1nXX) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 7:23 |
 
-Snapshot ID: `AAAPlkShK10uHMUIZvPzf2bkg4pxo02p`
+Snapshot ID: `AAAPl7JG3Q+L1KM9rVlxVjxaxym75c02`

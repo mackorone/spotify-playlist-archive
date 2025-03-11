@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 12890,
+  "num_followers": 12893,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAACmvZinlFgho++Dd9pydNw6",
+  "snapshot_id": "Z8zaAAAAAABIA7YPb567Bwkag3d2bbCq",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOR KOR LAKE",
-        "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 193624,
-      "name": "NADA ME LEVANTA",
-      "url": "https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG"
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+        "name": "KOR KOR LAKE",
+        "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
       },
       "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+      "duration_ms": 193624,
+      "name": "NADA ME LEVANTA",
+      "url": "https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "jules",
+      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aroma A Nostalgia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "jules",
-      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
     },
     {
       "added_at": null,
@@ -339,6 +339,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "tuviste",
+      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Things will be fine (Bratty Remix)",
         "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
       },
@@ -368,41 +416,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 230386,
-      "name": "tuviste",
-      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
       "duration_ms": 138866,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chocolate y Nata",
         "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 181384,
       "name": "Chocolate y Nata",
       "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF"
     },
     {
       "added_at": null,

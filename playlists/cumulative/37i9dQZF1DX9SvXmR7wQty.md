@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Miki
 
-3,153 songs - 6 day 23 hr 17 min
+3,154 songs - 6 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1852,7 +1852,7 @@
 | [Mbappé](https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Mbappé](https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG) | 3:06 | 2023-05-19 | 2023-07-08 |
 | [Me croirez\-vous ?](https://open.spotify.com/track/2QHh8H1ybiPjr47XwCqBfn) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Me croirez\-vous ?](https://open.spotify.com/album/30mozVFL0FCPZB8K9Nidtd) | 3:25 | 2022-09-16 | 2022-10-01 |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-08 | 2024-05-03 |
-| [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-03-07 |  |
+| [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-03-07 | 2025-03-11 |
 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 | 2024-06-07 | 2024-08-24 |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2022-02-26 |
 | [Mean mug](https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5) | [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [1001 Nuits](https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA) | 4:16 | 2024-06-21 | 2024-07-06 |
@@ -2543,6 +2543,7 @@
 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 | 2022-09-02 | 2022-09-17 |
 | [Sans visage](https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Sans visage](https://open.spotify.com/album/7sIEiWP721eUrnOD9E6AAS) | 4:12 | 2024-08-30 | 2024-09-07 |
 | [SATAN 3](https://open.spotify.com/track/3kl3bF5F3tBOQDSJQvsjrq) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [VV5](https://open.spotify.com/album/5uUFOGf7Ia6F3j2t1NhB4H) | 3:03 | 2022-12-16 | 2023-01-21 |
+| [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 | 2025-03-07 |  |
 | [Saturn Return \- version française](https://open.spotify.com/track/6MIkxsfCxbFSTWeHGYBJgy) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return \(version française\)](https://open.spotify.com/album/0vRzOVCDqAcr4temOQdIcn) | 3:52 | 2023-12-15 | 2024-01-05 |
 | [Sauf](https://open.spotify.com/track/0kAJkqOGL8bYGXFHu5G1s9) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Déjà](https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf) | 4:26 | 2024-10-11 | 2024-10-19 |
 | [Sauvage](https://open.spotify.com/track/2H4oo6ZF7rc7ePVDOZSaw3) | [Black D](https://open.spotify.com/artist/4un0OebG8DdrD0h0zdMNtq), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Sauvage](https://open.spotify.com/album/6hAhnqdpxyyMd09u5FVjIT) | 2:36 | 2023-01-20 | 2023-02-04 |

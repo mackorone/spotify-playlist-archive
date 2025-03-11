@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f\n",
-  "num_followers": 92516,
+  "num_followers": 92545,
   "original_name": "V\u00e5rstemning",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 214187,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Piya Piya Calling (feat. The Quick Style)",
         "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Heim te st\u00e5vo",
         "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
       },
@@ -383,6 +383,26 @@
       "duration_ms": 196758,
       "name": "Heim te st\u00e5vo",
       "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "hvem kan seile foruten vind?",
+        "url": "https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        },
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "hvem kan seile foruten vind?",
+      "url": "https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -511,22 +531,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "God Morgen",
-        "url": "https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ"
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
       "artists": [
         {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 171375,
-      "name": "God Morgen",
-      "url": "https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX"
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -543,42 +559,6 @@
       "duration_ms": 141335,
       "name": "Fargepalett",
       "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "hvem kan seile foruten vind?",
-        "url": "https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3"
-      },
-      "artists": [
-        {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
-        },
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "hvem kan seile foruten vind?",
-      "url": "https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -611,6 +591,26 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "God Morgen",
+        "url": "https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "God Morgen",
+      "url": "https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Mamma sa det ordne se for snille piker",
-        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 205655,
-      "name": "Mamma sa det ordne se for snille piker",
-      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "leilo brenner (Spotify Studio It's Hits Recording)",
         "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 143197,
       "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
       "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
         "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
       },
@@ -839,22 +823,6 @@
       "duration_ms": 131642,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Silver Bead Eyes",
-        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
-      },
-      "artists": [
-        {
-          "name": "Resa Saffa Park",
-          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Every Part of Me",
-      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -895,22 +863,34 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
-        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+        "name": "Silver Bead Eyes",
+        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        },
-        {
-          "name": "Lars Vaular",
-          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+          "name": "Resa Saffa Park",
+          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
         }
       ],
-      "duration_ms": 220333,
-      "name": "S\u00e5 easy",
-      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+      "duration_ms": 214160,
+      "name": "Every Part of Me",
+      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Mamma sa det ordne se for snille piker",
+        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 205655,
+      "name": "Mamma sa det ordne se for snille piker",
+      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -927,6 +907,26 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
+        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        },
+        {
+          "name": "Lars Vaular",
+          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "S\u00e5 easy",
+      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
       },
@@ -1023,34 +1007,34 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
       },
       "artists": [
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
     },
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 174014,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
         "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Kor e du?",
-        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
       "artists": [
         {
-          "name": "Sondre Justad",
-          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
         }
       ],
-      "duration_ms": 200798,
-      "name": "Kor e du?",
-      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1199,6 +1183,22 @@
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Kor e du?",
+        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+      },
+      "artists": [
+        {
+          "name": "Sondre Justad",
+          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+        }
+      ],
+      "duration_ms": 200798,
+      "name": "Kor e du?",
+      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Happy Tears",
-        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 176433,
-      "name": "Happy Tears",
-      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "TORRES TIVOLI",
         "url": "https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 176433,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Nostalgia / Again It's On",
-        "url": "https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG"
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
       },
       "artists": [
         {
-          "name": "\u00a1BangBang Watergun!",
-          "url": "https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         }
       ],
-      "duration_ms": 231240,
-      "name": "BusyBusyBusy",
-      "url": "https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW"
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+        "name": "Nostalgia / Again It's On",
+        "url": "https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "\u00a1BangBang Watergun!",
+          "url": "https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+      "duration_ms": 231240,
+      "name": "BusyBusyBusy",
+      "url": "https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1403,22 +1403,6 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Indre liv",
-        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 151893,
-      "name": "Ikke lenger din",
-      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Indre liv",
+        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 151893,
+      "name": "Ikke lenger din",
+      "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1491,22 +1507,6 @@
       "duration_ms": 169248,
       "name": "Sommer i Norge",
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     }
   ],
   "unique_name": "V\u00e5rstemning",

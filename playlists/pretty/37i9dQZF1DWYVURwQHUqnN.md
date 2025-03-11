@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,602 likes - 39 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,670 likes - 39 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 38 | [God Bless](https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [God Bless / Doku](https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD) | 1:56 |
 | 39 | [FOUDRE](https://open.spotify.com/track/3mfEErh2onwtaWlL7ZtNsl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [FOUDRE](https://open.spotify.com/album/0BGuudU5Zpjkg1yUKMWZEp) | 2:27 |
 
-Snapshot ID: `Z8oo+wAAAABG1XIuRa8IYTwfp9u7aiqP`
+Snapshot ID: `Z88WIQAAAAD8ddDMctUHRXaDjKudnW3g`

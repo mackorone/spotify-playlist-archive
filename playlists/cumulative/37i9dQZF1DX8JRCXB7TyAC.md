@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-137 songs - 6 hr 48 min
+138 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 | 2024-03-26 |  |
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-10-03 | 2023-11-10 |
 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-07-24 |  |
+| [Not Easy](https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Not Easy](https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y) | 2:56 | 2025-03-10 |  |
 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 | 2024-03-26 |  |
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-07-24 | 2024-04-19 |
 | [On The Way](https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [On The Way](https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc) | 3:31 | 2024-04-17 | 2025-01-09 |
@@ -135,7 +136,7 @@
 | [Tycon](https://open.spotify.com/track/689Hj1Zr8wOV3dJ45SEwTO) | [Vinu Gaur](https://open.spotify.com/artist/7JWbFnKxCRL2EJOtIPTrXo), [Yudhveer Dagar](https://open.spotify.com/artist/1Wxml6YQ0bNEMbDuTEW5AC) | [Tycon](https://open.spotify.com/album/4D3i79insTzHjhQMgqyi7w) | 3:03 | 2023-07-24 | 2023-08-01 |
 | [Up Se](https://open.spotify.com/track/1RubYJKQPCo6D28pvVKrW2) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/6iRnvYs4LzjbD0LfTl1InG) | 3:37 | 2024-04-05 | 2024-04-19 |
 | [Up Se](https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY), [Harendra Nagar](https://open.spotify.com/artist/7LSZCgjIrHDXKxkMpaSPcS) | [Up Se](https://open.spotify.com/album/1e8nPhgzRFszbUdpTCt1hj) | 3:37 | 2024-02-12 | 2025-02-01 |
-| [Western Up](https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf), [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3) | [Western Up](https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k) | 3:01 | 2024-07-31 |  |
+| [Western Up](https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf), [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3) | [Western Up](https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k) | 3:01 | 2024-07-31 | 2025-03-11 |
 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 | 2025-01-20 |  |
 | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB) | 2:23 | 2023-07-24 | 2024-05-01 |
 | [World Famous Haryanvi](https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W) | [Ashoka Deswal](https://open.spotify.com/artist/0fggoEiFOovUAaLHGFOseZ) | [World Famous Haryanvi](https://open.spotify.com/album/68rxbjQHUE8Hle8y6xsm6Y) | 2:52 | 2023-07-24 | 2024-03-27 |

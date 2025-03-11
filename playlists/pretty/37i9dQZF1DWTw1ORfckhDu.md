@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,309 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,314 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
 | 2 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
 | 3 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
-| 4 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
-| 5 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
-| 6 | [DJ \(feat\. SomBadi\)](https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo), [SomBadi](https://open.spotify.com/artist/1j0UMs2eqsn464CiW1odZk) | [DJ \(feat\. SomBadi\)](https://open.spotify.com/album/3U9UiGjikFNlRFjtkF6MF1) | 2:38 |
-| 7 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 8 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 |
-| 9 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
-| 10 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
+| 4 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
+| 5 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
+| 6 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
+| 7 | [DJ \(feat\. SomBadi\)](https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo), [SomBadi](https://open.spotify.com/artist/1j0UMs2eqsn464CiW1odZk) | [DJ \(feat\. SomBadi\)](https://open.spotify.com/album/3U9UiGjikFNlRFjtkF6MF1) | 2:38 |
+| 8 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 9 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 |
+| 10 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
 | 11 | [Behind The Bars \(feat\. Senya\)](https://open.spotify.com/track/0wsosSVHH7BMNAcDJB5r0z) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Behind The Bars \(feat\. Senya\)](https://open.spotify.com/album/4jTnyALA9ziwjbgbIOqf6N) | 2:31 |
 | 12 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
 | 13 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 48 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 |
 | 49 | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 |
 
-Snapshot ID: `Z81y0wAAAADjO83Y/0SSHUo/GHXPKbnT`
+Snapshot ID: `Z88UFgAAAADtewwEmEoREZI3JaPXfetk`

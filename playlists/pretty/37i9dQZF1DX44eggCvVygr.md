@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,262 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,296 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 76 | [La Palloza](https://open.spotify.com/track/0yUoTyOsLsMdkPejOoIIr5) | [La Fanfarria del Capitán](https://open.spotify.com/artist/3RtwbiB9DVyibUaEZo6ZYu) | [La Giravida](https://open.spotify.com/album/2k55copetYbBobaDbKTlNz) | 3:27 |
 | 77 | [Pescador De Hombres](https://open.spotify.com/track/7od71ucLRijC3mHYPXej7q) | [Cesáreo Gabaráin](https://open.spotify.com/artist/2nB6QHFr8HDZ7NIcNOVU5X) | [Pescador De Hombres](https://open.spotify.com/album/6Tx5TBvbXUC3AsWr3buaGK) | 3:51 |
 | 78 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 |
-| 79 | [Cuando Suba La Marea](https://open.spotify.com/track/1YSPIHUt1JiN9H1GcgH8Ce) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Hacia Lo Salvaje](https://open.spotify.com/album/30EpnkJuxCNI7AsAFmbMuQ) | 4:25 |
+| 79 | [Cuando Suba la Marea](https://open.spotify.com/track/1YSPIHUt1JiN9H1GcgH8Ce) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Hacia Lo Salvaje](https://open.spotify.com/album/30EpnkJuxCNI7AsAFmbMuQ) | 4:25 |
 | 80 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 81 | [Bella ciao](https://open.spotify.com/track/1l0i7201yGXdNFKZMJLs7M) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/2ZcvvyXP4yqh3EdYodsHwl) | 2:09 |
 | 82 | [Como Yo Te Amo](https://open.spotify.com/track/0e1QE4ZTOWuvVxfK8Y1gCb) | [Pedro Alonso](https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO) | [Berlín \(Soundtrack de la serie de Netflix\)](https://open.spotify.com/album/6SmaGloomWUWNlpCWJCUzU) | 3:40 |

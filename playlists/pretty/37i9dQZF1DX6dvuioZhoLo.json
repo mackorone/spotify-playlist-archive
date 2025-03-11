@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 310991,
+  "num_followers": 311028,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 160195,
-      "name": "Money Train",
-      "url": "https://open.spotify.com/track/115YPahM5rL48iEUqVRAuG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 160195,
+      "name": "Money Train",
+      "url": "https://open.spotify.com/track/115YPahM5rL48iEUqVRAuG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Rule 62",
+        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "You Don't Scare Me",
+      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Rule 62",
-        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "You Don't Scare Me",
-      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 143160,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Playing Old Games",
-        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Pete Lindberg",
-          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Playing Old Games",
-      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 223713,
-      "name": "Trouble Me Anytime",
-      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 170960,
       "name": "Howard Hughes Blues",
       "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 223713,
+      "name": "Trouble Me Anytime",
+      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "True Love's Face",
-        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "True Love's Face",
-      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Magnolia Queen",
         "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "True Love's Face",
+        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "True Love's Face",
+      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
     },
     {
       "added_at": "2024-07-12 04:00:00",

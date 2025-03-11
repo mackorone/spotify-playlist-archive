@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,126 songs - 2 day 17 hr 30 min
+1,127 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-26 | 2025-01-03 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-10 | 2023-06-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-08 | 2023-09-04 |
-| [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:50 | 2025-03-08 | 2025-03-10 |
+| [Damn Right \(feat\. Childish Gambino & Kali Uchis\)](https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:50 | 2025-03-08 |  |
 | [dance all night](https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:34 | 2024-12-07 | 2024-12-15 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-02 | 2023-09-25 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-14 | 2024-09-22 |
@@ -854,7 +854,7 @@
 | [喫煙席](https://open.spotify.com/track/3eT4GvkE7uzp9hdYxc4So2) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:06 | 2021-09-01 | 2021-09-02 |
 | [四人遊](https://open.spotify.com/track/5gkZUgKtvnQtkdYEO9WKzD) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd), [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:48 | 2025-03-03 | 2025-03-05 |
 | [回憶半分鐘](https://open.spotify.com/track/402d6uwzTN1HmZiaKQ01h6) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [回憶半分鐘](https://open.spotify.com/album/1t4W7MgS50X1Ud3hW6oCvH) | 3:46 | 2025-01-04 | 2025-02-21 |
-| [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 | 2025-03-02 |  |
+| [回留](https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:56 | 2025-03-02 | 2025-03-11 |
 | [因為你](https://open.spotify.com/track/14LL3tolxYbhNS9p5Ft0ul) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [15](https://open.spotify.com/album/01mDyY0OcuqHnvTbEKBH0s) | 3:44 | 2025-03-03 | 2025-03-05 |
 | [國際孤獨等級](https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [國際孤獨等級](https://open.spotify.com/album/1VSvRUXx0Qq9sjwFnyfONM) | 3:13 | 2023-03-04 | 2023-09-03 |
 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 | 2021-12-04 | 2023-04-02 |
@@ -1036,7 +1036,8 @@
 | [第一個迷](https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [第一個迷](https://open.spotify.com/album/44OlMzM4I4gekwnDCWishn) | 4:07 | 2023-01-03 | 2023-01-24 |
 | [第二人格](https://open.spotify.com/track/3N1Gv5Qtv22eFB3gWLCCOy) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [第二人格](https://open.spotify.com/album/6J5HvuoektIH4d7uoHJjV0) | 4:34 | 2023-06-16 | 2023-07-08 |
 | [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/track/6K0vTwio6ps1a33FWv06KT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/album/5sATazRtoCgwqf4ZnUys9P) | 4:20 | 2024-09-11 | 2025-01-18 |
-| [紅豆](https://open.spotify.com/track/5TkQbhQm9BXONk2agDo4w9) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Timeless](https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK) | 3:56 | 2025-03-02 |  |
+| [紅豆](https://open.spotify.com/track/5TkQbhQm9BXONk2agDo4w9) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Timeless](https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK) | 3:56 | 2025-03-02 | 2025-03-11 |
+| [紅豆](https://open.spotify.com/track/6fINptnBBbiz2JPIBhkJL7) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [The Soulboy Collection](https://open.spotify.com/album/7pzuGIw5y0D37iPjKeScs3) | 3:56 | 2025-03-10 |  |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-25 |
 | [純銀子彈](https://open.spotify.com/track/00l58ywFDoFBShu2vvFsIz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [純銀子彈](https://open.spotify.com/album/4oNpm1CABK7baRx8DLtxvN) | 4:50 | 2025-01-04 | 2025-02-02 |
 | [細胞](https://open.spotify.com/track/7LFX60BiB9VlEC6SWaV1ar) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [跟你開玩笑](https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG) | 2:30 | 2022-10-18 | 2022-10-20 |

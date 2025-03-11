@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > <a href="spotify:track:6qCmwE9TO2j9JiEXZ4exyM">entré</a> på klubben til den her <a href="spotify:artist:5NYUb39ntjgN7cRtN4y25T">@anton westerlin</a> <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">@lamin</a> <a href="spotify:artist:1RJznM4DOSV69NWbkq3RA9">@ozzy</a> 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,101 likes - 59 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,102 likes - 59 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

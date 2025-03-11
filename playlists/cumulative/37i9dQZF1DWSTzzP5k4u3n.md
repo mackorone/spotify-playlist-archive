@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
 
-320 songs - 18 hr 53 min
+321 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Kapteeni](https://open.spotify.com/track/3eYzh7MET7DfMWbSoiQ5zj) | [Juuso](https://open.spotify.com/artist/0XkYgQirNpuUpQKa2YN4Uw) | [Kapteeni](https://open.spotify.com/album/1OUCSFLe2WX05AqvOrTcEn) | 2:36 | 2024-07-02 | 2024-07-05 |
 | [Karma Corrupted](https://open.spotify.com/track/5fv1YoBQm6rqR3CgcKYW05) | [Myon](https://open.spotify.com/artist/0bn2hcS30y2GaCwA9OCoWL) | [Terra Nova](https://open.spotify.com/album/0sFgF6uCSxmiiG8orITQLS) | 5:37 | 2024-07-02 | 2024-07-12 |
 | [Katoava kesä](https://open.spotify.com/track/5J6A0U1hEQ4qT6WZL9Elvn) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [POP // ROCK](https://open.spotify.com/album/5J0IN6uIsLr3aVZaQa0Kp1) | 3:31 | 2025-03-06 |  |
+| [Katson kukkulalta kaupunkiin](https://open.spotify.com/track/3HETTNrYRDuVnJ0rWsyV5e) | [Aija Puurtinen & Brooklynin Satu](https://open.spotify.com/artist/4va4EUQ8qQBOtrxVXX29pu) | [Katson kukkulalta kaupunkiin](https://open.spotify.com/album/5WGEPPx78xAcmCb5XEPcu4) | 3:29 | 2025-03-10 |  |
 | [Kaunis](https://open.spotify.com/track/6T6D0KAk4q6ujqWkTmQ0bL) | [Hugo Cajan](https://open.spotify.com/artist/2qtz8c5VZQMusKI1B24MW2) | [Kaunis](https://open.spotify.com/album/5k0ej6zgI4sOOIMrGCxZlY) | 3:24 | 2024-07-02 | 2024-07-05 |
 | [Kemin savut](https://open.spotify.com/track/0R3DcHNuWvQucIRjZWY8E1) | [Jukka Takalo](https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549) | [Jokivarsien laulut](https://open.spotify.com/album/2lTcH70XtPzLlOR9JBbbcg) | 3:53 | 2024-08-29 | 2024-11-29 |
 | [Kenelle kirkonkelloja soitetaan?](https://open.spotify.com/track/52MmTwbLhYZWpdktCBIqk6) | [Tuomisto](https://open.spotify.com/artist/6Ja3gBQxiggMYisHdetaxm) | [Kenelle kirkonkelloja soitetaan?](https://open.spotify.com/album/36rvPyhDWadqp16Wn3Zxv1) | 4:07 | 2025-02-27 |  |

@@ -111631,6 +111631,28 @@
     },
     {
       "album": {
+        "name": "Paper Umbrellas",
+        "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209968,
+      "name": "Paper Umbrellas",
+      "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
+    },
+    {
+      "album": {
         "name": "Songs To Keep You Warm",
         "url": "https://open.spotify.com/album/7CtRGTImiw2tsq1Bf1AXe0"
       },

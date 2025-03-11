@@ -1,13 +1,29 @@
 {
   "description": "Don't play the odds, play the man. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.",
-  "num_followers": 1253,
+  "num_followers": 1283,
   "original_name": "Suits LA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8dBFAAAAAAWJdBAZ4WRm4baJ/jQXsIs",
+  "snapshot_id": "Z89AFQAAAABfYPV5xSftFe8ONEZFqdvZ",
   "tracks": [
+    {
+      "added_at": "2025-03-10 19:40:05",
+      "album": {
+        "name": "SEA/SONS",
+        "url": "https://open.spotify.com/album/3dFhSqjS7Kg6IpPt5KTYUP"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "duration_ms": 227380,
+      "name": "Heart Of Gold",
+      "url": "https://open.spotify.com/track/3t61ux15gVCtuJZLzptmd0"
+    },
     {
       "added_at": "2025-03-04 18:06:12",
       "album": {

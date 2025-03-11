@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 330804,
+  "num_followers": 330887,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -478,15 +478,11 @@
         {
           "name": "Sabrina Claudio",
           "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 185617,
-      "name": "Belong to You (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6"
+      "duration_ms": 283236,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -602,11 +598,15 @@
         {
           "name": "Sabrina Claudio",
           "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 283236,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
+      "duration_ms": 185617,
+      "name": "Belong to You (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
+      },
+      "artists": [
+        {
+          "name": "Ro James",
+          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
+        }
+      ],
+      "duration_ms": 281511,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Freaky with You (feat. Jacquees)",
         "url": "https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 192600,
       "name": "Freaky with You (feat. Jacquees)",
       "url": "https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Permission",
-        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
-      },
-      "artists": [
-        {
-          "name": "Ro James",
-          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
-        }
-      ],
-      "duration_ms": 281511,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
     },
     {
       "added_at": "2024-09-02 12:32:28",

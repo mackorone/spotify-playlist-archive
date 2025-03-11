@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain]
 
 > Immerse yourself in the sounds of Night City with the official playlist for Cyberpunk 2077.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,329 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,611 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -17483,6 +17483,32 @@
     },
     {
       "album": {
+        "name": "Rayo (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        },
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175299,
+      "name": "Rayo - Spotify Singles",
+      "url": "https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA"
+    },
+    {
+      "album": {
         "name": "RBF: Part 1 - Spotify Singles",
         "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
       },

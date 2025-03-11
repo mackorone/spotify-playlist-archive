@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 340922,
+  "num_followers": 340961,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAACtcJVTPSoAGo3miiiv5z4z",
+  "snapshot_id": "Z8zaAAAAAADdM8eSaGsfffzM0RhY+qvU",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Friends Live On Stage",
-        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 45280,
-      "name": "Hey, Schoolgirl - Live at Madison Square Garden, New York, NY - December 2003",
-      "url": "https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live 1969",
         "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 191066,
       "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
       "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 45280,
+      "name": "Hey, Schoolgirl - Live at Madison Square Garden, New York, NY - December 2003",
+      "url": "https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz"
     },
     {
       "added_at": null,

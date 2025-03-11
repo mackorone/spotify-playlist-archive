@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125418,
+  "num_followers": 125416,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATxNThoRrHLpXTG4o7ME1b26+ZA7Ag",
+  "snapshot_id": "AAATxaEHSQUYHSpKPGkKyPtZ6Dt4djgv",
   "tracks": [
+    {
+      "added_at": "2025-03-10 15:14:14",
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 162068,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
+    },
     {
       "added_at": "2025-03-07 14:49:09",
       "album": {

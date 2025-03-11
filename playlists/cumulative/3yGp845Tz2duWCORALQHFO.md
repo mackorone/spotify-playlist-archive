@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,223 songs - 5 day 0 hr 23 min
+2,226 songs - 5 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [It's You](https://open.spotify.com/track/2kZ1PZF5vdffvaZwICsrL6) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [It's You](https://open.spotify.com/album/1cd6fSCJ2SnMDUVc7UZXip) | 3:37 | 2024-07-05 | 2024-07-12 |
 | [It's You \(C'est Toi\)](https://open.spotify.com/track/497NJiizav24m37hXb7fN6) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [It's You \(C'est Toi\)](https://open.spotify.com/album/71POWBzOMIQg5oM70sX6Zr) | 3:06 | 2024-06-20 | 2024-06-29 |
 | [ITS YOU](https://open.spotify.com/track/3DVps8FDEzerZesxZnOHVs) | [jarradcleofé](https://open.spotify.com/artist/3KSx8jFUIL2SzMp4uLeSJQ) | [LOVE HARD](https://open.spotify.com/album/1OlHk6CpatbFwiWnlHcmtX) | 4:15 | 2024-05-29 | 2024-06-08 |
+| [Izulu Lami](https://open.spotify.com/track/4xezrsnf0dQ61TtUN52iDq) | [Mshado](https://open.spotify.com/artist/132R6TYyhnugigIY9k65BX) | [Gqomzart](https://open.spotify.com/album/6viV6fozmPsSmjBSrH9kZ0) | 3:33 | 2025-03-10 |  |
 | [Je Veux](https://open.spotify.com/track/201ygMoqNMFGhxIE2TK9yM) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Je Veux](https://open.spotify.com/album/2J0pKe0kOSrlr5EW2JXDli) | 2:52 | 2025-01-03 | 2025-01-11 |
 | [Jet Setter](https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Yeah Boy](https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au) | [Jet Setter](https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U) | 2:54 | 2024-09-26 | 2024-10-05 |
 | [Jetsetter](https://open.spotify.com/track/1ngjPnoeRNLB922MFkFUjq) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Jetsetter](https://open.spotify.com/album/00SdOGtnnrEIbRnRO2w19F) | 2:49 | 2025-01-31 | 2025-02-07 |
@@ -2058,6 +2059,7 @@
 | [U Make Me Feel Alive](https://open.spotify.com/track/4iXgvP9N1sAPE1Oo4p31sW) | [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT), [Blanee](https://open.spotify.com/artist/7zCLvxAS1MLWRfXrXsBBB1) | [U Make Me Feel Alive](https://open.spotify.com/album/4kHf33fuKR6FWz6vU5sN0M) | 2:35 | 2024-12-13 | 2024-12-20 |
 | [UFO](https://open.spotify.com/track/14cBot3XRGMiYmNMEqzaTh) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J) | [UFO](https://open.spotify.com/album/0q2FWOin3FyimIpSyTRy4I) | 3:05 | 2024-07-12 | 2024-07-19 |
 | [Umbrella](https://open.spotify.com/track/64XiSf7yj8DpDfNTTsh2qn) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [Umbrella](https://open.spotify.com/album/62nnfII15N10IoPcdqCj3B) | 2:34 | 2024-07-02 | 2024-07-06 |
+| [Umoya Wami](https://open.spotify.com/track/3IJX4GCe77ZRJoWmYQjCvz) | [Mshado](https://open.spotify.com/artist/132R6TYyhnugigIY9k65BX) | [Gqomzart](https://open.spotify.com/album/6viV6fozmPsSmjBSrH9kZ0) | 3:48 | 2025-03-10 |  |
 | [Una Mattina \(Afro House Remix\)](https://open.spotify.com/track/39c4APfmcSVe8F00d8qDwn) | [Eskan](https://open.spotify.com/artist/06A1zlHyiHCMOATJ0Gjt5o) | [Una Mattina \(Afro House Remix\)](https://open.spotify.com/album/3JFIkDFg2uAcmRONlohd6U) | 4:40 | 2025-01-10 | 2025-01-18 |
 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2024-12-19 | 2025-01-04 |
 | [Under My Skin \- N\-sKing Remix](https://open.spotify.com/track/3NnHyH9oRNuYq5JHLiVthv) | [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [N\-sKing](https://open.spotify.com/artist/25M25OsLIqj4aJVJk8VDuu) | [Under My Skin \(Remixes\)](https://open.spotify.com/album/4ZOBAj99JbnmK9E3bbBhp1) | 3:51 | 2025-01-10 | 2025-01-18 |
@@ -2077,6 +2079,7 @@
 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 | 2024-08-16 | 2024-08-24 |
 | [US](https://open.spotify.com/track/2t0OjDBYNZvoXFvKsYwlG7) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD) | [US](https://open.spotify.com/album/6gckBTuyU6u8DTXgv3rzfo) | 3:06 | 2024-08-08 | 2024-08-16 |
 | [Used To Be](https://open.spotify.com/track/040UljSpRhPWMyrSv867mF) | [Philink](https://open.spotify.com/artist/7gpKdoJe0Ka19bTSPVuInO) | [Used To Be](https://open.spotify.com/album/5ix6dzCwK8htBZMH6aldh9) | 2:59 | 2024-11-29 | 2024-12-06 |
+| [Uthando Lwami](https://open.spotify.com/track/77k0PDyWaRbZbmztvVCRC9) | [Mshado](https://open.spotify.com/artist/132R6TYyhnugigIY9k65BX) | [Gqomzart](https://open.spotify.com/album/6viV6fozmPsSmjBSrH9kZ0) | 3:34 | 2025-03-10 |  |
 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 | 2024-12-05 | 2024-12-14 |
 | [VAMPIRE](https://open.spotify.com/track/4nDQP2tdsxDsqpzA42lp3b) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [VAMPIRE](https://open.spotify.com/album/44bLwAuqP3yWduonfrklF7) | 3:05 | 2024-08-08 | 2024-08-16 |
 | [Variant \- HI\-LO Variant](https://open.spotify.com/track/2MG68DbWyzostiPDDS8B2i) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Variant \(HI\-LO Variant\)](https://open.spotify.com/album/3DEQorUt1DJE2GiFdpLFgL) | 3:03 | 2024-06-16 | 2024-06-21 |

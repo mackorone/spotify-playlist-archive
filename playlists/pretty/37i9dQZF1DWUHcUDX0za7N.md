@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Pretty Boy D\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,943 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,971 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 40 | [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 |
 | 41 | [EKWE](https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [EKWE](https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN) | 2:31 |
 | 42 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
-| 43 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
+| 43 | [NFA \(Feat\. Phyno\)](https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:38 |
 | 44 | [Idan Buruku \(Freestyle\)](https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Idan Buruku \(Freestyle\)](https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8) | 1:31 |
-| 45 | [NFA \(Feat\. Phyno\)](https://open.spotify.com/track/33fmrAzAiCFBKO7ktWWWwc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:38 |
+| 45 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
 | 46 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 |
 | 47 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
 | 48 | [Taya](https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Taya](https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0) | 2:02 |

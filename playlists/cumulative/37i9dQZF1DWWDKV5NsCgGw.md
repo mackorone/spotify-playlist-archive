@@ -4,7 +4,7 @@
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-104 songs - 4 hr 28 min
+107 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ashes](https://open.spotify.com/track/3jyziycN2WuSDPbh8litHe) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:25 | 2023-02-17 |  |
 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 | 2023-02-17 |  |
 | [Bocca di rosa](https://open.spotify.com/track/3eAjS25afRXGFSyjPQo7l2) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 3:05 | 2023-02-17 |  |
+| [Boongatanyon](https://open.spotify.com/track/1bXU4U0lUIm9Y9aTN7uRxF) | [The Son Of P.M.](https://open.spotify.com/artist/2n0Cu2oLybxP4tXaKJn7wa) | [Thai Beat A Go\-Go Vol\. 1](https://open.spotify.com/album/68rQx2qy2UpgwAknBwnb46) | 2:03 | 2025-03-10 |  |
 | [Buon Giorno](https://open.spotify.com/track/0Xx8Yw3sy8L4QzaYPgszyU) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:23 | 2023-02-17 |  |
 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 | 2023-02-17 |  |
 | [Citta' Vuota \(It's a Lonely Town\) \- 1998 Remaster](https://open.spotify.com/track/1lGfH2e0m2aITyZjrruveI) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/1dgCgDO8EXCPOo3UzwcopH) | 5:00 | 2023-02-17 |  |
@@ -70,6 +71,7 @@
 | [Ocean Call](https://open.spotify.com/track/4KNpWSyNaFUwoefmJj7qEL) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:07 | 2023-02-17 |  |
 | [Ogni Uno](https://open.spotify.com/track/6ZDj96ofnAPxyfA9YqCfgY) | [Eugenio Bennato](https://open.spotify.com/artist/5EQMO0g2Ley9i4VlOwYQt5) | [Sponda Sud](https://open.spotify.com/album/02SUXXP7UNJc2UnLul6GNo) | 3:54 | 2023-02-17 |  |
 | [Ommil Habiba](https://open.spotify.com/track/4RSmtkfLfzu0mrCsE9XC0W) | [Omar Khorshid](https://open.spotify.com/artist/1hNBpkDh5MkhoSL1HbAWtj) | [Belly Dance from Lebanon](https://open.spotify.com/album/7yKGxrd9zdbSzUL20xrDLp) | 4:40 | 2023-02-17 |  |
+| [Phom Rak Khoon Tching Thing \(I Really Do Love You\)](https://open.spotify.com/track/65ZRuojZDx04DnEbdEItVa) | [The Viking Band](https://open.spotify.com/artist/0fOA6Sisj7Fie71ZiIi3EK) | [Thai Beat A Go\-Go Vol\. 1](https://open.spotify.com/album/68rQx2qy2UpgwAknBwnb46) | 3:07 | 2025-03-10 |  |
 | [Pianissimo](https://open.spotify.com/track/511kAuj1FsHqR6lgh8yQhW) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 0:57 | 2023-02-17 |  |
 | [Pianississimo](https://open.spotify.com/track/4EZPjc5DRkYbjeErEivXHv) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:00 | 2023-02-17 |  |
 | [Piano Forte](https://open.spotify.com/track/1QwbJjAPDmd3QWAd7OIpF0) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 0:48 | 2023-02-17 |  |
@@ -80,6 +82,7 @@
 | [Pool Walk](https://open.spotify.com/track/4GxoY1mXROh4OYXMi8ruR5) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:14 | 2023-02-17 |  |
 | [Preghiera in Gennaio](https://open.spotify.com/track/1Hd9I5eGPhOzc4M6C0pgME) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 3:31 | 2023-02-17 |  |
 | [Quantu basilico](https://open.spotify.com/track/1VognYyHblHkphkRbUOUPa) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF) | [La Sicilia di Rosa Balistreri](https://open.spotify.com/album/3u7lY7pmS8Q7iNPyTDTwuH) | 3:26 | 2023-02-17 |  |
+| [Rak Tong Rorn \(Love Passion\)](https://open.spotify.com/track/37McaJ64hTmge0iyaDSkNl) | [Viparat Piengsuwan](https://open.spotify.com/artist/4EpvK0eqJqVmYY3IYgVDGn) | [Thai Beat A Go\-Go Vol\. 2](https://open.spotify.com/album/5PazeGC4KtnB5Evwzm934p) | 2:35 | 2025-03-10 |  |
 | [Rejuvenated](https://open.spotify.com/track/071abk6jP9FlZjnu1FaMOy) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 0:55 | 2023-02-17 |  |
 | [Renaissance \(Main Title Theme\) \- \[Extended Version\] \[from “The White Lotus: Season 2”\]](https://open.spotify.com/track/5UsRZKlfGJV8jSaPrvFEUH) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 4:23 | 2023-02-17 |  |
 | [Renaissance \(The White Lotus\) \- Tiësto Remix](https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Renaissance \(The White Lotus\) \[Tiësto Remix\]](https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe) | 2:50 | 2023-02-17 |  |

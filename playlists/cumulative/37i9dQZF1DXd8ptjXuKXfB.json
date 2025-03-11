@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 148928,
       "name": "ANXIETY (feat. Doechii)",
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
@@ -895,6 +913,50 @@
     },
     {
       "album": {
+        "name": "C\u00e9lkereszt",
+        "url": "https://open.spotify.com/album/1XUu7P8UmfzN0x922S6NmK"
+      },
+      "artists": [
+        {
+          "name": "ibbigang",
+          "url": "https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy"
+        },
+        {
+          "name": "Valter",
+          "url": "https://open.spotify.com/artist/3g7HTvu3GHHLLFxF1B9Esy"
+        },
+        {
+          "name": "Szalai",
+          "url": "https://open.spotify.com/artist/7kDEAMv0Mem8bBG4vwoENq"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "C\u00e9lkereszt",
+      "url": "https://open.spotify.com/track/4MWVYdIiQN3gsZEjJ0wn4p"
+    },
+    {
+      "album": {
+        "name": "Daddy Said No",
+        "url": "https://open.spotify.com/album/6sgpGdOO7aBpAyq3fiY4Wv"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Daddy Said No",
+      "url": "https://open.spotify.com/track/5f0bVuQAe0E0gjSwyvdSxh"
+    },
+    {
+      "album": {
         "name": "DEF",
         "url": "https://open.spotify.com/album/0GExaBb0qVACqBO2Xy5cBU"
       },
@@ -990,7 +1052,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 202519,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/37qceUDlox3F1kx3RZGFDP"
@@ -1396,7 +1458,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "EZ AZ \u00c1RA",
       "url": "https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ"
@@ -2120,7 +2182,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 204878,
       "name": "Isten Vezet",
       "url": "https://open.spotify.com/track/0t86ZsEdusQx0YhHLoPW8u"
@@ -2286,7 +2348,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 166736,
       "name": "kapu",
       "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
@@ -3780,7 +3842,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -3996,7 +4058,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 150714,
       "name": "Rabmad\u00e1r - Remix",
       "url": "https://open.spotify.com/track/52sdW6IuaiLVRDtxKXucUN"
@@ -4364,7 +4426,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -4710,6 +4772,24 @@
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
+    },
+    {
+      "album": {
+        "name": "van1szekt\u00e1m",
+        "url": "https://open.spotify.com/album/5TTjgHeXcIyRktz65PVuAj"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147573,
+      "name": "tesla",
+      "url": "https://open.spotify.com/track/3ZYnoYZSLuJEm8FcJ0QjL4"
     },
     {
       "album": {

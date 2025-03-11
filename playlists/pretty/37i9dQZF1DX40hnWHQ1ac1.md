@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain]
 
 > Get ready for the upcoming show by listening to j\-hope's best tracks! \(제이홉의 베스트 트랙들을 들으며 다가올 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,177 likes - 34 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,587 likes - 34 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

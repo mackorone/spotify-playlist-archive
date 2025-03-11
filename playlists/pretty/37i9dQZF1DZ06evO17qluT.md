@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,608 likes - 48 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,733 likes - 48 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [X6](https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:53 |
 | 48 | [Gaudi Apex](https://open.spotify.com/track/78fQA35zFuiGLGQHbqzDYY) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez) | [Gaudi Apex](https://open.spotify.com/album/5UVSbsyHHVhSIpwbSnVaKL) | 2:34 |
 
-Snapshot ID: `Z8uIgAAAAABCu6w1CCJHmvaD/zcv0HG/`
+Snapshot ID: `Z8zaAAAAAAB7WsD8P+CyEC3Dtwl957N8`

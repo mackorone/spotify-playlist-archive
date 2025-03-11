@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,192 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,213 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 77 | [JetLag](https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD) | [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [JetLag](https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu) | 4:29 |
 | 78 | [HISTORIA](https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [HISTORIA](https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT) | 3:29 |
 | 79 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 |
-| 80 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
-| 81 | [Tus Dudas](https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Elmabel](https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Tus Dudas](https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO) | 2:51 |
+| 80 | [Tus Dudas](https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Elmabel](https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Tus Dudas](https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO) | 2:51 |
+| 81 | [G&P3](https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [G&P3](https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ) | 3:16 |
 | 82 | [Lluvia](https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Así Como Suena](https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE) | 2:57 |
 | 83 | [Adicto](https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Adicto](https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2) | 3:00 |
 | 84 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 95 | [3 Am](https://open.spotify.com/track/6R3iF0udMuVWpA7RECJPYd) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc) | [3 Am](https://open.spotify.com/album/67eQL3vf8NK05q8rAwiDyu) | 3:10 |
 | 96 | [Lovely](https://open.spotify.com/track/0YK1xpP7b0cUqsz9ufibY9) | [Oky](https://open.spotify.com/artist/1BFHETdKcBBY0RzwN7Vk8X) | [Lovely](https://open.spotify.com/album/4BihoPW5Pzt56iZUxVltfS) | 3:49 |
 | 97 | [Sola](https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Estani](https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ) | [Chernobyl](https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn) | 2:23 |
-| 98 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
-| 99 | [Percocet \- Remix](https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Percocet \(Remix\)](https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1) | 5:14 |
+| 98 | [Percocet \- Remix](https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Percocet \(Remix\)](https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1) | 5:14 |
+| 99 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
 | 100 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 |
 
 Snapshot ID: `ZqMtFAAAAADmvREazfQxu164k/R1BiS2`

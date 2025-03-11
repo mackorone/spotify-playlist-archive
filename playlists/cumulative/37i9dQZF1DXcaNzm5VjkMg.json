@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 245100,
       "name": "Bertengkar Manis",
       "url": "https://open.spotify.com/track/7jQQZRS69OWGT2asKcmp6p"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 270866,
       "name": "Kurayu Bidadari",
       "url": "https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2"
@@ -1952,6 +1952,28 @@
       "duration_ms": 282973,
       "name": "Nuansa Bening",
       "url": "https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe"
+    },
+    {
+      "album": {
+        "name": "Nuansa Romansa",
+        "url": "https://open.spotify.com/album/4kM1iRXUWBgL3jYCRR5aZB"
+      },
+      "artists": [
+        {
+          "name": "Danar",
+          "url": "https://open.spotify.com/artist/324cP6fYaUtaQiGyc2UViq"
+        },
+        {
+          "name": "Gloria Jessica",
+          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240002,
+      "name": "Nuansa Romansa",
+      "url": "https://open.spotify.com/track/3LwX0Ikils12jvt5sWsAmo"
     },
     {
       "album": {
@@ -2816,6 +2838,24 @@
       "duration_ms": 254189,
       "name": "Tersemogakan",
       "url": "https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA"
+    },
+    {
+      "album": {
+        "name": "Teruntuk Mia",
+        "url": "https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG"
+      },
+      "artists": [
+        {
+          "name": "Nuh...",
+          "url": "https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196090,
+      "name": "Teruntuk Mia",
+      "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=mnAM9ohtSzyTtCjrkrTwrw">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,931 likes - 66 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,094 likes - 66 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

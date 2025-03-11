@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-653 songs - 1 day 9 hr 14 min
+656 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-04-12 | 2025-01-21 |
 | [A Future With You](https://open.spotify.com/track/1ndjWsO1Ft9kY6bqOTngmI) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 3:17 | 2022-08-17 | 2025-01-15 |
 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 | 2023-11-17 | 2024-05-11 |
-| [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 |  |
+| [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 | 2025-03-11 |
 | [A Late Night with You](https://open.spotify.com/track/3a5DekwxMBUiKVntPzfFd3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [A Late Night with You](https://open.spotify.com/album/0sxeCduFqJfGdVNHeX6qlo) | 3:01 | 2024-10-01 | 2025-01-08 |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
 | [A Love Letter](https://open.spotify.com/track/5WYHkfV8ZIt9bMPLmSGnBr) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [A Love Letter](https://open.spotify.com/album/6JzplfUI6Epq8iYJX2LK0g) | 2:50 | 2023-12-15 |  |
@@ -141,7 +141,7 @@
 | [Doldrums](https://open.spotify.com/track/0SAS6ARxYiOJT1OTUYakLf) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:12 | 2022-04-12 | 2022-11-25 |
 | [Dolphin Dance](https://open.spotify.com/track/54qJkfXVHmgJhYpbMgVjM4) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Dolphin Dance](https://open.spotify.com/album/3ImIn4IPL59kQU1B0lrQRG) | 2:18 | 2023-02-16 |  |
 | [Don't Be That Way](https://open.spotify.com/track/5dim4yMUDWM0c5g7sdereZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:48 | 2023-02-23 | 2025-03-04 |
-| [Don't Blame Me](https://open.spotify.com/track/5RuKvZoJv8uDrMcVECOcIZ) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Don't Blame Me](https://open.spotify.com/album/0RWlDYTkb9pdpOqw08se8R) | 3:32 | 2023-02-16 |  |
+| [Don't Blame Me](https://open.spotify.com/track/5RuKvZoJv8uDrMcVECOcIZ) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Don't Blame Me](https://open.spotify.com/album/0RWlDYTkb9pdpOqw08se8R) | 3:32 | 2023-02-16 | 2025-03-11 |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6HpQCQJnF0sYOBgH9nyp0F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:42 | 2022-04-12 | 2022-06-23 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 | 2024-12-17 |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2022-04-12 | 2022-11-25 |
@@ -169,6 +169,7 @@
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
 | [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 | 2024-04-24 |
 | [Eyes of a Child](https://open.spotify.com/track/7pY8FzCYOWKHu34PsSk5Bb) | [Florentin Fontaine](https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8) | [Eyes of a Child](https://open.spotify.com/album/0FUmnuEG5fyCj24OWHhNNB) | 2:54 | 2024-08-19 |  |
+| [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 | 2025-03-10 |  |
 | [Faithful In Paradise](https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Faithful In Paradise](https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY) | 2:17 | 2024-04-02 | 2025-02-11 |
 | [Fall Season](https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Fall Season](https://open.spotify.com/album/6xITORsdl8I0P0mLVVYpHz) | 2:37 | 2023-10-27 |  |
 | [Falling Grace](https://open.spotify.com/track/6Kxymny2MGIHFaUr7oRZz2) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Falling Grace](https://open.spotify.com/album/3ZfFf7JB18eNSCh91qCIsg) | 2:08 | 2024-07-12 |  |
@@ -361,6 +362,7 @@
 | [Misty](https://open.spotify.com/track/4Q7xH2yDR5grUNWulnE8U9) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Misty](https://open.spotify.com/album/6mSvYvkESutbofwdQ59pM3) | 2:44 | 2023-01-19 |  |
 | [Misty](https://open.spotify.com/track/12lnRDf58tQ4qvmaEROE5r) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:29 | 2022-04-12 | 2023-01-20 |
 | [Misty Mornings](https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Misty Mornings](https://open.spotify.com/album/4jZUkBLZ52yl1NXC4k4ZHq) | 4:03 | 2024-01-12 | 2024-08-07 |
+| [Moment's Notice](https://open.spotify.com/track/6DSxW6khPefSoAPLUUoNUb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Moment's Notice](https://open.spotify.com/album/0wZJZwdfmE3Sd7Ohqd3GIx) | 3:02 | 2025-03-10 |  |
 | [Moments with you](https://open.spotify.com/track/6bKAfPVZmTDt5IkaYyZ9ST) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Moments with you](https://open.spotify.com/album/0k5CJdX8V2Mf2AvvL99jkk) | 3:16 | 2024-10-01 |  |
 | [Moon River](https://open.spotify.com/track/10OEBzzZQqTVrhkJet4S3i) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Moon River](https://open.spotify.com/album/5ZMjGQ6HeoyJyeD39rRmHL) | 3:13 | 2022-08-30 |  |
 | [Moonlight in the Bay](https://open.spotify.com/track/0HmhtdJkhRy6G6AhCcpaUU) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [Moonlight in the Bay](https://open.spotify.com/album/5nmlImnaGL2XEgqZ6gzyeW) | 2:29 | 2024-01-05 | 2024-04-19 |
@@ -450,6 +452,7 @@
 | [Pretty Are Your Eyes](https://open.spotify.com/track/3NQ3v7gp5iJTtCmKckSmWW) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 3:25 | 2022-08-10 |  |
 | [Pure Love Again](https://open.spotify.com/track/60nV5yM40KO2uLutO46UF9) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Pure Love Again](https://open.spotify.com/album/1SZY7yVSgMUsxwQsou0ZfE) | 3:03 | 2024-08-19 | 2025-02-04 |
 | [Quiet Now](https://open.spotify.com/track/6JciTIbmeoooRXZz741E8S) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Quiet Now](https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2) | 2:48 | 2023-04-13 | 2025-02-04 |
+| [Quite a dilemma](https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Quite a dilemma](https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI) | 2:55 | 2025-03-10 |  |
 | [Rains diamonds](https://open.spotify.com/track/5y4uYShnlTpxgmq9igxXjt) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Rains diamonds](https://open.spotify.com/album/6H8IRrqFArtshNG4oP3oQV) | 2:54 | 2023-08-10 | 2024-11-26 |
 | [Red Roses](https://open.spotify.com/track/4nF6ml6bgg0nomCgQYreI2) | [Joanna Mason](https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT) | [Red Roses](https://open.spotify.com/album/5uvqy4Sd6Hz8JgcUyGJAcx) | 3:20 | 2023-04-13 | 2024-07-23 |
 | [Reflections](https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG) | [Lisa Livalli](https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR) | [Reflections](https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c) | 3:36 | 2022-04-12 | 2024-11-26 |
@@ -619,7 +622,7 @@
 | [Was it taking chances?](https://open.spotify.com/track/6orNFoBKLIP4Tw1zVLPM8x) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Was it taking chances?](https://open.spotify.com/album/4kUjrCJsN4A5PfBsOsNYaR) | 2:23 | 2023-03-23 |  |
 | [We Kiss In A Shadow](https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [We Kiss In A Shadow](https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P) | 2:43 | 2023-08-10 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 | 2023-05-26 |
-| [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-04-27 |  |
+| [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-04-27 | 2025-03-11 |
 | [Weeping Willow](https://open.spotify.com/track/4sNwc8wHFoErgbeOZOTKMn) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Weeping Willow](https://open.spotify.com/album/7r2r5H75pSNMcofFz3zQkW) | 4:20 | 2023-12-08 | 2025-01-08 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-10 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-30 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > Music from "Solo Leveling"! /アニメ「俺だけレベルアップな件」の世界を彩る楽曲をプレイリストで。©Solo Leveling Animation Partners
 
-25 songs - 1 hr 38 min
+26 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,5 +33,6 @@
 | [REVIVƎЯ](https://open.spotify.com/track/67x1DxMJvnHdHzOQ9E3AS7) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [REVIVƎЯ](https://open.spotify.com/album/3WVpSguducGqscoPiHsvYO) | 3:11 | 2025-03-03 |  |
 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 | 2025-01-04 |  |
 | [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 | 2025-01-04 |  |
+| [【LiSA×Hiroyuki SAWANO】『ReawakeR \(feat\. Felix of Stray Kids\)』Special Talk](https://open.spotify.com/episode/2ctEZsmdCZH1psMfd6LyLl) | [LiSA's Podcast](https://open.spotify.com/show/7gouDykZ9S35L1D6Q90cDa) | [LiSA's Podcast](https://open.spotify.com/album/7gouDykZ9S35L1D6Q90cDa) | 21:32 | 2025-03-10 |  |
 
 \*This playlist was first scraped on 2025-01-07. Prior content cannot be recovered.

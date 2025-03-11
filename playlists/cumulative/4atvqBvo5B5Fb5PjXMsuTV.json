@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Mar 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Mar 14:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5430,7 +5430,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 149338,
       "name": "ATE",
       "url": "https://open.spotify.com/track/2QkWICosG93cvjXeRmU9d7"
@@ -19737,6 +19737,24 @@
     },
     {
       "album": {
+        "name": "dodging",
+        "url": "https://open.spotify.com/album/7fVuj5ibDRzAXFy8vqZiGv"
+      },
+      "artists": [
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127406,
+      "name": "dodging",
+      "url": "https://open.spotify.com/track/5fLws5pKoCpu4YfwH2rE1V"
+    },
+    {
+      "album": {
         "name": "Does It Even",
         "url": "https://open.spotify.com/album/5nzHJJutjwPOKVYZFVDDUv"
       },
@@ -20836,6 +20854,24 @@
       "duration_ms": 248601,
       "name": "Dream Woman",
       "url": "https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA"
+    },
+    {
+      "album": {
+        "name": "DREAMBOY",
+        "url": "https://open.spotify.com/album/3iKDUwVktCzrLqgv2iKlU3"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215325,
+      "name": "DREAMBOY",
+      "url": "https://open.spotify.com/track/2lrqQ59IyZ9IDYxWeLd6rp"
     },
     {
       "album": {
@@ -25462,7 +25498,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 121795,
       "name": "First Day Out The Hospital",
       "url": "https://open.spotify.com/track/69GXzxiPL6x2K5VIuuDMPc"

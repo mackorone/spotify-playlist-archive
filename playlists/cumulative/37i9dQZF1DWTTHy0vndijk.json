@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: YOUNG POSSE(\uc601\ud30c\uc528) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ILLIT(\uc544\uc77c\ub9bf) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 169906,
       "name": "#menow",
       "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
@@ -272,6 +272,24 @@
       "duration_ms": 255567,
       "name": "Allegro Cantabile",
       "url": "https://open.spotify.com/track/7eufeVpHKJY8KdElThuv2h"
+    },
+    {
+      "album": {
+        "name": "Almond Chocolate (Korean Ver.)",
+        "url": "https://open.spotify.com/album/775URHH5FqYCkzxswNR7nZ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Almond Chocolate (Korean Ver.)",
+      "url": "https://open.spotify.com/track/6L2DSQ4tjyyTnPAOQDVfCr"
     },
     {
       "album": {
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 187939,
       "name": "COLD (feat.10CM)",
       "url": "https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa"
@@ -4662,7 +4680,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 107463,
       "name": "My World",
       "url": "https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa"

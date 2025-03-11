@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: NMIXX (\uc5d4\ubbf9\uc2a4)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: YEJI(\uc608\uc9c0)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -338,6 +338,24 @@
       "duration_ms": 165426,
       "name": "AGASSY",
       "url": "https://open.spotify.com/track/2DkO9y7DB9S9nBg5u0VDoW"
+    },
+    {
+      "album": {
+        "name": "AIR",
+        "url": "https://open.spotify.com/album/23y79XSiFI1M0g9XcC3P42"
+      },
+      "artists": [
+        {
+          "name": "YEJI",
+          "url": "https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6OOEQb3Su7Khcw9rDcJ07L"
     },
     {
       "album": {
@@ -3379,6 +3397,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/2eOXb8aSpBUQLSk1sTBPEK"
+    },
+    {
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/5HyrUteikoFGu38bAf7zYc"
       },
@@ -4785,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0DC62SYIRKMFgx2f7OyvwD"
+    },
+    {
+      "album": {
         "name": "THE 3rd MINI ALBUM NATURE WORLD : CODE W",
         "url": "https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt"
       },
@@ -4962,7 +5020,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -5720,7 +5778,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
@@ -7646,7 +7704,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 204400,
       "name": "STRESS",
       "url": "https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj"

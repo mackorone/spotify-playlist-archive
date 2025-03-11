@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 8207,
+  "num_followers": 8239,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Rich Kid",
+        "url": "https://open.spotify.com/album/5WkySwRE6mgYRqN8PKySqW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Rich Kid",
+      "url": "https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG - Base da Maldade",
         "url": "https://open.spotify.com/album/2hyAD5RsGlkRNrFP5lHU1g"
       },
@@ -1583,42 +1599,6 @@
       "duration_ms": 116538,
       "name": "MTG - Base da Maldade",
       "url": "https://open.spotify.com/track/0YgVM20w0W2Xe4hw2vTibU"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Rich Kid",
-        "url": "https://open.spotify.com/album/5WkySwRE6mgYRqN8PKySqW"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Rich Kid",
-      "url": "https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG Efeitos",
-        "url": "https://open.spotify.com/album/3GmskhcHLZoH6587Sli5D8"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "LELIS",
-          "url": "https://open.spotify.com/artist/0tzoNdSPRPhBcZcRJf6oFf"
-        }
-      ],
-      "duration_ms": 154151,
-      "name": "MTG Efeitos",
-      "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1655,6 +1635,26 @@
       "duration_ms": 123794,
       "name": "Mtg Toca Aquela 24 por 48",
       "url": "https://open.spotify.com/track/7B6z78yDDaj96EE9G5JW0W"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG Efeitos",
+        "url": "https://open.spotify.com/album/3GmskhcHLZoH6587Sli5D8"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "LELIS",
+          "url": "https://open.spotify.com/artist/0tzoNdSPRPhBcZcRJf6oFf"
+        }
+      ],
+      "duration_ms": 154151,
+      "name": "MTG Efeitos",
+      "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG PIRA\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 103384,
       "name": "MTG PIRA\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Guaracha Con \u00d1ejo",
+        "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
+      },
+      "artists": [
+        {
+          "name": "Marco Acevedo",
+          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Guaracha Con \u00d1ejo",
+      "url": "https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Infarto",
         "url": "https://open.spotify.com/album/1Whvjbd1ElCTFMC2VYV6r4"
       },
@@ -2183,26 +2203,6 @@
       "duration_ms": 166217,
       "name": "MTG Infarto",
       "url": "https://open.spotify.com/track/1RQZ9qv9xNcd2s0EGakV06"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Guaracha Con \u00d1ejo",
-        "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
-      },
-      "artists": [
-        {
-          "name": "Marco Acevedo",
-          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Guaracha Con \u00d1ejo",
-      "url": "https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2347,30 +2347,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "TENHO MEDO - VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7haTe8mDCaQGyieUbngev1"
-      },
-      "artists": [
-        {
-          "name": "DJPEJOTA",
-          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
-        },
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Drop Records",
-          "url": "https://open.spotify.com/artist/732AlNSCd57nxHK5rDhzKS"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "TENHO MEDO - VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/3tc2FncGJBp0uZmr0pxKqN"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/12LSRsqQQE9oQCaZBaa1Dx"
       },
@@ -2399,6 +2375,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "TENHO MEDO - VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7haTe8mDCaQGyieUbngev1"
+      },
+      "artists": [
+        {
+          "name": "DJPEJOTA",
+          "url": "https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Drop Records",
+          "url": "https://open.spotify.com/artist/732AlNSCd57nxHK5rDhzKS"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "TENHO MEDO - VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/3tc2FncGJBp0uZmr0pxKqN"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Vallenato Parrandero",
-        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
-      },
-      "artists": [
-        {
-          "name": "Daniel Parranda",
-          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Vallenato Parrandero",
-      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "WHAT IS LOVE (MTG)",
         "url": "https://open.spotify.com/album/3amApNaQEFiV2Ye4ISdIHh"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 135432,
       "name": "WHAT IS LOVE - MTG",
       "url": "https://open.spotify.com/track/4hia0R5RRnE5XRByvfeEqr"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Vallenato Parrandero",
+        "url": "https://open.spotify.com/album/1uGaPIbWbfgYKkZGOl914d"
+      },
+      "artists": [
+        {
+          "name": "Daniel Parranda",
+          "url": "https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Vallenato Parrandero",
+      "url": "https://open.spotify.com/track/2jUWqVilVoeXwK02i0rh7q"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2731,6 +2731,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Trackhouse",
+        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 135348,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Antrax",
         "url": "https://open.spotify.com/album/0YWzujtA6XZwQqHQuWMEnB"
       },
@@ -2751,26 +2771,6 @@
       "duration_ms": 162002,
       "name": "Antrax",
       "url": "https://open.spotify.com/track/47rbXVaDwAfPrKolyEWWfT"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Trackhouse",
-        "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 135348,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Vamo a Jugar Al Goloso",
-        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
-      },
-      "artists": [
-        {
-          "name": "Guaracha",
-          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
-        }
-      ],
-      "duration_ms": 153808,
-      "name": "Vamo a Jugar Al Goloso",
-      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "ONTAS BB",
         "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
       },
@@ -2871,22 +2855,18 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Guaracha",
-        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
+        "name": "Vamo a Jugar Al Goloso",
+        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
       },
       "artists": [
         {
-          "name": "Yilberking",
-          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
-        },
-        {
-          "name": "Anny Sepulveda",
-          "url": "https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m"
+          "name": "Guaracha",
+          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
         }
       ],
-      "duration_ms": 220177,
-      "name": "Guaracha",
-      "url": "https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7"
+      "duration_ms": 153808,
+      "name": "Vamo a Jugar Al Goloso",
+      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2907,6 +2887,26 @@
       "duration_ms": 155076,
       "name": "MTG Escrito Nas Estrelas",
       "url": "https://open.spotify.com/track/3O4ypwGN1urKFzO9jIoq8Z"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Guaracha",
+        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
+      },
+      "artists": [
+        {
+          "name": "Yilberking",
+          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
+        },
+        {
+          "name": "Anny Sepulveda",
+          "url": "https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m"
+        }
+      ],
+      "duration_ms": 220177,
+      "name": "Guaracha",
+      "url": "https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "NO MIENTEN",
-        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 147395,
-      "name": "NO MIENTEN",
-      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "MTG Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/4gYVlRkmygmzvtyLpW26aC"
       },
@@ -3143,6 +3127,22 @@
       "duration_ms": 85342,
       "name": "MTG Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/1bRODQWZdI8q56ewtBDZg6"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3247,18 +3247,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Que Todo",
-        "url": "https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8"
+        "name": "NO MIENTEN (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8"
       },
       "artists": [
         {
-          "name": "Elee Bermudez",
-          "url": "https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 302832,
-      "name": "Que Todo",
-      "url": "https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK"
+      "duration_ms": 154687,
+      "name": "NO MIENTEN - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK"
     }
   ],
   "unique_name": "los prohibidos",

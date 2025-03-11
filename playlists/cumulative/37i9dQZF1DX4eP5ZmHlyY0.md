@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: timelesz
 
-470 songs - 1 day 2 hr 36 min
+473 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 | 2024-04-23 | 2025-03-07 |
 | [366日](https://open.spotify.com/track/1ZqhXy7BcjqNYgWWRTm04v) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [藤牧京介](https://open.spotify.com/artist/6aSXOB3rXi0nLXVmmC4jhz) | [366日](https://open.spotify.com/album/52mNHSoryRNd6DRndTwg6V) | 5:50 | 2024-05-07 | 2024-05-22 |
 | [7](https://open.spotify.com/track/4mC89qjoyPrT39oRKNX9Lt) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [7](https://open.spotify.com/album/6kvndxfdqrM13ConnAR0ve) | 3:13 | 2024-10-16 | 2024-11-06 |
+| [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 | 2025-03-09 |  |
 | [A2Z](https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [A2Z](https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN) | 2:39 | 2024-02-13 | 2024-04-17 |
 | [Ace In The Hole](https://open.spotify.com/track/4p6xTqUf2JWIfKYqsSArxi) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Ace In The Hole](https://open.spotify.com/album/05rxFaDkVxQgQpAQrhbKQg) | 3:30 | 2024-03-05 | 2024-03-13 |
 | [Add Love Song](https://open.spotify.com/track/3Zux43tmJ0IhNonmOGsxqO) | [CUBERS](https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ) | [Add Love Song](https://open.spotify.com/album/02aaaAxq4hIMsoOJb2V4e2) | 5:27 | 2024-03-12 | 2024-04-10 |
@@ -264,6 +265,7 @@
 | [Only One Story](https://open.spotify.com/track/1nCg2Dg1ay6oNNsROOid1F) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [PREZENT](https://open.spotify.com/album/2W4coh0YmTpCovcdoyxmGd) | 3:40 | 2025-02-25 |  |
 | [Our Life Is Always Right](https://open.spotify.com/track/5f1bMtJMhHD6v2HhtnfSEL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/2gTj6KswDtJHmPomUBQPjA) | 4:21 | 2024-10-16 | 2024-12-04 |
 | [Our Magic](https://open.spotify.com/track/0ELdPfYZH0fEWBfQXXFrjH) | [WILD BLUE](https://open.spotify.com/artist/4qgBzbI2ncLyF2fEGf8GTm) | [Our Magic](https://open.spotify.com/album/54AYLnK5rsWv23R5TJRynz) | 3:59 | 2025-01-14 | 2025-03-07 |
+| [OVER N OVER](https://open.spotify.com/track/5bpWocAObNHoLC1VRdgNcw) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [OVER TRACK](https://open.spotify.com/album/56pLKbmGX9j8MhNeiTJp2W) | 3:31 | 2025-03-09 |  |
 | [Over The Moon](https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY](https://open.spotify.com/album/72JboNccBYyXR676YNfcYE) | 2:37 | 2025-03-06 |  |
 | [OVERDRIVE](https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [OVERDRIVE](https://open.spotify.com/album/3VvUSMv126FUn8tyMak8WQ) | 3:18 | 2024-07-30 | 2024-09-04 |
 | [Parade](https://open.spotify.com/track/1DCISG31avGG9oQK3gnDxh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Parade](https://open.spotify.com/album/4mRG6P1L3qX4kR2TFXlFP0) | 3:11 | 2024-03-05 | 2024-05-03 |
@@ -391,6 +393,7 @@
 | [What's Up!!](https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56) | [BOYZTERIOS from BATTLE BOYS](https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t) | [What's Up!!](https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c) | 4:01 | 2024-07-30 | 2024-09-04 |
 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 | 2023-11-28 | 2024-01-10 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-04-02 | 2024-06-19 |
+| [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 | 2025-03-09 |  |
 | [When I'm With You](https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 3:31 | 2025-03-06 |  |
 | [WHERE DO WE GO](https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO](https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc) | 2:37 | 2024-09-13 | 2024-10-16 |
 | [WHERE DO WE GO](https://open.spotify.com/track/0tTp9wVKMoa6nPckEOJTpn) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 2:37 | 2024-10-16 | 2025-03-07 |

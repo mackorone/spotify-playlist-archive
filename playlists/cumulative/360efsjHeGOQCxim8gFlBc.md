@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-659 songs - 1 day 3 hr 27 min
+660 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,8 +265,8 @@
 | [Hope is Not Lost](https://open.spotify.com/track/34Bi6s0sTP6DFR1Iki7M1W) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Gunnar Kemp](https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Hope is Not Lost](https://open.spotify.com/album/3UFH0kyg0WpzA2jJouk8ZP) | 1:41 | 2023-10-29 | 2024-04-14 |
 | [hopes and dreams](https://open.spotify.com/track/4hXWldGSiSSOruDiLC2lBN) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [hopes and dreams](https://open.spotify.com/album/6XE3q3xNa3wKpFdK0RXmcz) | 2:08 | 2023-10-29 | 2025-02-15 |
 | [Horizon](https://open.spotify.com/track/5cyDDOI8VTNwruABo72u1U) | [Eskricke](https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt) | [Horizon](https://open.spotify.com/album/1VjMZ7Zq9fn4wJlm63hwHe) | 2:18 | 2023-10-29 |  |
-| [Hotline Bling](https://open.spotify.com/track/0geJbuyMR6YmogxKPFSmbv) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Hotline Bling](https://open.spotify.com/album/5rr2IEb9miejb8C8G3YkSW) | 3:02 | 2023-10-29 | 2025-01-18 |
-| [Hotline Bling](https://open.spotify.com/track/6zNoaA3PJA7BImBRMTgi2b) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Hotline Bling \(Remixes\)](https://open.spotify.com/album/1GAR8k5C71yn3RfLSsxmmt) | 3:02 | 2025-01-17 |  |
+| [Hotline Bling](https://open.spotify.com/track/0geJbuyMR6YmogxKPFSmbv) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Hotline Bling](https://open.spotify.com/album/5rr2IEb9miejb8C8G3YkSW) | 3:02 | 2023-10-29 |  |
+| [Hotline Bling](https://open.spotify.com/track/6zNoaA3PJA7BImBRMTgi2b) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Hotline Bling \(Remixes\)](https://open.spotify.com/album/1GAR8k5C71yn3RfLSsxmmt) | 3:02 | 2025-01-17 | 2025-03-11 |
 | [Hotline Bling \(Slowed + Reverb\)](https://open.spotify.com/track/6WXKjhrdg0awYCTk9vBDsH) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Hotline Bling \(Remixes\)](https://open.spotify.com/album/7C3vdNqcYqulM5qMji85Na) | 3:34 | 2023-11-15 | 2024-10-24 |
 | [Hourglass](https://open.spotify.com/track/0m3g26QiIPYtGjmHI827s6) | [Silent Chill](https://open.spotify.com/artist/5oV70UsPwWn3DogUJkxLDs) | [Nightertale II](https://open.spotify.com/album/4Pqto01NYZXUhTgkW4XJ7L) | 1:05 | 2023-10-29 | 2024-04-14 |
 | [I Could Have Been a Feather](https://open.spotify.com/track/6F4PZToZ9xOsNOZEsZ7lVv) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [I Could Have Been a Feather](https://open.spotify.com/album/4MZnXLzQ2O0hbXviCTZ7k4) | 3:47 | 2024-06-19 |  |
@@ -456,6 +456,7 @@
 | [raindrops](https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [raindrops](https://open.spotify.com/album/7D0dlYz2XBjxINaBVrCzF2) | 2:04 | 2023-10-29 |  |
 | [Raining Hope](https://open.spotify.com/track/44Q56uVlBP4YVuvEGq2ZcP) | [Luis Gil Silva](https://open.spotify.com/artist/1abk4JFQM3kzHR24PDEe3N) | [Raining Hope](https://open.spotify.com/album/3FJ5ov8dptjwGbV0z9pNoE) | 2:25 | 2024-04-13 | 2025-02-15 |
 | [rainywalks](https://open.spotify.com/track/5SKLoGyFgoZvYE57I6D0Wo) | [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP) | [rainywalks](https://open.spotify.com/album/0s2iVor2LPzMORoyKUtIiK) | 1:45 | 2024-12-13 |  |
+| [Rather be \(Piano Version\)](https://open.spotify.com/track/6G7UJI9tS4pMUOEBtEnrR9) | [fabio pipia](https://open.spotify.com/artist/0xbaR5wX8AOar1J8JTUgkA) | [Rather be \(Piano Version\)](https://open.spotify.com/album/6OvAeisVpTd4Nkn8eiaTtJ) | 1:27 | 2025-03-10 |  |
 | [Recollection](https://open.spotify.com/track/0qIAvPpdiaTXkNoW797lz4) | [Naekun Naekan](https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX), [Saki.](https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC) | [Recollection](https://open.spotify.com/album/1NgdKBwZDslKQxY6fzvDHb) | 2:45 | 2024-02-03 | 2024-10-24 |
 | [Redwoods](https://open.spotify.com/track/1aG1d3YgeXnjBnZx6SFBwg) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Redwoods](https://open.spotify.com/album/1h1kHa99naYLXKQffIVtCi) | 2:00 | 2024-02-03 | 2025-02-01 |
 | [Redwoods](https://open.spotify.com/track/6gXbjWfKERy9hU4JsNm8Wy) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Sea Ranch](https://open.spotify.com/album/6SVRWMgiR5uio8RpVZCLJi) | 2:00 | 2024-10-23 |  |
@@ -525,7 +526,7 @@
 | [songbirds](https://open.spotify.com/track/1osH8wUZDrgVR7yDdV6mcC) | [charm](https://open.spotify.com/artist/0TEdQjWX05xRJI7efi3ioE) | [songbirds](https://open.spotify.com/album/73gSEb8RZcUUxpMly4cbtm) | 1:57 | 2023-10-29 | 2024-10-24 |
 | [Songs of You](https://open.spotify.com/track/7cP0TS1fVS0X8VGsYj4DKa) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Luuk Van Dijk](https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Songs of You](https://open.spotify.com/album/5S0rZotBwChgnwc4su4Gsy) | 1:39 | 2023-10-29 | 2024-04-14 |
 | [Sonoma](https://open.spotify.com/track/2TpCWIrivXIoszjI9kJjBd) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Sea Ranch](https://open.spotify.com/album/6SVRWMgiR5uio8RpVZCLJi) | 2:30 | 2024-10-23 |  |
-| [Soothing Symphony](https://open.spotify.com/track/0jwCYGWEpeVEIDFOUlHH66) | [Ashe$](https://open.spotify.com/artist/4IPum3MJGdi5oRREuR1Pwi) | [Soothing Symphony](https://open.spotify.com/album/2Fj8en8b1VPTiWT8ThPR3l) | 4:36 | 2024-07-12 |  |
+| [Soothing Symphony](https://open.spotify.com/track/0jwCYGWEpeVEIDFOUlHH66) | [Ashe$](https://open.spotify.com/artist/4IPum3MJGdi5oRREuR1Pwi) | [Soothing Symphony](https://open.spotify.com/album/2Fj8en8b1VPTiWT8ThPR3l) | 4:36 | 2024-07-12 | 2025-03-11 |
 | [Sorrow Serenade](https://open.spotify.com/track/7A4Ua2CgdoxjoWmfMXRhRh) | [Moein Zand](https://open.spotify.com/artist/7l7vY4LOPGfYb0btc0RyO1) | [Sorrow Serenade](https://open.spotify.com/album/6Tu6Qk35PNRC9KVezzwBmd) | 2:02 | 2023-12-17 | 2024-12-28 |
 | [soulmate \(Piano Version\)](https://open.spotify.com/track/5a0yuYVR9BHuRIW9lgXRPF) | [Cotton Vibe](https://open.spotify.com/artist/1orUqu05S86SBh8EFjdxHB) | [soulmate](https://open.spotify.com/album/4IROjjH14l2j3R2IkR58Tf) | 2:27 | 2024-04-13 | 2025-03-01 |
 | [Soup Season](https://open.spotify.com/track/2Im8lyVGR3t6tYJV51nPq1) | [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Soup Season](https://open.spotify.com/album/3K6rFrOUsSPKDLnpjLCaTT) | 2:44 | 2023-10-29 | 2024-10-24 |

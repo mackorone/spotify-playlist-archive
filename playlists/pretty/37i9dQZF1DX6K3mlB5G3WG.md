@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,852 likes - 111 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,854 likes - 111 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

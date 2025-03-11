@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-397 songs - 18 hr 30 min
+398 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Luscious White](https://open.spotify.com/track/4QaBH3v6voepmoqRexzSLH) | [Arcticos](https://open.spotify.com/artist/3cMJyeklWJOqZ46VjZYFJT) | [Luscious White](https://open.spotify.com/album/28wK2xz6pk7iAzSRe6Robs) | 2:53 | 2022-03-21 | 2022-08-30 |
 | [Magic Baby Noise](https://open.spotify.com/track/3mdZaRNblDtvpwSrjZef4p) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Baby Noise Machine](https://open.spotify.com/album/69XDtLpr30IiwcnJuNGYuR) | 3:16 | 2022-03-21 |  |
 | [Magic Noise](https://open.spotify.com/track/3nv1NJsbswz9vSrBOcmtEO) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Magic](https://open.spotify.com/album/06wWoKGWiOLPonZsyS5AUT) | 2:16 | 2022-03-21 | 2022-06-10 |
+| [Marina Spectrum](https://open.spotify.com/track/0c2MpWGREvtCbThpvgUCuU) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Marina Spectrum](https://open.spotify.com/album/3lJgm6LPUnZ3gTrKqC3CB8) | 2:44 | 2025-02-04 |  |
 | [Mellow Forest Noise](https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:26 | 2022-10-27 |  |
 | [Mellow Noise](https://open.spotify.com/track/4PvwWVViiQQ0mE1F3ifKXb) | [Epic Noises](https://open.spotify.com/artist/4YCEi74NGm9Dcj4EdsvTxG) | [Sleepy Noises](https://open.spotify.com/album/2tQqMoEsSqQU506PCJxVIU) | 1:34 | 2022-03-21 | 2022-10-28 |
 | [Mellow White Noise](https://open.spotify.com/track/3vglkqaOWvKQjoHVlXMewx) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [Mellow White Noise](https://open.spotify.com/album/2nErgbVWmz0K3roSocWe8d) | 1:47 | 2022-03-21 | 2023-06-28 |
@@ -277,7 +278,7 @@
 | [Toddler Deep Dreaming Brown Noise \[Loop\]](https://open.spotify.com/track/6WYd7VsbdbdojAH9LKcxgc) | [Fan Noises for Sleeping](https://open.spotify.com/artist/4RkvAOE0dZA5A7GjZc0cLn), [Deep Dreaming Brown Noise](https://open.spotify.com/artist/6YlJWmBStun4VG64WoRSuV) | [Deep Sleep Fan Brown Noise Smoothed and Looped\. Baby Sleep Brown Noise](https://open.spotify.com/album/3IdDLfAmThEWnsTBZnmzsg) | 1:03 | 2022-03-21 | 2023-06-28 |
 | [Tranquil White Noise](https://open.spotify.com/track/2YTcBeRLoVO2MkzKpbxPVW) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Tranquil White Noise](https://open.spotify.com/album/4hAIiM2Tn4YFAQ18f9Hfot) | 2:49 | 2022-10-27 |  |
 | [Tranquility](https://open.spotify.com/track/6CbPp21JO1ZFFVkP9vism2) | [Somnolence](https://open.spotify.com/artist/0np7yt4AmDMRNvEuYgOIXm) | [Tranquility](https://open.spotify.com/album/76TCh1UTFZMjIsHWZphYKD) | 2:49 | 2023-06-28 |  |
-| [Tranquility Blanket](https://open.spotify.com/track/0iwfZ4faChdiFsdsUS8h6o) | [Madame Blanc's White Noise](https://open.spotify.com/artist/56aahVIOH4PvwQeFIGok9z) | [Tranquility Blanket](https://open.spotify.com/album/09JBMDbUUT9DeT9bHjsPlx) | 5:12 | 2024-02-05 |  |
+| [Tranquility Blanket](https://open.spotify.com/track/0iwfZ4faChdiFsdsUS8h6o) | [Madame Blanc's White Noise](https://open.spotify.com/artist/56aahVIOH4PvwQeFIGok9z) | [Tranquility Blanket](https://open.spotify.com/album/09JBMDbUUT9DeT9bHjsPlx) | 5:12 | 2024-02-05 | 2025-03-11 |
 | [Ultimate White Relax](https://open.spotify.com/track/4mPTWLH97UcirkxnOZpN8c) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Ultimate White Relax](https://open.spotify.com/album/3CNqcyzHRlQQr0QBzFJB2c) | 2:50 | 2023-12-04 | 2025-02-10 |
 | [Under the Waves](https://open.spotify.com/track/5IWaJyQjI6v7M16iFiaNNR) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 | 2022-03-21 |  |
 | [Underground](https://open.spotify.com/track/5cdI7x5s335ITY5aQSsPyr) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Synthetic Street Noise](https://open.spotify.com/album/7KZA9L6QZTZz0SPJ5xcbvp) | 2:58 | 2022-03-21 | 2022-06-10 |

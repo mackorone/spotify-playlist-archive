@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain](/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N)
 
-### [007 𓏵 All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
+### [006 𓏵 All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
 > 
 
-[beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 210 likes - 174 songs - 5 hr 30 min
+[beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 212 likes - 174 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 173 | [so numb that she's in hell \- 2025 Instrumental](https://open.spotify.com/track/5ow9jFQv0VZGKdXijrVP71) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 2:51 |
 | 174 | [so numb that she's in hell \- 2021 Version](https://open.spotify.com/track/0SIXarTWclRfrkBDhHPjBB) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 1:55 |
 
-Snapshot ID: `AAAAftEXKgRqGJKt/4rlKpxWOrK9whbo`
+Snapshot ID: `AAAAf3bsm16AsduyX+YAFlwlMGznLGjI`

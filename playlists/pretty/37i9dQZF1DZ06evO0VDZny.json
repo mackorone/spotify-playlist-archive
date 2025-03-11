@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 474174,
+  "num_followers": 474248,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAADzL6/X9v8u5PD4O5CshzvL",
+  "snapshot_id": "Z8zaAAAAAABtu1O0sMzG94pmcDX6y7v7",
   "tracks": [
     {
       "added_at": null,
@@ -563,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
-        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
+        "name": "Bad Life",
+        "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
       "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 274133,
-      "name": "It Never Ends",
-      "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
+      "duration_ms": 226867,
+      "name": "Bad Life",
+      "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Life",
-        "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
+        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
+        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
       },
       "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 226867,
-      "name": "Bad Life",
-      "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
+      "duration_ms": 274133,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
     },
     {
       "added_at": null,

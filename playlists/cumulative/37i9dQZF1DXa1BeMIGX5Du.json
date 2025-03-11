@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 204960,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/1ZMKH7Je63BrxW4QLz5Hym"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 172880,
       "name": "Bird In A Hurricane",
       "url": "https://open.spotify.com/track/2QdSa6HSB6GnLTTxVRbQrJ"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 195308,
       "name": "Craters",
       "url": "https://open.spotify.com/track/5klX9QWBLDyUsvZeX3YcMC"
@@ -2895,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "How Do You Like Your New Life?",
+        "url": "https://open.spotify.com/album/0ul4j6wqT703ialkxMchd9"
+      },
+      "artists": [
+        {
+          "name": "Tim Hart",
+          "url": "https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP"
+        },
+        {
+          "name": "Denison Witmer",
+          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219050,
+      "name": "How Do You Like Your New Life?",
+      "url": "https://open.spotify.com/track/4k74oIvXiOWRefmDvszQ7z"
+    },
+    {
+      "album": {
         "name": "How It Was It Will Never Be Again",
         "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
       },
@@ -4174,7 +4196,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 188546,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD"
@@ -4384,6 +4406,28 @@
       "duration_ms": 251733,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/2Xu418hgPiyUlnQbEXBl4u"
+    },
+    {
+      "album": {
+        "name": "No Cure For Love",
+        "url": "https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV"
+      },
+      "artists": [
+        {
+          "name": "Rowena Wise",
+          "url": "https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC"
+        },
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232868,
+      "name": "No Cure For Love",
+      "url": "https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV"
     },
     {
       "album": {
@@ -5666,7 +5710,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 646085,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4h0fjmWkkeSAJ2rrhKUSDS"
@@ -6180,10 +6224,28 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 200589,
       "name": "THINGS BEHIND THINGS BEHIND THINGS",
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "album": {
+        "name": "think about it",
+        "url": "https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249493,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW"
     },
     {
       "album": {
@@ -6202,6 +6264,24 @@
       "duration_ms": 125285,
       "name": "This Is Me",
       "url": "https://open.spotify.com/track/7xJ2RtEdwho4ovi93FdbKG"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/7bDyrdBKjod55Jx4iU0k2Z"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174271,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/7bm2CVyrBcJ6L9aDSx12Kb"
     },
     {
       "album": {
@@ -6671,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "Way to the Sun",
+        "url": "https://open.spotify.com/album/0sml7LIIhYWYNxFXrT6QTc"
+      },
+      "artists": [
+        {
+          "name": "Minor Gold",
+          "url": "https://open.spotify.com/artist/2lirdoVpJHkqTyXzIpS8nI"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205823,
+      "name": "Way to the Sun",
+      "url": "https://open.spotify.com/track/3bYHaUExFkW09pXSsRlHeI"
+    },
+    {
+      "album": {
         "name": "We Gotta Go",
         "url": "https://open.spotify.com/album/1Gat8TNCnjHiGx1bWV1ZCZ"
       },
@@ -6838,6 +6936,24 @@
       "duration_ms": 234000,
       "name": "White Water",
       "url": "https://open.spotify.com/track/3D2jsYmtwlnK4kQLXHPUb5"
+    },
+    {
+      "album": {
+        "name": "Why Keep Trying?",
+        "url": "https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX"
+      },
+      "artists": [
+        {
+          "name": "Aggy Ally",
+          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222162,
+      "name": "Why Keep Trying?",
+      "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
     },
     {
       "album": {

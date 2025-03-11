@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 195655,
+  "num_followers": 195744,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAC7qQnp5lpr6Qu9YLWE5dpl",
+  "snapshot_id": "Z8zaAAAAAADc1Ts7aPiA6UsRPeQxGmPC",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Jale Vale",
+        "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 174708,
+      "name": "Mi Jale Vale",
+      "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Jale Vale",
-        "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 174708,
-      "name": "Mi Jale Vale",
-      "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
     },
     {
       "added_at": null,
@@ -559,6 +559,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 336065,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 13",
         "url": "https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82"
       },
@@ -603,46 +643,6 @@
       "duration_ms": 222066,
       "name": "Volvi\u00f3 A Amanecer",
       "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 336065,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Cholo",
-        "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Mr. Capone-E",
-          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Soy Cholo",
-      "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sali\u00f3 Caro",
         "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 177312,
       "name": "Me Sali\u00f3 Caro",
       "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Cholo",
+        "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Mr. Capone-E",
+          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Soy Cholo",
+      "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
     },
     {
       "added_at": null,

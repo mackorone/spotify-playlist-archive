@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 39072,
+  "num_followers": 39076,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAABJTYHxqZrzD258uy43Ppiw",
+  "snapshot_id": "Z8zaAAAAAACjUohpsTiuTbmEpBO3k4tb",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "This Is All Now",
-      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Transformers: Revenge Of The Fallen The Album",
         "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 168360,
       "name": "Capital M-E",
       "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Best Places To Be A Mom",
-      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,

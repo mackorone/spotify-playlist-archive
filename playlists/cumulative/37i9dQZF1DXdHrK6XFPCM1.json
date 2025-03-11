@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs"
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Besok kita pergi makan",
+        "url": "https://open.spotify.com/album/0lXbxiqlyd0Wd6J5fGgLsy"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206092,
+      "name": "Besok kita pergi makan",
+      "url": "https://open.spotify.com/track/0xnzQ3Ek5X5r2pcbwIEQdc"
+    },
+    {
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -338,7 +356,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -1570,6 +1588,28 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "album": {
+        "name": "Nalar",
+        "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261048,
+      "name": "Mangu",
+      "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
     },
     {
       "album": {
@@ -2314,6 +2354,24 @@
       "duration_ms": 303545,
       "name": "Temple Fair",
       "url": "https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG"
+    },
+    {
+      "album": {
+        "name": "Teruntuk Mia",
+        "url": "https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG"
+      },
+      "artists": [
+        {
+          "name": "Nuh...",
+          "url": "https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196090,
+      "name": "Teruntuk Mia",
+      "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
     },
     {
       "album": {

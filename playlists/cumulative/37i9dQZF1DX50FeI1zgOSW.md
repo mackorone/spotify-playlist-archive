@@ -2,9 +2,9 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-476 songs - 1 day 3 hr 14 min
+477 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Boomer Uncle](https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA) | 3:42 | 2023-11-08 | 2024-05-11 |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 | 2023-06-24 |
 | [Callin](https://open.spotify.com/track/21ZfO35yXXVaz68RFq0j1u) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Callin](https://open.spotify.com/album/53A1Rka8vVEqsh0qYuuGFF) | 2:31 | 2024-02-23 | 2024-03-09 |
+| [Cappuccino](https://open.spotify.com/track/6UUN4R8AFzTAy0t36Gy5sa) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Cappuccino](https://open.spotify.com/album/0zT6PGfOSAmNR9LfHkkqIk) | 3:22 | 2025-03-10 |  |
 | [Chance eh ille](https://open.spotify.com/track/5fLu5jziyGa6W9sO6hQjDw) | [Abhilash Gupta](https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M) | [Chance eh ille](https://open.spotify.com/album/7KY5QzrzH4bwic3HK7IPJI) | 3:06 | 2023-09-25 | 2024-05-04 |
 | [Chance Kedacha](https://open.spotify.com/track/7isPmXyAHlX7VSOsAqVdBg) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G), [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx) | [Chance Kedacha](https://open.spotify.com/album/2vliLICqA3XGHrLX7nPldg) | 2:16 | 2023-04-18 | 2023-08-01 |
 | [Chechi](https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj) | [Marshall](https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD) | [Chechi](https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4) | 3:12 | 2024-08-23 | 2025-01-31 |
@@ -294,7 +295,7 @@
 | [Ninaivugal Donadhe](https://open.spotify.com/track/2pdUSqk3pyDT0wZyb6PALD) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninaivugal Donadhe](https://open.spotify.com/album/2L2JonJnz6I7EdwV2K2gjc) | 3:39 | 2023-06-26 | 2023-11-29 |
 | [O Kanmani](https://open.spotify.com/track/68qULgdwekQsDH181V4BQ2) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [O Kanmani](https://open.spotify.com/album/7dahgiOiHqfqjTkvfuCTgW) | 2:19 | 2023-06-19 | 2023-11-16 |
 | [O Samaa Osamaa](https://open.spotify.com/track/1sffjUOCtxK7eNxfm3oXj2) | [Harley Victor](https://open.spotify.com/artist/0v2DwcHJbQ0ZYjD7vL1CTs), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [O Samaa Osamaa](https://open.spotify.com/album/2TPqt41r9bl5CdBTcIjaLN) | 4:18 | 2025-02-03 | 2025-02-15 |
-| [Oda Oda](https://open.spotify.com/track/0kjVpJoZwlSQW9Xr2alwc2) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Jo Perera](https://open.spotify.com/artist/6vTGYmGkzg5rm6HzRV4BjU), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Oda Oda](https://open.spotify.com/album/7q8CiEr5N4aBlGA99G6zEP) | 2:13 | 2024-12-02 |  |
+| [Oda Oda](https://open.spotify.com/track/0kjVpJoZwlSQW9Xr2alwc2) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Jo Perera](https://open.spotify.com/artist/6vTGYmGkzg5rm6HzRV4BjU), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Oda Oda](https://open.spotify.com/album/7q8CiEr5N4aBlGA99G6zEP) | 2:13 | 2024-12-02 | 2025-03-11 |
 | [Office Anthem](https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL) | [Dev Prakash](https://open.spotify.com/artist/45Ejr1KMTb7ofrNht7HWXZ) | [Office Anthem](https://open.spotify.com/album/7GcIIQ77lcWenxnuxYsOiz) | 4:13 | 2023-05-26 | 2023-07-25 |
 | [Oh Ho Penne \| Jamspot](https://open.spotify.com/track/6FKYdu56Zo69TwsR7fIucB) | [Pruthushaan](https://open.spotify.com/artist/7upALVqj1PmhQmEdTMi3Np), [Dishan Abrahams](https://open.spotify.com/artist/26IYw28t7jCB4gBHFNHeDU) | [Oh Ho Penne \| Jamspot](https://open.spotify.com/album/0Pri4zxzuJ8VB7IyyFLqoK) | 2:11 | 2024-08-30 | 2024-12-06 |
 | [Oh Kanmaniye](https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C) | [Dhayanesh Kumar R](https://open.spotify.com/artist/3RMR9E25rkqAVcYdaheO3f), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Padmaja Sreeenivasan](https://open.spotify.com/artist/2SVKMYeIcn3iTeKmI1cJpD) | [Oh Kanmaniye](https://open.spotify.com/album/4ChiG4kmBCXR6LWbX1ig6p) | 3:35 | 2024-08-16 | 2025-01-31 |

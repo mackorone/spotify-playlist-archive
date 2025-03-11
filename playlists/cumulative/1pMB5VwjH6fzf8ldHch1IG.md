@@ -2,7 +2,7 @@
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: SZA.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
 914 songs - 1 day 23 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,956 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,964 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 16 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
 | 17 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
 | 18 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 |
-| 19 | [alle buren moeten dood](https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A) | 3:10 |
-| 20 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
+| 19 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
+| 20 | [alle buren moeten dood](https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A) | 3:10 |
 | 21 | [Als Je Nog Wil](https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Als Je Nog Wil](https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d) | 3:23 |
 | 22 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 |
 | 23 | [Soms Regen Ik Ook](https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l) | 3:26 |
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 32 | [Privilege](https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r) | [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Privilege](https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr) | 1:58 |
 | 33 | [Allermooiste Pijn](https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Hopeloze Romanticus](https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8) | 3:14 |
 | 34 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 |
-| 35 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 |
-| 36 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 |
+| 35 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 |
+| 36 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 |
 | 37 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 |
 | 38 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 |
 | 39 | [Naar de Stad](https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Naar de Stad](https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O) | 2:59 |
 | 40 | [Alleen](https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Spijbelaar](https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ) | 3:36 |
 | 41 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 |
-| 42 | [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 |
-| 43 | [Te Echt](https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [Bo Menning](https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3) | [Te Echt](https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW) | 4:08 |
-| 44 | [Steeds Weer](https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Meester Van Niks](https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU) | 2:16 |
+| 42 | [Steeds Weer](https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Meester Van Niks](https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU) | 2:16 |
+| 43 | [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 |
+| 44 | [Te Echt](https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [Bo Menning](https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3) | [Te Echt](https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW) | 4:08 |
 | 45 | [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 |
 | 46 | [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 |
 | 47 | [Grote Broer](https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Grote Broer](https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc) | 2:33 |

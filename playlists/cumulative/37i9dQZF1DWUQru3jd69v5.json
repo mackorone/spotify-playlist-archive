@@ -21429,6 +21429,24 @@
     },
     {
       "album": {
+        "name": "Nobel",
+        "url": "https://open.spotify.com/album/1bCZFkMsmW80aYGsqHFwPk"
+      },
+      "artists": [
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103130,
+      "name": "Nobel",
+      "url": "https://open.spotify.com/track/6s4a92uIlM0xMZdFHLPd4B"
+    },
+    {
+      "album": {
         "name": "CHOSEN",
         "url": "https://open.spotify.com/album/1STJclYpHtp9FtDmosah2V"
       },

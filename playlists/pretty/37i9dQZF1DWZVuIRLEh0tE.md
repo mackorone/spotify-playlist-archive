@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Lil Naay
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,359 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,491 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 64 | [Lominera](https://open.spotify.com/track/0UasPcoiLHqhryoMqsS8KX) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Lominera](https://open.spotify.com/album/3fheccb3BrbWp7RY5ozyh9) | 2:07 |
 | 65 | [Por Ti Fue](https://open.spotify.com/track/1iy7f8hNRZZq6aunfVMumX) | [Tony Brey](https://open.spotify.com/artist/0Bm5ggbx6CfwEzokNSx91a), [ELALE Produce](https://open.spotify.com/artist/5OIOF9TBwzZKzjapZWxACx) | [Por Ti Fue](https://open.spotify.com/album/0op3pBWGOZuFxl03uX4kwP) | 2:03 |
 | 66 | [Bajo La Luna](https://open.spotify.com/track/4S7Nj8IBzsT0vjI8seUwjg) | [Venno](https://open.spotify.com/artist/5fOKkqvcClPZKgw4zJgw7c) | [Bajo La Luna](https://open.spotify.com/album/4Y1OvQ9jpPqjXSWTcGZldP) | 2:27 |
-| 67 | [Tu No Ta](https://open.spotify.com/track/4TMhWoyolZhdT65j7TZQVh) | [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Tu No Ta](https://open.spotify.com/album/2bZ9s6va1273T1krF11lpk) | 2:33 |
+| 67 | [Tu No Ta](https://open.spotify.com/track/4TMhWoyolZhdT65j7TZQVh) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [Tu No Ta](https://open.spotify.com/album/2bZ9s6va1273T1krF11lpk) | 2:33 |
 | 68 | [Pata Boom](https://open.spotify.com/track/5kTsG2AUAooftyJLqreFpC) | [MarlonWhite](https://open.spotify.com/artist/0tPFETxXi5sgUy5MjcjxvR), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [Pata Boom](https://open.spotify.com/album/5j72Aos71G8lDOcQK2WLaP) | 2:29 |
 | 69 | [A 200](https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [A 200](https://open.spotify.com/album/4dgrkQvkwZiqgQfkHpoUSY) | 4:06 |
 | 70 | [Tienen Miedo](https://open.spotify.com/track/4CLbASJIKcTK2wdhPOJzxb) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Tienen Miedo](https://open.spotify.com/album/3DsBS4AA7Wz60lneAK70LR) | 2:04 |

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Nicole",
-  "num_followers": 21802,
+  "num_followers": 21800,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Too Pretty For Buffalo",
+        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 236525,
+      "name": "Too Pretty For Buffalo",
+      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "#INDAWOODS",
         "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Too Pretty For Buffalo",
-        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 236525,
-      "name": "Too Pretty For Buffalo",
-      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 187537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Kiss Kiss Goodbye",
+        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
+      },
+      "artists": [
+        {
+          "name": "ADONXS",
+          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
+        }
+      ],
+      "duration_ms": 176668,
+      "name": "Kiss Kiss Goodbye",
+      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -543,6 +559,22 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "RACER",
+        "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 160724,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -591,38 +623,6 @@
       "duration_ms": 160213,
       "name": "falochron",
       "url": "https://open.spotify.com/track/5o0OlsASevD0ArIop32BSf"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "RACER",
-        "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "RACER",
-      "url": "https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Kiss Kiss Goodbye",
-        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
-      },
-      "artists": [
-        {
-          "name": "ADONXS",
-          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Kiss Kiss Goodbye",
-      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "\u0106ma",
-        "url": "https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 279925,
-      "name": "\u0106ma",
-      "url": "https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "girl's notes",
         "url": "https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "\u0106ma",
+        "url": "https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 279925,
+      "name": "\u0106ma",
+      "url": "https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Miracle (Eurovision Version)",
-        "url": "https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S"
+        "name": "Kurz",
+        "url": "https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg"
       },
       "artists": [
         {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
         }
       ],
-      "duration_ms": 170630,
-      "name": "Miracle - Eurovision Version",
-      "url": "https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z"
+      "duration_ms": 155248,
+      "name": "Kurz",
+      "url": "https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "KIEDY\u015a NAS ZABRAKNIE",
-        "url": "https://open.spotify.com/album/0JobUXh3L2eKcdH6AUggjl"
-      },
-      "artists": [
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
-        },
-        {
-          "name": "ciiicho",
-          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "KIEDY\u015a NAS ZABRAKNIE",
-      "url": "https://open.spotify.com/track/28BiuNEoSSrKGc9BGLNlgn"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "bilet beze mnie",
         "url": "https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ"
       },
@@ -1007,18 +987,38 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Kurz",
-        "url": "https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg"
+        "name": "Miracle (Eurovision Version)",
+        "url": "https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S"
       },
       "artists": [
         {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
         }
       ],
-      "duration_ms": 155248,
-      "name": "Kurz",
-      "url": "https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef"
+      "duration_ms": 170630,
+      "name": "Miracle - Eurovision Version",
+      "url": "https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "KIEDY\u015a NAS ZABRAKNIE",
+        "url": "https://open.spotify.com/album/0JobUXh3L2eKcdH6AUggjl"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "ciiicho",
+          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "KIEDY\u015a NAS ZABRAKNIE",
+      "url": "https://open.spotify.com/track/28BiuNEoSSrKGc9BGLNlgn"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Pierwsza P\u0142yta",
-        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 202069,
-      "name": "mleko i mood",
-      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Beksa",
         "url": "https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 170823,
       "name": "Beksa",
       "url": "https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "mleko i mood",
+      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     }
   ],
   "unique_name": "up next",

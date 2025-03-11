@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 94298,
+  "num_followers": 94311,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAADb8MPyi52yJzFxeGrOG/iR",
+  "snapshot_id": "Z8zaAAAAAACUEa3mlV/kwOp3zqPWl/oB",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to O'Block",
-        "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Ain't See It Coming (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Federal",
         "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 204557,
       "name": "Doin 2 Much",
       "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to O'Block",
+        "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Ain't See It Coming (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Type A N***a",
         "url": "https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 246400,
       "name": "Type A N***a",
       "url": "https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Federal 3X",
-        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 204073,
-      "name": "Side B!+$#es",
-      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-303 songs - 19 hr 23 min
+304 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Twilight](https://open.spotify.com/track/1ZFg3nGsUSqkwmMPU9qLHk) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:16 | 2022-05-11 |  |
 | [Vagabond](https://open.spotify.com/track/69O3abin7L7Fe9DuFAbiFW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/3uFsc3uBs2cu766kQIfXsJ) | 3:12 | 2024-11-15 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-10-08 |  |
+| [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-10 |  |
 | [Warning Signs](https://open.spotify.com/track/2F6cCKQn0vC0NUc47kBgzT) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:48 | 2024-11-04 |  |
 | [Watch Your Mouth](https://open.spotify.com/track/4DHLopEsKDwQBgucGKJuzj) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:31 | 2022-05-22 |  |
 | [What Kind of Love](https://open.spotify.com/track/2EUySk7Gn2No48kuaZUSli) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [What Kind of Love](https://open.spotify.com/album/2G9FRPp7VGiSM2cwViy10h) | 4:02 | 2019-11-13 |  |

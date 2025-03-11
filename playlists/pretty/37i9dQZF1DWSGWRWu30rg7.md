@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: OCEAN BEACH VIBRATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,702 likes - 126 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,698 likes - 126 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 5 | [Kekal](https://open.spotify.com/track/0ghxRwg1HRoWwQcIQb4Um9) | [Rain In July](https://open.spotify.com/artist/4b7cwR0XgCU34Q74heCzlP) | [Kekal](https://open.spotify.com/album/5vF9ewlDARMC2Luox10qI6) | 3:40 |
 | 6 | [Gemuruh](https://open.spotify.com/track/4im3ynScnRFcouMoe4tMpK) | [Jeyma Monica](https://open.spotify.com/artist/13TIqNSApj4u450gNHdCHN) | [Gemuruh](https://open.spotify.com/album/33ee7IcO9xxph3FBDkecUk) | 3:41 |
 | 7 | [Hujan](https://open.spotify.com/track/4g529aypYP3wtdegVqi4NI) | [Dewi Yuliana](https://open.spotify.com/artist/1UvwWbXTtYYB66EYDALjwD) | [Hujan](https://open.spotify.com/album/5CKThedsnARrped2afakey) | 3:20 |
-| 8 | [Girl Like You](https://open.spotify.com/track/7tqm1gEgsS850vHfOEJbbV) | [gaska](https://open.spotify.com/artist/03OUMUaS5bF1BO4ohrVygt), [youga](https://open.spotify.com/artist/79LVGz2OikIsEfP2YREm94) | [Girl Like You](https://open.spotify.com/album/0r1Ug8gO72mdQJqYDnllwe) | 2:56 |
+| 8 | [Girl Like You](https://open.spotify.com/track/7tqm1gEgsS850vHfOEJbbV) | [gaska](https://open.spotify.com/artist/03OUMUaS5bF1BO4ohrVygt), [Youga](https://open.spotify.com/artist/2zVIPdUrSb78d75HbaPZ68) | [Girl Like You](https://open.spotify.com/album/0r1Ug8gO72mdQJqYDnllwe) | 2:56 |
 | 9 | [Crumble & Wither](https://open.spotify.com/track/1LLu09lTwW4kwWnVL98gkl) | [Cubfires](https://open.spotify.com/artist/7FLqlPJdkEK58I1Xr6dtWA) | [Crumble & Wither](https://open.spotify.com/album/5yUZ2khO98Gju4s8y7ia7C) | 3:56 |
 | 10 | [Sarjana Lalu Lintas](https://open.spotify.com/track/5PEcH3o2uBEel8XYOfzADr) | [Bingar.](https://open.spotify.com/artist/6N1jl3kkcnNJFhSxOX2viS) | [Sarjana Lalu Lintas](https://open.spotify.com/album/0uYu1gsS57hK6ZOwRvKCRM) | 3:25 |
 | 11 | [MOZTAMP4LIFE!](https://open.spotify.com/track/5HETGyCIV6qaupubg7khA7) | [nomaD](https://open.spotify.com/artist/7HryqRVUWfSFbS5FF5Fny8), [MAND4KE](https://open.spotify.com/artist/1njqzsOBoYvUHrR8eQXTmY), [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [MOZTAMP4LIFE!](https://open.spotify.com/album/2IXB9CHdWcK3uj0cg31yAT) | 2:28 |

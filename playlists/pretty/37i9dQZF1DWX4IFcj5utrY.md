@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI?si=94Q5YrYJRUSzowE7Hwzc\-w">Issa sisdoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,314 likes - 55 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,381 likes - 55 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,15 @@
 
 > Listen to the soundtracks of Undercover Highschool\. \(언더커버 하이스쿨의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-24 songs - 1 hr 23 min
+28 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A\-YO](https://open.spotify.com/track/52ns1qnrnBTPrjm4VpYqYd) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Undercover High School OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/7K6rd9LRMiL0gGkqVnglaI) | 2:50 | 2025-03-10 |  |
+| [A\-YO \(Inst.\)](https://open.spotify.com/track/2tscwDnxNLsFxEFN0ZbJHU) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Undercover High School OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/7K6rd9LRMiL0gGkqVnglaI) | 2:50 | 2025-03-10 |  |
 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-03-04 |  |
+| [Call My Name](https://open.spotify.com/track/3qTqGpQ6bqnmySBe6tvr9s) | [Han Kyungsoo](https://open.spotify.com/artist/7C8RvG0zhTdPrUR2VeAKmy) | [Undercover High School OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/5NfE2vqeOe3bqaj9Jnm9QK) | 3:25 | 2025-03-10 |  |
+| [Call My Name \(Inst.\)](https://open.spotify.com/track/4zYHPfXjspSFSSfCvwD5I5) | [Han Kyungsoo](https://open.spotify.com/artist/7C8RvG0zhTdPrUR2VeAKmy) | [Undercover High School OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/5NfE2vqeOe3bqaj9Jnm9QK) | 3:25 | 2025-03-10 |  |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2025-03-04 |  |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2025-03-04 |  |
 | [foreverymoments](https://open.spotify.com/track/2FnMrl3qRuXRghJupmqaH1) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY) | [foreverymoments](https://open.spotify.com/album/379PwWezVswRlBninYmYSY) | 3:26 | 2025-03-04 |  |

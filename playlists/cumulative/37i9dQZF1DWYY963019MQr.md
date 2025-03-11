@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-103 songs - 5 hr 38 min
+104 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Misty](https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Misty](https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS) | 1:42 | 2023-02-16 | 2023-09-16 |
 | [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 | 2022-10-13 | 2024-07-23 |
 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 | 2022-10-13 |  |
+| [Moon River](https://open.spotify.com/track/3W8D2HWFwHWPmLwO9DFHAN) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Moon River](https://open.spotify.com/album/0SOV5LKZPBwQL4E2vfK0s2) | 2:24 | 2025-03-10 |  |
 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 | 2022-12-01 | 2023-08-11 |
 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 | 2022-10-13 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/23xrHsJ6yEz1WJuBBqX2wt) | [Cole Laurence](https://open.spotify.com/artist/1iw5lLOqWw7LhoKzm9G6dw) | [My Heart Stood Still](https://open.spotify.com/album/1TNCzrqc6KnESILZX2knda) | 2:20 | 2023-05-11 |  |
@@ -97,7 +98,7 @@
 | [Tangerine](https://open.spotify.com/track/0iaaX04FpfgPfqzCInwudD) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Tangerine](https://open.spotify.com/album/38gxSGItvmeSUA9s18VGcO) | 3:44 | 2024-10-21 |  |
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 | 2022-10-13 | 2023-05-24 |
-| [The Lateness of the Hour](https://open.spotify.com/track/2ZqDI60tN497TkR1LI3Wsn) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [The Lateness of the Hour](https://open.spotify.com/album/2GYw7huJFwf5toR3LnDPIm) | 2:06 | 2024-08-06 |  |
+| [The Lateness of the Hour](https://open.spotify.com/track/2ZqDI60tN497TkR1LI3Wsn) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [The Lateness of the Hour](https://open.spotify.com/album/2GYw7huJFwf5toR3LnDPIm) | 2:06 | 2024-08-06 | 2025-03-11 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-10-13 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 | 2022-10-13 | 2023-01-20 |
 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 | 2022-10-13 | 2023-08-17 |

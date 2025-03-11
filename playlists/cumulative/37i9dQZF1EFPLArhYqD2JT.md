@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-425 songs - 21 hr 39 min
+426 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Get Thee Behind Me Satan](https://open.spotify.com/track/1PD4m4cWeKP0AQTH8h4gki) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:48 | 2024-07-26 |  |
 | [Ginger And Fred Medley](https://open.spotify.com/track/65t8VBi1o0V2VlKScnSpHq) | [Judy Kaye](https://open.spotify.com/artist/4VPf6TBwy3pnMvJaI191zO), [Jason Graae](https://open.spotify.com/artist/1Ddb7wNJHy83BpBNT2w6Xi) | [Songs From The Silver Screen](https://open.spotify.com/album/6AzzbmCFHlWINcrayLM05S) | 5:13 | 2024-07-26 |  |
 | [Go Home And Tell It To Your Wife](https://open.spotify.com/track/6qHnAPEAgcdz3UlQWogNd4) | [Judy Malloy](https://open.spotify.com/artist/4uLOGwWRbq9WpVizJUN5zy), [Bill Daugherty](https://open.spotify.com/artist/1qDvkHtHSMYQPwxgdd4bOA) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 1:18 | 2024-07-26 |  |
-| [Goodbye Girlie and Remember Me](https://open.spotify.com/track/1aOs6D1NYlVjmg7oJjeLV4) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:24 | 2024-07-26 |  |
+| [Goodbye Girlie and Remember Me](https://open.spotify.com/track/1aOs6D1NYlVjmg7oJjeLV4) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:24 | 2024-07-26 | 2025-03-11 |
 | [Gots To Get Her \(Inspired by "Puttin' On The Ritz"\)](https://open.spotify.com/track/2ZV1vGAm4lPa2drytVAYui) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:09 | 2024-07-26 |  |
 | [Happy Easter](https://open.spotify.com/track/0cyTZuTy5jXlYUl6iSoWfl) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Six Pack: Easter \- EP](https://open.spotify.com/album/11qVcPPNlca22wXSj1Avua) | 2:33 | 2024-07-26 |  |
 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/1Wf14bTyb6UeKojy8ykPYm) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:37 | 2024-07-26 |  |
@@ -327,7 +327,8 @@
 | [That's Entertainment](https://open.spotify.com/track/2jpXJnSlXtUnqwpaY3atET) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [The M.G.M\. Album](https://open.spotify.com/album/7BM6bjkyyb8GwsH5PR2ry4) | 2:06 | 2024-07-26 |  |
 | [The Best Thing For You](https://open.spotify.com/track/2jHpis70QAtKH3rtSvtSEu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 2:36 | 2024-07-26 |  |
 | [The Best Thing For You Is Me](https://open.spotify.com/track/4o8hWdJ5A7lv6lS9Mgqk5S) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 4:18 | 2024-07-26 |  |
-| [The Best Things Happen While You're Dancing](https://open.spotify.com/track/2kbJCI5GQjLetvBRJ16VIp) | [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [The Children's Greatest Hits](https://open.spotify.com/album/4heXx3A0e1dm3LJawSpM57) | 2:36 | 2024-07-26 |  |
+| [The Best Things Happen While You're Dancing](https://open.spotify.com/track/2kbJCI5GQjLetvBRJ16VIp) | [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [The Children's Greatest Hits](https://open.spotify.com/album/4heXx3A0e1dm3LJawSpM57) | 2:36 | 2024-07-26 | 2025-03-11 |
+| [The Best Things Happen While You're Dancing](https://open.spotify.com/track/66Ye3sCQqV4nZ0OKzuCrYO) | [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [Danny Kaye Sings Hans Christian Andersen \(Parts 1 & 2\)](https://open.spotify.com/album/3HdPKo4kjcgbPST08KrXX9) | 2:36 | 2025-03-10 |  |
 | [The Circus Is Coming to Town](https://open.spotify.com/track/3lnJlle75hmvtGGcgbDGlU) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H), [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [The Michael Townsend Wright Album](https://open.spotify.com/album/7FRP4PuC0gmbGXFuYclBL9) | 1:24 | 2024-07-26 |  |
 | [The Funnies](https://open.spotify.com/track/0EMochIfcc1arY0Tcn9NeV) | [B\. D\. Wong](https://open.spotify.com/artist/0wHh7Mx94GEbaiWzclH1pe) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 2:13 | 2024-07-26 |  |
 | [The Girl on the Magazine Cover](https://open.spotify.com/track/0Wiz3n3mWm9YZLvxpnr9QT) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Sings Irving Berlin](https://open.spotify.com/album/4ixf2CXHCNpxWLYtHhfl4f) | 2:28 | 2024-07-26 |  |

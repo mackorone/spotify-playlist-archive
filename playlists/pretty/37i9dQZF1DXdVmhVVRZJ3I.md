@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,849 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,969 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 31 | [All One](https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Volcano On Mars](https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4) | [All One](https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g) | 3:43 |
 | 32 | [The Wall](https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [The Wall](https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a) | 2:39 |
 | 33 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
-| 34 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
-| 35 | [Doin Nottin](https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Doin Nottin](https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ) | 2:26 |
+| 34 | [Doin Nottin](https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Doin Nottin](https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ) | 2:26 |
+| 35 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
 | 36 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |
 | 37 | [I Love It](https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [I Love It](https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh) | 2:46 |
 | 38 | [Freak \- GREG \(BR\) Remix](https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Freak \[GREG \(BR\) Remix\]](https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN) | 2:45 |

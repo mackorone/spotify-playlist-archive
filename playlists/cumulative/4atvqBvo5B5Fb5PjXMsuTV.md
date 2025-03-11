@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Mar 19:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 10 Mar 14:04 UTC.
 
-4,324 songs - 10 day 0 hr 17 min
+4,326 songs - 10 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-04 | 2024-09-07 |
 | [At the Fortress Gate](https://open.spotify.com/track/03U4RGt6wDRNuU5ba83FQ9) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [At the Fortress Gate](https://open.spotify.com/album/335GTRmZ0rVWAW0zCy8CpC) | 3:45 | 2024-08-15 | 2024-08-17 |
 | [At Your Feet](https://open.spotify.com/track/7z0ZsGrcTncsaXVK1TZV0b) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [At Your Feet](https://open.spotify.com/album/2ECpykphVw3Jt59G4PDmjt) | 3:45 | 2024-05-23 | 2024-05-25 |
-| [ATE](https://open.spotify.com/track/2QkWICosG93cvjXeRmU9d7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [ATE](https://open.spotify.com/album/15hrI8PHuBnVVxPAXYarFI) | 2:29 | 2025-02-28 |  |
+| [ATE](https://open.spotify.com/track/2QkWICosG93cvjXeRmU9d7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [ATE](https://open.spotify.com/album/15hrI8PHuBnVVxPAXYarFI) | 2:29 | 2025-02-28 | 2025-03-11 |
 | [Atrinchera2](https://open.spotify.com/track/6rx8ePKSOryW7jIUSdvhnj) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Atrinchera2](https://open.spotify.com/album/2dw4YjjlRkGb8iEgm50fXQ) | 3:09 | 2024-10-23 | 2024-10-26 |
 | [Attached](https://open.spotify.com/track/6eZ122gyfQimqcwY6o6YxG) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Attached](https://open.spotify.com/album/7CS2Y6LADQZC6qerMw0ceh) | 3:33 | 2024-07-05 | 2024-07-10 |
 | [Au!](https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [Au!](https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8) | 3:26 | 2024-07-04 | 2024-07-06 |
@@ -1030,6 +1030,7 @@
 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-08 | 2024-08-10 |
 | [Dobra Robota](https://open.spotify.com/track/3oEfyXMcd2KQq5rjhSbr9o) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Dobra Robota](https://open.spotify.com/album/0UcPnNDUOTTvhOsxktxIlI) | 2:49 | 2024-12-20 | 2025-01-07 |
 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 | 2025-01-20 | 2025-01-30 |
+| [dodging](https://open.spotify.com/track/5fLws5pKoCpu4YfwH2rE1V) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [dodging](https://open.spotify.com/album/7fVuj5ibDRzAXFy8vqZiGv) | 2:07 | 2025-03-10 |  |
 | [Does It Even](https://open.spotify.com/track/7FR2q7Ig8Avnc0XdYF17vD) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Does It Even](https://open.spotify.com/album/5nzHJJutjwPOKVYZFVDDUv) | 3:15 | 2024-07-10 | 2024-07-12 |
 | [DOG HOUSE](https://open.spotify.com/track/1lqhub0atP7FkT5JA2NFkP) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOG HOUSE](https://open.spotify.com/album/3rQtGY9swdqTHrRor7uosQ) | 3:13 | 2024-09-06 | 2024-09-11 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-26 | 2024-04-30 |
@@ -1087,6 +1088,7 @@
 | [Dream It](https://open.spotify.com/track/0IpNwzaz3rRJrVUEVKAeSM) | [Catch The Young](https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA) | [Dream It](https://open.spotify.com/album/52whyZ6hGiuiqHzsNnTVdZ) | 3:27 | 2024-08-08 | 2024-08-10 |
 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 | 2024-07-31 | 2024-08-03 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-21 | 2025-03-01 |
+| [DREAMBOY](https://open.spotify.com/track/2lrqQ59IyZ9IDYxWeLd6rp) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [DREAMBOY](https://open.spotify.com/album/3iKDUwVktCzrLqgv2iKlU3) | 3:35 | 2025-03-10 |  |
 | [Dreamin'](https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Dreamin'](https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po) | 4:00 | 2024-06-11 | 2024-06-13 |
 | [Dreamlike \- orchestral](https://open.spotify.com/track/2jwlaf1skvY0QEC4I38coo) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike \(orchestral\)](https://open.spotify.com/album/3f7KIERdCN1UPslXmiIxri) | 2:24 | 2024-06-14 | 2024-06-19 |
 | [Dreams & Love](https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Dreams & Love](https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE) | 2:21 | 2024-06-27 | 2024-06-29 |
@@ -1329,7 +1331,7 @@
 | [FIRMAMENT](https://open.spotify.com/track/5t139ZsNjflRbmZoyFmEwE) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [FIRMAMENT](https://open.spotify.com/album/5h3AYO07ei2VCbOD9DhtgN) | 3:49 | 2024-09-18 | 2024-09-21 |
 | [first](https://open.spotify.com/track/333aAlAYq1oeVlR29KsZrg) | [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [first](https://open.spotify.com/album/221i5359034bFqW1N8IA52) | 2:42 | 2024-04-29 | 2024-05-02 |
 | [First Day Out](https://open.spotify.com/track/2GnO55ArFVeyDGlZWb3zxA) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [First Day Out](https://open.spotify.com/album/4IvPy7NaJZUKdmzUP8TD0e) | 3:00 | 2024-12-04 | 2024-12-06 |
-| [First Day Out The Hospital](https://open.spotify.com/track/69GXzxiPL6x2K5VIuuDMPc) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [First Day Out The Hospital](https://open.spotify.com/album/6w1sEXsotlpOznh8Oxu4PI) | 2:01 | 2025-02-28 |  |
+| [First Day Out The Hospital](https://open.spotify.com/track/69GXzxiPL6x2K5VIuuDMPc) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [First Day Out The Hospital](https://open.spotify.com/album/6w1sEXsotlpOznh8Oxu4PI) | 2:01 | 2025-02-28 | 2025-03-11 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-12 | 2024-09-14 |
 | [First Rendezvous](https://open.spotify.com/track/2BPChyL7jB0H1e50RstZQ0) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT) | [First Rendezvous](https://open.spotify.com/album/64RutBnsNzvMVsg9tuA2t5) | 3:20 | 2024-07-30 | 2024-08-02 |
 | [First Rodeo](https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [First Rodeo](https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj) | 3:43 | 2024-10-17 | 2024-10-19 |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "APT. (Piano Version)",
+        "url": "https://open.spotify.com/album/4eJUPB3Yurg6xJ5xLivd8J"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169879,
+      "name": "APT. - Piano Version",
+      "url": "https://open.spotify.com/track/075QR1Nby1qAXjSlfucYPK"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 234937,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 135668,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj"

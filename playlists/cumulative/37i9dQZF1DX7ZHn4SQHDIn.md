@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-177 songs - 9 hr 19 min
+178 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [24HRS](https://open.spotify.com/track/5aNuBrqbdJ8r9qFZHliWxR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 2:07 | 2022-07-22 | 2024-04-19 |
 | [365](https://open.spotify.com/track/0nV75BOrSyRuU11DtIhv0U) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:05 | 2022-07-15 |  |
 | [365](https://open.spotify.com/track/5J0fF2lLWE6KJMzICG8OHt) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:05 | 2022-07-22 | 2024-04-19 |
+| [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 | 2025-03-10 |  |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-15 |  |
 | [Always be your star](https://open.spotify.com/track/04uLMJFa1x21WX9J4QYF83) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Red Sleeve OST Part.9](https://open.spotify.com/album/5iPfEIz0ZnUL62v4ZkuizS) | 3:46 | 2022-04-20 |  |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/2RMQFfyDZEyF6Bm8lCdEYu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:13 | 2022-07-22 | 2024-04-19 |

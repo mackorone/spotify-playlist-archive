@@ -23,6 +23,36 @@
     },
     {
       "album": {
+        "name": "2 Khatole",
+        "url": "https://open.spotify.com/album/4kqHC4y4BtSLvpaeNBxQgK"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Manjeet Mor",
+          "url": "https://open.spotify.com/artist/78slqekUy3ukaQNoEmrBWh"
+        },
+        {
+          "name": "Chahal Saab",
+          "url": "https://open.spotify.com/artist/52RKOMbQxRNez6p1qbglGm"
+        },
+        {
+          "name": "Vikash Rajana",
+          "url": "https://open.spotify.com/artist/7BRHuqvY17F7LTyYeOuGtD"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148773,
+      "name": "2 Khatole",
+      "url": "https://open.spotify.com/track/4UJ48AH0P1RedAP1NXie9v"
+    },
+    {
+      "album": {
         "name": "Jalwa",
         "url": "https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h"
       },
@@ -9076,7 +9106,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 212108,
       "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
       "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
@@ -17617,6 +17647,24 @@
     },
     {
       "album": {
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
+    },
+    {
+      "album": {
         "name": "Ranjithame (From \"Varisu\")",
         "url": "https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W"
       },
@@ -19230,7 +19278,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -19474,7 +19522,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 155161,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
@@ -19794,7 +19842,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 249707,
       "name": "Subhanallah",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8"

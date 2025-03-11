@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-240 songs - 1 day 3 hr 37 min
+241 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 | 2023-03-23 | 2024-05-23 |
 | [Oh Mdali \(feat\. PlayMaster & Smallistic, Malungelo\)](https://open.spotify.com/track/1DW5ZAmJrdvOIrIGTvBwhz) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4), [Playmaster & Smallistic](https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC) | [Oh Mdali \(feat\. PlayMaster & Smallistic, Malungelo\)](https://open.spotify.com/album/0N93xeV4Ed2JTYy83gySqr) | 6:01 | 2024-03-15 | 2024-04-19 |
 | [On It](https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN) | [Slotta](https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ) | [A \(Ray\)](https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM) | 7:04 | 2022-11-10 | 2023-03-18 |
-| [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 | 2024-07-11 |  |
+| [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 | 2024-07-11 | 2025-03-11 |
 | [OSCILLATIONS](https://open.spotify.com/track/1SiCfb0VwAZPawZALNOCES) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr), [Deep Essentials](https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO) | [THE XO EFFECT 2](https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt) | 7:04 | 2025-01-30 |  |
 | [Out Out](https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj) | [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg), [Yves Eaux](https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Out Out](https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2) | 7:08 | 2022-09-19 | 2023-02-28 |
 | [Over Loved.](https://open.spotify.com/track/35cuBaT4Lyb89KSeMeM4Z9) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Over Loved](https://open.spotify.com/album/2oHEj8GTLy3onemgwEWekf) | 6:27 | 2025-03-07 |  |
@@ -216,6 +216,7 @@
 | [The Motions](https://open.spotify.com/track/1kNyNQFfZ0kCJSjQuOP1KS) | [Gabbana](https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX) | [Stargazer](https://open.spotify.com/album/42CTvGrcnED1o181lUvJaZ) | 7:53 | 2025-02-21 | 2025-02-28 |
 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 | 2023-03-23 | 2024-04-26 |
 | [The Whole Thing](https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6) | [Black Villain](https://open.spotify.com/artist/3CUEUOOinhiFpSHYUNB43W), [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Lunga SA](https://open.spotify.com/artist/5wr1vRS4fvNtOEG1S4zEAQ) | [The Whole Thing](https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1) | 6:52 | 2024-04-25 | 2025-02-22 |
+| [Thee Devil](https://open.spotify.com/track/4qrSEhrGrBE4NktN87fMii) | [House Victimz](https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr) | [Victimized, Vol\. 2](https://open.spotify.com/album/5rP9dcGPYuXvoFGtecoUiV) | 6:38 | 2025-03-07 |  |
 | [Think Twice](https://open.spotify.com/track/5Pkpb4N9wLNpPnsQMQ5Wqh) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [4 The Floor](https://open.spotify.com/album/20rihG99JT6P30hUW9RM8I) | 5:02 | 2024-06-13 | 2025-02-22 |
 | [thinking 'bout you](https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS) | [Thabang Phaleng](https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Thinking 'bout you](https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk) | 6:17 | 2022-09-29 | 2023-03-25 |
 | [This Is The Way \(We Dance\)](https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq) | [D\-tip](https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF), [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [This Is The Way \(We Dance\)](https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK) | 5:37 | 2023-11-09 | 2024-04-26 |

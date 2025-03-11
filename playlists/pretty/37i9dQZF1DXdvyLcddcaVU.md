@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,800 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,216 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 14 | [Vai et viens](https://open.spotify.com/track/6dAx0jUY9lnXEtBiK7e2ZZ) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Grandestino](https://open.spotify.com/album/1w3b8GrDYwt0ipw3awaWjx) | 2:58 |
 | 15 | [Le Graal](https://open.spotify.com/track/4hMsrR2JpxCeybyWN786qk) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [L'équilibre](https://open.spotify.com/album/4CkUoxJjBE1QLFMwJYcDwC) | 3:11 |
 | 16 | [Se\-vrak](https://open.spotify.com/track/2PPbiHIoyr8yMGOfyZMR2X) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Le bruit de mon âme](https://open.spotify.com/album/3CXUsBNZx5yumUzihzq82M) | 4:14 |
-| 17 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 |
+| 17 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 18 | [Nos souvenirs](https://open.spotify.com/track/7CUAGxYmpmSJv9pbLgqVjy) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Jok'travolta](https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV) | 8:05 |
 | 19 | [Pim pom](https://open.spotify.com/track/6OZ0yjdc8QQPxnQ2T6lGlg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 4:23 |
 | 20 | [Butterfly \- Malik Djoudi Remix](https://open.spotify.com/track/1KQtHHc9UQ5qcouSGd8l2i) | [Léonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC), [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Butterfly \(Remixes\)](https://open.spotify.com/album/3TAsLhBSwjq9iZWvp49jAG) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Breath of Roma](https://open.spotify.com/track/6jw2gaUjhFqiY3imoKe5b1) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:25 |
 | 90 | [Kleenex](https://open.spotify.com/track/6sHRH7ZFzoJD7zSemf45Mc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude\(s\)](https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58) | 3:03 |
 
-Snapshot ID: `Z8r1XAAAAACPf54OUZhHWswvLYQzM+ZF`
+Snapshot ID: `Z869UAAAAADK/Orv6cmwKPtPTePJyr0X`

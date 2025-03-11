@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,361 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 23 | [I Should Be Your Lover](https://open.spotify.com/track/0LeAHCP4hmqkHvHDuiaea9) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Blue Album](https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY) | 5:53 |
 | 24 | [Somewhere Down the Line \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4ghUVSwZNOBmdaU587E60G) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 4:53 |
 | 25 | [Concentrate On Me \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:11 |
-| 26 | [Keep On Loving You](https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 3:41 |
-| 27 | [After You Love Me, Why Do You Leave Me](https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:45 |
+| 26 | [After You Love Me, Why Do You Leave Me](https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:45 |
+| 27 | [Keep On Loving You](https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 3:41 |
 | 28 | [When Will I See You Again / Love Train \- Live Medley](https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 8:01 |
 | 29 | [Let It Be You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:32 |
 | 30 | [I'm Comin' Home Tomorrow \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 6:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Hey Doc](https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:24 |
 | 50 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 |
 
-Snapshot ID: `Z8uIgAAAAAATvhkHDJzoGaKxn+9UA1+c`
+Snapshot ID: `Z8zaAAAAAAAtVsQ7JSBKg3OQsXzi7KPg`

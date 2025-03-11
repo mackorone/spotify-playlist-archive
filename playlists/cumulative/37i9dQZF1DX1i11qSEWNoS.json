@@ -1821,6 +1821,28 @@
     },
     {
       "album": {
+        "name": "Fast Cars & Superstars",
+        "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
+      },
+      "artists": [
+        {
+          "name": "Cristian Marchi",
+          "url": "https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW"
+        },
+        {
+          "name": "Reverend Haus",
+          "url": "https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118701,
+      "name": "Fast Cars & Superstars",
+      "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
+    },
+    {
+      "album": {
         "name": "Faster n Harder",
         "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
       },
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"

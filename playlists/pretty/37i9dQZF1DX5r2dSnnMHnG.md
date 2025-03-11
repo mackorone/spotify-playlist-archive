@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,657 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,675 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 63 | [Flower](https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [talks about blossoms](https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP) | 3:38 |
 | 64 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
 | 65 | [I wanna walk with you \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/725nZxxHYGcdLZhoeG3NMG) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [I'm on my way to you](https://open.spotify.com/album/6DX3jl8nfeWduJrvXytQ13) | 3:02 |
-| 66 | [Timing \(feat\. KIMMUSEUM & amin\)](https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Timing](https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4) | 2:48 |
+| 66 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
 | 67 | [Stay With Me \(feat\. Brick\)](https://open.spotify.com/track/3hMhTQuyerdLRPATMY61CR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Stay With Me](https://open.spotify.com/album/7wHGPtZKJIvgTGW4RkQakm) | 3:04 |
 | 68 | [the 24th spring](https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk) | [jeong min joo](https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk) | [the 24th spring](https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP) | 4:01 |
-| 69 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
+| 69 | [Timing \(feat\. KIMMUSEUM & amin\)](https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Timing](https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4) | 2:48 |
 | 70 | [Like The Moon \(Prod\. Jgrow\)](https://open.spotify.com/track/0vTOAtgn7H1XBmLgKfLXr4) | [J.cob](https://open.spotify.com/artist/0ElmlBhw88a1jOhfU2hrd2) | [Like The Moon](https://open.spotify.com/album/1smQCmAsoQRMEDH0zGyeLG) | 3:40 |
 | 71 | [Night train](https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Spring](https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s) | 3:40 |
 | 72 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 |
 | 73 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
 | 74 | [Jeju Island blue night](https://open.spotify.com/track/55U6vYIrmGogHjPhZB6kO4) | [Cho Moon Geun Band](https://open.spotify.com/artist/2053K4zLW7CivPHvamTXkC) | [Jeju Island blue night](https://open.spotify.com/album/5xAfj9tclcX82DopBRYduw) | 3:53 |
-| 75 | [Tropical Night \(feat\. Yoo Dongmin, Nrin\)](https://open.spotify.com/track/2I2cMyjkIq9ZE8CpykXaSV) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3), [Yoo Dongmin](https://open.spotify.com/artist/0lMqXSoPXpiVBQGNlh21ow), [Nrin](https://open.spotify.com/artist/165KiitgvAQj4t7VISQcXY) | [Tropical Night](https://open.spotify.com/album/50wKbFYJ5ZQr2eOsaRAVeb) | 4:10 |
+| 75 | [Little Star \(feat\. Haneul, Yuki\)](https://open.spotify.com/track/2giXb6R9kdSWIeGqEXgA2C) | [SATURDAY](https://open.spotify.com/artist/4UeJgAodtmUXfxU1GoJUph), [Haneul](https://open.spotify.com/artist/4mvyJGz5xZmi19HcgzoM23), [Yuki](https://open.spotify.com/artist/23Heyx9w1WU1Hoq2LRzaVV) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 20](https://open.spotify.com/album/2mgow2RGsiKDe8WdH5lSPs) | 3:54 |
 
 Snapshot ID: `ZpdYvgAAAAANwPw7xtsw+iZlIZlvwupi`

@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297143,
+  "num_followers": 297136,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,18 @@
     {
       "added_at": "2025-03-07 06:49:17",
       "album": {
-        "name": "TWIN FLAME",
-        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
+        "name": "Need U To Need Me",
+        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
       },
       "artists": [
         {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        },
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 136004,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
+      "duration_ms": 167000,
+      "name": "Need U To Need Me",
+      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
     },
     {
       "added_at": "2025-03-07 06:49:17",
@@ -387,18 +383,22 @@
     {
       "added_at": "2025-03-07 06:49:17",
       "album": {
-        "name": "Need U To Need Me",
-        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
+        "name": "TWIN FLAME",
+        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        },
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Need U To Need Me",
-      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
+      "duration_ms": 136004,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
     },
     {
       "added_at": "2025-03-07 06:49:17",
@@ -579,38 +579,6 @@
     {
       "added_at": "2025-03-07 06:49:17",
       "album": {
-        "name": "Souled Out: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Beautiful Ruin",
-      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I"
-    },
-    {
-      "added_at": "2025-03-07 06:49:17",
-      "album": {
-        "name": "Never Return",
-        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 172410,
-      "name": "Never Return",
-      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
-    },
-    {
-      "added_at": "2025-03-07 06:49:17",
-      "album": {
         "name": "Drive It",
         "url": "https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy"
       },
@@ -631,6 +599,38 @@
     {
       "added_at": "2025-03-07 06:49:17",
       "album": {
+        "name": "Never Return",
+        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 172410,
+      "name": "Never Return",
+      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
+    },
+    {
+      "added_at": "2025-03-07 06:49:17",
+      "album": {
+        "name": "Souled Out: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Beautiful Ruin",
+      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I"
+    },
+    {
+      "added_at": "2025-03-07 06:49:17",
+      "album": {
         "name": "Pussy",
         "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 175183,
       "name": "Pussy",
       "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
-    },
-    {
-      "added_at": "2025-03-07 06:49:17",
-      "album": {
-        "name": "TUTU",
-        "url": "https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ"
-      },
-      "artists": [
-        {
-          "name": "Amadi Blue",
-          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "TUTU",
-      "url": "https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm"
     },
     {
       "added_at": "2025-03-07 06:49:17",
@@ -679,6 +663,22 @@
       "duration_ms": 140000,
       "name": "A Fair Exchange",
       "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
+    },
+    {
+      "added_at": "2025-03-07 06:49:17",
+      "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm"
     },
     {
       "added_at": "2025-03-07 06:49:17",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-03-07 06:49:17",
       "album": {
-        "name": "BACK ON MY FEET",
-        "url": "https://open.spotify.com/album/0xYw6xQVrBXEVQ3Hg0HqWC"
-      },
-      "artists": [
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "BACK ON MY FEET",
-      "url": "https://open.spotify.com/track/7cM96RpP6SZ7Vm5TLUEsRP"
-    },
-    {
-      "added_at": "2025-03-07 06:49:17",
-      "album": {
         "name": "Waiting On You",
         "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 163555,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
+    },
+    {
+      "added_at": "2025-03-07 06:49:17",
+      "album": {
+        "name": "BACK ON MY FEET",
+        "url": "https://open.spotify.com/album/0xYw6xQVrBXEVQ3Hg0HqWC"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "BACK ON MY FEET",
+      "url": "https://open.spotify.com/track/7cM96RpP6SZ7Vm5TLUEsRP"
     },
     {
       "added_at": "2025-03-07 06:49:17",

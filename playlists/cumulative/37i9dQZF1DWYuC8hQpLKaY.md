@@ -4,12 +4,13 @@
 
 > depressing piano covers of hit songs 🥺💔 music can fix us
 
-50 songs - 2 hr 39 min
+51 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [abcdefu](https://open.spotify.com/track/5LmO389imtSCtLIGqHeaja) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [abcdefu](https://open.spotify.com/album/4vZDGwZHuzl9IPKqx7BHjX) | 3:36 | 2025-02-20 |  |
 | [Anti\-Hero](https://open.spotify.com/track/3RxfF2edq7exdBu3qJMsRX) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Anti\-Hero](https://open.spotify.com/album/4frVM4kdubuOKtEozblrcY) | 3:03 | 2025-02-20 |  |
+| [APT\. \- Piano Version](https://open.spotify.com/track/075QR1Nby1qAXjSlfucYPK) | [Philip](https://open.spotify.com/artist/1VynTFO9AVlwqIDGYvi1wS) | [APT\. \(Piano Version\)](https://open.spotify.com/album/4eJUPB3Yurg6xJ5xLivd8J) | 2:49 | 2025-03-10 |  |
 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 | 2025-02-20 |  |
 | [august](https://open.spotify.com/track/3hSSzo9nGgxJ8fr0Bwhnpp) | [Tindré](https://open.spotify.com/artist/5ZcHw4sYgIBPo09KgHLtvf) | [august](https://open.spotify.com/album/5djItPLbGgnwYkZpLDUv6c) | 2:48 | 2025-02-20 |  |
 | [Bags \- Piano Version](https://open.spotify.com/track/4uF1hlFEFg3fBymBdg5vNO) | [carme](https://open.spotify.com/artist/0O0x8SQkmDycCOEmlMVbVU) | [Bags \(Piano Version\)](https://open.spotify.com/album/6n9BYewOJxb7mjTJxPf7LM) | 3:25 | 2025-02-20 |  |
@@ -24,7 +25,7 @@
 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 | 2025-02-20 |  |
 | [Drivers License](https://open.spotify.com/track/2EdN4I7srUp7OOkNwXBZwm) | [Adrienne Clotard](https://open.spotify.com/artist/48yNGJAgVQrkppL5jK0wn1) | [Drivers License](https://open.spotify.com/album/0Xnu91s6VhpY12MAPCX7Kj) | 3:14 | 2025-02-20 |  |
 | [End Of The Beginning \- Piano Version](https://open.spotify.com/track/2P1FLNByt9ya7sx1E1PFMt) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [Piano covers of dreams we love](https://open.spotify.com/album/1rjdRpkDRrJFRKi3QoXMKt) | 2:14 | 2025-02-20 |  |
-| [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2025-02-20 |  |
+| [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2025-02-20 | 2025-03-11 |
 | [Flowers \- Piano Version](https://open.spotify.com/track/1YJDCPCTwO7qDEbA2ARBjm) | [Thomas Valentin](https://open.spotify.com/artist/1CtdXMsrRF9ULb3mxUWdK0) | [Flowers \(Piano Version\)](https://open.spotify.com/album/63ja5TXWTq4M8Hgd1lZuHW) | 4:14 | 2025-02-20 |  |
 | [Fortnight \- Piano Version](https://open.spotify.com/track/4L72mjxSYuUdGtLKLJw7lT) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [The Tortured Poets Department \(Piano Version\)](https://open.spotify.com/album/6C4VwQCpK7bb6EELytcD5d) | 3:41 | 2025-02-20 |  |
 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2025-02-20 |  |
@@ -52,7 +53,7 @@
 | [Summertime Sadness](https://open.spotify.com/track/2YryAeTzc3Ka8FDQlCEWF2) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 2:43 | 2025-02-20 |  |
 | [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2025-02-20 |  |
 | [Texas Hold EM](https://open.spotify.com/track/3KjegNTJ84MxLDXpoHWWcg) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 3:23 | 2025-02-20 |  |
-| [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 | 2025-02-20 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 | 2025-02-20 | 2025-03-11 |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-02-20 |  |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/6Nce1UKzpjE1BB88uAVbsK) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/6jiYjhX0iTyHGzaJYkCU44) | 4:03 | 2025-02-20 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2025-02-20 |  |

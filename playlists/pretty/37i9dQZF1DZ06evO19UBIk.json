@@ -1,29 +1,13 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 670889,
+  "num_followers": 670938,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAB81+qMe8fAwDl0O3IblwxJ",
+  "snapshot_id": "Z8zaAAAAAADNa33eQOoOjM5fZHRkNPm7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 130173,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 170132,
-      "name": "Peace Frog",
-      "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 195106,
       "name": "Love Me Two Times",
       "url": "https://open.spotify.com/track/67HxeUADW4H3ERfaPW59ma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 170132,
+      "name": "Peace Frog",
+      "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
     },
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "An American Prayer",
-        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Ghost Song",
-      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
+      "duration_ms": 154066,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
     },
     {
       "added_at": null,
@@ -275,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
       "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
+      "duration_ms": 170666,
+      "name": "Ghost Song",
+      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 378480,
-      "name": "Gloria - Live; 2007 Remaster",
-      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
+      "duration_ms": 132949,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 132949,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
+      "duration_ms": 378480,
+      "name": "Gloria - Live; 2007 Remaster",
+      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 259265,
-      "name": "The Changeling",
-      "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
+      "duration_ms": 238626,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Waiting for the Sun",
-      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+      "duration_ms": 259265,
+      "name": "The Changeling",
+      "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
       "duration_ms": 178306,
       "name": "Spanish Caravan",
       "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Queen of the Highway",
+      "url": "https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Queen of the Highway",
-      "url": "https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Hyacinth House",
-      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 147200,
       "name": "My Eyes Have Seen You",
       "url": "https://open.spotify.com/track/6HSQ5z5afdLjhphHWfPiEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Hyacinth House",
+      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
     },
     {
       "added_at": null,

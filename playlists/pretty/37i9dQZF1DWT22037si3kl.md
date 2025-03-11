@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,844 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,861 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 18 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 19 | [Mimo Caro](https://open.spotify.com/track/3ps209XATTFuOMkokgGywM) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615) | [Mimo Caro](https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB) | 4:09 |
 | 20 | [Amanheceu](https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Neyriellen Ferreira](https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 3:20 |
-| 21 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
-| 22 | [SEMRÉH](https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:27 |
+| 21 | [SEMRÉH](https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:27 |
+| 22 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 23 | [Sem Compaixão](https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Sem Compaixão](https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2) | 3:22 |
 | 24 | [Lado Negro](https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:53 |
 | 25 | [MOTIVO](https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV) | [MOTIVO](https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB) | 2:46 |

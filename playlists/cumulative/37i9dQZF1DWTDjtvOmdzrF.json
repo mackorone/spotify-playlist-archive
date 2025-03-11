@@ -1393,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "Nalar",
+        "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261048,
+      "name": "Mangu",
+      "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
+    },
+    {
+      "album": {
         "name": "Manot",
         "url": "https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E"
       },
@@ -2054,7 +2076,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 323571,
       "name": "Rumpang",
       "url": "https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H"
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 309157,
       "name": "Segelas Berdua",
       "url": "https://open.spotify.com/track/2XGh6vPxKBII4AfAwL2QOl"
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 310625,
       "name": "Semua Aku Dirayakan",
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"

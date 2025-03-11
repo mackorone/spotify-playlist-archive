@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-54 songs - 5 hr 3 min
+55 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Astronomy Domine](https://open.spotify.com/track/3Y8gNcoJu1uJ5L1BZuGvqB) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 4:11 | 2022-09-17 | 2022-10-13 |
 | [Brain Damage](https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 3:46 | 2022-09-17 |  |
 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 | 2022-09-17 |  |
+| [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 | 2025-03-11 |  |
 | [Cluster One](https://open.spotify.com/track/0iJfN2CqrX7O8hkzgAMMAf) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:55 | 2022-09-17 | 2022-10-09 |
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2022-09-17 |  |
 | [Coming Back to Life](https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:19 | 2022-09-17 |  |
@@ -23,7 +24,7 @@
 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2022-09-17 | 2022-12-24 |
 | [Echoes \- Part 1 \- Edit \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4cneE6tz6nHEcX2ChM8ISO) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Echoes \- Part 1 \- Edit \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/6RhYZ6GtyfKczfaGs8QAUj) | 5:50 | 2025-02-28 |  |
 | [Fearless](https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 6:07 | 2022-09-17 |  |
-| [Goodbye Blue Sky](https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 2:47 | 2024-04-28 |  |
+| [Goodbye Blue Sky](https://open.spotify.com/track/0ESdtt9cjGZUkUbaubSrv2) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 2:47 | 2024-04-28 | 2025-03-11 |
 | [Have a Cigar](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:07 | 2022-09-17 |  |
 | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9), [Andriy Khlyvnyuk](https://open.spotify.com/artist/2VfXr8g4E0qImkefKT3Nby) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/3lBCDflEyxa7JucrV4Npwj) | 3:26 | 2022-09-17 |  |
 | [Hey You](https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 4:38 | 2022-09-17 |  |
@@ -33,7 +34,7 @@
 | [Lost for Words](https://open.spotify.com/track/4Ev1LZ4uzjnSvDHpgdyBZK) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:14 | 2022-09-17 |  |
 | [Marooned](https://open.spotify.com/track/6bIPHR8AJG5HAcn9oF21Ma) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:30 | 2022-09-17 |  |
 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 | 2022-09-17 |  |
-| [Mother](https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 5:34 | 2022-09-17 | 2023-10-02 |
+| [Mother](https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 5:34 | 2022-09-17 |  |
 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 | 2022-09-17 | 2022-10-13 |
 | [On the Turning Away](https://open.spotify.com/track/7KA6U0WOHdGxWWLGPYN2Sb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 5:41 | 2022-09-17 |  |
 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 | 2022-11-08 |  |

@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: <strong>Rachel Chinouriri<strong>.
 
-1,889 songs - 4 day 6 hr 3 min
+1,890 songs - 4 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-06-29 | 2022-08-02 |
 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 | 2024-03-08 | 2024-05-20 |
 | [Change the world](https://open.spotify.com/track/20K58dbJR2jwoNLUY9BDRk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Change the world](https://open.spotify.com/album/3WhxaWD61nmnFr0HZcCel7) | 2:57 | 2022-02-03 | 2022-06-27 |
-| [Characters I Drew](https://open.spotify.com/track/7LQpKrAdQocjWnrFyXetpX) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Characters I Drew](https://open.spotify.com/album/5uUm9Iczo5UwkIw5XBHub3) | 4:36 | 2025-01-17 |  |
+| [Characters I Drew](https://open.spotify.com/track/7LQpKrAdQocjWnrFyXetpX) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Characters I Drew](https://open.spotify.com/album/5uUm9Iczo5UwkIw5XBHub3) | 4:36 | 2025-01-17 | 2025-03-11 |
 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 | 2022-11-11 | 2023-05-31 |
 | [Chemistry](https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Chemistry](https://open.spotify.com/album/6LcvpXRe8CBUuQW1oBPJsX) | 3:36 | 2022-09-08 | 2023-05-23 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2022-02-10 | 2022-02-27 |
@@ -754,6 +754,7 @@
 | [In The Shadow](https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:34 | 2024-10-11 |  |
 | [In the Zone](https://open.spotify.com/track/7gv2n1m3ouTqMX3ECN9VAk) | [Lorena Santos](https://open.spotify.com/artist/4joarc2IPqP1ZvWfcbZ52C), [Sebastian Montini](https://open.spotify.com/artist/45s29GJMR6CohU8kc1SwM7) | [In the Zone](https://open.spotify.com/album/6XOi0ma4K1wQDIBRguxtCb) | 3:08 | 2022-03-24 | 2022-04-14 |
 | [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 | 2024-10-25 | 2024-11-16 |
+| [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-07 |  |
 | [Infinite Tsukuyomi](https://open.spotify.com/track/1w6yKhAgRhIaZhsWEay2H3) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Tsukuyomi Dream](https://open.spotify.com/album/0XJ2GHflMl75zuofYfuARg) | 3:24 | 2022-03-24 | 2022-04-17 |
 | [Inmoral](https://open.spotify.com/track/4ViP6HWnIvwnztjj9cXrsL) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Inmoral](https://open.spotify.com/album/2mQtgxR1S7cghSqkz7cMVT) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2023-05-30 | 2023-07-08 |

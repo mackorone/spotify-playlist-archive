@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 213490,
+  "num_followers": 213512,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "i went outside",
         "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Brick by Brick",
-        "url": "https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz"
-      },
-      "artists": [
-        {
-          "name": "August Green",
-          "url": "https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu"
-        }
-      ],
-      "duration_ms": 218248,
-      "name": "Brick by Brick",
-      "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "Desert",
         "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "i don\u2019t know what i saw in you",
-        "url": "https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR"
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz"
       },
       "artists": [
         {
-          "name": "Malen",
-          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
+          "name": "August Green",
+          "url": "https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu"
         }
       ],
-      "duration_ms": 129867,
-      "name": "i don\u2019t know what i saw in you",
-      "url": "https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2"
+      "duration_ms": 218248,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -771,34 +755,18 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+        "name": "i don\u2019t know what i saw in you",
+        "url": "https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "Malen",
+          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
         }
       ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
-        "name": "I Live After I Died",
-        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
-      },
-      "artists": [
-        {
-          "name": "Sofia Dragt",
-          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "I Live After I Died",
-      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+      "duration_ms": 129867,
+      "name": "i don\u2019t know what i saw in you",
+      "url": "https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -819,6 +787,38 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
+        "name": "I Live After I Died",
+        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
+      },
+      "artists": [
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "I Live After I Died",
+      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "The Speed of Life",
-        "url": "https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly"
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
       "artists": [
         {
-          "name": "Malin Pettersen",
-          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
         }
       ],
-      "duration_ms": 201719,
-      "name": "The Speed of Life",
-      "url": "https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD"
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+        "name": "The Speed of Life",
+        "url": "https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly"
       },
       "artists": [
         {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+      "duration_ms": 201719,
+      "name": "The Speed of Life",
+      "url": "https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/3yDGujqnChQqrwPDL7aQxa"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3AuSK6otpAfrrB1JgDOaKJ"
       },
       "artists": [
         {
-          "name": "Emmelie de Forest",
-          "url": "https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G"
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
         }
       ],
-      "duration_ms": 175173,
-      "name": "Love Songs",
-      "url": "https://open.spotify.com/track/6QMSygBOH5hDe7JHCtmH9V"
+      "duration_ms": 215000,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/442HltvzhREoVIVY9aeGaG"
     }
   ],
   "unique_name": "Nordic Folk",

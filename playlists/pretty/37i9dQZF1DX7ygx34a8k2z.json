@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 268842,
+  "num_followers": 268937,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+      "duration_ms": 264066,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -235,18 +235,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Alice In Chains",
-        "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 327893,
-      "name": "Heaven Beside You",
-      "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "The Mollusk",
         "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 126946,
       "name": "Ocean Man",
       "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Alice In Chains",
+        "url": "https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 327893,
+      "name": "Heaven Beside You",
+      "url": "https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Whatever And Ever Amen (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds Five",
-          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Brick",
-      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Transmissions From the Satellite Heart",
         "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 222278,
       "name": "She Don't Use Jelly",
       "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Whatever And Ever Amen (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds Five",
+          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Brick",
+      "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Pleased to Meet Me (Expanded)",
+        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Can't Hardly Wait - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 163733,
       "name": "Piano Fire",
       "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Pleased to Meet Me (Expanded)",
-        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Can't Hardly Wait - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Hello Nasty (Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        },
-        {
-          "name": "Miho Hatori",
-          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
         }
       ],
-      "duration_ms": 180373,
-      "name": "I Don't Know - Remastered 2009",
-      "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+        "name": "Hello Nasty (Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
       "artists": [
         {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
         }
       ],
-      "duration_ms": 194093,
-      "name": "Cure for Pain",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+      "duration_ms": 180373,
+      "name": "I Don't Know - Remastered 2009",
+      "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Whip-Smart",
-        "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Whip-Smart",
+        "url": "https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 230533,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Desperate Youth, Blood Thirsty Babes",
+        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Desperate Youth, Blood Thirsty Babes",
-        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Rooney",
         "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Monster (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 278653,
+      "name": "Crush With Eyeliner - Remastered",
+      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 226600,
       "name": "Soul And Fire",
       "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Monster (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 278653,
-      "name": "Crush With Eyeliner - Remastered",
-      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
     }
   ],
   "unique_name": "Thrifted",

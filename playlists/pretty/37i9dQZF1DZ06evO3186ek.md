@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,193 likes - 50 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,237 likes - 50 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 46 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
 | 47 | [Jireh \(feat\. Mav City Gospel Choir\)](https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 6:00 |
 | 48 | [Thank You \(feat\. Steffany Gretzinger & Chandler Moore\)](https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:29 |
-| 49 | [You are Mighty \(feat\. Nick Day & Odell Bunton Jr.\)](https://open.spotify.com/track/0dnqwfmW1uWnLRp8urXVD3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Odell Bunton Jr.](https://open.spotify.com/artist/4t6IfNT7tiiZObERkg20oQ) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:23 |
-| 50 | [My Life Is In Your Hands](https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 7:01 |
+| 49 | [My Life Is In Your Hands](https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 7:01 |
+| 50 | [You are Mighty \(feat\. Nick Day & Odell Bunton Jr.\)](https://open.spotify.com/track/0dnqwfmW1uWnLRp8urXVD3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Odell Bunton Jr.](https://open.spotify.com/artist/4t6IfNT7tiiZObERkg20oQ) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:23 |
 
-Snapshot ID: `Z8uIgAAAAAA1eg+gtm+p/dXQWdHQrcNJ`
+Snapshot ID: `Z8zaAAAAAAC99e+rWiYXrfQsR5qnGFF3`

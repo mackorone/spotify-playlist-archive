@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17485,
+  "num_followers": 17493,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAA7asHbIBoTT6u1kudEvMP8",
+  "snapshot_id": "Z8zaAAAAAADtjBheOqtA84koO5fqeAC+",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Nice!",
-        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 225340,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playmate Of The Year",
         "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177666,
       "name": "Playmate of the Year",
       "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Nice!",
+        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 225340,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 206178,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 198892,
+      "name": "A Long Way Down",
+      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
     },
     {
       "added_at": null,
@@ -607,54 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 198892,
-      "name": "A Long Way Down",
-      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 200018,
-      "name": "If Your Looking for Your Knife...I Think My Back Found It",
-      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "Over the Edge",
-      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -683,6 +651,54 @@
       "duration_ms": 219760,
       "name": "Lay Me to Rest",
       "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 200018,
+      "name": "If Your Looking for Your Knife...I Think My Back Found It",
+      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176803,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176803,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waste Of Mind",
         "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 211760,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Who Brings a Knife to a Gunfight?",
+      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 217401,
       "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
       "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 171897,
-      "name": "Who Brings a Knife to a Gunfight?",
-      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
     },
     {
       "added_at": null,

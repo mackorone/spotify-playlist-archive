@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAADmWlX2tP7/1b369rI1hB9c",
+  "snapshot_id": "Z8zaAAAAAADIT6X8GrmozebscxExhYiR",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Alma Abatida (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 276488,
       "name": "A Alma Abatida - Ao Vivo",
       "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 321317,
+      "name": "Deus se Lembra",
+      "url": "https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 321317,
-      "name": "Deus se Lembra",
-      "url": "https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz"
     },
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 328051,
+      "name": "Basta um Olhar",
+      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Nome Santo de Jesus / Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/44SugMMq21GWWpPkgP7c60"
       },
@@ -975,34 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim",
-        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+        "name": "30 Anos na \u00c1frica (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw"
       },
       "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 328051,
-      "name": "Basta um Olhar",
-      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calma, Por favor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Calma, Por favor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb"
+      "duration_ms": 196734,
+      "name": "N\u00e3o \u00c9 Tarde - Ao Vivo",
+      "url": "https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN"
     },
     {
       "added_at": null,
@@ -1027,22 +1031,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Anos na \u00c1frica (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw"
+        "name": "Calma, Por favor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o"
       },
       "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 196734,
-      "name": "N\u00e3o \u00c9 Tarde - Ao Vivo",
-      "url": "https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN"
+      "duration_ms": 245560,
+      "name": "Calma, Por favor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb"
     },
     {
       "added_at": null,

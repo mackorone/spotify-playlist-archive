@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > All your favorite Pixar hits, including Win or Lose, Coco, Turning Red, and The Incredibles, now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,623 likes - 89 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,627 likes - 89 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

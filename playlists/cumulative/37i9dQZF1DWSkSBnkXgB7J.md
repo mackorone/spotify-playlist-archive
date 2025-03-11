@@ -2,7 +2,7 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Djmubarak
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: Lella Fadda
 
 142 songs - 7 hr 34 min
 

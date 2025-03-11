@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 20 hr 12 min
+346 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Sweet Peter](https://open.spotify.com/track/6s0VmlgfeasPS5dFaQ2q18) | [Cyril Ritchard & Chorus](https://open.spotify.com/artist/1jSYHtyZRHcVhvyh7Jh1gL) | [Dearest Enemy](https://open.spotify.com/album/7fuQb6l4iSJSOfHwzq0MYo) | 2:24 | 2024-07-26 |  |
 | [Symphonic Scenario \- 1992 Remastered](https://open.spotify.com/track/3b80F0zGAL0E6rBRo8PrjB) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [More Victory At Sea](https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY) | 10:34 | 2024-07-26 |  |
 | [Symphonic Scenario \- The Melodic Story](https://open.spotify.com/track/5irrOuxdNnjYFD6WfU4hif) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 10:28 | 2024-07-26 |  |
-| [Take Him](https://open.spotify.com/track/5QSLs0y2FlvbU9izgiMuVc) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn \- A Collection](https://open.spotify.com/album/3qY9t7A1S9aYEbiQ14ndM4) | 3:39 | 2024-07-26 |  |
+| [Take Him](https://open.spotify.com/track/4JJvvDbogeINnTM88sfkDe) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Pal Joey](https://open.spotify.com/album/6go0aOcQ4LPiH1w8QR9td5) | 3:39 | 2025-03-10 |  |
+| [Take Him](https://open.spotify.com/track/5QSLs0y2FlvbU9izgiMuVc) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn \- A Collection](https://open.spotify.com/album/3qY9t7A1S9aYEbiQ14ndM4) | 3:39 | 2024-07-26 | 2025-03-11 |
 | [Take The Moment](https://open.spotify.com/track/5tr4Ow4vDOPbcgthT5xp69) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 3:58 | 2024-07-26 |  |
 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 | 2024-07-26 |  |
 | [Ten Cents a Dance](https://open.spotify.com/track/155nF2xARajWKFzkC9CFZe) | [Ruth Etting](https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI) | [Presenting Ruth Etting](https://open.spotify.com/album/6iKxfAv8XHpfVGS2UexOOC) | 3:15 | 2024-07-26 | 2024-12-12 |

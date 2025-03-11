@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,102 likes - 43 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,101 likes - 43 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

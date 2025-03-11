@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 162000,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 269030,
       "name": "Can't Help Loving That Man",
       "url": "https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII"
@@ -6372,7 +6372,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 189905,
       "name": "Mischievous Expression",
       "url": "https://open.spotify.com/track/3f6aNNiWuWx7whrKLxoLeB"
@@ -7820,7 +7820,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 198711,
       "name": "Pearl-button",
       "url": "https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko"
@@ -9331,6 +9331,24 @@
     },
     {
       "album": {
+        "name": "Spring Paid a Short Visit",
+        "url": "https://open.spotify.com/album/60GCumVD5bAKpGG2mYqPeJ"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296691,
+      "name": "Spring Paid a Short Visit",
+      "url": "https://open.spotify.com/track/2gYfOUWuednaWZhnfGr815"
+    },
+    {
+      "album": {
         "name": "Stairway to the Stars",
         "url": "https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE"
       },
@@ -10249,6 +10267,24 @@
     },
     {
       "album": {
+        "name": "The Quiet After",
+        "url": "https://open.spotify.com/album/6wm9Rb7JnBqY9TyBgnEKtx"
+      },
+      "artists": [
+        {
+          "name": "Jamie Wilkis",
+          "url": "https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196726,
+      "name": "The Quiet After",
+      "url": "https://open.spotify.com/track/0ZXIyVbEAZc2nTRoSpjPV3"
+    },
+    {
+      "album": {
         "name": "The surf shirt",
         "url": "https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r"
       },
@@ -10987,6 +11023,24 @@
     },
     {
       "album": {
+        "name": "Veil of Maya",
+        "url": "https://open.spotify.com/album/3tKpySqwHTo52l2Js5IhdV"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227987,
+      "name": "Veil of Maya",
+      "url": "https://open.spotify.com/track/3fJCPSxN4hSK0rkdYBt9N9"
+    },
+    {
+      "album": {
         "name": "Velvet moon",
         "url": "https://open.spotify.com/album/3dCXLtgEvQxmKzda1QeQUu"
       },
@@ -11128,6 +11182,24 @@
       "duration_ms": 234370,
       "name": "Walking talking fields",
       "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
+    },
+    {
+      "album": {
+        "name": "Warm Notes",
+        "url": "https://open.spotify.com/album/7tKHtfNdtZ9Nk2w8FNJjvX"
+      },
+      "artists": [
+        {
+          "name": "Joe Monder",
+          "url": "https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203406,
+      "name": "Warm Notes",
+      "url": "https://open.spotify.com/track/4KixsV6CbfZKk3zqpjjaun"
     },
     {
       "album": {

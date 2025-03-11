@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 48625,
+  "num_followers": 48685,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAC6YbQU2soMgrOCve9UgM3g",
+  "snapshot_id": "Z8zaAAAAAACzb1dDfO4oIi9vOPLt8C/R",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 195228,
-      "name": "They Don\u2019t Make 'Em Like That No More",
-      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 197400,
       "name": "Reel Problems",
       "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 195228,
+      "name": "They Don\u2019t Make 'Em Like That No More",
+      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Jesus And Wranglers",
+      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mid-Twenties Crisis",
         "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 185333,
       "name": "Stick to My Guns (feat. Riley Green)",
       "url": "https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Jesus And Wranglers",
-      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
+      "duration_ms": 230733,
+      "name": "That\u2019s What I\u2019ve Been Told",
+      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 230733,
-      "name": "That\u2019s What I\u2019ve Been Told",
-      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,

@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Zombie Love Kensington Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7) (Bonus Track)",
+      "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
+    },
+    {
+      "album": {
         "name": "Dope Boy",
         "url": "https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe"
       },
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 164074,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"

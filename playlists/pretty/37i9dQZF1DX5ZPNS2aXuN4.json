@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 22368,
+  "num_followers": 22372,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Mikrokosmos Selections",
-        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Georges Solchany",
-          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
-        }
-      ],
-      "duration_ms": 454880,
-      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
-      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion & Celeste",
         "url": "https://open.spotify.com/album/3iR3NtXTjJcSZU7DJk0Y4n"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 413146,
       "name": "Music for Strings, Percussion and Celesta, Sz. 106: 3. Adagio",
       "url": "https://open.spotify.com/track/6I4cQbeV26MtNi42i5nVKI"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Mikrokosmos Selections",
+        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Georges Solchany",
+          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
+        }
+      ],
+      "duration_ms": 454880,
+      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
+      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
     },
     {
       "added_at": "2022-07-01 04:02:00",

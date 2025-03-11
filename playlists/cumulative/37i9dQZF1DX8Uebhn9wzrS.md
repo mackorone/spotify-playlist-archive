@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,259 songs - 3 day 14 hr 7 min
+2,260 songs - 3 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2022-04-15 | 2022-07-08 |
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2022-12-02 | 2024-10-22 |
 | [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-06-24 | 2022-11-19 |
-| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 |  |
+| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 | 2025-03-11 |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-13 | 2022-11-12 |
 | [Bonanza](https://open.spotify.com/track/27cTfNXrA0SfCp1ucqB3Ee) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bonanza](https://open.spotify.com/album/16OmFtl47xkK1ygCXqTTIY) | 2:33 | 2022-09-09 | 2023-01-07 |
 | [Bonsai](https://open.spotify.com/track/0JS2nQBvx8JDpNadPPlqNb) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Bonsai](https://open.spotify.com/album/5zWHDrWb8dBqMyJrebpqMU) | 2:15 | 2023-01-06 | 2023-10-20 |
@@ -491,6 +491,7 @@
 | [Deep Water](https://open.spotify.com/track/7ifY5vAGZ32qT8XBAgKXuM) | [Buve Clouds](https://open.spotify.com/artist/60dVy7kuRrJZvOsFFiMBK9) | [Deep Water](https://open.spotify.com/album/0jneJ2Fl7ChM1x7nwyEHVM) | 2:23 | 2024-02-09 | 2024-04-26 |
 | [Demure](https://open.spotify.com/track/2cJSIbNyza74uZU3OmKdVO) | [Lithe X](https://open.spotify.com/artist/4YjQHRiLaA7cY1osayE74F) | [Demure](https://open.spotify.com/album/1pOBSJLXhnoz44gtKjzZBf) | 2:18 | 2022-04-15 | 2022-05-27 |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2022-04-15 | 2022-05-27 |
+| [Departures](https://open.spotify.com/track/01Umgki1DY4yk49HikSgx7) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Departures](https://open.spotify.com/album/4z4h9zajNER1hQyONGOrrb) | 2:07 | 2025-03-07 |  |
 | [Deploy](https://open.spotify.com/track/2UYDi8xrBMkWhzjLe6phna) | [Gradient Island](https://open.spotify.com/artist/2L6LmEsTHaUiSr1cxjbT0U) | [The Lost Tapes](https://open.spotify.com/album/7vKH3FSTOeST6BdCNorsdy) | 1:27 | 2022-04-15 | 2022-06-10 |
 | [Deux Issues](https://open.spotify.com/track/5rEZbTGUKmxNpfdqaQkd36) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Deux Issues](https://open.spotify.com/album/1JFbMzfDYFX0LrJpfCzipd) | 2:44 | 2023-12-08 |  |
 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 | 2022-05-13 | 2022-11-12 |
@@ -796,7 +797,7 @@
 | [glue](https://open.spotify.com/track/7aql9zPNz3dPHEYpIVMhlz) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [glue](https://open.spotify.com/album/4W12zjKWwHiKG6L6Q3mowJ) | 2:12 | 2024-04-12 | 2024-06-20 |
 | [Glum Look](https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [Glum Look](https://open.spotify.com/album/3D3AYyKxxfxagXU3BiY4aZ) | 1:57 | 2024-11-15 |  |
 | [gm](https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [gm](https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA) | 2:09 | 2022-04-15 | 2022-10-14 |
-| [go back to sleep](https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [go back to sleep](https://open.spotify.com/album/4r7jhko1lglXjcOAm3MNzU) | 1:58 | 2023-03-01 | 2025-03-09 |
+| [go back to sleep](https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [go back to sleep](https://open.spotify.com/album/4r7jhko1lglXjcOAm3MNzU) | 1:58 | 2023-03-01 |  |
 | [Go to sleep](https://open.spotify.com/track/5BjcGj8GGtrnk0E0IGFqvD) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Go to sleep](https://open.spotify.com/album/2KPWKG9c1ZMKVWeGy45oJ5) | 2:24 | 2024-10-11 | 2024-11-16 |
 | [Goemon](https://open.spotify.com/track/7gfFlcWn0kNXi7oqTjkvTe) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Goemon](https://open.spotify.com/album/0GuzjoM2X7sGfV3VWcTduF) | 2:27 | 2023-08-03 | 2023-10-06 |
 | [Goes Around Comes Around](https://open.spotify.com/track/5FAGCFR3IUYJfOC4VCys8b) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Goes Around Comes Around](https://open.spotify.com/album/2wucS65hsTvv8WIVhLTJb1) | 2:31 | 2022-08-19 | 2022-12-17 |
@@ -1672,7 +1673,7 @@
 | [Salve](https://open.spotify.com/track/7sqDho2fqKkHLePm0jTNsh) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Epílogo](https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By) | [Salve](https://open.spotify.com/album/1z6zLfuDNf4nk70lLhrBMc) | 2:43 | 2022-10-28 | 2023-01-20 |
 | [sambas song](https://open.spotify.com/track/6BJM6iNyj2nSKrLGP9w3mA) | [ben buru](https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS) | [sambas song](https://open.spotify.com/album/1dr6yK67Stnx9YaFiF212T) | 1:58 | 2022-04-15 | 2022-10-29 |
 | [Same Cycle Different Day](https://open.spotify.com/track/76vtRLq3IV9aA1UyYXMvbv) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Same Cycle Different Day](https://open.spotify.com/album/0g3qUzGW7J7VioeqxPbYek) | 2:14 | 2022-04-15 | 2022-05-27 |
-| [sands of serenity](https://open.spotify.com/track/5KOQIig3ZU2aSzBOCHTagV) | [valmy](https://open.spotify.com/artist/0NrPS6GV8b5HQHuABNuh7s) | [ancient echoes](https://open.spotify.com/album/5igANgl6Rb0luuSA0gztEE) | 2:08 | 2024-08-23 |  |
+| [sands of serenity](https://open.spotify.com/track/5KOQIig3ZU2aSzBOCHTagV) | [valmy](https://open.spotify.com/artist/0NrPS6GV8b5HQHuABNuh7s) | [ancient echoes](https://open.spotify.com/album/5igANgl6Rb0luuSA0gztEE) | 2:08 | 2024-08-23 | 2025-03-11 |
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-17 |  |
 | [Sandy Feels](https://open.spotify.com/track/4gBuDTT5zCALOr2zJJFTaA) | [Stan Morgley](https://open.spotify.com/artist/0eH6vvgXNKhsU7d862ZArZ) | [Sandy Feels](https://open.spotify.com/album/6xBm6nNdFvYwnO6DXSoowt) | 2:18 | 2022-07-08 |  |
 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 | 2022-04-15 | 2022-09-02 |

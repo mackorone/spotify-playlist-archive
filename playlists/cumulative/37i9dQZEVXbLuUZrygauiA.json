@@ -14046,7 +14046,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -39919,6 +39919,24 @@
     },
     {
       "album": {
+        "name": "Querida Muerte (No Nos Maten)",
+        "url": "https://open.spotify.com/album/39Nz6lqHCSrrEw8VrpiKt9"
+      },
+      "artists": [
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246893,
+      "name": "Querida Muerte (No Nos Maten)",
+      "url": "https://open.spotify.com/track/1CORBIVx4k9t1DQsrxHKIi"
+    },
+    {
+      "album": {
         "name": "Querida Yo",
         "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
       },
@@ -39934,7 +39952,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
@@ -48754,7 +48772,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"

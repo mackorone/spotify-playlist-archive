@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-156 songs - 6 hr 54 min
+157 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Do I Look Good in This?](https://open.spotify.com/track/4G4a0BzzNUoaZRMaxCXwG9) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Bill Baylis](https://open.spotify.com/artist/5YXdwE7D35qR3DybaW7BqB), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Vinyl Remixes](https://open.spotify.com/album/11ULxAltLPaLtFrDm2P2qe) | 3:34 | 2023-01-17 | 2023-01-23 |
 | [Dossier](https://open.spotify.com/track/56dgpEZPKvNet9934593ub) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Hot Wax](https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr) | 2:41 | 2022-05-29 |  |
 | [Eternity](https://open.spotify.com/track/78xcyHVAJbwzksemi1Rjlb) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 4:23 | 2025-02-15 |  |
+| [Expanding Horizons](https://open.spotify.com/track/1UPTvaZ5LGEWXL56DHqUv9) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 3:04 | 2025-03-11 |  |
 | [Explorer](https://open.spotify.com/track/4FmCFp0c86L7F93XlapSzI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Impressions](https://open.spotify.com/album/4txuWPwrvExlcoJuTX0tsK) | 3:26 | 2023-11-10 | 2023-12-14 |
 | [Farewell My Lovely](https://open.spotify.com/track/03akrR9PMvgCWzkFT8vzDs) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRF1: Comedy Situations](https://open.spotify.com/album/4fwtXYpBCCFpiwRWo9D4q4) | 2:56 | 2024-08-18 | 2025-03-09 |
 | [First Affair](https://open.spotify.com/track/3cASj8j2a8tZTmxapSk0Ab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:55 | 2022-06-07 | 2022-10-02 |
@@ -123,7 +124,7 @@
 | [Saturn Rings](https://open.spotify.com/track/77JPdHkaDLrXS1TrIieGnb) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 4:02 | 2024-11-27 |  |
 | [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 |  |
 | [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 |  |
-| [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 |  |
+| [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 | 2025-03-11 |
 | [Sheer Elegance](https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:37 | 2022-05-30 | 2023-07-07 |
 | [Sky](https://open.spotify.com/track/7Jr8CUKxhACgEPSWJJmdJm) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 3:12 | 2025-01-04 | 2025-01-23 |
 | [Sky Train](https://open.spotify.com/track/6YwVCVgTqnoCvcJyDGSxC8) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 2:33 | 2022-05-29 |  |

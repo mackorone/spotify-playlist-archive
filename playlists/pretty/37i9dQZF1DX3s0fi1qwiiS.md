@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > The songs of Detty December 2024 as chosen by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,259 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,257 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 37 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 |
 | 38 | [Pabi Jo \(feat\. Lajere man & DJ DADAMAN\)](https://open.spotify.com/track/0UCv4K0MMGf7OLKAcKYFwR) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Thebuu](https://open.spotify.com/artist/71sePyklre8L4YJuE9Qf7D), [Lajere man](https://open.spotify.com/artist/5H7UcHG42hqQZzkGJ8QqIt), [DJ DADAMAN](https://open.spotify.com/artist/1f5s8gmQ3SgDc6TtlegNkS) | [Pabi Jo \(feat\. Lajere man & DJ DADAMAN\)](https://open.spotify.com/album/13c5bl6tw6GHLgEGdkqU8L) | 5:52 |
 | 39 | [Show You Off](https://open.spotify.com/track/0hVoZp56yvFRmDYq7B7wsI) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Show You Off](https://open.spotify.com/album/3zWCZabaPKAJ3Ku4lRqPzK) | 3:44 |
-| 40 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci \(Deleted\)](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 |
-| 41 | [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 |
+| 40 | [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 |
+| 41 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci \(Deleted\)](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 |
 | 42 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 |
 | 43 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 |
 | 44 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "All My Time",
+        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
+    },
+    {
+      "album": {
         "name": "OBSERVATIONS FROM A CROWDED ROOM",
         "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },

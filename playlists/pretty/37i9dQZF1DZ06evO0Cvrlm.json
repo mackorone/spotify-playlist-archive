@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 582715,
+  "num_followers": 582743,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAADxI8DJrWDl13BCDEXvTktC",
+  "snapshot_id": "Z8zaAAAAAAAyqopYVNH9znjsJlMg4KW9",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Heal the Pain - Remastered",
-      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
+      "duration_ms": 318804,
+      "name": "I Can't Make You Love Me - Studio Version",
+      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 318804,
-      "name": "I Can't Make You Love Me - Studio Version",
-      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
+      "duration_ms": 280000,
+      "name": "Heal the Pain - Remastered",
+      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 333106,
       "name": "Older",
       "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 434733,
-      "name": "Cowboys and Angels - Remastered",
-      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 201135,
       "name": "Desafinado (with Astrud Gilberto)",
       "url": "https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 434733,
+      "name": "Cowboys and Angels - Remastered",
+      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
     },
     {
       "added_at": null,

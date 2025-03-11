@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,206 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,258 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 14 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 |
 | 15 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 |
 | 16 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
-| 17 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
-| 18 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
-| 19 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
-| 20 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
+| 17 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
+| 18 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
+| 19 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
+| 20 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
 | 21 | [Straight From Holland](https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Straight From Holland](https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH) | 2:01 |
 | 22 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 | 23 | [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 220197,
+  "num_followers": 220232,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAACxBjW9nqgibpn1XhvXH2pp",
+  "snapshot_id": "Z8zaAAAAAABns+b37lcvcBTI/WpNQC4t",
   "tracks": [
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "El Regreso Del Chapo (En Vivo)",
+      "url": "https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Zapopan (En Vivo)",
-        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "El Regreso Del Chapo (En Vivo)",
-      "url": "https://open.spotify.com/track/6xZAySvBgmVOzyh5Owf79F"
     },
     {
       "added_at": null,

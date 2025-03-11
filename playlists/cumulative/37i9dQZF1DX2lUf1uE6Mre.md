@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Azet
 
-200 songs - 8 hr 27 min
+201 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Did You See \(feat\. Jazeek\)](https://open.spotify.com/track/5z1ohvvWduu1jRfiz9IPzU) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Did You See \(feat\. Jazeek\)](https://open.spotify.com/album/0R3TxAtqNe52zRMgvXBskY) | 2:14 | 2024-12-09 |  |
 | [DILEMIN](https://open.spotify.com/track/2dARGs50kBX5FKi3oCivIQ) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [DILEMIN](https://open.spotify.com/album/5AAUlDsNabwWAHMSnRQdOv) | 2:11 | 2024-08-26 | 2024-12-17 |
 | [Dima Maghreb](https://open.spotify.com/track/41cbFeRwd5zCj2HqYIMeT1) | [Kolja Goldstein](https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm), [Dú Maroc](https://open.spotify.com/artist/2s0YBNTlWf61tFJwKderGS), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Dima Maghreb](https://open.spotify.com/album/56hyCpPTeMIcXgcgssMN46) | 2:23 | 2024-07-04 | 2024-08-13 |
-| [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 |  |
+| [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-03-11 |
 | [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 | 2025-01-16 |  |
 | [Durch die Nacht](https://open.spotify.com/track/2SOJytsIuNLOG49osyWLRd) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Durch die Nacht](https://open.spotify.com/album/1p8BJWQQDUAwSkUA38lwuU) | 2:39 | 2024-09-09 | 2024-11-19 |
 | [Egal](https://open.spotify.com/track/6zF5LE8eK9Bf98UwLVe8Du) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Egal](https://open.spotify.com/album/6ITpDSZZKmZejmS4EPMqPW) | 2:59 | 2024-06-28 |  |
@@ -118,6 +118,7 @@
 | [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/2mnkgopUgJq09Na8JXgMIh) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:37 | 2024-06-28 | 2024-07-27 |
 | [Lüg mich an](https://open.spotify.com/track/2lckikJBGAkGIXXq6ZPjsr) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Lüg mich an](https://open.spotify.com/album/0UDrrbfUvIRsVIYrPGhwI5) | 2:44 | 2024-06-28 | 2024-07-27 |
 | [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-07 |  |
+| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-10 |  |
 | [Ma Boo](https://open.spotify.com/track/7igSh4nWYQqmv94rIma7eh) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [Ma Boo](https://open.spotify.com/album/25Czgzhkp0nUcH5GGPgqEP) | 2:11 | 2024-06-28 | 2024-07-05 |
 | [Ma Jolie](https://open.spotify.com/track/38kmnVWMW8h5GpnRgNQueB) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [CALI](https://open.spotify.com/artist/4UXV9jTkL3Iqg1n5kJf4p3), [Kenan](https://open.spotify.com/artist/3iNULJ7Pzkesh8xo72Xy9e), [Infinit](https://open.spotify.com/artist/3VDh3hIeQKMHrBKDG9oCwj) | [Ma Jolie](https://open.spotify.com/album/3LRbbCBxWsfsG0bcC8iGgn) | 2:32 | 2024-06-28 |  |
 | [Macarena](https://open.spotify.com/track/5I9uCUKoWayvzs2y7ZRqSV) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Macarena](https://open.spotify.com/album/6UyzuEIaY0nGAYVEN0E4p2) | 2:48 | 2024-06-28 | 2024-07-05 |

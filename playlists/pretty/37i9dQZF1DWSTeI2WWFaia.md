@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,503 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,490 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 31 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
 | 32 | [BOSWELL](https://open.spotify.com/track/5uFAi57aZcH5eHexBEcmxn) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 5:05 |
 | 33 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
-| 34 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |
-| 35 | [Dream Machines \(feat\. Premo Rice\)](https://open.spotify.com/track/52OWbKRXd7VqIOwKRAeVne) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [Dream Machines \(feat\. Premo Rice\)](https://open.spotify.com/album/5qSD0s1LDaQN3vRsmzzw0v) | 2:24 |
+| 34 | [Dream Machines \(feat\. Premo Rice\)](https://open.spotify.com/track/52OWbKRXd7VqIOwKRAeVne) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [Dream Machines \(feat\. Premo Rice\)](https://open.spotify.com/album/5qSD0s1LDaQN3vRsmzzw0v) | 2:24 |
+| 35 | [MARiO COINS](https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [MARiO COINS](https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g) | 2:05 |
 | 36 | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/album/78sjCz3km5DH9G99u8VnOi) | 3:14 |
 | 37 | [How to Impress God](https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [How to Impress God](https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs) | 3:13 |
 | 38 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |

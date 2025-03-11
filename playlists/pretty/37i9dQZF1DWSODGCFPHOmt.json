@@ -551,6 +551,22 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Navidad Sin Ti - Live",
+      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 156499,
       "name": "Amarga navidad (Ranchera)",
       "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
-        "name": "La Diva en Vivo",
-        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Navidad Sin Ti - Live",
-      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Rodolfo El Reno",
-        "url": "https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ"
+        "name": "Manantial en la Arena",
+        "url": "https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
         }
       ],
-      "duration_ms": 207766,
-      "name": "Rodolfo El Reno",
-      "url": "https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W"
+      "duration_ms": 239360,
+      "name": "Manantial en la Arena",
+      "url": "https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Manantial en la Arena",
-        "url": "https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U"
+        "name": "Rodolfo El Reno",
+        "url": "https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ"
       },
       "artists": [
         {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Manantial en la Arena",
-      "url": "https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE"
+      "duration_ms": 207766,
+      "name": "Rodolfo El Reno",
+      "url": "https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 239547,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Solo En Navidad",
         "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 211875,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/0vEcUGQpgokC7acuPUwRvp"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 239547,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Oye Santa Claus",
-      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
         "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
         "name": "Otra Navidad Sin Ti",
         "url": "https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 257586,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Alrededor del \u00c1rbol de Navidad",
-        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Alrededor del \u00c1rbol de Navidad",
-      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "A\u00f1o Con A\u00f1o",
         "url": "https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul"
       },
@@ -1067,6 +1035,22 @@
       "duration_ms": 233864,
       "name": "A\u00f1o Con A\u00f1o",
       "url": "https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Alrededor del \u00c1rbol de Navidad",
+        "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "Alrededor del \u00c1rbol de Navidad",
+      "url": "https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1091,6 +1075,22 @@
       "duration_ms": 231916,
       "name": "El Burrito Sabanero",
       "url": "https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
-      },
-      "artists": [
-        {
-          "name": "Banda Fortuna",
-          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Alma Navide\u00f1a",
         "url": "https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 243290,
       "name": "Alma Navide\u00f1a",
       "url": "https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
+      },
+      "artists": [
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
+        "name": "Una Colecci\u00f3n Inolvidable: Todo en Vivo",
+        "url": "https://open.spotify.com/album/0N0wpn2LvFq06i3JJdKN9p"
+      },
+      "artists": [
+        {
+          "name": "Chava Flores",
+          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "Posadas Mexicanas",
+      "url": "https://open.spotify.com/track/15Q9CzBrm9jHismYFjuVKk"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
         "name": "El Pasado (Feat. Nab\u00e1lez, Los Nietos De Ter\u00e1n, Grace Guill\u00e9n, Randy Ortiz, Kevin Apolo)",
         "url": "https://open.spotify.com/album/7Kgewkz5TPdZo4NQpD2fvJ"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 176613,
       "name": "El Pasado (Feat. Nab\u00e1lez, Los Nietos De Ter\u00e1n, Grace Guill\u00e9n, Randy Ortiz, Kevin Apolo)",
       "url": "https://open.spotify.com/track/2ENAB9Rfh8hmtp6awBInxS"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
-        "name": "Una Colecci\u00f3n Inolvidable: Todo en Vivo",
-        "url": "https://open.spotify.com/album/0N0wpn2LvFq06i3JJdKN9p"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores",
-          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "Posadas Mexicanas",
-      "url": "https://open.spotify.com/track/15Q9CzBrm9jHismYFjuVKk"
     },
     {
       "added_at": "2024-12-10 00:44:14",

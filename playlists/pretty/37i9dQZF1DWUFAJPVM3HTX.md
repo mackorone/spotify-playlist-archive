@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P?si=koScYubOSDSiZW45iPakNg"> Michi</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,217 likes - 241 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,272 likes - 241 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

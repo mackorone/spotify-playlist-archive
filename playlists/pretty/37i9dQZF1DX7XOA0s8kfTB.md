@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,838 likes - 31 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,875 likes - 31 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [闇に溶けてく](https://open.spotify.com/track/7MulwnmYzazj40HaMgI9aP) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 2:41 |
-| 2 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 |
-| 3 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
-| 4 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 |
-| 5 | [声なき魚 \- 新川崎（仮）](https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [声なき魚 \(新川崎（仮）\)](https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD) | 3:00 |
-| 6 | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/track/3Gl3gfLfll4OqTvcdj8BfB) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/album/5N26EVvRXe1T7uZTpnpTjr) | 3:24 |
-| 7 | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/track/35ngbRAZzlyKxFwrt119nE) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza) | 0:28 |
-| 8 | [視界の隅 朽ちる音 \- 新川崎（仮）](https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [視界の隅 朽ちる音 \(新川崎（仮）\)](https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs) | 3:08 |
-| 9 | [心象的フラクタル \- beni\-shouga](https://open.spotify.com/track/0D93yzeKsimKoXc9mEH6tI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [心象的フラクタル \(beni\-shouga\)](https://open.spotify.com/album/1FJLaCFfCGQaBNgqERAcQg) | 2:58 |
-| 10 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/6JwFqtk5jSHRBHGRSzX6CM) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/20JhoowvZq72C43DxuBJR3) | 1:15 |
-| 11 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:08 |
-| 12 | [Cycle Of Sorrow](https://open.spotify.com/track/4kR9zodYDyqbcAMZ4Uiebq) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [Cycle Of Sorrow](https://open.spotify.com/album/2G9pjJF2gef8yjybCckRxy) | 3:18 |
-| 13 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/4KEz9VT2ha1i3Q7SRvC21N) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/4q3FUCzGgofVJu1kUPcACF) | 0:33 |
-| 14 | [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 |
-| 15 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/2QbF1CwuvDNSZy3LR0ZbIg) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/39hFw1VeEbgYc5x9ExNGcT) | 0:20 |
-| 16 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 |
-| 17 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 |
+| 1 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
+| 2 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 |
+| 3 | [声なき魚 \- 新川崎（仮）](https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [声なき魚 \(新川崎（仮）\)](https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD) | 3:00 |
+| 4 | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/track/3Gl3gfLfll4OqTvcdj8BfB) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/album/5N26EVvRXe1T7uZTpnpTjr) | 3:24 |
+| 5 | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/track/35ngbRAZzlyKxFwrt119nE) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza) | 0:28 |
+| 6 | [視界の隅 朽ちる音 \- 新川崎（仮）](https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [視界の隅 朽ちる音 \(新川崎（仮）\)](https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs) | 3:08 |
+| 7 | [心象的フラクタル \- beni\-shouga](https://open.spotify.com/track/0D93yzeKsimKoXc9mEH6tI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [心象的フラクタル \(beni\-shouga\)](https://open.spotify.com/album/1FJLaCFfCGQaBNgqERAcQg) | 2:58 |
+| 8 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/6JwFqtk5jSHRBHGRSzX6CM) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/20JhoowvZq72C43DxuBJR3) | 1:15 |
+| 9 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:08 |
+| 10 | [Cycle Of Sorrow](https://open.spotify.com/track/4kR9zodYDyqbcAMZ4Uiebq) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [Cycle Of Sorrow](https://open.spotify.com/album/2G9pjJF2gef8yjybCckRxy) | 3:18 |
+| 11 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/4KEz9VT2ha1i3Q7SRvC21N) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/4q3FUCzGgofVJu1kUPcACF) | 0:33 |
+| 12 | [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 |
+| 13 | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/2QbF1CwuvDNSZy3LR0ZbIg) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/39hFw1VeEbgYc5x9ExNGcT) | 0:20 |
+| 14 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 |
+| 15 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 |
+| 16 | [闇に溶けてく](https://open.spotify.com/track/7MulwnmYzazj40HaMgI9aP) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 2:41 |
+| 17 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 |
 | 18 | [Vo\. 井芹 仁菜 ボイスメッセージ](https://open.spotify.com/track/3TXOno2ekRTwZR39KrmvSF) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Vo\. 井芹 仁菜 ボイスメッセージ](https://open.spotify.com/album/0Ir9TfyqxdDeIXDnYszTUh) | 1:10 |
 | 19 | [偽りの理](https://open.spotify.com/track/0utotNyTQgcj3ryT8FuAVu) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [偽りの理](https://open.spotify.com/album/20nzrK1EPA0yAzHm8GMfj7) | 3:09 |
 | 20 | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf) | 1:10 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 | 30 | [運命に賭けたい論理](https://open.spotify.com/track/5HXSZoSZuivD65nPk7POH0) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命に賭けたい論理](https://open.spotify.com/album/2O18JMMWL9S389Sw5tXiyn) | 3:15 |
 | 31 | [サヨナラサヨナラサヨナラ](https://open.spotify.com/track/3OCcXnMn1lOwJtsOwbzEsN) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [サヨナラサヨナラサヨナラ](https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0) | 2:35 |
 
-Snapshot ID: `Z5PN6AAAAACoYfUvvXKfxFSe6K+Tlf4e`
+Snapshot ID: `Z87+gAAAAACVBha3vJWf4bxC3nTlVfGx`

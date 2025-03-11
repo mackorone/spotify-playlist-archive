@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-171 songs - 7 hr 53 min
+173 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2023-11-20 | 2024-04-19 |
 | [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2023-11-20 | 2024-12-15 |
 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2023-11-20 | 2024-04-23 |
+| [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2025-03-11 |  |
 | [Apples And Bananas](https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Apples And Bananas](https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE) | 1:31 | 2023-11-20 | 2024-01-30 |
 | [At Least Give Me My Dreams Back, You Negligent Whore!](https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Another Year of Disaster](https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6) | 5:11 | 2023-11-20 | 2024-04-19 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-11-20 |  |
@@ -37,6 +38,7 @@
 | [Bergamo](https://open.spotify.com/track/1bHXbuM7CqRCSn5Zg1knnZ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Bergamo](https://open.spotify.com/album/6jSSjJeFpsaMNP2uVrsgBC) | 2:06 | 2023-12-25 | 2024-01-25 |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2024-11-18 | 2024-12-10 |
 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-12-04 |  |
+| [Break My Heart, Love](https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:57 | 2025-03-11 |  |
 | [Cassiopeia](https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Cassiopeia](https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18) | 2:48 | 2024-04-08 | 2025-01-12 |
 | [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2024-11-04 |  |
 | [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 | 2024-11-04 |  |
@@ -54,12 +56,12 @@
 | [Endless Time](https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl) | [Roberto Cacciapaglia](https://open.spotify.com/artist/359LKbZWLk6u3IpyNE2CQG) | [Atlas \- Cacciapaglia Collection](https://open.spotify.com/album/6kBgAkLt5i8vMEK26SP17X) | 3:14 | 2023-11-20 | 2024-04-19 |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2023-11-20 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2023-11-20 | 2024-04-24 |
-| [Evening Message](https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 3:44 | 2024-07-29 |  |
+| [Evening Message](https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 3:44 | 2024-07-29 | 2025-03-11 |
 | [Feathers](https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 2:52 | 2023-11-20 |  |
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2024-01-15 |  |
 | [follow me home](https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:16 | 2024-05-27 | 2025-02-18 |
 | [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2024-01-29 | 2024-07-30 |
-| [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2023-11-20 |  |
+| [Forget](https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:17 | 2023-11-20 | 2025-03-11 |
 | [Friendship.](https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Friendship.](https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj) | 1:31 | 2023-11-20 | 2024-09-23 |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2023-11-20 | 2024-10-15 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-11-20 |  |
@@ -71,7 +73,7 @@
 | [Happy Thoughts](https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [Happy Thoughts](https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq) | 1:48 | 2023-11-20 | 2024-04-28 |
 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 | 2023-11-20 |  |
 | [Home](https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS) | [Joanna Vicente](https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv) | [Home](https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk) | 1:47 | 2023-11-20 | 2024-06-04 |
-| [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 | 2025-02-25 |
+| [Home](https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH) | [Serenity for Sleep](https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV) | [Home](https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr) | 4:42 | 2023-11-20 |  |
 | [Homecoming](https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Homecoming](https://open.spotify.com/album/6pjjILmogmek6JQtcFyMIP) | 2:32 | 2024-09-23 | 2024-12-21 |
 | [I See the Light \- From "Tangled"](https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [I See the Light \- From "Tangled"](https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0) | 3:20 | 2023-11-20 |  |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2023-11-20 |  |
@@ -171,7 +173,7 @@
 | [Variante Alta](https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Variante Alta](https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K) | 3:52 | 2024-05-27 |  |
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2023-11-20 | 2024-04-19 |
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2023-11-20 |  |
-| [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 |  |
+| [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 | 2025-03-11 |
 | [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2024-02-12 | 2024-05-23 |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2023-11-20 | 2024-11-01 |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2023-11-20 |  |

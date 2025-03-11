@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 430579,
+  "num_followers": 430660,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
         "name": "Sou Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 275110,
       "name": "Sou Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
-        "name": "Como Nunca Antes",
-        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "Como Nunca Antes",
-      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Jesus \u00e9 o Caminho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
         "name": "Aba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
-        "name": "Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Jesus \u00e9 o Caminho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
         "name": "Profeta da Esperan\u00e7a",
         "url": "https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 280125,
       "name": "Vou Deixar na Cruz",
       "url": "https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -931,6 +931,22 @@
       "duration_ms": 281240,
       "name": "Sobrevivi",
       "url": "https://open.spotify.com/track/6uiPCZIIdtfVCjuh7NUTiM"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
+        "name": "Aos P\u00e9s da Cruz",
+        "url": "https://open.spotify.com/album/1ZkYnMRXuCh6GigjaGeBI4"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 244924,
+      "name": "Aos P\u00e9s da Cruz",
+      "url": "https://open.spotify.com/track/6MH2UdjbDRXLmOcnSJAJuE"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Aos P\u00e9s da Cruz",
-        "url": "https://open.spotify.com/album/1ZkYnMRXuCh6GigjaGeBI4"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 244924,
-      "name": "Aos P\u00e9s da Cruz",
-      "url": "https://open.spotify.com/track/6MH2UdjbDRXLmOcnSJAJuE"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Cassiane - Gospel Collection Ao Vivo",
-        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 382014,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
         "name": "Maranata",
         "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+        "name": "Cassiane - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 295360,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+      "duration_ms": 382014,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
     },
     {
       "added_at": "2025-03-07 03:01:16",
@@ -1223,6 +1207,22 @@
       "duration_ms": 202398,
       "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
       "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": "2025-03-07 03:01:16",

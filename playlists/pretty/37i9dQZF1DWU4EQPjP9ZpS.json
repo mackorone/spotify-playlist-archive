@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 323763,
+  "num_followers": 323818,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Music in the Air",
+        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
+          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Akaiwa 1985",
+      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "World Class",
         "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 145086,
       "name": "Strut (\u732b \u30b7 Corp. Remix)",
       "url": "https://open.spotify.com/track/4RmXxnrXEkHVpWwspMF8iv"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Music in the Air",
-        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
-      },
-      "artists": [
-        {
-          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
-          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
-        }
-      ],
-      "duration_ms": 142806,
-      "name": "Akaiwa 1985",
-      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Tropics 1",
         "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 208831,
       "name": "Oso",
       "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fire Magic",
-        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Fire Magic",
-      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fire Magic",
+        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Fire Magic",
+      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "CasaBlanca",
-        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
-        }
-      ],
-      "duration_ms": 183371,
-      "name": "CasaBlanca",
-      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Floppy Disk Prism",
         "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 164400,
       "name": "Floppy Disk Prism",
       "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "CasaBlanca",
+        "url": "https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+        }
+      ],
+      "duration_ms": 183371,
+      "name": "CasaBlanca",
+      "url": "https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "You're no one",
+        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
+      },
+      "artists": [
+        {
+          "name": "Somburd",
+          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "You're no one",
+      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
       },
@@ -1523,6 +1539,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
+        }
+      ],
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
       },
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You're no one",
-        "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
-      },
-      "artists": [
-        {
-          "name": "Somburd",
-          "url": "https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "You're no one",
-      "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 375876,
       "name": "Surfer Girl",
       "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Polygon Paradise",
-        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
-      },
-      "artists": [
-        {
-          "name": "Vaporwave Club",
-          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Monogon",
-      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Glass Prism",
-        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 210895,
-      "name": "Glass Prism",
-      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Electric Elevator 2: Second Floor",
-        "url": "https://open.spotify.com/album/15uhjGCpE6oXgUFZSOPtkp"
+        "name": "Glass Prism",
+        "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 182968,
-      "name": "Home Office",
-      "url": "https://open.spotify.com/track/4IiBBXXJEDmuv4Gn3PDjNB"
+      "duration_ms": 210895,
+      "name": "Glass Prism",
+      "url": "https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1679,6 +1663,22 @@
       "duration_ms": 238213,
       "name": "True Cyan",
       "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Electric Elevator 2: Second Floor",
+        "url": "https://open.spotify.com/album/15uhjGCpE6oXgUFZSOPtkp"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 182968,
+      "name": "Home Office",
+      "url": "https://open.spotify.com/track/4IiBBXXJEDmuv4Gn3PDjNB"
     },
     {
       "added_at": "2023-07-18 02:19:19",

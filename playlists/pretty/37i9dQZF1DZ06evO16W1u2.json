@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2714,
+  "num_followers": 2715,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAAB1I/FeszJFYh+UMuVjO9o4",
+  "snapshot_id": "Z8zaAAAAAAB8Dhr4sZWmIDCP/7gxiBzf",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Ag\u00fcita Pa'l Calor",
-      "url": "https://open.spotify.com/track/0rSNxNPMkzDx1gByZqS9c9"
+      "duration_ms": 214204,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/2HllS5tk38hZpbk1Rf94M5"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/2HllS5tk38hZpbk1Rf94M5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cr\u00eda",
         "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
       },
@@ -472,9 +456,25 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Todo Lo Que Quiero",
-      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
+      "duration_ms": 169320,
+      "name": "Ag\u00fcita Pa'l Calor",
+      "url": "https://open.spotify.com/track/0rSNxNPMkzDx1gByZqS9c9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 184732,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 184732,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cr\u00eda",
         "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
       },
@@ -536,25 +520,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 191306,
-      "name": "No Es Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 218122,
-      "name": "Ventana",
-      "url": "https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR"
+      "duration_ms": 243040,
+      "name": "Todo Lo Que Quiero",
+      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
     },
     {
       "added_at": null,
@@ -571,6 +539,22 @@
       "duration_ms": 291173,
       "name": "M\u00f3nica",
       "url": "https://open.spotify.com/track/1eU86kHbVXWop774OQRKfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Ventana",
+      "url": "https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR"
     },
     {
       "added_at": null,
@@ -600,45 +584,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 122066,
-      "name": "Dec\u00edas",
-      "url": "https://open.spotify.com/track/72aA9sJbHNNsjqDF7uzR5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 154555,
-      "name": "No Puedes Olvidarme",
-      "url": "https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestra Cumbia",
-        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
-      },
-      "artists": [
-        {
-          "name": "Lucho Paz",
-          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
-        },
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Tu Amor Fue Una Mentira",
-      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
+      "duration_ms": 191306,
+      "name": "No Es Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
     },
     {
       "added_at": null,
@@ -699,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
       },
       "artists": [
         {
@@ -708,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 238080,
-      "name": "Dicen Que el Viento",
-      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
+      "duration_ms": 154555,
+      "name": "No Puedes Olvidarme",
+      "url": "https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM"
     },
     {
       "added_at": null,
@@ -731,6 +679,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "Dec\u00edas",
+      "url": "https://open.spotify.com/track/72aA9sJbHNNsjqDF7uzR5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Cumbia",
+        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
+      },
+      "artists": [
+        {
+          "name": "Lucho Paz",
+          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
+        },
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Tu Amor Fue Una Mentira",
+      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 278186,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi"
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
     },
     {
       "added_at": null,
@@ -772,15 +756,15 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 217106,
-      "name": "Apago la Luz",
-      "url": "https://open.spotify.com/track/6MeZ1xweBv7AoaURo1z70c"
+      "duration_ms": 238080,
+      "name": "Dicen Que el Viento",
+      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+      "duration_ms": 278186,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 179463,
       "name": "\u00a1Vamos a Volver!",
       "url": "https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Apago la Luz",
+      "url": "https://open.spotify.com/track/6MeZ1xweBv7AoaURo1z70c"
     },
     {
       "added_at": null,

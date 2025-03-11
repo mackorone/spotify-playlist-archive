@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,032 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,060 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

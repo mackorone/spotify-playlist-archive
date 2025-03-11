@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 152144,
+  "num_followers": 152210,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 292933,
-      "name": "Rush Rush",
-      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 300106,
       "name": "The Lady in My Life",
       "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Karyn White",
         "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -607,18 +623,18 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -635,22 +651,6 @@
       "duration_ms": 352586,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -771,34 +755,18 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Extension of a Man",
-        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -819,6 +787,22 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Extension of a Man",
+        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -855,6 +839,22 @@
       "duration_ms": 177786,
       "name": "Stop, Look, Listen (To Your Heart)",
       "url": "https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "The Songstress",
+        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "Ask Rufus",
         "url": "https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 288373,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "The Songstress",
-        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "Cl\u00e1udio Zoli",
         "url": "https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 287933,
       "name": "Running In And Out Of My Life",
       "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Naughty",
-        "url": "https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Lew Hahn",
-          "url": "https://open.spotify.com/artist/3Rcc1RUbd3iOAmcQ9ZpFpr"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Move Me No Mountain",
-      "url": "https://open.spotify.com/track/7igkVvaYEmQ5EEbRzYsJIy"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "The Love Songs Collection",
         "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
       },
@@ -1627,6 +1607,26 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/0LPZFn25Bxg4zIT47SYVNC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Lew Hahn",
+          "url": "https://open.spotify.com/artist/3Rcc1RUbd3iOAmcQ9ZpFpr"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Move Me No Mountain",
+      "url": "https://open.spotify.com/track/7igkVvaYEmQ5EEbRzYsJIy"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
       },
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
       "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
         {
           "name": "Chaka Khan",
           "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Stronger Than Before",
-      "url": "https://open.spotify.com/track/4Xt62tjE20m3ATFv9zXrgi"
+      "duration_ms": 208466,
+      "name": "Sweet Thing - Live Version",
+      "url": "https://open.spotify.com/track/0pri9hL20P6wbjUtVB0Stt"
     }
   ],
   "unique_name": "Melodia & Nostalgia",

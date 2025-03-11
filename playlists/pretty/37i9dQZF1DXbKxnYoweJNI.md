@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: wannasleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,418 likes - 121 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,417 likes - 121 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [她不在乎](https://open.spotify.com/track/4JLNOiBeefaKbySX537yNp) | [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x) | [她不在乎](https://open.spotify.com/album/6vBEOXFzLeEGdlMOXNdcLd) | 3:04 |
-| 2 | [科幻小說](https://open.spotify.com/track/416Z4twQflY6NmXtxI013g) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:56 |
+| 2 | [科幻小說 \(prod\. by Sōryo\)](https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:＊\- 合作的秘密](https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb) | 3:13 |
 | 3 | [珠寶行](https://open.spotify.com/track/0Llg1rG1U7IwAcJewatHLY) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [珠寶行](https://open.spotify.com/album/167sHzAI1pwuvezo5sesIe) | 3:24 |
 | 4 | [ALL I DO IS RAP](https://open.spotify.com/track/3ZsSgqfPK7beacTNv3QizV) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [ALL I DO IS RAP](https://open.spotify.com/album/0YQB02e0Chr2PfP5UB6rFt) | 3:07 |
 | 5 | [與水](https://open.spotify.com/track/1yhraZ2PfK38D1vfckoiXS) | [工口紳士](https://open.spotify.com/artist/2fLLbY6QK6IhUejfsdaJ5g) | [與水](https://open.spotify.com/album/2atrdqKLfD8Xdl9Ashxlbm) | 3:43 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 102 | [Lost Time](https://open.spotify.com/track/1bThZhm2akeBSGfU8uMs2C) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [Nox Black](https://open.spotify.com/artist/171qMbVQUO0CUAyHpu5czM), [Jay Dub](https://open.spotify.com/artist/7G8Q8aHa6vXc654WkqlpqU) | [Lost Time](https://open.spotify.com/album/5FMpcNRLGTOXePwfy0Zmc3) | 3:36 |
 | 103 | [沒有人會為了我改變 \(電影《夜校女生》主題曲\)](https://open.spotify.com/track/4MF3LAE3RNK19S9w5Y8M6a) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [沒有人會為了我改變](https://open.spotify.com/album/0pMtn6FSzOhvPaIrFFhWL4) | 5:11 |
 | 104 | [和立栢Peh山記](https://open.spotify.com/track/66nS19LZbFh9vhjselyRxt) | [余佩真](https://open.spotify.com/artist/6DHgvg8leMhBE7itUz8LgN) | [和立栢Peh山記](https://open.spotify.com/album/18ij0Oc3lPlPLPzDMKkudF) | 7:48 |
-| 105 | [FINAL FINAL FINAL](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [FINAL FINAL FINAL](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 |
+| 105 | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 |
 | 106 | [UP2U](https://open.spotify.com/track/4zzMwtJcwkeN3kefpHAWJ0) | [葵剛](https://open.spotify.com/artist/4PkgPEUiVANZ1A6B78cMQe) | [UP2U](https://open.spotify.com/album/19t76fX5fuoZJjKPbTFf2r) | 3:50 |
 | 107 | [Ghost](https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [Ghost](https://open.spotify.com/album/2TYDqjnlad15lj4PT1CUib) | 5:27 |
 | 108 | [我們的天空](https://open.spotify.com/track/6YTngcj4Gaewz4VEqvEHLZ) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [我們的天空](https://open.spotify.com/album/4fDDAsNRz7QmGlhLPlQIgh) | 2:47 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 120 | [快樂的形狀](https://open.spotify.com/track/5UQAH7sV6tZdk9W8A9uCRW) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [快樂的形狀](https://open.spotify.com/album/2435Ldds4GOcZNhn1QRp0U) | 5:10 |
 | 121 | [你說你想像我](https://open.spotify.com/track/1walcYcLTcxYK6eRt9oyT5) | [Easy Shen](https://open.spotify.com/artist/0yYFpv3iXct184NjO7SCts), [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem), [凌子璿](https://open.spotify.com/artist/3JkULwIpvPPywQXtug8Ofb), [陳宜楷](https://open.spotify.com/artist/3zahr8Yln5N8aJth88iYKD) | [你說你想像我](https://open.spotify.com/album/6JPDcdA8naBGl6eL2IK4dS) | 4:11 |
 
-Snapshot ID: `Z8nGoAAAAABxit3qpEsrOwDk00KgANj3`
+Snapshot ID: `Z86LfQAAAABbM2SiWHkd2RvR38Ft32MJ`

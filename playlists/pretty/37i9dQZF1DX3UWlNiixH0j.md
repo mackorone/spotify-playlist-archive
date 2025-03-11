@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 君島大空
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,059 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,064 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 46 | [走れ、ロマンス1号](https://open.spotify.com/track/6b97xQBSCinGFNJ5PpXDam) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [走れ、ロマンス1号](https://open.spotify.com/album/4b7gnsLniYOtUe509iovFS) | 3:25 |
 | 47 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 |
 | 48 | [グッド・バイ](https://open.spotify.com/track/5dpKo3gR5CnJ7d8ookkPDz) | [芝岡翔梧](https://open.spotify.com/artist/3mmLxRZUem9RCaW5xoLJcT) | [グッド・バイ](https://open.spotify.com/album/6fwieGfBGpAHYx9jJ8rEKN) | 4:25 |
-| 49 | [CAT IS LOVE](https://open.spotify.com/track/4CvS9dLrcfBF0E855gPLGT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [CAT IS LOVE](https://open.spotify.com/album/3XxOVfqOvdss6NRaHNhf5R) | 4:29 |
-| 50 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 |
+| 49 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 |
+| 50 | [CAT IS LOVE](https://open.spotify.com/track/4CvS9dLrcfBF0E855gPLGT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [CAT IS LOVE](https://open.spotify.com/album/3XxOVfqOvdss6NRaHNhf5R) | 4:29 |
 | 51 | [Warumono](https://open.spotify.com/track/5RsCECjqGekDQvFbbxz5zg) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [内なる惑星](https://open.spotify.com/album/75LAVq4NjYN5z0zjNCPTkH) | 4:01 |
 | 52 | [地獄先生](https://open.spotify.com/track/3iiqVGKDfyAjLeav3DY0kJ) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [地獄先生](https://open.spotify.com/album/7hS9kKAhLr94LmbTkGgSC2) | 3:11 |
-| 53 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 |
-| 54 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 53 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 54 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 |
 | 55 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
 | 56 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
 | 57 | [Whenever, Whatever](https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [In Your Languages](https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE) | 4:56 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 61 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
 | 62 | [WANI Remix \(feat\. BANNY BUGS, Skaai\)](https://open.spotify.com/track/30deyVHXDYgUDjhnu9j6Nn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WANI EP](https://open.spotify.com/album/3EUOQSlZQxnqCMS2xVBl92) | 2:22 |
 | 63 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
-| 64 | [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 |
-| 65 | [Karakara](https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Karakara](https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH) | 2:17 |
-| 66 | [sober](https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [sober](https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr) | 3:56 |
-| 67 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 |
+| 64 | [Karakara](https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Karakara](https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH) | 2:17 |
+| 65 | [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 |
+| 66 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 |
+| 67 | [sober](https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [sober](https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr) | 3:56 |
 | 68 | [Ollie\(巡礼する季語\) \- in the blue shirt × ゴリラ祭ーズRemix](https://open.spotify.com/track/7KQykntmTM1640xmD1vAPh) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [ゴリラ祭ーズ](https://open.spotify.com/artist/6nXR6jeBjk99NlMJ1DvXph), [in the blue shirt](https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE) | [Ollie\(巡礼する季語\) \[in the blue shirt × ゴリラ祭ーズRemix\]](https://open.spotify.com/album/6xJD78kXyFTcXrHwVnEgP8) | 3:58 |
 | 69 | [Blue Train](https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [Lemuria](https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo) | 3:44 |
 | 70 | [self\-made](https://open.spotify.com/track/6CfNRBOEhN8AF6jqrc6AtY) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [self\-made](https://open.spotify.com/album/2ENaX1zz2KIOiNGRth61Cs) | 3:02 |

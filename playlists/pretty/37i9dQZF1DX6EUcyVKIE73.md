@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,485 likes - 50 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,509 likes - 50 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 44 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 |
 | 45 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 |
 | 46 | [Raga Mishra Manjh Khamaj: Chhitak Junaiya \(Pasar Ke Geet: Laoni Taal\)](https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7) | [Ruchira Panda](https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB), [Pandit Sanjay Mukherjee](https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn), [Anirban Chakrabarty](https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7) | [Music of the Pastoral, Vol\. 1](https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ) | 12:09 |
-| 47 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
-| 48 | [Dhun Mishra Kafi](https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Reflections Around Noon](https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK) | 19:00 |
-| 49 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
+| 47 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
+| 48 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
+| 49 | [Dhun Mishra Kafi](https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Reflections Around Noon](https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK) | 19:00 |
 | 50 | [Raga Jog](https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI) | [Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Lifestory of a Legend](https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh) | 32:17 |
 
 Snapshot ID: `Z8a8pAAAAABZKGI8PjtCjnUWdVjr8vR7`

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jayda
 
-297 songs - 18 hr 46 min
+299 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,10 @@
 | [Gupit \(with Alamat\)](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit \(with Alamat\)](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 | 2024-07-02 | 2024-08-24 |
 | [Gusto Ko Lang Mag\-Isa](https://open.spotify.com/track/4ULo2EWy8w9Z6NoIra0cRo) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Gusto Ko Lang Mag\-Isa](https://open.spotify.com/album/1Gwcdr4P4HNoO3U23RSDlP) | 3:52 | 2024-11-29 | 2025-03-01 |
 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-14 | 2024-11-21 |
+| [Hanapin Ang Sarili \(Original Soundtrack\)](https://open.spotify.com/track/1KQyv34wwqIhPLthXNzaho) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Hanapin Ang Sarili \(Original Soundtrack\)](https://open.spotify.com/album/7auRPLqx3X6Ki0McTLSYwS) | 2:31 | 2025-03-10 |  |
 | [Handa Na](https://open.spotify.com/track/5LFrdalPULz4htOdtZH6Qs) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Handa Na](https://open.spotify.com/album/1LTLb5DBP9PXSqJ1qeyEAM) | 3:04 | 2024-10-18 | 2025-03-01 |
 | [Hanggang Kailan](https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Hanggang Kailan](https://open.spotify.com/album/1d8wq7e8BiL3c0RVdiDju3) | 3:53 | 2024-07-02 | 2024-07-13 |
+| [Hanggang sa Magsawa](https://open.spotify.com/track/3jqZKT0N9hEx0uwe6Sm8pS) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [7th Sense](https://open.spotify.com/album/6fLn0CW5g9nLSplYDfomyl) | 5:55 | 2025-03-10 |  |
 | [Happy Ending](https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Happy Ending](https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a) | 4:41 | 2024-11-22 |  |
 | [hardest part](https://open.spotify.com/track/7mVRAONygdjSsxt83DEbEx) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Lazy McGuire](https://open.spotify.com/artist/1PrWniB1r9Qpk22hKP8opw) | [hardest part](https://open.spotify.com/album/3lnwhZrqett24YdC1Yl2pA) | 2:29 | 2024-09-18 | 2024-11-30 |
 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 | 2024-11-23 |

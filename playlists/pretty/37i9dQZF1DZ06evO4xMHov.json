@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62177,
+  "num_followers": 62182,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8uIgAAAAACgT/fpIpxMclOrJEQ1ZstR",
+  "snapshot_id": "Z8zaAAAAAADucA5qiRhcfzsplpoM+7IW",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Vineyard",
-          "url": "https://open.spotify.com/artist/2fxknIGrJpQ4Ii3eLS2JHf"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "Meu Respirar - Ao Vivo",
-      "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
         "url": "https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Vineyard",
+          "url": "https://open.spotify.com/artist/2fxknIGrJpQ4Ii3eLS2JHf"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 355160,
+      "name": "Meu Respirar - Ao Vivo",
+      "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
     },
     {
       "added_at": null,

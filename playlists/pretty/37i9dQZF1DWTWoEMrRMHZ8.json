@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Xande de Pilares",
-  "num_followers": 349622,
+  "num_followers": 349626,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Se Acaso Voc\u00ea Chegasse",
+        "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 139658,
+      "name": "Se Acaso Voc\u00ea Chegasse",
+      "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Ensacado",
         "url": "https://open.spotify.com/album/2KQLD2oGnUJhwKiDep6SIE"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 179418,
       "name": "Ensacado",
       "url": "https://open.spotify.com/track/37ZLnHtXKDU8gde8qzsOcd"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Se Acaso Voc\u00ea Chegasse",
-        "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 139658,
-      "name": "Se Acaso Voc\u00ea Chegasse",
-      "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Ao Persistirem os Sintomas",
-        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3 Brandileone",
-          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Salto",
-      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Ao Persistirem os Sintomas",
+        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -447,18 +447,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
       },
       "artists": [
         {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -483,22 +487,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
         }
       ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 246136,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 257521,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Trem Das Onze",
-      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "DO MEU QUARTO",
+        "url": "https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "dona da minha cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Pote D'\u00c1gua",
         "url": "https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 208074,
       "name": "Pote D'\u00c1gua",
       "url": "https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "DO MEU QUARTO",
-        "url": "https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "dona da minha cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Despedida",
-        "url": "https://open.spotify.com/album/6yINlRRwEkPuyDC9o9G5Ls"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Despedida",
-      "url": "https://open.spotify.com/track/5ANWipW4jLoF4EmmGd2mH7"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Eu Vivendo Nossa Vida",
         "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Despedida",
+        "url": "https://open.spotify.com/album/6yINlRRwEkPuyDC9o9G5Ls"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/5ANWipW4jLoF4EmmGd2mH7"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Chuva de Prata",
+        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
+      },
+      "artists": [
+        {
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "Chuva de Prata",
+      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "O Cortejo Afronta",
         "url": "https://open.spotify.com/album/6Z8GRNNMhkA4KOTK9pUj2t"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 166831,
       "name": "O Cortejo Afronta",
       "url": "https://open.spotify.com/track/0xtZBfKp0OQ6DkHqALOykt"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Chuva de Prata",
-        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
-      },
-      "artists": [
-        {
-          "name": "CATTO",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Chuva de Prata",
-      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1243,6 +1243,34 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Me Tira Do Eixo",
+        "url": "https://open.spotify.com/album/2x5JUUTYSU5aEQqr4WJAIa"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        },
+        {
+          "name": "Nelson Wellington",
+          "url": "https://open.spotify.com/artist/5INEFRToq9DHXfTBsPx48d"
+        },
+        {
+          "name": "Misael Barros",
+          "url": "https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO"
+        },
+        {
+          "name": "Alexander Raichenok",
+          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
+        }
+      ],
+      "duration_ms": 173529,
+      "name": "Me Tira Do Eixo",
+      "url": "https://open.spotify.com/track/5UJY9VMnLRE7feDVFPGDBf"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "CORAL",
         "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
       },
@@ -1295,34 +1323,6 @@
       "duration_ms": 198291,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/1V3JPg2FrfvpJi7v27N9Jh"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Me Tira Do Eixo",
-        "url": "https://open.spotify.com/album/2x5JUUTYSU5aEQqr4WJAIa"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        },
-        {
-          "name": "Nelson Wellington",
-          "url": "https://open.spotify.com/artist/5INEFRToq9DHXfTBsPx48d"
-        },
-        {
-          "name": "Misael Barros",
-          "url": "https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO"
-        },
-        {
-          "name": "Alexander Raichenok",
-          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
-        }
-      ],
-      "duration_ms": 173529,
-      "name": "Me Tira Do Eixo",
-      "url": "https://open.spotify.com/track/5UJY9VMnLRE7feDVFPGDBf"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Voc\u00ea \u00c9 Linda",
+        "url": "https://open.spotify.com/album/13sGUqjK8h6xacaCzFXFEX"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Voc\u00ea \u00c9 Linda",
+      "url": "https://open.spotify.com/track/0nsBqLgnCcdXIZ0eFY77RR"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Arco",
         "url": "https://open.spotify.com/album/01M3hK5oyx0PnomcoeZXKh"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 200164,
       "name": "Todo o Amor Que Houver Nessa Vida",
       "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Voc\u00ea \u00c9 Linda",
-        "url": "https://open.spotify.com/album/13sGUqjK8h6xacaCzFXFEX"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Voc\u00ea \u00c9 Linda",
-      "url": "https://open.spotify.com/track/0nsBqLgnCcdXIZ0eFY77RR"
     },
     {
       "added_at": "2025-03-07 03:00:30",

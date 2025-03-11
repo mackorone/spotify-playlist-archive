@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: Daniel Seavey
 
-1,279 songs - 2 day 15 hr 42 min
+1,280 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,6 +848,7 @@
 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 | 2022-10-15 |
 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 | 2023-11-24 | 2024-01-05 |
 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 | 2023-04-14 | 2023-07-22 |
+| [Otherside](https://open.spotify.com/track/6ez4bGJoi57CgMuCxiYFz3) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Split Ends](https://open.spotify.com/album/77CgNl8usM1tY0sRgeGbWA) | 3:26 | 2025-03-10 |  |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-09-10 |
 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2023-04-14 | 2023-07-22 |
 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 | 2024-01-12 | 2024-04-06 |
@@ -1255,7 +1256,7 @@
 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 | 2023-09-29 | 2023-11-25 |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-05-13 | 2023-01-28 |
 | [Worlds Unluckiest Guy](https://open.spotify.com/track/2mS2mLKQUqmP3i2I852i1M) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Worlds Unluckiest Guy](https://open.spotify.com/album/4VcdfESFWY9Ay5f9CrQ6cS) | 4:05 | 2022-01-14 | 2022-01-29 |
-| [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 | 2024-09-18 |  |
+| [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 | 2024-09-18 | 2025-03-11 |
 | [WORTH NOTHING](https://open.spotify.com/track/2BruPhzgTpJwPH9KUg0XcL) | [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM), [TWISTED](https://open.spotify.com/artist/4WAOiUgt6CVTUl6D99kph6) | [WORTH NOTHING](https://open.spotify.com/album/36SXCfED2wv5zUA06xawpC) | 2:33 | 2024-02-23 | 2024-03-30 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-04-15 |
 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 | 2024-01-05 | 2024-02-17 |

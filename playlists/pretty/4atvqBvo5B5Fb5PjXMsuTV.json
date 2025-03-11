@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Mar 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Mar 14:04 UTC.",
   "num_followers": 87,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQHJkxG2vmmLGlnwY7CdCUnClC4AnX",
+  "snapshot_id": "AAAQINiPKk33vgt0bL+kTlVqQvTbtFpY",
   "tracks": [
+    {
+      "added_at": "2025-03-10 14:04:07",
+      "album": {
+        "name": "DREAMBOY",
+        "url": "https://open.spotify.com/album/3iKDUwVktCzrLqgv2iKlU3"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 215325,
+      "name": "DREAMBOY",
+      "url": "https://open.spotify.com/track/2lrqQ59IyZ9IDYxWeLd6rp"
+    },
     {
       "added_at": "2025-03-07 19:03:36",
       "album": {
@@ -123,6 +139,22 @@
       "duration_ms": 229000,
       "name": "anointment",
       "url": "https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC"
+    },
+    {
+      "added_at": "2025-03-10 04:04:26",
+      "album": {
+        "name": "dodging",
+        "url": "https://open.spotify.com/album/7fVuj5ibDRzAXFy8vqZiGv"
+      },
+      "artists": [
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 127406,
+      "name": "dodging",
+      "url": "https://open.spotify.com/track/5fLws5pKoCpu4YfwH2rE1V"
     },
     {
       "added_at": "2025-03-08 04:03:44",
@@ -815,38 +847,6 @@
       "duration_ms": 223782,
       "name": "vivo ou morto, um problema",
       "url": "https://open.spotify.com/track/34YInRrO9FD164VPFP3lb2"
-    },
-    {
-      "added_at": "2025-02-28 23:03:25",
-      "album": {
-        "name": "ATE",
-        "url": "https://open.spotify.com/album/15hrI8PHuBnVVxPAXYarFI"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 149338,
-      "name": "ATE",
-      "url": "https://open.spotify.com/track/2QkWICosG93cvjXeRmU9d7"
-    },
-    {
-      "added_at": "2025-02-28 19:03:39",
-      "album": {
-        "name": "First Day Out The Hospital",
-        "url": "https://open.spotify.com/album/6w1sEXsotlpOznh8Oxu4PI"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 121795,
-      "name": "First Day Out The Hospital",
-      "url": "https://open.spotify.com/track/69GXzxiPL6x2K5VIuuDMPc"
     }
   ],
   "unique_name": "New Singles Now",

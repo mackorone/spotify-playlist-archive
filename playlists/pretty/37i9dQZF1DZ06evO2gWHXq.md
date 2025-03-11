@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,277 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,294 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 37 | [Palo De Amigos](https://open.spotify.com/track/5VAoTOvZ1cJFeZG3M16h0z) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Palo De Amigos](https://open.spotify.com/album/1zbXamrDZJjEbKv1iKkwIF) | 2:56 |
 | 38 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD) | 4:00 |
 | 39 | [Round 5 \(feat\. MC Davo\)](https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [The Take Over, Vol\. 3](https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax) | 3:56 |
-| 40 | [En El Alcohol](https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [En El Alcohol](https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D) | 3:13 |
-| 41 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
+| 40 | [La Historia De Un Olvido](https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 2:59 |
+| 41 | [En El Alcohol](https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [En El Alcohol](https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D) | 3:13 |
 | 42 | [Vitamina](https://open.spotify.com/track/1oc6FW18hQEUgDr25MePTB) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf) | [Vitamina](https://open.spotify.com/album/2wkRViFOuLVi5TvUl5rwKE) | 2:54 |
 | 43 | [Ya no hay nada](https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:23 |
 | 44 | [Mujer](https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [Química \(feat\. i\-Majesty\)](https://open.spotify.com/track/7HuVcnjU28gSmHPjvPchpY) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [I\-Majesty](https://open.spotify.com/artist/4yNVJTZaepHWcdaicjksLR) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:45 |
 | 51 | [Debut Y Despedida](https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:34 |
 
-Snapshot ID: `Z8uIgAAAAACNGWLesFm5WSBSpe3K8NLK`
+Snapshot ID: `Z8zaAAAAAACmLrXd3GmM82KcAdsyVXzy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,026 likes - 42 songs - 2 hr 44 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,029 likes - 43 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 40 | [RESPEK \- CESCO REMIX](https://open.spotify.com/track/18u5yyIXATQr7QPFXlX1ds) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Ezri](https://open.spotify.com/artist/4l5nRI74C0dHyddoaTKNwJ), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [3RMX82](https://open.spotify.com/album/4VbdNC815EE3P5Pa40La12) | 3:08 |
 | 41 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 |
 | 42 | [Besties](https://open.spotify.com/track/0YYzpKaPJL4xArcaWR7g1u) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 3:36 |
+| 43 | [The Person You’d Like To Be](https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [The Person You’d Like To Be](https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ) | 3:17 |
 
-Snapshot ID: `AAAP7/1x4O2RwnGB7SULihR7UAFkN8Rg`
+Snapshot ID: `AAAP8CQgHi7Kl3072Kc9ifEKJINp12Lu`

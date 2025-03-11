@@ -4,7 +4,7 @@
 
 > Anna Castiglia in cover della playlist con il meglio dell’indie italiano!
 
-217 songs - 11 hr 20 min
+218 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 | 2024-10-18 |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-17 | 2024-11-22 |
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 | 2024-09-27 |
+| [Più in alto](https://open.spotify.com/track/0jZdbJ5BUzJRLhSUvaehum) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Cori da sdraio](https://open.spotify.com/album/4Nz2181rHvYWOz7RNyTlQk) | 3:36 | 2025-03-10 |  |
 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 | 2024-10-24 |  |
 | [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 | 2024-11-01 |
 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 | 2024-12-19 |  |

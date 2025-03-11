@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,154 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,433 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 12 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
 | 13 | [Estacionamiento](https://open.spotify.com/track/7HiVmmqCgFVgJogrGZDcRt) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Estacionamiento](https://open.spotify.com/album/5OjFwBODo47bsRDFY2d96S) | 3:55 |
 | 14 | [Más Libre Que En Casa](https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Más Libre Que En Casa](https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf) | 2:41 |
-| 15 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
-| 16 | [Miedo A Las Alturas](https://open.spotify.com/track/01ERnlRUStFoZ98fwyENML) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Miedo A Las Alturas](https://open.spotify.com/album/7EAPl2jYCU667qkYrvkioc) | 3:02 |
+| 15 | [Miedo A Las Alturas](https://open.spotify.com/track/01ERnlRUStFoZ98fwyENML) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Miedo A Las Alturas](https://open.spotify.com/album/7EAPl2jYCU667qkYrvkioc) | 3:02 |
+| 16 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
 | 17 | [entre las piernas](https://open.spotify.com/track/3A3cmRnCQXUrCo6CHWdMHx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 3:31 |
 | 18 | [F1](https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5) | [VICKILICIOUS](https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ) | [F1](https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j) | 2:00 |
 | 19 | [Distante](https://open.spotify.com/track/1T1DjLjxX8SHBqva8E8yBt) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Distante](https://open.spotify.com/album/7oB95w3WxmSGIZ6DINTdJK) | 2:09 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 29 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
 | 30 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
 | 31 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
-| 32 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 |
-| 33 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 32 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 33 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 |
 | 34 | [AYQUETONTA](https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [AYQUETONTA](https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb) | 3:07 |
 | 35 | [Marea](https://open.spotify.com/track/2yoSFkWsRSXdIhcix9JfMI) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Marea](https://open.spotify.com/album/0O69TYjXVjDbS5o9WWdv5i) | 3:59 |
 | 36 | [lo que pudo ser](https://open.spotify.com/track/7IlzDvXBqlJJm1cXmESoxl) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Eduardo León](https://open.spotify.com/artist/0UDKLndtK8FHdiUN92bMds) | [lo que pudo ser](https://open.spotify.com/album/2iZtp0joGUHtEmIVT7oRyi) | 3:39 |

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,404 songs - 3 day 6 hr 22 min
+1,405 songs - 3 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Dorouf](https://open.spotify.com/track/4SboVJybgfRxp2Z6M1zUxr) | [Barri](https://open.spotify.com/artist/3UfDCiyE0dCUBe1iBBC8bl), [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI), [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Dorouf](https://open.spotify.com/album/4lWsp6iC5Dd9pCR81VLpAp) | 3:01 | 2024-07-04 | 2024-08-16 |
 | [Dou2 Men Kasy](https://open.spotify.com/track/4QQjHefkoUBqKWWFYKHQs6) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Issa & Assouad](https://open.spotify.com/artist/5P4gYpIeDqVMdkWnIHScSM) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/7fF6awmbxquCnuqLB7ekVO) | 2:32 | 2025-01-24 | 2025-03-05 |
 | [Downtown](https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Downtown](https://open.spotify.com/album/1l7zke8JZbv83flMvXW99N) | 3:36 | 2022-03-03 | 2022-06-24 |
+| [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [Etisalat by e&](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 | 2025-03-10 |  |
 | [Edhak Ya Albi](https://open.spotify.com/track/6UcNHcewqOTpeGZwdnpa8Z) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Edhak Ya Albi](https://open.spotify.com/album/3xtsXuUHCmkoPGxmi09GzI) | 3:03 | 2024-06-13 | 2024-07-25 |
 | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/track/3n1Ay9tmg5lJXEgEbalNye) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/album/4889Xh1DOnyxnXKfNoinDe) | 4:04 | 2022-06-09 | 2022-09-16 |
 | [Ee’mel Share \(from the movie "Ramsis Paris"\)](https://open.spotify.com/track/3eBRF7ygd5nMA6u3ayacXe) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ee’mel Share \(from the movie "Ramsis Paris"\)](https://open.spotify.com/album/2HDBFEh30oqfRgDesORlzD) | 3:12 | 2023-04-20 | 2023-05-31 |
@@ -925,7 +926,7 @@
 | [أنا وأنت](https://open.spotify.com/track/7dY6qezVxbU8W8V2oHdzF7) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Nour El Nabawy](https://open.spotify.com/artist/3mbTvGPw3jvE55JejQncaV) | [أنا وأنت](https://open.spotify.com/album/794tFKoBl4WdfNqOLDz84j) | 2:08 | 2024-12-06 | 2025-02-06 |
 | [أنت لأ](https://open.spotify.com/track/2nwuR4TngBhug1tThFbqXq) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [أنت لأ](https://open.spotify.com/album/5UQrVAqYhr9HuXVtHlsrDh) | 2:51 | 2024-08-09 | 2024-09-10 |
 | [أهلاً يا عصابة](https://open.spotify.com/track/01f6PEvG17oW71HTwihsOQ) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [أهلاً يا عصابة](https://open.spotify.com/album/67t7ewVf6XgYiRMGU5oEIc) | 3:21 | 2024-03-12 | 2024-06-14 |
-| [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 | 2025-01-23 |  |
+| [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 | 2025-01-23 | 2025-03-11 |
 | [أولاد مسك](https://open.spotify.com/track/7lcfRpuUMaqXQPYgri11iD) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أولاد مسك](https://open.spotify.com/album/1KOMgY5pSYH7HkOEyAUAnM) | 2:38 | 2024-04-14 | 2024-04-19 |
 | [أووووه](https://open.spotify.com/track/4tHH28eKHx2B5k7jjbcTGQ) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [أووووه](https://open.spotify.com/album/5UomHwXDMZNAumKNzGBubk) | 2:30 | 2023-06-29 | 2023-08-02 |
 | [أيام](https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [أيام](https://open.spotify.com/album/0P4aDQhzHXIfiofCbdTd1t) | 3:37 | 2024-05-30 | 2024-07-12 |

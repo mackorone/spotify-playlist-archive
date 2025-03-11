@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Coma\_Cose in cover + le migliori uscite della settimana! Con brani di Lady Gaga, Bnkr44, NASKA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,402 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,424 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

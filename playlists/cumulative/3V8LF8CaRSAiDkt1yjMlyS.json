@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "20TWENTYONE",
+        "url": "https://open.spotify.com/album/22uYoK2dySadbsANtNDD09"
+      },
+      "artists": [
+        {
+          "name": "Oktobyr",
+          "url": "https://open.spotify.com/artist/6v1jG72A5RDXB4UcuzFkKL"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238176,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/3mizbMuFHhqJwQIoEwmnGn"
+    },
+    {
+      "album": {
         "name": "A Love Song",
         "url": "https://open.spotify.com/album/41vdgyRsJNvBpEOt1OKGqF"
       },
@@ -2658,6 +2676,24 @@
       "duration_ms": 234799,
       "name": "The Quiet Between Us",
       "url": "https://open.spotify.com/track/5IgCdFscdQEWarHWqPNAEj"
+    },
+    {
+      "album": {
+        "name": "THE RISE",
+        "url": "https://open.spotify.com/album/6u1HCsBewUBMef0mxbG0hA"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159207,
+      "name": "THE RISE",
+      "url": "https://open.spotify.com/track/2Rxz3iCuoe1kU1REqI6NUt"
     },
     {
       "album": {

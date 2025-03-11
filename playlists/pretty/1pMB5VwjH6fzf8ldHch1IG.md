@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: SZA.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
 [Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,181 likes - 61 songs - 3 hr 3 min
 
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 60 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |
 | 61 | [TIMES](https://open.spotify.com/track/2c3XS2OIBPTqFEIhXHcEUD) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [TIMES](https://open.spotify.com/album/4ekEEA9yrjvLbqdoZkLYbb) | 3:19 |
 
-Snapshot ID: `AABJkUcu9w5LGdKrf1TXg5aS5+4w1vB/`
+Snapshot ID: `AABJks8pC7WJ0mXrPtjR+35LG7lBnwFS`

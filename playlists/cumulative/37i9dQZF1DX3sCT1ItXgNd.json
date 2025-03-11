@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "A D\u00f3nde Ir",
+        "url": "https://open.spotify.com/album/3jyb034ATiCQU6IT0G3irN"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "A D\u00f3nde Ir",
+      "url": "https://open.spotify.com/track/4vGcvkfWvbXPE0khPx3WAf"
+    },
+    {
+      "album": {
         "name": "A Las 12",
         "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
       },
@@ -4694,7 +4712,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 135020,
       "name": "Fran",
       "url": "https://open.spotify.com/track/35MJEB6N8dF0KzRp7Ov5JO"
@@ -8319,6 +8337,24 @@
     },
     {
       "album": {
+        "name": "no estabamos juntos",
+        "url": "https://open.spotify.com/album/68DhLXSXLqPHXKB2roWS33"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198948,
+      "name": "no estabamos juntos",
+      "url": "https://open.spotify.com/track/0PKcD189tAiUNJO35oQK9L"
+    },
+    {
+      "album": {
         "name": "NO HABERTE CONOCIDO",
         "url": "https://open.spotify.com/album/1FeJRIgcUBjfoOxjTKGJaN"
       },
@@ -10122,7 +10158,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-11",
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"

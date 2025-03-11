@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 931,
+  "num_followers": 932,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "ash (Ashley)",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAABW2zKbjcVKuherJ8zwrOBrjohpkiZ",
+  "snapshot_id": "AAABXDB5LZcWvoVaMzwVJjmqEk8qpNtT",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -5343,6 +5343,38 @@
       "duration_ms": 120767,
       "name": "Rawr :3",
       "url": "https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378"
+    },
+    {
+      "added_at": "2025-03-10 08:17:10",
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 244150,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/3xzsr8XPt2grKWJeNZzFqv"
+    },
+    {
+      "added_at": "2025-03-10 08:17:10",
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 244157,
+      "name": "Neverland - Instrumental",
+      "url": "https://open.spotify.com/track/2sNYBbgOatXNrh0V7TlBF3"
     }
   ],
   "unique_name": "My favourite furry songs",

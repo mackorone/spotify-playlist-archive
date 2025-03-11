@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-380 songs - 19 hr 43 min
+382 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Off My Mind](https://open.spotify.com/track/7aWw6c8KYsvj6CkOt3MzC2) | [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Off My Mind](https://open.spotify.com/album/4eqTc8Iv2nm5wQHE3hyxR6) | 3:09 | 2023-11-20 | 2024-03-14 |
 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 | 2023-06-13 | 2024-03-14 |
 | [On & On](https://open.spotify.com/track/1Rx6I5zpMsWJ90DxZNxfb2) | [Pierluigi Di Prinzio](https://open.spotify.com/artist/1z8RdCiwfjNonkWT8Pl7OY) | [On & On](https://open.spotify.com/album/4dAKKY7PALjSDuTAww5ql1) | 2:41 | 2023-11-20 | 2024-05-01 |
+| [On & On](https://open.spotify.com/track/73r0IA1j4oLM8CPTKTiH86) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Eddy Don't Sail](https://open.spotify.com/artist/7bKSZzB7rAS834Ete3bAmx) | [On & On](https://open.spotify.com/album/2ETS2W9kWIEW4jrMjYYx5N) | 2:29 | 2025-03-10 |  |
 | [On My Mind](https://open.spotify.com/track/6VH9i7urfJt1lV4pc2Byqw) | [Guz Hardy & J Luke](https://open.spotify.com/artist/5qBoQXUHp7OUAjabCJX8kx), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [On My Mind](https://open.spotify.com/album/4YZlyLxJWzDfPzMAn2DEgH) | 2:22 | 2023-06-12 | 2024-03-14 |
 | [One More Night](https://open.spotify.com/track/2NZMUSTae3PD41L4v9vsGv) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Dwight Steven](https://open.spotify.com/artist/6ThI2ZipJ6SpMqImVTnx5j) | [One More Night](https://open.spotify.com/album/2RWUtEAMTIUgrmfRxEVCvA) | 2:28 | 2024-03-13 | 2024-05-01 |
 | [Out of My Hands](https://open.spotify.com/track/6oRnGHtoBixS2qPYYL56ts) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Out of My Hands](https://open.spotify.com/album/5QlP6Vaoi9Wobf2aLYHZR3) | 2:56 | 2024-07-26 |  |
@@ -292,6 +293,7 @@
 | [Se Pone Loca](https://open.spotify.com/track/0UyJooJf2H3WsrS9hNJ1Ue) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Se Pone Loca](https://open.spotify.com/album/70KHuQWKfG8x2RvCT90WxB) | 3:08 | 2023-08-28 | 2024-03-14 |
 | [Sell Your Soul](https://open.spotify.com/track/57UOGQIxDfQLaYoNm3JSzg) | [Sam Red](https://open.spotify.com/artist/7HjYkiUnk6BYqB3UZrzVRg) | [Sell Your Soul](https://open.spotify.com/album/0eLmMMjrNq1Boup6Lr6alT) | 3:42 | 2024-08-16 |  |
 | [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 | 2024-02-05 | 2024-03-14 |
+| [Shingaling Shingaling](https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [Reebs](https://open.spotify.com/artist/5gnvJivfNKC78JcOknY5Y0) | [Shingaling Shingaling](https://open.spotify.com/album/6kRYsgKCkmWeDnkT7m6eUS) | 2:26 | 2025-03-10 |  |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-13 | 2024-05-01 |
 | [Shook Part 3](https://open.spotify.com/track/4pMUnltcUJs5tTqkrwuCYE) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 7:02 | 2023-12-08 | 2024-03-14 |
 | [Sibali](https://open.spotify.com/track/1n6PUs41fNQREmJRKCudvB) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Sibali](https://open.spotify.com/album/672SAgtwb5oZ9KS6yp0F5j) | 3:23 | 2023-06-30 | 2024-03-14 |

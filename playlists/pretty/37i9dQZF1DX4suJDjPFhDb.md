@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4suJDjPFhDb.md) - [plain]
 
 > Se ha vinto il festival ed è su Spotify, è in questa playlist 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,330 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,347 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Lady Gagalta, ibeltä ja Benjaminilta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,926 likes - 104 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,924 likes - 104 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

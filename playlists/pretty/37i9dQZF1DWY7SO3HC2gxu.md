@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,687 likes - 90 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,700 likes - 90 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
