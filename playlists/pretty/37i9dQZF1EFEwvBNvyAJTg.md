@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 218 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 218 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 45 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 46 | [Take Off, Baby! feat\. Orlando \- Original Mix](https://open.spotify.com/track/53De5pp7L4umlJU7srhacZ) | [Ronald Christoph](https://open.spotify.com/artist/694Mu9TpePnihtyxVNHBW2), [Orlando](https://open.spotify.com/artist/4CFVwKkEV3fPV2hr6ISfPH) | [Take Off, Baby!](https://open.spotify.com/album/7wo10jLxb5sP1NyvkXcf4z) | 6:42 |
 | 47 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 |
-| 48 | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/track/3xmfi7nXVWFFN706CBTAyP) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/album/6Pp51kxuCHKcHMhopNfMNo) | 3:52 |
-| 49 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
+| 48 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 |
+| 49 | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/track/3xmfi7nXVWFFN706CBTAyP) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Just Say \(feat\. Tinashe\)](https://open.spotify.com/album/6Pp51kxuCHKcHMhopNfMNo) | 3:52 |
 | 50 | [Heavy Crown](https://open.spotify.com/track/2q2ukZbOCQaFcN3M34RhZ3) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Reclassified](https://open.spotify.com/album/4z4Pgh0fNUQkmGP4K1XxDb) | 3:52 |
 | 51 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 |
 | 52 | [Vegas Girl](https://open.spotify.com/track/55zVsfjfD9qbCCFRVv95qi) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Contrast](https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi) | 2:49 |
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 193 | [Invisible Girl](https://open.spotify.com/track/3JLsOYOM8yuEuOSzdE7p6k) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Ten](https://open.spotify.com/album/7mFPFmUxUnFh4HhL97ff0z) | 3:33 |
 | 194 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
 | 195 | [Trapped In The Car](https://open.spotify.com/track/5MxTZtqUmFkrpYREy81x6V) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Lost But Found](https://open.spotify.com/album/0K9YYtCyU5ePduZcnwdN2H) | 2:46 |
-| 196 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 |
-| 197 | [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 |
+| 196 | [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 |
+| 197 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 |
 | 198 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
 | 199 | [History](https://open.spotify.com/track/3JN6wykoBHA9nfTQSZpcHH) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Collection \- Studio Albums / B Sides / Live](https://open.spotify.com/album/197iwLK0pIw6IAfcqMPyQ7) | 4:37 |
 | 200 | [You Make It so Easy, Don't You \(feat\. Sam Sparro\)](https://open.spotify.com/track/08XXFoYJNdPnYGxVS9a7A9) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fun City](https://open.spotify.com/album/2sxw4rC5lerPPb5gDbOwWm) | 3:18 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 217 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 218 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbrtiAAAAAB6oyGybVHcR6RNOpoW2spu`
+Snapshot ID: `AbrzKAAAAAAD+7rE4ayzYgQRe7uLltsb`

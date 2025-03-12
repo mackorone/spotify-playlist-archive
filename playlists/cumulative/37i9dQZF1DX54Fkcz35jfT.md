@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: BRAHMAN
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: MAN WITH A MISSION
 
-376 songs - 21 hr 37 min
+378 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 | 2024-01-30 |  |
 | [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-07-20 | 2023-08-10 |
 | [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 | 2024-01-09 |  |
-| [Dansharhythm](https://open.spotify.com/track/0bnfOJO4mKt6aUbkbNKZmM) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Dansharhythm](https://open.spotify.com/album/4xTFljDOdjSAGiDDU7uggg) | 3:09 | 2024-12-24 |  |
+| [Dansharhythm](https://open.spotify.com/track/0bnfOJO4mKt6aUbkbNKZmM) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Dansharhythm](https://open.spotify.com/album/4xTFljDOdjSAGiDDU7uggg) | 3:09 | 2024-12-24 | 2025-03-12 |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-07-20 | 2024-07-24 |
 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-26 |  |
 | [Dear Life](https://open.spotify.com/track/6gsr8v2ZGPMzMegnJ05byK) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/5q53vO8tjeMQ1hICEqjvDS) | 3:43 | 2023-08-15 | 2023-10-04 |
@@ -99,7 +99,7 @@
 | [Falling Down](https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Falling Down](https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ) | 2:40 | 2023-07-20 | 2024-06-22 |
 | [Fist for the New Era](https://open.spotify.com/track/2JrGuqTBMB9lxh1w3gICPl) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Fist for the New Era](https://open.spotify.com/album/63S1oYeHHKjODjMIMmHxUk) | 3:53 | 2024-07-09 |  |
 | [Flower Bed](https://open.spotify.com/track/04qHub06DBGakVjjIYq5Bd) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [Flower Bed](https://open.spotify.com/album/5CTmcgYjdFdRR7tAhKLnCZ) | 3:34 | 2024-02-27 | 2024-05-01 |
-| [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 |  |
+| [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 | 2025-03-12 |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2023-07-20 |  |
 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 | 2023-07-20 | 2023-10-11 |
 | [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2023-07-20 | 2023-07-28 |
@@ -134,6 +134,7 @@
 | [I'm ready to die for my friends](https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [I'm ready to die for my friends](https://open.spotify.com/album/3iy3EnIGs1JF8diFJrBJCF) | 3:50 | 2023-07-20 | 2023-10-04 |
 | [I'm ready to die for my friends](https://open.spotify.com/track/7EkAgXr2B29n1Qj90q1O4z) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:50 | 2024-03-19 | 2024-04-19 |
 | [I'm ready to die for my friends feat\. VIGORMAN](https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:50 | 2024-05-14 | 2024-10-17 |
+| [IKIZAMA](https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk) | [East Of Eden](https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn) | [The First Eden \- Seeds Of Hope \(Selected Edition\)](https://open.spotify.com/album/3TPdkObXMZnVVW2JhivaZf) | 3:51 | 2025-03-11 |  |
 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 | 2023-09-26 |  |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2023-11-21 | 2024-07-02 |
 | [JUNGLE BUN DEM](https://open.spotify.com/track/3wWMqIeTZcC6eLmR0G5dcG) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/24eIv5TgqoGWZNocPZsa5E) | 3:13 | 2023-10-03 | 2023-10-18 |
@@ -305,6 +306,7 @@
 | [Vandalize](https://open.spotify.com/track/2tOtU8EJ8SOXKAGKJ1XlYh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/4BiblYupz50ScARBKTU7wt) | 3:14 | 2024-04-18 | 2024-06-21 |
 | [Vendetta](https://open.spotify.com/track/5IfPB9YOdTgrQ88yReMvdW) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Vendetta](https://open.spotify.com/album/7tbjNQEV1A7YeOT4Qi9IBa) | 2:46 | 2024-07-16 | 2024-08-21 |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-02-13 |  |
+| [Vertigo](https://open.spotify.com/track/5WqrUkIkSR3MWcJq18bJ6Y) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [XV e.p.](https://open.spotify.com/album/3XovZ522dgqvzUynQ1Ja9u) | 4:18 | 2025-03-11 |  |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2023-07-20 |  |
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2023-07-20 | 2023-09-06 |
 | [Voice](https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 8:05 | 2023-09-10 | 2023-11-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 76,629 likes - 221 songs - 9 hr 32 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 76,636 likes - 221 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 98 | [Karma Chameleon](https://open.spotify.com/track/00jg6xfsu8dS4BkALzSFJw) | [Tropical Tide](https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW), [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Karma Chameleon](https://open.spotify.com/album/3YT8asCpGOhvAaqBmuAppR) | 2:36 |
 | 99 | [Too Long](https://open.spotify.com/track/7JsQ8AhEl6hvgJeqCaH8pO) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Too Long](https://open.spotify.com/album/7F7UZiSBsNBnoTaZz3LW4K) | 2:48 |
 | 100 | [California Dreamin'](https://open.spotify.com/track/4y0wgwic6vFqUBN6Y1mkDR) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [California Dreamin'](https://open.spotify.com/album/6axSDPUcBzLMuOtg7kwxK4) | 4:05 |
-| 101 | [So Sick](https://open.spotify.com/track/22AK39D1qhtY2KWlDs7JN4) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [So Sick](https://open.spotify.com/album/28oZLTOlunmmbgBDI9Jvux) | 2:35 |
+| 101 | [So Sick](https://open.spotify.com/track/22AK39D1qhtY2KWlDs7JN4) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Eugeene](https://open.spotify.com/artist/0N4rCdfF9BhukzXEHOGNcy) | [So Sick](https://open.spotify.com/album/28oZLTOlunmmbgBDI9Jvux) | 2:35 |
 | 102 | [Diamond](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Diamond](https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz) | 2:16 |
 | 103 | [Feel So Close](https://open.spotify.com/track/2JWk1PJsWK6ypGSffvVKZU) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [harley.](https://open.spotify.com/artist/1JNdpn1AAnBqtvRqZ13hic) | [Feel So Close](https://open.spotify.com/album/00bzQoWMgkanurn3QPwXug) | 1:51 |
 | 104 | [Carry On](https://open.spotify.com/track/0ZQiqf9oqFDNgnDVYktm5n) | [Ben Mack](https://open.spotify.com/artist/6r4xjDHhzlv0iVoHauTfTm) | [Carry On](https://open.spotify.com/album/5lyz9rew3cKgJwP4OAx8Fi) | 2:37 |

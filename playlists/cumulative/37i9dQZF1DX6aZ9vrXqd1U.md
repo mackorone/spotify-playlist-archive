@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-350 songs - 1 day 0 hr 13 min
+351 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [HOT](https://open.spotify.com/track/5QF8FlDV0lRg7JMbxUQ67z) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HOT](https://open.spotify.com/album/3zk6lCrfOlMf5BEJjOSwrb) | 3:03 | 2024-12-10 |  |
 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 | 2022-07-27 |  |
 | [I Wanna Go To A Place...](https://open.spotify.com/track/7EFJ1ugMxOC2UzIXH9G7XU) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [ROSE ALBUM](https://open.spotify.com/album/2CrjeeVRKQmFY22ntJBFW8) | 5:08 | 2024-01-11 |  |
+| [Idol Senshi \(feat\. Hatsune Miku\)](https://open.spotify.com/track/2M5U4mkcjdwhQXFWg3N9jF) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Idol Senshi \(feat\. Hatsune Miku\)](https://open.spotify.com/album/0akNe9ccHMwVMyhX56a996) | 4:01 | 2025-03-11 |  |
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/3PLKngOPCO0D40dJdefwRQ) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/2jI5qiLWmetKrWEd25nxBu) | 3:11 | 2022-07-27 | 2024-04-19 |
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/67qVpiwvi82qlTG2y9goGb) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/64CI52k0ELD3r7Nj8PBHQe) | 3:11 | 2022-07-27 | 2022-07-29 |
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/5ody4fV5urprV4ZRU6wGVC) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [1000000000000](https://open.spotify.com/album/4YSUF18ShAYt1ltHyWj3Y9) | 3:16 | 2024-01-27 |  |

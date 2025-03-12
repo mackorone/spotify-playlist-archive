@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Dreycruz, Bert Symoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,533 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,918 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

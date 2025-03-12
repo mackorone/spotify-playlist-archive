@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/6GXXBvb2XqnmpzZfzTlrAw"
+      },
+      "artists": [
+        {
+          "name": "RKSTR",
+          "url": "https://open.spotify.com/artist/1ABFXTXGpwfuCnghJoTktq"
+        },
+        {
+          "name": "Gizzle",
+          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/0KcvEKZsZTGHVzUmaGaHvw"
+    },
+    {
+      "album": {
         "name": "The Feature Presentation",
         "url": "https://open.spotify.com/album/5TpDgUdlpp9H6xYsDDhW3K"
       },

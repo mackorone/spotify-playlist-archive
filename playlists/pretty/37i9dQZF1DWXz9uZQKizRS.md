@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Zuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,667 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,690 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 54 | [Pętla](https://open.spotify.com/track/5D0LkRzR101V4cQWUUCp7l) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:32 |
 | 55 | [uciekaj!](https://open.spotify.com/track/1cMJPa55C62HlcQRFw0Hjj) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Żony Hollywood](https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW) | 2:26 |
 | 56 | [Burza](https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Burza](https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj) | 3:03 |
-| 57 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
+| 57 | [zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
 | 58 | [Lekko](https://open.spotify.com/track/5Y2GqyKXSyEQEkb5mQpgNW) | [Olka](https://open.spotify.com/artist/48LWhmu5GqLeVIeGrvMagG), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [Lekko](https://open.spotify.com/album/7HWGWEm0BiwYqxnR52Y3dX) | 3:12 |
 | 59 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 |
 | 60 | [chcę z Tobą iść do łóżka](https://open.spotify.com/track/36opgeBulRtAvvEx2YwDJI) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [chcę z Tobą iść do łóżka](https://open.spotify.com/album/2V06R1qzoXoWW5iOPi3NZ0) | 2:48 |

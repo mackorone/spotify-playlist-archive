@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, Luedji Luna, Cynthia Luz, Negra Li, Boombeat, Azzy, Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,646 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,640 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Pensar Direito](https://open.spotify.com/track/1ui0q6tFro602g92piLjQF) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Pensar Direito](https://open.spotify.com/album/0qWbg7ya1AZmhfdOUir4Fj) | 2:53 |
 | 14 | [Missão](https://open.spotify.com/track/7jfsmdHo6qHX3F8wcMjuoU) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [O Veneno do Escorpião V.2](https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4) | 3:28 |
 | 15 | [Aqui Tem](https://open.spotify.com/track/2vkjhjpOJQBOFluK0fCp4X) | [Leandro Palmerah](https://open.spotify.com/artist/6MBhZ9myeFgXE3PvlsJqYS), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx) | [Aqui Tem](https://open.spotify.com/album/4UVgmDJQFkEI3FPssYvsqD) | 4:12 |
-| 16 | [Compro Ouro](https://open.spotify.com/track/0pJCM8L1xHWQyGOzelS3qN) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Compro Ouro](https://open.spotify.com/album/0jX3GnxltRxPCh3xeIbKs3) | 2:24 |
+| 16 | [Compro Ouro](https://open.spotify.com/track/0pJCM8L1xHWQyGOzelS3qN) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Compro Ouro](https://open.spotify.com/album/0jX3GnxltRxPCh3xeIbKs3) | 2:24 |
 | 17 | [Da Onde Eu Venho](https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:17 |
 | 18 | [Agradecer](https://open.spotify.com/track/3O40wL0HwIkKczJwZEoICx) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX) | [Agradecer](https://open.spotify.com/album/4Qt3A7kXjrO8Xnz336QH9F) | 3:31 |
 | 19 | [Renascer](https://open.spotify.com/track/6wWZ5ptp5YrTEgBqAm3hos) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Renascer](https://open.spotify.com/album/6xQGe7nkat7dSTv26EmxGn) | 2:52 |

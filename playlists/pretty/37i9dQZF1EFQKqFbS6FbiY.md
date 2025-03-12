@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 529 songs - 1 day 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 529 songs - 1 day 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,8 +306,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 296 | [Logo Agora](https://open.spotify.com/track/27IEL0ePPW3MTGGFRrH6Au) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 2:35 |
 | 297 | [Eu Duvido \- Ao Vivo em Uberlândia](https://open.spotify.com/track/3G9bSmFAePJS9yveZYclWZ) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 2](https://open.spotify.com/album/54qHOtoErxSiW0DTEzqBj8) | 3:14 |
 | 298 | [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/3A1WPglEROfedBSUPqMNI3) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [NO 12 \(Ao Vivo\)](https://open.spotify.com/album/5Mmu9vDgfeaHvaR56yIPu0) | 3:06 |
-| 299 | [Deixa o Choro Pingar \(Ao Vivo\)](https://open.spotify.com/track/68DbeflYqndZsXCca7hc3R) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:53 |
-| 300 | [Beijo Misturado \- Ao Vivo](https://open.spotify.com/track/7vBMliaXhfMPo7NojBqAOC) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:28 |
+| 299 | [Beijo Misturado \- Ao Vivo](https://open.spotify.com/track/7vBMliaXhfMPo7NojBqAOC) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:28 |
+| 300 | [Deixa o Choro Pingar \(Ao Vivo\)](https://open.spotify.com/track/68DbeflYqndZsXCca7hc3R) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:53 |
 | 301 | [Cancela o Cabaré](https://open.spotify.com/track/1M36WCd6JesdXxAl23g4o5) | [Becca & Elias](https://open.spotify.com/artist/1gRJOtMuCbTinHJIBd3eSc) | [Cancela o Cabaré](https://open.spotify.com/album/62UTn6WDZIMO03HW5PnFnx) | 2:47 |
 | 302 | [Chorando na Plateia \- Ao Vivo em Uberlândia](https://open.spotify.com/track/0UNL8Viah2rcRxiboU1K4D) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [VINNI E RAFA](https://open.spotify.com/artist/04sYCDZBbxvwumBto0ZKKE) | [Ao Vivo em Uberlândia, Vol\. 1](https://open.spotify.com/album/7Jd5xw3FKdS6ITVGuAHtPJ) | 3:31 |
 | 303 | [Você Zuou \- Ao Vivo em Uberlândia](https://open.spotify.com/track/6vdMOCJesiuyKREisJIQNs) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 1](https://open.spotify.com/album/7Jd5xw3FKdS6ITVGuAHtPJ) | 2:39 |
@@ -345,8 +345,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 335 | [Eu Pirei \(Ao Vivo\)](https://open.spotify.com/track/289LaMYVjTTbkY6ZCRFRfI) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:33 |
 | 336 | [Ladra de Sonhos \- Ao Vivo](https://open.spotify.com/track/217uGYqLm5iEX4sLaqPaCX) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g), [Bruno](https://open.spotify.com/artist/6XXk08O8PJ8rxN9DsLJaCT) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 3:13 |
 | 337 | [Como É Que Fala Não? \- Ao Vivo](https://open.spotify.com/track/7eQ9TotD23LdmJxlQejfgn) | [Fábio Mahan](https://open.spotify.com/artist/3ppMkOxkUN99291i7PvtYh), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Algo Novo \(Ao Vivo\)](https://open.spotify.com/album/5U9Jv6Z0BgkkCX2x3by1R5) | 2:40 |
-| 338 | [Beijo e Tchau](https://open.spotify.com/track/6rlI7vvonttOIONVzbyfSG) | [Tayna Agazzi](https://open.spotify.com/artist/397tUN3oFCSHa80xpj0b6B), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beijo e Tchau](https://open.spotify.com/album/1E9PvdLe7NfImBCrOMv7nU) | 3:07 |
-| 339 | [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 |
+| 338 | [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 |
+| 339 | [Beijo e Tchau](https://open.spotify.com/track/6rlI7vvonttOIONVzbyfSG) | [Tayna Agazzi](https://open.spotify.com/artist/397tUN3oFCSHa80xpj0b6B), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beijo e Tchau](https://open.spotify.com/album/1E9PvdLe7NfImBCrOMv7nU) | 3:07 |
 | 340 | [Nem Me Visto e Vou \- Ao Vivo](https://open.spotify.com/track/1xRbcQdnLNAktKYdpr2Y06) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Vinni e Rafa](https://open.spotify.com/artist/3PYn6gCpzKJNfiaOLeRhrw) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/4OVaYGDSwhdYAHjcQjwfIl) | 2:49 |
 | 341 | [Multiplica \(Participação especial de Naiara Azevedo\) \- Ao vivo](https://open.spotify.com/track/5zVrV9gGNmpTeaaOcadfKT) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 2:31 |
 | 342 | [Labiazinha \- Ao Vivo](https://open.spotify.com/track/6c91OdzgGcHrmMEEBpNKB9) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0rE14sckZaKmNFpnrQaMGU) | 2:58 |
@@ -538,4 +538,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 528 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 529 | [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 |
 
-Snapshot ID: `AbrtiAAAAADCogwO3x1ZqWTr1eSNUi9n`
+Snapshot ID: `AbrzKAAAAAD131EqMBoxz0j+Uqo+SWV7`

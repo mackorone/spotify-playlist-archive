@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Adèle Castillon x Caballero & JeanJass
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,045 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,052 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

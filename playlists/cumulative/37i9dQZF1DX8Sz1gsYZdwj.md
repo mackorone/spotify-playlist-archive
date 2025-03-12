@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-222 songs - 10 hr 34 min
+223 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Ma Mère l'Oye, M\. 60: I\. Pavane de la belle au bois dormant](https://open.spotify.com/track/3M7dYsUVdr66ztv5yXqOFm) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Louis Lortie](https://open.spotify.com/artist/2uLLmndNOXyB4XqMH3auYK), [Hélène Mercier](https://open.spotify.com/artist/2bjMZJv3PurMW5EIbn5t2T) | [Ravel: Works for 2 Pianos & Piano Duet](https://open.spotify.com/album/1eSyakZFx5a2eAjRibvBvQ) | 1:33 | 2021-11-09 | 2022-07-29 |
 | [Ma mère l'Oye, M\. 60: I\. Pavane de la belle au bois dormant \- Lent](https://open.spotify.com/track/2Ylyh5pD08wtz54XfELtak) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Louis Lortie](https://open.spotify.com/artist/2uLLmndNOXyB4XqMH3auYK), [Hélène Mercier](https://open.spotify.com/artist/2bjMZJv3PurMW5EIbn5t2T) | [Ravel: Piano Music For 4 Hands](https://open.spotify.com/album/2lO3FswVsOC8qRaUkkSofO) | 1:33 | 2022-06-21 | 2023-10-25 |
 | [Mare Nostrum](https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Mare Nostrum](https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7) | 3:15 | 2023-09-29 |  |
+| [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 | 2025-03-11 |  |
 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 | 2021-11-09 | 2025-02-27 |
 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 | 2021-11-09 | 2023-09-30 |
 | [Mirror](https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Mirror](https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8) | 3:14 | 2022-03-04 | 2023-09-30 |

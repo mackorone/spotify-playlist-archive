@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,104 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,158 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

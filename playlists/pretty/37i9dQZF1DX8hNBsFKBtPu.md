@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💛 Sofie1998
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,763 likes - 134 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,758 likes - 134 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

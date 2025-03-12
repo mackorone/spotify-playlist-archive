@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Papillon entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,806 likes - 69 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,794 likes - 69 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

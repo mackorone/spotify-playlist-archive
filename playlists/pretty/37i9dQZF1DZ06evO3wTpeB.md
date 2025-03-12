@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,415 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,417 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 48 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 |
 | 49 | [Mientras](https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Mientras](https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su) | 3:10 |
 | 50 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 |
-| 51 | [Señor Papel](https://open.spotify.com/track/1TOulUzkYJRFxZQsGvavJz) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:56 |
 
 Snapshot ID: `Z8zaAAAAAAB4r+M4uqYhKV3c7Wplj9YK`

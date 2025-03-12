@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 862 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 48 | [EL REY DE MIL CORONAS \- En Vivo](https://open.spotify.com/track/607UzP52FhSsDKCAWasZ2S) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Tomas Madrigal](https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:40 |
 | 49 | [Siempre Pendientes \- En Vivo](https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:03 |
 | 50 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 |
-| 51 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 |
-| 52 | [EL AMOR NUNCA SE VENDE \- En Vivo](https://open.spotify.com/track/0FC0wOPpXiRT4Vu3tk8QAH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [EL AMOR NUNCA SE VENDE \(En Vivo\)](https://open.spotify.com/album/2dxsZvPEjOITBYHa91huZm) | 3:27 |
-| 53 | [La Cadenita \(Live\)](https://open.spotify.com/track/6rekTj3LwYOz9C4C2Tcz7g) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:32 |
 
 Snapshot ID: `Z8zaAAAAAADXeQYCQ1FMQ/8Ir2/LA4Bn`

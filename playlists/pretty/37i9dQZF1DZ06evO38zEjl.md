@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,185 likes - 51 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,186 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 48 | [Brussels](https://open.spotify.com/track/4ycirWx3Y9ZVlwbfD4s0ga) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 10:56 |
 | 49 | [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 |
 | 50 | [A La Dina](https://open.spotify.com/track/70KaHXdLkWGpYpxITkeBzM) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 3:27 |
-| 51 | [Solaire](https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 6:49 |
 
 Snapshot ID: `Z8zaAAAAAABvso3fVIVCQfSJou0Ur6St`

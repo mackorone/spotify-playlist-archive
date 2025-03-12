@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Ingrown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,317 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,373 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 16 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 |
 | 17 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 | 18 | [Dim](https://open.spotify.com/track/2aQOhBdbVnbmMGv7XmTNxc) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Dim](https://open.spotify.com/album/1inJ0dw9LMiPZTEHpkHmCC) | 1:07 |
-| 19 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BAD WORLD](https://open.spotify.com/artist/1c4nvMa8NCwftryOF6po9J) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
+| 19 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BAD WORLD](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 20 | [Uzis Akimbo](https://open.spotify.com/track/0exSl8RLQhsR2IsXZwxgYx) | [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Weapon of Pleasure](https://open.spotify.com/album/7suLwWGbNcaCkbExdOiHKI) | 2:33 |
 | 21 | [CRUSH](https://open.spotify.com/track/0bOmjCMJZbDXuQUzTByKRx) | [Crush Your Soul](https://open.spotify.com/artist/5cPuAhAKfhw715sOdA37Xo) | [LIVING GRACIOUS](https://open.spotify.com/album/6LMshWf9f0CCrXzF48ifsq) | 1:24 |
 | 22 | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/track/3xlNhQWwb0WS3w6P3VJpJF) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/album/0B0BWGwmFIg2OUqbYLSUge) | 1:26 |

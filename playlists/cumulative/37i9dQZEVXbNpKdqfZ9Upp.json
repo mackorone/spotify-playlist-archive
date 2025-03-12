@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "111",
+      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
+    },
+    {
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 177333,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
@@ -4896,7 +4914,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 294709,
       "name": "BADDIE",
       "url": "https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s"
@@ -7392,7 +7410,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 186612,
       "name": "Busy Woman",
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
@@ -8274,7 +8292,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -9926,6 +9944,28 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
+    },
+    {
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165482,
+      "name": "COMO CAPO",
+      "url": "https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF"
     },
     {
       "album": {
@@ -12460,7 +12500,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -13034,7 +13074,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -14168,7 +14208,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -17017,6 +17057,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1\u00e1ndote",
         "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
       },
@@ -17308,6 +17370,24 @@
       "duration_ms": 184960,
       "name": "Fantastic (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
+    },
+    {
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186212,
+      "name": "FANTAS\u00cdA",
+      "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
     },
     {
       "album": {
@@ -18274,6 +18354,32 @@
       "duration_ms": 161567,
       "name": "FLY HIGHH",
       "url": "https://open.spotify.com/track/0tr4QmSTXDBOrrqkOV26Gt"
+    },
+    {
+      "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220210,
+      "name": "Fogata (Leo)",
+      "url": "https://open.spotify.com/track/7K7DguUbhOem9KjjIj4reP"
     },
     {
       "album": {
@@ -20134,6 +20240,32 @@
       "duration_ms": 188546,
       "name": "Half a Heart",
       "url": "https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb"
+    },
+    {
+      "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239568,
+      "name": "Happy (Libra)",
+      "url": "https://open.spotify.com/track/0c1Nxty4lg18IaY1eBd8mi"
     },
     {
       "album": {
@@ -25305,6 +25437,32 @@
     },
     {
       "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
+    },
+    {
+      "album": {
         "name": "LA PANTERA NEGRA",
         "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
       },
@@ -29722,7 +29880,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 201307,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/63ZVyUi9weRwuMf1QsbDnY"
@@ -30646,7 +30804,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 183954,
       "name": "Mi Orgullo",
       "url": "https://open.spotify.com/track/5HWickg10vbWoyPgmkyKKq"
@@ -34550,7 +34708,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 218508,
       "name": "Nothing Breaks Like a Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
@@ -35883,6 +36041,32 @@
     },
     {
       "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154300,
+      "name": "Otro Nivel (Capricornio)",
+      "url": "https://open.spotify.com/track/5StGNUxMLAIMqTDpTtA3aj"
+    },
+    {
+      "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
@@ -36690,7 +36874,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 218591,
       "name": "Parte & Choke (with Ryan Castro) - Remix",
       "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
@@ -39291,6 +39475,24 @@
     },
     {
       "album": {
+        "name": "Intimidad",
+        "url": "https://open.spotify.com/album/0ahmvjD0gGLIRpjb1nKyZL"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Napoles",
+          "url": "https://open.spotify.com/artist/0amncpo70dLifUC89b67Qh"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193374,
+      "name": "Purif\u00edcame",
+      "url": "https://open.spotify.com/track/6RIYrFfrrtY0tcrdtLIYGV"
+    },
+    {
+      "album": {
         "name": "Puro Campe\u00f3n",
         "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
@@ -40914,6 +41116,24 @@
       "duration_ms": 519289,
       "name": "Residente: Bzrp Music Sessions, Vol. 49",
       "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
     },
     {
       "album": {
@@ -54896,6 +55116,28 @@
       "duration_ms": 161599,
       "name": "Ya No Te Hago Falta",
       "url": "https://open.spotify.com/track/4RIi1gNmKDzSH04Vvws2DK"
+    },
+    {
+      "album": {
+        "name": "Ya No Te Hago Falta (Con Ed Maverick)",
+        "url": "https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Ya No Te Hago Falta (Con Ed Maverick)",
+      "url": "https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi"
     },
     {
       "album": {

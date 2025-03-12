@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,343 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,361 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 5 | [Behind Every Decision](https://open.spotify.com/track/2kbruQXVXFmxxm4l75zuwy) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Preludes, Book 2 \- Torrents](https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY) | 1:45 |
 | 6 | [Key](https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 1:05 |
 | 7 | [if it's real, then i'll stay](https://open.spotify.com/track/6MIouIaP6WqE6o9Uo25gdO) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [if it's real, then i'll stay](https://open.spotify.com/album/4ruJGXEb7mZlxI6mhKgGnU) | 3:04 |
-| 8 | [i was only temporary 2 u](https://open.spotify.com/track/1xyN0kSLjNWV1n9aSpia2m) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary 2 u](https://open.spotify.com/album/4hWU6zvJs0p0eUdUmjQHBj) | 1:36 |
+| 8 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 |
 | 9 | [this feeling](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling](https://open.spotify.com/album/4pxgrlu74Sk31RrGRH8FjL) | 1:34 |
-| 10 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 |
+| 10 | [i was only temporary 2 u](https://open.spotify.com/track/1xyN0kSLjNWV1n9aSpia2m) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary 2 u](https://open.spotify.com/album/4hWU6zvJs0p0eUdUmjQHBj) | 1:36 |
 | 11 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 |
 | 12 | [It feels like I've forgotten something](https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [It feels like I've forgotten something](https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH) | 2:12 |
 | 13 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 28 | [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 |
 | 29 | [Pueblo Man](https://open.spotify.com/track/6Hbnhac6poCnife9O5aCeZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 2:48 |
 | 30 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
-| 31 | [Una Mattina](https://open.spotify.com/track/42MVaS7YXlnjRqZBdDcr4Q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Una Mattina](https://open.spotify.com/album/4LYtNC6YWam4WW1KxATidg) | 3:23 |
-| 32 | [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 |
+| 31 | [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 |
+| 32 | [Una Mattina](https://open.spotify.com/track/42MVaS7YXlnjRqZBdDcr4Q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Una Mattina](https://open.spotify.com/album/4LYtNC6YWam4WW1KxATidg) | 3:23 |
 | 33 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
-| 34 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
-| 35 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
+| 34 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
+| 35 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
 | 36 | [deep reverie](https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [deep reverie](https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m) | 2:33 |
 | 37 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
 | 38 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 42 | [NYC](https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [SOFLUX](https://open.spotify.com/artist/2aV3s66tX4LZoBOzOsebZQ) | [NYC](https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw) | 1:51 |
 | 43 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |
 | 44 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
-| 45 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
-| 46 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 |
-| 47 | [Destination Unknown](https://open.spotify.com/track/5h6cmdZwbtZKRq9fW0upt6) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Oblivion](https://open.spotify.com/album/32oTot2l5dFqJuxHX3pqyX) | 2:52 |
-| 48 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
-| 49 | [I wish you never left](https://open.spotify.com/track/4AdLYkDiso32rnGCNyrbpZ) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [I wish you never left](https://open.spotify.com/album/73FwdotjhGwThHRk2TBJ2h) | 1:50 |
-| 50 | [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 |
+| 45 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 |
+| 46 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
+| 47 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
+| 48 | [Destination Unknown](https://open.spotify.com/track/5h6cmdZwbtZKRq9fW0upt6) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Oblivion](https://open.spotify.com/album/32oTot2l5dFqJuxHX3pqyX) | 2:52 |
+| 49 | [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 |
+| 50 | [I wish you never left](https://open.spotify.com/track/4AdLYkDiso32rnGCNyrbpZ) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [I wish you never left](https://open.spotify.com/album/73FwdotjhGwThHRk2TBJ2h) | 1:50 |
 
 Snapshot ID: `Zk170AAAAACzUdSP67TLINih2b5Z1NRH`

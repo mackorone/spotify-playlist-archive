@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,083 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,973 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 62 | [My Type](https://open.spotify.com/track/2QDAcDBws8M6CJ3Vi8JVDE) | [LG \(TEAM GENIUS\)](https://open.spotify.com/artist/7iI4KMaRDjJGuHA6QLGnJx) | [Colors](https://open.spotify.com/album/4LMqI9dsUMYb7z7TFq3cvA) | 2:12 |
 | 63 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
 | 64 | [Get Gone](https://open.spotify.com/track/5B220KelBGlzYwKrChQezA) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Gone](https://open.spotify.com/album/1WuwRUmQxBxYMP85xvv4lY) | 1:41 |
-| 65 | [Chapter 6 Many Mistakes](https://open.spotify.com/track/34hGO0paF4XgeZU7N3g4Ox) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Jaye Prime](https://open.spotify.com/artist/3GNWyrS8nqvk8UfmOdFycE) | [THIS IS A COPING MECHANISM FOR A BROKEN HEART](https://open.spotify.com/album/6j5wP4VoQ3NZytkO1bEcHZ) | 5:24 |
+| 65 | [Chapter 6 Many Mistakes](https://open.spotify.com/track/34hGO0paF4XgeZU7N3g4Ox) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Jaye Prime](https://open.spotify.com/artist/3GNWyrS8nqvk8UfmOdFycE) | [THIS IS A COPING MECHANISM FOR A BROKEN HEART](https://open.spotify.com/album/6j5wP4VoQ3NZytkO1bEcHZ) | 3:27 |
 | 66 | [I Like Myself \(Most Of The Time\)](https://open.spotify.com/track/6EOXpBcrUWT1EVeDuSJNgU) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 4:05 |
 | 67 | [Hard to Kill](https://open.spotify.com/track/2W830GhisPFzMAZOlKNBcY) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Don’t You Think You’ve Had Enough?](https://open.spotify.com/album/1wAaE8ae7uJ0F8ZDxXYcCW) | 3:26 |
 | 68 | [the ground below \(feat\. Royal Blood\) \- Royal Jewels Mix](https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [the ground below \(feat\. Royal Blood\) \[Royal Jewels Mix\]](https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,163 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,226 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 8 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 |
 | 9 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
 | 10 | [Sonido Bestial](https://open.spotify.com/track/682K8AJvxcAaUWgjuQSmmN) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A life time of Hits.\. \(Live At Centro De Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/6ZcpYhA2AErirv2nt3R7U2) | 9:58 |
-| 11 | [Salome](https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [With A Little Help From My Friend](https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw) | 4:42 |
-| 12 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
+| 11 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
+| 12 | [Salome](https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [With A Little Help From My Friend](https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw) | 4:42 |
 | 13 | [Aguanile](https://open.spotify.com/track/3EVhVW2ixQuzt92qmFWGD6) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 6:09 |
 | 14 | [Lluvia Con Nieve](https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averigua](https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK) | 2:57 |
 | 15 | [El Negro Bembon](https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [El Sonero Mayor](https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ) | 3:03 |

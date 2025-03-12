@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 334241,
+  "num_followers": 334234,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
       "duration_ms": 171692,
       "name": "Parado no Bail\u00e3o",
       "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -59,22 +75,6 @@
       "duration_ms": 204930,
       "name": "Ela \u00c9 do Tipo",
       "url": "https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
         "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 201532,
       "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
       "url": "https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 277125,
-      "name": "Cheia de Manias - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Medley da Gaiola (DENNIS Remix)",
         "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
       },
@@ -307,6 +287,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 277125,
+      "name": "Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Jogo do Amor",
         "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 144039,
       "name": "Jogo do Amor",
       "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "A\u00ed Eu Bebo (ao Vivo)",
-        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 173891,
-      "name": "A\u00ed Eu Bebo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -355,6 +339,22 @@
       "duration_ms": 206270,
       "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
       "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "A\u00ed Eu Bebo (ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 173891,
+      "name": "A\u00ed Eu Bebo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "NO CH\u00c3O NOVINHA",
+        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "NO CH\u00c3O NOVINHA",
+      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Saudade N\u00edvel Hard",
         "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "12 Horas",
         "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 240048,
       "name": "12 Horas",
       "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Vai Dar Pt",
-        "url": "https://open.spotify.com/album/7fVOEgTLMm6nVAW8Cuh0ku"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 179255,
-      "name": "Vai Dar Pt",
-      "url": "https://open.spotify.com/track/5yraOKvNuFWP4waSl6ey8Q"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Quarenight",
         "url": "https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 152400,
       "name": "Pagod\u00e3o in the Usa",
       "url": "https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Vai Dar Pt",
+        "url": "https://open.spotify.com/album/7fVOEgTLMm6nVAW8Cuh0ku"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 179255,
+      "name": "Vai Dar Pt",
+      "url": "https://open.spotify.com/track/5yraOKvNuFWP4waSl6ey8Q"
     },
     {
       "added_at": "2023-01-17 01:33:36",

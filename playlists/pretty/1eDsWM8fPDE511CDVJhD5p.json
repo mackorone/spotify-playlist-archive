@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEvARx9JQPijZDvjfG6DFVKQDpxV1K",
+  "snapshot_id": "AAAEy64CNE8pU7AkKe1IbbK15OEQRP/j",
   "tracks": [
+    {
+      "added_at": "2025-03-11 08:19:32",
+      "album": {
+        "name": "\u6df1\u3044\u68ee\u306e\u306a\u304b\u3067",
+        "url": "https://open.spotify.com/album/3jQeIXp1puMMZ6Mlu4o27q"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "duration_ms": 297614,
+      "name": "\u6df1\u3044\u68ee\u306e\u306a\u304b\u3067",
+      "url": "https://open.spotify.com/track/4avoU6h4nOUP6uLl0CxZMy"
+    },
+    {
+      "added_at": "2025-03-11 08:19:47",
+      "album": {
+        "name": "\u6df7\u6c8c\u30d6\u30ae (irucaice Remix)",
+        "url": "https://open.spotify.com/album/3W9QTUbFXpaVeWs01RHdaS"
+      },
+      "artists": [
+        {
+          "name": "irucaice",
+          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
+        },
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "\u6df7\u6c8c\u30d6\u30ae (irucaice Remix) (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3CAFhfvd9pkhJAl6Yg3GvI"
+    },
+    {
+      "added_at": "2025-03-11 08:19:59",
+      "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/5n4lcKKCXO7mSNmPzSuqtl"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 258987,
+      "name": "Step by Step (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/4FuYUbHeEhCXrZbjvYn1Cg"
+    },
+    {
+      "added_at": "2025-03-11 08:20:11",
+      "album": {
+        "name": "\u541b\u306e\u30cf\u30fc\u30c8\u3092\u30c1\u30af\u30c1\u30af\u30c1\u30af\u30c1\u30af",
+        "url": "https://open.spotify.com/album/507PJZTZWxnEP6w8vOEJwb"
+      },
+      "artists": [
+        {
+          "name": "Satsuki ga Tenkomori",
+          "url": "https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "\u541b\u306e\u30cf\u30fc\u30c8\u3092\u30c1\u30af\u30c1\u30af\u30c1\u30af\u30c1\u30af (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2I2Uh63XDTlhVQ0GI0vqJP"
+    },
+    {
+      "added_at": "2025-03-11 08:20:23",
+      "album": {
+        "name": "VOCALO EDM COLLECTION feat. Miku Hatsune",
+        "url": "https://open.spotify.com/album/6BFIt7SLczxOz6OYZSuOdf"
+      },
+      "artists": [
+        {
+          "name": "Polyphonix",
+          "url": "https://open.spotify.com/artist/1BdkE43dJQYqJ8bUqyRkTX"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "The Way You Groove",
+      "url": "https://open.spotify.com/track/1DS52xKketo14ZRORhh4XH"
+    },
     {
       "added_at": "2025-03-04 08:28:52",
       "album": {
@@ -719,102 +811,6 @@
       "duration_ms": 206956,
       "name": "\u898b\u3048\u306a\u3044 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3DYmlU1SU2GktyA75gzrcc"
-    },
-    {
-      "added_at": "2024-12-10 07:25:06",
-      "album": {
-        "name": "\u3057\u3093\u304b\u3057\u3093\u304b\u3057\u3093\u304b",
-        "url": "https://open.spotify.com/album/3dJMBG9pAbIX9BdIr2ELIF"
-      },
-      "artists": [
-        {
-          "name": "Sasuke Haraguchi",
-          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "\u3057\u3093\u304b\u3057\u3093\u304b\u3057\u3093\u304b (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4irvh5PItOnmPyl20kqdg8"
-    },
-    {
-      "added_at": "2024-12-10 07:25:20",
-      "album": {
-        "name": "\u304b\u3055\u306d\u308b\u307e\u305f\u305f\u304d",
-        "url": "https://open.spotify.com/album/16WF49J4znpPj0Kqok2KUg"
-      },
-      "artists": [
-        {
-          "name": "\u3044\u3048\u306c",
-          "url": "https://open.spotify.com/artist/2rbZcnXFVM4EJmU4MyZmwr"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "\u30a2\u30de\u30c9\u30a4\u30c9\u30ea\u30c3\u30d7 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/3qFArOuTwJb2b3Ice2vquh"
-    },
-    {
-      "added_at": "2024-12-10 07:25:32",
-      "album": {
-        "name": "\u604b\u611b\u5de5\u5834",
-        "url": "https://open.spotify.com/album/3EOqhag1jUzUxpF50NbqSf"
-      },
-      "artists": [
-        {
-          "name": "tepe",
-          "url": "https://open.spotify.com/artist/2Dc4S00e5Toq28b7HT9VOu"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "\u604b\u611b\u5de5\u5834",
-      "url": "https://open.spotify.com/track/2xCq5KdCsJyP9rNKyzBoXu"
-    },
-    {
-      "added_at": "2024-12-10 07:25:43",
-      "album": {
-        "name": "Check this out",
-        "url": "https://open.spotify.com/album/4Q4mLQjz6tvhWa3qHQ7Y1f"
-      },
-      "artists": [
-        {
-          "name": "*Luna",
-          "url": "https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 254425,
-      "name": "Check this out (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0DOTvaMaYceKachQIEDsO7"
-    },
-    {
-      "added_at": "2024-12-10 07:25:55",
-      "album": {
-        "name": "SECRET.",
-        "url": "https://open.spotify.com/album/6JP1CSVqUGcrbdTGawgERy"
-      },
-      "artists": [
-        {
-          "name": "Osanzi",
-          "url": "https://open.spotify.com/artist/5sGhbLKSiDfJXWg8A0B7fX"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "LiFE (Album Edit)",
-      "url": "https://open.spotify.com/track/1oEAvL0AOjfHk3iXNeVZeY"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

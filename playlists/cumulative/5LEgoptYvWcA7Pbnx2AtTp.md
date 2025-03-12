@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-162 songs - 9 hr 10 min
+163 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Terry's Taxidermy](https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Splittsville](https://open.spotify.com/album/5YbIovTXkJS00GlBNcdTeS) | 5:41 | 2023-04-01 |  |
 | [That's Me](https://open.spotify.com/track/32SHYXEJZkpsnJkcggucM0) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:15 | 2024-09-19 |  |
 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2022-05-06 |  |
+| [The Bureau](https://open.spotify.com/track/2lDGj4Pi8UuQIPQdi8M9Eu) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:37 | 2025-03-12 |  |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 | 2024-10-09 |  |
 | [The Communists Have the Music](https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The Communists Have the Music](https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr) | 2:27 | 2022-05-06 |  |
 | [The Cringe \(feat\. Patton Oswalt\)](https://open.spotify.com/track/3tHa6meN0d6j7GLtXX3cEX) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Patton Oswalt](https://open.spotify.com/artist/6YvKo1VtZxCoT8IkbAYswy) | [Crazy Ex\-Girlfriend: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2iDGoikRLMHrmEHe6p1T8P) | 2:35 | 2024-10-14 |  |

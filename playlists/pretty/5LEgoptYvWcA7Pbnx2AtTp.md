@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 156 songs - 8 hr 58 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 157 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,5 +164,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 154 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 |
 | 155 | [The Slur Song](https://open.spotify.com/track/1GotsDLkupVeKLe1WgvOm2) | [Bigfoot's Biggest Fan](https://open.spotify.com/artist/55GtCELECsxXn2qGp4GvLg) | [The Slur Song](https://open.spotify.com/album/4sDwp4QXSbdDvSXzJ1K3jI) | 3:35 |
 | 156 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
+| 157 | [The Bureau](https://open.spotify.com/track/2lDGj4Pi8UuQIPQdi8M9Eu) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:37 |
 
-Snapshot ID: `AAAA0aGByPwoUVyvuviizaBqoB+Fqi+f`
+Snapshot ID: `AAAA0l+nO4NPUruYudvgwsPnKWs9iZdn`

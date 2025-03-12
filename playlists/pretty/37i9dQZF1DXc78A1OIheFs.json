@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18866,
+  "num_followers": 18864,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
-    },
-    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Chantilly",
@@ -363,6 +347,22 @@
       "duration_ms": 213459,
       "name": "Chantilly",
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165090,
       "name": "Boots 'N All",
       "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+        "name": "Might As Well Be Watching",
+        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+      "duration_ms": 203424,
+      "name": "Might As Well Be Watching",
+      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Might As Well Be Watching",
-        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
       "artists": [
         {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 203424,
-      "name": "Might As Well Be Watching",
-      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
       "added_at": "2025-02-20 13:00:26",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
-      "added_at": "2025-01-09 11:00:14",
-      "album": {
-        "name": "need u worse",
-        "url": "https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM"
-      },
-      "artists": [
-        {
-          "name": "Gloria Laing",
-          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
-        }
-      ],
-      "duration_ms": 225073,
-      "name": "need u worse",
-      "url": "https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Under One Roof",
@@ -787,6 +771,22 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+    },
+    {
+      "added_at": "2025-01-09 11:00:14",
+      "album": {
+        "name": "need u worse",
+        "url": "https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM"
+      },
+      "artists": [
+        {
+          "name": "Gloria Laing",
+          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
+        }
+      ],
+      "duration_ms": 225073,
+      "name": "need u worse",
+      "url": "https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM"
     },
     {
       "added_at": "2025-02-13 13:00:24",
@@ -1159,6 +1159,38 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "The Yellow Chapter",
+        "url": "https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO"
+      },
+      "artists": [
+        {
+          "name": "Cassie Henderson",
+          "url": "https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr"
+        }
+      ],
+      "duration_ms": 284627,
+      "name": "Admit to that",
+      "url": "https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "RNZ\u014c SZN",
         "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 166250,
       "name": "RNZ\u014c SZN",
       "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Sunday Stitches",
-        "url": "https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 183135,
-      "name": "Sunday Stitches",
-      "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "The Yellow Chapter",
-        "url": "https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO"
+        "name": "Sunday Stitches",
+        "url": "https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK"
       },
       "artists": [
         {
-          "name": "Cassie Henderson",
-          "url": "https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 284627,
-      "name": "Admit to that",
-      "url": "https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo"
+      "duration_ms": 183135,
+      "name": "Sunday Stitches",
+      "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
     },
     {
       "added_at": "2024-10-24 13:00:00",

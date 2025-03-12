@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-386 songs - 22 hr 52 min
+387 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 | 2024-02-27 |  |
 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 | 2024-02-27 |  |
 | [A\-YO](https://open.spotify.com/track/6Az2Ll2CPnWYQ2BgiHf4Di) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-02-27 |  |
-| [Afraid to Say It](https://open.spotify.com/track/02kOwnxZ5XHlO7JtPQaueS) | [Imani Pressley](https://open.spotify.com/artist/1fO9fHVqrLPmZjh5fbW05T) | [Feelings Like These](https://open.spotify.com/album/25NXYehq62yZpm3PGc5sRh) | 3:13 | 2024-06-29 |  |
+| [Afraid to Say It](https://open.spotify.com/track/02kOwnxZ5XHlO7JtPQaueS) | [Imani Pressley](https://open.spotify.com/artist/1fO9fHVqrLPmZjh5fbW05T) | [Feelings Like These](https://open.spotify.com/album/25NXYehq62yZpm3PGc5sRh) | 3:13 | 2024-06-29 | 2025-03-12 |
 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 | 2024-02-27 |  |
 | [All the Love You Left Me](https://open.spotify.com/track/53oKQO2Ag8A4ylOQTkdXDf) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Words](https://open.spotify.com/album/4IzQueTW4TG1V6hxEAtvcr) | 4:17 | 2024-02-27 |  |
 | [Almost Maybes](https://open.spotify.com/track/1BVzLiBS3MWmXzqcxBFJDt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:59 | 2024-02-27 |  |
@@ -56,6 +56,7 @@
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2024-02-27 |  |
 | [Buy My Own Drinks](https://open.spotify.com/track/6LhZAoMfux3P3DUxwOI7aG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/3HNVxd2fKr94wkdhyLH5nf) | 3:22 | 2024-02-27 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/6A3zkf3PbkhibQTWcb5RFu) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 5:40 | 2024-02-27 |  |
+| [Casseroles](https://open.spotify.com/track/3hOd6gdb1GDaeA1qEstzoh) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Casseroles](https://open.spotify.com/album/6HAn1loKc6GRDhQtsHRDAR) | 3:40 | 2025-03-11 |  |
 | [Chaser](https://open.spotify.com/track/76vVrWGgSYz7r0rYEwU807) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 4:22 | 2024-02-27 |  |
 | [Cheap Wine & Cigarettes](https://open.spotify.com/track/0XLFn1nogKrTOp70huYjw1) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5rS288rPuXrXGuy5djlS9G) | 2:43 | 2024-09-20 |  |
 | [Cheap Wine And Cigarettes](https://open.spotify.com/track/3oiobNGKdbU0ISzLTJH7Lu) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5xvHMriUro6MJdkjCVnEfz) | 2:43 | 2024-03-29 | 2024-09-21 |
@@ -205,7 +206,7 @@
 | [Love You Right](https://open.spotify.com/track/2JkTdxltC22nEQPXR9wrqh) | [Lindsey Walker](https://open.spotify.com/artist/6HjkMXAIbRvdtppck8j2Cp) | [Our Glory](https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS) | 5:09 | 2024-02-27 |  |
 | [Low](https://open.spotify.com/track/72pvSf3nSjqB4Fuph46kJK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:31 | 2024-02-27 |  |
 | [Low Country](https://open.spotify.com/track/641Lc1TXtZcYwGmggGlKS6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Style](https://open.spotify.com/album/6cYkNKykfCpIrai7LD2AVn) | 4:11 | 2024-02-27 |  |
-| [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 | 2024-02-27 | 2025-03-03 |
+| [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 | 2024-02-27 |  |
 | [Mama](https://open.spotify.com/track/4pEa9RNzmkmHxKIuJrKydq) | [Makossa](https://open.spotify.com/artist/0GWOdbhF4DpyEDsbU9JoCl), [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [3gga](https://open.spotify.com/artist/6G2wophy0LfYGYpHgCfgKB) | [Vienna Scientists V \- The 10th Anniversary](https://open.spotify.com/album/3YsgYxNCFhNujmOfUZapSd) | 4:52 | 2024-02-27 |  |
 | [Mansion](https://open.spotify.com/track/4anMp1snWhpCRzxWObDzRZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:12 | 2024-02-27 |  |
 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 | 2024-02-27 |  |

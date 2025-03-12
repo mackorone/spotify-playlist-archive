@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,537 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,538 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Крабовое Оружие](https://open.spotify.com/track/5ZIHK0EgB37Fptd0LWnhvH) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi), [Гриб Крабоид](https://open.spotify.com/artist/4qPJdZhMF5SVQnqEBc9Ns3) | [Крабовое Оружие](https://open.spotify.com/album/6u4qCvq6LKOfXgacD69KeT) | 2:19 |
 | 50 | [О Yeah](https://open.spotify.com/track/0AiyrJYL95afa6HzanHbKI) | [Yin\-Yang](https://open.spotify.com/artist/0WjNZcwh7ElaNtGQNIAG0J) | [Лучшее](https://open.spotify.com/album/6cgytbPndryLrWNYTdGvwr) | 3:36 |
 
-Snapshot ID: `L2JVoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2OnIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

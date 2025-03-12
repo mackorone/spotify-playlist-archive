@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,340 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,323 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 48 | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA) | 2:28 |
 | 49 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 |
 | 50 | [I'LL SHOW YOU](https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:18 |
-| 51 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
-| 52 | [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3bpkjtiwxCmEFIHkuNf3Oc) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg) | 2:51 |
 
 Snapshot ID: `Z8zaAAAAAAD0nC41ZCnTw2ZOMofNXoTB`

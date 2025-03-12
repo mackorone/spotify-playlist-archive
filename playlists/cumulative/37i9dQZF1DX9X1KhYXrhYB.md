@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-121 songs - 7 hr 55 min
+122 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Angst In My Pants](https://open.spotify.com/track/1Oovzlhz3SgYVFsDcJHpVn) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Angst In My Pants](https://open.spotify.com/album/7eMZ934Zpj7TrFsEhajh7q) | 3:29 | 2023-05-26 |  |
 | [Bells for Her \- 2015 Remaster](https://open.spotify.com/track/7e7HdfCu0sVcY1wXBFoxnB) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink \(2015 Remaster\)](https://open.spotify.com/album/3Lqd8nVPIU0X3vFrBZZPrB) | 5:18 | 2023-05-26 |  |
 | [Big Mouth](https://open.spotify.com/track/2QMaXlygnuShLvA0kIJ2jS) | [Necking](https://open.spotify.com/artist/5uEdnolxHzHzzVwXsDZuhL) | [Cut Your Teeth](https://open.spotify.com/album/3rwOmggQUOlF3gFHQglyJ1) | 2:45 | 2023-05-26 |  |
+| [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2025-03-11 |  |
 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 | 2023-05-26 |  |
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 | 2023-05-26 |  |
 | [Bumps](https://open.spotify.com/track/4bZoxAl4OwAuHYwRl1NzuY) | [I M U R](https://open.spotify.com/artist/3zJp99O5muOM6T31wat7FS) | [Little Death](https://open.spotify.com/album/6TpP63a6InKlHItjwf7wLp) | 3:43 | 2025-02-14 |  |

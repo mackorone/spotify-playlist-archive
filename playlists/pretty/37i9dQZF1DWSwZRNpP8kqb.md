@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,386 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,395 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 47 | [En el Fresco de la Noche](https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Cría](https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8) | 5:40 |
 | 48 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 |
 | 49 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
-| 50 | [Campo Afuera](https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG) | [Paola Arias](https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt), [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Uno Más 6](https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf) | 2:23 |
-| 51 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
+| 50 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
+| 51 | [Campo Afuera](https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG) | [Paola Arias](https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt), [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Uno Más 6](https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf) | 2:23 |
 | 52 | [Doña Ubenza](https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como Un Pájaro Libre \(Slidepack\)](https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH) | 3:16 |
 | 53 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 |
 | 54 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 79 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 |
 | 80 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
 | 81 | [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
-| 82 | [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 |
-| 83 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
+| 82 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
+| 83 | [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 |
 | 84 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 |
 | 85 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
 | 86 | [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6), [Osvaldo Burucuá](https://open.spotify.com/artist/4o3CBMINLIX737fRUA6rvn) | [Luz del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 90 | [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 |
 | 91 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
 | 92 | [Guitarra, Dímelo Tú](https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9) | [Suma Paz](https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe) | [Canto de Nadie](https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE) | 3:10 |
-| 93 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
-| 94 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
+| 93 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
+| 94 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
 | 95 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 |
 | 96 | [Podrás](https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Podrás](https://open.spotify.com/album/4oLTyOU9M8aUWnqibV7eff) | 4:01 |
 | 97 | [La Calle Soledad](https://open.spotify.com/track/0NRUAijlDhuHmTumwcjc2q) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Tucumana](https://open.spotify.com/album/3ZRoq7AUTKnwhkrEia1MBG) | 2:35 |

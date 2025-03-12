@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lady Gaga \(Cover\), Doechii, JENNIE, LUNAX und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,134 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,121 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 67 | [Irgendwas](https://open.spotify.com/track/6wzyjy4ffei3R3Lde785H8) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Stadium Rock](https://open.spotify.com/album/3lyeHas9Bvfs0UgC3Uqob7) | 1:52 |
 | 68 | [Was im Club passiert](https://open.spotify.com/track/45BiMfZarF8PkihqmtvQAj) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Was im Club passiert](https://open.spotify.com/album/1F581lf1iJmaofYU1799nP) | 2:16 |
 | 69 | [Baller](https://open.spotify.com/track/0HC1H02wwYyCFYAimqyOkF) | [idolinjo](https://open.spotify.com/artist/7slJ8mgbVwvyPEzQMJ5qYO) | [Baller](https://open.spotify.com/album/6oXYYkfoiwfr9t3jnwX5hQ) | 2:18 |
-| 70 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
+| 70 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
 | 71 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
 | 72 | [ELLA](https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [ELLA](https://open.spotify.com/album/6i9CQKkqBHumFjUaW5XHF9) | 2:10 |
 | 73 | [lifestyle](https://open.spotify.com/track/51skUb722kPEubNWcZ08Z9) | [Yungpalo](https://open.spotify.com/artist/3TOydtHug7dBEddnhGvsJt), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [lifestyle](https://open.spotify.com/album/1n2OceS0qy2ZhDwbR3i6wp) | 1:59 |

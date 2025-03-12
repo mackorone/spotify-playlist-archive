@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,811 likes - 456 songs - 23 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,928 likes - 456 songs - 23 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,7 +399,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 389 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 |
 | 390 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 |
 | 391 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 |
-| 392 | [Just The Kinda Feeling \- Nicky Elisabeth Remix](https://open.spotify.com/track/6bZHIYoZn2Lz8sOGZCthYQ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C), [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Just The Kinda Feeling \(Nicky Elisabeth Remix\)](https://open.spotify.com/album/1YD0barVcolgJVSdzRwzeX) | 2:54 |
+| 392 | [Just The Kinda Feeling \- Nicky Elisabeth Remix](https://open.spotify.com/track/6bZHIYoZn2Lz8sOGZCthYQ) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C), [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Just The Kinda Feeling \(Nicky Elisabeth Remix\)](https://open.spotify.com/album/1YD0barVcolgJVSdzRwzeX) | 2:54 |
 | 393 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 |
 | 394 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 395 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |

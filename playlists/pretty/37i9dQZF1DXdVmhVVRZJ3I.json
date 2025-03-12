@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 303969,
+  "num_followers": 304165,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Rhythm of the Night",
         "url": "https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 197276,
       "name": "Rhythm of the Night",
       "url": "https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -671,30 +671,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Devotion (2020 Remix)",
-        "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
-        },
-        {
-          "name": "Fafaq",
-          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
-        }
-      ],
-      "duration_ms": 152131,
-      "name": "Devotion - 2020 Remix",
-      "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "All One",
         "url": "https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 223561,
       "name": "All One",
       "url": "https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Devotion (2020 Remix)",
+        "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Fafaq",
+          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
+        }
+      ],
+      "duration_ms": 152131,
+      "name": "Devotion - 2020 Remix",
+      "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
     },
     {
       "added_at": "2025-03-07 03:01:18",

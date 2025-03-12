@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-330 songs - 13 hr 30 min
+331 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Vejez](https://open.spotify.com/track/47Ii11LwTCgCh8COwyUl4A) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/29Xsf0VtVumQRAjDoXUOAo) | 2:18 | 2024-01-05 | 2024-04-19 |
 | [Vejez](https://open.spotify.com/track/7JqiCSsdTJ8pbELhBGcTi8) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/6z16FGd8h6MyiYSJrUhu3l) | 2:18 | 2022-04-28 |  |
 | [Verse and stanza](https://open.spotify.com/track/3E1huSmDgsuGGeFlxzNXUp) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Verse and stanza](https://open.spotify.com/album/0NJMGKE0TSmqujdeu2Dspx) | 2:00 | 2023-06-27 |  |
+| [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 | 2025-03-11 |  |
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-01-20 |  |
 | [Vivendi](https://open.spotify.com/track/6QvGC8d8dZLjYRYXlyTZ4l) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Vivendi](https://open.spotify.com/album/2JC2acFqCcCcPoeqLjioKK) | 2:13 | 2022-09-13 |  |
 | [Voyage](https://open.spotify.com/track/6gWTdD4L4Gm6LQbMKar2Zt) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Voyage](https://open.spotify.com/album/2ZMPudQfQWXl5IR9x7N5JI) | 3:13 | 2024-09-10 |  |

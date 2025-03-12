@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 48 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 | 49 | [mmm bye \(feat\. Ramengvrl\)](https://open.spotify.com/track/6oCft85iziwvcP4P1O0EcY) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [mmm bye \(feat\. Ramengvrl\)](https://open.spotify.com/album/0xQlcCXpwBMZdJ77YnOXi8) | 2:18 |
 | 50 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 |
-| 51 | [Go! \(I Can Be Your\)](https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Go! \(I Can Be Your\)](https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT) | 2:52 |
 
 Snapshot ID: `Z8zaAAAAAACcFOtXQjatw69EQBvYE78W`

@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 28802,
+  "num_followers": 28820,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Let's Start Degeneracy",
-        "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 177080,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Let's Start Degeneracy",
+        "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV"
     },
     {
-      "added_at": "2024-12-04 13:59:39",
-      "album": {
-        "name": "Machines",
-        "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 246798,
-      "name": "Machines",
-      "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Under The Skin",
@@ -759,6 +743,22 @@
       "duration_ms": 252000,
       "name": "Under The Skin",
       "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
+    },
+    {
+      "added_at": "2024-12-04 13:59:39",
+      "album": {
+        "name": "Machines",
+        "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 246798,
+      "name": "Machines",
+      "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Dulling The Horns",
-        "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Sprinter Brain",
-      "url": "https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "There Goes The Neighbourhood",
         "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Suck The Cherry",
-        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+        "name": "Dulling The Horns",
+        "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
       },
       "artists": [
         {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
         }
       ],
-      "duration_ms": 183246,
-      "name": "Suck The Cherry",
-      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
+      "duration_ms": 223146,
+      "name": "Sprinter Brain",
+      "url": "https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -875,6 +859,22 @@
       "duration_ms": 181521,
       "name": "Start A Comeback",
       "url": "https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Suck The Cherry",
+        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 183246,
+      "name": "Suck The Cherry",
+      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
     },
     {
       "added_at": "2024-12-04 12:15:00",

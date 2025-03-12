@@ -1,6 +1,6 @@
 {
   "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BELL WARISARA",
-  "num_followers": 117506,
+  "num_followers": 117546,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-03-05 19:33:52",
       "album": {
+        "name": "\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
+        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
+      },
+      "artists": [
+        {
+          "name": "Pramote Vilepana",
+          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
+    },
+    {
+      "added_at": "2025-03-05 19:33:52",
+      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
-    },
-    {
-      "added_at": "2025-03-05 19:33:52",
-      "album": {
-        "name": "\u0e23\u0e49\u0e2d\u0e07\u0e19\u0e33",
-        "url": "https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf"
-      },
-      "artists": [
-        {
-          "name": "Pramote Vilepana",
-          "url": "https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e14\u0e32\u0e27\u0e40\u0e15\u0e47\u0e21\u0e1f\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6"
     },
     {
       "added_at": "2025-03-05 19:33:52",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-03-05 19:33:52",
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
+    },
+    {
+      "added_at": "2025-03-05 19:33:52",
+      "album": {
         "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 212500,
       "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
-    },
-    {
-      "added_at": "2025-03-05 19:33:52",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
     },
     {
       "added_at": "2025-03-05 19:33:52",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-03-05 19:33:52",
       "album": {
-        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
-    },
-    {
-      "added_at": "2025-03-05 19:33:52",
-      "album": {
         "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
         "url": "https://open.spotify.com/album/3nzV3XSNqlty0vXv0oCIAr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 183614,
       "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
       "url": "https://open.spotify.com/track/33HEdA0Wu5xvl1tBoTwrb8"
+    },
+    {
+      "added_at": "2025-03-05 19:33:52",
+      "album": {
+        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
     },
     {
       "added_at": "2025-03-05 19:33:52",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2025-03-05 19:33:52",
       "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e01\u0e47\u0e1e\u0e2d",
-        "url": "https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd"
+        "name": "\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e32\u0e01\u0e32\u0e23 (Heartquake)",
+        "url": "https://open.spotify.com/album/35Pm6UpEeUQtTBrTxT342m"
       },
       "artists": [
         {
-          "name": "TOR Saksit",
-          "url": "https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR"
-        },
-        {
-          "name": "Wonderframe",
-          "url": "https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9"
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
         }
       ],
-      "duration_ms": 245636,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e01\u0e47\u0e1e\u0e2d feat. Wonderframe",
-      "url": "https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I"
+      "duration_ms": 202434,
+      "name": "\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e32\u0e01\u0e32\u0e23 - Heartquake",
+      "url": "https://open.spotify.com/track/6IhouTQgPPFY8GIR9JpFhB"
     },
     {
       "added_at": "2025-03-05 19:33:52",
@@ -1419,6 +1415,26 @@
       "duration_ms": 219500,
       "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you) feat. TWOPEE",
       "url": "https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA"
+    },
+    {
+      "added_at": "2025-03-05 19:33:52",
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e01\u0e47\u0e1e\u0e2d",
+        "url": "https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd"
+      },
+      "artists": [
+        {
+          "name": "TOR Saksit",
+          "url": "https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR"
+        },
+        {
+          "name": "Wonderframe",
+          "url": "https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9"
+        }
+      ],
+      "duration_ms": 245636,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e01\u0e47\u0e1e\u0e2d feat. Wonderframe",
+      "url": "https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I"
     },
     {
       "added_at": "2025-03-05 19:33:52",
@@ -1455,22 +1471,6 @@
       "duration_ms": 172000,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
       "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
-    },
-    {
-      "added_at": "2025-03-05 19:33:52",
-      "album": {
-        "name": "\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e32\u0e01\u0e32\u0e23 (Heartquake)",
-        "url": "https://open.spotify.com/album/35Pm6UpEeUQtTBrTxT342m"
-      },
-      "artists": [
-        {
-          "name": "Praesun",
-          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e32\u0e01\u0e32\u0e23 - Heartquake",
-      "url": "https://open.spotify.com/track/6IhouTQgPPFY8GIR9JpFhB"
     },
     {
       "added_at": "2025-03-05 19:33:52",

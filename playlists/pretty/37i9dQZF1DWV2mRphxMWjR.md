@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 
 > The official playlist for "ONE PIECE FILM RED"\. <a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。 ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,155 likes - 76 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,142 likes - 76 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 75 | [絶望トットムジカ](https://open.spotify.com/track/1481hejmBZuoeyZHOkARlM) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:09 |
 | 76 | [RED　海賊の生きざま](https://open.spotify.com/track/3ektWJ35SuVMvcMwrflilV) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:47 |
 
-Snapshot ID: `Zo38HAAAAACwQ4Q0h60XJses/Jl6jpJI`
+Snapshot ID: `Z9ASAAAAAAB/SVSDrtE0pqoyQfWhFpiK`

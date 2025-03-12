@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-376 songs - 17 hr 1 min
+377 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 | 2023-11-24 |
 | [As Lovely as You](https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [As Lovely As You](https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4) | 3:07 | 2022-05-13 | 2024-05-10 |
 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 | 2022-05-13 | 2024-04-06 |
+| [At a Glance](https://open.spotify.com/track/0ohcThy8ktuaj2QoGfiROC) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [At a Glance](https://open.spotify.com/album/10T5DllHUZDAkwudvT9QUV) | 2:28 | 2025-03-11 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 | 2022-06-10 |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 |  |
 | [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 | 2022-10-07 |

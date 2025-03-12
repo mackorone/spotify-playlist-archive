@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Mau P at the Sphere \ud83d\udc8a 50% techno, 50% house",
-  "num_followers": 653029,
+  "num_followers": 653088,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1693,6 +1693,26 @@
       "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
     },
     {
+      "added_at": "2025-02-14 05:00:34",
+      "album": {
+        "name": "Force",
+        "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
+      },
+      "artists": [
+        {
+          "name": "8181 Enzo",
+          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "duration_ms": 164544,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
+    },
+    {
       "added_at": "2025-01-24 05:00:51",
       "album": {
         "name": "Push The Tempo (Odd Mob Remix)",
@@ -1733,26 +1753,6 @@
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
-      "added_at": "2025-02-14 05:00:34",
-      "album": {
-        "name": "Force",
-        "url": "https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK"
-      },
-      "artists": [
-        {
-          "name": "8181 Enzo",
-          "url": "https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR"
-        },
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
-        }
-      ],
-      "duration_ms": 164544,
-      "name": "Force",
-      "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "See You Sweat",
@@ -1771,34 +1771,6 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "YES B!TCH (feat. Rome Fortune)",
-        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Sam WOLFE",
-          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 153569,
-      "name": "YES B!TCH (feat. Rome Fortune)",
-      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1839,6 +1811,34 @@
       "duration_ms": 188307,
       "name": "Bread (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/2a7S20OOYMYdwka6SxCynO"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "YES B!TCH (feat. Rome Fortune)",
+        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 153569,
+      "name": "YES B!TCH (feat. Rome Fortune)",
+      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
       "added_at": "2024-07-26 04:00:00",

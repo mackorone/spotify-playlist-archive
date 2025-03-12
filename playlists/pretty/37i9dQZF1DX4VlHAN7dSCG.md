@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 麋先生 \(Mixer\) x 阿信 \(Ashin Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,889 likes - 66 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,892 likes - 66 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

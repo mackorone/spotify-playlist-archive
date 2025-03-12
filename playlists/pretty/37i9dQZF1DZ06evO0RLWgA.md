@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,167 likes - 51 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,171 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 48 | [Drug Store Woman](https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:47 |
 | 49 | [No Shoes](https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:25 |
 | 50 | [The Wanderings of The Avener \- Continuous Mix](https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W), [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Adam Cohen](https://open.spotify.com/artist/1sKo8LpXbhcTHtd9moNCMk), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [The Wanderings Of The Avener](https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP) | 54:10 |
-| 51 | [The Healing Game](https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 5:09 |
 
 Snapshot ID: `Z8zaAAAAAAAv5bAOMuDlqMq5v4YEs+f5`

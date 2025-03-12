@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 6814,
+  "num_followers": 6817,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
+        "name": "Somebody to You",
+        "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228690,
+      "name": "Somebody to You",
+      "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
-        "name": "Somebody to You",
-        "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
-      },
-      "artists": [
-        {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
-        },
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228690,
-      "name": "Somebody to You",
-      "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 282932,
-      "name": "Naomba",
-      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "My God Can",
         "url": "https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 193253,
       "name": "My God Can",
       "url": "https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 282932,
+      "name": "Naomba",
+      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
     },
     {
       "added_at": "2024-12-05 23:59:00",

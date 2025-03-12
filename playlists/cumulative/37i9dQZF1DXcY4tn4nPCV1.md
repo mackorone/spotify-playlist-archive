@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-475 songs - 20 hr 11 min
+477 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-04-04 | 2022-05-21 |
 | [Little Boy](https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Little Boy](https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT) | 2:02 | 2024-03-19 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-02 |  |
+| [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-04-04 | 2022-05-21 |
 | [Look Up Into The Sky](https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Look Up Into The Sky](https://open.spotify.com/album/77hIdlLy7Fzt7KDpWakVte) | 2:02 | 2024-03-19 |  |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-04 | 2022-07-08 |
@@ -341,6 +342,7 @@
 | [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2022-04-04 | 2023-04-05 |
 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 | 2022-04-04 | 2024-03-26 |
 | [Satnam](https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z) | [Nathaniel Keys](https://open.spotify.com/artist/1hwg5trEAbDiMWVaV0jhpq) | [Satnam](https://open.spotify.com/album/4MZPC36fdwtJlnvFdI5H64) | 2:14 | 2022-12-22 |  |
+| [Scordare](https://open.spotify.com/track/77vE4wYi6jMVVYJ95HTrWK) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Scordare](https://open.spotify.com/album/3GGZXHDVHpJYpiOgNFw4KS) | 2:19 | 2025-03-11 |  |
 | [Scrim\-covered](https://open.spotify.com/track/2aXJs8TTJKtOdpqDShkXDk) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Scrim\-covered](https://open.spotify.com/album/6ts1khMZNkMStZLJ2u1PgF) | 2:03 | 2023-07-18 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2022-05-20 |  |
 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 | 2022-04-04 | 2024-02-15 |

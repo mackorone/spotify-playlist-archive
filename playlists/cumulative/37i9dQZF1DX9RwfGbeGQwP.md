@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,550 songs - 2 day 10 hr 17 min
+1,552 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Airmode](https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:22 | 2022-11-11 | 2022-11-26 |
 | [Alaska](https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6) | [passmeby](https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W) | [Alaska](https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE) | 2:18 | 2023-04-11 | 2025-01-28 |
 | [Albatross](https://open.spotify.com/track/3sxuaiB0g8EqV1YMx3I86d) | [Joe Arrow](https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa) | [Albatross](https://open.spotify.com/album/1JCyIEEoQSANiib69THZdT) | 2:03 | 2025-03-07 |  |
-| [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 |  |
+| [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 | 2025-03-12 |
 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-08 |  |
 | [alice in dreamland](https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [alice in dreamland](https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc) | 2:16 | 2024-01-19 |  |
 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 | 2022-01-27 | 2023-06-06 |
@@ -170,7 +170,7 @@
 | [By Your Side](https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [By Your Side](https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg) | 2:00 | 2023-03-24 | 2025-03-06 |
 | [cactus on my table](https://open.spotify.com/track/0KLNaZS6yJY6R3jyJJsXun) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Cactus Man](https://open.spotify.com/album/0xbp9NClixl5hupffRxnCA) | 1:45 | 2023-04-20 | 2024-12-01 |
 | [caffeine](https://open.spotify.com/track/2bImrY3LXxj72uneLO4pp0) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [caffeine](https://open.spotify.com/album/5yptCJok2t4x94m9wtuRQ3) | 2:11 | 2022-09-02 |  |
-| [Cali Phone Ya'](https://open.spotify.com/track/1ArLnO7X64H3eSSTPxNtKw) | [connectEcut](https://open.spotify.com/artist/2TQBOHcwPCSpMwkwIBTcgs) | [Cali Phone Ya'](https://open.spotify.com/album/4p59lhgiGgmC2r295RCPEb) | 2:18 | 2022-10-15 |  |
+| [Cali Phone Ya'](https://open.spotify.com/track/1ArLnO7X64H3eSSTPxNtKw) | [connectEcut](https://open.spotify.com/artist/2TQBOHcwPCSpMwkwIBTcgs) | [Cali Phone Ya'](https://open.spotify.com/album/4p59lhgiGgmC2r295RCPEb) | 2:18 | 2022-10-15 | 2025-03-12 |
 | [California Sunshine](https://open.spotify.com/track/6dBWrMyp2MVq5i2TOv0wEl) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [California Sunshine](https://open.spotify.com/album/0oF6z4m4wE8BAI4A2wYVgZ) | 1:32 | 2022-08-19 | 2023-01-07 |
 | [California Trumpet](https://open.spotify.com/track/5o5A9VWshzCc7sJMhLN5AF) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [California Trumpet](https://open.spotify.com/album/60ITFn41Yjr6XzOHxlzl1b) | 2:04 | 2022-09-23 | 2024-02-15 |
 | [Call a Friend](https://open.spotify.com/track/7LV39mLX4OVV5k8csHFq8f) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Call a Friend](https://open.spotify.com/album/3WF15nhwlNSyaMxUeu1nuJ) | 2:21 | 2024-08-09 |  |
@@ -422,6 +422,7 @@
 | [Feeling Better With You](https://open.spotify.com/track/2zvdZMTqep1vXL8fLWEpVq) | [Two Muses After](https://open.spotify.com/artist/6xpq9Jqa99NXeKxCDNbG8S) | [Nobody on the Moon](https://open.spotify.com/album/4ysu9ZIl56VkXHIXZ2Hnqh) | 2:20 | 2022-08-05 | 2022-12-17 |
 | [Felspar](https://open.spotify.com/track/5vMqu4Xw3C9DFx4SFp4ROC) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Felspar](https://open.spotify.com/album/3tIFYBZt9mVZVINNRqF5Yt) | 1:45 | 2022-12-16 | 2023-04-28 |
 | [Fern](https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Fern](https://open.spotify.com/album/3Yt9yisOsPP2408sZG62CC) | 2:03 | 2023-11-17 |  |
+| [fi$h](https://open.spotify.com/track/0eyMYirAJ2wGaH1dgQAEf5) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [fi$h](https://open.spotify.com/album/1UIpDQEYllPfr8k1ApAjHM) | 2:39 | 2025-03-07 |  |
 | [Field Trip](https://open.spotify.com/track/0AKwjtNFJydEBeJXAbwFho) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Field Trip](https://open.spotify.com/album/6PH9BdezNFm9AknPPl9K9a) | 2:21 | 2022-12-16 | 2023-10-06 |
 | [Fine Wine](https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Street Lights](https://open.spotify.com/album/0TeWAJONgq6SVHVd6KtwIb) | 2:53 | 2022-01-27 | 2022-09-09 |
 | [Finish Line](https://open.spotify.com/track/2TTmqCgIFJxA8nMBAaR9v7) | [Abbesses Square](https://open.spotify.com/artist/6FSygvawNhfzoREb50lmFL) | [Buskin](https://open.spotify.com/album/51srnMKZ1Ic8qAFmBJK9xP) | 3:02 | 2022-01-27 | 2022-07-08 |
@@ -1227,6 +1228,7 @@
 | [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-21 |  |
 | [Soft Garden](https://open.spotify.com/track/2a2MBD0XGNCPAHPKQNHusQ) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [Soft Garden](https://open.spotify.com/album/3WyZrSpAVXW6d62wshYc8b) | 2:04 | 2022-01-27 | 2022-04-22 |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-01-27 | 2022-07-15 |
+| [Soft Slumber](https://open.spotify.com/track/2aAMBG2M4U1f69cOZ3AxOh) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Soft Slumber](https://open.spotify.com/album/6rY1d1JKF8lZH5I6WLveCK) | 2:27 | 2025-03-07 |  |
 | [Soft Touch](https://open.spotify.com/track/6EEjOtoTfQRcwiUwqlBSnu) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Soft Touch](https://open.spotify.com/album/6A5fST66CTPtWLj1OuuQdW) | 2:19 | 2023-09-04 | 2025-01-20 |
 | [Softube](https://open.spotify.com/track/3EGVkqdu333Vzd94rN0NMf) | [Myles and Myles](https://open.spotify.com/artist/5p3Ec9LGzE9aa8l3GW2xo8) | [Ride Out](https://open.spotify.com/album/3gbYpIEF04ngDLsEnvRiR7) | 3:56 | 2022-01-27 | 2022-07-15 |
 | [Soho Nights](https://open.spotify.com/track/6iv1WeUEaWmBElmyP8bpjv) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Soho Nights](https://open.spotify.com/album/0mDAl7BUvqE0vRuSqAD19K) | 1:43 | 2022-10-28 | 2023-02-25 |

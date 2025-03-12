@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 days of TEQUILA](https://open.spotify.com/track/7G1zPHuidh7jimYsJoYG3q) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [FULL\-TENSION BEATERS](https://open.spotify.com/album/4UoKaU6FWwnPtIoL7EIrIT) | 3:46 | 2025-03-05 |  |
+| [5 days of TEQUILA](https://open.spotify.com/track/7G1zPHuidh7jimYsJoYG3q) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [FULL\-TENSION BEATERS](https://open.spotify.com/album/4UoKaU6FWwnPtIoL7EIrIT) | 3:46 | 2025-03-05 | 2025-03-12 |
 | [9](https://open.spotify.com/track/3Z9XZr4bCHiDzULCOYQ1W7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 2:42 | 2023-01-14 | 2024-08-15 |
 | [ALMIGHTY〜仮面の約束 \- feat.川上洋平 『仮面ライダーセイバー』主題歌](https://open.spotify.com/track/0A2W626CJSt3rw6iJHYL8A) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 4:07 | 2023-01-14 |  |
 | [Blues In The Wind](https://open.spotify.com/track/3h4tEYHzsrlDxC2zCfqgsu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Takuma \(10\-FEET\)](https://open.spotify.com/artist/6MJbQmwV3YSEQnO3EnVsy6) | [Blues In The Wind](https://open.spotify.com/album/2KcZMoEkaGMyRzRLSO6gWB) | 5:03 | 2024-05-08 | 2024-06-04 |

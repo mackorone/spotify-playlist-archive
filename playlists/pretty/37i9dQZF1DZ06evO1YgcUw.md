@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,575 likes - 52 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,589 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 48 | [Barnyard](https://open.spotify.com/track/2zHMw82ewBq0RHA4Vjhd7Z) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smile Sessions](https://open.spotify.com/album/1Tf6V7olrJ32d4DhqWVTgM) | 0:47 |
 | 49 | [Cotton Fields \(The Cotton Song\) \- Remastered 2001](https://open.spotify.com/track/3rKqIfNo9bjT0LKnNHgySm) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:23 |
 | 50 | [You're So Good To Me \- Remastered 2001](https://open.spotify.com/track/67HRoUJMVorQPymcqdkJVA) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:16 |
-| 51 | [I'm The Pied Piper \- A Cappella Section](https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sail On Sailor – 1972 \(Super Deluxe\)](https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k) | 0:31 |
-| 52 | [Here She Comes \- Remastered 2000](https://open.spotify.com/track/0nYy99TKeqt8T2LdSWzFHN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Carl & The Passions \- So Tough \(Remastered\)](https://open.spotify.com/album/632t0m8ejm3Geu5rW1CELD) | 5:12 |
 
 Snapshot ID: `Z8zaAAAAAABfitIWaEMhJ7iXmHREpUFg`

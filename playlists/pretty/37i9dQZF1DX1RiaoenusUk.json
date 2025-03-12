@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 30687,
+  "num_followers": 30713,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,26 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "End Of The World Party (Just In Case)",
-        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
+        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
+        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
       },
       "artists": [
         {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
         }
       ],
-      "duration_ms": 299066,
-      "name": "Shine It",
-      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
+      "duration_ms": 206107,
+      "name": "BAD BITCH - En Vivo - Buenos Aires",
+      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
     },
     {
       "added_at": "2025-02-28 18:32:14",
@@ -219,26 +227,18 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
-        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
+        "name": "End Of The World Party (Just In Case)",
+        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
       },
       "artists": [
         {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
         }
       ],
-      "duration_ms": 206107,
-      "name": "BAD BITCH - En Vivo - Buenos Aires",
-      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
+      "duration_ms": 299066,
+      "name": "Shine It",
+      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
     },
     {
       "added_at": "2025-02-28 18:32:14",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "The New Sound of the Venezuelan Gozadera",
-        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Ultra-Funk",
-      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
-    },
-    {
-      "added_at": "2025-02-28 18:32:14",
-      "album": {
         "name": "Sr. A",
         "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 213267,
       "name": "Sr. A",
       "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+    },
+    {
+      "added_at": "2025-02-28 18:32:14",
+      "album": {
+        "name": "The New Sound of the Venezuelan Gozadera",
+        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Ultra-Funk",
+      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
     },
     {
       "added_at": "2025-02-28 18:32:14",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym"
-      },
-      "artists": [
-        {
-          "name": "Mamma Soul",
-          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup"
-    },
-    {
-      "added_at": "2025-02-28 18:32:14",
-      "album": {
         "name": "Sudaka",
         "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 202808,
       "name": "Sudaka",
       "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+    },
+    {
+      "added_at": "2025-02-28 18:32:14",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym"
+      },
+      "artists": [
+        {
+          "name": "Mamma Soul",
+          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup"
     },
     {
       "added_at": "2025-02-28 18:32:14",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
+        "name": "Mesa Dulce",
+        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 219632,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
+    },
+    {
+      "added_at": "2025-02-28 18:32:14",
+      "album": {
         "name": "La Iguana en el Jard\u00edn",
         "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "Mesa Dulce",
-        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 219632,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
-    },
-    {
-      "added_at": "2025-02-28 18:32:14",
-      "album": {
         "name": "Jurassik Funk",
         "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Gotta Get Funky",
-      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
-    },
-    {
-      "added_at": "2025-02-28 18:32:14",
-      "album": {
         "name": "Por el Funk",
         "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 225373,
       "name": "Por el Funk",
       "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
+    },
+    {
+      "added_at": "2025-02-28 18:32:14",
+      "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gotta Get Funky",
+      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
     },
     {
       "added_at": "2025-02-28 18:32:14",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
+        "name": "Musica Pa'l Mundo",
+        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
+      },
+      "artists": [
+        {
+          "name": "De Kiruza",
+          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
+        }
+      ],
+      "duration_ms": 293013,
+      "name": "Liviano Como el Viento",
+      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
+    },
+    {
+      "added_at": "2025-02-28 18:32:14",
+      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "Musica Pa'l Mundo",
-        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
-      },
-      "artists": [
-        {
-          "name": "De Kiruza",
-          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
-        }
-      ],
-      "duration_ms": 293013,
-      "name": "Liviano Como el Viento",
-      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
-    },
-    {
-      "added_at": "2025-02-28 18:32:14",
-      "album": {
         "name": "Vos No",
         "url": "https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
       "artists": [
         {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
         }
       ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+      "duration_ms": 241706,
+      "name": "Can't Fight The Funk",
+      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
     },
     {
       "added_at": "2025-02-28 18:32:14",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-02-28 18:32:14",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
       "artists": [
         {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Can't Fight The Funk",
-      "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
     },
     {
       "added_at": "2025-02-28 18:32:14",

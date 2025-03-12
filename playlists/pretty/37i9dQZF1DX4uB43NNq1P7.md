@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,970 likes - 91 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,002 likes - 91 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 2 | [Open Window](https://open.spotify.com/track/0AWrCqvm6javtNp3BlAdgF) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [Open Window](https://open.spotify.com/album/13LpsqjK2jvMFWAatRdrNU) | 2:42 |
 | 3 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 |
 | 4 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 |
-| 5 | [Under A Rainy Sky](https://open.spotify.com/track/6SAwDsaihJKZhUZo3O6Zcl) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Under A Rainy Sky](https://open.spotify.com/album/2BFZI8pTJnYiACcUfWIv2t) | 2:00 |
-| 6 | [Morning Dove](https://open.spotify.com/track/6ms7Xldy08kR3MOcmGa2jS) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Morning Dove](https://open.spotify.com/album/5dJYBPJ7O6oRlGI8EIwHDl) | 2:59 |
-| 7 | [Autumn Rivulet](https://open.spotify.com/track/1GKWMeosT79GoNumiypX55) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Autumn Rivulet](https://open.spotify.com/album/4zjAFkKAJ47Wh71lbo7Hos) | 2:48 |
-| 8 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 |
-| 9 | [Together Again](https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Together Again](https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867) | 2:18 |
-| 10 | [Revisiter Gaude](https://open.spotify.com/track/2Cness0syUHeLISBwNiq6m) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Revisiter Gaude](https://open.spotify.com/album/1EjKIFt71gpsMwV0phDRYn) | 3:01 |
+| 5 | [Autumn Rivulet](https://open.spotify.com/track/1GKWMeosT79GoNumiypX55) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Autumn Rivulet](https://open.spotify.com/album/4zjAFkKAJ47Wh71lbo7Hos) | 2:48 |
+| 6 | [Under A Rainy Sky](https://open.spotify.com/track/6SAwDsaihJKZhUZo3O6Zcl) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Under A Rainy Sky](https://open.spotify.com/album/2BFZI8pTJnYiACcUfWIv2t) | 2:00 |
+| 7 | [Morning Dove](https://open.spotify.com/track/6ms7Xldy08kR3MOcmGa2jS) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Morning Dove](https://open.spotify.com/album/5dJYBPJ7O6oRlGI8EIwHDl) | 2:59 |
+| 8 | [Revisiter Gaude](https://open.spotify.com/track/2Cness0syUHeLISBwNiq6m) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Revisiter Gaude](https://open.spotify.com/album/1EjKIFt71gpsMwV0phDRYn) | 3:01 |
+| 9 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 |
+| 10 | [Together Again](https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Together Again](https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867) | 2:18 |
 | 11 | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp) | 2:37 |
 | 12 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 |
-| 13 | [Outside your window](https://open.spotify.com/track/2WvDamw9w5qkA7IcoPPWcn) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Outside your window](https://open.spotify.com/album/3MiUva5NWt51EzvXvNm9l2) | 2:37 |
+| 13 | [portraits \(rain\)](https://open.spotify.com/track/2ITDiZJX8N5tDpPteiqsvW) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [portraits \(rain\)](https://open.spotify.com/album/2e2RKbGI55KjdR3VbZiagA) | 2:18 |
 | 14 | [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 |
 | 15 | [Midnight Moon \(Rain\)](https://open.spotify.com/track/1ZncqbnwCe7myD7JvsypVb) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Midnight Moon \(Rain\)](https://open.spotify.com/album/0VML9T2n1CMZ5428r8MUMV) | 2:18 |
-| 16 | [portraits \(rain\)](https://open.spotify.com/track/2ITDiZJX8N5tDpPteiqsvW) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [portraits \(rain\)](https://open.spotify.com/album/2e2RKbGI55KjdR3VbZiagA) | 2:18 |
-| 17 | [Miyazaki's rain](https://open.spotify.com/track/4HtAAcEvxbv28AOoHC2fDw) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Miyazaki's rain](https://open.spotify.com/album/42sr6wwHVuwmAJHREXpK4x) | 2:46 |
-| 18 | [Stillness of Nature](https://open.spotify.com/track/0zsKqVV4G6GasPqJ3uk4os) | [Joren Wilde](https://open.spotify.com/artist/5CzFN3onXTVhYoAqQPvkgU) | [Stillness of Nature](https://open.spotify.com/album/0b8UoYN5gIhnQoUUolfeqf) | 3:05 |
+| 16 | [Stillness of Nature](https://open.spotify.com/track/0zsKqVV4G6GasPqJ3uk4os) | [Joren Wilde](https://open.spotify.com/artist/5CzFN3onXTVhYoAqQPvkgU) | [Stillness of Nature](https://open.spotify.com/album/0b8UoYN5gIhnQoUUolfeqf) | 3:05 |
+| 17 | [Outside your window](https://open.spotify.com/track/2WvDamw9w5qkA7IcoPPWcn) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Outside your window](https://open.spotify.com/album/3MiUva5NWt51EzvXvNm9l2) | 2:37 |
+| 18 | [Miyazaki's rain](https://open.spotify.com/track/4HtAAcEvxbv28AOoHC2fDw) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Miyazaki's rain](https://open.spotify.com/album/42sr6wwHVuwmAJHREXpK4x) | 2:46 |
 | 19 | [Breathing Mind](https://open.spotify.com/track/7ip4SQ7cV5WxDfLGs8X0H3) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Breathing Mind](https://open.spotify.com/album/47rkwCs99gaWY8kaeYSxjk) | 3:01 |
 | 20 | [Forever](https://open.spotify.com/track/4SgbKHpKU7lTvYxO6sWIrx) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Forever](https://open.spotify.com/album/3C8QFAmtEJsjJOA3CaVClA) | 2:22 |
 | 21 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 24 | [Seedlings](https://open.spotify.com/track/0z49vRcUNgQFpzRSkfOrKA) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Seedlings](https://open.spotify.com/album/68sG1nEUrWakDNJm4MaVW7) | 2:48 |
 | 25 | [Filtered Light \(Rain\)](https://open.spotify.com/track/1LojjBNeJIcAvAiBcmVlV3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 3:02 |
 | 26 | [The Midnight Sun \- Rain version](https://open.spotify.com/track/2OUeSA99Dxa0vl1LYpiDjc) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun \- Rain version](https://open.spotify.com/album/43NiUtG23mp2L2jX6GoYlv) | 2:58 |
-| 27 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 |
-| 28 | [Open the Door](https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Open the Door](https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD) | 2:46 |
-| 29 | [Turquoise rain](https://open.spotify.com/track/28wzOAQIs9IhZuv4I0zLH6) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Turquoise rain](https://open.spotify.com/album/7IFBS8UoAIbNmaAftKkCXY) | 2:05 |
-| 30 | [Entre tus manos](https://open.spotify.com/track/66dhGa0VKUZwBQQ0vkIItG) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:44 |
-| 31 | [stellar \(rain\)](https://open.spotify.com/track/49U681ES06dlwb2MXQt2Qc) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [stellar \(rain\)](https://open.spotify.com/album/3j2cqluNuM3ud5ZWljjiBq) | 2:14 |
-| 32 | [Thinking of You](https://open.spotify.com/track/0AM2l6llDTVSDPZrZsBNyU) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Thinking of You](https://open.spotify.com/album/3uOCKTrysibG4lRH3QzGrD) | 2:42 |
+| 27 | [stellar \(rain\)](https://open.spotify.com/track/49U681ES06dlwb2MXQt2Qc) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [stellar \(rain\)](https://open.spotify.com/album/3j2cqluNuM3ud5ZWljjiBq) | 2:14 |
+| 28 | [Turquoise rain](https://open.spotify.com/track/28wzOAQIs9IhZuv4I0zLH6) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Turquoise rain](https://open.spotify.com/album/7IFBS8UoAIbNmaAftKkCXY) | 2:05 |
+| 29 | [Entre tus manos](https://open.spotify.com/track/66dhGa0VKUZwBQQ0vkIItG) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:44 |
+| 30 | [Thinking of You](https://open.spotify.com/track/0AM2l6llDTVSDPZrZsBNyU) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Thinking of You](https://open.spotify.com/album/3uOCKTrysibG4lRH3QzGrD) | 2:42 |
+| 31 | [Open the Door](https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Open the Door](https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD) | 2:46 |
+| 32 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 |
 | 33 | [Breathing Slow](https://open.spotify.com/track/1Pjg5w4Cl1ZBP95XZmZ7HL) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:47 |
 | 34 | [Together in Now](https://open.spotify.com/track/5wGYS3BP9H8hi2ZcTFc7F2) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:22 |
 | 35 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 90 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 91 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `Z8cvxwAAAADwYoCjV0qgyr9J8ZcILKgM`
+Snapshot ID: `Z9Bg1wAAAADEyCCjLWSkdYN1+rw+PQ1U`

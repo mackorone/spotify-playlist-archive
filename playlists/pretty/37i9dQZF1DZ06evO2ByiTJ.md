@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,112 likes - 51 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,113 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 48 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
 | 49 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |
 | 50 | [Colhendo Frutos \(Ao Vivo\)](https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:23 |
-| 51 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5kxgGsQDEgZDNyPTMIJfeQ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/3Agi6xUND9PMIhi9CJRqwv) | 6:21 |
 
 Snapshot ID: `Z8zaAAAAAADUcbk9o4bO7xsI/iKBaoNm`

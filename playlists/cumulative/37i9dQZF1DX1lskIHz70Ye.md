@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-182 songs - 9 hr 4 min
+183 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Volition](https://open.spotify.com/track/7MnW1eLaCPKhssI9Pq44l6) | [Julian Pereira](https://open.spotify.com/artist/1t4ZlQTc5HH5YMylnyDnBT) | [Volition](https://open.spotify.com/album/15Ac5DJYCoK5LPeDmO8kP5) | 1:52 | 2022-03-03 | 2023-09-15 |
 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 | 2022-03-03 |  |
 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 | 2022-03-03 | 2022-07-09 |
+| [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 | 2025-03-11 |  |
 | [Winter Escape](https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 2:49 | 2022-03-03 |  |
 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 | 2022-03-03 | 2022-07-15 |
 | [You Are All Mine](https://open.spotify.com/track/51D5edfTPbvHeB3AUEWMxT) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [You Are All Mine](https://open.spotify.com/album/5QrYUOt8X5n2zxvdB6cfEl) | 2:22 | 2022-03-03 | 2022-07-09 |

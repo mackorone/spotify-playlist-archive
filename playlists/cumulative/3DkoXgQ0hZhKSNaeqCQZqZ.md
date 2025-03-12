@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-323 songs - 17 hr 3 min
+324 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/track/3wTIesZaQuXHjoo8wvh1bH) | [Spring Silver](https://open.spotify.com/artist/1CV0psSL6XvECs0ixfRJcv) | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/album/1emxhGcyn2WqKdnZI2jXvb) | 3:29 | 2024-08-15 |  |
 | [ANTIHUMAN](https://open.spotify.com/track/3gUeMsbYV3mktmkknKWrnq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIHUMAN](https://open.spotify.com/album/0qB4GkfoPpEbDawVEpfn8r) | 3:31 | 2023-08-26 |  |
 | [ANTIVILLAIN](https://open.spotify.com/track/5WQOTW68PnM96F67Zc8KRy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIVILLAIN](https://open.spotify.com/album/1BzXmHRWqVaOQaQuMZdJ6s) | 4:11 | 2024-04-24 |  |
+| [antler crimes](https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy) | 4:43 | 2025-03-11 |  |
 | [antler crimes](https://open.spotify.com/track/1I7TUj9ZSZNxfHoQ9MwqlA) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF) | 4:44 | 2024-04-21 |  |
 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 | 2024-05-28 |  |
 | [Are you for me?](https://open.spotify.com/track/2mOw8RRSIC6wPocTRuaITf) | [Koa](https://open.spotify.com/artist/1D2fuywbAodeGUc1xitNJ7) | [Circles](https://open.spotify.com/album/4efUO1YCPDx3mrcaSGFbrD) | 2:24 | 2024-05-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30d6\u30e9\u30f3\u30c7\u30fc\u6226\u8a18",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: 7co",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 180033,
       "name": "Bite you",
       "url": "https://open.spotify.com/track/4I4cLKekxc9tz2IrZDZR9b"
@@ -3385,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "cheers",
+        "url": "https://open.spotify.com/album/37baTLzPm1Sxcshl59gNat"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178399,
+      "name": "cheers",
+      "url": "https://open.spotify.com/track/3abasVZR9LCHo7V6gmdr2s"
+    },
+    {
+      "album": {
         "name": "Cheetah (Freestyle)",
         "url": "https://open.spotify.com/album/70u1uDsy33GAZSvGeKaAyb"
       },
@@ -3990,7 +4008,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 170000,
       "name": "Current",
       "url": "https://open.spotify.com/track/5C93fKlG1if6zGpx0ultUN"
@@ -5480,8 +5498,8 @@
       },
       "artists": [
         {
-          "name": "Kethug",
-          "url": "https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ"
+          "name": "KEIGO",
+          "url": "https://open.spotify.com/artist/738LYntkIJpIi2HnA9Ybq4"
         }
       ],
       "date_added": "2025-02-25",
@@ -18100,7 +18118,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 196237,
       "name": "Too busy work",
       "url": "https://open.spotify.com/track/1OHsNCfi14qQpt4B9IPxEY"
@@ -27680,7 +27698,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 138994,
       "name": "\u559d\u91c7",
       "url": "https://open.spotify.com/track/4K6CpifWHUbtsFHuvEfh5w"
@@ -29917,6 +29935,24 @@
     },
     {
       "album": {
+        "name": "\u6563\u6b69\u306e\u5929\u624d",
+        "url": "https://open.spotify.com/album/3t8SU3K48SWplL6Uw5729o"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273860,
+      "name": "\u6563\u6b69\u306e\u5929\u624d",
+      "url": "https://open.spotify.com/track/3vPE8awF9vZooiaO6k4avq"
+    },
+    {
+      "album": {
         "name": "\u6563\u6b69\u9053",
         "url": "https://open.spotify.com/album/1BRlmHDS6X3DxeAcVEXadr"
       },
@@ -30115,6 +30151,24 @@
     },
     {
       "album": {
+        "name": "\u6625\u306b\u306a\u308c",
+        "url": "https://open.spotify.com/album/3xJeggSsG3xabe6kN2D1WR"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201518,
+      "name": "\u6625\u306b\u306a\u308c",
+      "url": "https://open.spotify.com/track/25vsL9xUIGGx5CpweTKXJh"
+    },
+    {
+      "album": {
         "name": "\u60c5\u7dd2\u3042\u308b\u9752\u6625\u3092\u5f7c\u5973\u306b\u6367\u3050",
         "url": "https://open.spotify.com/album/2FPcSqOlEWbk3tfGCgEbiZ"
       },
@@ -30148,6 +30202,24 @@
       "duration_ms": 248166,
       "name": "\u6625\u3092\u7db4\u3058\u308b",
       "url": "https://open.spotify.com/track/5380ecDY45s7k3FrFGcqFx"
+    },
+    {
+      "album": {
+        "name": "\u3068\u3042\u308b\u30a2\u30a4\u3092\u7db4\u3063\u3066\u3001",
+        "url": "https://open.spotify.com/album/09GG4R46QMHhcseigszsxL"
+      },
+      "artists": [
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "\u6625\u4e00\u756a",
+      "url": "https://open.spotify.com/track/0wsrPqMvaGQl58DCBNdkf8"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: fox capture plan
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: LAGHEADS
 
-130 songs - 9 hr 57 min
+131 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 | 2024-09-18 |  |
 | [Dusty Future](https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Dusty Future / Struggle](https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL) | 3:41 | 2024-11-26 | 2025-02-21 |
 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 | 2023-03-14 | 2024-09-19 |
-| [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 | 2025-02-20 |  |
+| [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 | 2025-02-20 | 2025-03-12 |
 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 | 2024-02-27 |  |
 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 | 2023-03-14 | 2023-09-27 |
 | [Fleeting](https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Fleeting](https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP) | 3:56 | 2025-01-29 | 2025-02-21 |
@@ -123,6 +123,7 @@
 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 | 2024-02-27 | 2025-02-26 |
 | [Weekender](https://open.spotify.com/track/76oqYLjDjbBb43Ne1qrdlP) | [Knew Roy](https://open.spotify.com/artist/42TMYSBkbTK28DAAePvRdw) | [Weekender](https://open.spotify.com/album/0LmJJ8LqWgjsGXtkrgWSLz) | 2:50 | 2023-03-14 | 2023-09-06 |
 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 | 2023-03-14 | 2023-05-30 |
+| [Who is "LH"?](https://open.spotify.com/track/6LzMDXrQThX499lfG5ZMU9) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN) | [Who is “LAGHEADS”?](https://open.spotify.com/album/52iASbVYgjcsSasw8D0KZY) | 1:28 | 2025-03-11 |  |
 | [Zero G](https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Wild Guys In The Universe](https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq) | 3:46 | 2024-09-11 | 2024-12-02 |
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2024-01-31 |
 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 | 2024-02-27 |  |

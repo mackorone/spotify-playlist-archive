@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène francophone branchée sur courant alternatif\. Photo : Miki
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,086 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,093 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 35 | [Bonjour demain](https://open.spotify.com/track/5BwXLq7gk6u5OBCJ9DdtL5) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Enfants intérieurs](https://open.spotify.com/album/3rBVCm9mdef6rGcGGzBxKB) | 3:08 |
 | 36 | [Eau froide](https://open.spotify.com/track/7bzjqEbzppwHjL4uLokJE5) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [Eau froide](https://open.spotify.com/album/78Q54BfcZ6JrvXC7ED34zJ) | 3:52 |
 | 37 | [Dis\(t\)dance](https://open.spotify.com/track/3ij2QXYi7ybKR2BZB744zb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Dis\(t\)dance](https://open.spotify.com/album/3cvbeVC5aHjypN86sH652F) | 3:17 |
-| 38 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 |
-| 39 | [Charlie,](https://open.spotify.com/track/74SY7jgiZ1WdpBDlv3WNeI) | [candeur cyclone](https://open.spotify.com/artist/0NJFzO3y97bCHFdaNWJU5U) | [teenage dirtbag](https://open.spotify.com/album/2wYyly7HKXiF0U0aT4qMqR) | 3:48 |
-| 40 | [BIEN MÉRITÉ](https://open.spotify.com/track/2kOvLoHKLoZxRbIMzt6AYa) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BIEN MÉRITÉ](https://open.spotify.com/album/3Ba5qLJD8gEw6l2tmkJY5h) | 2:43 |
-| 41 | [T'as les formes t'as les armes](https://open.spotify.com/track/4sOtdy0lt9vHnrF6OgbdhK) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [T'as les formes t'as les armes](https://open.spotify.com/album/1etOZNIsJItzWO5GOMJWbk) | 3:10 |
-| 42 | [CAVALE! CAVALE!](https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [CAVALE! CAVALE!](https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ) | 2:29 |
-| 43 | [ami imaginaire](https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [ami imaginaire](https://open.spotify.com/album/0B7SOPumsN7vzJ7Ygo8Zet) | 3:31 |
-| 44 | [Je Pense Après](https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH) | [PHELTO](https://open.spotify.com/artist/1degQXhxGRPsmT7I0Vgalc) | [Je Pense Après](https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz) | 2:52 |
-| 45 | [Focused](https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq) | [PAMELA](https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja) | [Focused](https://open.spotify.com/album/4sbsFxdZAZuiy8Iu6leRe7) | 3:06 |
-| 46 | [Rocket](https://open.spotify.com/track/4bVxD1TfLNNlbridccs1cq) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/5Uuu85yxP9yb8EU310hfUW) | 3:44 |
-| 47 | [Rupture](https://open.spotify.com/track/4259dOSNSYPUdCr2xc7Z1I) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Rupture](https://open.spotify.com/album/5iVTpAPuVs7ge7EkDkitIP) | 4:42 |
-| 48 | [IN MY BLOOD](https://open.spotify.com/track/5Yo9Lvx0WDRky1sBiyF8tF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [IN MY BLOOD](https://open.spotify.com/album/5WiqMfeUMH6CR2T610whau) | 2:59 |
-| 49 | [Blush](https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Blush](https://open.spotify.com/album/3U4bXvoOv10wXlVoC6mgOp) | 3:43 |
-| 50 | [ne croquez pas cette pomme](https://open.spotify.com/track/1ghb1yDkwk3Jah3xnaOEtm) | [Adieu Salvatore](https://open.spotify.com/artist/4qIhDVc6BugjA7w4vscA9y), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [L'AMOUR](https://open.spotify.com/album/4j9w6qqk8IbTSIWIi8P5fp) | 2:36 |
+| 38 | [Charlie,](https://open.spotify.com/track/74SY7jgiZ1WdpBDlv3WNeI) | [candeur cyclone](https://open.spotify.com/artist/0NJFzO3y97bCHFdaNWJU5U) | [teenage dirtbag](https://open.spotify.com/album/2wYyly7HKXiF0U0aT4qMqR) | 3:48 |
+| 39 | [BIEN MÉRITÉ](https://open.spotify.com/track/2kOvLoHKLoZxRbIMzt6AYa) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BIEN MÉRITÉ](https://open.spotify.com/album/3Ba5qLJD8gEw6l2tmkJY5h) | 2:43 |
+| 40 | [T'as les formes t'as les armes](https://open.spotify.com/track/4sOtdy0lt9vHnrF6OgbdhK) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [T'as les formes t'as les armes](https://open.spotify.com/album/1etOZNIsJItzWO5GOMJWbk) | 3:10 |
+| 41 | [CAVALE! CAVALE!](https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [CAVALE! CAVALE!](https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ) | 2:29 |
+| 42 | [ami imaginaire](https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [ami imaginaire](https://open.spotify.com/album/0B7SOPumsN7vzJ7Ygo8Zet) | 3:31 |
+| 43 | [Je Pense Après](https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH) | [PHELTO](https://open.spotify.com/artist/1degQXhxGRPsmT7I0Vgalc) | [Je Pense Après](https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz) | 2:52 |
+| 44 | [Focused](https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq) | [PAMELA](https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja) | [Focused](https://open.spotify.com/album/4sbsFxdZAZuiy8Iu6leRe7) | 3:06 |
+| 45 | [Rocket](https://open.spotify.com/track/4bVxD1TfLNNlbridccs1cq) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/5Uuu85yxP9yb8EU310hfUW) | 3:44 |
+| 46 | [Rupture](https://open.spotify.com/track/4259dOSNSYPUdCr2xc7Z1I) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Rupture](https://open.spotify.com/album/5iVTpAPuVs7ge7EkDkitIP) | 4:42 |
+| 47 | [IN MY BLOOD](https://open.spotify.com/track/5Yo9Lvx0WDRky1sBiyF8tF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [IN MY BLOOD](https://open.spotify.com/album/5WiqMfeUMH6CR2T610whau) | 2:59 |
+| 48 | [Blush](https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Blush](https://open.spotify.com/album/3U4bXvoOv10wXlVoC6mgOp) | 3:43 |
+| 49 | [ne croquez pas cette pomme](https://open.spotify.com/track/1ghb1yDkwk3Jah3xnaOEtm) | [Adieu Salvatore](https://open.spotify.com/artist/4qIhDVc6BugjA7w4vscA9y), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [L'AMOUR](https://open.spotify.com/album/4j9w6qqk8IbTSIWIi8P5fp) | 2:36 |
 
-Snapshot ID: `Z8oo/AAAAAAs9KHJcPuk8vlcVK/beOwK`
+Snapshot ID: `Z9BWHAAAAAA6SdY8tEGeYK7U3WlN+YB7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,722 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,981 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 29 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 30 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 | 31 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
-| 32 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 33 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
-| 34 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
-| 35 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
-| 36 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
-| 37 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
+| 32 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 33 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
+| 34 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
+| 35 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
+| 36 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
+| 37 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
 | 38 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
 | 39 | [Call](https://open.spotify.com/track/5mm3h0pkFAVSfSg3z7QCZ9) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Call](https://open.spotify.com/album/7sDoYNIuxPIADPJSvDyBny) | 1:18 |
 | 40 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 56 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 | 57 | [199X](https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP) | [Phil from Havêa](https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM) | [199X](https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF) | 3:33 |
 | 58 | [Mellow Mornings](https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [Mellow Mornings](https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc) | 2:34 |
-| 59 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 |
-| 60 | [Creekside](https://open.spotify.com/track/1wBu1kU1EYl7UP0OVH5K19) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [Creekside](https://open.spotify.com/album/1hQDgeZYNZ1VhzmUsCwIvr) | 2:42 |
+| 59 | [Creekside](https://open.spotify.com/track/1wBu1kU1EYl7UP0OVH5K19) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [Creekside](https://open.spotify.com/album/1hQDgeZYNZ1VhzmUsCwIvr) | 2:42 |
+| 60 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 |
 
 Snapshot ID: `Z67N7wAAAABQkLdiUt0O/wY2D5sjDFJN`

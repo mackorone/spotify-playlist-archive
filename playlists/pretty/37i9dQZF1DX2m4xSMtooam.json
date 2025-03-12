@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 252525,
+  "num_followers": 252662,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Bossa Nova Soul Samba",
-        "url": "https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28"
-      },
-      "artists": [
-        {
-          "name": "Ike Quebec",
-          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Work From Home with Oscar Peterson",
         "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 169066,
       "name": "Quiet Nights Of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Bossa Nova Soul Samba",
+        "url": "https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Clear Skies",
-        "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Clear Skies",
-      "url": "https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 324520,
       "name": "O Que Sera?",
       "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Clear Skies",
+        "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Clear Skies",
+      "url": "https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "When I Fall In Love",
-        "url": "https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 331493,
-      "name": "La Belle Dame Sans Regrets",
-      "url": "https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Blue Night Bossa",
-        "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
+        "name": "When I Fall In Love",
+        "url": "https://open.spotify.com/album/1ghS8R6i5bVgpKl2JOQIuS"
       },
       "artists": [
         {
-          "name": "Magnus Ringblom",
-          "url": "https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb"
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
         }
       ],
-      "duration_ms": 231377,
-      "name": "Standing Tall",
-      "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
+      "duration_ms": 331493,
+      "name": "La Belle Dame Sans Regrets",
+      "url": "https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -575,6 +559,22 @@
       "duration_ms": 187613,
       "name": "In a mellow tone",
       "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Blue Night Bossa",
+        "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ringblom",
+          "url": "https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb"
+        }
+      ],
+      "duration_ms": 231377,
+      "name": "Standing Tall",
+      "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "Cosme Velho",
+        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 173943,
+      "name": "Cosme Velho",
+      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "Cosme Velho",
-        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 173943,
-      "name": "Cosme Velho",
-      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Sombra La Lua",
         "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 224187,
       "name": "Woodblock Print",
       "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "P\u00e3o de A\u00e7\u00facar",
-        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "P\u00e3o de A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Smile For Me",
         "url": "https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 210965,
       "name": "A Bossa for Love",
       "url": "https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "But Not for Me",
-        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
-      },
-      "artists": [
-        {
-          "name": "Jonny Libonate",
-          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
-        }
-      ],
-      "duration_ms": 188650,
-      "name": "Cleopatra's Dream",
-      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Can\u00e7\u00f5es de Caymmi",
         "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 242866,
       "name": "L\u00e1 Vem a Baiana",
       "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "But Not for Me",
+        "url": "https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE"
+      },
+      "artists": [
+        {
+          "name": "Jonny Libonate",
+          "url": "https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba"
+        }
+      ],
+      "duration_ms": 188650,
+      "name": "Cleopatra's Dream",
+      "url": "https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Lonely Desires",
-        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
-      },
-      "artists": [
-        {
-          "name": "Amir Patel",
-          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Lonely Desires",
-      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Quiet Nights Of Quiet Stars (Corcovado)",
         "url": "https://open.spotify.com/album/4zKckB1AAPKpxH4OzzK3uA"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 164645,
       "name": "Quiet Nights Of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/2ldWv3o9DglHPd8Ye4HjaL"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Lonely Desires",
+        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
+      },
+      "artists": [
+        {
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Lonely Desires",
+      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Bel\u00e9m",
-        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
-      },
-      "artists": [
-        {
-          "name": "Tyree",
-          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Bel\u00e9m",
-      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 207339,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Bel\u00e9m",
+        "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
+      },
+      "artists": [
+        {
+          "name": "Tyree",
+          "url": "https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Bel\u00e9m",
+      "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Vivendo",
-        "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
-      },
-      "artists": [
-        {
-          "name": "Moreno Jazz Band",
-          "url": "https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr"
-        }
-      ],
-      "duration_ms": 199299,
-      "name": "Vivendo",
-      "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Letters in the Sand",
         "url": "https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 120810,
       "name": "Cora\u00e7\u00e3o Madura",
       "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Vivendo",
+        "url": "https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl"
+      },
+      "artists": [
+        {
+          "name": "Moreno Jazz Band",
+          "url": "https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr"
+        }
+      ],
+      "duration_ms": 199299,
+      "name": "Vivendo",
+      "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1799,22 +1815,6 @@
       "duration_ms": 300360,
       "name": "Baubles, Bangles and Beads",
       "url": "https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
-        }
-      ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1847,22 +1847,6 @@
       "duration_ms": 305006,
       "name": "Maua",
       "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
-      },
-      "artists": [
-        {
-          "name": "Hiro Suzuki",
-          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
-        }
-      ],
-      "duration_ms": 420811,
-      "name": "Vespertine",
-      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -1919,6 +1903,22 @@
       "duration_ms": 206000,
       "name": "I Should Have Known Better",
       "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
+      },
+      "artists": [
+        {
+          "name": "Hiro Suzuki",
+          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
+        }
+      ],
+      "duration_ms": 420811,
+      "name": "Vespertine",
+      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -2067,6 +2051,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Double Rainbow",
         "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
       },
@@ -2079,22 +2079,6 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
-        "name": "Bossa Nova Soul Samba",
-        "url": "https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28"
-      },
-      "artists": [
-        {
-          "name": "Ike Quebec",
-          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
-        }
-      ],
-      "duration_ms": 341280,
-      "name": "Goin' Home",
-      "url": "https://open.spotify.com/track/1hvG8cR9V0XczIkL4SmuzN"
     },
     {
       "added_at": "2024-12-13 14:06:06",
@@ -2147,6 +2131,22 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
+        "name": "Bossa Nova Soul Samba",
+        "url": "https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "duration_ms": 341280,
+      "name": "Goin' Home",
+      "url": "https://open.spotify.com/track/1hvG8cR9V0XczIkL4SmuzN"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-12-13 14:06:06",
       "album": {
-        "name": "Praia \u00e0 noite",
-        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
-      },
-      "artists": [
-        {
-          "name": "C. Moreira",
-          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
-        }
-      ],
-      "duration_ms": 180610,
-      "name": "Praia \u00e0 noite",
-      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
-    },
-    {
-      "added_at": "2024-12-13 14:06:06",
-      "album": {
         "name": "Standard Deviations",
         "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 434476,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
+    },
+    {
+      "added_at": "2024-12-13 14:06:06",
+      "album": {
+        "name": "Praia \u00e0 noite",
+        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
+      },
+      "artists": [
+        {
+          "name": "C. Moreira",
+          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
+        }
+      ],
+      "duration_ms": 180610,
+      "name": "Praia \u00e0 noite",
+      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
     },
     {
       "added_at": "2024-12-13 14:06:06",

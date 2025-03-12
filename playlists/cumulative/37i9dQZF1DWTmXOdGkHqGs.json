@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Un Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161959,
+      "name": "Mi Unico Amor",
+      "url": "https://open.spotify.com/track/5xOLqQamew1yeZInzZsh8T"
+    },
+    {
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 172806,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj"

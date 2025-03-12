@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain]
 
 > Recession Pop 4eva\.  Cover: LMFAO & Lil Jon
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,969 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,049 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

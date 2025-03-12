@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8FL8pSHDl0T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8FL8pSHDl0T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8FL8pSHDl0T)
 
-### [STEINS;GATE \-シュタインズ・ゲート\-](https://open.spotify.com/playlist/37i9dQZF1DX8FL8pSHDl0T)
+### [STEINS;GATE](https://open.spotify.com/playlist/37i9dQZF1DX8FL8pSHDl0T)
 
-> Experience the world of STEINS;GATE from video game to TV anime series./ 待望の公式プレイリスト登場！音楽と共に振り返る、果てなき<a href="http://steinsgate.jp/">シュタゲ</a>の世界。\(C\)2009 MAGES./5pb./Nitroplus
+> Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
 44 songs - 3 hr 28 min
 

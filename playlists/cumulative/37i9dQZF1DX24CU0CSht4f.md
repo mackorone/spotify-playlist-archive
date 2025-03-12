@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX24CU0CSht4f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX24CU0CSht4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24CU0CSht4f)
 
-### [Sgt\. Frog \-ケロロ軍曹\-](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
+### [Sgt\. Frog](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
 
-> Enjoy the world of “Sgt\. Frog”! 地球侵略のために派遣された宇宙人・ケロロ軍曹と仲間たちによる物語。オマージュ満載な傑作コメディを彩る歴代OP/ED曲、挿入歌を特集。
+> Enjoy the world of “Sgt\. Frog”!
 
 64 songs - 4 hr 16 min
 

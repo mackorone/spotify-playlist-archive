@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain](/playlists/plain/37i9dQZF1DX24CU0CSht4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24CU0CSht4f)
 
-### [Sgt\. Frog \-ケロロ軍曹\-](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
+### [Sgt\. Frog](https://open.spotify.com/playlist/37i9dQZF1DX24CU0CSht4f)
 
-> Enjoy the world of “Sgt\. Frog”! 地球侵略のために派遣された宇宙人・ケロロ軍曹と仲間たちによる物語。オマージュ満載な傑作コメディを彩る歴代OP/ED曲、挿入歌を特集。
+> Enjoy the world of “Sgt\. Frog”!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,293 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,307 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 | 63 | [ケロパック](https://open.spotify.com/track/1UMxmCQqPKtn2qdzZ0qMPj) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [平原綾香ドラマ・映画ワークスセレクション](https://open.spotify.com/album/0STnj2c3YKTKptIKJMSJXW) | 2:41 |
 | 64 | [帰ってきたケロッ! とマーチ ‐READYMADE SERGEANT ROCK‐](https://open.spotify.com/track/1c64rKvp3YMhQYGijAwJGb) | [財津一郎](https://open.spotify.com/artist/6xP5KiQFT3DsRqoFfwMTHP), [小倉優子](https://open.spotify.com/artist/5re6qQEZDRMp3KiynB1aBo), [Yasuharu Konishi](https://open.spotify.com/artist/0v3YeJH8iq8DQcIwIMWFgD) | [TVアニメ『ケロロ軍曹』ケロロソング③](https://open.spotify.com/album/43wq3O2UCQZfVsL2C5mZj0) | 3:26 |
 
-Snapshot ID: `ZIxU7QAAAAB0kib+EekHnCRZEvX8tog0`
+Snapshot ID: `Z9ARMAAAAAC+wEOcAf6gkJAa78+fbb5v`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,223 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,216 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 |
-| 2 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 |
+| 1 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 |
+| 2 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 |
 | 3 | [Kom Je Me Halen](https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Kom Je Me Halen](https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS) | 3:11 |
 | 4 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
 | 5 | [Fantasie](https://open.spotify.com/track/1yquZQsceyrmM4N0FgcMk2) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li), [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Fantasie](https://open.spotify.com/album/1L06xOOJxrxNomB9q3m52C) | 2:37 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 19 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
 | 20 | [Ik Bouw Een Huis](https://open.spotify.com/track/5A1Upu21oc90sZLWqDQMnO) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Ik Bouw Een Huis](https://open.spotify.com/album/3TQyS6dUZ75kMxhHNUb0qv) | 2:28 |
 | 21 | [Nooit Echt Van Mij](https://open.spotify.com/track/0QOU6ZXADvlZc7dyuG0uqS) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Nooit Echt Van Mij](https://open.spotify.com/album/4zMpCoxZcpE1sMjYzZI47y) | 2:17 |
-| 22 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 |
+| 22 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/6k7cmSyTY44n7JeLGVJeRa) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 |
 | 23 | [Achter De Regen](https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu) | [Ana Luca](https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI) | [Achter De Regen](https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d) | 3:12 |
 | 24 | [Fikkie](https://open.spotify.com/track/0lLdt9dyVwcLlxr9eSEnrg) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Fikkie](https://open.spotify.com/album/1b143sQ0p9yvz31lZe0KwZ) | 2:47 |
 | 25 | [VINDERSLOON](https://open.spotify.com/track/7bSaQDxmheM9dhBS9NYlq7) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 |
 | 70 | [Laat los](https://open.spotify.com/track/6VHD653hMV6l5so33kX5fK) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Laat los](https://open.spotify.com/album/2DjNQN2Ayif4KV68JkMl7D) | 3:16 |
 
-Snapshot ID: `Z8opDgAAAACgSTPZdYZ6xjkUL530U79R`
+Snapshot ID: `Z9BXiAAAAABVne6f6mFFd1Ok+Edkx/2j`

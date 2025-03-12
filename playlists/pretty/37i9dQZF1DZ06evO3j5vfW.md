@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,999 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,999 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 48 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 49 | [Dynamite](https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Dynamite](https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR) | 3:22 |
 | 50 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 |
-| 51 | [Where Would We Be](https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be](https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6) | 3:28 |
 
 Snapshot ID: `Z8zaAAAAAADL0Iupgbku2O0C72mn65Zz`

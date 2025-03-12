@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: fox capture plan\n",
+  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: LAGHEADS",
   "name": "Jazz Fusion Japan",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 294706,
       "name": "El Ron Zacapa",
       "url": "https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC"
@@ -2140,6 +2140,24 @@
       "duration_ms": 261600,
       "name": "We\u2019ll Be Right Back",
       "url": "https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8"
+    },
+    {
+      "album": {
+        "name": "Who is \u201cLAGHEADS\u201d?",
+        "url": "https://open.spotify.com/album/52iASbVYgjcsSasw8D0KZY"
+      },
+      "artists": [
+        {
+          "name": "LAGHEADS",
+          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88750,
+      "name": "Who is \"LH\"?",
+      "url": "https://open.spotify.com/track/6LzMDXrQThX499lfG5ZMU9"
     },
     {
       "album": {

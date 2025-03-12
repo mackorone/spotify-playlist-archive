@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 192250,
       "name": "Abbaiare",
       "url": "https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj"
@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "M'annegasti",
+        "url": "https://open.spotify.com/album/1Qdb4Rvn66Eookw953zCeT"
+      },
+      "artists": [
+        {
+          "name": "Dente",
+          "url": "https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155986,
+      "name": "M'annegasti",
+      "url": "https://open.spotify.com/track/7LEUTklCDHl0AWkgRsd3gS"
+    },
+    {
+      "album": {
         "name": "Mal di te",
         "url": "https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 210498,
       "name": "Per La Nostra Et\u00e0",
       "url": "https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8"

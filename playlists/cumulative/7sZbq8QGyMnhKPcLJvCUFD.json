@@ -7403,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/5TOgXNU0OgUQQTjNC9Jm3D"
+      },
+      "artists": [
+        {
+          "name": "Tobu",
+          "url": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/2aFSxH9yqKQVzNFkKEZwKS"
+    },
+    {
+      "album": {
         "name": "Lock n' Load",
         "url": "https://open.spotify.com/album/7nnqBWlXiL1f2UtHgRiYW2"
       },

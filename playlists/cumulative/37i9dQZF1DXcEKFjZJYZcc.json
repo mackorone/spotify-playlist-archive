@@ -5585,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Vespera",
+        "url": "https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS"
+      },
+      "artists": [
+        {
+          "name": "Freya Bagger",
+          "url": "https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ"
+    },
+    {
+      "album": {
         "name": "Vicino a te",
         "url": "https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC"
       },

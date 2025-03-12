@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-275 songs - 14 hr 6 min
+276 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 | 2019-10-13 |  |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2019-10-13 |  |
 | [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 | 2023-05-29 |  |
+| [Manic Monday \- Acoustic](https://open.spotify.com/track/2TUKROtCFgNrWtO0Ou17of) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Manic Monday \(Acoustic\)](https://open.spotify.com/album/2mNth3H0jsbRlEPC5MKsiv) | 1:56 | 2025-03-11 |  |
 | [Marry You \- Acoustic](https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Marry You \(Acoustic\)](https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH) | 3:11 | 2023-02-10 | 2023-02-25 |
 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 | 2019-10-13 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-03-19 | 2024-02-17 |

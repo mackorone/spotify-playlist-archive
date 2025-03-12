@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Camila Fernández
 
-6,977 songs - 15 day 1 hr 40 min
+6,978 songs - 15 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2592,6 +2592,7 @@
 | [Esta Noche Vengo A Verte](https://open.spotify.com/track/4zG1Kedlxo3cHrT4WJ3Gwf) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [Esta Noche Vengo A Verte](https://open.spotify.com/album/14QK2PIWxcIkc5xnp5bPab) | 2:40 | 2022-05-20 | 2022-05-28 |
 | [Esta Vez](https://open.spotify.com/track/4kpu0seOFPNk9qduu7wr71) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Banda Aventurero](https://open.spotify.com/artist/3OufVfb9pUdgvIv21ouYPq) | [Esta Vez](https://open.spotify.com/album/3w0aW6nI6EWGSRNXAZIokC) | 2:07 | 2024-09-13 | 2024-09-21 |
 | [Esta Vez Fui Yo](https://open.spotify.com/track/57KSIZ2Sl7XyWySNlBbTdP) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Esta Vez Fui Yo](https://open.spotify.com/album/0Ph4RL3sjcTOzPzM2MDr8W) | 2:57 | 2023-10-13 | 2023-10-21 |
+| [Esta Vida No Es Vida](https://open.spotify.com/track/6fmyYzNVpjMtkCvC6Tkv86) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Esta Vida No Es Vida](https://open.spotify.com/album/5LAIbVast86YGTJ48cZtXD) | 2:18 | 2025-03-07 |  |
 | [Estaba Equivocado \- En Vivo](https://open.spotify.com/track/4T8LHTFaWyOiJW6F40JEBB) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Estaba Equivocado \(En Vivo\)](https://open.spotify.com/album/0yyK6jT7mxFcoYdfTofkez) | 3:15 | 2023-01-13 | 2023-01-21 |
 | [Estas En Mi Pasado](https://open.spotify.com/track/62PeKIJQiist979Q2GBrFc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:55 | 2022-07-15 | 2022-07-23 |
 | [Estas Equivocada](https://open.spotify.com/track/4n96lLNEUctQfU0YQ9KjLd) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Estas Equivocada](https://open.spotify.com/album/25vVIRhDVqBh1DL8PbJUB7) | 2:44 | 2022-10-21 | 2022-10-29 |

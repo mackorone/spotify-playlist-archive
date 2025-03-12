@@ -4,7 +4,7 @@
 
 > 
 
-170 songs - 9 hr 9 min
+171 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Breaking Chains](https://open.spotify.com/track/3AyOqcaikAJbbhXj70s9VS) | [Menout](https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r) | [NoWay](https://open.spotify.com/album/7iwvfwhAMQWAUFVsUyIvJH) | 2:23 | 2024-12-11 |  |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 | 2023-09-17 |  |
 | [Broken \(Are Little Victories by the Ship of Life\)](https://open.spotify.com/track/0l0evVvEb9e06LOB4gk84U) | [Krobak](https://open.spotify.com/artist/3NSPUQNQB8sZ4dUdHSGa0Z) | [Little Victories](https://open.spotify.com/album/7CbeLrrlWnIOBH4MjuZFlR) | 4:40 | 2023-09-26 |  |
-| [Bu Partide Yalnızsın](https://open.spotify.com/track/2jNMF2yRaKenJ6Yn0FLMI3) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo) | [SON](https://open.spotify.com/album/6mtl5HTLK6lK9V5Jzu4g1b) | 3:46 | 2023-01-14 |  |
+| [Bu Partide Yalnızsın](https://open.spotify.com/track/2jNMF2yRaKenJ6Yn0FLMI3) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo) | [SON](https://open.spotify.com/album/6mtl5HTLK6lK9V5Jzu4g1b) | 3:46 | 2023-01-14 | 2025-03-12 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-05-26 |  |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2023-01-13 |  |
 | [Closer](https://open.spotify.com/track/1Ow56l4zxbdHJm5EOdCVze) | [Nuages](https://open.spotify.com/artist/30tUlKZ8oLo0BnN6n0GZKD) | [Closer](https://open.spotify.com/album/0jL9uCyA6E0TQFOiTaMcmx) | 5:08 | 2023-08-28 |  |
@@ -47,6 +47,7 @@
 | [Count to Five](https://open.spotify.com/track/4ynqq6nbZUPI0fsD5ooALh) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Stray](https://open.spotify.com/album/2cB3JYraRPrxqIODugyL6M) | 3:04 | 2023-09-21 |  |
 | [Dark Side Of The Moon](https://open.spotify.com/track/33iv4ikGd0KboI6xNPL80i) | [suisside](https://open.spotify.com/artist/79oXnSqjYH5WW260RhSHzZ) | [Dark Side Of The Moon](https://open.spotify.com/album/14wH4mIm2pKnZ9ti5co81U) | 2:48 | 2023-01-13 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2024-01-07 |  |
+| [dial tone](https://open.spotify.com/track/4jDA1sI60uTBKTFOS6x2RP) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [dial tone](https://open.spotify.com/album/6AsbwoaM8vQor7AXpShvur) | 3:36 | 2025-03-11 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/4b3khTm3ufGRTyZwuYdasn) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:22 | 2024-01-01 |  |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2023-01-14 |  |
 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 | 2023-01-13 |  |

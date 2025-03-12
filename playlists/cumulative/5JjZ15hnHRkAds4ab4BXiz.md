@@ -4,7 +4,7 @@
 
 > 
 
-541 songs - 1 day 10 hr 16 min
+542 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Build](https://open.spotify.com/track/6hkZqkzakw3f21beVQft5o) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 4:45 | 2024-04-08 |  |
 | [Bupkis](https://open.spotify.com/track/2UloinNAnfNmUvNo9JkB3y) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 4:34 | 2024-12-31 |  |
 | [Burndt Jamb](https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 | 2024-03-26 |  |
+| [Business Dog](https://open.spotify.com/track/6hyDONyubATZ5eimv7ll62) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 2:35 | 2025-03-11 |  |
 | [California Dreamin'](https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [All The Leaves Are Brown The Golden Era Collection](https://open.spotify.com/album/6d9b6qTmzQ2WOOGB2cDCDq) | 2:40 | 2023-11-12 |  |
 | [California Kids](https://open.spotify.com/track/5CsQwb89zUbizwvDKoj0xo) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:25 | 2024-06-06 |  |
 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 | 2024-06-29 |  |
@@ -112,7 +113,7 @@
 | [Da Vinci](https://open.spotify.com/track/6WGhUotwewyk7h9KagoViF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 4:05 | 2024-05-19 |  |
 | [Daddy Dookie Brown](https://open.spotify.com/track/42TXTzNiUHivHWGeBSlBGU) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 3:49 | 2024-12-30 |  |
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2024-04-04 |  |
-| [Dare I Care](https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:25 | 2024-07-07 | 2024-07-22 |
+| [Dare I Care](https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:25 | 2024-07-07 |  |
 | [Death And Destruction](https://open.spotify.com/track/6E6rY8reP0d4HU0xDiC264) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 | 2024-04-09 |  |
 | [Deep Red](https://open.spotify.com/track/3qRWjDHAmVH0l7bUFwnVnS) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 6:29 | 2024-07-07 |  |
 | [Desire Be Desire Go](https://open.spotify.com/track/4LD5p1sSp97yp86E2zDZwK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:26 | 2024-04-05 |  |

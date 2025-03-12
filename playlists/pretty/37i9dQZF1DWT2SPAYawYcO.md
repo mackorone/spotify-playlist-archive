@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Lady Gaga, David Guetta, Sia, JENNIE, Dua Lipa, The Wiggles, Lainey Wilson & Blusher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,914 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,911 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 20 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
 | 21 | [YNG](https://open.spotify.com/track/4xnAIsiUNXdismYrBrhyF0) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [YNG](https://open.spotify.com/album/0Psla5vzoqZfa8BZiEOg3y) | 2:33 |
 | 22 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
-| 23 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
+| 23 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
 | 24 | [Son Of The Forest \- Edit](https://open.spotify.com/track/7dXItXQY2FI0iBiNThn3oX) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Son Of The Forest \(Edit\)](https://open.spotify.com/album/5iGbScYDCN4q78VgCfYCUL) | 4:45 |
 | 25 | [PSILOCYBIN & DAISIES](https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [PSILOCYBIN & DAISIES](https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH) | 2:17 |
 | 26 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |

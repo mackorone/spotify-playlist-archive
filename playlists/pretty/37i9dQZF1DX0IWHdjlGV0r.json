@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Emis Killa",
-  "num_followers": 124527,
+  "num_followers": 124530,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
+        "name": "Bravo Ragazzo (Royal Edition)",
+        "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Brivido",
+      "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
+    },
+    {
+      "added_at": "2025-02-20 09:24:33",
+      "album": {
         "name": "Going Hard 3",
         "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 214588,
       "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
       "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
-    },
-    {
-      "added_at": "2025-02-20 09:24:33",
-      "album": {
-        "name": "Bravo Ragazzo (Royal Edition)",
-        "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Brivido",
-      "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -531,8 +531,8 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
@@ -540,21 +540,13 @@
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Dat Boi Dee",
-          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        },
-        {
-          "name": "Geenaro & Ghana Beats",
-          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 205840,
-      "name": "SI STAT\u2019 TU",
-      "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -627,8 +619,8 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
       "artists": [
         {
@@ -636,13 +628,21 @@
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
         }
       ],
-      "duration_ms": 215421,
-      "name": "X CASO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+      "duration_ms": 205840,
+      "name": "SI STAT\u2019 TU",
+      "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -899,6 +899,26 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
+        "name": "SOLO TUTTO",
+        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2025-02-20 09:24:33",
+      "album": {
         "name": "FAME",
         "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
       },
@@ -923,26 +943,6 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2025-02-20 09:24:33",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -955,46 +955,6 @@
       "duration_ms": 172615,
       "name": "COME VUOI",
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
-    },
-    {
-      "added_at": "2025-02-20 09:24:33",
-      "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 160227,
-      "name": "Amore cieco (feat. Madame)",
-      "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
-    },
-    {
-      "added_at": "2025-02-20 09:24:33",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 164177,
-      "name": "Ancora Qua (feat. Tedua)",
-      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -1019,6 +979,46 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 164177,
+      "name": "Ancora Qua (feat. Tedua)",
+      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
+    },
+    {
+      "added_at": "2025-02-20 09:24:33",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 160227,
+      "name": "Amore cieco (feat. Madame)",
+      "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
+    },
+    {
+      "added_at": "2025-02-20 09:24:33",
+      "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
@@ -1031,30 +1031,6 @@
       "duration_ms": 180009,
       "name": "Torna Da Me",
       "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2025-02-20 09:24:33",
-      "album": {
-        "name": "Mafia Slime 2",
-        "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
-      },
-      "artists": [
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Dritto al Cuore",
-      "url": "https://open.spotify.com/track/2bsczj9bIOWSwWXcVhZEvX"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -1083,22 +1059,26 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
-        "name": "HOTEL MONTANA",
-        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+        "name": "Mafia Slime 2",
+        "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
       },
       "artists": [
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
         },
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Kiss You (F**k You) [feat. Geolier]",
-      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+      "duration_ms": 184615,
+      "name": "Dritto al Cuore",
+      "url": "https://open.spotify.com/track/2bsczj9bIOWSwWXcVhZEvX"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -1115,6 +1095,26 @@
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
+    },
+    {
+      "added_at": "2025-02-20 09:24:33",
+      "album": {
+        "name": "HOTEL MONTANA",
+        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Kiss You (F**k You) [feat. Geolier]",
+      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
       "added_at": "2025-02-20 09:24:33",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-02-20 09:24:33",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
-    },
-    {
-      "added_at": "2025-02-20 09:24:33",
-      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
+    },
+    {
+      "added_at": "2025-02-20 09:24:33",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
       "added_at": "2025-02-20 09:24:33",

@@ -4,7 +4,7 @@
 
 > Anna Castiglia in cover della playlist con il meglio dell’indie italiano!
 
-218 songs - 11 hr 23 min
+219 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A cosa serve l'estate](https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS), [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [A cosa serve l'estate](https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO) | 3:41 | 2024-09-19 | 2024-10-25 |
 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 | 2024-12-19 |  |
 | [A Vele Spiegate](https://open.spotify.com/track/3LVDkHER2X6n0xIIN8E6b3) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [A Vele Spiegate](https://open.spotify.com/album/4FO5fjqOFxSH7wP5DOQ8l0) | 3:19 | 2024-09-19 | 2024-10-04 |
-| [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 | 2025-01-23 |  |
+| [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 | 2025-01-23 | 2025-03-12 |
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Alaska](https://open.spotify.com/track/2rUvFkePq1K0WbW9uZ64oY) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Alaska](https://open.spotify.com/album/2I5DAwuxdzjCaTI1gvdtWH) | 2:26 | 2024-11-07 | 2025-01-24 |
 | [Alta marea](https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Alta marea](https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x) | 2:51 | 2024-06-27 | 2025-01-15 |
@@ -120,6 +120,7 @@
 | [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 | 2024-08-01 | 2024-09-20 |
 | [Lucifero \(feat\. Mecna\)](https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg) | [Lunedì Notte](https://open.spotify.com/artist/6h4IzimRxLUfq88yFpDEhM), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Lunedì Notte \(EP\)](https://open.spotify.com/album/05bfFYyavH3l2smbxIyTnx) | 3:27 | 2024-10-10 | 2024-12-06 |
 | [L’URLO](https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [L’URLO](https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA) | 2:20 | 2024-10-10 | 2024-10-18 |
+| [M'annegasti](https://open.spotify.com/track/7LEUTklCDHl0AWkgRsd3gS) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [M'annegasti](https://open.spotify.com/album/1Qdb4Rvn66Eookw953zCeT) | 2:35 | 2025-03-11 |  |
 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 | 2025-01-16 |  |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-27 | 2024-10-04 |
 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 | 2024-07-04 | 2024-08-16 |
@@ -156,7 +157,7 @@
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |
 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 | 2024-09-26 | 2024-10-18 |
 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 | 2024-09-20 |
-| [Per La Nostra Età](https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Per La Nostra Età](https://open.spotify.com/album/79HKgXWonC5s5EiFnwiWBw) | 3:30 | 2025-01-23 |  |
+| [Per La Nostra Età](https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Per La Nostra Età](https://open.spotify.com/album/79HKgXWonC5s5EiFnwiWBw) | 3:30 | 2025-01-23 | 2025-03-12 |
 | [Per me è ok \(feat\. Angelica\)](https://open.spotify.com/track/3t1xFmZjn2a2klm4G9H5k7) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Per me è ok \(feat\. Angelica\)](https://open.spotify.com/album/2j55jiGOigGx65ikcY1tX2) | 2:49 | 2024-10-24 | 2024-11-15 |
 | [Per Non Sentire La Fine Del Mondo](https://open.spotify.com/track/6s67ZfGsYCd0rsAKtLXCiC) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:00 | 2024-12-05 | 2024-12-20 |
 | [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 |  |

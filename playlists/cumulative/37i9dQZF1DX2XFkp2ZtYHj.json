@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm"
+      },
+      "artists": [
+        {
+          "name": "Felix Brightwood",
+          "url": "https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn"
+    },
+    {
+      "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD"
       },
@@ -1604,6 +1622,24 @@
       "duration_ms": 137743,
       "name": "Fields Of Love",
       "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
+    },
+    {
+      "album": {
+        "name": "Finding Light",
+        "url": "https://open.spotify.com/album/2S9UXnSMlmV6HkMkEcKwGn"
+      },
+      "artists": [
+        {
+          "name": "Magnus Sakamura",
+          "url": "https://open.spotify.com/artist/6YyKxlVhFcuyUVfKutRtQr"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153651,
+      "name": "Finding Light",
+      "url": "https://open.spotify.com/track/4Vacrvcwb9t1suLPgAptil"
     },
     {
       "album": {
@@ -2612,6 +2648,24 @@
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "album": {
+        "name": "Long-Awaited Light",
+        "url": "https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Salvius",
+          "url": "https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158603,
+      "name": "Long-Awaited Light",
+      "url": "https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k"
     },
     {
       "album": {

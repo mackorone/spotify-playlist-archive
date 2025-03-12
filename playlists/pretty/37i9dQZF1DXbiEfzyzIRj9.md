@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: 宇多田ヒカル & Arca
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Tohji
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,081 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,084 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Electricity \(Arca Remix\)](https://open.spotify.com/track/4GZBn7lvGSoEalXLJekGrg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Electricity \(Arca Remix\)](https://open.spotify.com/album/38xD3ZibRtmc2bwV1cGvdS) | 3:38 |
+| 1 | [Guernica\-Kei](https://open.spotify.com/track/0wuqz0mD2FJIXFRCAECCPh) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [zero\-one](https://open.spotify.com/album/6mj5Cq5VB75f9PQG2xNI5w) | 1:58 |
 | 2 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 |
-| 3 | [Guernica\-Kei](https://open.spotify.com/track/0wuqz0mD2FJIXFRCAECCPh) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [zero\-one](https://open.spotify.com/album/6mj5Cq5VB75f9PQG2xNI5w) | 1:58 |
+| 3 | [Electricity \(Arca Remix\)](https://open.spotify.com/track/4GZBn7lvGSoEalXLJekGrg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Electricity \(Arca Remix\)](https://open.spotify.com/album/38xD3ZibRtmc2bwV1cGvdS) | 3:38 |
 | 4 | [Love U Bring](https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Love U Bring](https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU) | 4:00 |
 | 5 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 |
 | 6 | [Fly Life \- salute Remix](https://open.spotify.com/track/3LTHqCkYnYtqTYDqoi3FPl) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Fly Life \(salute Remix\)](https://open.spotify.com/album/1h4I9xCeVDCmnQ0ZU9sUE1) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [AOS](https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [AOS](https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe) | 3:40 |
 | 100 | [Heaven In Your Arms](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Heaven In Your Arms](https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n) | 4:08 |
 
-Snapshot ID: `Z8pJdQAAAAACPr4hAzdlf8cjlurOAX0P`
+Snapshot ID: `Z9BP/QAAAADl+je2FIc2gh565kqSzIU7`

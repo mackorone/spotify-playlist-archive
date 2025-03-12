@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh x Keskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390,244 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,114 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 4 | [Ölmedim Ben](https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ölmedim Ben](https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu) | 2:49 |
 | 5 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
 | 6 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
-| 7 | [Mirrmirr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 |
+| 7 | [Mırrmırr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 |
 | 8 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
 | 9 | [16\-24](https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [16\-24](https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO) | 2:27 |
 | 10 | [SCOTTY](https://open.spotify.com/track/65X5tjYqkJVWm3lTHDGXLO) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [DUA](https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w) | 3:01 |

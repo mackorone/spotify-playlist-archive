@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,541 likes - 91 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,651 likes - 91 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 85 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
 | 86 | [solaria\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [solaria\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
 | 87 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 |
-| 88 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
+| 88 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
 | 89 | [Relief Focus Part 1](https://open.spotify.com/track/4iu11idQuMvhRWfeKsT7eZ) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Relief Focus](https://open.spotify.com/album/43OcuIirS6m1pDpabjy9Kx) | 5:20 |
 | 90 | [Far Far Away](https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Journey To Neptune](https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4) | 3:41 |
 | 91 | [Echo](https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c) | [Lennon Hutton](https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ) | [The Connection](https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8) | 2:09 |

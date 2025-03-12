@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain](/playlists/plain/37i9dQZF1DWX48bLeZRpmd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX48bLeZRpmd)
 
-### [The Quintessential Quintuplets \-五等分の花嫁\-](https://open.spotify.com/playlist/37i9dQZF1DWX48bLeZRpmd)
+### [The Quintessential Quintuplets](https://open.spotify.com/playlist/37i9dQZF1DWX48bLeZRpmd)
 
-> Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
+> Enjoy music & episodes from "The Quintessential Quintuplets"! ©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,269 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,303 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 49 | [五つ子ゲームファイナル](https://open.spotify.com/track/3elRDyTr6H9Cvw7eZ1uZBt) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3) | [映画「五等分の花嫁」 オリジナル・サウンドトラック](https://open.spotify.com/album/5F2sSVV1saRB3feDpAnpEk) | 6:20 |
 | 50 | [ハートのカタチ～四つ葉のClover～ \- colate Slow Dance Edit](https://open.spotify.com/track/7pPXiRFAlPP0jAyPcIJJnT) | [中野四葉\(CV:佐倉綾音\)](https://open.spotify.com/artist/6EwjE2dOpGtPpnDK2p3gD5) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 4:01 |
 
-Snapshot ID: `ZumZcAAAAADN98RlOvVGEt3FNm8zVq1j`
+Snapshot ID: `Z9AR3QAAAAAsIgfO4j/rKqH8vySoRdQe`

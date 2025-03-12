@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485977,
+  "num_followers": 486048,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "The Mystery Lights",
-        "url": "https://open.spotify.com/album/6svXmZ3D1FVUOInHI9enLp"
-      },
-      "artists": [
-        {
-          "name": "The Mystery Lights",
-          "url": "https://open.spotify.com/artist/6AQxkjJQfz7CNjwZ5CTqJX"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "What Happens When You Turn the Devil Down",
-      "url": "https://open.spotify.com/track/4nRGHjBSIDRHw1sqDXLOTX"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "The Mystery Lights",
+        "url": "https://open.spotify.com/album/6svXmZ3D1FVUOInHI9enLp"
+      },
+      "artists": [
+        {
+          "name": "The Mystery Lights",
+          "url": "https://open.spotify.com/artist/6AQxkjJQfz7CNjwZ5CTqJX"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "What Happens When You Turn the Devil Down",
+      "url": "https://open.spotify.com/track/4nRGHjBSIDRHw1sqDXLOTX"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -427,7 +427,7 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Welcome Back (To The Glow)",
+        "name": "Welcome Back (To The//Glow)",
         "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
       },
       "artists": [
@@ -437,7 +437,7 @@
         }
       ],
       "duration_ms": 285824,
-      "name": "Welcome Back (To The Glow)",
+      "name": "Welcome Back (To The//Glow)",
       "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
     },
     {
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Small Fry",
-        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 206260,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Existential Playboy",
         "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 134386,
       "name": "always learning not what to do",
       "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 206260,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
-        "url": "https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk"
-      },
-      "artists": [
-        {
-          "name": "Mac Krol",
-          "url": "https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs"
-        },
-        {
-          "name": "Mike Krol",
-          "url": "https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR"
-        },
-        {
-          "name": "Mac McCaughan",
-          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Fair Warning",
-      "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Naga Damai",
         "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 113232,
       "name": "twenty bucks (the friend song)",
       "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "\"For Some Other Reason\" b/w \"Fair Warning\" and \"What Would You Say?\"",
+        "url": "https://open.spotify.com/album/2gjY76SBe8JhzNisgdB4uk"
+      },
+      "artists": [
+        {
+          "name": "Mac Krol",
+          "url": "https://open.spotify.com/artist/17G6PVRcbdHfWBhPRijvSs"
+        },
+        {
+          "name": "Mike Krol",
+          "url": "https://open.spotify.com/artist/2c34ZzVmfwzsNHc05x3uzR"
+        },
+        {
+          "name": "Mac McCaughan",
+          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Fair Warning",
+      "url": "https://open.spotify.com/track/4oLZSZ3FTrml6ma6sOOMbp"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
-      },
-      "artists": [
-        {
-          "name": "Sunsick Daisy",
-          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "MOVING ON",
@@ -863,6 +847,22 @@
       "duration_ms": 160375,
       "name": "Carol",
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
+      },
+      "artists": [
+        {
+          "name": "Sunsick Daisy",
+          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Can You See The Sunshine? (EP)",
-        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
-      },
-      "artists": [
-        {
-          "name": "Gerf",
-          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
-        }
-      ],
-      "duration_ms": 205376,
-      "name": "Couch Sex",
-      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Way You Talk",
-        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
+        "name": "Can You See The Sunshine? (EP)",
+        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
       },
       "artists": [
         {
-          "name": "The Red Pears",
-          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
+          "name": "Gerf",
+          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
         }
       ],
-      "duration_ms": 198420,
-      "name": "The Way You Talk",
-      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
+      "duration_ms": 205376,
+      "name": "Couch Sex",
+      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Spice It Up",
-        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
       },
       "artists": [
         {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
         }
       ],
-      "duration_ms": 146651,
-      "name": "Spice It Up",
-      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+        "name": "Spice It Up",
+        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
       },
       "artists": [
         {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
         }
       ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+      "duration_ms": 146651,
+      "name": "Spice It Up",
+      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 128194,
       "name": "Malibu Sunset",
       "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2024-10-11 04:00:00",

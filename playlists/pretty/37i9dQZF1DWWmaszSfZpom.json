@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 950247,
+  "num_followers": 950198,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Medley da Gaiola (DENNIS Remix)",
+        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Medley da Gaiola - DENNIS Remix",
+      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Medley da Gaiola (DENNIS Remix)",
-        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Medley da Gaiola - DENNIS Remix",
-      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 267795,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Bumbum Granada",
         "url": "https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 187924,
       "name": "Bumbum Granada",
       "url": "https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 267795,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1751,42 +1751,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
-        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
-      },
-      "artists": [
-        {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
-        },
-        {
-          "name": "Dj Digo Beat",
-          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
-      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "MANO DO AK",
         "url": "https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1"
       },
@@ -1807,18 +1771,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Baile de Favela",
-        "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
+        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
+        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
       },
       "artists": [
         {
-          "name": "GR6",
-          "url": "https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx"
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+        },
+        {
+          "name": "Dj Digo Beat",
+          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
         }
       ],
-      "duration_ms": 180088,
-      "name": "Baile de Favela",
-      "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
+      "duration_ms": 240666,
+      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
+      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1843,6 +1811,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "BALAN\u00c7A A GLOCK",
         "url": "https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 156076,
       "name": "BALAN\u00c7A A GLOCK",
       "url": "https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Baile de Favela",
+        "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
+      },
+      "artists": [
+        {
+          "name": "GR6",
+          "url": "https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx"
+        }
+      ],
+      "duration_ms": 180088,
+      "name": "Baile de Favela",
+      "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
     },
     {
       "added_at": "2023-06-26 14:06:50",

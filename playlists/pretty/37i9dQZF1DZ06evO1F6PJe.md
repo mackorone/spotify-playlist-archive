@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,760 likes - 51 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,767 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 48 | [Hold On Loosely](https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hold On Loosely](https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4) | 4:44 |
 | 49 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
 | 50 | [Ball Peen Hammer](https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:27 |
-| 51 | [Black Irish Eyes \(Bonus\)](https://open.spotify.com/track/2ADwGBSQckCt3kbetj8MI1) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 4:30 |
 
 Snapshot ID: `Z8zaAAAAAAD3ajt5zukBHlCIrejxuj6s`

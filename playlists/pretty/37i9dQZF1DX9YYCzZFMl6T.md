@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,044 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,045 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 6 | [Silver Bells](https://open.spotify.com/track/7GUIo9zlJ6pIm5bNwls9EH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silent Night](https://open.spotify.com/album/6rKpq3TVg2RtNCaMsfHscq) | 1:55 |
 | 7 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 8 | [I'll Be Home for Christmas](https://open.spotify.com/track/4w76VgK8polaFYWbdauE36) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Christmas In A Minor Key](https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C) | 2:10 |
-| 9 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
+| 9 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
 | 10 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
-| 11 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
+| 11 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 12 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 13 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 14 | [Silver Bells](https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silver Bells](https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou) | 1:55 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 24 | [Baby, It’s Cold Outside](https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:13 |
 | 25 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
 | 26 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
-| 27 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
-| 28 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
+| 27 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
+| 28 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
 | 29 | [Christmas Tree in the Window](https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Christmas Tree in the Window](https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES) | 4:24 |
 | 30 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
 | 31 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |

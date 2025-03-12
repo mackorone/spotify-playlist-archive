@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 119 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 119 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 96 | [Sleep Walkin'](https://open.spotify.com/track/1ozmXK8LjAadqWYqrc9nkT) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Instant Love \(Expanded Edition\)](https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG) | 6:26 |
 | 97 | [I'm In](https://open.spotify.com/track/2PeO1GlaKreyWX7PCZXVwC) | [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [The Solution](https://open.spotify.com/album/1wgeyjcqLbR0PPgtGwm2mL) | 3:12 |
 | 98 | [Can't Be Doin' That Now](https://open.spotify.com/track/127vkANgtDkuAsMd1knXB9) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 4:47 |
-| 99 | [Hustle \(feat\. Killer Mike\)](https://open.spotify.com/track/0Z9hWEIiWYcuJn5jMPC5wt) | [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Drankin' Patnaz](https://open.spotify.com/album/6Cq4aFoLu1OKc1XNZYdBnp) | 4:25 |
-| 100 | [I Don't Want to Work](https://open.spotify.com/track/6jzBXnXtBePt0SkbIIRtGp) | [Dumb As Rocks](https://open.spotify.com/artist/1Ix6OrTLq3TNWrlwRnVRnx) | [Low IQ](https://open.spotify.com/album/6kJGxMqpbNQpn6dL0geSfx) | 2:50 |
+| 99 | [I Don't Want to Work](https://open.spotify.com/track/6jzBXnXtBePt0SkbIIRtGp) | [Dumb As Rocks](https://open.spotify.com/artist/1Ix6OrTLq3TNWrlwRnVRnx) | [Low IQ](https://open.spotify.com/album/6kJGxMqpbNQpn6dL0geSfx) | 2:50 |
+| 100 | [Hustle \(feat\. Killer Mike\)](https://open.spotify.com/track/0Z9hWEIiWYcuJn5jMPC5wt) | [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Drankin' Patnaz](https://open.spotify.com/album/6Cq4aFoLu1OKc1XNZYdBnp) | 4:25 |
 | 101 | [Lady, Lady](https://open.spotify.com/track/3TTfpRIKwp6MjyvLqy3W3J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 5:33 |
 | 102 | [Everybody Rejoice \- From the Tony Award Winning Musical, "The Wiz"](https://open.spotify.com/track/5uopS4wpKT3UYYWeNFF6vG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 3:24 |
 | 103 | [Get Back to Love](https://open.spotify.com/track/65yhaCP919ZyVzb1hRmsZe) | [Lisa Fischer](https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn) | [So Intense](https://open.spotify.com/album/4z1GsR89d4zTesFNiOhS6o) | 4:32 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 118 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 119 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AbrtdAAAAAC6VgWGdsZex1ArCcANDzjN`
+Snapshot ID: `AbrzCgAAAACjnb1xSFkM2pHefhaENPtM`

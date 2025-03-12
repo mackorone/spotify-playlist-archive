@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-431 songs - 1 day 7 hr 1 min
+433 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/6bT17LxgJvBKniLcfokwti) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:46 | 2022-05-17 | 2024-05-22 |
 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/626g1z5FryZH84PZ4wsWhi) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/28Yc97TtKFFu7UGsPKnZCq) | 4:47 | 2022-09-20 | 2022-10-04 |
 | [Crow Song \- Cover](https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:04 | 2023-06-29 |  |
+| [Crucifix X](https://open.spotify.com/track/65Ccl0gl2WtWCGNdlC38a7) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Crucifix X](https://open.spotify.com/album/4ot7hG62XAaF1zX1YG051J) | 4:59 | 2025-03-11 |  |
 | [Daylight](https://open.spotify.com/track/13YeYqLtmg4R2fNNVb3Jc0) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 5:50 | 2022-06-23 | 2022-10-02 |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/3Be9EL2AESBwcB6ZUYKwys) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight \-デイライト\-](https://open.spotify.com/album/2Djt9daRmOJ1MTliK7X0Gn) | 5:50 | 2022-09-20 | 2023-03-16 |
 | [Daylight \-デイライト\-](https://open.spotify.com/track/7Ld7ylkV7WdTviE5w3XAv9) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 5:50 | 2023-03-14 | 2024-04-19 |
@@ -114,6 +115,7 @@
 | [I knew it!](https://open.spotify.com/track/5dRxTWfQ3stQEMgyDu92dF) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:50 | 2022-05-17 | 2022-07-28 |
 | [I love your way!](https://open.spotify.com/track/3CHCUaI4DxBSZG6meYeDDV) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Sasanqua](https://open.spotify.com/album/6MrfLW4ZY0jpEDsWLVGsQv) | 4:23 | 2022-06-23 | 2022-07-04 |
 | [I\-I Never Said Love!](https://open.spotify.com/track/6cB1HzM544iuFeXEIba8ug) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 3:55 | 2022-06-23 | 2022-10-02 |
+| [Imprisoned XII](https://open.spotify.com/track/1dVwOcHSisM4Sv3yJ1zgos) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Imprisoned XII](https://open.spotify.com/album/60bAQ5kEaarkAPoRRy7YT6) | 3:07 | 2025-03-11 |  |
 | [Introduction](https://open.spotify.com/track/479rfCAZgXrHUFsn1AaN4V) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Introduction](https://open.spotify.com/album/58MD7W6v8GSzXLa97BoGvy) | 3:41 | 2022-06-23 | 2022-10-02 |
 | [Invincible Fighter](https://open.spotify.com/track/3QEDf2gYu2J7tW5fWmtstG) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Invincible Fighter](https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA) | 4:11 | 2022-06-23 | 2024-06-01 |
 | [Jumpin'](https://open.spotify.com/track/2YjrrfEbsAKeGe6NJTqswY) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Jumpin'](https://open.spotify.com/album/15kWIDPuXd2W53eWSgghPS) | 4:08 | 2022-05-17 | 2022-07-29 |
@@ -145,7 +147,7 @@
 | [Original Call](https://open.spotify.com/track/6WLB2iNK2PChDDx4FrTt7f) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Keep Heart / Original Call](https://open.spotify.com/album/3YOAnJSLfYRuUfPOsYt9N5) | 3:47 | 2022-05-17 | 2022-07-17 |
 | [overtuRe](https://open.spotify.com/track/2LWATBNOgMvQO7A750DdJq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 4:04 | 2022-05-17 | 2022-07-29 |
 | [PASSIONATE ANTHEM](https://open.spotify.com/track/2q0jKDgxCmgpGbtYJYyB7A) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Safe and Sound](https://open.spotify.com/album/36ShywSeUlxbIckvlvdTmt) | 4:02 | 2022-06-23 | 2022-07-02 |
-| [Photograph](https://open.spotify.com/track/53N4g5riYJaAKnyog0VxTd) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:16 | 2025-02-25 |  |
+| [Photograph](https://open.spotify.com/track/53N4g5riYJaAKnyog0VxTd) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:16 | 2025-02-25 | 2025-03-12 |
 | [Photograph](https://open.spotify.com/track/0fNoGzHAhHpCpwsUkL55SO) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Photograph](https://open.spotify.com/album/4N721OcjQQhZtB9wtzhxGY) | 4:17 | 2022-05-17 | 2022-07-26 |
 | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/track/1z08YefAMfJ2ptFaniswty) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI) | 4:18 | 2022-06-23 | 2022-10-01 |
 | [Prelude to Gold](https://open.spotify.com/track/0Rbgngwzqoshr5LpGVZ7xB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 4:30 | 2022-08-30 | 2022-09-21 |
@@ -203,7 +205,7 @@
 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/03l8t2nRF2QOQWBBlTMFEZ) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 5:26 | 2022-09-20 | 2024-04-19 |
 | [Step×Step!](https://open.spotify.com/track/1CIdp0zk5vDa8BGUqmuXV0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 4:08 | 2022-05-17 | 2022-07-23 |
 | [Summer Skies & Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/58WIbtANgOd9wK4c7mv3KZ) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 4:55 | 2022-06-23 | 2022-10-02 |
-| [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 | 2022-10-25 |  |
+| [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 | 2022-10-25 | 2025-03-12 |
 | [Sweets BAN!](https://open.spotify.com/track/38Gc7YPBk6UAIgvWEzz2Kb) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 4:14 | 2022-05-17 | 2022-07-19 |
 | [Symbol I : △](https://open.spotify.com/track/1rmra0guc6FngerjG8iE2O) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 5:12 | 2024-11-28 |  |
 | [Symbol II : Air](https://open.spotify.com/track/3VGF6a4goaJbVo03CaPXE0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:32 | 2024-11-28 |  |

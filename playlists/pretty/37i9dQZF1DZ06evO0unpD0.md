@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,454 likes - 51 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,455 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 48 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 | 49 | [Koukou](https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:02 |
 | 50 | [Bithiéloulé](https://open.spotify.com/track/0MIDNOaei1vflCzmXWX0ez) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Les Ambassadeurs](https://open.spotify.com/artist/3leS0kgfAguTnIEOFZ2vQj) | [Seydou Bathily](https://open.spotify.com/album/1hD7zgdhiDCBDsJIM9oJAw) | 6:34 |
-| 51 | [Kanté Manfila](https://open.spotify.com/track/2O0SwBLoK61ZFKobvhRwJb) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kanté Manfila](https://open.spotify.com/album/4JiyngBSt8KfxpdSvaxRDd) | 4:38 |
 
 Snapshot ID: `Z8zaAAAAAADLaY/Tvo/k+Jdhy7n066p2`

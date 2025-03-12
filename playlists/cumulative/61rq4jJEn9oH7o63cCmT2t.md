@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-65 songs - 3 hr 37 min
+66 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2022-05-07 |  |
 | [Stuck](https://open.spotify.com/track/07U0cI4oH4udd2S9pNcOvn) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Dinosaurchestra](https://open.spotify.com/album/4ZE05qOXBcWmItdv95gyiy) | 4:07 | 2022-08-01 |  |
 | [Telescope](https://open.spotify.com/track/0rmBZWpzPSsHF1h5y1sWhi) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sweet Tooth](https://open.spotify.com/album/50pwo2lVRHdrusSovA3ic2) | 2:50 | 2022-09-18 |  |
+| [The Bureau](https://open.spotify.com/track/2lDGj4Pi8UuQIPQdi8M9Eu) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:37 | 2025-03-12 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2023-01-11 |  |
 | [The Sharpest Lives](https://open.spotify.com/track/5EgnurNPXl2Arm2RDt6Aid) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:20 | 2023-01-11 |  |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/1jiOzPL9XnIuDemSMsuFmP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits In Japan](https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2) | 4:32 | 2023-03-21 |  |

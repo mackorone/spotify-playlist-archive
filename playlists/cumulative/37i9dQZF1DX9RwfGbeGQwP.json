@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 114230,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 138000,
       "name": "Cali Phone Ya'",
       "url": "https://open.spotify.com/track/1ArLnO7X64H3eSSTPxNtKw"
@@ -7910,6 +7910,24 @@
       "duration_ms": 123870,
       "name": "Fern",
       "url": "https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK"
+    },
+    {
+      "album": {
+        "name": "fi$h",
+        "url": "https://open.spotify.com/album/1UIpDQEYllPfr8k1ApAjHM"
+      },
+      "artists": [
+        {
+          "name": "Seame",
+          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159187,
+      "name": "fi$h",
+      "url": "https://open.spotify.com/track/0eyMYirAJ2wGaH1dgQAEf5"
     },
     {
       "album": {
@@ -23284,6 +23302,24 @@
       "duration_ms": 266100,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid"
+    },
+    {
+      "album": {
+        "name": "Soft Slumber",
+        "url": "https://open.spotify.com/album/6rY1d1JKF8lZH5I6WLveCK"
+      },
+      "artists": [
+        {
+          "name": "SoFo",
+          "url": "https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Soft Slumber",
+      "url": "https://open.spotify.com/track/2aAMBG2M4U1f69cOZ3AxOh"
     },
     {
       "album": {

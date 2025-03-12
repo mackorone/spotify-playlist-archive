@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 68426,
+  "num_followers": 68437,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
     },
     {
-      "added_at": "2025-01-23 13:00:36",
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 96368,
-      "name": "Forever Yours",
-      "url": "https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu"
-    },
-    {
       "added_at": "2024-12-20 20:54:00",
       "album": {
         "name": "MUTT",
@@ -267,6 +251,22 @@
       "duration_ms": 193333,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2025-01-23 13:00:36",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 96368,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu"
     },
     {
       "added_at": "2025-02-13 13:00:27",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
     },
     {
-      "added_at": "2025-01-23 13:00:36",
-      "album": {
-        "name": "Fuck The Pain Away (Lost Tapes 2022)",
-        "url": "https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Fuck The Pain Away (Lost Tapes 2022)",
-      "url": "https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT"
-    },
-    {
       "added_at": "2025-02-13 13:00:27",
       "album": {
         "name": "99.9%",
@@ -447,6 +431,22 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2025-01-23 13:00:36",
+      "album": {
+        "name": "Fuck The Pain Away (Lost Tapes 2022)",
+        "url": "https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Fuck The Pain Away (Lost Tapes 2022)",
+      "url": "https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
       "added_at": "2025-02-13 13:00:27",
       "album": {
         "name": "5",
@@ -715,6 +699,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Why Lawd?",
         "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
       },
@@ -945,20 +961,20 @@
       "url": "https://open.spotify.com/track/1YZmYp9jZ4Veq6lZpiuV69"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
+      "added_at": "2025-01-23 13:00:36",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+        "name": "Unplanned",
+        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
         }
       ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+      "duration_ms": 170500,
+      "name": "Unplanned",
+      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -979,22 +995,6 @@
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
-    },
-    {
-      "added_at": "2025-01-23 13:00:36",
-      "album": {
-        "name": "Unplanned",
-        "url": "https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Unplanned",
-      "url": "https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd"
     },
     {
       "added_at": "2024-12-20 20:54:00",

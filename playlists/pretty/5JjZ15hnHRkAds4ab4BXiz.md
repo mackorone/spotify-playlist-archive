@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 489 songs - 1 day 6 hr 54 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 491 songs - 1 day 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -497,5 +497,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 487 | [Love Explosion](https://open.spotify.com/track/1nrStYl6bxZHP8nVXy4IlO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:34 |
 | 488 | [Johan Von Bronx](https://open.spotify.com/track/3dWaDHwsvudH9vywNjVUVf) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:01 |
 | 489 | [Father Electricity](https://open.spotify.com/track/1VeHgjA3KTfiMYM4pL1nXX) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 7:23 |
+| 490 | [Business Dog](https://open.spotify.com/track/6hyDONyubATZ5eimv7ll62) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 2:35 |
+| 491 | [Dare I Care](https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 6:25 |
 
-Snapshot ID: `AAAPl7JG3Q+L1KM9rVlxVjxaxym75c02`
+Snapshot ID: `AAAPmaU8kBCTw1BX+BNl0qJu/W+QKXFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Girl Group
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,209 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,211 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 33 | [Codroy](https://open.spotify.com/track/4Ico5UBpM7AnBpoq2XG9Bf) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Codroy](https://open.spotify.com/album/1mnUShf1cPg9ol1TKHKmxc) | 2:56 |
 | 34 | [Freedom](https://open.spotify.com/track/2CXhy8jh539ftEi5X49zqB) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Freedom](https://open.spotify.com/album/7BBlBzoPmvwxLYuVqIlCd6) | 3:10 |
 | 35 | [Take Me](https://open.spotify.com/track/2JekaBnRtjGOjyHWVBNbcZ) | [Monobloc](https://open.spotify.com/artist/17UzuyF3fbCwsDfQIajIak) | [Take Me](https://open.spotify.com/album/0YkKuwaK92DxPooB3ZZviN) | 2:41 |
-| 36 | [Master Plan](https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Mill On The Hill](https://open.spotify.com/album/4tTefEgaW53zHYtrV9ZUHn) | 4:32 |
+| 36 | [Masterplan](https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Mill On The Hill](https://open.spotify.com/album/4tTefEgaW53zHYtrV9ZUHn) | 4:32 |
 | 37 | [Promised Land](https://open.spotify.com/track/1xQTzvTyMCURn6q8sMSGHY) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Promised Land](https://open.spotify.com/album/0hkvGrNxsav5II7SOs3RHh) | 4:30 |
 | 38 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 |
 | 39 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 |

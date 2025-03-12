@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gelo & GloRilla, Doechii, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,187 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,285 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 15 | [Back On The Block](https://open.spotify.com/track/4lTesJAPuURHE1ucAupvLF) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Back On The Block](https://open.spotify.com/album/025utnALKx86cZOoMHjSD9) | 2:03 |
 | 16 | [Big Bruddah \(Don't Be Mad\)](https://open.spotify.com/track/0miSemE2oNHAy79HYTHnCJ) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Big Bruddah \(Don't Be Mad\)](https://open.spotify.com/album/3jJtpVyZ3ZTkRxUEh102e1) | 3:39 |
 | 17 | [Airport Industries \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3LDkIVgSk1qF4gJ9LJBhOh) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Airport Industries \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6T2TXHBvgiS3uhxOTr1LuS) | 2:59 |
-| 18 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
+| 18 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
 | 19 | [Go Girl!](https://open.spotify.com/track/79U3cGFJgD70GjihrqSe4X) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Go Girl!](https://open.spotify.com/album/7xmbSYBTLAIBVArsmcYe09) | 3:36 |
 | 20 | [i told u](https://open.spotify.com/track/0ZA4EJkLvRG3uGj37FIGyN) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i told u](https://open.spotify.com/album/0jkGbSNV1D1rIQIlKnq0oK) | 1:57 |
 | 21 | [Say You're Sorry \(feat\. Hurricane Wisdom\)](https://open.spotify.com/track/2hnvXdKGGqILaktwzsCSXh) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu), [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Say You're Sorry \(feat\. Hurricane Wisdom\)](https://open.spotify.com/album/56251K6O65AtlfOuXxOl1c) | 2:01 |

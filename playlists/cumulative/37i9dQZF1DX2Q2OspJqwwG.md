@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-273 songs - 13 hr 40 min
+274 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [AROGANT](https://open.spotify.com/track/630iI8q5HlUsMGaUS2qojM) | [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [OTEB](https://open.spotify.com/album/6K3p4A1mvMUIDbJUUtNKwJ) | 2:26 | 2025-01-13 | 2025-01-28 |
 | [Au!](https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [Au!](https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8) | 3:26 | 2024-07-08 |  |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-02-17 |  |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-11 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-10-07 |  |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2024-07-01 | 2024-09-16 |
 | [Baklava](https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Baklava](https://open.spotify.com/album/7FCxU7klbvof984RWinLZh) | 2:24 | 2024-07-01 | 2024-07-30 |
@@ -131,7 +132,7 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-12 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-07-01 | 2025-01-21 |
 | [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 | 2024-10-07 |  |
-| [Ia\-ma Du\-ma](https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ia\-ma Du\-ma](https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG) | 2:48 | 2024-07-01 |  |
+| [Ia\-ma Du\-ma](https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Ia\-ma Du\-ma](https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG) | 2:48 | 2024-07-01 | 2025-03-12 |
 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 | 2025-02-17 | 2025-02-26 |
 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 | 2024-07-29 | 2025-02-18 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-17 |  |

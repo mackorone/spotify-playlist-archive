@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 
 > This is Clara Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 205 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 | 48 | [Pra Lembrar](https://open.spotify.com/track/15QSPZxdtFbHKzF9U8UiPO) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Transgressão](https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n) | 2:57 |
 | 49 | [Fogo no Baile](https://open.spotify.com/track/3yKaT3xxvxiHShtgiSHLlf) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Fogo no Baile](https://open.spotify.com/album/642vsEXxR4woIyJvAChCna) | 2:23 |
 | 50 | [Fazendo Dinheiro](https://open.spotify.com/track/3qY3VmHFWbn87ivZgD6fku) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Além](https://open.spotify.com/album/6lphcExMxtb7BIIwrOFPTB) | 2:41 |
-| 51 | [Troféu](https://open.spotify.com/track/3fHg8oNVWCV5InUmgwPjqD) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Doncesão](https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Tasha](https://open.spotify.com/artist/1nBhbXeNBvmQV1ZQ6iGdUd), [Tracie](https://open.spotify.com/artist/7hCbWGwjC1egF3UAJOtfk3), [Gustavo Treze](https://open.spotify.com/artist/21TTiuQIM10WcAm3GJrPo1), [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU) | [SOMOS](https://open.spotify.com/album/1gwwCCq6sdN2OX8H7dAuKg) | 7:37 |
 
 Snapshot ID: `Z8zaAAAAAABkXaPAOENtfIPLB/aqm3JR`

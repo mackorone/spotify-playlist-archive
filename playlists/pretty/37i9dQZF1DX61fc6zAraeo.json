@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 101262,
+  "num_followers": 101308,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2025-03-06 22:25:12",
       "album": {
-        "name": "Feel The Passion",
-        "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Feel The Passion",
-      "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
-    },
-    {
-      "added_at": "2025-03-06 22:25:12",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "added_at": "2025-03-06 22:25:12",
+      "album": {
+        "name": "Feel The Passion",
+        "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Feel The Passion",
+      "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
     },
     {
       "added_at": "2025-03-06 22:25:12",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-03-06 22:25:12",
       "album": {
-        "name": "Needing You",
-        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 216190,
-      "name": "Needing You",
-      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
-    },
-    {
-      "added_at": "2025-03-06 22:25:12",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 135000,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
+    },
+    {
+      "added_at": "2025-03-06 22:25:12",
+      "album": {
+        "name": "Needing You",
+        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Needing You",
+      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
     },
     {
       "added_at": "2025-03-06 22:25:12",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-03-06 22:25:12",
       "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
+    },
+    {
+      "added_at": "2025-03-06 22:25:12",
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 147253,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
-    },
-    {
-      "added_at": "2025-03-06 22:25:12",
-      "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2025-03-06 22:25:12",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-03-06 22:25:12",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 154831,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
-    },
-    {
-      "added_at": "2025-03-06 22:25:12",
-      "album": {
         "name": "Nothing Left To Say",
         "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 173538,
       "name": "Nothing Left To Say",
       "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
+    },
+    {
+      "added_at": "2025-03-06 22:25:12",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
     },
     {
       "added_at": "2025-03-06 22:25:12",

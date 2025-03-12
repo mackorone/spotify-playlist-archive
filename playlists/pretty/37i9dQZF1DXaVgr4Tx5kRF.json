@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 657429,
+  "num_followers": 657460,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,30 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        },
+        {
+          "name": "George Drakoulias",
+          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
+        },
+        {
+          "name": "David Bianco",
+          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Life Of Riley - The Lightning Seeds Collection",
         "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 322946,
       "name": "Rock \u2018n\u2019 Roll Star - Remastered",
       "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        },
-        {
-          "name": "George Drakoulias",
-          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
-        },
-        {
-          "name": "David Bianco",
-          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Tellin' Stories",
-        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "One To Another",
-      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "His 'N' Hers",
         "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Best of Babybird",
-        "url": "https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3"
+        "name": "Tellin' Stories",
+        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
       },
       "artists": [
         {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
         }
       ],
-      "duration_ms": 223173,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU"
+      "duration_ms": 269840,
+      "name": "One To Another",
+      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
     }
   ],
   "unique_name": "Britpop, Etc.",

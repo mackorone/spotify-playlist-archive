@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Nicole",
-  "num_followers": 21800,
+  "num_followers": 21801,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Too Pretty For Buffalo",
+        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 236525,
+      "name": "Too Pretty For Buffalo",
+      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "if jesus saw what we did last night",
         "url": "https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Too Pretty For Buffalo",
-        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
+        "name": "Kiss Kiss Goodbye",
+        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "ADONXS",
+          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
         }
       ],
-      "duration_ms": 236525,
-      "name": "Too Pretty For Buffalo",
-      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+      "duration_ms": 176668,
+      "name": "Kiss Kiss Goodbye",
+      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -515,18 +531,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Kiss Kiss Goodbye",
-        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
+        "name": "RACER",
+        "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
       },
       "artists": [
         {
-          "name": "ADONXS",
-          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 176668,
-      "name": "Kiss Kiss Goodbye",
-      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
+      "duration_ms": 160724,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -559,22 +575,6 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "RACER",
-        "url": "https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "RACER",
-      "url": "https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Za p\u00f3\u017ano",
-        "url": "https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T"
-      },
-      "artists": [
-        {
-          "name": "Ola K\u0119dra",
-          "url": "https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Za p\u00f3\u017ano",
-      "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Psy",
         "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Za p\u00f3\u017ano",
+        "url": "https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T"
+      },
+      "artists": [
+        {
+          "name": "Ola K\u0119dra",
+          "url": "https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Za p\u00f3\u017ano",
+      "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Zawsze",
         "url": "https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr"
       },
@@ -879,6 +879,58 @@
       "duration_ms": 149032,
       "name": "Zawsze",
       "url": "https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Kurz",
+        "url": "https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 155248,
+      "name": "Kurz",
+      "url": "https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "treehouse lullaby",
+        "url": "https://open.spotify.com/album/1sQER5gRKMvKlnc7EwstR2"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 134442,
+      "name": "treehouse lullaby",
+      "url": "https://open.spotify.com/track/4dBVQEf7ahOA11FJu357ac"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "bilet beze mnie",
+        "url": "https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        },
+        {
+          "name": "dybi\u0144ski",
+          "url": "https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "bilet beze mnie",
+      "url": "https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -915,38 +967,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "treehouse lullaby",
-        "url": "https://open.spotify.com/album/1sQER5gRKMvKlnc7EwstR2"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 134442,
-      "name": "treehouse lullaby",
-      "url": "https://open.spotify.com/track/4dBVQEf7ahOA11FJu357ac"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Kurz",
-        "url": "https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 155248,
-      "name": "Kurz",
-      "url": "https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Nie bola\u0142o",
         "url": "https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL"
       },
@@ -963,42 +983,6 @@
       "duration_ms": 168157,
       "name": "Nie bola\u0142o",
       "url": "https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "bilet beze mnie",
-        "url": "https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        },
-        {
-          "name": "dybi\u0144ski",
-          "url": "https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "bilet beze mnie",
-      "url": "https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Miracle (Eurovision Version)",
-        "url": "https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 170630,
-      "name": "Miracle - Eurovision Version",
-      "url": "https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Miracle (Eurovision Version)",
+        "url": "https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 170630,
+      "name": "Miracle - Eurovision Version",
+      "url": "https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Wszystko si\u0119 u\u0142o\u017cy",
         "url": "https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5"
       },
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Beksa",
+        "url": "https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd"
+      },
+      "artists": [
+        {
+          "name": "Matt Wysota",
+          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Beksa",
+      "url": "https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Stokrotka",
         "url": "https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm"
       },
@@ -1055,6 +1071,22 @@
       "duration_ms": 115326,
       "name": "Stokrotka",
       "url": "https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "mleko i mood",
+      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1075,38 +1107,6 @@
       "duration_ms": 188048,
       "name": "Para",
       "url": "https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Beksa",
-        "url": "https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd"
-      },
-      "artists": [
-        {
-          "name": "Matt Wysota",
-          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Beksa",
-      "url": "https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Pierwsza P\u0142yta",
-        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 202069,
-      "name": "mleko i mood",
-      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     }
   ],
   "unique_name": "up next",

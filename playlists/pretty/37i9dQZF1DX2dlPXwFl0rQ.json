@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Camila Fern\u00e1ndez en portada.",
-  "num_followers": 117180,
+  "num_followers": 117219,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
+        "name": "Las Ferragamo",
+        "url": "https://open.spotify.com/album/7cej4aBlC3miNI8B6xHvnK"
+      },
+      "artists": [
+        {
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Las Ferragamo",
+      "url": "https://open.spotify.com/track/2MDHHS0pQ1HN8m6o56VTwa"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
         "name": "Tu Orgullo",
         "url": "https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV"
       },
@@ -823,6 +839,22 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -843,22 +875,6 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 171785,
       "name": "Pedazo De Carne",
       "url": "https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": "2025-03-07 06:00:29",
@@ -907,18 +907,34 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
-        "name": "Las Ferragamo",
-        "url": "https://open.spotify.com/album/7cej4aBlC3miNI8B6xHvnK"
+        "name": "PLH (Pa' los Haters)",
+        "url": "https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA"
       },
       "artists": [
         {
-          "name": "Karly B",
-          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 156086,
-      "name": "Las Ferragamo",
-      "url": "https://open.spotify.com/track/2MDHHS0pQ1HN8m6o56VTwa"
+      "duration_ms": 163989,
+      "name": "PLH (Pa' los Haters)",
+      "url": "https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": "2025-03-07 06:00:29",
@@ -935,22 +951,6 @@
       "duration_ms": 173546,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
-        "name": "PLH (Pa' los Haters)",
-        "url": "https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "PLH (Pa' los Haters)",
-      "url": "https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG"
     },
     {
       "added_at": "2025-03-07 06:00:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
         "name": "Pa\u2019Delante",
         "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
       },
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
       },
@@ -1087,6 +1055,22 @@
       "duration_ms": 166121,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": "2025-03-07 06:00:29",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
         "name": "Nube de Paso",
         "url": "https://open.spotify.com/album/7xT119M1qgkNUP8UDSjya4"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 178333,
       "name": "Ayer Ped\u00ed",
       "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
-        "name": "No Me Deja De Doler",
-        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "No Me Deja De Doler",
-      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
       "added_at": "2025-03-07 06:00:29",
@@ -1219,6 +1199,26 @@
       "duration_ms": 197525,
       "name": "Deja Que Salga la Luna - En Vivo",
       "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
       "added_at": "2025-03-07 06:00:29",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-03-07 06:00:29",
       "album": {
-        "name": "Donde Todo Comenzo",
-        "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 201034,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/5XR8Sg8xX269DA3yhmPXqB"
-    },
-    {
-      "added_at": "2025-03-07 06:00:29",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2025-03-07 06:00:29",
+      "album": {
+        "name": "Donde Todo Comenzo",
+        "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 201034,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/5XR8Sg8xX269DA3yhmPXqB"
     },
     {
       "added_at": "2025-03-07 06:00:29",

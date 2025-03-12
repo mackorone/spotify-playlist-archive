@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Goldie Boutilier",
-  "num_followers": 66527,
+  "num_followers": 66546,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-03-07 05:00:30",
       "album": {
+        "name": "Lonely Mountain Town",
+        "url": "https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 230590,
+      "name": "Lonely Mountain Town",
+      "url": "https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA"
+    },
+    {
+      "added_at": "2025-03-07 05:00:30",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2025-03-07 05:00:30",
-      "album": {
-        "name": "Lonely Mountain Town",
-        "url": "https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 230590,
-      "name": "Lonely Mountain Town",
-      "url": "https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA"
     },
     {
       "added_at": "2025-03-07 05:00:30",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-03-07 05:00:30",
       "album": {
-        "name": "Arkansas Diamond",
-        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Arkansas Diamond",
-      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
-    },
-    {
-      "added_at": "2025-03-07 05:00:30",
-      "album": {
         "name": "Much Ado About Nothing",
         "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 229795,
       "name": "Much Ado About Nothing",
       "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
+    },
+    {
+      "added_at": "2025-03-07 05:00:30",
+      "album": {
+        "name": "Arkansas Diamond",
+        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Arkansas Diamond",
+      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
     },
     {
       "added_at": "2025-03-07 05:00:30",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-03-07 05:00:30",
       "album": {
-        "name": "Hey There, Dolly",
-        "url": "https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "Hey There, Dolly",
-      "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
-    },
-    {
-      "added_at": "2025-03-07 05:00:30",
-      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 374834,
       "name": "This Ain't It",
       "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+    },
+    {
+      "added_at": "2025-03-07 05:00:30",
+      "album": {
+        "name": "Hey There, Dolly",
+        "url": "https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Hey There, Dolly",
+      "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
     },
     {
       "added_at": "2025-03-07 05:00:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-03-07 05:00:30",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 221429,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
-    },
-    {
-      "added_at": "2025-03-07 05:00:30",
-      "album": {
         "name": "As It Ever Was, So It Will Be Again",
         "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 229133,
       "name": "Long White Veil",
       "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
+    },
+    {
+      "added_at": "2025-03-07 05:00:30",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 221429,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
     },
     {
       "added_at": "2025-03-07 05:00:30",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2025-03-07 05:00:30",
       "album": {
-        "name": "Come Morning",
-        "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
+        "name": "Say When",
+        "url": "https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6"
       },
       "artists": [
         {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        },
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "The Sarandons",
+          "url": "https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM"
         }
       ],
-      "duration_ms": 253588,
-      "name": "Don't Feel Like Crying",
-      "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+      "duration_ms": 253754,
+      "name": "Say When",
+      "url": "https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr"
     }
   ],
   "unique_name": "Renegades",

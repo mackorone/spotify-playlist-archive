@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 146 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 146 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 87 | [Being Angry](https://open.spotify.com/track/18ViOFeyTJqmQ9wahAvPLv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 2:49 |
 | 88 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 |
 | 89 | [Cool](https://open.spotify.com/track/6GG1su1AVOh39Na8QPqI2B) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 2:57 |
-| 90 | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/track/3aHLWrR5KpluBeRn9vKCHY) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/album/4bFKoubGC6thZpjFgqMeCA) | 4:13 |
-| 91 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
+| 90 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
+| 91 | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/track/3aHLWrR5KpluBeRn9vKCHY) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/album/4bFKoubGC6thZpjFgqMeCA) | 4:13 |
 | 92 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
 | 93 | [Hollow](https://open.spotify.com/track/1wzkXmEypIDfp1tMJfrsII) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:17 |
 | 94 | [Hurricane \(feat\. Clara Mae\)](https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Hurricane \(feat\. Clara Mae\)](https://open.spotify.com/album/5lYcf3BCOpocetzJCGWQF4) | 2:29 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 129 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
 | 130 | [Trouble](https://open.spotify.com/track/7zPBtvZpPAOy9fgfdgmyiC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [We Were Thunder](https://open.spotify.com/album/6jYRzhiEnzVANGGHHJZ1C3) | 3:21 |
 | 131 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 |
-| 132 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 |
-| 133 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
+| 132 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
+| 133 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 |
 | 134 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 |
 | 135 | [Tightrope](https://open.spotify.com/track/3PpqMt1if7lsZQTut0ZTs2) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:26 |
 | 136 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 145 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 146 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbrtfgAAAACEO9fVffaCEERLpIc+4OL1`
+Snapshot ID: `AbrzHgAAAABv8aSl9QDyv+YQXylhE4nI`

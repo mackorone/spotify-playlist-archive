@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 2024 年金音 15 全名單出爐！和 Spotify 一起全力支持優秀獨立歌手與作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,484 likes - 94 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,481 likes - 94 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 30 | [Adddicted](https://open.spotify.com/track/1LTkb1WhEsvgxYi90qwtdK) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Boomerang](https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR) | 3:05 |
 | 31 | [Beach Song](https://open.spotify.com/track/0eRDXTQzSfmM862U1zMBHy) | [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx) | [Love Hereafter](https://open.spotify.com/album/3URT0tzQwZjvWnNNlABHAu) | 3:37 |
 | 32 | [WET/DRY](https://open.spotify.com/track/6KsgfPUEGHszduAVApHFYl) | [問題總部 It's Your Fault](https://open.spotify.com/artist/74aw0Er4aZTPzPcpnFwlBF) | [我在這裡 \(Live Session\)](https://open.spotify.com/album/5hjow8uEMTGWb4CNqXsLUj) | 4:03 |
-| 33 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
+| 33 | [SEX TAPE \(feat\. 落日飛車Sunset Rollercoaster\)](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE \(feat\. 落日飞车 Sunset Rollercoaster\)](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 | 34 | [野獸派](https://open.spotify.com/track/1N7E8DJ7wdhDirhD3SsjXB) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:44 |
 | 35 | [Little More Time](https://open.spotify.com/track/6VgYAnaztuCVec9yd7Vqlr) | [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx) | [Love Hereafter](https://open.spotify.com/album/3URT0tzQwZjvWnNNlABHAu) | 3:12 |
 | 36 | [Last Summer （月亮惹的禍）](https://open.spotify.com/track/6O1Cy9kee544hVq1xalQdL) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [I'mdifficult](https://open.spotify.com/album/6eMD8zY0EQiNsS2qExm4nE) | 4:20 |

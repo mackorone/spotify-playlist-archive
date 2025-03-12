@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Kushagra
 
-257 songs - 14 hr 11 min
+258 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Kaisi Kahani Zindagi](https://open.spotify.com/track/1uRVChDH2w3hgqWfvDTolD) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anup Satam](https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf) | [Kaisi Kahani Zindagi](https://open.spotify.com/album/3EpcI39hsBco6PIgkM6xLL) | 4:05 | 2023-05-08 | 2023-06-02 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2023-05-02 |  |
 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 | 2025-02-19 |  |
+| [Kehne Lagaa](https://open.spotify.com/track/1TtX2QDYyCkJ0567Fanbas) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa](https://open.spotify.com/album/1hz2oWXnoAibhKR4DSJWyi) | 4:23 | 2025-03-11 |  |
 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-06-13 | 2023-09-28 |
 | [Khaali Khaali](https://open.spotify.com/track/3zwsBUs35djOOrXrOsgVoS) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Khaali Khaali](https://open.spotify.com/album/32RNCaT9ixK8yoFvTT7Mgb) | 2:57 | 2024-06-11 | 2024-09-03 |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2023-05-02 | 2023-11-07 |
@@ -172,7 +173,7 @@
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 | 2023-07-02 |
 | [Nayee Nazar](https://open.spotify.com/track/7LdsTDp3eAzgc91qBULH2V) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nayee Nazar](https://open.spotify.com/album/0jvFIM8gENIZg3Rlj4ewVg) | 3:58 | 2024-02-05 | 2024-03-27 |
 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 | 2025-02-19 |  |
-| [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 | 2024-06-18 |  |
+| [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 | 2024-06-18 | 2025-03-12 |
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-05-02 |  |
 | [O Re Saavan](https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [O Re Saavan](https://open.spotify.com/album/6PjAaPH6Fg68TjnSvCHK9I) | 2:38 | 2024-06-18 |  |
 | [Paaro](https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Paaro](https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD) | 2:33 | 2024-03-27 |  |

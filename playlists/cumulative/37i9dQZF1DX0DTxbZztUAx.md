@@ -4,7 +4,7 @@
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-78 songs - 3 hr 52 min
+79 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:02 | 2023-06-23 | 2024-10-25 |
 | [Let That Money Talk](https://open.spotify.com/track/4Rr5kLG92HxdBtBJXq8Q81) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Let That Money Talk](https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF) | 2:11 | 2024-10-24 |  |
 | [Lie To Me](https://open.spotify.com/track/6oygSHfl61zwl7FFPsof4P) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Big Dawg](https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY) | 1:58 | 2024-10-24 |  |
+| [LIGHTS OUT](https://open.spotify.com/track/0KcvEKZsZTGHVzUmaGaHvw) | [RKSTR](https://open.spotify.com/artist/1ABFXTXGpwfuCnghJoTktq), [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq) | [LIGHTS OUT](https://open.spotify.com/album/6GXXBvb2XqnmpzZfzTlrAw) | 3:04 | 2025-03-11 |  |
 | [Lights Out](https://open.spotify.com/track/1i2NoxJfcchwuG7puoI28p) | [Stuff Caesar](https://open.spotify.com/artist/0tKNP1JHIah79KYsojSNAu), [AP Robby](https://open.spotify.com/artist/0uUfHFScsEPWEd5mIpoI2Q), [L Gizzle](https://open.spotify.com/artist/3WRJ1M9BirMw3ALepWxING) | [The Feature Presentation](https://open.spotify.com/album/5TpDgUdlpp9H6xYsDDhW3K) | 3:58 | 2025-03-06 | 2025-03-09 |
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2023-06-23 | 2024-10-25 |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 | 2023-06-23 | 2024-10-25 |

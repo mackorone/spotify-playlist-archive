@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,064 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,080 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 48 | [Se Terminó](https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Terminó](https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9) | 3:33 |
 | 49 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 | 50 | [Ladrón](https://open.spotify.com/track/275p97u74jV8pl7yODx3z0) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ladrón](https://open.spotify.com/album/5bSdirth1rYHmxVQ1CTEbr) | 3:33 |
-| 51 | [Quisiera](https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Quisiera](https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc) | 3:08 |
 
 Snapshot ID: `Z8zaAAAAAAD7VThuBinSqnZt13qE19Ri`

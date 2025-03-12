@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd & Omar Apollo
 
-2,062 songs - 4 day 13 hr 9 min
+2,063 songs - 4 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1085,7 +1085,7 @@
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
 | [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-07-01 |
-| [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 |  |
+| [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 | 2025-03-12 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-06-02 | 2022-06-15 |
 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 | 2022-06-17 | 2022-06-21 |
 | [Lights On](https://open.spotify.com/track/4pbKp6lF5XuBMSKVpSySmc) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lights On](https://open.spotify.com/album/6AdKzEgpmht7QUDbRfsWUt) | 3:56 | 2022-04-15 | 2022-04-20 |
@@ -1845,6 +1845,7 @@
 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 | 2022-12-07 | 2023-07-29 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-02-24 | 2023-03-04 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 | 2023-07-08 |
+| [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-21 |  |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-22 | 2021-05-30 |
 | [The Things We Do](https://open.spotify.com/track/4nYb6EZpeRI3ZM1O0UquQ5) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [The Things We Do](https://open.spotify.com/album/6nhQR2WHOS9DWYgcbVSYYy) | 4:12 | 2021-02-22 | 2021-05-24 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-06-02 | 2022-06-15 |

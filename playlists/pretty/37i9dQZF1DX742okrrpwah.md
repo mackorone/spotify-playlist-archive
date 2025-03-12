@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Lady Gaga au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,495 likes - 86 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,504 likes - 86 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

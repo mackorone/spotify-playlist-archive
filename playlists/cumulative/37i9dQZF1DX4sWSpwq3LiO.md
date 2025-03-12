@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,779 songs - 3 day 7 hr 0 min
+1,781 songs - 3 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Björninnan](https://open.spotify.com/track/23cJ3BYjWbxVHkNqkbOIbJ) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Björninnan](https://open.spotify.com/album/158VcWwMcBEJWWfoIMxBc2) | 2:26 | 2020-04-21 | 2021-03-17 |
 | [Blåregn](https://open.spotify.com/track/3a2fZ1oqZMDnjFI5ANACiz) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blåregn](https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT) | 2:40 | 2021-08-19 | 2022-05-21 |
 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 | 2019-07-05 | 2021-03-06 |
+| [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 | 2025-03-11 |  |
 | [Blue River](https://open.spotify.com/track/789zWw6YwOpoDXoyRXaG1R) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 3:21 | 2020-10-13 | 2021-04-28 |
 | [Blue Water Floats](https://open.spotify.com/track/1valVbc0kxrTxrT4nf3x9t) | [Placid Warren](https://open.spotify.com/artist/1R1NeLGKtMkDEt6lVqEtyl) | [Blue Water Floats](https://open.spotify.com/album/5pp6y9zMzwkqjKyiECnfxx) | 2:39 | 2021-08-05 | 2022-05-21 |
 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 | 2021-03-09 | 2022-05-13 |
@@ -907,6 +908,7 @@
 | [Mavro](https://open.spotify.com/track/2Z66nkKa3VNgWEth3shaNe) | [Niamh Shona](https://open.spotify.com/artist/2ILFSwtF4RJgfzeKMbOJft) | [Mavro](https://open.spotify.com/album/3Bu1O4zHQHbtJlTovo2xQq) | 2:53 | 2024-04-30 |  |
 | [Me Time](https://open.spotify.com/track/15ErabbOFwo4gEknWytsAG) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [Me Time](https://open.spotify.com/album/5XOxeo91vjLNW9Oh91A49o) | 1:56 | 2023-03-13 | 2023-11-21 |
 | [Meadow Mornings](https://open.spotify.com/track/5QcpXwGONi7bKyphLwySs5) | [Samuel Lindon](https://open.spotify.com/artist/5nJRL0Qfseg7ZJGbT2eVrA) | [Meadow Mornings](https://open.spotify.com/album/0hxGGQWr0hLognc8tlFPLx) | 2:18 | 2019-05-26\* | 2020-09-01 |
+| [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 | 2025-03-11 |  |
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2022-05-04 | 2024-03-19 |
 | [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2021-09-16 | 2022-07-16 |
 | [Meet me](https://open.spotify.com/track/3FNgcDIMzaP3YgCrmnAexL) | [Denise Billingsley](https://open.spotify.com/artist/0kkfAV2eyZaQd3CECgELlj) | [Meet me](https://open.spotify.com/album/6unmPCnZG4FYDpsTQ9Q7tC) | 2:16 | 2019-11-05 | 2020-08-20 |

@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Dam Swindle
 
-280 songs - 17 hr 45 min
+281 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [cyanotype memories \- edit \- joe goddard remix](https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/5AUpxQhx2aZmUdHc3DQKx8) | 3:11 | 2024-04-12 | 2025-02-14 |
 | [cyanotype memories \- joe goddard remix \(edit\)](https://open.spotify.com/track/5OjiA2QAxv0YX9qFaveApH) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/2TuCPQYYEYjB6EmRJREXbJ) | 3:11 | 2024-04-12 | 2024-04-19 |
 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 | 2021-10-28 | 2024-02-02 |
+| [Dance and Fall in Love](https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Dance and Fall in Love](https://open.spotify.com/album/0Sylj4SfR5QryUtD3oj641) | 2:31 | 2025-03-07 |  |
 | [dark days](https://open.spotify.com/track/5D1uzv1oRRfkzeilJAwSbO) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [dark days](https://open.spotify.com/album/4QKdPcQKtrwW8Zhw5LrFps) | 3:32 | 2024-03-22 | 2024-04-19 |
 | [dark days](https://open.spotify.com/track/6tbsEeUjRCGhYllV6cEBGA) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [dark days](https://open.spotify.com/album/7aeoIg6BedCyjOQPP0Xatb) | 3:32 | 2024-04-12 | 2025-01-31 |
 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 | 2021-10-28 | 2024-07-27 |
@@ -121,7 +122,7 @@
 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-05-10 |  |
 | [Hop On By](https://open.spotify.com/track/2U79LYoBkxfWzyNSJ7xms5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [Hop On By](https://open.spotify.com/album/4xkAdVdypAdO5OOOEsS12v) | 2:54 | 2024-10-03 | 2025-02-14 |
 | [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-03-22 | 2025-02-14 |
-| [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 | 2024-04-12 |  |
+| [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 | 2024-04-12 | 2025-03-12 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-05-10 |  |
 | [Human After All](https://open.spotify.com/track/2yXsuqQsG9qw4AO62YeQUO) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Human After All](https://open.spotify.com/album/6WHtBrDEMKYHAkPWKTT0b0) | 5:16 | 2024-11-08 | 2025-02-14 |
 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 | 2024-03-01 | 2024-09-20 |

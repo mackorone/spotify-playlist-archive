@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92937,
+  "num_followers": 92938,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
-        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 178118,
-      "name": "P\u00e5 M\u00e5ndag",
-      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/4DjlkBoRfh4KmiGsUrmOwz"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 180010,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
+        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
+        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 178118,
+      "name": "P\u00e5 M\u00e5ndag",
+      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
         "name": "Roll With The Punches",
         "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 117000,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
         "name": "Home (Truckstops and Airports)",
         "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 222864,
       "name": "Home (Truckstops and Airports)",
       "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "Som att jag bryr mig",
-        "url": "https://open.spotify.com/album/14C1eFILphO24CKmlKNJcE"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 182305,
-      "name": "Som att jag bryr mig",
-      "url": "https://open.spotify.com/track/18qdws9fuz3z2DYWJVYDaF"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
+        "name": "Som att jag bryr mig",
+        "url": "https://open.spotify.com/album/14C1eFILphO24CKmlKNJcE"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 182305,
+      "name": "Som att jag bryr mig",
+      "url": "https://open.spotify.com/track/18qdws9fuz3z2DYWJVYDaF"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
         "name": "Alla Tittar P\u00e5 Mig",
         "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 204287,
       "name": "Fyllda Av Sommar",
       "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
       },
@@ -1155,18 +1171,22 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+        "name": "S\u00e4llskapssjuk",
+        "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
         }
       ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+      "duration_ms": 214783,
+      "name": "S\u00e4llskapssjuk",
+      "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -1203,26 +1223,6 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
-        "name": "S\u00e4llskapssjuk",
-        "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 214783,
-      "name": "S\u00e4llskapssjuk",
-      "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "R\u00e4dd f\u00f6r hundar",
-        "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 251362,
-      "name": "R\u00e4dd f\u00f6r hundar",
-      "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 346133,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
+        "name": "R\u00e4dd f\u00f6r hundar",
+        "url": "https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 251362,
+      "name": "R\u00e4dd f\u00f6r hundar",
+      "url": "https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn"
     },
     {
       "added_at": "2025-03-10 08:16:52",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
+        "name": "Upp med hakan",
+        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Upp med hakan",
+      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
       },
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2025-03-10 08:16:52",
       "album": {
-        "name": "Upp med hakan",
-        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Upp med hakan",
-      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
-    },
-    {
-      "added_at": "2025-03-10 08:16:52",
-      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-03-10 08:16:52",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
     }
   ],
   "unique_name": "Aktuellt",

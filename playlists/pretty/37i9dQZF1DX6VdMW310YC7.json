@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3927452,
+  "num_followers": 3927379,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
-      },
-      "artists": [
-        {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
         "name": "Out of Ten (Shingo Nakamura & Before Saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 153875,
       "name": "Out of Ten - Shingo Nakamura & Before Saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "fever",
-        "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
-      },
-      "artists": [
-        {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
-        },
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "fever",
-      "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
+        "name": "fever",
+        "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "fever",
+      "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "Our World",
-        "url": "https://open.spotify.com/album/3vVKZcaF3qb82yN3cGWpZ5"
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/7jSorPOKtgRzqenk5JBdSd"
       },
       "artists": [
         {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+          "name": "Miravo",
+          "url": "https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9"
         },
         {
-          "name": "Elmar",
-          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
         }
       ],
-      "duration_ms": 220228,
-      "name": "Our World",
-      "url": "https://open.spotify.com/track/5PbNYwspE2n9nRj3BPO0pk"
+      "duration_ms": 184634,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1483,6 +1483,26 @@
       "duration_ms": 229710,
       "name": "every-little-part",
       "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
+        "name": "Our World",
+        "url": "https://open.spotify.com/album/3vVKZcaF3qb82yN3cGWpZ5"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        },
+        {
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
+        }
+      ],
+      "duration_ms": 220228,
+      "name": "Our World",
+      "url": "https://open.spotify.com/track/5PbNYwspE2n9nRj3BPO0pk"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1539,26 +1559,6 @@
       "duration_ms": 292156,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/7jSorPOKtgRzqenk5JBdSd"
-      },
-      "artists": [
-        {
-          "name": "Miravo",
-          "url": "https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9"
-        },
-        {
-          "name": "CLOVER",
-          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "Hold You EP",
-        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
+        "name": "Hold You EP",
+        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
     },
     {
       "added_at": "2025-03-07 05:00:29",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
+        "name": "25, winter",
+        "url": "https://open.spotify.com/album/2cGIts4yJiZqTcdGfs8h7I"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/0eepFS1Cw5qW75o4vetdgK"
+    },
+    {
+      "added_at": "2025-03-07 05:00:29",
+      "album": {
         "name": "Highest Love",
         "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
@@ -1824,7 +1840,7 @@
       },
       "artists": [
         {
-          "name": "Yotto",
+          "name": "YOTTO",
           "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         },
         {
@@ -1859,22 +1875,6 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "Dark In This Room",
-        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Dark In This Room",
-      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
-    },
-    {
-      "added_at": "2025-03-07 05:00:29",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
@@ -1895,22 +1895,18 @@
     {
       "added_at": "2025-03-07 05:00:29",
       "album": {
-        "name": "See You In Dreams",
-        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 271519,
-      "name": "See You In Dreams",
-      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     }
   ],
   "unique_name": "Chill Tracks",

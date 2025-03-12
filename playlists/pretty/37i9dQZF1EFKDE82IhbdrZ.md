@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312 likes - 337 songs - 18 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314 likes - 337 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,8 +226,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 216 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
 | 217 | [Let Me Hold You](https://open.spotify.com/track/0DGalsMrcDPSOjqwdz1Ok4) | [Josh Krajcik](https://open.spotify.com/artist/0ngASMM5dPGOByz9QmIY7C) | [Blindly, Lonely, Lovely](https://open.spotify.com/album/2UXIsJ9P2p6fhM5ie80XxX) | 4:05 |
 | 218 | [Touch](https://open.spotify.com/track/2oRua7SgA8ZJy9h4ViBAl5) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:46 |
-| 219 | [Here We Go](https://open.spotify.com/track/0wzlsBqUWJ7ltS5uXsXdwh) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
-| 220 | [If You Ever Change Your Mind](https://open.spotify.com/track/1suQB6ek8MYMtBNFpAdmp7) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:01 |
+| 219 | [If You Ever Change Your Mind](https://open.spotify.com/track/1suQB6ek8MYMtBNFpAdmp7) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:01 |
+| 220 | [Here We Go](https://open.spotify.com/track/0wzlsBqUWJ7ltS5uXsXdwh) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 221 | [Off the Market](https://open.spotify.com/track/6zOdNkaCjXPlAWsoUE3VSn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 2:44 |
 | 222 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
 | 223 | [Brave](https://open.spotify.com/track/4rbsNwG7oVRdjsCJsUy25v) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 3:36 |
@@ -255,8 +255,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 245 | [I'm F\*\*\*ed Up \- Main Version \- explicit](https://open.spotify.com/track/1uUs2Z0S6AI6CLImiDCRSH) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [I'm F\*\*\*ed Up \(Main Version \- explicit\)](https://open.spotify.com/album/5xnWvkUkDjKC3Y6dnL2Aq9) | 3:27 |
 | 246 | [Put Some Music On](https://open.spotify.com/track/4hOdYMuz63sbWjiV0CucOi) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Twenty](https://open.spotify.com/album/03DEKGkvYKs8PQhhCLkuAa) | 4:14 |
 | 247 | [The Sleeper](https://open.spotify.com/track/3n9mhUXCLffbJoIcZ4kRQS) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 3:51 |
-| 248 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
-| 249 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |
+| 248 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |
+| 249 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
 | 250 | [Good News](https://open.spotify.com/track/5cljhBkI14yAF0uSh4999U) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Days & Nights](https://open.spotify.com/album/3cwP8FL7HkJJvDBP78heeW) | 4:01 |
 | 251 | [Lost Myslf](https://open.spotify.com/track/1Q8mNKvVCpfsm8WGKMeKQ9) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:21 |
 | 252 | [superpowers](https://open.spotify.com/track/5p1T0HF9ubXm5H1umSQBmR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:25 |
@@ -299,8 +299,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 289 | [The Remedy](https://open.spotify.com/track/6fR2BS9HEFttB7IcfFZGsR) | [Josh Krajcik](https://open.spotify.com/artist/0ngASMM5dPGOByz9QmIY7C) | [Blindly, Lonely, Lovely](https://open.spotify.com/album/4J6I8xDlzow0SHtIIgzAAl) | 4:26 |
 | 290 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
 | 291 | [Those Days](https://open.spotify.com/track/2MFZ0TXAD6FfLNYnpwdM1E) | [Taylor Berrett](https://open.spotify.com/artist/1tCanPo942hgj1AMNaGU88) | [Great Falls](https://open.spotify.com/album/3BBBzg7Gp3PuAw1uXYza9m) | 3:38 |
-| 292 | [Girls Like To Dance](https://open.spotify.com/track/0yz6Foxl87rSSCybnVf48g) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:46 |
-| 293 | [Shangaladang](https://open.spotify.com/track/2wqoHZ3ku9ws6v60I8D2ff) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
+| 292 | [Shangaladang](https://open.spotify.com/track/2wqoHZ3ku9ws6v60I8D2ff) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
+| 293 | [Girls Like To Dance](https://open.spotify.com/track/0yz6Foxl87rSSCybnVf48g) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:46 |
 | 294 | [Tan Lines](https://open.spotify.com/track/0XhkW5AqdQorrlCa0gzxh4) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Tan Lines](https://open.spotify.com/album/2I35HauAFmXAXNjcCAwY4A) | 3:25 |
 | 295 | [GETTING GOOD](https://open.spotify.com/track/7u9qDUSnIWLw1LGXqZTOas) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm) | [GETTING GOOD](https://open.spotify.com/album/3zG9QIML4blpU1el4tRu7x) | 3:51 |
 | 296 | [Cooter Huntin'](https://open.spotify.com/track/18hqKr0aVnYl96uizjyzLc) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:46 |
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 336 | [Walk with Me](https://open.spotify.com/track/4hJwxO5eaINWALI4GLywXp) | [N.I.T.Z.](https://open.spotify.com/artist/5ij9fGCGIkU1LLKgdJH3Qb) | [Pit Stop](https://open.spotify.com/album/7cIDzeXmvSlr7ftCLb5JuM) | 2:47 |
 | 337 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbrtfgAAAAA/GehKvkhk/RhHJ/Yd/kcH`
+Snapshot ID: `AbrzFAAAAACWbLbnXhL3kIwSqB1iJqyx`

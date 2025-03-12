@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 516576,
+  "num_followers": 516651,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Champagne Jam",
         "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 273226,
       "name": "Champagne Jam",
       "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Feats Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -827,6 +827,38 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Feats Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Open All Night",
+        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Satellites",
+          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Don't Pass Me By",
+      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Quinella",
         "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
@@ -855,38 +887,6 @@
       "duration_ms": 318800,
       "name": "Uneasy Rider",
       "url": "https://open.spotify.com/track/4jIfTHzqYWspDy9wlgvTjp"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Open All Night",
-        "url": "https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Satellites",
-          "url": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "Don't Pass Me By",
-      "url": "https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
+        "name": "The Johnny Van Zant Collection",
+        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
       },
       "artists": [
         {
-          "name": "Jimmie Van Zant Band",
-          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
+          "name": "Johnny Van Zant Band",
+          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
         }
       ],
-      "duration_ms": 323268,
-      "name": "Southern Comfort",
-      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
+      "duration_ms": 245600,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "The Johnny Van Zant Collection",
-        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
       },
       "artists": [
         {
-          "name": "Johnny Van Zant Band",
-          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
+          "name": "Jimmie Van Zant Band",
+          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
+      "duration_ms": 323268,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
     },
     {
       "added_at": "2024-07-05 17:03:45",

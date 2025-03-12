@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 151940,
       "name": "A Few Reasons",
       "url": "https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 146000,
       "name": "Break Of Day",
       "url": "https://open.spotify.com/track/0tLYax4z9smBlddTSfeguE"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 169810,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 144115,
       "name": "Humming birds",
       "url": "https://open.spotify.com/track/3zKrev7L2WsgMMB3BtwbjV"
@@ -5603,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/08uEmJ2I1N8pgxPgbpZJC4"
+      },
+      "artists": [
+        {
+          "name": "Phil Stent",
+          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138067,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/1PXpZEeDqgKauNuhssSgWs"
+    },
+    {
+      "album": {
         "name": "A Single Rose",
         "url": "https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP"
       },
@@ -5866,7 +5884,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 157986,
       "name": "No Puedo Evitarlo",
       "url": "https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu"
@@ -6882,7 +6900,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 137614,
       "name": "Raconteur",
       "url": "https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI"
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 161214,
       "name": "Red Fir",
       "url": "https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV"
@@ -7944,7 +7962,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 171157,
       "name": "Spring Song",
       "url": "https://open.spotify.com/track/52n5yfjlyiJoFZjTOQKTN6"
@@ -7980,7 +7998,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 162713,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1"
@@ -8758,7 +8776,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 205500,
       "name": "Today Tomorrow Forever",
       "url": "https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu"
@@ -9684,6 +9702,24 @@
       "duration_ms": 209967,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA"
+    },
+    {
+      "album": {
+        "name": "With each step",
+        "url": "https://open.spotify.com/album/4H8jsHibTXJ5ay4sW5t54f"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173802,
+      "name": "With each step",
+      "url": "https://open.spotify.com/track/4HUHwwNlcyQe0s3CbdUMDe"
     },
     {
       "album": {

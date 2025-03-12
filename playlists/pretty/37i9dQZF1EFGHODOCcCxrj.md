@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 7 | [Whatcha Doing](https://open.spotify.com/track/6bAkr9wkQyPM4IDrP4tuwR) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:18 |
 | 8 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |
 | 9 | [Way Back](https://open.spotify.com/track/6aE1kHca8lxdIDMgZwAwfJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 1:59 |
-| 10 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
-| 11 | [Happy For You](https://open.spotify.com/track/05oC2UvKDcx0cY2wg9gzKC) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 4:05 |
+| 10 | [Happy For You](https://open.spotify.com/track/05oC2UvKDcx0cY2wg9gzKC) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 4:05 |
+| 11 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
 | 12 | [French Exit](https://open.spotify.com/track/7nFYnsLIX8EhyFJcPgdIDX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:21 |
 | 13 | [Maria](https://open.spotify.com/track/4tqOaLJdXjWi4OaFSKIT2R) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:07 |
 | 14 | [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 85 | [Yeva's Lullaby](https://open.spotify.com/track/62Rfsh1COhNtFZQWJnGP8o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 6:53 |
 | 86 | [The Circle Unbroken](https://open.spotify.com/track/6RH3wzlXIQNsuZUShs174m) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/4yhtOnN9jQ7tklKsI4PzD9) | 5:17 |
 
-Snapshot ID: `AbrtdAAAAACUNKDNpzYCMAPiBEyEsJ2I`
+Snapshot ID: `AbrzCgAAAAA66rdMZ+9tXn+oWkzqig0S`

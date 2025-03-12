@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125416,
+  "num_followers": 125429,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATxaEHSQUYHSpKPGkKyPtZ6Dt4djgv",
+  "snapshot_id": "AAATx0kbGoHBOGYlv0eAu2BcxczquSBO",
   "tracks": [
+    {
+      "added_at": "2025-03-11 15:32:19",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6HKKBO75lKYdWJPdW76Gmp"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0OprknYuyOUDWdEPY1aSDN"
+    },
     {
       "added_at": "2025-03-10 15:14:14",
       "album": {
@@ -1183,42 +1199,6 @@
       "duration_ms": 168400,
       "name": "Brain Busta",
       "url": "https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK"
-    },
-    {
-      "added_at": "2024-12-03 14:41:12",
-      "album": {
-        "name": "A\u00f1oranza",
-        "url": "https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG"
-      },
-      "artists": [
-        {
-          "name": "Flexible Fire",
-          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
-        },
-        {
-          "name": "Alex Hentze",
-          "url": "https://open.spotify.com/artist/5ItWUx5u41dOWwFl0W41aJ"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "A\u00f1oranza",
-      "url": "https://open.spotify.com/track/202AaEVsc9I8iZnv9Q8Hu0"
-    },
-    {
-      "added_at": "2024-12-02 14:51:25",
-      "album": {
-        "name": "PLAY (VIP)",
-        "url": "https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "PLAY - VIP",
-      "url": "https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

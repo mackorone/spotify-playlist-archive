@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,990 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,970 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 46 | [Soffa från IKEA](https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Soffa från IKEA](https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa) | 2:29 |
 | 47 | [VOI TILL MIN FUCKBOI](https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VOI TILL MIN FUCKBOI](https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT) | 2:22 |
 | 48 | [Älskade ängel](https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp) | [Ooooklart](https://open.spotify.com/artist/2KCvKWnFqczghA5Q60Mrlb) | [Älskade ängel](https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b) | 2:31 |
-| 49 | [Vill du ligga med mig?](https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Vill du ligga med mig?](https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3) | 2:22 |
-| 50 | [Kör Ba' Kör](https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Kör Ba' Kör](https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK) | 2:30 |
+| 49 | [Kör Ba' Kör](https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Kör Ba' Kör](https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK) | 2:30 |
+| 50 | [Vill du ligga med mig?](https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Vill du ligga med mig?](https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3) | 2:22 |
 | 51 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |
 | 52 | [Leva/Dö](https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Leva/Dö](https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X) | 2:32 |
 | 53 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |

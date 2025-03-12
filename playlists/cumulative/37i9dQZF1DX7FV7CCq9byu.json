@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "En flaska till",
+        "url": "https://open.spotify.com/album/2MHICOGVSWA5zDJaqz2YO8"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "En flaska till",
+      "url": "https://open.spotify.com/track/6QuHLahPd6De8TtGtW9D2y"
+    },
+    {
+      "album": {
         "name": "En kv\u00e4ll i tunnelbanan",
         "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
       },

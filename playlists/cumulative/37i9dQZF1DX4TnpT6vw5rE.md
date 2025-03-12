@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-323 songs - 18 hr 32 min
+324 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 | 2020-12-08\* |  |
 | [Aberdeen](https://open.spotify.com/track/2Wy7h9LuSEmhapUh3RWrC2) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Aberdeen](https://open.spotify.com/album/3CLyLs90ir4VUkYlyFDg6B) | 3:16 | 2021-04-15 | 2021-05-27 |
 | [Above The Satellites](https://open.spotify.com/track/5lr8xODLjAI0K00QLhFR4b) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Above The Satellites](https://open.spotify.com/album/6PUWrGctjUcZj8kBr34jka) | 3:38 | 2021-10-21 | 2024-08-15 |
+| [Across the Sky](https://open.spotify.com/track/6v8xPSIQSererU5KSy9YkD) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [Across the Sky](https://open.spotify.com/album/1V2l9t4HxfVoVwQnafOv4L) | 2:34 | 2025-02-26 |  |
 | [After 4AM](https://open.spotify.com/track/7JfqZOTWsA8pNtGrsaPHhU) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA) | [The Branches](https://open.spotify.com/album/0uxx3Q7y6wLjUnvzamYOCR) | 6:42 | 2020-12-08\* | 2021-03-06 |
 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 | 2021-07-24 | 2024-12-12 |
 | [Algific](https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Algific](https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe) | 3:04 | 2024-06-10 |  |
@@ -136,7 +137,7 @@
 | [Ghost Pong](https://open.spotify.com/track/00gWNp9jpTJbT5TsGdHwla) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Ghost Pong](https://open.spotify.com/album/5VZ6W1glrfShr200XiOAUp) | 4:51 | 2020-12-08\* | 2021-03-18 |
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* | 2025-03-04 |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 | 2024-12-21 |
-| [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 |  |
+| [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 | 2025-03-12 |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Grounding](https://open.spotify.com/track/0lR3KWoaXzVNZqSz4tbJ5R) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Grounding](https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6) | 2:48 | 2024-11-14 |  |
 | [Healing Stones](https://open.spotify.com/track/3W2j6BipXBlTPfErJTyJWo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:37 | 2022-04-21 |  |

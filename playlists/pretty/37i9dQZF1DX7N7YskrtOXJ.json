@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 109020,
+  "num_followers": 109033,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Toque",
-        "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Las Seis",
-      "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 244653,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Toque",
+        "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Las Seis",
+      "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "De Amor y Vacil\u00f3n",
-        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Soy Feo Pero Rico",
-      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
         "url": "https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 319787,
       "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
       "url": "https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "De Amor y Vacil\u00f3n",
+        "url": "https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Soy Feo Pero Rico",
+      "url": "https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 192073,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
       },
       "artists": [
         {
@@ -1616,15 +1616,15 @@
           "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
+      "duration_ms": 192073,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
     },
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+        "name": "Onda Nueva",
+        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
       },
       "artists": [
         {
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Acercate MI Amor",
-      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
+      "duration_ms": 270826,
+      "name": "Una Copita M\u00e1s",
+      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
     },
     {
       "added_at": "2025-01-17 12:58:12",

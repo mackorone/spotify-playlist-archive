@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZwI9xDkwMFb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZwI9xDkwMFb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZwI9xDkwMFb)
 
-### [Blue Orchestra 青のオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DWZwI9xDkwMFb)
+### [Blue Orchestra](https://open.spotify.com/playlist/37i9dQZF1DWZwI9xDkwMFb)
 
-> The official playlist for” Blue Orchestra” TVアニメ『<a href="https://aooke\-anime.com/">青のオーケストラ</a>』に登場する名曲を公式プレイリストで。©阿久井真／小学館／NHK・NEP・日本アニメーション
+> The official playlist for” Blue Orchestra” ©阿久井真／小学館／NHK・NEP・日本アニメーション
 
 54 songs - 4 hr 1 min
 

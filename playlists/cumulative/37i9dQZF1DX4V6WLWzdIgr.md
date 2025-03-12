@@ -2,7 +2,7 @@
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> Sedihe kok tekan koyo ngene? Ya dijogeti wae! 😢
+> Ubur\-ubur ikan lele, nek sedih ya dijogeti wae! 😢
 
 110 songs - 9 hr 17 min
 

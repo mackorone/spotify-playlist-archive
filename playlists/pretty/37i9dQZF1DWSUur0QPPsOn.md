@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: SZA & Keke Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,461 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,519 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

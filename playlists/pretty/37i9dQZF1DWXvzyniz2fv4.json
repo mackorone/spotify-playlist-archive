@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158745,
+  "num_followers": 158740,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2025-03-05 13:29:33",
       "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2025-03-05 13:29:33",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 149203,
       "name": "Calor",
       "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
-    },
-    {
-      "added_at": "2025-03-05 13:29:33",
-      "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2025-03-05 13:29:33",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-03-05 13:29:33",
       "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
-    },
-    {
-      "added_at": "2025-03-05 13:29:33",
-      "album": {
         "name": "Perto do Sol",
         "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 248275,
       "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
       "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
+    },
+    {
+      "added_at": "2025-03-05 13:29:33",
+      "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2025-03-05 13:29:33",

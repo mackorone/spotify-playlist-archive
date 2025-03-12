@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Rvfv & YSY A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,675 likes - 101 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,655 likes - 101 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

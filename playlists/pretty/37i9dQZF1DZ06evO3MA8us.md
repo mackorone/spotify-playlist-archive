@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,580 likes - 51 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,583 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 48 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
 | 49 | [I Stand Amazed \(How Marvelous\)](https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 6:36 |
 | 50 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 |
-| 51 | [A Thousand Hallelujahs \- Live From Passion 2022](https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 5:10 |
 
 Snapshot ID: `Z8zaAAAAAAC1NDLcAw37nLOFKhLrdW/6`

@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 284772,
+  "num_followers": 284805,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -695,42 +695,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Extremistas Nobles",
-        "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
-      },
-      "artists": [
-        {
-          "name": "Buena Fe",
-          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
-        },
-        {
-          "name": "Frank Delgado",
-          "url": "https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Loco por Ti",
-      "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Al Doblar la Esquina",
-      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Hoy Como Ayer",
         "url": "https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4"
       },
@@ -747,6 +711,22 @@
       "duration_ms": 272042,
       "name": "Hoy Como Ayer",
       "url": "https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Al Doblar la Esquina",
+      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -791,6 +771,26 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Extremistas Nobles",
+        "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
+      },
+      "artists": [
+        {
+          "name": "Buena Fe",
+          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
+        },
+        {
+          "name": "Frank Delgado",
+          "url": "https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Loco por Ti",
+      "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Coincidir",
         "url": "https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Tres De Copas",
-        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
-      },
-      "artists": [
-        {
-          "name": "Tres de Copas",
-          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Hasta Donde tu vayas",
-      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 240866,
       "name": "Todo El A\u00f1o",
       "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Tres De Copas",
+        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
+      },
+      "artists": [
+        {
+          "name": "Tres de Copas",
+          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Hasta Donde tu vayas",
+      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2022-03-01 04:08:22",

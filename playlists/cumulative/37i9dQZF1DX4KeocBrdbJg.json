@@ -199,6 +199,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "111",
+      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
+    },
+    {
+      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -8180,7 +8198,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 144359,
       "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
@@ -8414,6 +8432,28 @@
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6hhPKXYczOspHXHXsuWgSX"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153837,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4EmOvfpI6RsyNk4qRGVZxJ"
     },
     {
       "album": {
@@ -13630,7 +13670,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -14272,6 +14312,24 @@
       "duration_ms": 187884,
       "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
       "url": "https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe"
+    },
+    {
+      "album": {
+        "name": "\u304b\u3051\u304c\u3048\u306e\u306a\u3044\u3082\u306e",
+        "url": "https://open.spotify.com/album/41SHQw9IPneksBkEZkTTeR"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136973,
+      "name": "\u304b\u3080\u304b\u3082\u3057\u304b\u3082\u306b\u3069\u3082\u304b\u3082\uff01",
+      "url": "https://open.spotify.com/track/0q5GR47BjKU6Ee4n2i7bpK"
     },
     {
       "album": {

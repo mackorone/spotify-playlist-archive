@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,457 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,461 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 48 | [Universo Paralelo \(Vivo en Buenos Aires\) \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 4:32 |
 | 49 | [Piénsalo \(feat\. Rombai\)](https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:22 |
 | 50 | [A Escondidas](https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [A Escondidas](https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6) | 2:28 |
-| 51 | [Ta Pa Estar](https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:30 |
 
 Snapshot ID: `Z8zaAAAAAAB0FgZkX/m7W/f/+RgZe7q3`

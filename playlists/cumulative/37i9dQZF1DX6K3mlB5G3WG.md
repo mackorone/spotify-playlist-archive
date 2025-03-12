@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Lady Gaga
 
-1,043 songs - 2 day 5 hr 47 min
+1,044 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -976,6 +976,7 @@
 | [Un tempo piccolo \(feat\. Tiromancino & Ditonellapiaga\)](https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sulla riva del fiume](https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6) | 3:45 | 2025-02-28 |  |
 | [Una Notte](https://open.spotify.com/track/69jWbZWK29hyhmgxz4PLyJ) | [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Una Notte](https://open.spotify.com/album/5fFQVaWtOUtqKKMkcWYa2S) | 2:50 | 2024-07-18 | 2024-08-23 |
 | [Una nuvola mi copre](https://open.spotify.com/track/5wGhzwG2FehKzB42Qhf74G) | [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc) | [Una nuvola mi copre](https://open.spotify.com/album/0sYUgMiWtLb9HyKglspMDV) | 2:21 | 2024-11-14 | 2024-12-13 |
+| [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 | 2025-03-11 |  |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 | 2024-08-30 |
 | [Una storia](https://open.spotify.com/track/4XjqghtOHPBDD3o2QDjdR7) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Una storia](https://open.spotify.com/album/0Usiwih4bBfNaPqtBWMoGI) | 3:27 | 2025-02-28 |  |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-28 | 2025-01-03 |

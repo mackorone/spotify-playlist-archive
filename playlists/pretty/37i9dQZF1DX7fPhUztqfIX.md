@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,958 likes - 85 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,998 likes - 85 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

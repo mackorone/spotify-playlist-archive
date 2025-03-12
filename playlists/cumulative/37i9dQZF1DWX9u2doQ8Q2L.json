@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 161366,
       "name": "24/7 YOU...",
       "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
@@ -15262,7 +15262,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 144230,
       "name": "Osanpo",
       "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
@@ -29161,6 +29161,24 @@
     },
     {
       "album": {
+        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+    },
+    {
+      "album": {
         "name": "\u60d1\u661f",
         "url": "https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE"
       },
@@ -31000,6 +31018,24 @@
       "duration_ms": 185066,
       "name": "\u8ab0\u306e\u58f0?",
       "url": "https://open.spotify.com/track/1ois44uc6QzRJVO5Q95W4n"
+    },
+    {
+      "album": {
+        "name": "\u8b33\u3046",
+        "url": "https://open.spotify.com/album/6E4AjOcvQT4hOjAGeRZOap"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233677,
+      "name": "\u8b33\u3046",
+      "url": "https://open.spotify.com/track/2eqSORXMS2s9UoJ3r9gHrt"
     },
     {
       "album": {

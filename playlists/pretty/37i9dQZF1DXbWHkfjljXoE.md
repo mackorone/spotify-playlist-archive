@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Melodies of the movement\. Cover: Roy Ayers
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,590 likes - 65 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,659 likes - 65 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

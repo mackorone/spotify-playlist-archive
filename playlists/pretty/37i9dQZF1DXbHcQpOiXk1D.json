@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective at The Brits 2025",
-  "num_followers": 323076,
+  "num_followers": 323089,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
         "name": "Flower of the soul",
         "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 322223,
       "name": "Butterflies (feat. Tim Bernardes)",
       "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Squeeze",
-        "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Squeeze",
-      "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
+        "name": "Hurry Up & Wait",
+        "url": "https://open.spotify.com/album/4TaKNsOIMYrIpuBngF7Ygf"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "duration_ms": 432080,
+      "name": "Hurry Up & Wait",
+      "url": "https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
         "name": "Letting Go of Forever",
         "url": "https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 257811,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "When It Comes Together",
         "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 188181,
       "name": "When It Comes Together",
       "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 257811,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Hurry Up & Wait",
-        "url": "https://open.spotify.com/album/4TaKNsOIMYrIpuBngF7Ygf"
-      },
-      "artists": [
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        }
-      ],
-      "duration_ms": 432080,
-      "name": "Hurry Up & Wait",
-      "url": "https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Recurring (Live At King's Place)",
         "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Kingfisher",
+        "url": "https://open.spotify.com/album/3DWINcvt3sVbjqiQI1nktw"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Asheber",
+          "url": "https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw"
+        }
+      ],
+      "duration_ms": 362146,
+      "name": "Kingfisher - feat. Asheber",
+      "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -911,18 +931,18 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Why Are You",
-        "url": "https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5"
+        "name": "Lag\u00f4",
+        "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
       },
       "artists": [
         {
-          "name": "Natty Reeves",
-          "url": "https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64"
+          "name": "wordsofAzia",
+          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
         }
       ],
-      "duration_ms": 187208,
-      "name": "Why Are You?",
-      "url": "https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8"
+      "duration_ms": 156279,
+      "name": "Lag\u00f4",
+      "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -947,38 +967,18 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Lag\u00f4",
-        "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
+        "name": "Why Are You",
+        "url": "https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5"
       },
       "artists": [
         {
-          "name": "wordsofAzia",
-          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
+          "name": "Natty Reeves",
+          "url": "https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64"
         }
       ],
-      "duration_ms": 156279,
-      "name": "Lag\u00f4",
-      "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Kingfisher",
-        "url": "https://open.spotify.com/album/3DWINcvt3sVbjqiQI1nktw"
-      },
-      "artists": [
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        },
-        {
-          "name": "Asheber",
-          "url": "https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw"
-        }
-      ],
-      "duration_ms": 362146,
-      "name": "Kingfisher - feat. Asheber",
-      "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
+      "duration_ms": 187208,
+      "name": "Why Are You?",
+      "url": "https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1055,18 +1055,66 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Let It Unfold (Instrumentals)",
-        "url": "https://open.spotify.com/album/56HVnDpijXgSPCN8WU2AHI"
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/6D1rJ4azeYokGfG0fX3rut"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
         }
       ],
-      "duration_ms": 229427,
-      "name": "Stronger - Instrumental",
-      "url": "https://open.spotify.com/track/5vhGGAg0JOrfXYKqDpKKDE"
+      "duration_ms": 218678,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/65N7zJUzhZDdASJjeH1H7W"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "dance tonight",
+        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        }
+      ],
+      "duration_ms": 165191,
+      "name": "dance tonight",
+      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "We Have Each Other",
+        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
+      },
+      "artists": [
+        {
+          "name": "TC & the Groove Family",
+          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
+        }
+      ],
+      "duration_ms": 236015,
+      "name": "We Have Each Other",
+      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Marina del Rey",
+        "url": "https://open.spotify.com/album/3nniGvnsSMTfUAJbFwFam5"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "duration_ms": 133065,
+      "name": "Marina del Rey",
+      "url": "https://open.spotify.com/track/2yfu7ZjxePK3fu1aN0YO0f"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1107,6 +1155,22 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
+        "name": "Let It Unfold (Instrumentals)",
+        "url": "https://open.spotify.com/album/56HVnDpijXgSPCN8WU2AHI"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 229427,
+      "name": "Stronger - Instrumental",
+      "url": "https://open.spotify.com/track/5vhGGAg0JOrfXYKqDpKKDE"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
         "name": "Dumplings For Dinner",
         "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
       },
@@ -1127,70 +1191,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Catch Me",
-        "url": "https://open.spotify.com/album/6D1rJ4azeYokGfG0fX3rut"
-      },
-      "artists": [
-        {
-          "name": "Arjuna Oakes",
-          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
-        }
-      ],
-      "duration_ms": 218678,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/65N7zJUzhZDdASJjeH1H7W"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Marina del Rey",
-        "url": "https://open.spotify.com/album/3nniGvnsSMTfUAJbFwFam5"
-      },
-      "artists": [
-        {
-          "name": "Koteri",
-          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
-        }
-      ],
-      "duration_ms": 133065,
-      "name": "Marina del Rey",
-      "url": "https://open.spotify.com/track/2yfu7ZjxePK3fu1aN0YO0f"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "We Have Each Other",
-        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
-      },
-      "artists": [
-        {
-          "name": "TC & the Groove Family",
-          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
-        }
-      ],
-      "duration_ms": 236015,
-      "name": "We Have Each Other",
-      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "dance tonight",
-        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
-      },
-      "artists": [
-        {
-          "name": "Indira May",
-          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
-        }
-      ],
-      "duration_ms": 165191,
-      "name": "dance tonight",
-      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Sweet Whispers: Celebrating Sarah Vaughan",
         "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
@@ -1203,38 +1203,6 @@
       "duration_ms": 279749,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Norton",
-        "url": "https://open.spotify.com/album/25wgcyPri2UD4PZ6iVk7jH"
-      },
-      "artists": [
-        {
-          "name": "The Vernon Spring",
-          "url": "https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm"
-        }
-      ],
-      "duration_ms": 121985,
-      "name": "Norton",
-      "url": "https://open.spotify.com/track/4z9jqw3j2exNVCouafDQzE"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
-      },
-      "artists": [
-        {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
-        }
-      ],
-      "duration_ms": 386885,
-      "name": "Love of Mine",
-      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1255,18 +1223,34 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Silhouettes: A Dream Sphere Journal",
-        "url": "https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP"
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
       },
       "artists": [
         {
-          "name": "MATTERS UNKNOWN",
-          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
         }
       ],
-      "duration_ms": 215168,
-      "name": "What Are You About?",
-      "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
+      "duration_ms": 386885,
+      "name": "Love of Mine",
+      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Norton",
+        "url": "https://open.spotify.com/album/25wgcyPri2UD4PZ6iVk7jH"
+      },
+      "artists": [
+        {
+          "name": "The Vernon Spring",
+          "url": "https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm"
+        }
+      ],
+      "duration_ms": 121985,
+      "name": "Norton",
+      "url": "https://open.spotify.com/track/4z9jqw3j2exNVCouafDQzE"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1283,6 +1267,22 @@
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Silhouettes: A Dream Sphere Journal",
+        "url": "https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP"
+      },
+      "artists": [
+        {
+          "name": "MATTERS UNKNOWN",
+          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
+        }
+      ],
+      "duration_ms": 215168,
+      "name": "What Are You About?",
+      "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
     },
     {
       "added_at": "2025-03-07 00:00:11",

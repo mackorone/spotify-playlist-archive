@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,022 likes - 278 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,023 likes - 278 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 58 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
 | 59 | [Cindy's Birthday](https://open.spotify.com/track/3Id8znxIUtTYNhZsak8Unb) | [Johnny Crawford](https://open.spotify.com/artist/48QdHdRanCXdBt6lygsDES) | [A Young Man's Fancy](https://open.spotify.com/album/3VNpShZrCWsR61aBORHSgh) | 2:08 |
 | 60 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
-| 61 | [Peace In the Valley](https://open.spotify.com/track/12BUnLZGAUBJ0KoZDaDFz7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:21 |
-| 62 | [The Best Is Yet to Come \(feat\. Clay Finnesand\)](https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 3:05 |
+| 61 | [The Best Is Yet to Come \(feat\. Clay Finnesand\)](https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 3:05 |
+| 62 | [Peace In the Valley](https://open.spotify.com/track/12BUnLZGAUBJ0KoZDaDFz7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:21 |
 | 63 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
 | 64 | [Brother, Brother](https://open.spotify.com/track/1TsajzaE7CbCxT3BmYJ5lk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:58 |
 | 65 | [The Locomotion](https://open.spotify.com/track/6gAbcFfwCQZzEYlbmJdjNQ) | [Ashley Blanchet](https://open.spotify.com/artist/1b8cQfCNThrHkG97I4ZED9), [Beautiful Ensemble](https://open.spotify.com/artist/2L5cwN0hfqdtGmxl61RgbV) | [Beautiful: The Carole King Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7I3jBPoNAjuHVquCTeq9dA) | 2:11 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 277 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 278 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbrtiAAAAAAFFXEp1QPRFHuIliI/4GAg`
+Snapshot ID: `AbrzKAAAAABeF6GzzSsASXgweL46kppD`

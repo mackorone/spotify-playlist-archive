@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Rachel Chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,420 likes - 89 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,431 likes - 89 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

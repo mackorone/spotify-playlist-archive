@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent &amp; friends\. Featuring new music from Woesum &amp; Bassvictim, plus the latest cuts from Baalti &amp; High Klassified
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,884 likes - 100 songs - 5 hr 12 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,882 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Protected](https://open.spotify.com/track/2WZHValidPDAOAY1Hs35ow) | [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe) | [Protected](https://open.spotify.com/album/0Gp6f79Pf1495FSTIUjQEe) | 3:27 |
-| 2 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
-| 3 | [Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:55 |
-| 4 | [Makes you wonder](https://open.spotify.com/track/4OpoKYHpAB91o7ZXayQvjR) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 4:23 |
-| 5 | [LA](https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:33 |
-| 6 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 |
-| 7 | [Habits](https://open.spotify.com/track/1Epi1Cx3Owdty1fQMILPUe) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Dubplate 07](https://open.spotify.com/album/67Ad5QKOtBcNCi39gUmOGr) | 5:14 |
-| 8 | [dogfight \- Digitalism Dawg\-to\-Disco Remix](https://open.spotify.com/track/7BXzX7t2vrro8vxnzUI0b0) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [dogfight \(Digitalism Dawg\-to\-Disco Remix\)](https://open.spotify.com/album/5Q9eX3MEnzklbfufLAmS9O) | 5:55 |
-| 9 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
-| 10 | [Motion Therapy](https://open.spotify.com/track/66GzXQeE0hFtBusIY0Arll) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Motion Therapy](https://open.spotify.com/album/1IuRMOsgOyECchXtw05cBA) | 3:59 |
+| 1 | [Motion Therapy](https://open.spotify.com/track/66GzXQeE0hFtBusIY0Arll) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Motion Therapy](https://open.spotify.com/album/1IuRMOsgOyECchXtw05cBA) | 3:59 |
+| 2 | [Protected](https://open.spotify.com/track/2WZHValidPDAOAY1Hs35ow) | [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe) | [Protected](https://open.spotify.com/album/0Gp6f79Pf1495FSTIUjQEe) | 3:27 |
+| 3 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
+| 4 | [Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:55 |
+| 5 | [Makes you wonder](https://open.spotify.com/track/4OpoKYHpAB91o7ZXayQvjR) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 4:23 |
+| 6 | [LA](https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:33 |
+| 7 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 |
+| 8 | [Habits](https://open.spotify.com/track/1Epi1Cx3Owdty1fQMILPUe) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Dubplate 07](https://open.spotify.com/album/67Ad5QKOtBcNCi39gUmOGr) | 5:14 |
+| 9 | [dogfight \- Digitalism Dawg\-to\-Disco Remix](https://open.spotify.com/track/7BXzX7t2vrro8vxnzUI0b0) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [dogfight \(Digitalism Dawg\-to\-Disco Remix\)](https://open.spotify.com/album/5Q9eX3MEnzklbfufLAmS9O) | 5:55 |
+| 10 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
 | 11 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
 | 12 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 13 | [Easter Pink](https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Easter Pink](https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5) | 1:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 99 | [40 Hour Drive](https://open.spotify.com/track/5KW4Fp4DEnfJyj0zFTyVHP) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [40 Hour Drive](https://open.spotify.com/album/2FI47Iupx00n1LWGfV0c7e) | 3:50 |
 | 100 | [PARACHUTE](https://open.spotify.com/track/1BeCYnSgefgDxYNuN9LOQB) | [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [HARD COPY](https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF) | 1:36 |
 
-Snapshot ID: `AAAcUzQB32l7BpLwknRg8PgVwHlQeKSZ`
+Snapshot ID: `AAAcVFyu6Ih1mciYq930Zf6WM/As1bQI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,749 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,025 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 54 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
 | 55 | [Voyage voyage](https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 |
 | 56 | [Ghosts 'n' Stuff](https://open.spotify.com/track/4ua0IepBEISCWwF8dTJvcU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack Of A Better Name](https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl) | 5:28 |
-| 57 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 |
-| 58 | [Hypnotized](https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fran](https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J) | [Großstadtmärchen](https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo) | 5:40 |
+| 57 | [Hypnotized](https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fran](https://open.spotify.com/artist/2gct3VkeQT2IuGNFNJVj1J) | [Großstadtmärchen](https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo) | 5:40 |
+| 58 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 |
 | 59 | [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 |
 | 60 | [Invaders Must Die](https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Invaders Must Die](https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM) | 4:55 |
 | 61 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 75 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
 | 76 | [Strobe \- Radio Edit](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobe](https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB) | 3:34 |
 | 77 | [Bad Boy](https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:11 |
-| 78 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 |
-| 79 | [Riverside \- Radio Mix](https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside](https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH) | 2:25 |
+| 78 | [Riverside \- Radio Mix](https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside](https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH) | 2:25 |
+| 79 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 |
 | 80 | [Becoming Insane](https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Vicious Delicious](https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART) | 7:20 |
 | 81 | [The World Is Mine](https://open.spotify.com/track/1q6IK1l4qpYykOaWaLJkWG) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [The World Is Mine](https://open.spotify.com/album/7dIXQIv9yg2fzJ9MzUOhlX) | 3:39 |
 | 82 | [Ella Elle L A \- Radio Version](https://open.spotify.com/track/1bV3jw1mlVbPkzc9bCGCsl) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 |

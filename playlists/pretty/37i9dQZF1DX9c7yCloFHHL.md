@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,336 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,440 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 5 | [Buffalo](https://open.spotify.com/track/6YG169eKjRN0bwwyHxa5MF) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Buffalo](https://open.spotify.com/album/6yvzNAgiveypuCnMbVnhlZ) | 2:29 |
 | 6 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
 | 7 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
-| 8 | [fields of forever \- helios rework](https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [drift \(ambient remixes\)](https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH) | 3:49 |
+| 8 | [fields of forever \- helios rework](https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [drift \(ambient remixes\)](https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH) | 3:49 |
 | 9 | [Breathing \- Short Mix](https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Breathing \(Short Mix\)](https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL) | 4:36 |
 | 10 | [Night Sculpture \- Deconstructed](https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted \(Deconstructed\)](https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG) | 1:31 |
 | 11 | [Heaven Will Come](https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Shards](https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm) | 4:48 |

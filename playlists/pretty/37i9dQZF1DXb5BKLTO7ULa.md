@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van: Roxy Dekker, Lady Gaga & JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,567 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,594 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 44 | [Sportwagens & Hockeydames](https://open.spotify.com/track/0AJ5igMSR8yvsSYFHjtise) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Zilver](https://open.spotify.com/album/1DUMto7MEW7b5i6IZLZ4Ck) | 3:07 |
 | 45 | [Baby Doe \(feat\. Bres\)](https://open.spotify.com/track/3DmYWFgKuwvQBNExJlV08U) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Bres](https://open.spotify.com/artist/0SgiSJC7G0GeczlAwIHkZV) | [Baby Doe](https://open.spotify.com/album/3ufBP8k5L5XKS2pVITd8MV) | 1:42 |
 | 46 | [Girl](https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Girl](https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa) | 3:24 |
-| 47 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 |
+| 47 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/6k7cmSyTY44n7JeLGVJeRa) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 |
 | 48 | [Hotel Room](https://open.spotify.com/track/0eMGRsrdk0SkZb88NVolG9) | [21 Sunsets](https://open.spotify.com/artist/4fhG319ngFYzHiIdLXyWnI), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Hotel Room](https://open.spotify.com/album/1l3GC83saESJZ1evC6IYCC) | 2:20 |
 | 49 | [Só Sodadi](https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Twenty Fingers](https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Waves](https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg) | 3:47 |
 | 50 | [Blaren](https://open.spotify.com/track/0LzyVCpOUqZuO3Y9TlF7F2) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9), [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Blaren](https://open.spotify.com/album/643kl24IbcTp8HR8CK1oQa) | 3:47 |

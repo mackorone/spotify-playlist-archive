@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: DIAMOND MQT
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,123 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,132 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 40 | [Barbie](https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Barbie](https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc) | 2:03 |
 | 41 | [Bad Girls Like You](https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Bad Girls Like You](https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss) | 3:06 |
 | 42 | [หนูก็รู้](https://open.spotify.com/track/3Me3tzXTrgGz5MQt7cuO93) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [SURE](https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU), [DXRIW](https://open.spotify.com/artist/3is2GkO7DUxJ4A1xeBdPGT) | [หนูก็รู้](https://open.spotify.com/album/2snVXTtVTXvE3STK2klPx5) | 5:01 |
-| 43 | [HOME](https://open.spotify.com/track/4Orv09K4EN9aGAoV8CrRgf) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [ฟิลนอก](https://open.spotify.com/album/4gxQ1ACJY7ULGfHuVa6a6V) | 3:38 |
+| 43 | [HOME](https://open.spotify.com/track/4Orv09K4EN9aGAoV8CrRgf) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [ฟิลนอก](https://open.spotify.com/album/4gxQ1ACJY7ULGfHuVa6a6V) | 3:38 |
 | 44 | [King without a crown](https://open.spotify.com/track/0wdrModq3sbAsLYKiIrfyu) | [OG\-ANIC](https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD) | [King without a crown](https://open.spotify.com/album/1WJ24oBPHwkTAVjFBCsvt9) | 3:12 |
 | 45 | [คนแปลกหน้า](https://open.spotify.com/track/1yNZTg3VP0uksLKPsSSdDx) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [Pretty \(SAD\) Boy](https://open.spotify.com/album/51ugVoyZBCXOxf8hCJd1e7) | 3:42 |
 | 46 | [สู้ชีวิต](https://open.spotify.com/track/4fzdo7CHLOoEGtXRr4IBzP) | [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [สู้ชีวิต](https://open.spotify.com/album/0Gm2vRjDHWdXlUqppST7t4) | 3:07 |

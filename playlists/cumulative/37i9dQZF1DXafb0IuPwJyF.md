@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: HANA
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: 藤井 風
 
-1,477 songs - 3 day 19 hr 44 min
+1,478 songs - 3 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-08-27 | 2023-09-04 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 | 2023-02-05 | 2023-04-17 |
 | [Rouge feat\. Taichi Mukai](https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Rouge feat\. Taichi Mukai](https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K) | 3:37 | 2023-10-15 | 2023-10-23 |
+| [Rouge540 \(feat\. Kohjiya\)](https://open.spotify.com/track/2CW9hvXcfr7R0oxjB5VIaJ) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Terminal 3](https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d) | 3:08 | 2025-03-11 |  |
 | [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 | 2024-03-19 | 2024-04-19 |
 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-04-16 | 2024-04-24 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-09-24 | 2023-10-02 |
@@ -1268,7 +1269,7 @@
 | [愛しき日々の真ん中で](https://open.spotify.com/track/5f0N60WTFye6mIxkIRPuBM) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [愛しき日々の真ん中で](https://open.spotify.com/album/3XgZuMvhqbj1yCTrG3MXHt) | 3:22 | 2021-12-19 | 2022-01-31 |
 | [愛してた\(feat.れん\)](https://open.spotify.com/track/2A9EvUkIWDDKWV6rcsM72a) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛してた\(feat.れん\)](https://open.spotify.com/album/0oeFfl5KVoC0EdDQisDLlt) | 4:23 | 2023-05-21 | 2023-06-19 |
 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 | 2023-04-16 | 2023-06-12 |
-| [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 | 2024-09-10 |  |
+| [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 | 2024-09-10 | 2025-03-12 |
 | [愛とか恋とか](https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [愛とか恋とか](https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ) | 3:52 | 2022-04-17 | 2022-09-26 |
 | [愛のネタバレ](https://open.spotify.com/track/2vchHTJpJuoFHvosewuaQV) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [愛のネタバレ](https://open.spotify.com/album/3QcNZjfiZ1C2hG3Q1TqzKn) | 3:58 | 2022-10-02 | 2022-10-17 |
 | [愛の波](https://open.spotify.com/track/2pitZk9jjMrkHVHgtEyx12) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [愛の波](https://open.spotify.com/album/2mBNWnAlpgGhAOeNlbZXRu) | 3:43 | 2023-04-23 | 2023-05-15 |

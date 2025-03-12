@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain](/playlists/plain/37i9dQZF1DX8FL8pSHDl0T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8FL8pSHDl0T)
 
-### [STEINS;GATE \-シュタインズ・ゲート\-](https://open.spotify.com/playlist/37i9dQZF1DX8FL8pSHDl0T)
+### [STEINS;GATE](https://open.spotify.com/playlist/37i9dQZF1DX8FL8pSHDl0T)
 
-> Experience the world of STEINS;GATE from video game to TV anime series./ 待望の公式プレイリスト登場！音楽と共に振り返る、果てなき<a href="http://steinsgate.jp/">シュタゲ</a>の世界。\(C\)2009 MAGES./5pb./Nitroplus
+> Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,532 likes - 44 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,542 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 | 43 | [Hacking to the Gate \- symphonic ver.](https://open.spotify.com/track/7mMshfkGDVQTjn03tvSlwI) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 4:18 |
 | 44 | [星の奏でる歌 \-strings quartet\-](https://open.spotify.com/track/3qwkpLZ1GdEkdQZUEIRAzI) | [Nobuaki Nobusawa](https://open.spotify.com/artist/4q4tYjUtx81Sfmm17JkH5I) | [TVアニメ『シュタインズ・ゲート ゼロ』オリジナル・サウンドトラック](https://open.spotify.com/album/5k0XKbTOo7Lrv9neeC4Anv) | 1:48 |
 
-Snapshot ID: `ZsxgfQAAAADN2Ziei+v1nwLx1ECPr5p7`
+Snapshot ID: `Z9ARcwAAAAC/Z0bkBXaja0JY5M+b5FVS`

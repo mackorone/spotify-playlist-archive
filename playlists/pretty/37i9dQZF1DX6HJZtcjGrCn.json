@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Miguel Luz",
-  "num_followers": 34207,
+  "num_followers": 34204,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-03-07 00:00:15",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "North West",
-          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Childlike Things",
-      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
-    },
-    {
-      "added_at": "2025-03-07 00:00:15",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "added_at": "2025-03-07 00:00:15",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Childlike Things",
+      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
     },
     {
       "added_at": "2025-03-07 00:00:15",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-03-07 00:00:15",
       "album": {
+        "name": "Can we talk about Isaac?",
+        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 243203,
+      "name": "Can we talk about Isaac?",
+      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
+    },
+    {
+      "added_at": "2025-03-07 00:00:15",
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 145093,
       "name": "Orlando in Love",
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
-    },
-    {
-      "added_at": "2025-03-07 00:00:15",
-      "album": {
-        "name": "Can we talk about Isaac?",
-        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 243203,
-      "name": "Can we talk about Isaac?",
-      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
     }
   ],
   "unique_name": "Cena Indie",

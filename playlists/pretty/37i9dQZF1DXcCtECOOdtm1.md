@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,060 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,076 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 26 | [Melody](https://open.spotify.com/track/0hSjIvAknh110jd5Q1HtNR) | [Kenjiro Sakiya](https://open.spotify.com/artist/14tdomXFf9cDR8ms2xVN03) | [ただ一度だけの永遠](https://open.spotify.com/album/0UjcF5Vk5pAPKXsQSFluDA) | 5:28 |
 | 27 | [あなたがそばにいる理由](https://open.spotify.com/track/4dRAXb8IpgVBdXJe5tYsUJ) | [Kaori Okui](https://open.spotify.com/artist/0RQhwDCMVYatkJ6p7rrB9e) | [Ｒｅｎａｉｓｓａｎｃｅ](https://open.spotify.com/album/0bWr54SZfUko5nVbtDiP9l) | 4:53 |
 | 28 | [オレンジ](https://open.spotify.com/track/2A6qpxk2pgxAD0ksjfI2uJ) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Blue Jam](https://open.spotify.com/album/1oO56W8dgIHxc0gelFMU1I) | 5:51 |
-| 29 | [地上の9mの宇宙](https://open.spotify.com/track/4IziiuY1hf00wLYSkk072A) | [Seiko Sato](https://open.spotify.com/artist/4sxVVljhdcKe36YGDZW3uV) | [CRYSTAL](https://open.spotify.com/album/39HbPKcc3M6MP63G4fFY7E) | 4:57 |
+| 29 | [地上9mの宇宙](https://open.spotify.com/track/4IziiuY1hf00wLYSkk072A) | [Seiko Sato](https://open.spotify.com/artist/4sxVVljhdcKe36YGDZW3uV) | [CRYSTAL](https://open.spotify.com/album/39HbPKcc3M6MP63G4fFY7E) | 4:57 |
 | 30 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 |
 | 31 | [しあわせな時間](https://open.spotify.com/track/2jBMkEllnlU6z3jmn23O5q) | [Instant Cytron](https://open.spotify.com/artist/6YQynvo3pafhgrHpXp0Uvn) | [CHANGE THIS WORLD](https://open.spotify.com/album/1bbcPma18cl2NbVPAfB4Hu) | 5:04 |
 | 32 | [夢の中で会えるでしょう \- Single Version](https://open.spotify.com/track/5Y9wdPTsQlnk3B17HDUewK) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Sorrow and Smile](https://open.spotify.com/album/0cS9IiWAUlpcj4jRn6GOg6) | 5:59 |

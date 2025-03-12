@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 265579,
       "name": "Can You",
       "url": "https://open.spotify.com/track/5v6ccPuLurDGC2hC0wVPFL"
@@ -13116,6 +13116,28 @@
       "duration_ms": 227250,
       "name": "Moment In Time",
       "url": "https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/7LsPk60OJGYoq8mKWgMAxp"
+      },
+      "artists": [
+        {
+          "name": "Cubicore",
+          "url": "https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx"
+        },
+        {
+          "name": "Linnea Schossow",
+          "url": "https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181904,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6poMNI3eKjniGiH7RShxWq"
     },
     {
       "album": {

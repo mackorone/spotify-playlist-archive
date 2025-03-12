@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-346 songs - 16 hr 47 min
+349 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alice the Flower](https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Alice the Flower](https://open.spotify.com/album/74RgcJ4hG1XLutWvM51Ssf) | 3:13 | 2024-12-19 |  |
 | [Amanhã](https://open.spotify.com/track/6dGdz2BG7ZhQz4euJxcfo9) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Amanhã](https://open.spotify.com/album/2hlLndsKhLp6wM30IzwtoA) | 3:16 | 2022-02-18 | 2022-06-25 |
 | [Ancient Presence](https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Ancient Presence](https://open.spotify.com/album/2x8VkZap61imM4ukBV26P8) | 2:09 | 2022-02-18 | 2022-09-15 |
+| [Angelic Planet](https://open.spotify.com/track/3PQkT6k7wYVrpCdfw1nUHC) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Galactic](https://open.spotify.com/album/5auZsjKYVdL2d7aSHgXMWV) | 2:47 | 2025-03-11 |  |
 | [Another Wake](https://open.spotify.com/track/0YwgnE2yI600aenbcJdqgq) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 2:18 | 2022-02-18 | 2023-08-05 |
 | [Ante Meridiem \(432hz\)](https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ante Meridiem \(432hz\)](https://open.spotify.com/album/2rSp0SgoVF37nfDHWgeonw) | 3:30 | 2022-02-18 | 2023-07-15 |
 | [Appena](https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Appena](https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay) | 3:35 | 2024-02-15 |  |
@@ -84,6 +85,7 @@
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-21 |  |
 | [Crystalline](https://open.spotify.com/track/27YaBVbv8K7atUj0EoE4gQ) | [Andromedaecho](https://open.spotify.com/artist/5X4x6jIGCFmtPxI4c3GgbC) | [Crystalline](https://open.spotify.com/album/6YyOTspsFXEm7eYXDZHCpq) | 3:28 | 2024-04-29 |  |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-02-18 |  |
+| [Dawn](https://open.spotify.com/track/5eGmYxSAVXckgGMV5Y9ucT) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Dawn](https://open.spotify.com/album/2IUrDjCWGXBWIopJ9Zn7kr) | 2:56 | 2025-03-11 |  |
 | [Deep Corals](https://open.spotify.com/track/12Ck0PpmNxzVYQZzzGdRYJ) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Deep Corals](https://open.spotify.com/album/17GOkpj7miUIyXhuHyVP0u) | 2:40 | 2024-07-12 |  |
 | [Deep Down](https://open.spotify.com/track/3uThbfJQuku1zuzf3YCIZS) | [Luca Kerr](https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap) | [Deep Down](https://open.spotify.com/album/6qjdc35hxX2cL5HtJcP8tx) | 2:57 | 2025-01-29 |  |
 | [Depth](https://open.spotify.com/track/73EWZ5JKF4RJgH1HhQgDYp) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Depth](https://open.spotify.com/album/3pG7B1UYZ2czCpxylnCfFM) | 3:21 | 2024-11-11 |  |
@@ -338,6 +340,7 @@
 | [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 | 2022-07-08 |  |
 | [Water Poem](https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Water Poem](https://open.spotify.com/album/54GgnDXqx2jm1s70E0nSl5) | 2:40 | 2022-06-16 |  |
 | [Water St\. Cafe](https://open.spotify.com/track/1Eo5LlMiUsrfwbydVLcvPk) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Water St\. Cafe](https://open.spotify.com/album/7ttaKDo71onRqB0Kk7tJOx) | 3:16 | 2024-03-14 |  |
+| [Weary Dreams](https://open.spotify.com/track/548tVTwGSUe72AI0tixG2k) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Weary Dreams](https://open.spotify.com/album/5yaaCjeLwr3MBDRsWr4eGn) | 2:51 | 2025-03-11 |  |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2022-02-18 | 2025-02-15 |
 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-14 | 2024-07-27 |
 | [Where Peaceful Waters Flow](https://open.spotify.com/track/06k0KNOgWngBL962uONmeV) | [Dani Hadad](https://open.spotify.com/artist/4dplzww3ZxsFV5sNlOcYmn) | [Peace](https://open.spotify.com/album/1ScFHV7vGlCdruwg6vUUKs) | 3:27 | 2022-02-18 | 2024-09-04 |

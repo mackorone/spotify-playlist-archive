@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l0em9DC6QA.md) - [plain]
 
 > anti\-romance, curated by Alice Oseman\. The conflicting feelings of joy and grief experienced when coming to terms with my asexual and aromantic identity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,716 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,720 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 210000,
       "name": "Anything I Can Do",
       "url": "https://open.spotify.com/track/6Q4f0uA2xOfsUAIr3PVsLT"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 196235,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 139413,
       "name": "Chat",
       "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Life After Love",
+        "url": "https://open.spotify.com/album/026mGyAjIYXJVinjFvWF8X"
+      },
+      "artists": [
+        {
+          "name": "Leah Music",
+          "url": "https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130707,
+      "name": "Life After Love",
+      "url": "https://open.spotify.com/track/4iI3VuXTaRHhPtIukeljkU"
+    },
+    {
+      "album": {
         "name": "Life Size",
         "url": "https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC"
       },
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 149400,
       "name": "LYTM",
       "url": "https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3"
@@ -4694,7 +4712,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 161520,
       "name": "Options",
       "url": "https://open.spotify.com/track/1ZWBlhBmJqgLLMDIT31vdV"
@@ -4944,6 +4962,28 @@
       "duration_ms": 158681,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy"
+    },
+    {
+      "album": {
+        "name": "PRETEND",
+        "url": "https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN"
+      },
+      "artists": [
+        {
+          "name": "Luke Champion",
+          "url": "https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ"
+        },
+        {
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192110,
+      "name": "PRETEND",
+      "url": "https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu"
     },
     {
       "album": {
@@ -5886,7 +5926,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 152195,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"

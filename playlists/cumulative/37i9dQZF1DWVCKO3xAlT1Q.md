@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-70 songs - 3 hr 26 min
+71 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-02-28 |  |
 | [Bur man laimi](https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK) | [Tautumeitas](https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF) | [Bur man laimi](https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g) | 2:58 | 2025-02-28 |  |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-02-28 |  |
-| [Deslocado](https://open.spotify.com/track/6QlygEHWgXDeAwDtzksA5b) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:59 | 2025-03-09 |  |
+| [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-03-11 |  |
+| [Deslocado](https://open.spotify.com/track/6QlygEHWgXDeAwDtzksA5b) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:59 | 2025-03-09 | 2025-03-12 |
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-05-11 | 2025-03-01 |
 | [Dobrodošli](https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli](https://open.spotify.com/album/32mNiQZWRZPliemdjkO3tZ) | 3:00 | 2025-02-28 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-11 | 2025-03-01 |

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jayda
 
-299 songs - 18 hr 54 min
+300 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Comets \(with Petra Sihombing\)](https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Comets \(with Petra Sihombing\)](https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC) | 3:55 | 2024-08-30 | 2024-11-23 |
 | [Crisostomo](https://open.spotify.com/track/47hcQlmzCIEoWIk3W3PggN) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Crisostomo](https://open.spotify.com/album/4OY0wYFGnYZMWRkFyZEV22) | 3:48 | 2024-07-02 | 2024-07-09 |
 | [Dahan Dahan](https://open.spotify.com/track/7trAmBLuRdzxHDftBs8LwX) | [Fred Engay](https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb) | [Dahan Dahan](https://open.spotify.com/album/6jM1p1mCSkZONn7tYFjc8D) | 4:02 | 2024-07-02 | 2024-08-17 |
+| [Daleng Dale](https://open.spotify.com/track/6QBPJkLxYzVXZXf1rzeQbe) | [GAT](https://open.spotify.com/artist/0xTKAk89QHQkiahdI2EpOY) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 2:41 | 2025-03-11 |  |
 | [Dalhin](https://open.spotify.com/track/1MZzrI9wTbWgASgaelBAtG) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Dalhin](https://open.spotify.com/album/5dATmO1n6tZVqCFS3v3cDe) | 3:02 | 2025-02-14 |  |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-02-28 |  |
 | [damdamin!](https://open.spotify.com/track/6nrGNaUnAtLTbXMW4k9kKE) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [damdamin!](https://open.spotify.com/album/6XY5qKaYLnZjE5boyV3vZS) | 3:47 | 2024-11-29 | 2025-02-15 |

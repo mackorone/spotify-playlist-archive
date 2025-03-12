@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,036 songs - 3 day 2 hr 32 min
+1,037 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Landside](https://open.spotify.com/track/0MYcDq74yEMem9mW3m2ELY) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Contrast](https://open.spotify.com/album/6DF4x3OXTnKLtmdhH3gxHg) | 6:06 | 2019-06-19\* | 2022-04-20 |
 | [Lapis Manalis](https://open.spotify.com/track/6gW441yrmO9J6wELZmcFZr) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Strange Meridians](https://open.spotify.com/album/5BOeEGhCqLKyX5CE3wwS1F) | 3:55 | 2024-12-04 | 2024-12-29 |
 | [Lapland](https://open.spotify.com/track/5wxqdrmFRKdSxisvmgWg17) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Lapland](https://open.spotify.com/album/2Bv9UL2MiDFhRufaLyhFyx) | 4:08 | 2019-06-19\* | 2020-10-22 |
-| [Lash](https://open.spotify.com/track/3Rkf0DTml3gI74GrHQs3dw) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Lash](https://open.spotify.com/album/4TmatWXM9ZI3iP38jUJs5S) | 3:13 | 2025-01-27 |  |
+| [Lash](https://open.spotify.com/track/3Rkf0DTml3gI74GrHQs3dw) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Lash](https://open.spotify.com/album/4TmatWXM9ZI3iP38jUJs5S) | 3:13 | 2025-01-27 | 2025-03-12 |
 | [Last \- Moonbase Remix](https://open.spotify.com/track/5XGzBprbMpVbA9eXOTMKvm) | [Polographia](https://open.spotify.com/artist/41Vldqj1RWBrQurBwof2QT), [Moonbase](https://open.spotify.com/artist/0DlvlPWYR10nLdwQgQn9cp) | [Natural Remixes EP](https://open.spotify.com/album/1xaeCWAtH0h5aLWTme3sEf) | 3:24 | 2019-05-26\* | 2020-08-26 |
 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 | 2019-05-26\* |  |
 | [Late Archaic](https://open.spotify.com/track/2rtYpylQCBMCmv0etqC9uh) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Late Archaic](https://open.spotify.com/album/1alJBKTcG4cp75vuyplmmo) | 3:45 | 2021-07-23 | 2022-07-14 |
@@ -523,7 +523,7 @@
 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2023-10-13 | 2023-11-16 |
 | [Log In Your Fire](https://open.spotify.com/track/6yliSAfFs2LzlfHAMLX7ds) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Log In Your Fire](https://open.spotify.com/album/5U5jYij147XIbaDyRMU0gq) | 2:51 | 2021-08-13 | 2022-04-21 |
 | [London Island](https://open.spotify.com/track/6Z0xV1FASyxZ76L15nMSs2) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Love + Light](https://open.spotify.com/album/1z6IaOUkRc2bcZvpQ9vN31) | 5:49 | 2020-08-26 | 2022-04-20 |
-| [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
+| [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 | 2022-07-15 |  |
 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 | 2021-05-25 | 2024-01-19 |
 | [Long Time Coming](https://open.spotify.com/track/16LzUBaDdv3aYB8GbLMA6m) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3) | 2:19 | 2019-06-21 | 2020-10-22 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-22 |  |
@@ -720,6 +720,7 @@
 | [Respect The Source](https://open.spotify.com/track/2guCov9kckEzAQdpxOKZWc) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/7BY6KOUaHgakDbnS1DZspp) | 3:01 | 2023-12-06 | 2024-04-19 |
 | [Respect The Source](https://open.spotify.com/track/7chpNfkxBfsGpUzj9btqLe) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/2p85APvTZpNNrpASUlCCsh) | 3:01 | 2019-05-26\* | 2022-04-21 |
 | [Rest in Peace](https://open.spotify.com/track/1qxdgsiWSmO6l4Ds1EZBj9) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [VHS](https://open.spotify.com/album/5dpCCx6F2ECsqnrdmwNGCH) | 3:31 | 2019-06-19\* | 2020-10-21 |
+| [Rest Round Here](https://open.spotify.com/track/2VyMyhZrDDh5e5N9kIX87N) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Rest Round Here](https://open.spotify.com/album/0kvwck16ZQJvB9WOWdcZD4) | 3:55 | 2025-03-07 |  |
 | [restless](https://open.spotify.com/track/0HkqBi1na692hJl5nrTDit) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [restless](https://open.spotify.com/album/3EDRGL855m5gnbykVzektt) | 2:37 | 2023-07-28 | 2023-10-14 |
 | [Restraint](https://open.spotify.com/track/42dw6pVslE7a5k24piTkCC) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Two Fold Pt\. 2](https://open.spotify.com/album/6WAm1Z7pv03iivo9jCMePQ) | 0:46 | 2019-06-19\* | 2020-10-22 |
 | [Reverie](https://open.spotify.com/track/1tSiQp99e8feuJg57ye2Lj) | [Sleep Surgeon](https://open.spotify.com/artist/5Miv6SXEFSeNVMot3CQPoq) | [Reverie](https://open.spotify.com/album/04xjVTxSutOrE3OPQQmWGY) | 3:31 | 2023-09-29 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,824 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,898 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 49 | [Insomnia](https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Insomnia](https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH) | 3:42 |
 | 50 | [Next Life](https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:52 |
 | 51 | [Khuluma Nami](https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Intersexy](https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm) | 4:45 |
-| 52 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 |
-| 53 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
-| 54 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 |
+| 52 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 53 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 |
+| 54 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 |
 | 55 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 |
 | 56 | [Train of Thoughts](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Train of Thoughts](https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD) | 3:26 |
 | 57 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 |
-| 58 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 |
-| 59 | [Running In A Dream](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:29 |
+| 58 | [Running In A Dream](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:29 |
+| 59 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 |
 | 60 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 |
 
 Snapshot ID: `Z8o3DwAAAAAbYjrRn39fgqzS9tSqt13C`

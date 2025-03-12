@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Nyt album fra <a href="spotify:artist:7nCIXUCqZmxntAGJMyls5c">Lady Gaga</a> og ny musik fra Anton Westerlin, Lamin, ozzy & Zuloo 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,255 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,252 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

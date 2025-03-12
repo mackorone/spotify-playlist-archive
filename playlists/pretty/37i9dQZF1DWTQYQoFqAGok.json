@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 62600,
+  "num_followers": 62611,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "No Corro, No Grito, No Empujo",
-        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Excusez-Moi",
-      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
-    },
-    {
       "added_at": "2022-01-11 02:50:37",
       "album": {
         "name": "Con Sabor a M\u00e9xico",
@@ -55,6 +39,22 @@
       "duration_ms": 271053,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "No Corro, No Grito, No Empujo",
+        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Excusez-Moi",
+      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Your Voice",
         "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 175776,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Vientos Del Norte",
-        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Valor De Volar",
-      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Estaciones",
         "url": "https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 350013,
       "name": "Flor Latina",
       "url": "https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Vientos Del Norte",
+        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Valor De Volar",
+      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
     },
     {
       "added_at": "2021-07-28 16:44:28",

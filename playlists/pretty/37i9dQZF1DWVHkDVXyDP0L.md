@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Chloe Parché
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,666 likes - 116 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,671 likes - 116 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 72 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 |
 | 73 | [Manners Street](https://open.spotify.com/track/1G2ilzjZWC8NHlN7B7zeL2) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Manners Street](https://open.spotify.com/album/6xWTPIBqNOJ5O89J0pjAw3) | 3:00 |
 | 74 | [The End](https://open.spotify.com/track/0ipPF9Uj1fJIc0TFCmP5Dk) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Benjamin Joseph](https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86) | [ATMOSPHERICS](https://open.spotify.com/album/19KjIoRQgwRg3QdfbSLsiu) | 3:46 |
-| 75 | [Welcome Back \(To The Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
+| 75 | [Welcome Back \(To The//Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The//Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
 | 76 | [Seven Years](https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Seven Years](https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P) | 3:05 |
 | 77 | [Taking On Water](https://open.spotify.com/track/3r4hJ1hMr2s4c3mYrzCY4c) | [The Pretty Littles](https://open.spotify.com/artist/0xT92KyrqgKqPuKBtRSqEO) | [Taking On Water](https://open.spotify.com/album/6zJRXO2bxIIZkUufs4uzEq) | 3:46 |
 | 78 | [Pay to Play](https://open.spotify.com/track/26Os2peVmd4Q9KYmMLm8JW) | [Pretty Uglys](https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9) | [Pay to Play](https://open.spotify.com/album/4PQO8LT23OsfDTfcFB6Dhf) | 2:53 |

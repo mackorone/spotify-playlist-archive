@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 83 songs - 4 hr 53 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 82 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,15 +81,14 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 71 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
 | 72 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
 | 73 | [Girl Behind The Glass](https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:16 |
-| 74 | [space invaders](https://open.spotify.com/episode/3Ff28l3iZg5zUFmiGaUAjs) | [beneath the boardwalk](https://open.spotify.com/show/7gEt8SMstTxp4RK425vjhY) | [beneath the boardwalk](https://open.spotify.com/album/7gEt8SMstTxp4RK425vjhY) | 2:46 |
-| 75 | [Poundshop Kardashians](https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Poundshop Kardashians](https://open.spotify.com/album/3786cITcKTrcxtezOgZKME) | 2:39 |
-| 76 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 |
-| 77 | [Always Like This](https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:55 |
-| 78 | [Camel Crew](https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 3:33 |
-| 79 | [M5](https://open.spotify.com/track/20Bb5TgjHcEgSDYi7H697D) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/1LcZ72USC40lsFSjKfoSqu) | 3:37 |
-| 80 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
-| 81 | [Here's The Thing](https://open.spotify.com/track/4J4pysp2EFNhYibI8tIg0D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 2:43 |
-| 82 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
-| 83 | [Easy Money](https://open.spotify.com/track/00OguRNWLi6uPAROsZgNzT) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Playland](https://open.spotify.com/album/7pG8gRZMb15vG0kMH8epU1) | 4:03 |
+| 74 | [Poundshop Kardashians](https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Poundshop Kardashians](https://open.spotify.com/album/3786cITcKTrcxtezOgZKME) | 2:39 |
+| 75 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 |
+| 76 | [Always Like This](https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:55 |
+| 77 | [Camel Crew](https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Deep Down Happy](https://open.spotify.com/album/7IQGnVFNKh5oy8g6D1oq3y) | 3:33 |
+| 78 | [M5](https://open.spotify.com/track/20Bb5TgjHcEgSDYi7H697D) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/1LcZ72USC40lsFSjKfoSqu) | 3:37 |
+| 79 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
+| 80 | [Here's The Thing](https://open.spotify.com/track/4J4pysp2EFNhYibI8tIg0D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 2:43 |
+| 81 | [Cry at the Moon](https://open.spotify.com/track/0TY9m3iHAO4I0VflhnuFJI) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Cry at the Moon](https://open.spotify.com/album/0FUlMafsW5YS0OPPAra5IB) | 3:07 |
+| 82 | [Easy Money](https://open.spotify.com/track/00OguRNWLi6uPAROsZgNzT) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Playland](https://open.spotify.com/album/7pG8gRZMb15vG0kMH8epU1) | 4:03 |
 
 Snapshot ID: `AAAAuvjrERjzakGWgdSe2N8O/bGNgl5a`

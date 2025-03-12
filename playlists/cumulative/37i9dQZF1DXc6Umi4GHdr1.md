@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-415 songs - 18 hr 25 min
+416 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-06-10 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-26 | 2023-06-16 |
-| [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 |  |
+| [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2025-03-12 |
 | [Flourishing](https://open.spotify.com/track/0vvxKfRNMUMKfOSYq78mY3) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Flourishing](https://open.spotify.com/album/2fBuHt70rTcLRkwcBtl0Ts) | 2:23 | 2024-03-08 |  |
 | [Flowers](https://open.spotify.com/track/7bRZz44ODWdcv9OnPDTmpe) | [Dena Audley](https://open.spotify.com/artist/0PMxfySITWLIxBnSJAvUK1) | [Flowers](https://open.spotify.com/album/53PivFOhCq2M9aoVOWDRCj) | 2:08 | 2023-01-06 |  |
 | [Flying out](https://open.spotify.com/track/0em6UnHzNwrpy2Bg13FQVE) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 3:18 | 2021-12-10 | 2023-04-28 |
@@ -393,6 +393,7 @@
 | [Verano](https://open.spotify.com/track/1XrG2glXzkEisIbtNIFQq8) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Verano](https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k) | 3:34 | 2023-08-11 | 2024-07-18 |
 | [View From an Ocean Window](https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [View From an Ocean Window](https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE) | 2:54 | 2024-03-29 |  |
 | [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
+| [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 | 2025-03-11 |  |
 | [Viña del Mar](https://open.spotify.com/track/157jiCEqa3UihOdwBpQQao) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Viña del Mar](https://open.spotify.com/album/7Hd589biVwD6MvtfZ1AcUL) | 2:24 | 2023-12-15 |  |
 | [Voluntad](https://open.spotify.com/track/5XHgDP6VEOqMbhFLqh78Xx) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Voluntad](https://open.spotify.com/album/2rV6cBlzGCjPaQZDTSbbWJ) | 2:51 | 2021-12-10 | 2023-03-10 |
 | [Wait A Minute](https://open.spotify.com/track/1JXcIdNOsdZepUrvsfXOEo) | [Mary\-Anne Petersen](https://open.spotify.com/artist/10jkdLoGCp06EB8vIRKAWO) | [Wait A Minute](https://open.spotify.com/album/1RG0woIFkj9cbmuMRVl7fV) | 2:42 | 2022-04-22 | 2024-05-10 |

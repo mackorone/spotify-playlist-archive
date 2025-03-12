@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f\n",
-  "num_followers": 92545,
+  "num_followers": 92544,
   "original_name": "V\u00e5rstemning",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Weathervane",
-        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Next Summer",
         "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Heim te st\u00e5vo",
-        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 196758,
-      "name": "Heim te st\u00e5vo",
-      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "hvem kan seile foruten vind?",
         "url": "https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3"
       },
@@ -403,6 +387,38 @@
       "duration_ms": 203693,
       "name": "hvem kan seile foruten vind?",
       "url": "https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Heim te st\u00e5vo",
+        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 196758,
+      "name": "Heim te st\u00e5vo",
+      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -443,22 +459,6 @@
       "duration_ms": 176000,
       "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
       "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -547,54 +547,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "God Morgen",
         "url": "https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ"
       },
@@ -615,6 +567,38 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Ole Lukk\u00f8ye",
         "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 265726,
       "name": "Ole Lukk\u00f8ye",
       "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -707,22 +707,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "leilo brenner (Spotify Studio It's Hits Recording)",
-        "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
+        "name": "happy place",
+        "url": "https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 143197,
-      "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
-      "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
+      "duration_ms": 211648,
+      "name": "happy place",
+      "url": "https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -743,22 +739,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "happy place",
-        "url": "https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 211648,
-      "name": "happy place",
-      "url": "https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Milk and Honey",
         "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 210807,
       "name": "Milk and Honey",
       "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "leilo brenner (Spotify Studio It's Hits Recording)",
+        "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 143197,
+      "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
+      "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Silver Bead Eyes",
+        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
+      },
+      "artists": [
+        {
+          "name": "Resa Saffa Park",
+          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Every Part of Me",
+      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 161667,
       "name": "henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Silver Bead Eyes",
-        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
-      },
-      "artists": [
-        {
-          "name": "Resa Saffa Park",
-          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Every Part of Me",
-      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Revolve",
-        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
       "artists": [
         {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 209078,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Vendepunkt",
         "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 197529,
       "name": "P\u00e5 bes\u00f8k",
       "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Revolve",
+        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 209078,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Thunder in my heart (music from the series)",
-        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
       },
       "artists": [
         {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 169241,
-      "name": "Thunder in my heart (music from the series)",
-      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+      "duration_ms": 207186,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
         "name": "Glem meg, men jeg glemmer aldri",
         "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2025-03-06 23:00:27",
       "album": {
-        "name": "Nostalgia / Again It's On",
-        "url": "https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG"
-      },
-      "artists": [
-        {
-          "name": "\u00a1BangBang Watergun!",
-          "url": "https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "BusyBusyBusy",
-      "url": "https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
+    },
+    {
+      "added_at": "2025-03-06 23:00:27",
+      "album": {
+        "name": "Nostalgia / Again It's On",
+        "url": "https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG"
+      },
+      "artists": [
+        {
+          "name": "\u00a1BangBang Watergun!",
+          "url": "https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "BusyBusyBusy",
+      "url": "https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW"
     },
     {
       "added_at": "2025-03-06 23:00:27",
@@ -1455,22 +1471,6 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
-    },
-    {
-      "added_at": "2025-03-06 23:00:27",
-      "album": {
-        "name": "Woods",
-        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
     },
     {
       "added_at": "2025-03-06 23:00:27",

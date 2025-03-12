@@ -1,6 +1,6 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 39445,
+  "num_followers": 39438,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "El A\u00f1o Viejo",
-        "url": "https://open.spotify.com/album/71sqz38xfGvclndbAzc4Gc"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "El A\u00f1o Viejo",
+        "url": "https://open.spotify.com/album/71sqz38xfGvclndbAzc4Gc"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "La Fiesta de 'Pilito'",
+      "url": "https://open.spotify.com/track/1SHQcgo2PhZXaICEHholIC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
         "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Y Es F\u00e1cil!",
-        "url": "https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 279280,
-      "name": "Fin de Semana - Version Navide\u00f1a",
-      "url": "https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Mensaje De Navidad",
         "url": "https://open.spotify.com/album/2tyXtxPPV6YsX9HiOb1dSV"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+        "name": "Y Es F\u00e1cil!",
+        "url": "https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 235853,
-      "name": "La Fiesta de 'Pilito'",
-      "url": "https://open.spotify.com/track/1SHQcgo2PhZXaICEHholIC"
+      "duration_ms": 279280,
+      "name": "Fin de Semana - Version Navide\u00f1a",
+      "url": "https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -499,8 +499,8 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "It's Christmas Time! (Original Recordings)",
-        "url": "https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I"
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 228826,
-      "name": "Si No Me Dan de Beber Lloro",
-      "url": "https://open.spotify.com/track/5MCGrDquPJ8vV9dGJiIWNq"
+      "duration_ms": 235986,
+      "name": "Desenfunda",
+      "url": "https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -619,8 +619,8 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+        "name": "It's Christmas Time! (Original Recordings)",
+        "url": "https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Desenfunda",
-      "url": "https://open.spotify.com/track/74HY0BF0ZJ9Ebey62P1xw1"
+      "duration_ms": 228826,
+      "name": "Si No Me Dan de Beber Lloro",
+      "url": "https://open.spotify.com/track/5MCGrDquPJ8vV9dGJiIWNq"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Navidad En Las Antillas",
-        "url": "https://open.spotify.com/album/59gbexqT23ruDHkV1uy5qg"
-      },
-      "artists": [
-        {
-          "name": "Felix Del Rosario",
-          "url": "https://open.spotify.com/artist/4MhqOdhxf64xRZSTOB8RoE"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Cascabel",
-      "url": "https://open.spotify.com/track/1O2daHtwKYTOU2X7v92hZJ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Merenboom Navide\u00f1o",
         "url": "https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 292826,
       "name": "Navidad Sin Mi Madre",
       "url": "https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "Navidad En Las Antillas",
+        "url": "https://open.spotify.com/album/59gbexqT23ruDHkV1uy5qg"
+      },
+      "artists": [
+        {
+          "name": "Felix Del Rosario",
+          "url": "https://open.spotify.com/artist/4MhqOdhxf64xRZSTOB8RoE"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/1O2daHtwKYTOU2X7v92hZJ"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Tarjeta de Navidad III",
-        "url": "https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo"
+        "name": "Versos de Nuestra Cultura",
+        "url": "https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Nogueras",
+          "url": "https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D"
+        },
         {
           "name": "Ismael Miranda",
           "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 286226,
-      "name": "Tan Pronto Llegan los Reyes",
-      "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
+      "duration_ms": 230840,
+      "name": "Alegre Vengo Cantando",
+      "url": "https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Versos de Nuestra Cultura",
-        "url": "https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK"
+        "name": "Tarjeta de Navidad III",
+        "url": "https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo"
       },
       "artists": [
-        {
-          "name": "Jos\u00e9 Nogueras",
-          "url": "https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D"
-        },
         {
           "name": "Ismael Miranda",
           "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 230840,
-      "name": "Alegre Vengo Cantando",
-      "url": "https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu"
+      "duration_ms": 286226,
+      "name": "Tan Pronto Llegan los Reyes",
+      "url": "https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Fiesta en Navidad 35 Exitos",
-        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
-      },
-      "artists": [
-        {
-          "name": "Sol Caliente",
-          "url": "https://open.spotify.com/artist/1POX55DusR2weUbAm2JEMv"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "La Olla Navide\u00f1a",
-      "url": "https://open.spotify.com/track/3Y97hfTMjCPlXF4r2rUzQG"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Faltan 5 pa\u2019 las 12",
         "url": "https://open.spotify.com/album/3SThMaeZTQJxxJAKhpNMgl"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 208454,
       "name": "Faltan 5 pa\u2019 las 12",
       "url": "https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "Fiesta en Navidad 35 Exitos",
+        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
+      },
+      "artists": [
+        {
+          "name": "Sol Caliente",
+          "url": "https://open.spotify.com/artist/1POX55DusR2weUbAm2JEMv"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "La Olla Navide\u00f1a",
+      "url": "https://open.spotify.com/track/3Y97hfTMjCPlXF4r2rUzQG"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1472,22 +1472,6 @@
       },
       "artists": [
         {
-          "name": "Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
-        }
-      ],
-      "duration_ms": 362786,
-      "name": "Hay Mucha Alegria",
-      "url": "https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
-        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
-        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
-      },
-      "artists": [
-        {
           "name": "Darlyn y Los Herederos",
           "url": "https://open.spotify.com/artist/39XswCAVtjHfOcjH5OOEi3"
         }
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Merenboom Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2"
+        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
+        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
       },
       "artists": [
         {
-          "name": "Marcos Caminero",
-          "url": "https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS"
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
         }
       ],
-      "duration_ms": 278933,
-      "name": "Me Huele a Ron",
-      "url": "https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs"
+      "duration_ms": 362786,
+      "name": "Hay Mucha Alegria",
+      "url": "https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1547,6 +1531,22 @@
       "duration_ms": 236253,
       "name": "Mi Regalo Favorito",
       "url": "https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "Merenboom Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2"
+      },
+      "artists": [
+        {
+          "name": "Marcos Caminero",
+          "url": "https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS"
+        }
+      ],
+      "duration_ms": 278933,
+      "name": "Me Huele a Ron",
+      "url": "https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Rumb\u00f3n Navide\u00f1o",
-        "url": "https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Bomba De Navidad",
-      "url": "https://open.spotify.com/track/15FpekWI5k2GY5ikBYJmoG"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 209739,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "Rumb\u00f3n Navide\u00f1o",
+        "url": "https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Bomba De Navidad",
+      "url": "https://open.spotify.com/track/15FpekWI5k2GY5ikBYJmoG"
     },
     {
       "added_at": "2024-12-13 05:00:21",

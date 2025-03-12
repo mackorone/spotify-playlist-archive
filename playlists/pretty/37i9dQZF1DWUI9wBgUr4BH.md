@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,518 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,528 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 37 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 38 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 |
 | 39 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 40 | [J'aime tout chez toi \(Mr\. Sax Beat\)](https://open.spotify.com/track/3WDNzBd5I2V6LdIWjrelAL) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [FABYAN](https://open.spotify.com/artist/0q4kJe4YxNpszJIxq0BJEi) | [J'aime tout chez toi \(Mr\. Sax Beat\)](https://open.spotify.com/album/0DCFh9LSyJshpfA0Blg2RN) | 2:20 |
+| 40 | [J'aime tout chez toi \(Sax Beat\)](https://open.spotify.com/track/3WDNzBd5I2V6LdIWjrelAL) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [FABYAN](https://open.spotify.com/artist/0q4kJe4YxNpszJIxq0BJEi) | [J'aime tout chez toi \(Sax Beat\)](https://open.spotify.com/album/0DCFh9LSyJshpfA0Blg2RN) | 2:20 |
 
 Snapshot ID: `Z8opDQAAAAAInd1qe/fDdSy0t4IXZmXm`

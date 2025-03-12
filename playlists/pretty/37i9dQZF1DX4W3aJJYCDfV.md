@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lady Gaga, JENNIE, Nemzzz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,115 likes - 119 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,122 likes - 119 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [The End is the End](https://open.spotify.com/track/3NsMWGv6rvmKLkAlUziOjM) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [The End is the End](https://open.spotify.com/album/5OrlWAJ4CtHcIntGokFm2o) | 2:50 |
 | 100 | [More Money More Alcohol](https://open.spotify.com/track/14LS0ONdIBXDEdqqYU0ERG) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Daisey](https://open.spotify.com/artist/33RgwUk4J0QcTM56aF3dKg) | [More Money More Alcohol](https://open.spotify.com/album/2BYVCSnORXftuhG7NtiewF) | 2:08 |
 | 101 | [So High](https://open.spotify.com/track/3sP8eX1hnZs9rzJnKYcxE8) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU) | [So High](https://open.spotify.com/album/4g9sLhrwIfVnqxrxFkul4k) | 2:53 |
-| 102 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
+| 102 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
 | 103 | [Where Nobody Knows](https://open.spotify.com/track/4fzUXbg5iev2CqbmbzW3mg) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Where Nobody Knows](https://open.spotify.com/album/1tguKZ8ZjrYhOSTXmnsddd) | 2:55 |
 | 104 | [Higher](https://open.spotify.com/track/0WGHGwFnN1ddSBgixBzksf) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Higher](https://open.spotify.com/album/5x1EWK6HgHQ2tG6rqjDxGX) | 2:47 |
 | 105 | [Guess I Never Know](https://open.spotify.com/track/5Cud5KwxFPYWnxJhARH3Bt) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Guess I Never Know](https://open.spotify.com/album/4DTPGW8FzybAGJFY4PXJQ9) | 2:29 |

@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Tyranny",
+        "url": "https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155297,
+      "name": "Business Dog",
+      "url": "https://open.spotify.com/track/6hyDONyubATZ5eimv7ll62"
+    },
+    {
+      "album": {
         "name": "All The Leaves Are Brown The Golden Era Collection",
         "url": "https://open.spotify.com/album/6d9b6qTmzQ2WOOGB2cDCDq"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 385227,
       "name": "Dare I Care",
       "url": "https://open.spotify.com/track/3QFwqMCEkE5ZItQhMksIbB"

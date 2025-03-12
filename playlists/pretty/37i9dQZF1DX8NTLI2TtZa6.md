@@ -4,35 +4,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,438,817 likes - 208 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,006 likes - 208 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
 | 2 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
 | 3 | [Catching the Wind](https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k) | [Börn Visor](https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai) | [Catching the Wind](https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI) | 2:01 |
-| 4 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 |
-| 5 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 |
+| 4 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 |
+| 5 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 |
 | 6 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 |
 | 7 | [Skyward](https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Skyward](https://open.spotify.com/album/4vSY1jflRK7V4o13WC92f1) | 2:19 |
 | 8 | [Rewind](https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Rewind](https://open.spotify.com/album/33b3wSOh9CZ4oex91USFX1) | 2:26 |
-| 9 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
-| 10 | [Stratus](https://open.spotify.com/track/4alvTD1Zcf8beHgVaVzaL5) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Stratus](https://open.spotify.com/album/1mZs0ztiX0WaYTVeq2FsTv) | 2:14 |
-| 11 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
-| 12 | [Hernan's Battle](https://open.spotify.com/track/6NGYWqDGiDbf1O9C4bkoMI) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Hernan's Battle](https://open.spotify.com/album/7Mv3CARwjqFzm8YujrncB7) | 1:55 |
-| 13 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
-| 14 | [Waiting](https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Waiting](https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL) | 2:05 |
+| 9 | [Hernan's Battle](https://open.spotify.com/track/6NGYWqDGiDbf1O9C4bkoMI) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Hernan's Battle](https://open.spotify.com/album/7Mv3CARwjqFzm8YujrncB7) | 1:55 |
+| 10 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
+| 11 | [Stratus](https://open.spotify.com/track/4alvTD1Zcf8beHgVaVzaL5) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Stratus](https://open.spotify.com/album/1mZs0ztiX0WaYTVeq2FsTv) | 2:14 |
+| 12 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
+| 13 | [Waiting](https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Waiting](https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL) | 2:05 |
+| 14 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
 | 15 | [Hope Eternal](https://open.spotify.com/track/6GvQPlQorNwMFqDS3DkLbU) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Hope Eternal](https://open.spotify.com/album/4ROGSC2ytUc4aDKP2tyMOJ) | 2:48 |
 | 16 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 |
-| 17 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 |
-| 18 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
-| 19 | [wiser](https://open.spotify.com/track/08Pl5hHpZcYdeh1LvME7Tk) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [wiser](https://open.spotify.com/album/7iQrGXKP4T0N1c6wRfHU3L) | 2:30 |
-| 20 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
-| 21 | [Solitude](https://open.spotify.com/track/0wYhXfdHMChwBwEP8KFDqk) | [Christopher Somnus Brooks](https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v) | [Solitude](https://open.spotify.com/album/1NPTMlQPtfUfYWhtAPKgdv) | 3:03 |
-| 22 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 |
-| 23 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
-| 24 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
-| 25 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
+| 17 | [wiser](https://open.spotify.com/track/08Pl5hHpZcYdeh1LvME7Tk) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [wiser](https://open.spotify.com/album/7iQrGXKP4T0N1c6wRfHU3L) | 2:30 |
+| 18 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 |
+| 19 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
+| 20 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
+| 21 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
+| 22 | [Solitude](https://open.spotify.com/track/0wYhXfdHMChwBwEP8KFDqk) | [Christopher Somnus Brooks](https://open.spotify.com/artist/2IAikbE8ZfcZX1sUZeka5v) | [Solitude](https://open.spotify.com/album/1NPTMlQPtfUfYWhtAPKgdv) | 3:03 |
+| 23 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
+| 24 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 |
+| 25 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
 | 26 | [Resplendent](https://open.spotify.com/track/0MeQbzpMevEuSdp5oWXuRO) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Resplendent](https://open.spotify.com/album/4gMyqPbXXeFmQadOrKK6GN) | 2:33 |
 | 27 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 |
 | 28 | [Mornings](https://open.spotify.com/track/0fX0L4RnzpvrOyr4vvQtuS) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Mornings](https://open.spotify.com/album/6JlPldHRWwO1MXDMznRzBC) | 2:33 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 207 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 |
 | 208 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 |
 
-Snapshot ID: `Z8phSgAAAABbjZX1mCr0I0D7BxtdAxPW`
+Snapshot ID: `Z9BXsAAAAACUwad8vnt3imxGf3PYcPTn`

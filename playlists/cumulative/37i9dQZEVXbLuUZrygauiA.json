@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "111",
+      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/62YRVYO19Rv4ryKoqgMYtp"
       },
@@ -6644,7 +6662,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
@@ -7178,7 +7196,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 186612,
       "name": "Busy Woman",
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
@@ -8064,7 +8082,7 @@
           "url": "https://open.spotify.com/artist/37YoA3BQLcRRgx0CemeFjP"
         },
         {
-          "name": "Carmen Mar\u00eda",
+          "name": "CARMEN MAR\u00cdA",
           "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
         },
         {
@@ -8074,103 +8092,11 @@
         {
           "name": "Tere Estrada",
           "url": "https://open.spotify.com/artist/4ht6p70C3SAnR1tgQFxmCW"
-        },
-        {
-          "name": "Monilacantante",
-          "url": "https://open.spotify.com/artist/2qjVJvCma6qCu5CINMv1Bb"
-        },
-        {
-          "name": "Amaiah",
-          "url": "https://open.spotify.com/artist/0c72oTIXfwolsBc20PCGSe"
-        },
-        {
-          "name": "Ximena Mor",
-          "url": "https://open.spotify.com/artist/4Cfi7emniIJiX7bKZkrieK"
-        },
-        {
-          "name": "Ingrid L\u00f6w",
-          "url": "https://open.spotify.com/artist/2n6Jy76siB3grnsaTFyv5Q"
-        },
-        {
-          "name": "Alex Ellis",
-          "url": "https://open.spotify.com/artist/5HUjE4rNraqa7idur3NVfd"
-        },
-        {
-          "name": "Bere Contreras",
-          "url": "https://open.spotify.com/artist/05qmGKBqrRgDj0E2WicItk"
-        },
-        {
-          "name": "Holly Holden",
-          "url": "https://open.spotify.com/artist/27ZYuqwqO68730Xcf1bJcT"
-        },
-        {
-          "name": "Geo Equihua",
-          "url": "https://open.spotify.com/artist/4YDMCfgqZlhlrBpuoCPI5h"
-        },
-        {
-          "name": "Vero Ortiz",
-          "url": "https://open.spotify.com/artist/3DvQzDfU17SLGoSeXyvfrK"
-        },
-        {
-          "name": "Norley",
-          "url": "https://open.spotify.com/artist/4PjmKWNXPYJB9SSaExNndz"
-        },
-        {
-          "name": "Romina Guardino",
-          "url": "https://open.spotify.com/artist/5V0glNMXMMWDZhHAee8Y9V"
-        },
-        {
-          "name": "Mariela Josid",
-          "url": "https://open.spotify.com/artist/0eB1oeOzAgQlCPZIH58jXP"
-        },
-        {
-          "name": "Fernanda El\u00edo",
-          "url": "https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK"
-        },
-        {
-          "name": "Adryana Marroqu\u00edn",
-          "url": "https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh"
-        },
-        {
-          "name": "Maria Bernal",
-          "url": "https://open.spotify.com/artist/4b1FbId1PaWUVGCfES76E3"
-        },
-        {
-          "name": "Estefi Areas",
-          "url": "https://open.spotify.com/artist/7EqZFxEdMe49WUtbfHNlG3"
-        },
-        {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
-        },
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        },
-        {
-          "name": "Luc\u00eda Covarrubias",
-          "url": "https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1"
-        },
-        {
-          "name": "Sabina Odone",
-          "url": "https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj"
-        },
-        {
-          "name": "Lina Cano",
-          "url": "https://open.spotify.com/artist/41zshLe2JcF3kvtivlDdEd"
-        },
-        {
-          "name": "Sebasti\u00e1n Aracena",
-          "url": "https://open.spotify.com/artist/25on4tZzlBDnb2EIVKrDca"
-        },
-        {
-          "name": "Flora Pasquet",
-          "url": "https://open.spotify.com/artist/1tT82V7pcfKEnvlVcu2i2D"
         }
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 229146,
       "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n El Palomar",
       "url": "https://open.spotify.com/track/2rnARNiqqnVK8WnEQlXh1a"
@@ -8863,6 +8789,28 @@
     },
     {
       "album": {
+        "name": "Hasta Que Salga el Sol",
+        "url": "https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Chaparrita",
+      "url": "https://open.spotify.com/track/1OhT39hHs7Hi6sFNaIpcjJ"
+    },
+    {
+      "album": {
         "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -9224,6 +9172,24 @@
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "album": {
+        "name": "Chtm Dharia",
+        "url": "https://open.spotify.com/album/2r7Xv4LPGSjn2HccNah1bP"
+      },
+      "artists": [
+        {
+          "name": "MILLONARIO GOLDEN GANG",
+          "url": "https://open.spotify.com/artist/7d6ilUBLkxIsUzrVfbFMSA"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Chtm Dharia",
+      "url": "https://open.spotify.com/track/2yEdMshBN60TyMU7foO41G"
     },
     {
       "album": {
@@ -9906,6 +9872,28 @@
       "duration_ms": 212769,
       "name": "Como Arte De Magia",
       "url": "https://open.spotify.com/track/0p43aYLdcW7iE50pNrs9x1"
+    },
+    {
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165482,
+      "name": "COMO CAPO",
+      "url": "https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF"
     },
     {
       "album": {
@@ -12185,6 +12173,24 @@
     },
     {
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
+    },
+    {
+      "album": {
         "name": "PORTALS",
         "url": "https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp"
       },
@@ -13262,7 +13268,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 235146,
       "name": "dime",
       "url": "https://open.spotify.com/track/5RdLAbJ3dD1AM4DnYtBbgU"
@@ -14126,7 +14132,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 151787,
       "name": "Due\u00f1a De Mis Besos",
       "url": "https://open.spotify.com/track/22SjQwvk02AqkPuwQukDnZ"
@@ -17625,6 +17631,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1\u00e1ndote",
         "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
       },
@@ -17840,7 +17868,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 172686,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv"
@@ -19132,7 +19160,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -24310,7 +24338,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 160557,
       "name": "La Cuadrada",
       "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
@@ -25308,6 +25336,32 @@
       "duration_ms": 245826,
       "name": "La Planta",
       "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    {
+      "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
       "album": {
@@ -27016,7 +27070,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor"
@@ -30318,7 +30372,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 190876,
       "name": "Mi Primer D\u00eda Sin Ti",
       "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
@@ -33032,7 +33086,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 245029,
       "name": "Ni Todo el <3 Ni Toda la $",
       "url": "https://open.spotify.com/track/74ZyPLoMWSXH4RMPbVbJ2I"
@@ -34304,7 +34358,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 204631,
       "name": "Novio #2 (feat. Junior H)",
       "url": "https://open.spotify.com/track/5VbJcHkLvL9VnSgOYD5ppk"
@@ -39952,7 +40006,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
@@ -41038,6 +41092,24 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
     },
     {
       "album": {
@@ -42996,6 +43068,24 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "album": {
+        "name": "SEXTO SENTIDO",
+        "url": "https://open.spotify.com/album/6TATwrVPigKjX62kVaElpJ"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252192,
+      "name": "SEXTO SENTIDO",
+      "url": "https://open.spotify.com/track/3jS7jL99vwYIL1YyPOvaPS"
     },
     {
       "album": {
@@ -53927,6 +54017,28 @@
     },
     {
       "album": {
+        "name": "Ya No Te Hago Falta (Con Ed Maverick)",
+        "url": "https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Ya No Te Hago Falta (Con Ed Maverick)",
+      "url": "https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi"
+    },
+    {
+      "album": {
         "name": "Ya Pedo Qui\u00e9n Sabe",
         "url": "https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA"
       },
@@ -55058,6 +55170,32 @@
       "duration_ms": 253666,
       "name": "\u00c9rase una Bestia",
       "url": "https://open.spotify.com/track/270VediAPndHQJHQzJW9dw"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 16",
+        "url": "https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137406,
+      "name": "\u00d1ero Session 16",
+      "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"
     },
     {
       "album": {

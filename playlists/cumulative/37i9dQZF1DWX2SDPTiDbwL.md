@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-108 songs - 7 hr 5 min
+109 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Una Vida Pasada](https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG) | [Alex Airaldi](https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH) | [Una Vida Pasada](https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs) | 2:30 | 2024-10-23 |  |
 | [Verdiales](https://open.spotify.com/track/0itmNtj1Mb7WTrUDqnig1Y) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:07 | 2023-09-01 | 2024-04-19 |
 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 | 2024-04-05 |  |
+| [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 | 2025-03-11 |  |
 | [Zalameria](https://open.spotify.com/track/0mAAqY0KwhqlBgbhGbZfIM) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Flamenco](https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0) | 4:02 | 2023-09-01 | 2024-04-19 |
 | [Zalameria](https://open.spotify.com/track/45K8ITdp9WtMotc0BPnoJM) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Best of Flamenco](https://open.spotify.com/album/7CGCjZCpfPTQpw1TZTXrVF) | 4:02 | 2024-04-05 |  |
 

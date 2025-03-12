@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Dani Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,542 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,634 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PINELLI](https://open.spotify.com/track/5PB5TadVdpjkHqGdrL9n9C) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm) | [KLIRONOMOI TOU TIPOTA](https://open.spotify.com/album/0Hplr3f02tgaWxo6cdSzzU) | 3:16 |
+| 1 | [PINELLI](https://open.spotify.com/track/5PB5TadVdpjkHqGdrL9n9C) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm), [DJ Marvel](https://open.spotify.com/artist/4V0ywNkd8Ca96rMNhAem0G) | [KLIRONOMOI TOU TIPOTA](https://open.spotify.com/album/0Hplr3f02tgaWxo6cdSzzU) | 3:16 |
 | 2 | [GRISELDA](https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [GRISELDA](https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3) | 2:10 |
 | 3 | [FWTIA](https://open.spotify.com/track/49Nl81fFdiJEVLhhhaDLqC) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [FWTIA](https://open.spotify.com/album/1fB4wEiDkqDdJaTrKnNRKp) | 3:06 |
 | 4 | [DIEFTHINTIS](https://open.spotify.com/track/1R3ISkeACOnqpDDqsUV8tL) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [DIEFTHINTIS](https://open.spotify.com/album/2KLXS2kXMYkWpqwO6anvAb) | 2:21 |

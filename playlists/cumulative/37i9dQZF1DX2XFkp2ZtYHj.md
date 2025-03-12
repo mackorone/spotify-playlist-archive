@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-270 songs - 11 hr 27 min
+273 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 | 2023-10-18 |  |
 | [Blessedness](https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Blessedness](https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M) | 2:33 | 2024-02-21 |  |
 | [Blinded by the light](https://open.spotify.com/track/5ZADutZI6cNNyeYcSAiGbb) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Blinded by the light](https://open.spotify.com/album/2C8D0P6qH28RM0icHOaWI2) | 2:55 | 2023-10-18 |  |
+| [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 | 2025-03-11 |  |
 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 | 2024-05-01 |  |
 | [Calm Waves](https://open.spotify.com/track/2eN6gy29Emm7MRbQrcJs7d) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Calm Waves](https://open.spotify.com/album/0ZDf5tT8xNOjb7NkdQB8lH) | 2:36 | 2023-10-18 | 2024-12-14 |
 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 | 2023-10-18 |  |
@@ -97,6 +98,7 @@
 | [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 | 2025-01-07 |  |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-10-18 |  |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-18 |  |
+| [Finding Light](https://open.spotify.com/track/4Vacrvcwb9t1suLPgAptil) | [Magnus Sakamura](https://open.spotify.com/artist/6YyKxlVhFcuyUVfKutRtQr) | [Finding Light](https://open.spotify.com/album/2S9UXnSMlmV6HkMkEcKwGn) | 2:33 | 2025-03-11 |  |
 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 | 2025-02-19 |  |
 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 | 2023-10-18 | 2024-09-25 |
 | [Flourish](https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Flourish](https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp) | 2:31 | 2023-10-18 | 2024-10-02 |
@@ -153,6 +155,7 @@
 | [Lightly](https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Lightly](https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2) | 2:07 | 2024-10-21 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-05 |  |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-10-18 | 2024-09-11 |
+| [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longing for You](https://open.spotify.com/track/33CNA3gUX4HkShLA3ILNjs) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Longing for You](https://open.spotify.com/album/2v6a6jspsycdaJvdydLgRE) | 2:18 | 2023-10-18 | 2024-10-09 |
 | [Looseleft](https://open.spotify.com/track/36TroPa4PgkiGIKPk3nKsM) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Looseleft](https://open.spotify.com/album/61w2XTrZbHL70AnfX5tzQp) | 2:37 | 2023-10-18 |  |
 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-11-08 |  |

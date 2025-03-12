@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Azevedo",
-  "num_followers": 132683,
+  "num_followers": 132675,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,30 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
+        "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        }
+      ],
+      "duration_ms": 152408,
+      "name": "Bloquinho",
+      "url": "https://open.spotify.com/track/1FLFQBah9xsUn13FtYkBLM"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
         "name": "Replay - Spotify Singles",
         "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 224680,
       "name": "Bag",
       "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
-        "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
-        "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        }
-      ],
-      "duration_ms": 152408,
-      "name": "Bloquinho",
-      "url": "https://open.spotify.com/track/1FLFQBah9xsUn13FtYkBLM"
     },
     {
       "added_at": "2025-03-07 03:01:21",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-03-07 03:01:21",
       "album": {
-        "name": "Pool Party (REMIX)",
-        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
-      },
-      "artists": [
-        {
-          "name": "Elic\u00ea",
-          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
-        },
-        {
-          "name": "maiarealplug",
-          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
-        }
-      ],
-      "duration_ms": 113428,
-      "name": "Pool Party - REMIX",
-      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
-    },
-    {
-      "added_at": "2025-03-07 03:01:21",
-      "album": {
         "name": "Remessa Estrangeira (Remix)",
         "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 117125,
       "name": "Remessa Estrangeira - Remix",
       "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
+    },
+    {
+      "added_at": "2025-03-07 03:01:21",
+      "album": {
+        "name": "Pool Party (REMIX)",
+        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
+      },
+      "artists": [
+        {
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        }
+      ],
+      "duration_ms": 113428,
+      "name": "Pool Party - REMIX",
+      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
     },
     {
       "added_at": "2025-03-07 03:01:21",

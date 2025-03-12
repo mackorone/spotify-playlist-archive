@@ -304,6 +304,24 @@
     {
       "album": {
         "name": "herdbound",
+        "url": "https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283276,
+      "name": "antler crimes",
+      "url": "https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF"
+    },
+    {
+      "album": {
+        "name": "herdbound",
         "url": "https://open.spotify.com/album/0cQBvrHqCGFkET8ODs57rF"
       },
       "artists": [

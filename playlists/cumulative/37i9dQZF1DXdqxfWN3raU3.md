@@ -2,7 +2,7 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B hecho en español\. ROAen portada.
+> Disfruta del más fino R&B hecho en español\. ROA en portada.
 
 495 songs - 1 day 1 hr 51 min
 

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Gioia Lucia
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,248 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,249 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flusso](https://open.spotify.com/track/35eCAKBukwrWdvcg7YQl5N) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Flusso](https://open.spotify.com/album/1POv74KnVw1ReEoLf3S6Kx) | 2:46 |
-| 2 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 |
-| 3 | [la strada di casa](https://open.spotify.com/track/43BhzPfWupBmbGPg2R4ymU) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [non diresti mai!](https://open.spotify.com/album/19mWruC4eKTvFLi6hgKHYl) | 4:19 |
+| 2 | [Beauty Star](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
+| 3 | [Nevermind](https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Questa casa è un albergo](https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz) | 3:09 |
 | 4 | [cose belle](https://open.spotify.com/track/6jTtUdLjUUACP0IBX3w3YF) | [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [Chi prende la colpa](https://open.spotify.com/album/0vf2aYrvGJu8pvvSG1Qm0c) | 2:39 |
-| 5 | [Che Guevara](https://open.spotify.com/track/1oEp2BlXfAjlgDG5tHHMjs) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Che Guevara](https://open.spotify.com/album/6nNYs8poSdcok9kB4BGk7P) | 3:04 |
-| 6 | [Spettinata](https://open.spotify.com/track/1CqYmTqECAYUFAW5mJmi8Z) | [Caterina Cropelli](https://open.spotify.com/artist/1mUMqioy6FDiySzSouMSwp) | [Spettinata](https://open.spotify.com/album/4a1r5X5N4Lc5CpEAGHNhTZ) | 2:34 |
-| 7 | [Sad Spring](https://open.spotify.com/track/4d79nmblCcbDg7KLJuNn1U) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [I Heard She Lost You](https://open.spotify.com/album/5LULoyPi664WcvkhyKVw5K) | 2:59 |
-| 8 | [Riconoscimi](https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Riconoscimi](https://open.spotify.com/album/2JgbFbgWYuo0JXD005nmGf) | 2:19 |
-| 9 | [Seia](https://open.spotify.com/track/6WAhQ3jjp09O82E9phHVwo) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Seia](https://open.spotify.com/album/3WAoNWDrL6pc5B9H7vAjOX) | 4:52 |
-| 10 | [Nevermind](https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Questa casa è un albergo](https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz) | 3:09 |
-| 11 | [IO VOLEVO](https://open.spotify.com/track/5YWf3XfMbWdcd3eQqwjcTW) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [IO VOLEVO](https://open.spotify.com/album/7gXxccDicstPL11QGub92e) | 2:53 |
-| 12 | [Beauty Star](https://open.spotify.com/track/3C7il7dWDBrw98S67rSyBg) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Beauty Star](https://open.spotify.com/album/7JYCPIrgcjGoEFdyfyxV7Z) | 4:00 |
-| 13 | [sempre liberi](https://open.spotify.com/track/5ml3dL7vWDHBU2Ui5a417S) | [abe](https://open.spotify.com/artist/2Nx6E3HhgDLmXgm0hI2AWB) | [sempre liberi / tbilisi](https://open.spotify.com/album/0y35QDOFxxgDyfdfadzXGn) | 3:49 |
-| 14 | [COWBOY](https://open.spotify.com/track/7qThYAPD8ETGjXTFJR3nXn) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [COWBOY](https://open.spotify.com/album/07VYHePkAxRp8x8vZTQ6rU) | 2:47 |
+| 5 | [Riconoscimi](https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Riconoscimi](https://open.spotify.com/album/2JgbFbgWYuo0JXD005nmGf) | 2:19 |
+| 6 | [la strada di casa](https://open.spotify.com/track/43BhzPfWupBmbGPg2R4ymU) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [non diresti mai!](https://open.spotify.com/album/19mWruC4eKTvFLi6hgKHYl) | 4:19 |
+| 7 | [sempre liberi](https://open.spotify.com/track/5ml3dL7vWDHBU2Ui5a417S) | [abe](https://open.spotify.com/artist/2Nx6E3HhgDLmXgm0hI2AWB) | [sempre liberi / tbilisi](https://open.spotify.com/album/0y35QDOFxxgDyfdfadzXGn) | 3:49 |
+| 8 | [COWBOY](https://open.spotify.com/track/7qThYAPD8ETGjXTFJR3nXn) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [COWBOY](https://open.spotify.com/album/07VYHePkAxRp8x8vZTQ6rU) | 2:47 |
+| 9 | [Che Guevara](https://open.spotify.com/track/1oEp2BlXfAjlgDG5tHHMjs) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Che Guevara](https://open.spotify.com/album/6nNYs8poSdcok9kB4BGk7P) | 3:04 |
+| 10 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 |
+| 11 | [Spettinata](https://open.spotify.com/track/1CqYmTqECAYUFAW5mJmi8Z) | [Caterina Cropelli](https://open.spotify.com/artist/1mUMqioy6FDiySzSouMSwp) | [Spettinata](https://open.spotify.com/album/4a1r5X5N4Lc5CpEAGHNhTZ) | 2:34 |
+| 12 | [Sad Spring](https://open.spotify.com/track/4d79nmblCcbDg7KLJuNn1U) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [I Heard She Lost You](https://open.spotify.com/album/5LULoyPi664WcvkhyKVw5K) | 2:59 |
+| 13 | [Seia](https://open.spotify.com/track/6WAhQ3jjp09O82E9phHVwo) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Seia](https://open.spotify.com/album/3WAoNWDrL6pc5B9H7vAjOX) | 4:52 |
+| 14 | [IO VOLEVO](https://open.spotify.com/track/5YWf3XfMbWdcd3eQqwjcTW) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [IO VOLEVO](https://open.spotify.com/album/7gXxccDicstPL11QGub92e) | 2:53 |
 | 15 | [Happy Hippo](https://open.spotify.com/track/33qibdjvytZpG20lfOCA78) | [I Sentinelle](https://open.spotify.com/artist/1BITu6YeNG6WCgJHxU80sa) | [MDB Vol.1](https://open.spotify.com/album/65Wv7rBWExkguiAOrT7Oaz) | 1:26 |
 | 16 | [Mamma](https://open.spotify.com/track/0faHOvwtU5PW0MQcoaF2LW) | [Cassio](https://open.spotify.com/artist/0qleVzECe71FXoOGrP0Myq), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A) | [Mamma](https://open.spotify.com/album/4UfffRHWUcnTekUof4dQcd) | 3:10 |
 | 17 | [occhi a mezzaluna](https://open.spotify.com/track/0uwX28JZbKra69UegHlxdH) | [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [steee](https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL) | [occhi a mezzaluna](https://open.spotify.com/album/7s1rvLsBEvGEgZlDimdWzn) | 2:39 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [hey distanza](https://open.spotify.com/track/2OhnAUtEU0KJ0nKKYjQpGG) | [CORHA](https://open.spotify.com/artist/5vL17EWSXeyQwrTGcRU4JZ) | [hey distanza](https://open.spotify.com/album/2iM7BZN2gMFgUdom21bWuE) | 2:23 |
 | 105 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 
-Snapshot ID: `Z8qtpAAAAABUa4YTqoKlsigpFSXOl45A`
+Snapshot ID: `Z9BjPgAAAAD9P/Dx2hhVa9095YXIgKNE`

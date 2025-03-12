@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-480 songs - 1 day 0 hr 7 min
+484 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Affixton](https://open.spotify.com/track/68rRajL5huefSNvCY11m4Q) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Affixton](https://open.spotify.com/album/1ihZnrW9u32Ukr8iZgVIOU) | 3:01 | 2024-06-10 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-25 | 2024-09-06 |
 | [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 | 2022-10-21 | 2024-08-03 |
+| [Aftermath](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Aftermath](https://open.spotify.com/album/53tixewrtqDSq5qlHCZYCG) | 2:34 | 2025-03-11 |  |
 | [Agate](https://open.spotify.com/track/1aeXvYRS4XkrZG2VUSzIHU) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Agate](https://open.spotify.com/album/1TciqbDhTG30SJUAefAv7V) | 3:21 | 2024-04-04 |  |
 | [Ajna](https://open.spotify.com/track/2K5oZahJ4iSqs4LaXeCjtx) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:29 | 2022-09-30 | 2023-08-12 |
 | [Alice the Flower](https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Alice the Flower](https://open.spotify.com/album/74RgcJ4hG1XLutWvM51Ssf) | 3:13 | 2024-12-19 |  |
@@ -106,6 +107,7 @@
 | [Deep Healing](https://open.spotify.com/track/7gcBSI6Mct6bp2rmjauJ4B) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Aura](https://open.spotify.com/album/0bG13HkZaKd6TtaWe9yDru) | 3:09 | 2022-05-25 | 2022-09-28 |
 | [Designed](https://open.spotify.com/track/3eLLRRVnTQ41O6f6Eb2aU0) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Designed](https://open.spotify.com/album/4VvgNYp59dwTd4lvzRcQTW) | 3:05 | 2024-09-05 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-05-25 | 2022-09-28 |
+| [Desolate Moon](https://open.spotify.com/track/0NHBsBfpK4fOZ76OX7TeLv) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Desolate Moon](https://open.spotify.com/album/0gzaamILvQISQMVqRMmhs5) | 2:24 | 2025-03-11 |  |
 | [Determination](https://open.spotify.com/track/0IthIgkcnDg9SQ4KV3EOcE) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 3:21 | 2022-05-25 | 2024-07-20 |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2022-05-25 | 2024-09-19 |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2022-05-25 | 2023-03-18 |
@@ -151,8 +153,10 @@
 | [Exhale](https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Exhale](https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN) | 2:58 | 2024-11-18 |  |
 | [Expansion](https://open.spotify.com/track/0daa1LEWIpYflspezKU3XF) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Expansion](https://open.spotify.com/album/1nnzI4GKBWurFE9LkAjtj9) | 2:08 | 2024-06-10 |  |
 | [Exploration](https://open.spotify.com/track/4N3WUjJMQEWB9SkZLck6IW) | [Photoautotroph](https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg) | [Exploration](https://open.spotify.com/album/6eDjNXJHgE6tEhO2SpJZ1F) | 2:53 | 2024-06-10 |  |
+| [Exploratory](https://open.spotify.com/track/4FHSM0CZKWlcUwSHSDG88H) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Exploratory](https://open.spotify.com/album/5tOkB96eCPsdgDqkIM54zX) | 3:22 | 2025-03-11 |  |
 | [Explorer](https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 3:03 | 2022-12-30 | 2024-08-22 |
 | [Fading Out](https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Integrating](https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi) | 4:07 | 2022-05-25 | 2023-04-07 |
+| [Fallen](https://open.spotify.com/track/4Yk5Dw2b44ZJOop8UyRMyw) | [Saturne Dream](https://open.spotify.com/artist/0aSCZIW8e9qISJlw3YYtuS) | [Fallen](https://open.spotify.com/album/1dvz9ZQxrSshFQ5za7xpnc) | 2:41 | 2025-03-11 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-05-25 | 2022-09-28 |
 | [Fantasia Suave](https://open.spotify.com/track/1XeEpMLnB0dwTo1XAqiqbr) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:15 | 2022-05-25 | 2022-09-28 |
 | [Fantasy Rose](https://open.spotify.com/track/4sA5k1J1JG1CSdFcAnlDKm) | [Calm Lecce](https://open.spotify.com/artist/0CAwGUfZRUjr3HZHOpqSkz) | [Sleepy Game](https://open.spotify.com/album/1eO0MT1eCOMz2jsYBALHEs) | 4:00 | 2022-12-06 |  |

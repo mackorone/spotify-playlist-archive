@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Javier Bátiz por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,995 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,084 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 95 | [Matando Gueros](https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mantando Gueros](https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76) | 2:23 |
 | 96 | [Paquita Disco](https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Rock Milenium](https://open.spotify.com/album/2AusEMAvDewcPfe635W38x) | 2:47 |
 | 97 | [Cuando Pase el Temblor \- Versión Sinfónico \[En Vivo\]](https://open.spotify.com/track/5VIRFG7jnzr8tElckFwgtA) | [Sabo Romo](https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M), [Bon](https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO), [Roberto Casas Torres](https://open.spotify.com/artist/5UDBBukBCBMrBKjrOhjyuN), [Neon](https://open.spotify.com/artist/47UqGCZS8g1V6ZnFKAkK0A), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ), [Ritmo Peligroso](https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d), [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N), [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U), [Cala \(Rostros Ocultos\)](https://open.spotify.com/artist/2pTuStgL0ImeVhEweOPu50) | [Rock en Tu Idioma Sinfónico](https://open.spotify.com/album/3ayan86yMHukQACm3V7T6J) | 4:02 |
-| 98 | [Babel](https://open.spotify.com/track/6yQBYwuxv3NPERnSuzdcRb) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [Babel](https://open.spotify.com/album/3l1cQGtnmRxVgTRh8YxHnb) | 4:56 |
-| 99 | [Sobre Natural](https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Sobre Natural](https://open.spotify.com/album/4plALexvYJjioZhfvh47PA) | 3:25 |
+| 98 | [Sobre Natural](https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Sobre Natural](https://open.spotify.com/album/4plALexvYJjioZhfvh47PA) | 3:25 |
+| 99 | [Babel](https://open.spotify.com/track/6yQBYwuxv3NPERnSuzdcRb) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [Babel](https://open.spotify.com/album/3l1cQGtnmRxVgTRh8YxHnb) | 4:56 |
 | 100 | [Don Quijote Marihuana](https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Don Quijote Marihuana](https://open.spotify.com/album/291EdpOOlMU2htCxHirMuJ) | 4:41 |
 
 Snapshot ID: `Z2CwewAAAACgy/JBhsKiWcAUQUl26ztp`

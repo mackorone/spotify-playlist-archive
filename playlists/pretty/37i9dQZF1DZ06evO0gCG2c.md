@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,388 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,417 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 48 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 | 49 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
 | 50 | [Get Buck In Here](https://open.spotify.com/track/5zN3VFmNhdOKxRElarvVq5) | [DJ Felli Fel](https://open.spotify.com/artist/7sHWvTWufU865WrWckjyE0), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Buck In Here](https://open.spotify.com/album/03nq6Xfwd4y9HP9e1vEB94) | 3:49 |
-| 51 | [That's Right \(feat\. Akon\) \- Explicit Album Version](https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Last 2 Walk](https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn) | 2:56 |
 
 Snapshot ID: `Z8zaAAAAAADVITTdZuH4MTs1XpK2n0+Z`

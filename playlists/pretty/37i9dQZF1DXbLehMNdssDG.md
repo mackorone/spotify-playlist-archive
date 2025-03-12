@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,383 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,448 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 14 | [528 Hz Mindfulness](https://open.spotify.com/track/67zLFjnzqQ7UppDq1HXczR) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [528 Hz Positive Transformation](https://open.spotify.com/album/19xQ3Y3XrQz88UeM1lfe1d) | 1:36 |
 | 15 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
 | 16 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
-| 17 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 |
+| 17 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 |
 | 18 | [Wealth & Abundance Affirmations V](https://open.spotify.com/track/6fxQ4rWM61VA2qMlV6WHS6) | [Conscious Evolution](https://open.spotify.com/artist/3MK0kIDFuny7zZdLdVdCiS) | [Affirmations for Wealth & Abundance](https://open.spotify.com/album/15uDVru4nXzmJHYRilgN2P) | 2:34 |
-| 19 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 |
+| 19 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 |
 | 20 | [528 Hz \- Why The Rush](https://open.spotify.com/track/1mTiTdeoUoB3kXEqv2aXNH) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |
 | 21 | [Affirmations to Immediately Activate Your Inner Power](https://open.spotify.com/track/4LaSJQ7jNWtrEyN7eMmLjO) | [Elita Purcill](https://open.spotify.com/artist/6Y8kwsG8fmuhZV9TAqRDkr) | [Affirmations to Immediately Activate Your Inner Power](https://open.spotify.com/album/0T74waW8QttKPaiQQOJM3U) | 9:18 |
 | 22 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 |

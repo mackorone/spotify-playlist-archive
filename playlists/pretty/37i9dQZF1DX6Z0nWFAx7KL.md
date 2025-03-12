@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,415 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,419 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 47 | [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 |
 | 48 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 |
 | 49 | [Calling Back](https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f) | [Calling Back](https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm) | 5:05 |
-| 50 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |
+| 50 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
 | 51 | [Safe and Sound](https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Safe and Sound](https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq) | 3:34 |
-| 52 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
+| 52 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |
 | 53 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 |
 | 54 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
 | 55 | [Touch The Sun](https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ) | [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z) | [Touch The Sun](https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8) | 2:25 |
 | 56 | [Stranger Things](https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u) | [Alex Ender](https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d), [Salta](https://open.spotify.com/artist/4Ql5qCCcg77zqCEHwq9xlj) | [Stranger Things](https://open.spotify.com/album/45J2ukiJfU3WrFz01sBgk1) | 2:16 |
 | 57 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 |
-| 58 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 |
-| 59 | [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 |
+| 58 | [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 |
+| 59 | [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 |
 | 60 | [Nomads](https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Nomads](https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI) | 3:49 |
 
 Snapshot ID: `Z8opDwAAAACzedaDLPaVv3wPx7fx1aVx`

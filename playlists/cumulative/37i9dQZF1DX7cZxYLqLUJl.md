@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-149 songs - 6 hr 30 min
+150 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 | 2024-09-09 |  |
 | [between the mountains](https://open.spotify.com/track/3KHHLDvKIovW4yrZOQOuNq) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [between the mountains](https://open.spotify.com/album/17Kjig77c1myRfRdmEoPnC) | 1:55 | 2024-09-24 |  |
 | [Blossom](https://open.spotify.com/track/3DFYPYOE6jFAFESDNNPinu) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Blossom](https://open.spotify.com/album/3ta3NvHbPjI3CL4DmMHFTk) | 2:24 | 2021-04-21 |  |
+| [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 | 2025-03-11 |  |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2021-04-21 | 2024-10-01 |
 | [Certain Days](https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Certain Days](https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244) | 2:18 | 2023-03-22 |  |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-11 | 2025-03-05 |
@@ -41,7 +42,7 @@
 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 | 2021-04-21 |  |
 | [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2021-04-21 | 2024-09-10 |
 | [Dinant](https://open.spotify.com/track/6OMDq58l1Aj0NfutF14Kcq) | [Willa Jacobs](https://open.spotify.com/artist/3kC9ly7aDuSfEPXmPIemvc) | [Dinant](https://open.spotify.com/album/2KaWMPt1cekOlzNy3H47fG) | 2:11 | 2021-04-21 |  |
-| [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2021-04-21 |  |
+| [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2021-04-21 | 2025-03-12 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2021-04-21 |  |
 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 | 2024-07-16 |  |
 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 | 2025-03-04 |  |
@@ -77,7 +78,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2021-04-21 |  |
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2021-04-21 |  |
 | [Les rêveries élusives](https://open.spotify.com/track/57lP0TxQtO4lsBqSEbDOgw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Les rêveries élusives](https://open.spotify.com/album/0MMT4isaDPBPS4i0eLw4wC) | 2:23 | 2024-11-25 |  |
-| [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2021-04-21 |  |
+| [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2021-04-21 | 2025-03-12 |
 | [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 | 2022-03-18 | 2022-11-13 |
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-04-21 | 2024-10-01 |
 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-03-18 | 2024-04-19 |
@@ -109,7 +110,7 @@
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2021-04-21 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2021-04-21 |  |
 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |
-| [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-04-21 |  |
+| [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-04-21 | 2025-03-12 |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2021-04-21 |  |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-04-05 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-04-21 | 2024-12-04 |
@@ -151,11 +152,11 @@
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2021-04-21 | 2024-10-01 |
 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-11 |  |
 | [Waves](https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL) | [Oscar Unfiltered](https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ) | [Waves](https://open.spotify.com/album/1othuB5lIGVpjNe7OUvzln) | 2:07 | 2021-04-21 |  |
-| [We Contain Multitudes \(from home\)](https://open.spotify.com/track/13MOQ6oQqkrZEDkZOHukCw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes \(from home\)](https://open.spotify.com/album/6s61oZwe1dZuqBFi1pPo09) | 3:10 | 2021-04-21 |  |
+| [We Contain Multitudes \(from home\)](https://open.spotify.com/track/13MOQ6oQqkrZEDkZOHukCw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes \(from home\)](https://open.spotify.com/album/6s61oZwe1dZuqBFi1pPo09) | 3:10 | 2021-04-21 | 2025-03-12 |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2021-04-21 |  |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2021-04-21 | 2022-03-18 |
 | [Wunder](https://open.spotify.com/track/119a8rsOkvUFXPwpVCQUPW) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Wunder](https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E) | 2:56 | 2021-04-21 | 2024-11-19 |
-| [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2021-04-21 |  |
+| [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2021-04-21 | 2025-03-12 |
 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 | 2024-09-02 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

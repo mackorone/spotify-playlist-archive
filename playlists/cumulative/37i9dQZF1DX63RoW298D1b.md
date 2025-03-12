@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-209 songs - 8 hr 49 min
+210 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-04 |  |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-05-09 |  |
 | [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
+| [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longing](https://open.spotify.com/track/7jL00x2jA5kyTuaqqf8PYq) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Echoes of Home](https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu) | 2:22 | 2023-12-12 |  |
 | [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-23 |  |
 | [Lumina](https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Lumina](https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh) | 2:10 | 2024-04-22 |  |

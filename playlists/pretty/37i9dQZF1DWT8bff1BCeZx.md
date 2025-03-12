@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,175 likes - 172 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,186 likes - 172 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 24 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
 | 25 | [Complete](https://open.spotify.com/track/7ih3md1gzytB7Am1fpUhAV) | [Noble City](https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [RTD.](https://open.spotify.com/artist/0Day07zi4FVtyo0HHX1ca5) | [Complete](https://open.spotify.com/album/6JnZlBIDOCmJrw8twxyIK0) | 2:54 |
 | 26 | [THANK YOU FOR BEING GOD](https://open.spotify.com/track/5vkYr5LARcSmBeBe72XoQH) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [THANK YOU FOR BEING GOD](https://open.spotify.com/album/5DxuuH3I49aT4DoQsfLFqQ) | 3:15 |
-| 27 | [Pikin](https://open.spotify.com/track/7wjHOyfgQrCQ7gL6wCjVZ1) | [Cee Sharp](https://open.spotify.com/artist/4klUyv1VdiNhMDlWXoZpSN), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Pikin](https://open.spotify.com/album/7brZZaR4KsfgB73LTczcd8) | 3:08 |
+| 27 | [Pikin](https://open.spotify.com/track/7wjHOyfgQrCQ7gL6wCjVZ1) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Pikin](https://open.spotify.com/album/7brZZaR4KsfgB73LTczcd8) | 3:08 |
 | 28 | [O Sure Ju](https://open.spotify.com/track/7FLo06amGY4ewrHUj0r5w0) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Pastor Korede Komaiya \(KK\)](https://open.spotify.com/artist/5RmNOMRj7cK1fBtH5HmePX) | [O Sure Ju](https://open.spotify.com/album/4VJlh9UEgp5Kclv2AwqTYE) | 4:00 |
 | 29 | [Gba Jesu](https://open.spotify.com/track/7MDMV5Pnu6SVWzVJa2UxuX) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Gba Jesu](https://open.spotify.com/album/53AWo7Q3b3LRmk8Eob6Dgp) | 2:12 |
 | 30 | [IWONIMONI](https://open.spotify.com/track/1eWCj6tf5rulAU3Bda6k6r) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Iyanu](https://open.spotify.com/artist/1jrTBeeYNErdJP4TmhUicj) | [IWONIMONI](https://open.spotify.com/album/46h9sdhGIZ7JUNtS0Ayquj) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sedef Sebüktekin, Sıla, Lady Gaga ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,485 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,487 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 8 | [Modern İnsanlarız](https://open.spotify.com/track/6kEMFpocQgnUC8MXd6rc35) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Modern İnsanlarız](https://open.spotify.com/album/558LMka02jpf9BWupdd0aU) | 3:28 |
 | 9 | [Saygımdan](https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Saygımdan](https://open.spotify.com/album/6DwNrHS0A2WjDU4qJwpBjh) | 4:11 |
 | 10 | [her akşam](https://open.spotify.com/track/6GOFC6SOfyj12aBVIomYUw) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [her akşam](https://open.spotify.com/album/2AMlaOUt2HzbHLGx9953jn) | 3:54 |
-| 11 | [Mirrmirr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 |
+| 11 | [Mırrmırr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 |
 | 12 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
 | 13 | [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 |
 | 14 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 37 | [Açıklarda Bir Kara](https://open.spotify.com/track/4I5NJVpbMUa50jeRDObCMJ) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Açıklarda Bir Kara](https://open.spotify.com/album/30wEQnC52g72y208JK6R4P) | 2:56 |
 | 38 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 |
 | 39 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
-| 40 | [MAN NO PLAY](https://open.spotify.com/track/13ES79bWkkolWsJ2e2Std6) | [Marc Moon](https://open.spotify.com/artist/5aNf0HKLlBgL7YozE3Khwr), [Kumzy Pegasus](https://open.spotify.com/artist/35XE5oO7IOKOhJ7s7ZWXgu), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [MAN NO PLAY](https://open.spotify.com/album/2MvPSszdsS13is5HxHqojZ) | 3:19 |
+| 40 | [MAN NO PLAY](https://open.spotify.com/track/13ES79bWkkolWsJ2e2Std6) | [Marc Moon](https://open.spotify.com/artist/5aNf0HKLlBgL7YozE3Khwr), [Kumzy Pegasus](https://open.spotify.com/artist/5iGLVsZ1D4lfzmmrlfz16Y), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [MAN NO PLAY](https://open.spotify.com/album/2MvPSszdsS13is5HxHqojZ) | 3:19 |
 | 41 | [Dilber \- Yıllar Sonra: Hümeyra](https://open.spotify.com/track/7v9GgUhZWxcXSosuuXe6DZ) | [Ayşegül Aldinç](https://open.spotify.com/artist/1pHd2SEhBRbA7RmMlaxT6v) | [Dilber \(Yıllar Sonra: Hümeyra\)](https://open.spotify.com/album/4BBG9MS1TtL7EOVnBoEhFe) | 2:47 |
 | 42 | [Seni düşündüm diye](https://open.spotify.com/track/2lkkjeDyQr9ULixbVVNC7r) | [K''st](https://open.spotify.com/artist/4x19qDNFXvWQnudUjs0XOE) | [Seni düşündüm diye](https://open.spotify.com/album/4wDu9tGcFXaatomkzMWDMp) | 2:50 |
 | 43 | [İnadına](https://open.spotify.com/track/3kcDsYl9LHwgi0c0YlmcfH) | [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1) | [İnadına](https://open.spotify.com/album/70XqMVNOGC1rjXsO2yCP0A) | 2:29 |

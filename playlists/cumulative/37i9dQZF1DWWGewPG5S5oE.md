@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 上原ひろみ
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山本剛
 
-393 songs - 1 day 7 hr 36 min
+395 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy) | 5:22 | 2022-12-20 | 2023-06-07 |
 | [Airglow](https://open.spotify.com/track/1WHyKUgbL0sYfYUzEMHcRE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Airglow](https://open.spotify.com/album/26lelYm40Oyf5nWeACqsjN) | 3:25 | 2025-03-04 |  |
 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 | 2024-05-28 | 2024-12-18 |
+| [Alice in Wonderland](https://open.spotify.com/track/4DC3UVUPIfrnYMa3Y6Nq8i) | [山本剛トリオ](https://open.spotify.com/artist/7MKLY7dosHjgkkHXRGwCvY), [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [REQUESTS](https://open.spotify.com/album/5yygVC8GBO62YTt9HF6fpx) | 7:46 | 2025-03-11 |  |
 | [All I Want](https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [All I Want](https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY) | 4:54 | 2022-10-11 | 2022-11-16 |
 | [All in your palms](https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [All in your palms](https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW) | 4:04 | 2024-09-17 |  |
 | [All The Things You Are](https://open.spotify.com/track/1HObIEY8XDGgNjSTGJxMV0) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [All The Things You Are](https://open.spotify.com/album/3XLtciMbAUrvX4EiFwcCe9) | 2:35 | 2022-10-04 | 2022-10-19 |
@@ -240,7 +241,7 @@
 | [REMEDY](https://open.spotify.com/track/7zIf3lvb2jqsyRWPX5IO4A) | [otoshik](https://open.spotify.com/artist/1L8gpoL5UFZvoQXkda0uXu) | [REMEDY](https://open.spotify.com/album/0o0mNGUywrcMgBGzmxAXd5) | 5:52 | 2025-01-21 |  |
 | [resketch](https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [resketch](https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf) | 3:43 | 2023-06-13 | 2023-08-02 |
 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 | 2023-07-04 | 2023-08-24 |
-| [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 | 2023-06-27 |  |
+| [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 | 2023-06-27 | 2025-03-12 |
 | [Rhapsody in Summer](https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/2niNBQtovVrAXXS4hixZhU) | 4:18 | 2023-06-27 | 2023-10-18 |
 | [Run&Gun](https://open.spotify.com/track/0BouwM0LLXksQIeoNxHUbr) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Run&Gun](https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT) | 3:00 | 2022-12-20 | 2023-01-18 |
 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 | 2023-04-25 | 2024-02-07 |
@@ -316,6 +317,7 @@
 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 | 2022-09-06 | 2022-09-15 |
 | [UHOPE](https://open.spotify.com/track/1xUJg0XOmAN7u0Y2YAu7St) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [UHOPE](https://open.spotify.com/album/7q9hNKpqQbGXDeRWkwCmlZ) | 4:23 | 2022-12-20 | 2023-01-25 |
 | [Un Poco Loco](https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Un Poco Loco](https://open.spotify.com/album/11ulHNjlgRjdpi8gASI1XA) | 4:25 | 2024-10-01 | 2024-10-23 |
+| [URAH](https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [URAH](https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h) | 3:43 | 2025-03-11 |  |
 | [Veb](https://open.spotify.com/track/0W6nAyQD0qsxEWIOheMyzg) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [Budding](https://open.spotify.com/album/3slPLtQUaccyXUbEYH1wbw) | 3:19 | 2024-08-20 | 2024-09-18 |
 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 | 2023-07-25 | 2023-11-22 |
 | [Vision](https://open.spotify.com/track/0dUFkwImsvlSNATlHTSFwG) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Vision](https://open.spotify.com/album/7sHGvHR8nzcuMZC32eW92v) | 4:27 | 2024-01-23 | 2024-02-14 |

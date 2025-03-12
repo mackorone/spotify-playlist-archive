@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,730 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,731 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 41 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
 | 42 | [Red White & Blue](https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Red White & Blue](https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj) | 2:47 |
 | 43 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
-| 44 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 |
-| 45 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 |
+| 44 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 |
+| 45 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 |
 | 46 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 |
-| 47 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 |
-| 48 | [Changing Waters](https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Changing Waters](https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX) | 3:25 |
-| 49 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 |
+| 47 | [Changing Waters](https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Changing Waters](https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX) | 3:25 |
+| 48 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 |
+| 49 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 |
 | 50 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 |
 
 Snapshot ID: `Z8DujwAAAACEGfL6beqKY2WiDIZbuYpX`

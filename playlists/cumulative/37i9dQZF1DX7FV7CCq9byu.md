@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-618 songs - 1 day 7 hr 32 min
+619 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-17 | 2024-10-25 |
 | [Empire](https://open.spotify.com/track/7fvEYq4YuLOmijzd38CPlV) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue](https://open.spotify.com/album/5PaINdUpmQ34V0zbg26xlj) | 3:04 | 2024-10-24 | 2025-01-10 |
 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-27 | 2024-08-16 |
+| [En flaska till](https://open.spotify.com/track/6QuHLahPd6De8TtGtW9D2y) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [En flaska till](https://open.spotify.com/album/2MHICOGVSWA5zDJaqz2YO8) | 3:30 | 2025-03-11 |  |
 | [En kväll i tunnelbanan](https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [En kväll i tunnelbanan](https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN) | 3:04 | 2024-10-24 | 2025-01-10 |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-22 | 2024-10-25 |
 | [Enchanté](https://open.spotify.com/track/66vfNUxzjkBu4O9fq1rRCW) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Enchanté](https://open.spotify.com/album/0SR2RaR4C3zlQ4TilhIfr0) | 2:55 | 2024-06-27 | 2024-07-27 |

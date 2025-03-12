@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,681 likes - 183 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,732 likes - 183 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,28 +16,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 6 | [Dalmine](https://open.spotify.com/track/57udUUmrolC21iP6xtgNBU) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Dalmine](https://open.spotify.com/album/3w9eG1VgFL5YM6GLJvTsoC) | 3:27 |
 | 7 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 |
 | 8 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
-| 9 | [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 |
-| 10 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
-| 11 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
-| 12 | [Elv Tana](https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Elv Tana](https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO) | 2:36 |
-| 13 | [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 |
-| 14 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 |
-| 15 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
-| 16 | [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 |
-| 17 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
+| 9 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
+| 10 | [Elv Tana](https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Elv Tana](https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO) | 2:36 |
+| 11 | [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 |
+| 12 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
+| 13 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
+| 14 | [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 |
+| 15 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
+| 16 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 |
+| 17 | [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 |
 | 18 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 19 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 |
 | 20 | [Clairvoyant](https://open.spotify.com/track/5Rs9YwzmyOSuwwWZAmgS4B) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Clairvoyant](https://open.spotify.com/album/6EK6OV6MInIWpaAF6RUO1w) | 2:13 |
 | 21 | [Cycles](https://open.spotify.com/track/1S2ObwwQukup4WAsXYw2tB) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Cycles](https://open.spotify.com/album/6FdgR2ulFNIedtlYNiqg9N) | 2:08 |
 | 22 | [Come Closer](https://open.spotify.com/track/4YhkT8T70gKq8jREW2MRfV) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Come Closer](https://open.spotify.com/album/0WDnbyZgbX8euTOrgnv4ya) | 2:38 |
 | 23 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 |
-| 24 | [To The Shore](https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s) | [Mac Paleblom](https://open.spotify.com/artist/6SlV6zCpTuBMGfNtN5bzWp) | [To The Shore](https://open.spotify.com/album/6He8b2xrFacLbfk0xkIz44) | 2:29 |
-| 25 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
+| 24 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
+| 25 | [The Hours](https://open.spotify.com/track/6bYGhTbFthmRHBW8EhQlu8) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [The Hours](https://open.spotify.com/album/41iE4Pnzzultzes25KwRho) | 2:19 |
 | 26 | [Tenderness](https://open.spotify.com/track/4bIpvx1sHj3yIFRpPQ4XAu) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Tenderness](https://open.spotify.com/album/5eYAFoTBGNJAaxoFnK45ZZ) | 1:59 |
 | 27 | [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 |
 | 28 | [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 |
 | 29 | [At Sundown](https://open.spotify.com/track/5duh4g8aryQeHKd1GMvu2H) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [At Sundown](https://open.spotify.com/album/4a959CZK3XoUMEOASsiL8N) | 2:02 |
-| 30 | [The Hours](https://open.spotify.com/track/6bYGhTbFthmRHBW8EhQlu8) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [The Hours](https://open.spotify.com/album/41iE4Pnzzultzes25KwRho) | 2:19 |
+| 30 | [To The Shore](https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s) | [Mac Paleblom](https://open.spotify.com/artist/6SlV6zCpTuBMGfNtN5bzWp) | [To The Shore](https://open.spotify.com/album/6He8b2xrFacLbfk0xkIz44) | 2:29 |
 | 31 | [Northern Lights](https://open.spotify.com/track/3SfSpapi3quB0T6dl2I5DL) | [Lorenzo Barella](https://open.spotify.com/artist/0237mryhZoZL7C2i64qaNF) | [Northern Lights](https://open.spotify.com/album/5ndLtsrDQVbRBX2HgKK7rJ) | 2:28 |
 | 32 | [Jasmine Dreams](https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Jasmine Dreams](https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj) | 3:10 |
 | 33 | [Sérénité](https://open.spotify.com/track/3BRf8a39rGKSSBp7AmqclQ) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Sérénité](https://open.spotify.com/album/0RcyNjfoHSNHmMqRpo2RW6) | 2:34 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 182 | [Lebensecht](https://open.spotify.com/track/2TZetlpje1UuPbMU2heuMR) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Lebensecht](https://open.spotify.com/album/1fG6rd3TUUUkCzYKJiAORx) | 2:23 |
 | 183 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 |
 
-Snapshot ID: `Z8pvUgAAAAAquNLSy0eUuGsFQpiYS53D`
+Snapshot ID: `Z9AWGAAAAABi2M/Q7I2QdnH+gSUc/Ult`

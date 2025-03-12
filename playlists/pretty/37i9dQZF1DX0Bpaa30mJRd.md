@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 一夜限りのスペシャルアレンジでお届けした<a href="https://www.sonymusic.co.jp/artist/SoundTrackInt/info/552938">「スタジオ地図シネマティックオーケストラ2022」</a>をライブ収録したアルバムが発売！スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,759 likes - 111 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,776 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

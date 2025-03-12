@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-868 songs - 3 day 3 hr 41 min
+869 songs - 3 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,7 @@
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
 | [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-06-14 | 2024-08-31 |
 | [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 | 2024-09-27 | 2025-03-01 |
-| [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-02 |  |
+| [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-02 | 2025-03-12 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-24 | 2023-07-16 |
 | [Shadow](https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Shadow](https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO) | 3:16 | 2024-11-29 |  |
 | [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-08-23 | 2025-01-19 |
@@ -841,6 +841,7 @@
 | [Warrior](https://open.spotify.com/track/4MxV7MwM5eUBwRW9PCcabQ) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [PRYDA 15 VOL I](https://open.spotify.com/album/2MSprf6584peQvdVMWAEMt) | 8:23 | 2021-04-21 | 2022-04-21 |
 | [Warrior Dance](https://open.spotify.com/track/5ksVu18bAda5YJ0Rq6kjz4) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jojo Abot](https://open.spotify.com/artist/7yR9zhQxEi9sc3vJxS2YG5) | [Warrior Dance](https://open.spotify.com/album/5cQboNPGY7gR5ztTn39pop) | 4:14 | 2025-02-28 |  |
 | [WASSER \- Kotiēr Remix](https://open.spotify.com/track/7MJw7fF5sLfQFot1HhJVC6) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [WASSER \(Kotiēr Remix\)](https://open.spotify.com/album/2qXRFONJS6HobiaSQ7D0Z9) | 6:30 | 2024-11-08 |  |
+| [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:39 | 2025-03-07 |  |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-10-13 |
 | [Waves of the Soul](https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5) | 3:32 | 2022-07-01 | 2023-06-24 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-29 | 2022-07-29 |

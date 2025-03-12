@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,887 likes - 28 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,891 likes - 28 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

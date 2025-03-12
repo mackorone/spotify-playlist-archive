@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: GELO, GloRilla\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,951 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,948 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 5 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
 | 6 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 7 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
-| 8 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
+| 8 | [Mandingo](https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Mandingo](https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19) | 4:28 |
 | 9 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 | 10 | [WORTH SOMETHING \(feat\. Big Sean & Skilla Baby\)](https://open.spotify.com/track/4h5lvpabFcgDiBwKSqQ0x8) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [UNDEFEATED \- EP](https://open.spotify.com/album/0CLVJq9JGSbGABvSbWR09Z) | 3:47 |
 | 11 | [WMD](https://open.spotify.com/track/2k5G6xONJZBcbgX90qABqX) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 2:53 |

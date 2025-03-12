@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,006 likes - 66 songs - 3 hr 46 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,008 likes - 66 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 27 | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H) | 3:32 |
 | 28 | [Coge El Paso](https://open.spotify.com/track/7IUGkB1cmE78vv9wlYtfER) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DERON](https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J), [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Coge El Paso](https://open.spotify.com/album/4okzussR5U0O0WqBM50BIH) | 2:28 |
 | 29 | [Godspeed \- Hybrid 7”](https://open.spotify.com/track/0B684hjnvjjTc9eAggjudI) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Hybrid](https://open.spotify.com/artist/2MYN7OKnlCiZ0wrwp2A1ox) | [Godspeed](https://open.spotify.com/album/3atWOgrMA7tuJLuDpYR3bX) | 4:00 |
-| 30 | [Without You](https://open.spotify.com/track/3L8HKcxuiSlp9bq4eICFtX) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Rayne](https://open.spotify.com/artist/7B2RC094gmUJaYAr9IeFbD) | [Without You](https://open.spotify.com/album/2klkZ6GOnrY33b4dQgzVSq) | 2:42 |
+| 30 | [Without You](https://open.spotify.com/track/3L8HKcxuiSlp9bq4eICFtX) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Rayne](https://open.spotify.com/artist/5NTlBDnKnnLqc8YiYr7rp8) | [Without You](https://open.spotify.com/album/2klkZ6GOnrY33b4dQgzVSq) | 2:42 |
 | 31 | [NRG Potion](https://open.spotify.com/track/4FPZkXU25zQDHLrTIpk6jp) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [NRG Potion](https://open.spotify.com/album/6dzMG6rUfgpGLqRkq1YDiS) | 3:56 |
 | 32 | [Lake Days](https://open.spotify.com/track/3gh6yg10AYHT8901rNDF90) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Greater Days Ahead](https://open.spotify.com/album/2ab49UtEWYSun8baohiq6s) | 3:40 |
 | 33 | [By My Side \- Aldor Remix](https://open.spotify.com/track/2el69Y1bhfWi7RVDa2EGb7) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Aldor](https://open.spotify.com/artist/2prRkk6DdBRZ8QbDQdslE4) | [RMXEP1](https://open.spotify.com/album/1x1LuPCxkRBMUfUBjfICKm) | 3:52 |

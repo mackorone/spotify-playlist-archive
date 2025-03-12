@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,341 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,352 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 40 | [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 |
 | 41 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 |
 | 42 | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 |
-| 43 | [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 |
-| 44 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
+| 43 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
+| 44 | [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 |
 | 45 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 |
 | 46 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
 | 47 | [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 |

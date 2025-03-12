@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105049,
+  "num_followers": 105042,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -379,18 +379,22 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 156582,
-      "name": "Sorry I'm Here For Someone Else",
-      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -431,22 +435,18 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "Sweet Dreams (feat. Miguel)",
-        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 172952,
-      "name": "Sweet Dreams (feat. Miguel)",
-      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 133885,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -863,6 +863,26 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL"
       },
@@ -915,26 +935,6 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
         "name": "EUSEXUA",
         "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
+        "name": "Lost Your Faith",
+        "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Lost Your Faith",
+      "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
         "name": "Love Is A Stillness",
         "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "Lost Your Faith",
-        "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Lost Your Faith",
-      "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -1003,22 +1019,6 @@
       "duration_ms": 187593,
       "name": "PUSH 2 START - REMIX",
       "url": "https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
+        "name": "Let It Talk To Me",
+        "url": "https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 156033,
+      "name": "Let It Talk To Me",
+      "url": "https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
         "name": "AFTERCARE DELUXE",
         "url": "https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53"
       },
@@ -1227,6 +1247,22 @@
       "duration_ms": 196640,
       "name": "AMERICAN BEAUTY",
       "url": "https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -1251,42 +1287,6 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "Let It Talk To Me",
-        "url": "https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 156033,
-      "name": "Let It Talk To Me",
-      "url": "https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
-        "name": "20 Years From Now",
-        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
         }
       ],
-      "duration_ms": 174735,
-      "name": "Love Worth Saving",
-      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
+      "duration_ms": 191359,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -1347,6 +1351,38 @@
     {
       "added_at": "2025-03-07 10:13:08",
       "album": {
+        "name": "20 Years From Now",
+        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Love Worth Saving",
+      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
+        "name": "By a Monster\u2019s Hand",
+        "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "By a Monster\u2019s Hand",
+      "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
+    },
+    {
+      "added_at": "2025-03-07 10:13:08",
+      "album": {
         "name": "SIKKE EN TYPE",
         "url": "https://open.spotify.com/album/2YxkCdNRwEA0F2O2oNfhU1"
       },
@@ -1363,26 +1399,6 @@
       "duration_ms": 139842,
       "name": "SIKKE EN TYPE",
       "url": "https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
     },
     {
       "added_at": "2025-03-07 10:13:08",
@@ -1419,22 +1435,6 @@
       "duration_ms": 192818,
       "name": "How I Love You",
       "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
-    },
-    {
-      "added_at": "2025-03-07 10:13:08",
-      "album": {
-        "name": "By a Monster\u2019s Hand",
-        "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "By a Monster\u2019s Hand",
-      "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
     }
   ],
   "unique_name": "De nye",

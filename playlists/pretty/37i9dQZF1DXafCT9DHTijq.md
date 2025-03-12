@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,767 likes - 58 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,753 likes - 58 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 10 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
 | 11 | [Lullaby Variation](https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Crimson Peak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM) | 1:41 |
 | 12 | [The Exorcist: Main Theme: Tubular Bells](https://open.spotify.com/track/3ZzJMjqypHG6hn7SqtMUKc) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [The Exorcist: Main Theme: Tubular Bells](https://open.spotify.com/album/69QzpucwLGZth7srwmGyqB) | 2:38 |
-| 13 | [Main Title/John Williams/Jaws \- From The "Jaws" Soundtrack](https://open.spotify.com/track/55xly70WJY1cx5qsoogaqs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QeYHaWTTPvgu2wqKCPlUc) | 2:20 |
+| 13 | [Main Title \(Theme From Jaws\) \- From "Jaws"](https://open.spotify.com/track/55xly70WJY1cx5qsoogaqs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QeYHaWTTPvgu2wqKCPlUc) | 2:20 |
 | 14 | [Welcome To The Addams Family](https://open.spotify.com/track/655IlK9f17wH6UMzIL8cLe) | [Mychael Danna & Jeff Danna](https://open.spotify.com/artist/6T3M3x01dQbAr6XXlNVOlq) | [The Addams Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42gNmvl1nDLFdZh6nEA7KS) | 1:19 |
 | 15 | [Overture](https://open.spotify.com/track/10PSnO8GhuWrzDqwrphgkH) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC), [Saya Hashino](https://open.spotify.com/artist/1koWdRu5rSdDOg3me1SHhz), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [Frank Strobel](https://open.spotify.com/artist/64nR5LwShrqA2MH1G4fwzl) | [Young: Nosferatu \- A Symphony of Horror: Overture](https://open.spotify.com/album/6iIGxVe69xjg7sHmeiYrUc) | 3:54 |
 | 16 | [Romeo and Juliet, Op\. 64, Act I: Dance of the Knights](https://open.spotify.com/track/4Fh72Bog0nlUUK8ygiBIg1) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Ukraine National Symphony Orchestra](https://open.spotify.com/artist/0yqwhapWYzRkT5u7fcI5Ai), [Andrew Mogrelia](https://open.spotify.com/artist/7JQlNkPQ2EwNuzjnFia9DO) | [Prokofiev: Romeo and Juliet \(Complete\)](https://open.spotify.com/album/4AN8pkYEKGOFXQKJhLpmgS) | 5:50 |

@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "The Light Upon Me",
+        "url": "https://open.spotify.com/album/2j594o5l0dNGk1GPIKKftA"
+      },
+      "artists": [
+        {
+          "name": "George Agate",
+          "url": "https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129563,
+      "name": "The Light Upon Me",
+      "url": "https://open.spotify.com/track/6YghDmxhRBWyWFNyG8P150"
+    },
+    {
+      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/5s6K2oITckimGYikjGR5yX"
       },

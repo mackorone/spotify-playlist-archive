@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Dasha
 
-205 songs - 11 hr 13 min
+206 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 | 2024-12-06 |  |
 | [Town Home](https://open.spotify.com/track/3oYzZC4WuE9Ymqcp91cGzk) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Town Home](https://open.spotify.com/album/6Ae78T9dyCD5uWCTmqRCwQ) | 2:50 | 2021-12-03 | 2022-07-16 |
 | [Turn Up On the Weekend](https://open.spotify.com/track/2AEzMPR01sg1wsXurYrgDx) | [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf), [Big Wet](https://open.spotify.com/artist/0VmYHEoxeMIcKpW4Ts7Lro) | [Turn Up On the Weekend](https://open.spotify.com/album/1NvsjYIhRGCBY02pAtAl5i) | 3:19 | 2021-12-03 | 2022-09-15 |
+| [Vice](https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:00 | 2025-03-11 |  |
 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 | 2022-07-25 | 2024-04-19 |
 | [Villain](https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/3qdprgT9HXDTzav58XtZpN) | 2:56 | 2021-12-03 |  |
 | [Villain](https://open.spotify.com/track/79OIzp6GB4Sxxc0xT9tuhp) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain \(Band Mix\)](https://open.spotify.com/album/38VSXqjAXGkhWqtadwzeOd) | 2:56 | 2022-10-11 | 2022-11-13 |

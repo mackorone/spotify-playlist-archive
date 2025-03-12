@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,197 likes - 33 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,784 likes - 33 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 2 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
-| 3 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
-| 4 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 |
-| 5 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 |
-| 6 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
+| 1 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
+| 2 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
+| 3 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
+| 4 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 |
+| 5 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
+| 6 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 |
 | 7 | [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 |
 | 8 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 |
 | 9 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 13 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 |
 | 14 | [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 |
 | 15 | [Laika Party](https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Laika Party](https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX) | 3:00 |
-| 16 | [Deslocado](https://open.spotify.com/track/6QlygEHWgXDeAwDtzksA5b) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:59 |
+| 16 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
 | 17 | [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 |
 | 18 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 | 19 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 32 | [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/06NQCNZajDFb15rJLcotRc) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:57 |
 | 33 | [Dobrodošli](https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli](https://open.spotify.com/album/32mNiQZWRZPliemdjkO3tZ) | 3:00 |
 
-Snapshot ID: `Z87JGwAAAACi+OwPGyIYl5Q/uA/m86SX`
+Snapshot ID: `Z9AcfgAAAAAnKJq2lCfkk9RpZQfda3Qf`

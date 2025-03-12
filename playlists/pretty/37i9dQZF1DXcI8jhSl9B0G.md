@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,807 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,806 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 39 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 40 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
 | 41 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
-| 42 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 |
-| 43 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
-| 44 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
+| 42 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
+| 43 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
+| 44 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 |
 | 45 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 46 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 |
 | 47 | [Go, Try, Fall](https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Dawn Sounds](https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2) | 3:19 |
 | 48 | [Midnight Moon](https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:43 |
 | 49 | [The Winner Takes It All](https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [The Winner Takes It All](https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU) | 5:19 |
 | 50 | [Standing Still](https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:57 |
-| 51 | [Where'd You Go](https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Where'd You Go](https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq) | 3:39 |
-| 52 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 |
+| 51 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 |
+| 52 | [Where'd You Go](https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Where'd You Go](https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq) | 3:39 |
 | 53 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 |
 | 54 | [The Breach](https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach, A Vast Decade](https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH) | 4:17 |
 | 55 | [Lonely \(feat\. Gena Rose Bruce\)](https://open.spotify.com/track/0MJY00jHH62MhIpEB4BTPf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Gena Rose Bruce](https://open.spotify.com/artist/1SrmRPI6a5cIabFYZZiorA) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 3:42 |

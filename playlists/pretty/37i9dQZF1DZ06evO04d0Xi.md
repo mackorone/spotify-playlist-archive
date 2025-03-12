@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,073 likes - 51 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,078 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 48 | [Santo \(Holy\)](https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:44 |
 | 49 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17) | 4:35 |
 | 50 | [Há Muito Mais \- Ao Vivo](https://open.spotify.com/track/6W4iAMbZCXSG4ixmZG1A5b) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Paulo Figueiró](https://open.spotify.com/artist/78jkf2tGpyXw7OSnCrIFPz), [Lígia Rosana Borba](https://open.spotify.com/artist/1ehwaCFeyMExOtwC2kjs2F), [Christie Tristão](https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P), [Massao Sughihara](https://open.spotify.com/artist/4WFSZj3tmRuxnh1PxZha4c), [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Carmélia Tonin](https://open.spotify.com/artist/1D395OIHUKfTf3PUjwqzN9), [DANIEL DE SOUZA](https://open.spotify.com/artist/1uHg6TlW57YOJQS04ffj7e), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Gerson Ortega](https://open.spotify.com/artist/6HY61ZWvyi9VDNTvB6ydTo), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [André Borba](https://open.spotify.com/artist/6EtZBYi9o5tLMHcYCUBC05), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Sóst](https://open.spotify.com/artist/3sDHlT1fgAbyE3GmknrDGZ), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 4:10 |
-| 51 | [Tua Glória](https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Meu Bem Maior](https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae) | 3:38 |
 
 Snapshot ID: `Z8zaAAAAAAArBGzUjqvb6U3KTbLqdYrD`

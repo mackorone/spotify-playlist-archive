@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-798 songs - 1 day 10 hr 34 min
+799 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 | 2023-03-07 |  |
 | [Logos](https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc) | 3:31 | 2021-12-07 | 2022-08-10 |
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2021-12-07 | 2022-09-13 |
+| [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-22 |  |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2021-12-07 | 2024-02-15 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2021-12-07 | 2023-01-28 |

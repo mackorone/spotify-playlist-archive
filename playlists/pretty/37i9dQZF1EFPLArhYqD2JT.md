@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 380 songs - 19 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,433 likes - 380 songs - 19 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,8 +286,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 276 | [Marie From Sunny Italy](https://open.spotify.com/track/0u2fnDc0e2hOumgDkdBjUs) | [Irving Berlin, Music Director: Mike Nicholson](https://open.spotify.com/artist/4JcCkwMvQSzDt6qvPDX9e5) | [Timeless Songbooks: Irving Berlin Vol\. 1](https://open.spotify.com/album/2dpz3jrqOcv5M7JEmH7pYM) | 1:07 |
 | 277 | [You're so Beautiful](https://open.spotify.com/track/0UIzvQ69fdgCcgLQbikwMR) | [Clark Kinkade](https://open.spotify.com/artist/6AYvsa57rciOcUJhOjU2IP), [Keith Anderson](https://open.spotify.com/artist/23ZvRmOzjptyDsn4c4UfbA) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:25 |
 | 278 | [Man sagt, Verliebtsein das wäre wundervoll](https://open.spotify.com/track/7jcs5EUjaezWJzYt3Lp1hU) | [Heidi Brühl](https://open.spotify.com/artist/7rctdm3Mx6mTUuoQukPzHM), [Robert Trehy](https://open.spotify.com/artist/5sxU6m332dEBLyJ4NiCJsy) | [Annie Get Your Gun \- Annie schieß los! \(Original Cast Recording\)](https://open.spotify.com/album/0vLkn3WJedOLAgkzEJSwlM) | 4:22 |
-| 279 | [Do It Again](https://open.spotify.com/track/1WuhepiHDOsDm7Hf0D6snT) | [Charito](https://open.spotify.com/artist/0ZWtQBauMP0DbAQ5noKZXF) | [American Gold Standards 〜 Charito meets Tamir Hendelman 〜](https://open.spotify.com/album/59oucWVpcDayKtTGKXb9LX) | 5:25 |
-| 280 | [The Haunted House](https://open.spotify.com/track/0UAcB0JEstADg6aT7TfdjH) | [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE), [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:04 |
+| 279 | [The Haunted House](https://open.spotify.com/track/0UAcB0JEstADg6aT7TfdjH) | [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE), [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:04 |
+| 280 | [Do It Again](https://open.spotify.com/track/1WuhepiHDOsDm7Hf0D6snT) | [Charito](https://open.spotify.com/artist/0ZWtQBauMP0DbAQ5noKZXF) | [American Gold Standards 〜 Charito meets Tamir Hendelman 〜](https://open.spotify.com/album/59oucWVpcDayKtTGKXb9LX) | 5:25 |
 | 281 | [On the Avenue](https://open.spotify.com/track/0u7UgMUozKWy90L4ndcAKO) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Irving Berlin](https://open.spotify.com/album/2SDRpgeExbbsEXGC9hibtJ) | 1:48 |
 | 282 | [Man Bites Dog](https://open.spotify.com/track/7dl0TrA4CUG4W595PiJGuH) | ['As Thousands Cheer: The Hit Musical Comedy Revue!' 1998 New York Revival Cast](https://open.spotify.com/artist/5Lt9AkGuzKxaqVItWFWZGa) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 2:04 |
 | 283 | [Do You Believe Your Eyes, Or, Do You Believe Your Baby?](https://open.spotify.com/track/2zp3gfQfJlHS3HwsiIsEPb) | [Judy Malloy](https://open.spotify.com/artist/4uLOGwWRbq9WpVizJUN5zy), [Gregory Jbara](https://open.spotify.com/artist/3V7bU25iHeBDiEpWMovxrl), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:03 |
@@ -389,4 +389,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 379 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 380 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AbrtiAAAAABspmUSeQmYVvWQrmm3X5+x`
+Snapshot ID: `AbrzKAAAAABQAeEE2GbIwzKwrjDCR8PQ`

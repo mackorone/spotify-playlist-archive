@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=NO2OWkluRhe\_OoxLcWAfOA>Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,531 likes - 158 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,543 likes - 158 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 4 | [Fast And Pray](https://open.spotify.com/track/4FFo1LEm7omfaPEFpodoGK) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Fast And Pray](https://open.spotify.com/album/5aw4n54VorXh91eSwrZ281) | 2:42 |
 | 5 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 |
 | 6 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
-| 7 | [Pikin](https://open.spotify.com/track/7wjHOyfgQrCQ7gL6wCjVZ1) | [Cee Sharp](https://open.spotify.com/artist/4klUyv1VdiNhMDlWXoZpSN), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Pikin](https://open.spotify.com/album/7brZZaR4KsfgB73LTczcd8) | 3:08 |
+| 7 | [Pikin](https://open.spotify.com/track/7wjHOyfgQrCQ7gL6wCjVZ1) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Pikin](https://open.spotify.com/album/7brZZaR4KsfgB73LTczcd8) | 3:08 |
 | 8 | [Agaracha](https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:57 |
 | 9 | [Oluwa](https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Oluwa](https://open.spotify.com/album/4DJaOvhJfTkmZaMHLaihRz) | 2:55 |
 | 10 | [Opinions](https://open.spotify.com/track/15VxsRNr42N3IgJCLkGMQR) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Opinions](https://open.spotify.com/album/0AVpXpicxq7cl81eZtJahB) | 2:20 |

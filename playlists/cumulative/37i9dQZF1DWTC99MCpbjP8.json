@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Aging",
+        "url": "https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg"
+      },
+      "artists": [
+        {
+          "name": "Matteus Fortini",
+          "url": "https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139642,
+      "name": "Aging",
+      "url": "https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD"
+    },
+    {
+      "album": {
         "name": "Agonize",
         "url": "https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS"
       },

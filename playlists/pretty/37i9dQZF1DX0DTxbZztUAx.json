@@ -1,13 +1,33 @@
 {
   "description": "Survival takes everything. Listen to the music from Beauty in Black, now streaming on Netflix. ",
-  "num_followers": 10762,
+  "num_followers": 10851,
   "original_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8u1lAAAAAAN4otDf6HunT6iiKTTDD8D",
+  "snapshot_id": "Z9CxEgAAAABRRP3jM5BhCweiR7CCXQlF",
   "tracks": [
+    {
+      "added_at": "2025-03-11 21:54:26",
+      "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/6GXXBvb2XqnmpzZfzTlrAw"
+      },
+      "artists": [
+        {
+          "name": "RKSTR",
+          "url": "https://open.spotify.com/artist/1ABFXTXGpwfuCnghJoTktq"
+        },
+        {
+          "name": "Gizzle",
+          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/0KcvEKZsZTGHVzUmaGaHvw"
+    },
     {
       "added_at": "2025-03-06 08:00:28",
       "album": {

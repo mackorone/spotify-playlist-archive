@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Boldy James",
-  "num_followers": 1592490,
+  "num_followers": 1592491,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-03-07 04:00:22",
       "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
+    },
+    {
+      "added_at": "2025-03-07 04:00:22",
+      "album": {
         "name": "Armani Section",
         "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 180731,
       "name": "Armani Section",
       "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
-    },
-    {
-      "added_at": "2025-03-07 04:00:22",
-      "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Palaces",
-      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
     },
     {
       "added_at": "2025-03-07 04:00:22",

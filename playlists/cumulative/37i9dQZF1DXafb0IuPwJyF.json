@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: HANA",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u85e4\u4e95 \u98a8",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -11856,6 +11856,28 @@
       "duration_ms": 217924,
       "name": "Rouge feat. Taichi Mukai",
       "url": "https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7"
+    },
+    {
+      "album": {
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        },
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "Rouge540 (feat. Kohjiya)",
+      "url": "https://open.spotify.com/track/2CW9hvXcfr7R0oxjB5VIaJ"
     },
     {
       "album": {
@@ -24172,7 +24194,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 202535,
       "name": "\u611b\u3068U",
       "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"

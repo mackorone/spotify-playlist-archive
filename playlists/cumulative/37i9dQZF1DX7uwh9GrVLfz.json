@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30cb\u30fc\u30cf\u30aa!!!!",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: yutori",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 164313,
       "name": "HAPPY BIRTHDAY",
       "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Hate",
       "url": "https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn"
@@ -7696,7 +7696,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 197200,
       "name": "SCUM DOGS FART",
       "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
@@ -9016,7 +9016,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 203035,
       "name": "Takatsuki",
       "url": "https://open.spotify.com/track/50Aujeorhvlr5BhLqmirF4"
@@ -10300,7 +10300,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 173132,
       "name": "Wish The Sun",
       "url": "https://open.spotify.com/track/10RaWxQnLyFceum00p1EDs"
@@ -11082,7 +11082,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 131896,
       "name": "\u305d\u3046\u3044\u3046\u65e5\u3082\u3042\u308b",
       "url": "https://open.spotify.com/track/0r8wdvoEP9RO17HYvYFnQJ"
@@ -13078,7 +13078,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 122831,
       "name": "\u5730\u7403\u9632\u885b\u8ecd",
       "url": "https://open.spotify.com/track/1LoZELNpLb5AsX5vuCWxq1"
@@ -13464,6 +13464,24 @@
       "duration_ms": 200043,
       "name": "\u5c11\u5e74\u6642\u4ee3",
       "url": "https://open.spotify.com/track/2uVnjd2uVKPg299891KcFs"
+    },
+    {
+      "album": {
+        "name": "\u5de6\u69d8\u306a\u3089",
+        "url": "https://open.spotify.com/album/4otXvksOzgyZSuyz0RzWgp"
+      },
+      "artists": [
+        {
+          "name": "HATAKE",
+          "url": "https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149680,
+      "name": "\u5de6\u69d8\u306a\u3089",
+      "url": "https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv"
     },
     {
       "album": {

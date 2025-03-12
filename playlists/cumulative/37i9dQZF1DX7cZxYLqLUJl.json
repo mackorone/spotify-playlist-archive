@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm"
+      },
+      "artists": [
+        {
+          "name": "Felix Brightwood",
+          "url": "https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn"
+    },
+    {
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 131109,
       "name": "Divided",
       "url": "https://open.spotify.com/track/6ZsneTepMm115P6isojL6R"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 172750,
       "name": "Litany",
       "url": "https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 164500,
       "name": "Reading Life",
       "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 190500,
       "name": "We Contain Multitudes (from home)",
       "url": "https://open.spotify.com/track/13MOQ6oQqkrZEDkZOHukCw"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 143500,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"

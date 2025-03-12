@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrIr0kH1BCb.md) - [plain]
 
 > The top hits from your friends on <a href="spotify:artist:50bY8HGxT0SuDgJX3AilTT">Sesame Street</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,923 likes - 41 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,007 likes - 41 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

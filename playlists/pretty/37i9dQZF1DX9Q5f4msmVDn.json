@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23056,
+  "num_followers": 23058,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Out The Trunk",
+        "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "Smoothies In 1991",
+      "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Out The Trunk",
-        "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Smoothies In 1991",
-      "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 181922,
       "name": "Dragonball Durag",
       "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 184964,
-      "name": "dothatshit!",
-      "url": "https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -279,6 +263,22 @@
       "duration_ms": 361280,
       "name": "Double Up (feat. Belly and Dom Kennedy)",
       "url": "https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 184964,
+      "name": "dothatshit!",
+      "url": "https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -315,26 +315,6 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "DAISY WORLD",
-          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
-        }
-      ],
-      "duration_ms": 203588,
-      "name": "RISE! (feat. DAISY WORLD)",
-      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,6 +391,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        }
+      ],
+      "duration_ms": 203588,
+      "name": "RISE! (feat. DAISY WORLD)",
+      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "Ocean Views",
+      "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Evolution Of Gospel",
         "url": "https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 159130,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Ocean Views",
-      "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
     },
     {
       "added_at": "2022-10-01 16:00:00",

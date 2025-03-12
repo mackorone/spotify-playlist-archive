@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,538 likes - 20 songs - 1 hr 11 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,537 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487 likes - 154 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 154 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 115 | [Spinning \(feat\. Ilsey\)](https://open.spotify.com/track/2nEU0GtVvBap7jvy2ZwHTH) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:11 |
 | 116 | [Never Satisfied](https://open.spotify.com/track/4YspbtUBOCWU4MEIg9077O) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:13 |
 | 117 | [Testify](https://open.spotify.com/track/3kafzvowAyLtjs6TRFaRdj) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:51 |
-| 118 | [Universe](https://open.spotify.com/track/2bcSl0tuI5SlwXoanVsmgT) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe \(Spanish Version\)](https://open.spotify.com/album/1b6EqeN8QmEBhys23qnakF) | 2:46 |
-| 119 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 118 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 119 | [Universe](https://open.spotify.com/track/2bcSl0tuI5SlwXoanVsmgT) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe \(Spanish Version\)](https://open.spotify.com/album/1b6EqeN8QmEBhys23qnakF) | 2:46 |
 | 120 | [Cherry On Top](https://open.spotify.com/track/4SzzmN0KAH1qHbwQs4ssU7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:14 |
 | 121 | [Topanga \(Voice Memo\)](https://open.spotify.com/track/48Ekc1rzysly8pcImpgmKM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 3:06 |
 | 122 | [Mimi](https://open.spotify.com/track/7Lk4De18i2LmKl7o3Ck4Dh) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 2:59 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 136 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 137 | [Superhuman](https://open.spotify.com/track/087AijlT1LgtZSXZbisZrg) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:21 |
 | 138 | [Make It Out Alive](https://open.spotify.com/track/1kbfcooO47ftBttfOg5EZG) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:03 |
-| 139 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
-| 140 | [Jealousy](https://open.spotify.com/track/771xIRZvmPNPNw8CP82WJV) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 3:02 |
+| 139 | [Jealousy](https://open.spotify.com/track/771xIRZvmPNPNw8CP82WJV) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 3:02 |
+| 140 | [Healing](https://open.spotify.com/track/2qDmcePA2WjCRYDXuZWboY) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Healing](https://open.spotify.com/album/2aED44NJjcTq8eUg7se6EH) | 3:07 |
 | 141 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
 | 142 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
 | 143 | [Show Me](https://open.spotify.com/track/7eBhckEcFgofknv0lR3lK7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:21 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 153 | [Ring The Alarm](https://open.spotify.com/track/0pr03cUOFsjZW26YSPBYG6) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Ring The Alarm](https://open.spotify.com/album/6wLqWInrnKYTH4nbnP0tSX) | 2:38 |
 | 154 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbrtagAAAADx4VJyDz7yvfgkZPPDxn6X`
+Snapshot ID: `AbrzCgAAAACr2VYZFGHJYcyfTxO0Tn46`

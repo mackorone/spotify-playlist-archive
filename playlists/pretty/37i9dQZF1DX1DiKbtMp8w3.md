@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,813 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,811 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

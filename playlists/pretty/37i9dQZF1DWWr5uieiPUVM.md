@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > TEM UM ROCK AND ROLL NA P\* DO BGL 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,157 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,289 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 19 | [Mônaco Freestyle](https://open.spotify.com/track/0d7oIw2t0f6oCXJUfWYw8E) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Mônaco Freestyle](https://open.spotify.com/album/6Otfotttr4Eym1WvTyxk1z) | 1:52 |
 | 20 | [Nós Combina](https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 3:24 |
 | 21 | [Ainda Sinto Muito](https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:52 |
-| 22 | [Queridinho Do Chefe](https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [Empate Técnico](https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8) | 2:37 |
+| 22 | [Queridinho Do Chefe](https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [GVMBO](https://open.spotify.com/artist/2zIJRyv3KqdcMbaTEiiRtr), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [Empate Técnico](https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8) | 2:37 |
 | 23 | [A Verdade Machuca](https://open.spotify.com/track/7aDxxNDQhneH6zjLJQuW1i) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [A Verdade Machuca](https://open.spotify.com/album/14d9y5QujixBCACK1YWDke) | 2:26 |
 | 24 | [Rainha da Finesse](https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 2:46 |
 | 25 | [Vamo Marolar](https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Vamo Marolar](https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z) | 3:01 |

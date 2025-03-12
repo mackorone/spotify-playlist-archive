@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460 likes - 176 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461 likes - 176 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 74 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 |
 | 75 | [Skin Tight](https://open.spotify.com/track/1nQB3GM2GCRRzES9q4XjW6) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 3:27 |
 | 76 | [Ain't Been Done](https://open.spotify.com/track/6rYXJEg4Ux6niQzGthcKSe) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker](https://open.spotify.com/album/1UTtCPjmaqzOD1StDaJGFX) | 3:00 |
-| 77 | [All The Ways To Say Goodbye](https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:05 |
-| 78 | [Family](https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 3:37 |
+| 77 | [Family](https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 3:37 |
+| 78 | [All The Ways To Say Goodbye](https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:05 |
 | 79 | [Love Me Back](https://open.spotify.com/track/6D8WgDaIuyirn6egGauzVK) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Love Me Back](https://open.spotify.com/album/26tNi6v3WgUXYEvmYq5u2M) | 2:58 |
 | 80 | [Light My Fire \(feat\. Gwen Stefani & Shenseea\)](https://open.spotify.com/track/0D85y6hjCaHRjeB4VEXqPy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:22 |
 | 81 | [Champagne](https://open.spotify.com/track/6cZC4pSjcJUAeBRq1xgonl) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 4:11 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 175 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 176 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbrtfgAAAAAj944l+JnBC6cv5dorEyRM`
+Snapshot ID: `AbrzFAAAAADDztRyM42a97ZWhW0gOFX4`

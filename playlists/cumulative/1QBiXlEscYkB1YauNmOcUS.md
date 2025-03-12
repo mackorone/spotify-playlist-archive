@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/1QBiXlEscYkB1YauNmOcUS.md) - cumulative - [plain](/playlists/plain/1QBiXlEscYkB1YauNmOcUS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1QBiXlEscYkB1YauNmOcUS)
 
-### [Top Party Hits 2024](https://open.spotify.com/playlist/1QBiXlEscYkB1YauNmOcUS)
+### [Top Party Hits 2025](https://open.spotify.com/playlist/1QBiXlEscYkB1YauNmOcUS)
 
-> All of the Top Party Hits  on one playlist! Featuring, Lizzo, <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=BUaA00TfR56UlLKwdmVspQ"> Dua Lipa</a>, David Guetta,  Jack Harlow, Tiësto, Kenny Grace, Nathan Dawe, Bebe Rexha and many more!
+> Party hits.
 
 190 songs - 9 hr 30 min
 

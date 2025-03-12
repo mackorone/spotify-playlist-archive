@@ -2,7 +2,7 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: 宇多田ヒカル & Arca
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Tohji
 
 1,223 songs - 3 day 18 hr 3 min
 

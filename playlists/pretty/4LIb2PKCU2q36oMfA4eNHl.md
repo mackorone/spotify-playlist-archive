@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,436 likes - 100 songs - 6 hr 22 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 45,449 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 50 | [Close](https://open.spotify.com/track/3CNUqBMySkCZFabLlTknXe) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 2:03 |
 | 51 | [Fading Anxieties \- Live](https://open.spotify.com/track/1wi3a3iGp9MWMDbDYN3Wtx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox \(Live From The Old Church, London\)](https://open.spotify.com/album/0z2zcHxM919kVAgQKFrdqX) | 4:53 |
 | 52 | [Hold On To You \- Ryan Davis Revisit](https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Hold On To You \(Ryan Davis Revisit\)](https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof) | 4:40 |
-| 53 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
+| 53 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 54 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 |
 | 55 | [Nine Steps](https://open.spotify.com/track/7h0xoNZAofsdOYF1AvxsBu) | [PRAANA SHAKTI](https://open.spotify.com/artist/6a1nIcGSFPECOefOfbKI4V), [Moonfound](https://open.spotify.com/artist/3s1oVIjuSdqQnyal4MCo8B) | [Nine Steps](https://open.spotify.com/album/0husVtwa6m4UuMk63VBjjW) | 5:52 |
 | 56 | [O\-Ama](https://open.spotify.com/track/51UE2RCA3ocC5DAAIYL2yG) | [Esteble](https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp), [Joram Feitsma](https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu) | [O\-Ama](https://open.spotify.com/album/71O6WEaBbQWg7ExBIAU5Ml) | 4:01 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 91 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 |
 | 92 | [Apes & Children](https://open.spotify.com/track/2eCSnZldgOGNHIdvliomGZ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 4:16 |
 | 93 | [Small Moments](https://open.spotify.com/track/6zXvm5GgRBVgXXJkvegXB0) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Anjunabeats Volume 10](https://open.spotify.com/album/3btiG55sMl5oZ526tJBIwG) | 2:52 |
-| 94 | [Sunburn](https://open.spotify.com/track/14sLpbgStmGVS8QnSFUx08) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:58 |
+| 94 | [Sunburn](https://open.spotify.com/track/14sLpbgStmGVS8QnSFUx08) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:58 |
 | 95 | [Night Drums](https://open.spotify.com/track/2ZcJPY7GajuGFRCLjoFULR) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 2:00 |
 | 96 | [Erase \(An Apparition\)](https://open.spotify.com/track/3YubJlJNgsLhggBLTUdtZx) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Apparitions](https://open.spotify.com/album/1mcEBBcWomsTWDQYWOaH8D) | 4:18 |
 | 97 | [Sleep Is Sacrament](https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Sleep Is Sacrament](https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0) | 3:52 |

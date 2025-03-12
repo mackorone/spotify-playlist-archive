@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Smur Lee, Joeboy, Candy Bleakz  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,187 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,229 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 48 | [CARO](https://open.spotify.com/track/6vZJLggh7e4rOVi3w9lVB9) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk), [Mr\. Bady](https://open.spotify.com/artist/72Ffy4k6MHkqIYOYwVYU84) | [CARO](https://open.spotify.com/album/21bjwFBdPurV8FOCmDeTB6) | 2:17 |
 | 49 | [Carry Go](https://open.spotify.com/track/5wsW9C4Df2ft41tEQucKs0) | [Maxi Kabiesi](https://open.spotify.com/artist/11M0NKdKrTd9NHHKaRu45G), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Carry Go](https://open.spotify.com/album/5EOJ3CKOCjnoYCUnY76yDA) | 2:51 |
 | 50 | [Aye](https://open.spotify.com/track/2uePBOPg64tPzH2pSItu5P) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Aye](https://open.spotify.com/album/2EiUyw4HNGgMcRZ0kH7oso) | 2:34 |
-| 51 | [MAN NO PLAY](https://open.spotify.com/track/13ES79bWkkolWsJ2e2Std6) | [Marc Moon](https://open.spotify.com/artist/5aNf0HKLlBgL7YozE3Khwr), [Kumzy Pegasus](https://open.spotify.com/artist/35XE5oO7IOKOhJ7s7ZWXgu), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [MAN NO PLAY](https://open.spotify.com/album/2MvPSszdsS13is5HxHqojZ) | 3:19 |
+| 51 | [MAN NO PLAY](https://open.spotify.com/track/13ES79bWkkolWsJ2e2Std6) | [Marc Moon](https://open.spotify.com/artist/5aNf0HKLlBgL7YozE3Khwr), [Kumzy Pegasus](https://open.spotify.com/artist/5iGLVsZ1D4lfzmmrlfz16Y), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [MAN NO PLAY](https://open.spotify.com/album/2MvPSszdsS13is5HxHqojZ) | 3:19 |
 | 52 | [Ghetto \- Afrobeat Remix](https://open.spotify.com/track/13c0E4GpI2kv3gxgur2V15) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Ghetto \(Afrobeat Remix\)](https://open.spotify.com/album/4D4jNzxu1UiWShLgN2mpzx) | 2:19 |
 
 Snapshot ID: `Z8qYYQAAAABDJJtSj0DtOOxaSvPchTRL`

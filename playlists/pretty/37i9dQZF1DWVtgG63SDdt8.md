@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: TAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,782 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,806 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 46 | [Kele Jehovah](https://open.spotify.com/track/05NQGVJqDquur7S2UsrxG5) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [BETHEL](https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv) | 2:11 |
 | 47 | [Location](https://open.spotify.com/track/7emIC5BmmI5JSlMD9Kes6n) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Location](https://open.spotify.com/album/6HDqXK6tVcoPcbbbqbasfe) | 2:45 |
 | 48 | [Agaracha](https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:57 |
-| 49 | [Pikin](https://open.spotify.com/track/7wjHOyfgQrCQ7gL6wCjVZ1) | [Cee Sharp](https://open.spotify.com/artist/4klUyv1VdiNhMDlWXoZpSN), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Pikin](https://open.spotify.com/album/7brZZaR4KsfgB73LTczcd8) | 3:08 |
+| 49 | [Pikin](https://open.spotify.com/track/7wjHOyfgQrCQ7gL6wCjVZ1) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Pikin](https://open.spotify.com/album/7brZZaR4KsfgB73LTczcd8) | 3:08 |
 | 50 | [Fast And Pray](https://open.spotify.com/track/4FFo1LEm7omfaPEFpodoGK) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Fast And Pray](https://open.spotify.com/album/5aw4n54VorXh91eSwrZ281) | 2:42 |
 | 51 | [Holy Spirit Move](https://open.spotify.com/track/3XbwWYPPVm4sZftsVHJdtI) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Holy Spirit Move](https://open.spotify.com/album/0NsFqbFk5VZM0fTAxhCWiR) | 3:18 |
 | 52 | [Got It Bad](https://open.spotify.com/track/6CnpFM1MBv96tMAXW5YchY) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Got It Bad](https://open.spotify.com/album/1recn94Ltf51Qzh5wKUGUA) | 2:44 |

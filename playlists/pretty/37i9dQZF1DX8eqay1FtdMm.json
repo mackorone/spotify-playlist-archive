@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: BIBI(\ube44\ube44)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 377416,
+  "num_followers": 377401,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-03-01 14:00:07",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
-    },
-    {
-      "added_at": "2025-03-01 14:00:07",
-      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2025-03-01 14:00:07",
+      "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2025-03-01 14:00:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-01 14:00:07",
       "album": {
-        "name": "Excuse",
-        "url": "https://open.spotify.com/album/5CstpUDL81KyWYHqlsOS7G"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Excuse",
-      "url": "https://open.spotify.com/track/25NbUuEgEGmMPiaCv3IAar"
-    },
-    {
-      "added_at": "2025-03-01 14:00:07",
-      "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2025-03-01 14:00:07",
+      "album": {
+        "name": "Excuse",
+        "url": "https://open.spotify.com/album/5CstpUDL81KyWYHqlsOS7G"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/25NbUuEgEGmMPiaCv3IAar"
     },
     {
       "added_at": "2025-03-01 14:00:07",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-03-01 14:00:07",
       "album": {
-        "name": "The Queen Who Crowns OST Part.1",
-        "url": "https://open.spotify.com/album/2HfEC3ebmMP9k1HHtFCXDm"
-      },
-      "artists": [
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4qjwurvhzFWb0hT0GeuYFl"
-    },
-    {
-      "added_at": "2025-03-01 14:00:07",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2025-03-01 14:00:07",
+      "album": {
+        "name": "The Queen Who Crowns OST Part.1",
+        "url": "https://open.spotify.com/album/2HfEC3ebmMP9k1HHtFCXDm"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4qjwurvhzFWb0hT0GeuYFl"
     },
     {
       "added_at": "2025-03-01 14:00:07",
@@ -1487,6 +1487,22 @@
       "duration_ms": 231386,
       "name": "LOVE RECIPE",
       "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
+    },
+    {
+      "added_at": "2025-03-01 14:00:07",
+      "album": {
+        "name": "Oh My Venus (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Looking For Love (Man Ver.)",
+      "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
     },
     {
       "added_at": "2025-03-01 14:00:07",
@@ -1519,22 +1535,6 @@
       "duration_ms": 218546,
       "name": "I can't forget you",
       "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
-    },
-    {
-      "added_at": "2025-03-01 14:00:07",
-      "album": {
-        "name": "Oh My Venus (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Looking For Love (Man Ver.)",
-      "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
     },
     {
       "added_at": "2025-03-01 14:00:07",

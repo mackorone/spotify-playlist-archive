@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9GwUIoGGDbm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GwUIoGGDbm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GwUIoGGDbm)
 
-### [KAGUYA\-SAMA: LOVE IS WAR かぐや様は告らせたい ](https://open.spotify.com/playlist/37i9dQZF1DX9GwUIoGGDbm)
+### [KAGUYA\-SAMA: LOVE IS WAR](https://open.spotify.com/playlist/37i9dQZF1DX9GwUIoGGDbm)
 
-> Music from "KAGUYA\-SAMA: LOVE IS WAR"\. 「かぐや様は告らせたい」シリーズを彩る楽曲をプレイリストで。©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
+> Music from "KAGUYA\-SAMA: LOVE IS WAR"\. ©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
 82 songs - 3 hr 15 min
 

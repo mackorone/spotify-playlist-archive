@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ニーハオ!!!!
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: yutori
 
-817 songs - 1 day 19 hr 26 min
+818 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,9 +190,9 @@
 | [grasp](https://open.spotify.com/track/3yJ0cJV9vuck34ZVrmxr84) | [tact](https://open.spotify.com/artist/6UB1bq3uHbizha44REbJDL) | [dawning](https://open.spotify.com/album/6YGlPSQbU1z1VlTOSnCHxN) | 2:29 | 2023-11-07 | 2023-12-20 |
 | [Hang a Combat master Detonics](https://open.spotify.com/track/7ijeLjKSfusg4355Z5NFJG) | [HARD CORE DUDE](https://open.spotify.com/artist/5sxrRJgTakYBRhfmOij0Cs) | [Highstandard Custom Derringer](https://open.spotify.com/album/6PgABLhd0BV5VXM0eeFYES) | 1:44 | 2023-11-07 | 2023-11-22 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
-| [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 | 2025-02-07 |
+| [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 |  |
 | [Happy Nante](https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Happy Nante](https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk) | 3:22 | 2025-01-07 |  |
-| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2025-01-29 |
+| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-08-23 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-05 | 2023-05-18 |
@@ -430,7 +430,7 @@
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 | 2023-12-20 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
-| [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 | 2025-01-28 |
+| [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 |  |
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-17 |
 | [Seahorse](https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Seahorse](https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA) | 3:28 | 2023-11-28 | 2023-12-06 |
 | [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 | 2023-08-23 |
@@ -502,7 +502,7 @@
 | [SURF](https://open.spotify.com/track/7dXGfbpC6nEAClhgMSYXEZ) | [Track's](https://open.spotify.com/artist/7iBZYT8fyfa1J3EGTLHVGx) | [SURF](https://open.spotify.com/album/4Gz58i1XggFiaRFLwGCOv3) | 1:28 | 2022-05-19 | 2022-11-14 |
 | [SURFPUNK](https://open.spotify.com/track/6sIpZ2Vlz1JJ8jR8kdRDmu) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [SURFPUNK](https://open.spotify.com/album/3k9kELIoJxA8JHDqd9Hw8y) | 2:29 | 2022-05-12 | 2022-07-24 |
 | [Sweet8beat](https://open.spotify.com/track/6Zs9nJ3th9ExyzygXdSfjJ) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Sweet8beat](https://open.spotify.com/album/64Nc3eTnqRlwRoiVmDLlm8) | 3:58 | 2022-05-12 | 2022-07-06 |
-| [Takatsuki](https://open.spotify.com/track/50Aujeorhvlr5BhLqmirF4) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [Takatsuki](https://open.spotify.com/album/0ySP8BeXswdbrLZKv314te) | 3:23 | 2024-12-24 |  |
+| [Takatsuki](https://open.spotify.com/track/50Aujeorhvlr5BhLqmirF4) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [Takatsuki](https://open.spotify.com/album/0ySP8BeXswdbrLZKv314te) | 3:23 | 2024-12-24 | 2025-03-12 |
 | [Take Off!!](https://open.spotify.com/track/5KOyDAveuaIds6qRoU0M26) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [SCREAM ON THE BOARD!!](https://open.spotify.com/album/7dnFrpMSja30CeY70L8dPQ) | 2:07 | 2022-05-17 | 2022-07-22 |
 | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/track/1kpjvp5Nimd33RlMYaJQCr) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/album/2ff0DpDkWqdXwwH4h9DZzJ) | 3:07 | 2023-08-08 | 2023-09-10 |
 | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/track/4wDxFbhE4oNwlHMAcqNnUO) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:07 | 2023-09-07 | 2023-10-04 |
@@ -572,7 +572,7 @@
 | [White Flag](https://open.spotify.com/track/1S7w82YQnNXBahXcEBl45y) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt) | [WHITE FLAGS](https://open.spotify.com/album/6OwhjvKw3iLXjA5cOUzPxv) | 3:33 | 2022-05-12 | 2022-07-16 |
 | [WILL BE ALL RIGHT](https://open.spotify.com/track/03wJXYbjtEV1XROlwTsGAe) | [Smash up](https://open.spotify.com/artist/5om6c0YduVa6sNJwgfuFc8) | [WILL BE ALL RIGHT](https://open.spotify.com/album/34DjjBzoaqrLjbJUaskb5E) | 3:18 | 2023-06-13 | 2023-08-16 |
 | [Windy](https://open.spotify.com/track/7h2flq5JmLcAVgKak5dN2f) | [UNDER SOCKS](https://open.spotify.com/artist/4JFehfNPR4G7h9CULw2dAK) | [Windy](https://open.spotify.com/album/2RgyPDKsR903ciDgRoPEuE) | 3:50 | 2023-10-03 | 2023-10-18 |
-| [Wish The Sun](https://open.spotify.com/track/10RaWxQnLyFceum00p1EDs) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [Wish The Sun](https://open.spotify.com/album/67sO0JsLtczr5xpQ1msoFT) | 2:53 | 2024-12-10 |  |
+| [Wish The Sun](https://open.spotify.com/track/10RaWxQnLyFceum00p1EDs) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [Wish The Sun](https://open.spotify.com/album/67sO0JsLtczr5xpQ1msoFT) | 2:53 | 2024-12-10 | 2025-03-12 |
 | [Wonderful Song](https://open.spotify.com/track/70Uro20X1C3cR64LDtQlbq) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Brand New Page / Wonderful Song](https://open.spotify.com/album/2REnOFvoeiH21zOW8Y8tIn) | 2:43 | 2022-05-12 | 2022-07-28 |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-12-06 |
@@ -615,7 +615,7 @@
 | [しあわせになる](https://open.spotify.com/track/0LeFkyQOiMMyeiUpuhL2HF) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [しあわせになる](https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ) | 1:29 | 2022-05-24 | 2022-07-15 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 | 2024-03-10 |
 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 | 2024-11-12 |  |
-| [そういう日もある](https://open.spotify.com/track/0r8wdvoEP9RO17HYvYFnQJ) | [The Docci](https://open.spotify.com/artist/4wqVGKK5aqe2Gzp8Up1jeC) | [そういう日もある](https://open.spotify.com/album/5K2pchdWhbsKvPFa9bxDIU) | 2:11 | 2024-11-05 |  |
+| [そういう日もある](https://open.spotify.com/track/0r8wdvoEP9RO17HYvYFnQJ) | [The Docci](https://open.spotify.com/artist/4wqVGKK5aqe2Gzp8Up1jeC) | [そういう日もある](https://open.spotify.com/album/5K2pchdWhbsKvPFa9bxDIU) | 2:11 | 2024-11-05 | 2025-03-12 |
 | [その羅針盤](https://open.spotify.com/track/6cPCs9eghvxx4hMKvLT7U0) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [その羅針盤](https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2) | 3:46 | 2022-05-17 | 2022-07-23 |
 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-13 | 2024-04-01 |
 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 | 2022-05-19 |  |
@@ -725,7 +725,7 @@
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |
 | [地獄と地獄](https://open.spotify.com/track/4aOQx8r3qqmGXkIT5pbjR3) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 1:31 | 2022-11-16 | 2023-03-22 |
-| [地球防衛軍](https://open.spotify.com/track/1LoZELNpLb5AsX5vuCWxq1) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [地球防衛軍](https://open.spotify.com/album/18P2oW59emDr19Fk7zuyZe) | 2:02 | 2024-10-08 |  |
+| [地球防衛軍](https://open.spotify.com/track/1LoZELNpLb5AsX5vuCWxq1) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [地球防衛軍](https://open.spotify.com/album/18P2oW59emDr19Fk7zuyZe) | 2:02 | 2024-10-08 | 2025-03-12 |
 | [境川天国方面](https://open.spotify.com/track/6YDByGDQItlSOFlJCtsuRW) | [樂円音樂](https://open.spotify.com/artist/043ssY1AZoNzcjnxO1BAx0) | [境川天国方面](https://open.spotify.com/album/1RtnqcpFDn9fII1vJ8PPg5) | 3:38 | 2023-06-27 | 2023-07-07 |
 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 | 2022-05-17 | 2023-10-05 |
 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-07 | 2024-10-09 |
@@ -747,6 +747,7 @@
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-01-10 |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 | 2023-10-26 |
 | [少年時代](https://open.spotify.com/track/2uVnjd2uVKPg299891KcFs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [少年時代](https://open.spotify.com/album/5y3xFfjLRFB5ACA5EBgjtq) | 3:20 | 2024-07-09 | 2024-10-09 |
+| [左様なら](https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [左様なら](https://open.spotify.com/album/4otXvksOzgyZSuyz0RzWgp) | 2:29 | 2025-03-11 |  |
 | [彗星](https://open.spotify.com/track/7IP4KLRpBHMlt8ItnmcIwq) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [シエラのように](https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs) | 1:51 | 2022-05-17 | 2022-12-14 |
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 | 2022-12-16 |
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |

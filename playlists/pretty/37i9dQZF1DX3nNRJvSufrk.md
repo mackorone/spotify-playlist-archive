@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,721 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,733 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 8 | [WFM](https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [Gant\-Man](https://open.spotify.com/artist/0FRf7YoRwTB4L2HVVwzks4), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [WFM](https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy) | 3:03 |
 | 9 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 |
 | 10 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
-| 11 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 11 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
 | 12 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 |
-| 13 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
+| 13 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
 | 14 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
 | 15 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
 | 16 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 21 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
 | 22 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
 | 23 | [Flicka](https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Ww3](https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB) | 3:34 |
-| 24 | [Next Subject](https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4) | [DJ Curt](https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 5:03 |
-| 25 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
+| 24 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
+| 25 | [Next Subject](https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4) | [DJ Curt](https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 5:03 |
 | 26 | [WE GON DANCE](https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:39 |
 | 27 | [Heavy Heat](https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:43 |
 | 28 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |

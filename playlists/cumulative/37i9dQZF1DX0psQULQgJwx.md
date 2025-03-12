@@ -4,7 +4,7 @@
 
 > Relaxing sounds for a pampering spa experience
 
-251 songs - 13 hr 36 min
+260 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Biometrica \(Nanosynthesis\)](https://open.spotify.com/track/5EhKvhpBZbXppBUQ3PJ6TT) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Biometrica](https://open.spotify.com/album/3jJVhYI0uuRrDfh0hs54cs) | 3:07 | 2024-06-11 |  |
 | [Blissful Breeze](https://open.spotify.com/track/5mEstebX16SCW56WWnEluW) | [Aurora Novara](https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70) | [Blissful Breeze](https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn) | 2:45 | 2024-04-07 |  |
 | [Blissful Mind](https://open.spotify.com/track/2XQ4TwHiOR5Q9ZwhaZkTN8) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Blissful Mind](https://open.spotify.com/album/2YK0j5hggZEpf4Lb0w2V0T) | 3:09 | 2024-03-14 |  |
+| [Breath of the Earth](https://open.spotify.com/track/1WZQXQmVCHzV6YnBVjGNWW) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Breath of the Earth](https://open.spotify.com/album/1P0Y9kbSG1LCk804vC3plv) | 3:06 | 2025-03-11 |  |
 | [candle light](https://open.spotify.com/track/6b9ls9QFLnTmWXVdGSWlg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [candle light](https://open.spotify.com/album/2bNqntCDDm6P0CH3nvADEc) | 2:27 | 2024-05-10 |  |
 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 | 2024-05-10 |  |
 | [Celestial Ballet](https://open.spotify.com/track/4iYnLUJet9xH8e4zZE58y9) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Celestial Ballet](https://open.spotify.com/album/4NVpQals1ndplo9FGvD3VY) | 2:49 | 2024-05-10 |  |
@@ -55,6 +56,7 @@
 | [Cosmic Coast \- Spa](https://open.spotify.com/track/1s63jXLAtYJOTCT9fIu4O5) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 2:18 | 2023-11-17 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2022-09-02 |  |
 | [Crystalline Awareness \(Gamma 73.3Hz\-110.2Hz\)](https://open.spotify.com/track/3bkjCAvzbn9rWiAatc5YIp) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Crystalline Awareness \(Gamma 73.3Hz\-110.2Hz\)](https://open.spotify.com/album/64jCjoBaeLApYpJQ9FlmRX) | 2:30 | 2024-07-13 |  |
+| [Crystalline Peace](https://open.spotify.com/track/1sMjBsTXhij9CkY8lrVEPL) | [Paleo Man](https://open.spotify.com/artist/6BJF1vVIcNf0aHOb6pAodc) | [Crystalline Peace](https://open.spotify.com/album/3NLWFavp9RVa11iLjh1g42) | 3:04 | 2025-03-11 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-09-02 | 2024-09-07 |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-09-02 | 2024-11-23 |
 | [Deep Cycles](https://open.spotify.com/track/1eZnJXP9Qq2Pz9LfWW9DHr) | [L'air](https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd) | [Deep Cycles](https://open.spotify.com/album/0pYv8vPV5hW03uqjhqkTM1) | 2:24 | 2024-06-10 |  |
@@ -101,6 +103,7 @@
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-09-02 |  |
 | [Horizon](https://open.spotify.com/track/4glMhmZqDuP9poJm8937M7) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Horizon](https://open.spotify.com/album/2pgoMua7WxRxudODsXbHYB) | 2:24 | 2024-07-13 |  |
 | [Hypothesis](https://open.spotify.com/track/0a6l0snQjwMnmvq9o9bcow) | [Heartsease Hymns](https://open.spotify.com/artist/5hRVW3x7ekwvno78bGCArO) | [Hypothesis](https://open.spotify.com/album/1dIXjyG5TAor5UGMV58rY4) | 2:57 | 2024-05-10 |  |
+| [Imaginary Thoughts](https://open.spotify.com/track/3JyjxPG1h6bJzrVKqJmtJo) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Imaginary Thoughts](https://open.spotify.com/album/1ejNvLR2dETNREQTJApHBh) | 4:24 | 2025-03-11 |  |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-22 |  |
 | [Inner Deep](https://open.spotify.com/track/0nnhYgP1kNc2ueZ8GyqH6C) | [Trevor Marson](https://open.spotify.com/artist/4HY7iJRgI9SLocwSY7nZja) | [Inner Deep](https://open.spotify.com/album/6pUi1uAiffJv4NfIubyh5n) | 3:32 | 2024-03-07 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-09-02 |  |
@@ -108,6 +111,7 @@
 | [Insheen](https://open.spotify.com/track/7lbUvHlNlJMaXPyXUplCzZ) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Insheen](https://open.spotify.com/album/3eUVidiYKxd8hIro6QGZgs) | 2:29 | 2024-04-07 |  |
 | [Instantaneously](https://open.spotify.com/track/6HVT1usrkuDKyDwT23hZWa) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Instantaneously](https://open.spotify.com/album/5aClPNp7vM6e7l6vGsLoUL) | 2:33 | 2024-06-11 |  |
 | [Intuitively](https://open.spotify.com/track/7Js2oijctTVG8KpEQaIe5I) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Intuitively](https://open.spotify.com/album/5MU3m3fvGCtiiR98hwMiLB) | 2:57 | 2023-01-09 |  |
+| [ISSA](https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ) | [Sufi Pyramid](https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa) | [Issa](https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw) | 2:52 | 2025-03-11 |  |
 | [Justice](https://open.spotify.com/track/5TSyKEnThZBxS8n6T3O6yh) | [Aden Cloud](https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln) | [Justice](https://open.spotify.com/album/15GShjofLiAv6f1vQOf4qt) | 2:58 | 2024-04-07 |  |
 | [Kali Yerg](https://open.spotify.com/track/5dC2dX17foqN5IjdFtOaGU) | [Voice of Apricot](https://open.spotify.com/artist/77QzOw4j6oaucAF3XLwUKr) | [Kali Yerg](https://open.spotify.com/album/6GlO6diN2U587KHDUpMbBf) | 3:04 | 2022-09-02 | 2023-03-10 |
 | [Kushmanda / Goddess of Creation](https://open.spotify.com/track/4tiKvWK7EzywgEIQSMCsK3) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Kushmanda / Goddess of Creation](https://open.spotify.com/album/2JolhdhIFeTzfvt3fq4ire) | 3:09 | 2024-06-10 |  |
@@ -195,11 +199,13 @@
 | [Sentiment \- Yoga Version](https://open.spotify.com/track/0xknACiHrVed7KEML5oNuU) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Yoga Version](https://open.spotify.com/album/7deF5Xp7ctwSJb85ZWFPaG) | 2:45 | 2022-10-21 |  |
 | [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-06-10 |  |
 | [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 | 2022-12-02 |  |
+| [Serenity Among the Pines](https://open.spotify.com/track/5QB3EunROxwLsLu0hW0XoM) | [Lunar Bliss](https://open.spotify.com/artist/3pPChrOJySpR5JYsGYmhg3) | [Serenity Among the Pines](https://open.spotify.com/album/6J4vtxoxcJyHAbFErV6VCW) | 2:40 | 2025-03-11 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2022-09-02 |  |
 | [Silver Light](https://open.spotify.com/track/3V0v9dJyCGZQd2eJDQyQNU) | [Meson Winds](https://open.spotify.com/artist/7hSvvdm6NWFrkDzIGUx8o1) | [Silver Light](https://open.spotify.com/album/21cXTBVNIWxY9aFyv0H2vG) | 2:56 | 2024-09-06 |  |
 | [Sleep Veteran](https://open.spotify.com/track/485wIpwjpnTRvJxCs9tU9A) | [Luminalist](https://open.spotify.com/artist/4jPA6165HPku6HTrvVDzrF) | [Sleep Veteran](https://open.spotify.com/album/3iNNWjVT04TcL97DA2uGtT) | 2:45 | 2024-05-10 |  |
 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 | 2022-09-30 |  |
 | [Solar flare](https://open.spotify.com/track/0Cp9wZr9nmwkSah6FLxL5j) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Solar flare](https://open.spotify.com/album/4IvB8RxqlQjDrbTuRNpBoy) | 2:43 | 2024-05-10 |  |
+| [Solar Seraph](https://open.spotify.com/track/63THLVop1w7YRIMO9ij01U) | [Milleah](https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze) | [Solar Seraph](https://open.spotify.com/album/6Qorf7wIB8XWZ2FsBaTM8x) | 2:58 | 2025-03-11 |  |
 | [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-09-02 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-09-02 |  |
 | [Sominare](https://open.spotify.com/track/2165MC8JML5S217g4vIdDy) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sominare](https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud) | 2:23 | 2022-11-22 |  |
@@ -226,6 +232,7 @@
 | [Thar Desert](https://open.spotify.com/track/6y6j2rn725fSwf7Bd1BNCo) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Thar Desert](https://open.spotify.com/album/4tn26VMIpCsVf82hX2DFRp) | 2:52 | 2023-11-17 | 2024-12-20 |
 | [The Calm Within](https://open.spotify.com/track/1aEbQEQ5XcwwifB9V7nkXR) | [Leon Garver](https://open.spotify.com/artist/0KdKg4F51Gw2ILHS3yGiB4) | [The Calm Within](https://open.spotify.com/album/3DEIMHSgFqlBmse2Fe6USn) | 2:29 | 2022-09-02 |  |
 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2022-09-02 |  |
+| [The Peace of Truth](https://open.spotify.com/track/6pf9grSLdju1CZJBs9yaUo) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [The Peace of Truth](https://open.spotify.com/album/3O85pY3iCoJWEsvpTDFt14) | 2:33 | 2025-03-11 |  |
 | [The Poetry of Self](https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 4:02 | 2022-09-02 | 2024-09-07 |
 | [The Scenic Bridge](https://open.spotify.com/track/4vkvnmcUF2fVjfJduLGNVy) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [The Scenic Bridge](https://open.spotify.com/album/18RUonN79AFHqy3fozs7vH) | 3:28 | 2024-06-10 | 2024-08-22 |
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2022-09-02 |  |
@@ -243,7 +250,7 @@
 | [Viaggio Tranquillo](https://open.spotify.com/track/4TbhRc6fVnE5Qjy2onnj2W) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [Viaggio Tranquillo](https://open.spotify.com/album/7F6M5oZnZPMbfQ6Aci8yt1) | 3:04 | 2024-05-10 |  |
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2022-09-02 |  |
 | [Wandering Skies](https://open.spotify.com/track/6FTGUsOgoxC5hYn2Rkwx9L) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Wandering Skies](https://open.spotify.com/album/110Gp9rlDVynQFc7Q7PkRt) | 2:42 | 2024-07-13 |  |
-| [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-09-02 |  |
+| [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-09-02 | 2025-03-12 |
 | [We Are](https://open.spotify.com/track/3hwmB5wcWwszc2OfHaiqG1) | [Erik Walmoe](https://open.spotify.com/artist/6A5AsqsnvVDdHsup7edHPy) | [We Are](https://open.spotify.com/album/0BTv8frPTRHscn9qp3ligr) | 2:42 | 2022-09-02 |  |
 | [Weightless Echoes](https://open.spotify.com/track/1aejBWe9OIjh34IqKcDayI) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Weightless Echoes](https://open.spotify.com/album/28hoaBT6C14YwltsFZLl4f) | 2:20 | 2024-05-10 |  |
 | [Weightlessly Drifting](https://open.spotify.com/track/3Cj542A7pRieF9x19YYrE8) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Weightlessly Drifting](https://open.spotify.com/album/2n4iqSyKHptpwMHqW7wwwN) | 2:41 | 2024-07-13 |  |
@@ -256,8 +263,10 @@
 | [Word by mouth](https://open.spotify.com/track/6cbXhV9VqOwIDHI8FrDIOz) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Word by mouth](https://open.spotify.com/album/0ZlBpkZ8Umiog4fw6n4w9k) | 3:03 | 2024-06-10 |  |
 | [World of a Heartbeat](https://open.spotify.com/track/3p2tDKPJTQmH2hvu4vGGoO) | [Posonium](https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW) | [World of a Heartbeat](https://open.spotify.com/album/7rBBFwmvUjiLo1CW1FKO2K) | 2:38 | 2023-12-04 |  |
 | [Yoga Flute](https://open.spotify.com/track/6dxTBTQps8y6jl9XHT5Z9K) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Yoga Flute](https://open.spotify.com/album/4ioikYNuhJwfrgpTbSb4pM) | 2:56 | 2024-07-13 |  |
+| [Your Eyes](https://open.spotify.com/track/0we7ueXlIbKRsfPkOuX9dW) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Your Eyes](https://open.spotify.com/album/6SoYA3Ay1qSWc14Ug5E9lR) | 3:40 | 2025-03-11 |  |
 | [Your Wish](https://open.spotify.com/track/6olJQTRVeye0mvmdZfpvvC) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Your Wish](https://open.spotify.com/album/5WOR7rBDBgOLhVIXUSAgBh) | 2:11 | 2024-06-10 |  |
 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 | 2023-01-09 |  |
+| [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 | 2025-03-11 |  |
 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-09-02 | 2024-09-07 |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-798 songs - 1 day 10 hr 31 min
+799 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 | 2024-11-20 |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-02-07 |  |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-18 |  |
+| [A Tiny Wallflower](https://open.spotify.com/track/00PvDazidS7DSFKcKWuhkM) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [A Tiny Wallflower](https://open.spotify.com/album/0cdGpIveNRpHKB54mrEGvx) | 2:26 | 2025-03-11 |  |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2022-04-15 | 2022-04-23 |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2022-04-15 | 2024-02-28 |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-15 | 2022-11-19 |

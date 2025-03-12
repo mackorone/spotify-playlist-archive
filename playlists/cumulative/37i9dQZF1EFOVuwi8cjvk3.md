@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-270 songs - 15 hr 58 min
+271 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Sucker \- Director's Cut](https://open.spotify.com/track/0sTjKXvG8a3xbaJuyLYGJp) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Sucker \(Director's Cut\)](https://open.spotify.com/album/0hMTEguEQwF9oYIKEUXsR1) | 5:08 | 2024-01-21 | 2024-02-01 |
 | [The Archer](https://open.spotify.com/track/3Mf6TqIKVALxZ2oUsd7EYp) | [Killa Sin](https://open.spotify.com/artist/67XIntxIqJFHkWpewJcrOb) | [The Man With The Iron Fists](https://open.spotify.com/album/6uMBoMl43IIKHoCj8iVd7X) | 2:55 | 2023-12-13 |  |
 | [The Classic Prince](https://open.spotify.com/track/709FB0qBmrVvJna9xI6q6b) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 2:50 | 2023-12-13 |  |
+| [The Duke](https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Exciting Sounds of Menahan Street Band](https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF) | 2:46 | 2025-03-11 |  |
 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 | 2023-12-13 |  |
 | [The Hearse](https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:04 | 2023-12-13 | 2025-01-27 |
 | [The Hearse](https://open.spotify.com/track/4m5FWGEd8DfUc07FvXxfeU) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 2:04 | 2025-01-26 |  |

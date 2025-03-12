@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 107617,
+  "num_followers": 107657,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "N\u00e3o Sei Lidar",
-        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "N\u00e3o Sei Lidar",
-      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Meu Xod\u00f3",
         "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 197584,
       "name": "Meu Xod\u00f3",
       "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "N\u00e3o Sei Lidar",
+        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "N\u00e3o Sei Lidar",
+      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "P\u00f4r Do Sol Degrad\u00ea",
         "url": "https://open.spotify.com/album/04Hm4DhDDuVdPEmBctOZ1J"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 162000,
       "name": "P\u00f4r Do Sol Degrad\u00ea",
       "url": "https://open.spotify.com/track/4yCtYSXQApwTyTxHurV4oG"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2025-03-07 03:00:30",

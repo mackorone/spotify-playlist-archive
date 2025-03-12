@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-901 songs - 2 day 0 hr 54 min
+902 songs - 2 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 | 2022-06-30 | 2023-01-28 |
 | [Baby Powder](https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Baby Powder](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) | 3:00 | 2021-12-15 | 2022-07-29 |
 | [Back There](https://open.spotify.com/track/5oHo5ixELIep3usDd3yAtO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [Radiant](https://open.spotify.com/album/3u6FiAgC5VFuOxPPdsoDow) | 2:55 | 2024-04-05 | 2024-05-22 |
-| [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 | 2024-02-23 |  |
+| [backseat](https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [backseat](https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w) | 2:54 | 2024-02-23 | 2025-03-12 |
 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 | 2022-03-03 | 2022-04-06 |
 | [Bad M'fkr](https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Bad M'fkr](https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE) | 3:38 | 2024-01-26 | 2024-10-31 |
 | [Bad Manners](https://open.spotify.com/track/1iDQBcEFQANlgpozIyWPv3) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Bad Manners](https://open.spotify.com/album/070BqUntai8f1LYaYQktBA) | 3:33 | 2024-07-19 | 2024-09-18 |
@@ -431,6 +431,7 @@
 | [Lead You to Water](https://open.spotify.com/track/0EDoBWF2J3P2mmcYowxG35) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Lead You to Water](https://open.spotify.com/album/6gQ6X2WYNoD9rcwP7KZiz7) | 2:30 | 2024-10-26 | 2024-12-07 |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-01 |  |
 | [Leave While I Love You](https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 3:35 | 2023-02-10 | 2023-08-26 |
+| [LEMON TREES \- Motherland Sessions](https://open.spotify.com/track/604tYQB9GqYeMaxGDp6ZR1) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Motherland Sessions \(Live\)](https://open.spotify.com/album/5l3CHfMAuoXqeDIq0P5YzZ) | 2:26 | 2025-03-07 |  |
 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 | 2024-08-30 | 2024-10-09 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |
 | [Let It Go](https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV) | 3:43 | 2022-10-19 | 2023-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,406 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,442 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 22 | [Wish \- Instrumental](https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 |
 | 23 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 24 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 |
-| 25 | [With You \(Inst.\)](https://open.spotify.com/track/2Q3KiqbzEeRRYks33iLNLs) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
-| 26 | [The First Snow \- Instrumental](https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Guardian \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc) | 4:56 |
+| 25 | [The First Snow \- Instrumental](https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Guardian \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc) | 4:56 |
+| 26 | [With You \(Inst.\)](https://open.spotify.com/track/2Q3KiqbzEeRRYks33iLNLs) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
 | 27 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 | 28 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
 | 29 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
-| 30 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
-| 31 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
+| 30 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
+| 31 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
 | 32 | [시간의 상처 \(Inst.\)](https://open.spotify.com/track/6xdFDuOy3aJLAdfa0Z5Mtk) | [Kim So Yeon](https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9) | [내 남편과 결혼해줘 OST Part.4](https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy) | 4:37 |
 | 33 | [Your world \(Inst.\)](https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 |
 | 34 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |

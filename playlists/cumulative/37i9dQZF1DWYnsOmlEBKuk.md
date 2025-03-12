@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-250 songs - 12 hr 11 min
+251 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Endless White Noise](https://open.spotify.com/track/0vXwLcYUyiwOEPVihyhAwy) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Endless White Noise](https://open.spotify.com/album/3RKwxDuYhBt8MTBFAwAsX3) | 4:19 | 2023-09-11 |  |
 | [Enveloppe mon esprit](https://open.spotify.com/track/4xS7sINj4WKMF9NllK0a0U) | [Bruits Abstraits](https://open.spotify.com/artist/5XuNycZQddvgkuH8Jh7V7C) | [Soothing White Noise For Sleep](https://open.spotify.com/album/1ngnExY2eUxygabPL1i4F9) | 2:02 | 2023-12-04 | 2024-02-06 |
 | [Every Night White Noise](https://open.spotify.com/track/5nMbf1TCIXxtgWjcCT7pzs) | [The Noisy Outdoors](https://open.spotify.com/artist/6ipASreqbHk6a7aR2xo9BW) | [Every Night White Noise](https://open.spotify.com/album/6ZKRu38HcgmoIaJwj61XgD) | 2:41 | 2023-09-11 |  |
-| [Extraordinary White Noise](https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:51 | 2023-12-04 |  |
+| [Extraordinary White Noise](https://open.spotify.com/track/4uMHgTZPsBYkrtCDhebDsj) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:51 | 2023-12-04 | 2025-03-12 |
 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 | 2023-09-11 |  |
 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 | 2023-09-11 |  |
 | [Feathery White Noise](https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Feathery White Noise](https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1) | 2:53 | 2023-09-11 |  |
@@ -154,7 +154,7 @@
 | [Soft Blast](https://open.spotify.com/track/7fn5ya7NmgMuuOJbIgPAfy) | [Bits & Noise](https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ) | [Soft Blast](https://open.spotify.com/album/5FabJyxm47hPSwUrJkJLx8) | 2:13 | 2023-09-11 |  |
 | [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2023-09-11 |  |
 | [Soft Noise](https://open.spotify.com/track/4fsfEiFvQfE29jOV2PSCJW) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Baby Bedtime Noise](https://open.spotify.com/album/5LEScikAzc9W54vqrtENDq) | 2:30 | 2023-09-11 |  |
-| [Softening Frequencies Part 1](https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Softening Frequencies](https://open.spotify.com/album/3klP1gEXHQAoOoXxoMW3ov) | 2:30 | 2023-09-11 |  |
+| [Softening Frequencies Part 1](https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Softening Frequencies](https://open.spotify.com/album/3klP1gEXHQAoOoXxoMW3ov) | 2:30 | 2023-09-11 | 2025-03-12 |
 | [Sonido Sonora](https://open.spotify.com/track/2XW35SHWNOv15kYLwbeCcn) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ondas de Sonido Blancas](https://open.spotify.com/album/763mIagaLoDTcpWcVwmgSR) | 2:54 | 2023-12-04 | 2024-06-08 |
 | [Soothing Deep](https://open.spotify.com/track/7onLbJEZjADTmezCnSWND5) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 3:07 | 2023-09-11 |  |
 | [Soothing Field Noise](https://open.spotify.com/track/2EGXrlIaOm4Qd3aEQy60GV) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:33 | 2023-09-11 |  |
@@ -181,7 +181,7 @@
 | [Tranquil White Noise](https://open.spotify.com/track/2YTcBeRLoVO2MkzKpbxPVW) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Tranquil White Noise](https://open.spotify.com/album/4hAIiM2Tn4YFAQ18f9Hfot) | 2:49 | 2023-09-11 |  |
 | [Tranquility](https://open.spotify.com/track/6CbPp21JO1ZFFVkP9vism2) | [Somnolence](https://open.spotify.com/artist/0np7yt4AmDMRNvEuYgOIXm) | [Tranquility](https://open.spotify.com/album/76TCh1UTFZMjIsHWZphYKD) | 2:49 | 2023-09-11 |  |
 | [Tranquility Blanket](https://open.spotify.com/track/0iwfZ4faChdiFsdsUS8h6o) | [Madame Blanc's White Noise](https://open.spotify.com/artist/56aahVIOH4PvwQeFIGok9z) | [Tranquility Blanket](https://open.spotify.com/album/09JBMDbUUT9DeT9bHjsPlx) | 5:12 | 2024-02-05 |  |
-| [Ultimate White Relax](https://open.spotify.com/track/4mPTWLH97UcirkxnOZpN8c) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Ultimate White Relax](https://open.spotify.com/album/3CNqcyzHRlQQr0QBzFJB2c) | 2:50 | 2023-12-04 | 2025-02-23 |
+| [Ultimate White Relax](https://open.spotify.com/track/4mPTWLH97UcirkxnOZpN8c) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Ultimate White Relax](https://open.spotify.com/album/3CNqcyzHRlQQr0QBzFJB2c) | 2:50 | 2023-12-04 |  |
 | [Under the Waves](https://open.spotify.com/track/5IWaJyQjI6v7M16iFiaNNR) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 | 2023-09-11 |  |
 | [Underneath the Stars](https://open.spotify.com/track/1oFhAF9AP4kV7uimscgcyn) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 | 2023-09-11 |  |
 | [Vliegtuiglawaai](https://open.spotify.com/track/5YuFQoMrfSG3o4Hn2Gn2m1) | [Volgorde](https://open.spotify.com/artist/4An4kwjdOiPnaT77Z2v8YA) | [Vliegtuiglawaai](https://open.spotify.com/album/3BOt4O4LVbT9NNTXH98iIL) | 2:47 | 2023-09-11 |  |
@@ -246,6 +246,7 @@
 | [White Noise with 2 Peaks](https://open.spotify.com/track/4uG8hIsqnoFliHs8UmfW5E) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [White Noise Grotte](https://open.spotify.com/album/5D8dgeJHUpfnZwx0sNPA2W) | 3:23 | 2023-09-11 |  |
 | [White Oasis](https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:30 | 2023-09-11 | 2023-12-05 |
 | [White Reverb 800 Hz](https://open.spotify.com/track/68s3njCBvLcevxxMSOjq8P) | [Worry Less](https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux) | [Worryless White Noise](https://open.spotify.com/album/0aEDSss6BeAgY6VIc3WkWV) | 3:22 | 2023-09-11 | 2025-02-05 |
+| [White Roses Static](https://open.spotify.com/track/2t6cAPfMIdgMOlsfFMr2e5) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [White Roses Static](https://open.spotify.com/album/5U8R8epqr0R6Jwnky2pTSu) | 4:45 | 2025-02-04 |  |
 | [White Serenity](https://open.spotify.com/track/7dD3etWhKwTaEwy0VinwAY) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:08 | 2023-09-11 | 2023-10-20 |
 | [White Stars](https://open.spotify.com/track/7Fys0m6kGltWbqYeSAGAMx) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [White Stars](https://open.spotify.com/album/0BLt2AQUVsNb1RqZaBOxf0) | 2:45 | 2023-09-11 |  |
 | [White Tonality](https://open.spotify.com/track/3BAUrjO1MvnrTPtEGje79S) | [Blazerod](https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS) | [White Tonality](https://open.spotify.com/album/69U1JNZagRXGoegXk8DaYN) | 2:57 | 2023-09-11 |  |

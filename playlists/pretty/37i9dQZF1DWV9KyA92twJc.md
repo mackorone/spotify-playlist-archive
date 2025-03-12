@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: יסמין מועלם
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,552 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,553 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 86 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 |
 | 87 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 |
 | 88 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
-| 89 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 |
-| 90 | [תיק קטן](https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [תיק קטן](https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f) | 2:53 |
+| 89 | [תיק קטן](https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [תיק קטן](https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f) | 2:53 |
+| 90 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 |
 | 91 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 |
 | 92 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 |
 | 93 | [38 וחוץ מכדורגל](https://open.spotify.com/track/3X0WwsNHfSqpd85A9Iggr2) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [38 וחוץ מכדורגל](https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya) | 4:26 |

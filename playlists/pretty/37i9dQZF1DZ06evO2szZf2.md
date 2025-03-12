@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,020 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,027 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 48 | [Catucadão](https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f) | [Shevchenko e Elloco](https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Marley](https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI), [Biel XCamoso](https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab) | [Catucadão](https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt) | 2:18 |
 | 49 | [Popola \(feat\. Mc Dricka\)](https://open.spotify.com/track/41mbP4HHVq29rVatGp0S2t) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Mellokillaz](https://open.spotify.com/album/4Tl9UDO3kyio8srwAu4Jnd) | 2:36 |
 | 50 | [Vagabunda do Caralho](https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Rickweek](https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf) | 2:06 |
-| 51 | [PANCADA](https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [PANCADA](https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o) | 2:15 |
 
 Snapshot ID: `Z8zaAAAAAACU+1pYjFman094M0sDLNTE`

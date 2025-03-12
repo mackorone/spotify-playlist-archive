@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Igu
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,628 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,646 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 71 | [Rumor de Guerra](https://open.spotify.com/track/1dnG4PWXwoApmVe9dH3W0J) | [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [011Frank](https://open.spotify.com/artist/1HWkitLyqDmRwKAcEqGAA0), [Solanno](https://open.spotify.com/artist/2B4P0FlRtczEUKlMWUnM4g) | [Rumor de Guerra](https://open.spotify.com/album/1IbgPl1nL6PB2Y52ghzgvD) | 3:10 |
 | 72 | [MOTIVO](https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV) | [MOTIVO](https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB) | 2:46 |
 | 73 | [Chuck Freestyle](https://open.spotify.com/track/2M836HhPnz7oOFs3gr9POm) | [Richard Mille](https://open.spotify.com/artist/2ZPSDSqk1cbv3yMlifkccd), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob) | [Chuck Freestyle](https://open.spotify.com/album/3AFGFD0qly7SfwqPlK4gbo) | 2:36 |
-| 74 | [Queridinho Do Chefe](https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [Empate Técnico](https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8) | 2:37 |
+| 74 | [Queridinho Do Chefe](https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [GVMBO](https://open.spotify.com/artist/2zIJRyv3KqdcMbaTEiiRtr), [saboya](https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [Empate Técnico](https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8) | 2:37 |
 | 75 | [Nunca](https://open.spotify.com/track/4HBqShJZv4jwHa95vGsbSM) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Nunca](https://open.spotify.com/album/24rFeIIse5hCIz1WX3KQ9Y) | 2:53 |
 
 Snapshot ID: `Z8phgAAAAACEOfB1Sk4CqK9bdkbBddu+`

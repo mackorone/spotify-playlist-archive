@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu populer dari dalam negeri dan mancanegara. Cover: Elliot James Reay",
+  "description": "Kumpulan lagu populer dari dalam negeri dan mancanegara. Cover: Jackson Wang",
   "name": "Hits Banget",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "album": {
+        "name": "100 Ways",
+        "url": "https://open.spotify.com/album/7Di9g9Wr0V8kAgY8irZ3Ha"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/3bdf03GVNLm9GOhjSFvdd9"
     },
     {
       "album": {
@@ -244,7 +262,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/3h4T9Bg8OVSUYa6danHeH5"
@@ -526,6 +544,24 @@
       "duration_ms": 216893,
       "name": "bloodline",
       "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
+    },
+    {
+      "album": {
+        "name": "MAGIC MAN",
+        "url": "https://open.spotify.com/album/7ecGpncOzxSWmaZlCtQ7im"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5WjFTHBXtirpkDcG0pZYQH"
     },
     {
       "album": {
@@ -1710,7 +1746,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"

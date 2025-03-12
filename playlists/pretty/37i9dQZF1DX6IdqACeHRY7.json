@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 155200,
+  "num_followers": 155206,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Mads Langer",
-        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Fact - Fiction",
-      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Hey Ya!",
         "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
       },
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
+        "name": "Mads Langer",
+        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Fact - Fiction",
+      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 189557,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+        "name": "Until The Morning Light",
+        "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
+      "duration_ms": 188493,
+      "name": "Until The Morning Light",
+      "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1415,22 +1431,6 @@
       "duration_ms": 189862,
       "name": "New Eyes - Acoustic",
       "url": "https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
-        "name": "Until The Morning Light",
-        "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
-      },
-      "artists": [
-        {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Until The Morning Light",
-      "url": "https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Say Goodnight",
-        "url": "https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor"
-      },
-      "artists": [
-        {
-          "name": "Freja Kirk",
-          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
-        }
-      ],
-      "duration_ms": 166258,
-      "name": "Say Goodnight",
-      "url": "https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/4N9AuVTmDL04boSPuWksI9"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 190072,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/76vWvM44jeCgBKryBaLcqe"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Say Goodnight",
+        "url": "https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor"
+      },
+      "artists": [
+        {
+          "name": "Freja Kirk",
+          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
+        }
+      ],
+      "duration_ms": 166258,
+      "name": "Say Goodnight",
+      "url": "https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Inner Critic's Choice Awards",
-        "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 235715,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 197055,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Inner Critic's Choice Awards",
+        "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 235715,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
     },
     {
       "added_at": "2025-02-10 10:04:29",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-02-10 10:04:29",
       "album": {
-        "name": "Wish I Was Right For You",
-        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
-      },
-      "artists": [
-        {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
-        }
-      ],
-      "duration_ms": 182562,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2025-02-10 10:04:29",
-      "album": {
         "name": "Mary Glenn",
         "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 322478,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
+    },
+    {
+      "added_at": "2025-02-10 10:04:29",
+      "album": {
+        "name": "Wish I Was Right For You",
+        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        }
+      ],
+      "duration_ms": 182562,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
     },
     {
       "added_at": "2025-02-10 10:04:29",

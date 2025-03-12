@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,172 likes - 51 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,174 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 48 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
 | 49 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 |
 | 50 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
-| 51 | [Tifanny](https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6), [Bgnobeat](https://open.spotify.com/artist/5V6BONZ5wppD3nyZtFtjqp) | [Tifanny](https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643) | 2:40 |
 
 Snapshot ID: `Z8zaAAAAAADf25PxBKp03SFSYr9M7v/L`

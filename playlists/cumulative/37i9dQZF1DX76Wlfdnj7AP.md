@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,408 songs - 3 day 3 hr 59 min
+1,409 songs - 3 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,7 +816,7 @@
 | [Mufasa](https://open.spotify.com/track/6FwvvtAuHIvdeupkTpaTRN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [The Golden Army](https://open.spotify.com/artist/0WirkzcH4M2ciZUIrsbjzE) | [Mufasa](https://open.spotify.com/album/0Y14UgLNLTciavxITaoKtO) | 2:47 | 2019-05-26\* | 2019-10-23 |
 | [Mumbai Power](https://open.spotify.com/track/2beor6qrB0XJxW1CM6X9x2) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Show Tracks](https://open.spotify.com/album/6xKK037rfCf2f6gf30SpvL) | 2:38 | 2019-09-01 | 2019-10-23 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2023-07-14 |  |
-| [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 | 2024-05-03 |  |
+| [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 | 2024-05-03 | 2025-03-12 |
 | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke) | 2:46 | 2024-08-23 | 2024-09-19 |
 | [Music Means Love Forever](https://open.spotify.com/track/7nlXw2qQ38tx4UvBwVL5Ne) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Music Means Love Forever](https://open.spotify.com/album/54MIiA8hZ7y2vU0cbiHjbE) | 3:27 | 2021-10-13 | 2021-11-16 |
 | [Mutate \- 2k19 Festival Mix](https://open.spotify.com/track/4AC0cgrfUb3tiwiqnKhnge) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Mutate \(2k19 Festival Mix\)](https://open.spotify.com/album/2m2dJR8BLCD9mO38x8aLf8) | 2:44 | 2019-05-26\* | 2019-10-23 |
@@ -1053,6 +1053,7 @@
 | [Run It \(feat\. Rick Ross & Rich Brian\)](https://open.spotify.com/track/282R6Lvm9nLtpx8AzUwJe0) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Run It \(feat\. Rick Ross & Rich Brian\)](https://open.spotify.com/album/1FV8d1q44uSeqkGK7fNh3D) | 2:43 | 2021-08-26 | 2022-07-29 |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2020-11-11 | 2024-05-03 |
 | [Runnin'](https://open.spotify.com/track/5udWL9eGu0qXemjM0n8JBu) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Lights Out](https://open.spotify.com/album/32LkH1jXB0Vu6Fx7IGs153) | 3:18 | 2019-09-01 | 2020-05-30 |
+| [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-03-11 |  |
 | [Rust to Gold](https://open.spotify.com/track/3QA66YGqHvdSthvEAhGmMH) | [Council](https://open.spotify.com/artist/3N7z79Am2V9dxOxd8K2HVo) | [Rust to Gold](https://open.spotify.com/album/3SSCXytWJyxGKHyrPubgzV) | 3:46 | 2019-07-09 | 2021-05-28 |
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2021-03-16 | 2022-08-09 |
 | [Sacrificial](https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Sacrificial](https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS) | 3:02 | 2021-02-09 | 2022-07-29 |

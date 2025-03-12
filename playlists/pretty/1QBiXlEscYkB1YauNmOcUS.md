@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain](/playlists/plain/1QBiXlEscYkB1YauNmOcUS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1QBiXlEscYkB1YauNmOcUS)
 
-### [Top Party Hits 2024](https://open.spotify.com/playlist/1QBiXlEscYkB1YauNmOcUS)
+### [Top Party Hits 2025](https://open.spotify.com/playlist/1QBiXlEscYkB1YauNmOcUS)
 
-> All of the Top Party Hits  on one playlist! Featuring, Lizzo, <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=BUaA00TfR56UlLKwdmVspQ"> Dua Lipa</a>, David Guetta,  Jack Harlow, Tiësto, Kenny Grace, Nathan Dawe, Bebe Rexha and many more!
+> Party hits.
 
 [Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,393 likes - 71 songs - 3 hr 44 min
 
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 | 70 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 | 71 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 
-Snapshot ID: `AAAXVeKGF+PGMHtk2GCWqvnySXD9tNcs`
+Snapshot ID: `AAAXVjnT5TXQtP1fzr9HsbPUq1SQD9ve`

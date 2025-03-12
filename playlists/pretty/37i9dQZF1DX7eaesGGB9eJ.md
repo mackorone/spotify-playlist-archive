@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,192 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,276 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 16 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
 | 17 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
 | 18 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
-| 19 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
-| 20 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
+| 19 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
+| 20 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 21 | [La Sangre Nunca Muere](https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [La Sangre Nunca Muere](https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ) | 5:14 |
 | 22 | [Policías En Helicóptero \(con El Aarón\)](https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Deja Vú](https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd) | 3:23 |
 | 23 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE) | [El Chivo](https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7) | [Si Ladran No Muerden](https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J) | 4:26 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 35 | [Latino](https://open.spotify.com/track/7t4rIjeixySolatxQ336g9) | [Reyes Del Pulmon](https://open.spotify.com/artist/7sEXB3F1A0SF58LvJNJIfw) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 4:29 |
 | 36 | [Tu \(feat\. Sekreto\)](https://open.spotify.com/track/6nq4eEHLFFvTA2Q1LuHdJK) | [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf), [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8) | [Tu \(feat\. Sekreto\)](https://open.spotify.com/album/5QbGSUzwsr6TE6LcEwG7be) | 4:20 |
 | 37 | [Neza No\. 1](https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0) | [Sociedad Café](https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR) | [Rap Latino](https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz) | 4:33 |
-| 38 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
+| 38 | [Los Gritos del Iconoclasta](https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El Manual de la Otredad](https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je) | 3:31 |
 | 39 | [Plata o Plomo \(feat\. Eugenia León\)](https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:35 |
-| 40 | [Los Gritos del Iconoclasta](https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El Manual de la Otredad](https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je) | 3:31 |
+| 40 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
 | 41 | [Hoy No Circulo](https://open.spotify.com/track/3UHc064XWh0sTWoMmDTBeu) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [DFMXVG](https://open.spotify.com/album/35UZzg3KUxH3HAEyp3F3OU) | 2:49 |
 | 42 | [Margarito](https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR) | [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw) | [Margarito No Cometio Delito](https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z) | 3:05 |
 | 43 | [Camaleones \- Remasterizado](https://open.spotify.com/track/4miCCObbx713lWPnTAZXHh) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m) | [Camaleones \(Remasterizado\)](https://open.spotify.com/album/3qbeaGHvshA1NZDv0slOpj) | 2:33 |

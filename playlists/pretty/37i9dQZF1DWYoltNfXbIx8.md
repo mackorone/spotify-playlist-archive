@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,564 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,585 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 5 | [Oitavo Anjo](https://open.spotify.com/track/73ZFqSslPNdKZBRmGcGzKW) | [509\-E](https://open.spotify.com/artist/66F3yLuWFXacPEAmJNfRBi) | [Provérbios 13](https://open.spotify.com/album/4tWDp6fP9O3wNfko1UCaQo) | 5:28 |
 | 6 | [Carruagem da Morte](https://open.spotify.com/track/6yXD3xccHxXB9C0hr455gL) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/2m14oSniAdhSxqvusote9T) | 7:52 |
 | 7 | [O 5° Vigia](https://open.spotify.com/track/3ZhYU1cx9sSF8pO0pNZVb7) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/7eoDHbH4OqDqRGZFBjgOzf) | 6:17 |
-| 8 | [O Homem Estragou Tudo](https://open.spotify.com/track/5gbRWrqq9jnGhzxQfUMPHC) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Direto do Campo de Extermínio](https://open.spotify.com/album/1Go1H9TBAYiZzvTyDn63r9) | 5:15 |
+| 8 | [O Homem Estragou Tudo](https://open.spotify.com/track/5gbRWrqq9jnGhzxQfUMPHC) | [Facção Central](https://open.spotify.com/artist/0gFS8ROCjrTZUHXt1roaa5) | [Direto do Campo de Extermínio](https://open.spotify.com/album/1Go1H9TBAYiZzvTyDn63r9) | 5:15 |
 | 9 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/2cMC75ZGakoHD31Yvp3mbA) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Realidade Cruel \(Ao Vivo\)](https://open.spotify.com/album/3d5zGxG8wFLzc0pAlE2xTH) | 4:55 |
 | 10 | [Favela Sinistra](https://open.spotify.com/track/3G8gF1ClzlQBV66fz6S6JB) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 3:35 |
 | 11 | [A Onda Leva](https://open.spotify.com/track/1IpHjWb6dLTxwQHoyGDFq1) | [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr), [Iel](https://open.spotify.com/artist/7CeX8FscZ3ymBM7szYWEIp) | [A Onda Leva](https://open.spotify.com/album/6UudV04sbXaZA2pvAW8Ply) | 3:05 |
-| 12 | [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 |
+| 12 | [Artistas ou Não](https://open.spotify.com/track/0dRgUTQzIdmDuvmPQszmEO) | [Facção Central](https://open.spotify.com/artist/0gFS8ROCjrTZUHXt1roaa5) | [Juventude de Atitude](https://open.spotify.com/album/22Vf9nDmlJ6xmfvL4yLJh1) | 5:27 |
 | 13 | [Olha O Menino](https://open.spotify.com/track/0ptYXDqZ9GVPhJGPbUG8yY) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:53 |
 | 14 | [Paz Interior](https://open.spotify.com/track/5hO76mbTvvaKqpo3EmMb8N) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sandrão RZO](https://open.spotify.com/artist/0amwdzsF8JXZjz31pZjH0w) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 6:06 |
 | 15 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 35 | [Malandragem da um Tempo](https://open.spotify.com/track/081oMZSOzhiklgYPkySdTO) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Lino Crizz & Che Leal](https://open.spotify.com/artist/2NIUrYD2qwstVOfHwkuBtk) | [Preste Atenção](https://open.spotify.com/album/3cwZOIV5bkTrWG8Huzj1MV) | 6:52 |
 | 36 | [Sou Negrão](https://open.spotify.com/track/22jyfobuA8gTgTsTHGAPzG) | [Possemente Zulu](https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV) | [Revolusom: A Volta do Tape Perdido](https://open.spotify.com/album/0S2iqPNC2M1taMpLWA2Map) | 6:25 |
 | 37 | [Traficando Informação](https://open.spotify.com/track/1vSxH0qXUvKvgyE4PXi4i6) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Jr](https://open.spotify.com/artist/5QlOcu6Gkblz9Ix9w6yudx) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:46 |
-| 38 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 |
+| 38 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/0gFS8ROCjrTZUHXt1roaa5) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 |
 | 39 | [Só Que é Louco](https://open.spotify.com/track/3LsMUTCs1m6AUGxohkhQil) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/3WlEvfTC8X2VBd8cO5ue3i) | 4:57 |
 | 40 | [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 |
 | 41 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Recordando al Rey de Corazones a 10 años de su partida 🕊️✨💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,915 likes - 58 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,054 likes - 58 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 42 | [Y Porque te Portaste Mal](https://open.spotify.com/track/6thBD2H1uoo8Wqwgt9IOeG) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:18 |
 | 43 | [Los Tanates](https://open.spotify.com/track/5kyOHakYMj1O4BVk5gTUj9) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:33 |
 | 44 | [El Levanton](https://open.spotify.com/track/7AQClKW9q65GLqfddRVWTJ) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:33 |
-| 45 | [Ya Lo Superé](https://open.spotify.com/track/4iaNUGJqM57kr27NMye44J) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:24 |
-| 46 | [El Panu](https://open.spotify.com/track/2e01RR54ja790T5TmuSd3N) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:19 |
+| 45 | [El Panu](https://open.spotify.com/track/2e01RR54ja790T5TmuSd3N) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:19 |
+| 46 | [Ya Lo Superé](https://open.spotify.com/track/4iaNUGJqM57kr27NMye44J) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:24 |
 | 47 | [El Corrido del Guero](https://open.spotify.com/track/1JaqNTwpRi0Hgve9OcsqXp) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:25 |
 | 48 | [El Corrido de la Roca](https://open.spotify.com/track/24hubDtXtomGYm8I6wJzDz) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:27 |
 | 49 | [Sangre Se Paga Con Sangre](https://open.spotify.com/track/2uv0QwouJSVobQ5FT9QS5y) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 4:16 |

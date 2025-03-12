@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
-  "num_followers": 94009,
+  "num_followers": 94025,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
-      },
-      "artists": [
-        {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "2 Gouden",
         "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
       "artists": [
         {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
         }
       ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 185965,
       "name": "Bwa Kale",
       "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Way Too Nice",
-        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
-      },
-      "artists": [
-        {
-          "name": "Eyo-E",
-          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
-        }
-      ],
-      "duration_ms": 125600,
-      "name": "Way Too Nice",
-      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Mennaj Moun Yo",
-        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Mennaj Moun Yo",
-      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1347,6 +1315,38 @@
       "duration_ms": 286840,
       "name": "Flanm",
       "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Way Too Nice",
+        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
+      },
+      "artists": [
+        {
+          "name": "Eyo-E",
+          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
+        }
+      ],
+      "duration_ms": 125600,
+      "name": "Way Too Nice",
+      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Mennaj Moun Yo",
+        "url": "https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Mennaj Moun Yo",
+      "url": "https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Regr\u00e8",
-        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
-      },
-      "artists": [
-        {
-          "name": "Wood Terrib",
-          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
-        }
-      ],
-      "duration_ms": 229998,
-      "name": "Regr\u00e8",
-      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Souvni",
         "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 210410,
       "name": "Souvni",
       "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Regr\u00e8",
+        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
+      },
+      "artists": [
+        {
+          "name": "Wood Terrib",
+          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
+        }
+      ],
+      "duration_ms": 229998,
+      "name": "Regr\u00e8",
+      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 141528,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "MARRAKECH",
-        "url": "https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 141528,
-      "name": "MARRAKECH",
-      "url": "https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2024-11-22 05:00:00",

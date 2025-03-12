@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,286 likes - 51 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,302 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 48 | [Padre Nuestro \(En Vivo\)](https://open.spotify.com/track/3pjl44IOMQPTcxrf7gE74v) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 6:54 |
 | 49 | [Homecoming \(Live\)](https://open.spotify.com/track/59Sd4AqkDIlx1BnOgxOpXM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:48 |
 | 50 | [I’ll Be Everything](https://open.spotify.com/track/7zwxsdRIYKJPs68hQae83C) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 4:55 |
-| 51 | [This Is Amazing Grace](https://open.spotify.com/track/6ypvZnpX4w9B1VdgmjlhjS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T) | 7:32 |
 
 Snapshot ID: `Z8zaAAAAAADn3lO02TExUaBQ8YVewqzd`

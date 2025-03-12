@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-934 songs - 2 day 4 hr 52 min
+935 songs - 2 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [AUTOMATIC](https://open.spotify.com/track/4xYMDPAohsKkfsO2lHltOQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [AUTOMATIC](https://open.spotify.com/album/3M7GhG2yRtLncbiLtDBm6D) | 2:50 | 2023-08-03 | 2023-12-14 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
 | [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 | 2023-04-20 |
-| [Añoranza](https://open.spotify.com/track/202AaEVsc9I8iZnv9Q8Hu0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Alex Hentze](https://open.spotify.com/artist/5ItWUx5u41dOWwFl0W41aJ) | [Añoranza](https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG) | 3:00 | 2024-12-03 |  |
+| [Añoranza](https://open.spotify.com/track/202AaEVsc9I8iZnv9Q8Hu0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Alex Hentze](https://open.spotify.com/artist/5ItWUx5u41dOWwFl0W41aJ) | [Añoranza](https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG) | 3:00 | 2024-12-03 | 2025-03-12 |
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 | 2023-07-09 |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
@@ -376,6 +376,7 @@
 | [Hit the Ground](https://open.spotify.com/track/1jZ4irbZ1NSFdaoz2MjQtK) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [I Contain Flashing Images](https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER) | 4:22 | 2024-05-30 | 2024-08-21 |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
 | [Holding On Is Human](https://open.spotify.com/track/6ws7SG03iSjzEJmG1JroFB) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Familiar Faces](https://open.spotify.com/album/1mEJclhYTF4tn0UdC5VSey) | 4:15 | 2023-11-14 | 2024-02-28 |
+| [Home](https://open.spotify.com/track/0OprknYuyOUDWdEPY1aSDN) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Home](https://open.spotify.com/album/6HKKBO75lKYdWJPdW76Gmp) | 3:27 | 2025-03-11 |  |
 | [Honey Water](https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Honey Water](https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw) | 3:40 | 2024-11-28 | 2025-03-08 |
 | [Hope](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Hope](https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT) | 3:20 | 2022-08-10 | 2022-10-21 |
 | [Hopeful](https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Hopeful](https://open.spotify.com/album/4Y4QTmcND8jyE7zCKuRL7b) | 3:51 | 2022-10-07 | 2022-12-08 |
@@ -617,7 +618,7 @@
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |
 | [Phases Of The Moon](https://open.spotify.com/track/4V7J0Au7NmhmPV9WwKcr48) | [Embliss](https://open.spotify.com/artist/5MSK0EcJzGYAEgTCY7EIAa), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Phases Of The Moon](https://open.spotify.com/album/4KE7wS3749LiK3LZFjBVSW) | 4:18 | 2022-07-13 | 2022-09-27 |
 | [Pirate King](https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Pirate King](https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid) | 3:37 | 2023-05-31 | 2023-08-28 |
-| [PLAY \- VIP](https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PLAY \(VIP\)](https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q) | 3:55 | 2024-12-02 |  |
+| [PLAY \- VIP](https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PLAY \(VIP\)](https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q) | 3:55 | 2024-12-02 | 2025-03-12 |
 | [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 | 2024-09-05 |
 | [Polarised](https://open.spotify.com/track/3MKWCuPRKubEOplEPgGyQL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Polarised](https://open.spotify.com/album/49iHwFQju9SdF39hRDaJoL) | 3:29 | 2025-01-17 |  |
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 | 2024-03-07 |

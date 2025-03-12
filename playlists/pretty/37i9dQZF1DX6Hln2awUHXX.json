@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 104992,
+  "num_followers": 105012,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Symphonies In E Major & C Major",
+        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Tokyo Metropolitan Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+        },
+        {
+          "name": "Hiroshi Wakasugi",
+          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
+      "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 377000,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Selig, wie die Sonne\"",
       "url": "https://open.spotify.com/track/12i2QXRtwdx7QTL4IDojIp"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Symphonies In E Major & C Major",
-        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Tokyo Metropolitan Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
-        },
-        {
-          "name": "Hiroshi Wakasugi",
-          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
-      "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -823,34 +823,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner : Tristan und Isolde",
-        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Marjana Lipovsek",
-          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
-      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Parsifal - Highlights",
         "url": "https://open.spotify.com/album/6OO27o75UtOX5ZFcuPmzqV"
       },
@@ -879,6 +851,34 @@
       "duration_ms": 176800,
       "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
       "url": "https://open.spotify.com/track/4YdLA4kxmuaJEMhXOYfbHD"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner : Tristan und Isolde",
+        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Marjana Lipovsek",
+          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
+      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
     },
     {
       "added_at": "2022-06-28 08:58:25",

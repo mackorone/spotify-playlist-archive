@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 222613,
       "name": "Ben De\u011filim",
       "url": "https://open.spotify.com/track/4Fcoc1T0sMSATaxoidF4ei"
@@ -4690,6 +4690,24 @@
       "duration_ms": 240626,
       "name": "B\u0131rakma Kendini",
       "url": "https://open.spotify.com/track/087cds8zjbUmokjg2jdMOp"
+    },
+    {
+      "album": {
+        "name": "B\u0131rak\u0131n Aras\u0131n",
+        "url": "https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA"
+      },
+      "artists": [
+        {
+          "name": "Ceren Sagu",
+          "url": "https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158501,
+      "name": "B\u0131rak\u0131n Aras\u0131n",
+      "url": "https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm"
     },
     {
       "album": {
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 186562,
       "name": "GELME \u0130STEMEM",
       "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
@@ -20266,7 +20284,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 219872,
       "name": "Uzaktan",
       "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
@@ -21256,7 +21274,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 150909,
       "name": "Yasemen",
       "url": "https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF"

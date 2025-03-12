@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,108 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,126 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 91 | [Grita Tierra](https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ) | [UN Live](https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Sandesh Manuel](https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1), [Conector](https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Hna Nidia Macías](https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp) | [Grita Tierra](https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z) | 4:35 |
 | 92 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
 | 93 | [Si Somos Americanos](https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1) | [Rolando Alarcon](https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 2:03 |
-| 94 | [Poder Elegir](https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Cultura De La Basura](https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF) | 8:02 |
-| 95 | [Regalé Mis Ojos](https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Regalé Mis Ojos](https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS) | 4:20 |
-| 96 | [Nada Es Verdad \(Finale\) / Spoken Words](https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México \- El Musical](https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD) | 1:54 |
-| 97 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
+| 94 | [Regalé Mis Ojos](https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Regalé Mis Ojos](https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS) | 4:20 |
+| 95 | [Poder Elegir](https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Cultura De La Basura](https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF) | 8:02 |
+| 96 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
+| 97 | [Nada Es Verdad \(Finale\) / Spoken Words](https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México \- El Musical](https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD) | 1:54 |
 | 98 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 |
 | 99 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
 | 100 | [Bandera](https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Rio](https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e) | 2:37 |

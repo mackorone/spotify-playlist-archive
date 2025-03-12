@@ -4,12 +4,13 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-233 songs - 10 hr 23 min
+235 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11Pm\. Brilla](https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [11Pm\. Brilla \(Dreaming of Chopin\)](https://open.spotify.com/album/4WA7u4WEccPGhEIpg34KGq) | 4:10 | 2022-08-03 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/6Rp5W8wwFK4pKpmT06yNsq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 2:41 | 2022-08-03 |  |
+| [A Gentle Embrace](https://open.spotify.com/track/3SMmmZaDKKvUcqz8P2ti4w) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [A Gentle Embrace](https://open.spotify.com/album/5TuzhOtXZaKJeZMzUwfRAY) | 2:29 | 2025-03-11 |  |
 | [A Glimpse Of Light](https://open.spotify.com/track/7GwZI1U1TqFlj9d6klLS8t) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [A Glimpse Of Light](https://open.spotify.com/album/2uVNjDbNCQKp2QADv3YN8b) | 2:45 | 2024-04-03 |  |
 | [A New Start](https://open.spotify.com/track/3inyKRu1a4IJDE9RUEcfKd) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [A New Start](https://open.spotify.com/album/4qWtSHyc3thJSYU7nUHpOb) | 2:35 | 2024-08-19 |  |
 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 | 2024-09-24 |  |
@@ -17,6 +18,7 @@
 | [Adagio](https://open.spotify.com/track/0WlUpjW0LMvVPQs0rOqz5d) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Adagio](https://open.spotify.com/album/1LRAhzP8t4glbwQWgljKpY) | 2:34 | 2023-09-26 |  |
 | [Adagio Cantabile](https://open.spotify.com/track/0XXUvKMV5pFX1bycy9PUX6) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Adagio Cantabile](https://open.spotify.com/album/35BgRashHcSF0sfy8HmodF) | 3:14 | 2022-12-06 |  |
 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 | 2022-09-12 |  |
+| [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 | 2025-03-11 |  |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-08-03 |  |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-08-03 |  |
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-08-03 |  |

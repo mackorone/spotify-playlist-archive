@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Cazzu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,075 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,430 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 6 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
 | 7 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 8 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
-| 9 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 9 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 10 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |
 | 11 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
 | 12 | [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 |
-| 13 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
+| 13 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 14 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 15 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
 | 16 | [Hungamaa Ho Gaya](https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Queen](https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj) | 4:31 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 54 | [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 |
 | 55 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 |
 | 56 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
-| 57 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
+| 57 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
 | 58 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
-| 59 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
-| 60 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
-| 61 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
+| 59 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
+| 60 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
+| 61 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
 | 62 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 |
 | 63 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
 | 64 | [lo que un día fue](https://open.spotify.com/track/1cuO9s59NdTpSnG5HGB8KD) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [lo que un día fue](https://open.spotify.com/album/3l8U4M2Ueky7Mlv7lcRBK0) | 2:54 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
 | 69 | [Boys Love Girls](https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boys Love Girls](https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr) | 3:01 |
 | 70 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
-| 71 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
-| 72 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
+| 71 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
+| 72 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
 | 73 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
 | 74 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/4TVlo7hVwm2Gx37EqbC0Ds), [Pháo](https://open.spotify.com/artist/47CxuOSQXSPpW6oAy4UZec) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 |
 

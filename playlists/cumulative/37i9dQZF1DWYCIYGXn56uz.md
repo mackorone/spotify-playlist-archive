@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Sarah Toscano
 
-638 songs - 1 day 5 hr 35 min
+639 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [UN'ALTRA ORA](https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [UN'ALTRA ORA](https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ) | 2:55 | 2023-05-18 | 2023-09-22 |
 | [una canzone al giorno](https://open.spotify.com/track/6y9aoXQMdsJxPg2FIxdmdv) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [una canzone al giorno](https://open.spotify.com/album/1hw4MhXLRqFTaMJREQpTvn) | 2:31 | 2023-11-09 | 2023-11-24 |
 | [Una fase](https://open.spotify.com/track/3cx6WNePky0DkyWnso8tCS) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Una fase](https://open.spotify.com/album/6gRaz8q7utNeDbozQ2sPwy) | 2:25 | 2024-10-17 | 2024-11-29 |
+| [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 | 2025-03-11 |  |
 | [Una stella in cielo](https://open.spotify.com/track/5HyTee9UYav7DYngohVycc) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [ORA D'ARIA](https://open.spotify.com/album/3e3QTPyeIRp0lkTdbAWgxC) | 2:49 | 2024-02-29 | 2024-03-15 |
 | [Unica](https://open.spotify.com/track/1dy9J9p6pWPmuxvi34A1As) | [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Unica](https://open.spotify.com/album/1IBi8TeetLlAXP8sFOmW7i) | 2:21 | 2023-04-13 | 2023-05-05 |
 | [Unica](https://open.spotify.com/track/5hVC2pqvboHxk1iTwnBwJY) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX), [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Unica \(feat\. EDN\)](https://open.spotify.com/album/2pJRiDa1sWZedP2IEuxB17) | 2:57 | 2024-12-19 |  |

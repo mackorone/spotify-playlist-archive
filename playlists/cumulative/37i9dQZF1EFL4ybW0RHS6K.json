@@ -513,6 +513,32 @@
     },
     {
       "album": {
+        "name": "Dag & Nacht",
+        "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Dag & Nacht",
+      "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
+    },
+    {
+      "album": {
         "name": "Jongen Van De Straat",
         "url": "https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T"
       },

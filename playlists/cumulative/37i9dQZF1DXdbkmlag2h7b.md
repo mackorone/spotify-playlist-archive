@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-247 songs - 12 hr 42 min
+248 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Closer](https://open.spotify.com/track/3A2qFGe7UPTd7G6KbNZjCw) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:11 | 2021-12-09 | 2022-07-29 |
 | [Closer \- Stripped](https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:03 | 2021-12-09 | 2022-05-20 |
 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 | 2021-12-09 | 2023-10-11 |
+| [Cosmos](https://open.spotify.com/track/1VVrXLUjsP95YDsIcrPePT) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Cosmos](https://open.spotify.com/album/1qODcPWaDKdK4bGZGgNDKA) | 2:44 | 2025-03-05 |  |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2021-12-09 | 2023-02-28 |
 | [Dedication](https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Dedication](https://open.spotify.com/album/67JarFlTD4R1wIvwAV9ZUD) | 3:24 | 2021-12-09 | 2022-09-17 |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2021-12-09 |  |
@@ -214,7 +215,7 @@
 | [Sunhaven](https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sunhaven](https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX) | 2:50 | 2025-01-28 |  |
 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 | 2022-03-25 | 2025-01-29 |
 | [Superior One](https://open.spotify.com/track/6ZHECfXA39MVACMuHInTH0) | [Semi Sphere](https://open.spotify.com/artist/1cTlMGKyJ6rAlPDTX3AKLU) | [Superior One](https://open.spotify.com/album/7chyTDzEXesDEjCQtU3Ylh) | 3:24 | 2025-03-05 |  |
-| [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 | 2021-12-09 |  |
+| [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 | 2021-12-09 | 2025-03-12 |
 | [Surrounded By Clouds](https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Surrounded By Clouds](https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b) | 2:38 | 2022-09-13 |  |
 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2022-07-22 | 2024-04-19 |
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 | 2022-04-21 |

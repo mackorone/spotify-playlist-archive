@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,022 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,243 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 65 | [Rack City](https://open.spotify.com/track/7FtA4puD4CKWqoPMTsWPdq) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Rack City](https://open.spotify.com/album/1MN3wQfWuQuq03vMqdtUXl) | 2:30 |
 | 66 | [Break A Sweat](https://open.spotify.com/track/4vu4xsD5SBo51HVTf9NZ9V) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Break A Sweat](https://open.spotify.com/album/3B9FrKe97pkuABcMfPFUf0) | 3:13 |
 | 67 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 |
-| 68 | [Most Precious Love](https://open.spotify.com/track/0BitoyjzQUhV0C5aqAh7cZ) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Most Precious Love](https://open.spotify.com/album/4KfgqybFwGuHk7h7OjfxnM) | 3:04 |
+| 68 | [Most Precious Love](https://open.spotify.com/track/0BitoyjzQUhV0C5aqAh7cZ) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Most Precious Love](https://open.spotify.com/album/4KfgqybFwGuHk7h7OjfxnM) | 3:04 |
 | 69 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
 | 70 | [Getting Started](https://open.spotify.com/track/3HNQtOPzlgNH8dct4qCorN) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Friendless](https://open.spotify.com/artist/0lrkJSVpKbalJUQKzmsCAv), [Panameira](https://open.spotify.com/artist/2jvmZb9gAjXRI6L4vD2T3Q), [Zemi Gold](https://open.spotify.com/artist/0koSWAICwK9Lscsy5Gkmb7) | [Getting Started](https://open.spotify.com/album/22J1pgqYPTCVx70I798TWA) | 2:37 |
 | 71 | [Paradise](https://open.spotify.com/track/34OvbmoYrnyfr9fEUrIsCP) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Paradise](https://open.spotify.com/album/3bI7h1S3nN4gtqfm3s7OH3) | 3:40 |

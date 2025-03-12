@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 64 | [Disappeared](https://open.spotify.com/track/3Mr3cEAFaDequr6hkyP1kK) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 3:25 |
 | 65 | [Little Bombs](https://open.spotify.com/track/7mrhHmGgMFApoHmOmciCo2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:49 |
 | 66 | [Soon Enough](https://open.spotify.com/track/1uBtLkzKucwHS9rXfC2OJu) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:00 |
-| 67 | [Crazytown](https://open.spotify.com/track/0uk6WOSXXyN5KKtWoJWfoi) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 3:22 |
-| 68 | [Stupid Thing](https://open.spotify.com/track/5LAinADvuYtEaX1ejM9IdO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:27 |
+| 67 | [Stupid Thing](https://open.spotify.com/track/5LAinADvuYtEaX1ejM9IdO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:27 |
+| 68 | [Crazytown](https://open.spotify.com/track/0uk6WOSXXyN5KKtWoJWfoi) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 3:22 |
 | 69 | [Stranger Into Starman](https://open.spotify.com/track/1jPcZgXUJv2ZecGF4sGacr) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 1:31 |
 | 70 | [Real Bad News](https://open.spotify.com/track/4W8idHbimphPjdfs8hSaBO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/5gl67XfmbbdmfJKPkR9rIe) | 3:53 |
 | 71 | [Susan](https://open.spotify.com/track/1Q0yna5Mv7Hokg7MhSJRdx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/41Qh3WL5sMD76RZKWWGWQw) | 3:51 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AbrtdAAAAACJIjcLxN9YX4Fmm4eAv6lY`
+Snapshot ID: `AbrzFAAAAABkoLAEWgFBBMIAusTKXE9s`

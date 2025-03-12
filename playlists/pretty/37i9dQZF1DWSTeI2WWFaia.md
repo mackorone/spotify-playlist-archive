@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,490 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,491 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 39 | [Lop Sided](https://open.spotify.com/track/5pOEFbZDVXm9Atxc2K09is) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:19 |
 | 40 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 41 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
-| 42 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
-| 43 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
+| 42 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
+| 43 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
 | 44 | [Make It Out](https://open.spotify.com/track/1t7C4tmbmFXRu6bPsiWMqS) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Ron E](https://open.spotify.com/artist/0NzaWuALv0Wr2gcdSbQ5zn) | [At the Church Steps](https://open.spotify.com/album/4tLWhQpJdmm85tLzNyotDv) | 2:58 |
 | 45 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
 | 46 | [Global Telling](https://open.spotify.com/track/4qsxIj0t2Iqc6PxPX88lNB) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [Token of Appreciation](https://open.spotify.com/album/74o8BQhIdpQo2LvIo77oTT) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > The final countdown to Portola Festival 2024\. For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the Portola Festival Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,020 likes - 38 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,043 likes - 38 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

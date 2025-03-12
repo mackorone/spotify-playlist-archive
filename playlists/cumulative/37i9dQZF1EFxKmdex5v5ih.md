@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-484 songs - 1 day 2 hr 34 min
+485 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,5 +492,6 @@
 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-12-13 |  |
 | [You Don't Know Me \- Sidekick Remix](https://open.spotify.com/track/2ccYBt0ueoDgsechbxOxAp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Sidekick](https://open.spotify.com/artist/1t3FcaCHl6XU3kkZbF1L3R) | [TREAT MYSELF \(Remixes\)](https://open.spotify.com/album/3rVTt0GeBwr0JRLTxzX1no) | 3:24 | 2021-12-27 |  |
 | [YOU DON'T KNOW WHAT YOU'VE GOT](https://open.spotify.com/track/5YhOLW8pV9e6tbdTp6iYDW) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:18 | 2023-12-13 |  |
+| [Your Light](https://open.spotify.com/track/3NBgl4mQhlu1pBzkXjK94D) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 3:23 | 2025-03-11 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

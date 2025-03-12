@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,074 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,079 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 64 | [Lobby](https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Lobby](https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb) | 3:08 |
 | 65 | [15](https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:24 |
 | 66 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 |
-| 67 | [Entitás](https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Orgonabokor \(Part 2\)](https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2) | 2:53 |
-| 68 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
+| 67 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
+| 68 | [Entitás](https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Orgonabokor \(Part 2\)](https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2) | 2:53 |
 | 69 | [Ajtó\-Ablak](https://open.spotify.com/track/5z5HbbfwHWT9kJTDmprT1o) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Ajtó\-Ablak](https://open.spotify.com/album/3P8qiCsYloQSXGnTh5GmBh) | 2:34 |
 | 70 | [úgy unom](https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A bálban](https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b) | 3:54 |
 | 71 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |

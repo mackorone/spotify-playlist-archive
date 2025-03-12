@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-258 songs - 14 hr 1 min
+259 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Under the starlight \(feat\. gayon1mo, Leff\)](https://open.spotify.com/track/4Q4HGuQn3hl9jmYCJXPX9H) | [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf), [gayon1mo](https://open.spotify.com/artist/1oZXmOiAhf8LDBooBpUyHY), [Leff](https://open.spotify.com/artist/43JfM0mbZHC2iw9SJYqqPy) | [2021 Works: 02](https://open.spotify.com/album/1ojKLnT0m56ID6fiCtxjlK) | 3:12 | 2022-05-03 | 2022-07-15 |
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [VANESSA](https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:18 | 2022-05-03 | 2022-07-12 |
+| [Victoria′s Secret 2 \(Feat\. Hash Swan\)](https://open.spotify.com/track/6djMf53RfyNS75YJ39El6T) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Buck Foys Only](https://open.spotify.com/album/3f4uZC5fLYa6WvMge09yr3) | 2:55 | 2025-03-04 |  |
 | [VLACK N VLUE](https://open.spotify.com/track/2ymij4pGcq8mL1NyGIpAGw) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 3:24 | 2022-06-09 | 2022-07-24 |
 | [Waiting For](https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 2:57 | 2022-05-03 | 2024-08-11 |
 | [Walk along](https://open.spotify.com/track/5Sv8HzkZnp3L7oBOHTPvKb) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Walk along](https://open.spotify.com/album/0hT3EUgHkR9uks37SlT7bI) | 3:23 | 2022-05-03 | 2022-07-14 |
@@ -248,7 +249,7 @@
 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 | 2022-05-03 |  |
 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 | 2024-03-08 |  |
 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 | 2022-08-09 | 2022-08-18 |
-| [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 | 2022-12-19 |  |
+| [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 | 2022-12-19 | 2025-03-12 |
 | [Wild Dreams](https://open.spotify.com/track/2K0tO1NRmVdnPt5HIs8Q7w) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR) | [Wild Dreams](https://open.spotify.com/album/0RZRW5nSYteKyqKAfiCkGI) | 2:15 | 2022-05-03 | 2022-07-28 |
 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 | 2022-05-03 |  |
 | [WINTER IS COMING](https://open.spotify.com/track/7xdk14qIhI0g3EPD1719JV) | [M!KYLE](https://open.spotify.com/artist/0X0jbwqUCjJ0oNrWwTNx29) | [WINTER IS COMING](https://open.spotify.com/album/3GBbcv53sfblBEAjjjhMMs) | 3:08 | 2022-05-03 | 2022-07-11 |

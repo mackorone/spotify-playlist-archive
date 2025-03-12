@@ -4,7 +4,7 @@
 
 > Timeless sounds of modern Afrobeats\. Cover: Wande Coal
 
-309 songs - 20 hr 34 min
+310 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 | 2023-03-21 | 2023-05-23 |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2024-03-21 |  |
 | [On the Low](https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:05 | 2023-06-21 | 2023-10-25 |
-| [On Top Your Matter](https://open.spotify.com/track/5dmzKrF5dzyjsLh85JFUZT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:44 | 2024-09-15 |  |
+| [On Top Your Matter](https://open.spotify.com/track/5dmzKrF5dzyjsLh85JFUZT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:44 | 2024-09-15 | 2025-03-12 |
 | [Once Upon a Time](https://open.spotify.com/track/7mAaQ4kB1ym3e1HPvCSCq2) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 1:54 | 2023-07-03 | 2023-08-12 |
 | [Oruka](https://open.spotify.com/track/3CsXhMt8ltJX802wYdFBqL) | [Sunny Neji](https://open.spotify.com/artist/6a3lxcgxT39DZWG9QmqQer) | [Unchained](https://open.spotify.com/album/0fXQ4tJPDkE1EueQf4E6Ox) | 5:00 | 2023-03-21 | 2023-06-22 |
 | [Osinachi \- Remix](https://open.spotify.com/track/5lHClpRtKjSORyX6mkMYu7) | [HumbleSmith](https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Osinachi \(Remix\)](https://open.spotify.com/album/2GxMlKGjsB90G5ZuVOi70W) | 4:12 | 2023-03-21 | 2023-06-25 |
@@ -249,6 +249,7 @@
 | [Shake Body](https://open.spotify.com/track/0RTKzoAF6R3YoHrdBjmmtJ) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man of the Year](https://open.spotify.com/album/1OOatr0FOh9kJ2GiZRRwgi) | 3:28 | 2020-11-06 | 2022-07-29 |
 | [Shake Body](https://open.spotify.com/track/4btYeVhPo0QIbUxySZGjba) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man Of The Year](https://open.spotify.com/album/3YwLRle9LoE8tOO3AU5oU3) | 3:28 | 2020-11-06 | 2023-03-22 |
 | [Shake Body](https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man of the Year](https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2) | 3:28 | 2020-11-06 | 2024-04-19 |
+| [Show You the Money](https://open.spotify.com/track/31FgIP47GdYyYKLqrs2qk3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:11 | 2025-01-09 |  |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2024-04-19 | 2024-07-19 |
 | [Simple](https://open.spotify.com/track/1ZneNgmfcgGBGshd7VgqBf) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Simple](https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh) | 4:13 | 2020-11-06 | 2024-04-20 |
 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 | 2024-04-19 |  |

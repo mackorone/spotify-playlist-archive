@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 185266,
       "name": "Good Graces",
       "url": "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy"
@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 238870,
       "name": "Musician",
       "url": "https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Pray to God (feat. HAIM)",
       "url": "https://open.spotify.com/track/75kMrDKPJJpgEQaXVh7QMB"
@@ -3168,6 +3168,28 @@
       "duration_ms": 224826,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165395,
+      "name": "Rapunzel (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
     },
     {
       "album": {
@@ -3316,6 +3338,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "In My Defense",
+        "url": "https://open.spotify.com/album/3kQvfhjfU6Mleis6k6vpmw"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178993,
+      "name": "Sally Walker",
+      "url": "https://open.spotify.com/track/1bPoQ1zaUWZmiYrckwfulU"
     },
     {
       "album": {
@@ -3789,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "That's Rich",
+        "url": "https://open.spotify.com/album/0p1SmirF4ca8S1BikgAUG9"
+      },
+      "artists": [
+        {
+          "name": "Brooke",
+          "url": "https://open.spotify.com/artist/2LYnplZ8En2Jao1Xkv4iS2"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "That's Rich",
+      "url": "https://open.spotify.com/track/17uJWOskYtbfPqjN7SHSgz"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -4258,7 +4316,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 58929,
       "name": "Wish on an Eyelash",
       "url": "https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ"
@@ -4406,7 +4464,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 194206,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/7gVWKBcfIW93YxNBi3ApIE"

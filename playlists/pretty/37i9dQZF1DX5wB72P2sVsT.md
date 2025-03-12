@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > BENNETT x Mentissa au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,296 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,314 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 15 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 16 | [Everytime We Touch](https://open.spotify.com/track/14cxJ5uLXafpMWPAsJgEYt) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Astrid James](https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ) | [Everytime We Touch](https://open.spotify.com/album/10WpaZTGRFjzoDrA2iYztE) | 2:43 |
 | 17 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 |
-| 18 | [J'aime tout chez toi \(Mr\. Sax Beat\)](https://open.spotify.com/track/3WDNzBd5I2V6LdIWjrelAL) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [FABYAN](https://open.spotify.com/artist/0q4kJe4YxNpszJIxq0BJEi) | [J'aime tout chez toi \(Mr\. Sax Beat\)](https://open.spotify.com/album/0DCFh9LSyJshpfA0Blg2RN) | 2:20 |
+| 18 | [J'aime tout chez toi \(Sax Beat\)](https://open.spotify.com/track/3WDNzBd5I2V6LdIWjrelAL) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [FABYAN](https://open.spotify.com/artist/0q4kJe4YxNpszJIxq0BJEi) | [J'aime tout chez toi \(Sax Beat\)](https://open.spotify.com/album/0DCFh9LSyJshpfA0Blg2RN) | 2:20 |
 | 19 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
 | 20 | [Queen of My Castle](https://open.spotify.com/track/5svpgXwbxHqyZcvTJFBWa2) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen of My Castle](https://open.spotify.com/album/6sV8sz1lhDo4JFyMnUa8mx) | 2:36 |
 | 21 | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh) | [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Norman Alexander](https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts) | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI) | 2:15 |

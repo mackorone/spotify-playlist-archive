@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn?si=zjUvrifvSVysFqZUimgxnQ>Nathaniel Bassey</a> and <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=\-ojC\_HqsTYaUE4cvVJYQHQ>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,910 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,098 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

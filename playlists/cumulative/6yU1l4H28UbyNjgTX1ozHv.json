@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Manic Monday (Acoustic)",
+        "url": "https://open.spotify.com/album/2mNth3H0jsbRlEPC5MKsiv"
+      },
+      "artists": [
+        {
+          "name": "Sands of Summer",
+          "url": "https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116984,
+      "name": "Manic Monday - Acoustic",
+      "url": "https://open.spotify.com/track/2TUKROtCFgNrWtO0Ou17of"
+    },
+    {
+      "album": {
         "name": "Marry You (Acoustic)",
         "url": "https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH"
       },

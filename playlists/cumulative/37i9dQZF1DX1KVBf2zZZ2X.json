@@ -3184,10 +3184,28 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 188500,
       "name": "Stolen Stream Moments",
       "url": "https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR"
+    },
+    {
+      "album": {
+        "name": "Sunflower Spring",
+        "url": "https://open.spotify.com/album/0GR9U47jNyHrUxZqHlh0xO"
+      },
+      "artists": [
+        {
+          "name": "Rubicon Fray",
+          "url": "https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Sunflower Spring",
+      "url": "https://open.spotify.com/track/56BvbwFPV24ABrFPtcoxwM"
     },
     {
       "album": {

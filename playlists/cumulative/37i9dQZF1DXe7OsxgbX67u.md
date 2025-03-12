@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-70 songs - 4 hr 14 min
+70 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ballad Of A Thin Place](https://open.spotify.com/track/0VkMYMMccsX2fE4BRLiSiD) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/7Fdr6rpnrWE6GsMzIyPh0g) | 4:16 | 2025-02-06 |  |
 | [Blockbuster Night Pt\. 1](https://open.spotify.com/track/4IkDkZxo0UamwkH3iunJRC) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Run The Jewels 2](https://open.spotify.com/album/07h5cYnfQm4mCDmEBiRtei) | 2:32 | 2025-02-06 |  |
 | [Broken Boy](https://open.spotify.com/track/0RbcDELsGTciLeMGsSdJAc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 2:43 | 2025-02-06 |  |
-| [Chapter 6 Many Mistakes](https://open.spotify.com/track/34hGO0paF4XgeZU7N3g4Ox) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Jaye Prime](https://open.spotify.com/artist/3GNWyrS8nqvk8UfmOdFycE) | [THIS IS A COPING MECHANISM FOR A BROKEN HEART](https://open.spotify.com/album/6j5wP4VoQ3NZytkO1bEcHZ) | 5:24 | 2025-02-06 |  |
+| [Chapter 6 Many Mistakes](https://open.spotify.com/track/34hGO0paF4XgeZU7N3g4Ox) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Jaye Prime](https://open.spotify.com/artist/3GNWyrS8nqvk8UfmOdFycE) | [THIS IS A COPING MECHANISM FOR A BROKEN HEART](https://open.spotify.com/album/6j5wP4VoQ3NZytkO1bEcHZ) | 3:27 | 2025-02-06 |  |
 | [Chase Me \(feat\. Run The Jewels & Big Boi\) \- Single Version \- Music From The Motion Picture Baby Driver](https://open.spotify.com/track/2ouMVpv6OJglrFHg2GQPwd) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) | [Chase Me \(feat\. Run The Jewels & Big Boi\)](https://open.spotify.com/album/4gWX3HriDmej4AS8vE4Bh0) | 3:26 | 2025-02-06 |  |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2025-02-06 |  |
 | [Do Betta](https://open.spotify.com/track/3ArX3tk2z53Kw0YLchwlyk) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:52 | 2025-02-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson",
-  "num_followers": 224634,
+  "num_followers": 224665,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -651,30 +651,6 @@
     {
       "added_at": "2025-03-07 00:00:14",
       "album": {
-        "name": "O Lamento",
-        "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "O Lamento",
-      "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2025-03-07 00:00:14",
-      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
+    },
+    {
+      "added_at": "2025-03-07 00:00:14",
+      "album": {
+        "name": "O Lamento",
+        "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "O Lamento",
+      "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -755,38 +755,6 @@
     {
       "added_at": "2025-03-07 00:00:14",
       "album": {
-        "name": "In\u00edcio do Fim",
-        "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 191698,
-      "name": "In\u00edcio do Fim",
-      "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
-    },
-    {
-      "added_at": "2025-03-07 00:00:14",
-      "album": {
-        "name": "S\u00f3 N\u00f3s 2",
-        "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "S\u00f3 N\u00f3s 2",
-      "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
-    },
-    {
-      "added_at": "2025-03-07 00:00:14",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 210648,
       "name": "Momentos",
       "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
+    },
+    {
+      "added_at": "2025-03-07 00:00:14",
+      "album": {
+        "name": "S\u00f3 N\u00f3s 2",
+        "url": "https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 229347,
+      "name": "S\u00f3 N\u00f3s 2",
+      "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
+    },
+    {
+      "added_at": "2025-03-07 00:00:14",
+      "album": {
+        "name": "In\u00edcio do Fim",
+        "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 191698,
+      "name": "In\u00edcio do Fim",
+      "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-03-07 00:00:14",
       "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
-      },
-      "artists": [
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
-    },
-    {
-      "added_at": "2025-03-07 00:00:14",
-      "album": {
         "name": "Longe de Ti",
         "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2025-03-07 00:00:14",
+      "album": {
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2025-03-07 00:00:14",
       "album": {
-        "name": "Sem Limite",
-        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Magico",
-      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -1063,26 +1067,6 @@
       "duration_ms": 238790,
       "name": "Bela",
       "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
-    },
-    {
-      "added_at": "2025-03-07 00:00:14",
-      "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -1143,6 +1127,22 @@
       "duration_ms": 166810,
       "name": "Filme",
       "url": "https://open.spotify.com/track/1RWKoFGg4XN4pnHw7OVDac"
+    },
+    {
+      "added_at": "2025-03-07 00:00:14",
+      "album": {
+        "name": "Sem Limite",
+        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Magico",
+      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-03-07 00:00:14",
       "album": {
+        "name": "Je T\u2019Aime",
+        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 214512,
+      "name": "Je T\u2019Aime",
+      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
+    },
+    {
+      "added_at": "2025-03-07 00:00:14",
+      "album": {
         "name": "Si Ki Min Kr\u00e8",
         "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
-    },
-    {
-      "added_at": "2025-03-07 00:00:14",
-      "album": {
-        "name": "Je T\u2019Aime",
-        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 214512,
-      "name": "Je T\u2019Aime",
-      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
     },
     {
       "added_at": "2025-03-07 00:00:14",
@@ -1843,22 +1843,18 @@
     {
       "added_at": "2025-03-07 00:00:14",
       "album": {
-        "name": "Tenho Medo",
-        "url": "https://open.spotify.com/album/58zIabllXeqvIL8B7gi69n"
+        "name": "Nha beb\u00e9",
+        "url": "https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu"
       },
       "artists": [
         {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        },
-        {
-          "name": "Cheusya Dalicia",
-          "url": "https://open.spotify.com/artist/1d7HtNN7VALThDwR8nyKNZ"
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
         }
       ],
-      "duration_ms": 185168,
-      "name": "Tenho Medo",
-      "url": "https://open.spotify.com/track/2e9LJ21FiiP3Y0aiqiR4Da"
+      "duration_ms": 205181,
+      "name": "Nha beb\u00e9",
+      "url": "https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7"
     },
     {
       "added_at": "2025-03-07 00:00:14",

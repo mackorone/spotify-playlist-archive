@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Sena Şahin
 
-232 songs - 11 hr 35 min
+233 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Benim İlacım Yok](https://open.spotify.com/track/1pprdlPFEZsefdPSflJT2P) | [Ceren Gündoğdu](https://open.spotify.com/artist/2t6i0lQOkrmuIInzYZFM90) | [Işık Olur Gözlerin](https://open.spotify.com/album/0Nnm6fSQdcq2WDbEdAFawF) | 3:33 | 2025-02-20 | 2025-02-28 |
 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 | 2025-02-27 |  |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-12-19 |  |
+| [Bi Mani Yoksa](https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Mani Yoksa](https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN) | 3:14 | 2025-03-06 |  |
 | [Bi Polar](https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Bi Polar](https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa) | 3:12 | 2024-07-04 | 2024-10-18 |
 | [Bi Sal Gideyim](https://open.spotify.com/track/0tfDoNxb20jitxnVIbvuq9) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Bi Sal Gideyim](https://open.spotify.com/album/4an6rlKTkhoJuFQx4jmrUZ) | 2:38 | 2025-01-09 |  |
 | [Bi Şey Eksik](https://open.spotify.com/track/1TBMYatA8sUE0ne6Xm4FRZ) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Şey Eksik](https://open.spotify.com/album/7dAOHPimH2lfyxbOUmJ1V2) | 3:11 | 2024-06-27 | 2024-08-02 |
@@ -221,7 +222,7 @@
 | [YOLU AÇIN](https://open.spotify.com/track/71XvAcVBm3TSwBR9WVeorV) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [YOLU AÇIN](https://open.spotify.com/album/10jMsMR3uBjbcrfpIwlwPB) | 2:37 | 2024-07-11 | 2024-08-15 |
 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 | 2024-06-27 | 2024-10-04 |
 | [Yorulunca](https://open.spotify.com/track/5BLxtcCipwGssYjJdjsV2d) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Yorulunca](https://open.spotify.com/album/6b7vyaK4StuDlyAcrB1ZJk) | 3:40 | 2024-06-27 | 2024-10-20 |
-| [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2024-06-27 |  |
+| [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2024-06-27 | 2025-03-12 |
 | [Yıllar Sonra Ne Güzel Olmuşsun](https://open.spotify.com/track/2BigllsJaELRIdoog1fDCO) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:06 | 2024-07-11 | 2024-07-27 |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 | 2024-08-15 |
 | [Zehir](https://open.spotify.com/track/6YivIuIiz8YMWmqQUj2t8z) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Zehir](https://open.spotify.com/album/5XaXCqJkXl8dQjv4ojVIi8) | 3:09 | 2025-03-06 |  |

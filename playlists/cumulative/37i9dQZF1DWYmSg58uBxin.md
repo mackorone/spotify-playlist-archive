@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-305 songs - 13 hr 57 min
+307 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 | 2023-09-09 |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2020-10-20\* |  |
 | [Blessedness](https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Blessedness](https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M) | 2:33 | 2024-03-20 |  |
+| [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 | 2025-03-11 |  |
 | [bonhomie](https://open.spotify.com/track/3TpeNOYVDlFqn61LCrYFyg) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful imperfect places](https://open.spotify.com/album/1w5SsfBmi2VNitVBp0PcXe) | 2:30 | 2023-09-08 |  |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2020-10-20\* | 2022-09-03 |
 | [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 | 2024-05-07 |  |
@@ -296,6 +297,7 @@
 | [Veil of Mist](https://open.spotify.com/track/52HAHYA9Gzq944jrHYBhXV) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Veil of Mist](https://open.spotify.com/album/5t4Bm9ZKcyxhgtvtNu6abP) | 2:10 | 2025-01-31 |  |
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 | 2023-09-09 |
 | [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 | 2024-12-20 |  |
+| [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 | 2025-03-11 |  |
 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 |  |
 | [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* | 2022-07-08 |
 | [warm cocoa](https://open.spotify.com/track/1DH4LU7IDJAfcci6cqnU9c) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [warm cocoa](https://open.spotify.com/album/0sPxt9ckDOlYOEmx8NallC) | 2:24 | 2024-02-05 |  |

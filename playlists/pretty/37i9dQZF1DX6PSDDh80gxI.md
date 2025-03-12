@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Anna Castiglia in cover della playlist con il meglio dell’indie italiano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,239 likes - 67 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,322 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 27 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 |
 | 28 | [Loneliness](https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 2:39 |
 | 29 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 |
-| 30 | [Your Dog](https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 2:53 |
-| 31 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 |
-| 32 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
-| 33 | [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 |
-| 34 | [Stammi bene](https://open.spotify.com/track/21F52gJo0mQifkLHQMS3Ir) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:35 |
-| 35 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 |
-| 36 | [Morta d'amore](https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Morta d'amore](https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw) | 2:46 |
-| 37 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 |
-| 38 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 |
-| 39 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 |
-| 40 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 |
-| 41 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |
-| 42 | [FEMINA](https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [FEMINA](https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93) | 4:06 |
-| 43 | [Una vita normale](https://open.spotify.com/track/7KXiNcodDshozttV90Ensd) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:26 |
-| 44 | [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 |
+| 30 | [M'annegasti](https://open.spotify.com/track/7LEUTklCDHl0AWkgRsd3gS) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [M'annegasti](https://open.spotify.com/album/1Qdb4Rvn66Eookw953zCeT) | 2:35 |
+| 31 | [Your Dog](https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 2:53 |
+| 32 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 |
+| 33 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
+| 34 | [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 |
+| 35 | [Stammi bene](https://open.spotify.com/track/21F52gJo0mQifkLHQMS3Ir) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:35 |
+| 36 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 |
+| 37 | [Morta d'amore](https://open.spotify.com/track/6XEK2VLdMdiZ6d71chw1ui) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Morta d'amore](https://open.spotify.com/album/7sNKBSusBvdPTMHgzozPaw) | 2:46 |
+| 38 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 |
+| 39 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 |
+| 40 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 |
+| 41 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 |
+| 42 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |
+| 43 | [FEMINA](https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [FEMINA](https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93) | 4:06 |
+| 44 | [Una vita normale](https://open.spotify.com/track/7KXiNcodDshozttV90Ensd) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:26 |
 | 45 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 |
 | 46 | [Amato Male](https://open.spotify.com/track/2KTC7ygAHND7VOnglyXdSh) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Amato Male](https://open.spotify.com/album/6xZaDvJFCUVH5ZLRmM1jtQ) | 2:50 |
 | 47 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 |
@@ -74,6 +74,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 64 | [Puoi](https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM) | 2:46 |
 | 65 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 |
 | 66 | [Cielo](https://open.spotify.com/track/3HQVk0f6cZMChC82l3N66a) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Teatro](https://open.spotify.com/album/7cr7rD9YJ7b53kleNSGeyk) | 4:05 |
-| 67 | [Per La Nostra Età](https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Per La Nostra Età](https://open.spotify.com/album/79HKgXWonC5s5EiFnwiWBw) | 3:30 |
 
-Snapshot ID: `Z87O+QAAAABoo3chAsLLvoSu8nmhcHaF`
+Snapshot ID: `Z9DAxwAAAAAHPt7Aoq+RFLx2mQVz9YpA`

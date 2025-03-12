@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,303 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,316 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 48 | [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 |
 | 49 | [ウタカタラッタラ](https://open.spotify.com/track/4qU6PeT8uV5ENTerQxXhYW) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:06 |
 | 50 | [火の玉ジャイヴ](https://open.spotify.com/track/1gBs17LyDgSWD6WDBtjLPu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 3:50 |
-| 51 | [5 days of TEQUILA](https://open.spotify.com/track/7G1zPHuidh7jimYsJoYG3q) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [FULL\-TENSION BEATERS](https://open.spotify.com/album/4UoKaU6FWwnPtIoL7EIrIT) | 3:46 |
 
 Snapshot ID: `Z8zaAAAAAABAF9fNXrosdDutyM0ZgtlC`

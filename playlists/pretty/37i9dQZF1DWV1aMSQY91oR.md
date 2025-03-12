@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Hanumankind
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,051 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,060 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 34 | [If I Could](https://open.spotify.com/track/1vT4EQNC0PCwnAjtkP5xRm) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [If I Could](https://open.spotify.com/album/2Mf63Axp5taXKuaFEH6TLf) | 3:13 |
 | 35 | [Dubai](https://open.spotify.com/track/4MTVbXWGEyKa3eYjpUK3gY) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [Dubai](https://open.spotify.com/album/2ZUZkwGubqG0IefQoRtCZU) | 1:53 |
 | 36 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
-| 37 | [FYM](https://open.spotify.com/track/0Lf42KO08ULVoC7FZVJ4sv) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO) | [NO REMORSE](https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS) | 2:24 |
+| 37 | [FYM](https://open.spotify.com/track/0Lf42KO08ULVoC7FZVJ4sv) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [NO REMORSE](https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS) | 2:24 |
 | 38 | [GIMME A HUG](https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:13 |
 | 39 | [MINIMUM](https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MINIMUM](https://open.spotify.com/album/1wEUBXA2dKjrKAfBa7HlNF) | 3:16 |
 | 40 | [Go Live](https://open.spotify.com/track/7qDPX7DkBCxoLyh7lVcTfG) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Go Live](https://open.spotify.com/album/7M0HjjZK0HuEnBTT1bpkDe) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,253 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,260 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 48 | [No Encuentro Palabras](https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:36 |
 | 49 | [La Sopa En Botella](https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 5:08 |
 | 50 | [Guede Zaina](https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Grandes Éxitos De Celia Cruz](https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3) | 3:09 |
-| 51 | [Patria y Vida \- Salsa](https://open.spotify.com/track/6AfRpMDQsXierL7fSMHvEO) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Patria y Vida \(Salsa\)](https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF) | 4:05 |
 
 Snapshot ID: `Z8zaAAAAAAApTezv7lzqCoLtG2L2Dp1o`

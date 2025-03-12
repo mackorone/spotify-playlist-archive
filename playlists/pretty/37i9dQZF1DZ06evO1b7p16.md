@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,076 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,079 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 48 | [Beat Up Car](https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:11 |
 | 49 | [Just Us Two](https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Just Us Two](https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck) | 3:48 |
 | 50 | [Your Own Disaster \- Live From Orensanz, New York, NY / 2010](https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Live From Orensanz](https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4) | 4:56 |
-| 51 | [Lonely, Lonely](https://open.spotify.com/track/1Ymj5CF7DDR5OvijhJAMno) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 2:49 |
 
 Snapshot ID: `Z8zaAAAAAACjUohpsTiuTbmEpBO3k4tb`

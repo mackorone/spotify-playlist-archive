@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,320 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,318 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 6 | [Worst Thing](https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:27 |
 | 7 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 |
 | 8 | [DTF \(Different Type Freak\)](https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [DTF \(Different Type Freak\)](https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838) | 3:26 |
-| 9 | [INDECISIVE](https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [INDECISIVE](https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA) | 2:56 |
+| 9 | [INDECISIVE](https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [INDECISIVE](https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA) | 2:56 |
 | 10 | [Windows](https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 3:19 |
 | 11 | [Buss It Open \(feat\. Lakeyah\)](https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Distractions](https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe) | 1:45 |
 | 12 | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 |

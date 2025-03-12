@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-461 songs - 20 hr 11 min
+463 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2021-12-14 | 2023-11-16 |
 | [Relief](https://open.spotify.com/track/3s6CQV3a3fhMOUbEqyqmhb) | [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [Relief](https://open.spotify.com/album/1d48qGcKGwSmxtsQ2wagp0) | 3:08 | 2023-07-25 |  |
 | [Rely On Me](https://open.spotify.com/track/6K2y1sgp1srCyBn0eboK4L) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Rely On Me](https://open.spotify.com/album/4giThIRIXcIsf2vmIu1QjB) | 2:47 | 2023-07-25 |  |
+| [Resurrected](https://open.spotify.com/track/06o4aeQxEma9b2v1pP3xTb) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Resurrected](https://open.spotify.com/album/4kXU9o6yt3DTcNtvstDWSI) | 2:33 | 2025-03-11 |  |
 | [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 | 2023-11-14 |  |
 | [Reverie](https://open.spotify.com/track/5IifgRe4ed99fgkCbuUIQU) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Reverie](https://open.spotify.com/album/6PZ32yJJXZk1aPBB6367lf) | 2:16 | 2023-08-14 |  |
 | [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 | 2022-03-30 |  |
@@ -378,6 +379,7 @@
 | [The Corner Of Your Eye](https://open.spotify.com/track/2Ajr0zS7FbrGCYv0SmSIVI) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC) | [The Corner Of Your Eye](https://open.spotify.com/album/72gewhmKIYjaOLmf7Ka58e) | 1:58 | 2023-01-27 | 2023-11-08 |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
 | [The Last Falling Leaves](https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Last Falling Leaves](https://open.spotify.com/album/2GzrCiNw6A4YOc7cEBHDMG) | 2:51 | 2023-12-12 | 2024-11-13 |
+| [The Light Upon Me](https://open.spotify.com/track/6YghDmxhRBWyWFNyG8P150) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Light Upon Me](https://open.spotify.com/album/2j594o5l0dNGk1GPIKKftA) | 2:09 | 2025-03-11 |  |
 | [The Might](https://open.spotify.com/track/57yfoJ5x6tF6B3vhhHr35I) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [The Might](https://open.spotify.com/album/3SA356mCov4slJR4zhvPXv) | 2:19 | 2023-08-14 |  |
 | [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2022-05-04 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2021-12-14 | 2025-01-22 |

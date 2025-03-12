@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,903 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,911 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 7 | [Desafinado](https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 5:49 |
 | 8 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
 | 9 | [Crazy Race](https://open.spotify.com/track/4XyKqXYeL0FBPFbDrXLvJZ) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:23 |
-| 10 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
-| 11 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 |
+| 10 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 |
+| 11 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
 | 12 | [A Night In Tunisia](https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 5:34 |
 | 13 | [Let's Fall In Love](https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 4:18 |
 | 14 | [Bumpin' On Sunset](https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 4:49 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 67 | [Gettin' To It](https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:30 |
 | 68 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
 | 69 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
-| 70 | [Lester Swings](https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 2:33 |
-| 71 | [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 |
+| 70 | [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 |
+| 71 | [Lester Swings](https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 2:33 |
 | 72 | [Conversation With A Baby](https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Wholly Earth](https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE) | 6:37 |
 | 73 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
 | 74 | [I Can't Get Started](https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 2:55 |

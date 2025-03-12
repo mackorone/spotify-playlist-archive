@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,479 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,514 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Resenha do Arrocha](https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Resenha do Arrocha](https://open.spotify.com/album/6GvpJLmtqRLBoxbslhZNPt) | 5:54 |
-| 2 | [Oh Garota Eu Quero Você Só Pra Mim](https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g) | [Oh Garota Eu Quero Você Só Pra Mim](https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR) | 2:46 |
+| 2 | [Oh Garota Eu Quero Você Só Pra Mim](https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g) | [Oh Garota Eu Quero Você Só Pra Mim](https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR) | 2:46 |
 | 3 | [Sei Que Tu Me Odeia](https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:40 |
 | 4 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |
 | 5 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Vou Raspar Seu Bigodin](https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Vou Raspar Seu Bigodin](https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW) | 1:44 |
 | 50 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
 
-Snapshot ID: `L2JVoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2OnIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

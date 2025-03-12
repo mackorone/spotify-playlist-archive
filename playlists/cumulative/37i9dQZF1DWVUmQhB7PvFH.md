@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(Jolin Tsai\)
 
-264 songs - 19 hr 12 min
+265 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [可惜不是你](https://open.spotify.com/track/4m4e3vIghV2QkHuOf83M7N) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [絲路](https://open.spotify.com/album/0CHbpwiT2lzuzIMLvXCe0f) | 4:45 | 2024-06-24 | 2024-10-14 |
 | [咖啡](https://open.spotify.com/track/4wAQNEaBL1PY2cfW9FFQhn) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [他在那裡](https://open.spotify.com/album/045BdENdNoTLjnXHN2HltS) | 4:06 | 2024-04-01 | 2024-04-30 |
 | [喜歡](https://open.spotify.com/track/393MehrSEiQgRYARQAixkT) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [親愛的...我還不知道](https://open.spotify.com/album/7igO6sx0vVHEzo0xuDmRZA) | 4:39 | 2024-10-27 | 2024-11-26 |
+| [四人遊](https://open.spotify.com/track/5gkZUgKtvnQtkdYEO9WKzD) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd), [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:48 | 2025-03-07 |  |
 | [國境之南](https://open.spotify.com/track/4KeWQpIWKHu4gZL8nDJfPE) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [《海角七號》電影原聲帶](https://open.spotify.com/album/7dBvuA0slM6IszpdxqJgvN) | 3:42 | 2024-01-15 | 2024-01-23 |
 | [圍牆](https://open.spotify.com/track/7mFemsen8hkEoC5a4qeD6C) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:19 | 2025-02-17 |  |
 | [堅持到底](https://open.spotify.com/track/3OUu5vlYe1YGdaLjfOff6v) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [堅持到底](https://open.spotify.com/album/5JBaIYqjcaxYVa149gaH1f) | 4:05 | 2024-06-24 | 2025-02-17 |
@@ -131,7 +132,7 @@
 | [愛\*轉角](https://open.spotify.com/track/1TFGynJGpBUBJBoH4AO26g) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [SPESHOW](https://open.spotify.com/album/13QwA3KOFuFzsK9dyE7n7K) | 4:53 | 2024-01-22 | 2024-02-20 |
 | [愛一直閃亮](https://open.spotify.com/track/0PpjWheZ4Dsb3j8OYuXXnM) | [羅美玲](https://open.spotify.com/artist/5B1AaSUIE8FWo6ERw95rLP) | [紅色向日葵](https://open.spotify.com/album/5AxN5TmnZg7OqallJp7Yk5) | 4:04 | 2024-12-09 | 2025-01-06 |
 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 | 2024-03-04 | 2024-04-02 |
-| [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 | 2025-02-17 |  |
+| [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 | 2025-02-17 | 2025-03-12 |
 | [愛多少 早知道](https://open.spotify.com/track/2YPzFxQ7iIYPEuIV37yRWI) | [殷悅](https://open.spotify.com/artist/2frQ74368SuSVnXGJCCgqU) | [愛的Melody](https://open.spotify.com/album/0ANEyTelHpfeA0JjmeWeH3) | 4:30 | 2024-08-19 | 2025-02-04 |
 | [愛情抗體](https://open.spotify.com/track/47BygcSwDHfp9U7YDnfQVG) | [許慧欣](https://open.spotify.com/artist/6DWn9cu2UVLQ61pjyBHjuL) | [快樂為主](https://open.spotify.com/album/1TsTI3aa3FxWgEEvgy0vXv) | 3:47 | 2024-04-15 | 2024-05-14 |
 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 | 2025-03-03 |  |

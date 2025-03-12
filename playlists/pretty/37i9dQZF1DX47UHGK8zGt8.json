@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 581382,
+  "num_followers": 581546,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Meu Canto - EP",
         "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 230786,
       "name": "Me Espera",
       "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Anitta",
-        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Zen",
-      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -779,22 +763,34 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Lisboa-Madrid",
-        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
+        "name": "Anitta",
+        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Me conta da tua janela",
+        "url": "https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF"
       },
       "artists": [
         {
           "name": "ANAVIT\u00d3RIA",
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Lisboa-Madrid",
-      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+      "duration_ms": 202007,
+      "name": "Me conta da tua janela",
+      "url": "https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -815,22 +811,18 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
         }
       ],
-      "duration_ms": 204007,
-      "name": "Outono",
-      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
+      "duration_ms": 221693,
+      "name": "Dia Clarear",
+      "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -851,18 +843,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
       "artists": [
         {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Dia Clarear",
-      "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
+      "duration_ms": 204007,
+      "name": "Outono",
+      "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -899,18 +895,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Me conta da tua janela",
-        "url": "https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF"
+        "name": "Lisboa-Madrid",
+        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
       "artists": [
         {
           "name": "ANAVIT\u00d3RIA",
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 202007,
-      "name": "Me conta da tua janela",
-      "url": "https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY"
+      "duration_ms": 220031,
+      "name": "Lisboa-Madrid",
+      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

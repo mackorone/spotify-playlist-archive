@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,652 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,706 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 48 | [Me Toca Perder](https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Me Toca Perder](https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6) | 2:54 |
 | 49 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 |
 | 50 | [Cleopatra / “Gobernante”](https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [Cleopatra / “Gobernante”](https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh) | 2:59 |
-| 51 | [Alejandria / "Ella Es Nostálgica"](https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:34 |
 
 Snapshot ID: `Z8zaAAAAAAAE2FNFQaJYbW+aC1d6sd7d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 304,759 likes - 171 songs - 9 hr 58 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 304,750 likes - 166 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,10 +174,5 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 164 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 |
 | 165 | [Suite Bergamasque, L\. 75: III\. "Clair de lune"](https://open.spotify.com/track/2uaRYOzkMOWjewLlN8aZ3O) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 5:14 |
 | 166 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 |
-| 167 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 |
-| 168 | [Troubled Water](https://open.spotify.com/track/51PYzvfPToQI5LXVS5v53G) | [Margaret Bonds](https://open.spotify.com/artist/5rAjCNBtMjC6cP6IVpaC9l), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [Fantasie](https://open.spotify.com/album/2VBiMRKdZF0UnlA2UOgOYL) | 5:23 |
-| 169 | [Limina Luminis](https://open.spotify.com/track/6Yj3bF91qflYUWv2h1Rmui) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Limina Luminis](https://open.spotify.com/album/52CC22D1K4wXnUoB68YtRU) | 6:06 |
-| 170 | [Chasing Yesterdays \(Solo Piano Version\)](https://open.spotify.com/track/54tdmfHwxKVLWWBtVPe6fv) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Chasing Yesterdays \(Solo Piano Version\)](https://open.spotify.com/album/0KuCc3pqz5k30648280FaN) | 3:38 |
-| 171 | [Beau soir, L\. 84](https://open.spotify.com/track/79lfP9yzZVYHn11E5leXZ9) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Beau soir, L\. 84](https://open.spotify.com/album/0ZLEQ01gvClyFVkxmIaiHi) | 2:41 |
 
-Snapshot ID: `AAAFLhsKa6htSTpkYI/bwLHdmJ6JXWiy`
+Snapshot ID: `AAAFMcLPyAJsbeY2pb2UKMZc1cjowSMf`

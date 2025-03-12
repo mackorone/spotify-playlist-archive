@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Bloodywood",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Lacuna Coil",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -38,6 +38,42 @@
       "duration_ms": 255526,
       "name": "(We make) Sweden Rock",
       "url": "https://open.spotify.com/track/3N56fEJqHbCpcDav9wcThU"
+    },
+    {
+      "album": {
+        "name": "+ sargasso +",
+        "url": "https://open.spotify.com/album/2x2oSr03mohnIV021ZWg1R"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405132,
+      "name": "+ sargasso +",
+      "url": "https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8"
+    },
+    {
+      "album": {
+        "name": "1000 Friends",
+        "url": "https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC"
+      },
+      "artists": [
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "1000 Friends",
+      "url": "https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq"
     },
     {
       "album": {
@@ -110,6 +146,24 @@
       "duration_ms": 244780,
       "name": "1589",
       "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
+    },
+    {
+      "album": {
+        "name": "2B1",
+        "url": "https://open.spotify.com/album/3C90A6u1NqHj2kpCK7M2om"
+      },
+      "artists": [
+        {
+          "name": "Gemini Syndrome",
+          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "2B1",
+      "url": "https://open.spotify.com/track/3e8YRAZKApwVjpja3HvCqn"
     },
     {
       "album": {
@@ -348,7 +402,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 308796,
       "name": "A.N.G.S.T.",
       "url": "https://open.spotify.com/track/2pyjEyfm9ZTlYJwmq1m3xZ"
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 216000,
       "name": "Blasphemous Paradise",
       "url": "https://open.spotify.com/track/0krVdVwk25wL7TryRcaTtK"
@@ -2332,6 +2386,24 @@
       "duration_ms": 355778,
       "name": "Burning Heart",
       "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
+    },
+    {
+      "album": {
+        "name": "The Light That Burns The Sky",
+        "url": "https://open.spotify.com/album/5eELUMQF291BJ37h7gKj32"
+      },
+      "artists": [
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "Burning In The Skies",
+      "url": "https://open.spotify.com/track/2lkGEHXXE5FKFee9c8d5to"
     },
     {
       "album": {
@@ -3848,7 +3920,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
@@ -7737,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172280,
+      "name": "I Wish You Were Dead",
+      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
+    },
+    {
+      "album": {
         "name": "I Wish You Were Dead",
         "url": "https://open.spotify.com/album/2uNibRozoqsBCjT6G3sJlI"
       },
@@ -7748,7 +7838,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 172280,
       "name": "I Wish You Were Dead",
       "url": "https://open.spotify.com/track/6op6zm0kRq71pCpZhyEiNu"
@@ -10467,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
+    },
+    {
+      "album": {
         "name": "No Loss, No Love",
         "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
       },
@@ -10478,7 +10586,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 176466,
       "name": "No Loss, No Love",
       "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
@@ -16544,7 +16652,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 302628,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"

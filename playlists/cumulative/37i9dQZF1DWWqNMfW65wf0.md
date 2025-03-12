@@ -4,14 +4,18 @@
 
 > you are feeling sleepy, just go to sleep  💤
 
-67 songs - 3 hr 29 min
+75 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12:09pm \(Alaskan Tapes Remix\)](https://open.spotify.com/track/7oxgt2bH2qvJI7zJmi3s6k) | [picture frames](https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ), [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [12:09pm \(Alaskan Tapes Remix\)](https://open.spotify.com/album/6TM2FoZNDHYZcJELlAPrJF) | 3:04 | 2025-02-28 |  |
 | [639 Hz Spiritual Discipline](https://open.spotify.com/track/0uF57Bd4CqhDefLhygLIfD) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [639 Hz Spiritual Discipline](https://open.spotify.com/album/7Isvf7Lu3bUQgTRznATyHC) | 3:28 | 2025-02-28 |  |
+| [Aurora Boreallis](https://open.spotify.com/track/7i7tWwA6PRuv9iMWGzCsUx) | [Space Nebula](https://open.spotify.com/artist/2ikFx3AkUWNVbXei3YdBCO) | [Aurora Boreallis](https://open.spotify.com/album/4CZfDGUfwfKBt9Oy8rvvUa) | 2:52 | 2025-03-11 |  |
+| [Beyond Horizon](https://open.spotify.com/track/28ZliO9zOFzyzlylVA2PLZ) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Beyond Horizon](https://open.spotify.com/album/2YCfrb4q2QkxH6VC61OyXB) | 2:57 | 2025-03-11 |  |
 | [Beyond the Sky](https://open.spotify.com/track/0tjTTkK07T6IZjGV6Z615Q) | [Grainscapes](https://open.spotify.com/artist/6LaLmmQ5cY4tQ7DvJTh3qZ) | [Beyond the Sky](https://open.spotify.com/album/59xSkis2bu61Fdq77zYFCA) | 2:57 | 2025-02-28 |  |
 | [Biochronology](https://open.spotify.com/track/2pnRMiWB04QS4737ZQrpY6) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Biochronology](https://open.spotify.com/album/1RkzLanW9bqfB3RIHgB1Gl) | 3:08 | 2025-02-28 |  |
+| [Birch](https://open.spotify.com/track/5tDBxfSlp4TdIkQcJy6mgS) | [Weep Year](https://open.spotify.com/artist/2dY44RNmNsg8vrWHiP7PPq) | [Birch](https://open.spotify.com/album/4wgqIhDC1aIJXM1c7mJNe2) | 3:06 | 2025-03-11 |  |
+| [Blooming Daze](https://open.spotify.com/track/2IK0o41yNFBaBvO4dRGEP9) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Blooming Daze](https://open.spotify.com/album/6O8NndYqdd8GgQWIs8A0Xa) | 3:32 | 2025-03-11 |  |
 | [Caelestis](https://open.spotify.com/track/2VTiKmYzw15TcKxbcLwNsR) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Caelestis](https://open.spotify.com/album/0ZDwNPLcNqAZpO8WojVXAI) | 3:40 | 2025-02-28 |  |
 | [Calm Waters](https://open.spotify.com/track/5xY4aftKW7VJrOngL6VJIG) | [Veloré](https://open.spotify.com/artist/2uYIsfuXPti6GvkF05qW6Q) | [Calm Waters](https://open.spotify.com/album/55hETlk41l6szlTI9lA4ma) | 3:30 | 2025-02-28 |  |
 | [Cesula](https://open.spotify.com/track/4B5el6QHxMK4mjiA8QDvLh) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Cesula](https://open.spotify.com/album/0wLHMKKWuUyuhlyPGyxkcb) | 2:27 | 2025-02-28 |  |
@@ -35,6 +39,8 @@
 | [Faded Years](https://open.spotify.com/track/6gZexfxBmAqMiQ4KJOxHvD) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Faded Years](https://open.spotify.com/album/1mpt0f45e3ln9qazTfubfz) | 2:50 | 2025-02-28 |  |
 | [Fire](https://open.spotify.com/track/0xSMpYJGWNJEFDXxnA93D5) | [Deep Seek](https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy) | [Fire](https://open.spotify.com/album/6jgjuNUC7ZJDiKAmMSisoK) | 2:49 | 2025-02-28 |  |
 | [Firelight](https://open.spotify.com/track/45HBkvIxcLLvoBYkBxz8BW) | [Wiliam Miller](https://open.spotify.com/artist/1p5d6e7dCHO6spnEXPGxdf) | [Firelight](https://open.spotify.com/album/0NzqPSaufaFZmy6iwh73NH) | 3:38 | 2025-02-28 |  |
+| [Floating over Europa](https://open.spotify.com/track/7tdi2PBoYYXoOUDPwHpsdG) | [Moon Safari](https://open.spotify.com/artist/79PnPgpRqswq4eBx8PSohy) | [Floating over Europa](https://open.spotify.com/album/5pvgP23Vk9WZxsq0Pn9IOk) | 2:08 | 2025-03-11 |  |
+| [Glacial](https://open.spotify.com/track/2Afa8d6BgHS2etZvE2mCz9) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Glacial](https://open.spotify.com/album/4pmkwaTdZngv0pqRfEynKG) | 3:06 | 2025-03-11 |  |
 | [Golden Horizon](https://open.spotify.com/track/0SlVNliuqyeuTxdd7P54Y8) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Golden Horizon](https://open.spotify.com/album/3gpEprZg7w6N7VGh4rvOkS) | 2:55 | 2025-02-28 |  |
 | [Green riot](https://open.spotify.com/track/3c5vxlA25e1magSRBgYsUw) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Green riot](https://open.spotify.com/album/72WcSyxGyq0XFmMZWYSQwV) | 3:00 | 2025-02-28 |  |
 | [Higher Self](https://open.spotify.com/track/3bTzC5Ag8OKsiMcxNEakrG) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Higher Self](https://open.spotify.com/album/55jQo3xMwoNiVWO0YR12Ga) | 2:45 | 2025-02-28 |  |
@@ -45,9 +51,10 @@
 | [Lunar Tides](https://open.spotify.com/track/66yCeBYojbYqwucauGK4lT) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Lunar Tides](https://open.spotify.com/album/5YEdY6cYiKiCfIltNLeB5e) | 3:20 | 2025-02-28 |  |
 | [Marvel Statues](https://open.spotify.com/track/1tIHEoAZldLDgtUzSv3hcC) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Marvel Statues](https://open.spotify.com/album/0ZhLeDoEoVgYZP5YzDaOyz) | 3:01 | 2025-02-28 |  |
 | [midnight session](https://open.spotify.com/track/1BQZgeu6kzduKrI5TfqUIM) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [suffershade](https://open.spotify.com/artist/09erAii23JiJfYwr8MhDLB), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [midnight session](https://open.spotify.com/album/3BBGbRPIohTjPDD5IK2cJX) | 1:36 | 2025-02-28 |  |
-| [Mother it's getting cold outside](https://open.spotify.com/track/28Bq4BkWuHg4QeUhH1he3p) | [Bluedoor](https://open.spotify.com/artist/7vacmKKSFykTCS35rP0JkQ) | [Mother it's getting cold outside](https://open.spotify.com/album/2VMCGwiwI6gLrFuOFVAhrm) | 5:10 | 2025-02-28 |  |
+| [Mother it's getting cold outside](https://open.spotify.com/track/28Bq4BkWuHg4QeUhH1he3p) | [Bluedoor](https://open.spotify.com/artist/7vacmKKSFykTCS35rP0JkQ) | [Mother it's getting cold outside](https://open.spotify.com/album/2VMCGwiwI6gLrFuOFVAhrm) | 5:10 | 2025-02-28 | 2025-03-12 |
 | [Muons](https://open.spotify.com/track/2oXcDZVCuyHKCMilAxom25) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Muons](https://open.spotify.com/album/5ioCD8xo3Ns2wnHc6nNvUh) | 3:26 | 2025-02-28 |  |
 | [Murmur Forest](https://open.spotify.com/track/0TaZ1jEMVJ4AUlKpsCABcr) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Murmur Forest](https://open.spotify.com/album/1WuZjB8SO1G0oIGm4dpect) | 3:00 | 2025-02-28 |  |
+| [Narqa](https://open.spotify.com/track/6aO7VDMBXWiWXOtQfZJvvs) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Narqa](https://open.spotify.com/album/22aPPf7sY9NiDdX4zkuFEL) | 2:30 | 2025-03-11 |  |
 | [Nebel](https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Nebel](https://open.spotify.com/album/0eWA3yg6uIYNmZkHTbzMZQ) | 2:45 | 2025-02-28 |  |
 | [Nejma](https://open.spotify.com/track/2G60IUm1SMnoLHN6kgaZNo) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Nejma](https://open.spotify.com/album/2DoF7f47YEB0u1X4S8nU5a) | 2:39 | 2025-02-28 |  |
 | [Oändlig](https://open.spotify.com/track/3ZMX3XE6hZRTF2pBT6iJyc) | [Agnes Vidsjö](https://open.spotify.com/artist/41tdmj2pTCBWS8wXZfPZb5) | [Oändlig](https://open.spotify.com/album/6Kif9XeyE9PtGJrBBZzqqy) | 2:49 | 2025-02-28 |  |
@@ -57,6 +64,7 @@
 | [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 | 2025-02-28 |  |
 | [Reflectivum](https://open.spotify.com/track/7lsPxv6DTrbjH65tWShmoe) | [Quiescent State](https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ) | [Reflectivum](https://open.spotify.com/album/7beFnVVMNAEs4KS3Fzhx3U) | 2:50 | 2025-02-28 |  |
 | [Sidetracks](https://open.spotify.com/track/1GPr85QnsaNmTswc9yZDdv) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Sidetracks](https://open.spotify.com/album/7Ay05HbI8ewJ0adwCkdUNd) | 2:21 | 2025-02-28 |  |
+| [Sleep My Hero](https://open.spotify.com/track/1Q8UuQeBEWIQls4Kh1P3GQ) | [RasimF](https://open.spotify.com/artist/6B79bHQDu7fTxxujL0iSd5) | [Sleep My Hero](https://open.spotify.com/album/45tdM2Hwg7MKaN1BZ0k4Hr) | 2:03 | 2025-03-11 |  |
 | [Soft Embrace](https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Soft Embrace](https://open.spotify.com/album/0hDklJwXS9mx67EyaDGf3q) | 2:49 | 2025-02-28 |  |
 | [Solace](https://open.spotify.com/track/4SKrdC5aL4KsfNFBX5CjSv) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Solace](https://open.spotify.com/album/29tJGtzE38ICWOe9swOOYw) | 2:32 | 2025-02-28 |  |
 | [Somnium](https://open.spotify.com/track/0TorIuTCD7PEFq1foEaLnE) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Somnium](https://open.spotify.com/album/4yYu1PItVKCRjPpGnQaQ6o) | 2:51 | 2025-02-28 |  |

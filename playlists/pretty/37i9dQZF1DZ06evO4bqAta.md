@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,737 likes - 52 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,942 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 48 | [Jokerman](https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Infidels](https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy) | 6:16 |
 | 49 | [I Threw It All Away](https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:23 |
 | 50 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 |
-| 51 | [Tomorrow Is a Long Time \- Live at Town Hall, New York, NY \- April 1963](https://open.spotify.com/track/33sjOTo0KW2w7D9jaUA2pg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan's Greatest Hits Volume II](https://open.spotify.com/album/0gpxfGPaJ45BCUeLVRwnKV) | 3:01 |
-| 52 | [Blind Willie McTell \- Studio Outtake \- 1983](https://open.spotify.com/track/1pJdqFpw52UQpItDRMoca3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Bootleg Series Volumes 1\-3 \(Rare And Unreleased\) 1961\-1991](https://open.spotify.com/album/0ELQw29ii1k2eHnAYgt5kw) | 5:51 |
 
 Snapshot ID: `Z8zaAAAAAADLSZCjTY9jEKCIltXHhwiH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,813 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,915 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 48 | [El Charlie](https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:37 |
 | 49 | [El De Las Plumas \- En Vivo](https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El De Las Plumas \(En Vivo\)](https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k) | 2:59 |
 | 50 | [My Boy](https://open.spotify.com/track/7ojxKoDddEnm7dOuQrCi0Z) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [My Boy](https://open.spotify.com/album/6H27ljIKzhhRGon9WbPf0w) | 3:19 |
-| 51 | [Ortiz](https://open.spotify.com/track/1szpyTT0Be1WuC62neWYIW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Torre De Oro](https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y) | 3:05 |
 
 Snapshot ID: `Z8zaAAAAAACAChhdDIODCLkIUyCfY4Vj`

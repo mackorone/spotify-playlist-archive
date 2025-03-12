@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 12 min
+91 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Boulevard](https://open.spotify.com/track/3hv5Kl4L2JtDTnob2oUGvs) | [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1) | [De Wereld Is Gelogen](https://open.spotify.com/album/0cWEGi7wk3ZJSVLhjy4lnY) | 3:21 | 2024-01-29 |  |
 | [Catch My Drip](https://open.spotify.com/track/4fEFdLOtj99mWgc2cH8QgO) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Eljero Elia](https://open.spotify.com/artist/60jlCXQyQIOeQgYch6S8wo) | [Catch My Drip](https://open.spotify.com/album/3cycoGXJcQkq1wFchUfw6d) | 2:18 | 2024-01-29 |  |
 | [CONTEST](https://open.spotify.com/track/6yWzuF0sb6cX2gyNFl5mYJ) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [CONTEST](https://open.spotify.com/album/3iJqniJbShK8X9G0TMazur) | 2:17 | 2024-01-29 |  |
+| [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 | 2025-03-11 |  |
 | [Dichterbij Je](https://open.spotify.com/track/6l9oLAnDNEA01tgrFWjp95) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:05 | 2024-01-29 |  |
 | [Diep](https://open.spotify.com/track/1bhImCiDhiyX4rOsOvWUpA) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Levenslied](https://open.spotify.com/album/1ubh3JX7ILvdWh1rlbJvv6) | 2:57 | 2024-01-29 |  |
 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:41 | 2024-01-29 |  |

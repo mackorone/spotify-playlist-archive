@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-163 songs - 11 hr 33 min
+164 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [I believe in...](https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [I believe in...](https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB) | 3:45 | 2024-07-09 |  |
 | [IDOLiSH7 七瀬 陸 スペシャルメッセージ](https://open.spotify.com/track/7CA0DaN6tRGqrdat8WyboZ) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [IDOLiSH7 七瀬 陸 スペシャルメッセージ](https://open.spotify.com/album/2arRW6VgBqzxwKKnJCj3Au) | 0:30 | 2022-08-20 |  |
 | [IMPERIAL CHAIN](https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [IMPERIAL CHAIN](https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7) | 4:12 | 2022-10-04 |  |
-| [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 | 2022-06-14 |  |
+| [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 | 2022-06-14 | 2025-03-12 |
 | [It's ALL\-for you\-](https://open.spotify.com/track/1w0YxydzqRlLP2SiEA5NLk) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 5:07 | 2022-06-09 | 2022-07-23 |
 | [Joker Flag](https://open.spotify.com/track/02OQ0YqKcvzeXLvq27Tv3j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:42 | 2022-06-14 | 2022-07-25 |
 | [Joker Flag](https://open.spotify.com/track/08ZmRDsxkGC2uvkCDTUkyb) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [MONSTER GENERATiON](https://open.spotify.com/album/1C2C7NYO2zWuuOOrIiQlV4) | 4:43 | 2022-06-09 | 2022-07-11 |
@@ -123,6 +123,7 @@
 | [TOMORROW EViDENCE](https://open.spotify.com/track/0kf7Bot5ZRaLCgtYxX44WK) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH), [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:27 | 2023-05-24 |  |
 | [Treasure!](https://open.spotify.com/track/2DUA29rrYLSNNZdwJa2LyO) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [VARIANT](https://open.spotify.com/album/5n3Xy8ZGY9kRNJ1TGpq2VV) | 4:36 | 2022-06-09 | 2022-07-29 |
 | [Treasure!](https://open.spotify.com/track/58qwwLduT4uFfNFukyyRzn) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Crescent rise](https://open.spotify.com/album/3YZZ5tD78xFEa1C9YbOgmC) | 4:37 | 2022-06-14 | 2022-07-28 |
+| [Triple Down](https://open.spotify.com/track/4f2Becx8pSppkqgnXBrkUX) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Trois](https://open.spotify.com/album/7uMcathLPntTR0HAQIUlBQ) | 3:14 | 2025-03-11 |  |
 | [U COMPLETE ME](https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:19 | 2022-06-09 |  |
 | [Unbalance Shadow](https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:21 | 2022-06-09 |  |
 | [Unfoggy Sight](https://open.spotify.com/track/1fzRdHYdn1BB9nNDh51AQr) | [Yamato Nikaido \(CV: Yusuke Shirai\)](https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK), [Iori Izumi \(CV: Toshiki Masuda\)](https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU), [Tamaki Yotsuba \(CV: KENN\)](https://open.spotify.com/artist/3tIlRXYi6ZVj8uKVjFG2pm) | [Unfoggy Sight](https://open.spotify.com/album/54GVHFhbqf2sW0ktVRHUJg) | 4:20 | 2024-02-13 | 2024-04-19 |

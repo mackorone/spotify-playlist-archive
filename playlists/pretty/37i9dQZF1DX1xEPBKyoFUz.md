@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > I'm odetari and this is my gaming playlist featuring tracks from myself, Saraunh0ly, 2hollis and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,046 likes - 33 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,094 likes - 33 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

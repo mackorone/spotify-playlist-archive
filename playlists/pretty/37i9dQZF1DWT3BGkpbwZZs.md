@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 
 > Everyone hungers for something\. Listen to the music from and inspired by The Hunger Games and Ballad of Songbirds and Snakes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,045 likes - 64 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,102 likes - 64 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

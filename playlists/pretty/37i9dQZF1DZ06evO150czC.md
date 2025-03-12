@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,285 likes - 51 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,288 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 48 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
 | 49 | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/track/2wcrkFGIDMyHJlcxh5ShXy) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/album/0d10hWdSyBQ3JGCd822QNH) | 9:41 |
 | 50 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
-| 51 | [Metade do Filho \(Ao Vivo\)](https://open.spotify.com/track/4YwzfaloVUC1JXkSSYNBaz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Acústico Estações Verão \- Justiça \(Ao Vivo\)](https://open.spotify.com/album/34N0c8TFf0u5vSN5lVFbz7) | 5:00 |
 
 Snapshot ID: `Z8zaAAAAAABneCR6OlN4XFGjm6SJvx6K`

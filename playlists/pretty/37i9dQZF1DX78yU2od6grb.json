@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 554199,
+  "num_followers": 554249,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "i miss u (with Au/Ra)",
-        "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 172143,
-      "name": "i miss u (with Au/Ra)",
-      "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "i miss u (with Au/Ra)",
+        "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 172143,
+      "name": "i miss u (with Au/Ra)",
+      "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -651,6 +651,30 @@
       "duration_ms": 145840,
       "name": "Used to Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -691,30 +715,6 @@
       "duration_ms": 203953,
       "name": "Higher (feat. iann dior)",
       "url": "https://open.spotify.com/track/4OoYfejHABzYe2mG8p5s8b"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 156346,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 156346,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1619,26 +1619,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "How Beautiful (she is)",
-        "url": "https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys"
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "duendita",
-          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
         }
       ],
-      "duration_ms": 207586,
-      "name": "How Beautiful (she is)",
-      "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
+      "duration_ms": 179279,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1671,22 +1667,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
+        "name": "How Beautiful (she is)",
+        "url": "https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
         },
         {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
         }
       ],
-      "duration_ms": 179279,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
+      "duration_ms": 207586,
+      "name": "How Beautiful (she is)",
+      "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
     }
   ],
   "unique_name": "Corra numa Boa",

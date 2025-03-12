@@ -1,13 +1,29 @@
 {
   "description": "Secrets will be spilled. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.",
-  "num_followers": 152435,
+  "num_followers": 152745,
   "original_name": "Yellowjackets Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8qnjgAAAAALxfZZ0b0pWp+heXrTZlQr",
+  "snapshot_id": "Z9CwmgAAAADKYuw9z1eyp736ayjHHJ4D",
   "tracks": [
+    {
+      "added_at": "2025-03-11 21:52:26",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
     {
       "added_at": "2025-03-07 08:00:14",
       "album": {

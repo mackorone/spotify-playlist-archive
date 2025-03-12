@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,412 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,494 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 31 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
 | 32 | [Turn the Beat Around](https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:24 |
 | 33 | [Going Back to My Roots \- 12" Version](https://open.spotify.com/track/1a4JG31yqWFwsFccPIxAYO) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [The Greatest Hits](https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz) | 5:26 |
-| 34 | [Thinking of You \- 2006 Remaster](https://open.spotify.com/track/4vRRBejkkDF6bKpupomK7S) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Definitive Groove: Sister Sledge](https://open.spotify.com/album/6Wx25BBKR9mTNnndloRRWs) | 4:29 |
-| 35 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
+| 34 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
+| 35 | [Thinking of You \- 2006 Remaster](https://open.spotify.com/track/4vRRBejkkDF6bKpupomK7S) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Definitive Groove: Sister Sledge](https://open.spotify.com/album/6Wx25BBKR9mTNnndloRRWs) | 4:29 |
 | 36 | [I Love You More](https://open.spotify.com/track/5cXFnZmxsPswg3h9CnHpyo) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master Of The Game](https://open.spotify.com/album/3n5lfplQw8UdL3d5XaRDJT) | 3:06 |
 | 37 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
 | 38 | [Relight My Fire \- Single Version](https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:43 |

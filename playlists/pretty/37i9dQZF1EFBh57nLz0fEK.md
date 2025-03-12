@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140 likes - 112 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 112 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 69 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 |
 | 70 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 |
 | 71 | [South Of France](https://open.spotify.com/track/1n0agCeknSfKP6PK0r0X57) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 3:11 |
-| 72 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
-| 73 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
+| 72 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
+| 73 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
 | 74 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 |
 | 75 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 |
 | 76 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 91 | [Menage a Trois](https://open.spotify.com/track/6xS4BdN2QBNN6AjSOXy0Q0) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:50 |
 | 92 | [Undone](https://open.spotify.com/track/6YYvmiGNCVtkhfVqFWWIwZ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:40 |
 | 93 | [Lil Slime](https://open.spotify.com/track/5qiCLYqvRSzo0BtW5lQfs1) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 3:04 |
-| 94 | [Make Me Proud](https://open.spotify.com/track/5UZAcHN4ElcLbXE5XAqujX) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 1:52 |
-| 95 | [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 |
+| 94 | [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 |
+| 95 | [Make Me Proud](https://open.spotify.com/track/5UZAcHN4ElcLbXE5XAqujX) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 1:52 |
 | 96 | [Nobody](https://open.spotify.com/track/4uz5wCY6QbWDjb9aOoi23p) | [Jawan Harris](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [Nobody](https://open.spotify.com/album/7Fk9iVazl3kbtgTLpIiDRS) | 2:47 |
 | 97 | [Mine](https://open.spotify.com/track/5zTdRY35xrvOUUpwRZs3TW) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Mine](https://open.spotify.com/album/3xXYS0X2RGfksBDK9stJYV) | 2:49 |
 | 98 | [Calm Like Kim](https://open.spotify.com/track/7lyuDIBBgZFEB2eouXnq5X) | [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Calm Like Kim](https://open.spotify.com/album/4I74n0c8VFwnoezOr9qSMO) | 2:22 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 111 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 112 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbrtdAAAAAC4jbgb2sSQo8hya6jgmmGw`
+Snapshot ID: `AbrzCgAAAABnYJMip3DkQel0nHUot8cs`

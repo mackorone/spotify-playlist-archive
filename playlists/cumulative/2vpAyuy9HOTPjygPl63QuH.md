@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,120 songs - 5 day 0 hr 0 min
+2,122 songs - 5 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,6 +959,7 @@
 | [Keep It Dirty](https://open.spotify.com/track/08kpAqsMDQMlffsW7leBkQ) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Keep It Dirty](https://open.spotify.com/album/6ACq59has3tiQBv6t6IDNn) | 3:15 | 2024-06-21 | 2024-07-13 |
 | [Keep It Real](https://open.spotify.com/track/01DIK7akKFvzGkqvoVR05o) | [Stanley Kubrix](https://open.spotify.com/artist/6qLmdqL3RpGudeFzz41Ksk), [Benny Bace](https://open.spotify.com/artist/4SaW6aTgnylif79kH4Mw5r) | [Keep It Real](https://open.spotify.com/album/59GuxkwP6AhIf6J3ekEKUI) | 3:11 | 2023-12-01 | 2023-12-09 |
 | [KEEP ME BUSY](https://open.spotify.com/track/0a5hwkRaXF7PSa8nVxqKf8) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [ALXJ](https://open.spotify.com/artist/4HKMNMB8TawiVHIO8m51VK) | [KEEP ME BUSY](https://open.spotify.com/album/55Rwm9mbcDiGuJ0wQkxoZv) | 3:25 | 2023-10-27 | 2023-11-04 |
+| [Keep Me Hangin' On](https://open.spotify.com/track/5gjwVIZt8P11NESUD1coEP) | [Sides of the Sun](https://open.spotify.com/artist/2DKXVfUseu9jhQ66Rt7Rb4) | [Keep Me Hangin' On](https://open.spotify.com/album/0jiom1UhgcZDZLb3QJrR2g) | 3:02 | 2025-03-11 |  |
 | [Keep My Cool](https://open.spotify.com/track/6m6ucQX9ePhtXr2jUsRkuH) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Keep My Cool](https://open.spotify.com/album/0G37rSyVyYR3GZgObLeYxK) | 2:52 | 2023-06-30 | 2023-07-16 |
 | [Keep On](https://open.spotify.com/track/1go1aSw2WQieTVMUgg3Fax) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [3 point 0](https://open.spotify.com/album/5VdT2qpUfGAAwcqfQ3145u) | 3:30 | 2023-11-10 | 2023-11-18 |
 | [Keep On Dancing](https://open.spotify.com/track/3iQo5xKxX0KUy594uytQ0e) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Keep On Dancing](https://open.spotify.com/album/7eJmtEYNcJjDZjfKvN1g62) | 3:05 | 2023-11-21 | 2023-11-28 |
@@ -984,6 +985,7 @@
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-21 | 2023-01-29 |
 | [KMS](https://open.spotify.com/track/7k08iOwFlXhQUmq9e4yDII) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [KMS](https://open.spotify.com/album/1uW6mdVhKPEzR4mDkEQqgW) | 4:59 | 2025-01-10 | 2025-02-08 |
 | [Knee Deep](https://open.spotify.com/track/3dnnLLWLPPXishJRCTOQ2t) | [Freshcobar](https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd), [Lavelle Dupree](https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m) | [Knee Deep \- EP](https://open.spotify.com/album/4ak8u7RaMqdIWXb1EyV1Js) | 3:48 | 2024-06-04 | 2024-07-27 |
+| [Koolaid \- Oh Yeah Mix](https://open.spotify.com/track/1ZpTFDpF5mVOtU6NJQl6tr) | [ALVES](https://open.spotify.com/artist/5IuRJkF6BqSdfGykaHfslU) | [Koolaid](https://open.spotify.com/album/41jpxAEX3g57Mhu9Yol9Zz) | 2:20 | 2025-03-11 |  |
 | [Krank](https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX) | [Krank](https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg) | 3:46 | 2022-10-28 | 2022-11-06 |
 | [KUFF](https://open.spotify.com/track/3OaBKrVRu24DwPVfFBZ2Ap) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [KUFF](https://open.spotify.com/album/5UWVCVX6zdCq7LM98BX02e) | 2:52 | 2023-01-06 | 2023-01-14 |
 | [Kyrenia](https://open.spotify.com/track/3aBYRY9gfl7f04BnLwxwLk) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Kyrenia](https://open.spotify.com/album/2xQRYg2fydr41ILWzguidC) | 3:05 | 2023-10-16 | 2023-10-28 |

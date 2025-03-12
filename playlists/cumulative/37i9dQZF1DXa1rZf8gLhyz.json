@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "A Sudden Change",
+        "url": "https://open.spotify.com/album/7osoP3C0IrtpOyz2Zouike"
+      },
+      "artists": [
+        {
+          "name": "Carl Dwight",
+          "url": "https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168230,
+      "name": "A Sudden Change",
+      "url": "https://open.spotify.com/track/3jcLMVueI71Vr1IS9LHLEU"
+    },
+    {
+      "album": {
         "name": "A Thought Of You",
         "url": "https://open.spotify.com/album/0HVBnMRkRn2xnpQ4CLph4z"
       },
@@ -1013,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Be Calm My Friend",
+        "url": "https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW"
+      },
+      "artists": [
+        {
+          "name": "Wes Ivory",
+          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197382,
+      "name": "Be Calm My Friend",
+      "url": "https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz"
+    },
+    {
+      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ"
       },
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 147976,
       "name": "Blue Notes in the Afternoon",
       "url": "https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL"
@@ -1838,6 +1874,24 @@
       "duration_ms": 212776,
       "name": "Clear State Of Mind",
       "url": "https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB"
+    },
+    {
+      "album": {
+        "name": "Closer and Closer",
+        "url": "https://open.spotify.com/album/0DD7onNT22lyUPnBzLh50t"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187964,
+      "name": "Closer and Closer",
+      "url": "https://open.spotify.com/track/2HcCeSsTlpgR2OKq57pIZZ"
     },
     {
       "album": {
@@ -3022,7 +3076,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 200706,
       "name": "First Steps",
       "url": "https://open.spotify.com/track/38bC7Ca64SP0ea8bqBXpGT"
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 185158,
       "name": "In That Moment, I Knew",
       "url": "https://open.spotify.com/track/0JRNniv579lFXcvyYQyfvK"
@@ -5603,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Late Supper",
+        "url": "https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o"
+      },
+      "artists": [
+        {
+          "name": "Mark Benson",
+          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185976,
+      "name": "Late Supper",
+      "url": "https://open.spotify.com/track/7bg7LYbKyx7QurwgvVvaRV"
+    },
+    {
+      "album": {
         "name": "Later honey",
         "url": "https://open.spotify.com/album/3gCq5zExh1KnvrUhfxFrq5"
       },
@@ -5992,7 +6064,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 144000,
       "name": "Looking Glass",
       "url": "https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z"
@@ -10748,7 +10820,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-12",
       "duration_ms": 164515,
       "name": "Times passed",
       "url": "https://open.spotify.com/track/7EwupksVc4RcQW67OhlTs8"

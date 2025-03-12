@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 347553,
+  "num_followers": 347552,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Shalom",
-        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
-      },
-      "artists": [
-        {
-          "name": "Laura Hackett Park",
-          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Shalom",
-      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Onward & Upward",
         "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 290831,
       "name": "Digital Death",
       "url": "https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Shalom",
+        "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
+      },
+      "artists": [
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Like A Kid",
+      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "The Gospel is Rest",
         "url": "https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 280120,
       "name": "The Gospel is Rest",
       "url": "https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
-      },
-      "artists": [
-        {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Like A Kid",
-      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1127,6 +1127,66 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "renatus",
+        "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
+      },
+      "artists": [
+        {
+          "name": "Pathway",
+          "url": "https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY"
+        },
+        {
+          "name": "Larine Torikian",
+          "url": "https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW"
+        },
+        {
+          "name": "KEO",
+          "url": "https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2"
+        }
+      ],
+      "duration_ms": 289230,
+      "name": "It Is I",
+      "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Steady My Heart",
+        "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
+      },
+      "artists": [
+        {
+          "name": "METRUTH",
+          "url": "https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 236832,
+      "name": "Steady My Heart",
+      "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Is He Worthy?",
+        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -1155,66 +1215,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "renatus",
-        "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
-      },
-      "artists": [
-        {
-          "name": "Pathway",
-          "url": "https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY"
-        },
-        {
-          "name": "Larine Torikian",
-          "url": "https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW"
-        },
-        {
-          "name": "KEO",
-          "url": "https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2"
-        }
-      ],
-      "duration_ms": 289230,
-      "name": "It Is I",
-      "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Is He Worthy?",
-        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Steady My Heart",
-        "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
-      },
-      "artists": [
-        {
-          "name": "METRUTH",
-          "url": "https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 236832,
-      "name": "Steady My Heart",
-      "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "What I Wish For You",
         "url": "https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Nothing but the Blood of Jesus",
-        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
-      },
-      "artists": [
-        {
-          "name": "Lou Fellingham",
-          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Be Still and Know",
         "url": "https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 304347,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Nothing but the Blood of Jesus",
+        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
+      },
+      "artists": [
+        {
+          "name": "Lou Fellingham",
+          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "A King & His Kindness",
-        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
+        "name": "Abide with Me",
+        "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
       },
       "artists": [
         {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+          "name": "Nathan Pacheco",
+          "url": "https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
         }
       ],
-      "duration_ms": 248633,
-      "name": "Who is This Jesus?",
-      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
+      "duration_ms": 260894,
+      "name": "Be Still, My Soul",
+      "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+        "name": "A King & His Kindness",
+        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
       },
       "artists": [
         {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
+      "duration_ms": 248633,
+      "name": "Who is This Jesus?",
+      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1367,6 +1367,26 @@
       "duration_ms": 213909,
       "name": "Almighty",
       "url": "https://open.spotify.com/track/7K5DgWyMTMHBFJKH43fh5u"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Abide with Me",
-        "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
-      },
-      "artists": [
-        {
-          "name": "Nathan Pacheco",
-          "url": "https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV"
-        },
-        {
-          "name": "Simply Three",
-          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
-        }
-      ],
-      "duration_ms": 260894,
-      "name": "Be Still, My Soul",
-      "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz"
       },
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu"
+      },
+      "artists": [
+        {
+          "name": "Sky Hymnal",
+          "url": "https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
       },
@@ -1511,18 +1527,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu"
+        "name": "I Surrender All",
+        "url": "https://open.spotify.com/album/2EPz6MwlWzAYR7qYViQiE4"
       },
       "artists": [
         {
-          "name": "Sky Hymnal",
-          "url": "https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba"
+          "name": "Chad Graham",
+          "url": "https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep"
+        },
+        {
+          "name": "Fallon Graham",
+          "url": "https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg"
         }
       ],
-      "duration_ms": 180000,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo"
+      "duration_ms": 217542,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/7iDNE7y4h38VHNUGmbXODa"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1547,26 +1567,6 @@
       "duration_ms": 254007,
       "name": "Sing Over Me",
       "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "I Surrender All",
-        "url": "https://open.spotify.com/album/2EPz6MwlWzAYR7qYViQiE4"
-      },
-      "artists": [
-        {
-          "name": "Chad Graham",
-          "url": "https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep"
-        },
-        {
-          "name": "Fallon Graham",
-          "url": "https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg"
-        }
-      ],
-      "duration_ms": 217542,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/7iDNE7y4h38VHNUGmbXODa"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "The End of It All",
+        "url": "https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX"
+      },
+      "artists": [
+        {
+          "name": "Alisha Eich",
+          "url": "https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1"
+        }
+      ],
+      "duration_ms": 214521,
+      "name": "The End of It All",
+      "url": "https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW"
       },
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "The End of It All",
-        "url": "https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX"
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
       },
       "artists": [
         {
-          "name": "Alisha Eich",
-          "url": "https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1"
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
         }
       ],
-      "duration_ms": 214521,
-      "name": "The End of It All",
-      "url": "https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ"
+      "duration_ms": 130927,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1767,22 +1783,6 @@
       "duration_ms": 281141,
       "name": "You're Still God - Live",
       "url": "https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 130927,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
     }
   ],
   "unique_name": "Be Still",

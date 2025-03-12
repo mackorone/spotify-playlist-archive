@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 15494,
+  "num_followers": 15499,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-02-10 12:30:03",
       "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "If I hug you",
-      "url": "https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ"
-    },
-    {
-      "added_at": "2025-02-10 12:30:03",
-      "album": {
         "name": "Dead End",
         "url": "https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 286432,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP"
+    },
+    {
+      "added_at": "2025-02-10 12:30:03",
+      "album": {
+        "name": "In your heart",
+        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "If I hug you",
+      "url": "https://open.spotify.com/track/1UYFSjrrKxxuH3CFmEtJxZ"
     },
     {
       "added_at": "2025-02-10 12:30:03",

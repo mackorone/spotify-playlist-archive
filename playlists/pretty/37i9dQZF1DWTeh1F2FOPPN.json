@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 77749,
+  "num_followers": 77785,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 427693,
-      "name": "A House Is Not a Home",
-      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 209560,
       "name": "I Just Died",
       "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 427693,
+      "name": "A House Is Not a Home",
+      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
     },
     {
       "added_at": "2022-10-01 16:54:27",

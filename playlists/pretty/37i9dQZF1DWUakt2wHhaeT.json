@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Darren Criss and Helen J Shen in Maybe Happy Ending",
-  "num_followers": 112138,
+  "num_followers": 112137,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIYAAAAABORu63Bihz9Kv2oeIFLiO2",
+  "snapshot_id": "Z8/DVgAAAAAp3NI/E1KW0m/buwBQur0s",
   "tracks": [
     {
       "added_at": "2025-02-21 05:00:16",
@@ -47,6 +47,30 @@
       "duration_ms": 256444,
       "name": "For The Gaze",
       "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+    },
+    {
+      "added_at": "2025-03-11 05:00:06",
+      "album": {
+        "name": "Something To Shout About",
+        "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Something To Shout About",
+      "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -743,26 +767,6 @@
       "duration_ms": 203462,
       "name": "New York - Studio Cast Recording",
       "url": "https://open.spotify.com/track/6zorFxuitBjS8H4otpjF3M"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Lempicka - The Musical (2022 Sessions)",
-        "url": "https://open.spotify.com/album/22UlcdIxtmapTzhh6koX1o"
-      },
-      "artists": [
-        {
-          "name": "Eden Espinosa",
-          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
-        },
-        {
-          "name": "Original Cast of Lempicka",
-          "url": "https://open.spotify.com/artist/5PIDs2iaqTbcsOhNd5IfFM"
-        }
-      ],
-      "duration_ms": 292604,
-      "name": "Woman Is - 2022 Sessions",
-      "url": "https://open.spotify.com/track/0AqDuGW6j1RZ93r2n3DUGA"
     },
     {
       "added_at": "2024-06-28 04:27:17",

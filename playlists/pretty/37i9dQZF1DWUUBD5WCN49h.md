@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Braye
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,241 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,255 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 49 | [Monife](https://open.spotify.com/track/43ZRXox9PwrPux3cZ0EpSj) | [Gabriel Afolayan](https://open.spotify.com/artist/55aJOuGBFvuqI2pucy66vM) | [All the miles](https://open.spotify.com/album/1cwXjOHmCcmlmxE5mmxYVe) | 3:30 |
 | 50 | [Imimangaliso](https://open.spotify.com/track/1M7j3BdQiqzK30LehjOFDN) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Imimangaliso](https://open.spotify.com/album/2i1gn2wnib8HBe6J701ZgN) | 2:51 |
 | 51 | [Trust Issues](https://open.spotify.com/track/0zHG0oVj353gMiTEjEK7JG) | [WONDA](https://open.spotify.com/artist/2vIvhBzRj2tki4K7xUDPms), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Trust Issues](https://open.spotify.com/album/6jPqR3wtXmqSFeLkFACRrq) | 2:59 |
-| 52 | [Blood for Blood](https://open.spotify.com/track/5Px8xxDFojbLY3StMcCdWI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Blood for Blood](https://open.spotify.com/album/3PxzP5mtKDKy5kXCNe1hy3) | 2:48 |
+| 52 | [Blood for Blood](https://open.spotify.com/track/5Px8xxDFojbLY3StMcCdWI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Blood for Blood](https://open.spotify.com/album/3PxzP5mtKDKy5kXCNe1hy3) | 2:48 |
 | 53 | [Liquor In A Teacup](https://open.spotify.com/track/6vv0cPKPfW3g2X5pXVRqva) | [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Liquor In A Teacup](https://open.spotify.com/album/6aRRV6ClHhPuE1hSPOnq4e) | 3:00 |
 | 54 | [Disciple](https://open.spotify.com/track/4DBtobSUafnM8j3cMO8SYX) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [TORANN](https://open.spotify.com/artist/1lZNBtm4MoPcfFLRC4qCke), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Disciple](https://open.spotify.com/album/2FRkIxUMIHqsRQk1IYPTEe) | 2:46 |
 | 55 | [Before](https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Before](https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,772 likes - 51 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,790 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 48 | [Mtg Faz o Cu de Xota X Comedores de Xereca](https://open.spotify.com/track/4sisPEgb5dv5Jx0ljBAY7n) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ BETIM ATL](https://open.spotify.com/artist/1MSe9dn8Q5rGo2vJxkuw9J), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Pedrin do Engenha](https://open.spotify.com/artist/0cO5CCI3s6CjA19gXjJXJG), [MC MÃE](https://open.spotify.com/artist/1ZWv3uODosj5pH5BmmGisF) | [Mtg Faz o Cu de Xota X Comedores de Xereca](https://open.spotify.com/album/5WwCBLbEXcRhpZSRQbGzTH) | 3:04 |
 | 49 | [É o Rei do Sexo](https://open.spotify.com/track/5MGhz9NF41oppyU31Z0dpj) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 2:20 |
 | 50 | [raro mas sempre acontece](https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [raro mas sempre acontece](https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X) | 2:46 |
-| 51 | [Favela Vive 3](https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Favela Vive 3](https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF) | 8:19 |
 
 Snapshot ID: `Z8zaAAAAAAAhn36H4tQzbDtL389nNHvH`

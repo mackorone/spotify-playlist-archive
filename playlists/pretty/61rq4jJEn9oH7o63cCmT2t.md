@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 63 songs - 3 hr 31 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 61 | [Heel Turn 2](https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 5:58 |
 | 62 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
 | 63 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
+| 64 | [The Bureau](https://open.spotify.com/track/2lDGj4Pi8UuQIPQdi8M9Eu) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:37 |
 
-Snapshot ID: `AAAASpq1wV1dK9g+jZkAVPF1SMBGKh5Q`
+Snapshot ID: `AAAAS72stMRKLqC2VGUs8FJIzbdLK18m`

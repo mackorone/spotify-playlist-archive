@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24036,
+  "num_followers": 24038,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 236890,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "No Los Pueden Separar",
         "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 142147,
       "name": "No Los Pueden Separar",
       "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 236890,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Botella",
+        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        }
+      ],
+      "duration_ms": 132221,
+      "name": "Botella",
+      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 182056,
       "name": "Mir\u00e1 mam\u00e1",
       "url": "https://open.spotify.com/track/195ZLpeP6FKxSQXo7uvdL4"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Botella",
-        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
-      },
-      "artists": [
-        {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        }
-      ],
-      "duration_ms": 132221,
-      "name": "Botella",
-      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Vandalismo Comparado",
         "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Me gusta mirarte de cerca",
-        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 204875,
-      "name": "Me Gusta Mirarte De Cerca",
-      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Destruyo Mi Guitarra",
         "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "No Mor\u00ed",
-        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
+        "name": "Me gusta mirarte de cerca",
+        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
       },
       "artists": [
         {
-          "name": "Mostruo!",
-          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
         }
       ],
-      "duration_ms": 183203,
-      "name": "No Mor\u00ed",
-      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
+      "duration_ms": 204875,
+      "name": "Me Gusta Mirarte De Cerca",
+      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1015,6 +999,22 @@
       "duration_ms": 226715,
       "name": "GLEEMONEX",
       "url": "https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "No Mor\u00ed",
+        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
+      },
+      "artists": [
+        {
+          "name": "Mostruo!",
+          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+        }
+      ],
+      "duration_ms": 183203,
+      "name": "No Mor\u00ed",
+      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Puedo ver el mar en tus ojos",
         "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 181495,
       "name": "Puedo ver el mar en tus ojos",
       "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Una Propuesta",
-        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Una Propuesta",
-      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Anclado",
         "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 264500,
       "name": "Anclado",
       "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Una Propuesta",
+        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Una Propuesta",
+      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
     },
     {
       "added_at": "2025-01-09 18:07:40",

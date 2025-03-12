@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Vinka
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,725 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,740 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 47 | [Omwami](https://open.spotify.com/track/30vOxrrv6DscZqziG7DFic) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [The One Omwami](https://open.spotify.com/album/77dA9HhOrTOGx1mtsJqGtj) | 4:11 |
 | 48 | [Salary II \- Remix](https://open.spotify.com/track/7mjtXNuGWyq98NgKVnqSlY) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu) | [Salary II \(Remix\)](https://open.spotify.com/album/3xxuq0vgmCizldYI4bpZhB) | 4:19 |
 | 49 | [Funga Gate](https://open.spotify.com/track/1e8ho7Rsnfd1Oedgmgk02L) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Funga Gate](https://open.spotify.com/album/3lurrWpZExkdwy2RMSgzgb) | 3:12 |
-| 50 | [Ntwaala](https://open.spotify.com/track/2UhlCJjpvFuLmoAb5swj8Y) | [Mudra D Viral](https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Ntwaala](https://open.spotify.com/album/2dtpEFGUed4yX2qJkJLUP9) | 3:28 |
+| 50 | [Ntwaala](https://open.spotify.com/track/2UhlCJjpvFuLmoAb5swj8Y) | [Mudra D'Viral](https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Ntwaala](https://open.spotify.com/album/2dtpEFGUed4yX2qJkJLUP9) | 3:28 |
 | 51 | [Batuleke](https://open.spotify.com/track/5d5iWYfRMFmxSqU3d9BS9K) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [Swangz Avenue Presents: Swangz All Star, Vol\. 1](https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3) | 2:52 |
 | 52 | [Myumyula](https://open.spotify.com/track/1OOOz2tI3S5WZky2y3CfdZ) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Myumyula](https://open.spotify.com/album/6mplmZOo4NPfWdsksZl7W7) | 3:18 |
 | 53 | [Come close \(Original\)](https://open.spotify.com/track/0PzIqwL3WC6Slq3vThdvWT) | [Mc Norman](https://open.spotify.com/artist/2pk7yiI6oafglY0jtQLvtO), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Weasel](https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs) | [Come close \(Original\)](https://open.spotify.com/album/4ekfhKhO3LpmyTiMtHwYUt) | 3:02 |

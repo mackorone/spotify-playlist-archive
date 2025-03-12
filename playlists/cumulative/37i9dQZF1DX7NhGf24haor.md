@@ -4,7 +4,7 @@
 
 > Weekly new Hardstyle releases! Cover: Sub Zero Project, D\-Block & S\-te\-Fan
 
-1,375 songs - 3 day 1 hr 18 min
+1,376 songs - 3 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [Lost \(feat\. Lune\)](https://open.spotify.com/track/3A6ieFcCzDyxAhcIqTRKpC) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Lune](https://open.spotify.com/artist/7EmxBsAP8nkSn6gxRZt9gN) | [Lost \(feat\. Lune\)](https://open.spotify.com/album/39ciXKmC9TKRiLoslPJDqR) | 2:59 | 2023-10-06 | 2024-01-12 |
 | [Lost In The Music](https://open.spotify.com/track/0jN59wksahhmhRcxJY2f46) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Lost In The Music](https://open.spotify.com/album/6XOcQjC94fgoypqcuXcjdE) | 3:16 | 2023-03-16 | 2023-03-31 |
 | [Lost Without You \(Defqon.1 2023 Closing Theme\)](https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Lost Without You \(Defqon.1 2023 Closing Theme\)](https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR) | 4:49 | 2023-08-17 | 2023-10-07 |
+| [Louder Is The Game](https://open.spotify.com/track/09Dgyz06q3jYzoRlIfx7PL) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Louder Is The Game](https://open.spotify.com/album/29Paq41w55v0tgNjVA4hzl) | 2:58 | 2025-03-11 |  |
 | [Love](https://open.spotify.com/track/1wnugFeFGJ7VP45WcARGlD) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Love](https://open.spotify.com/album/6PWwonomZj1P3ldfPAZNnK) | 2:51 | 2023-01-12 | 2023-02-15 |
 | [Love Again](https://open.spotify.com/track/5Iyi2vA6w8daO8mFh3newK) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Love Again](https://open.spotify.com/album/1bWhkYp8LmaIN1Wm7db1o3) | 3:53 | 2025-02-22 |  |
 | [Love Death](https://open.spotify.com/track/1H2HyRY6Z4krifebdRQqNY) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Love Death](https://open.spotify.com/album/2Y4Wkt6tTWwGI5yXM9olvN) | 3:12 | 2023-09-07 | 2023-12-02 |

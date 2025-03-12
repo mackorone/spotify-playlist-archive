@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-365 songs - 18 hr 11 min
+370 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aetherwind](https://open.spotify.com/track/6iNp8YUEpIFkb8AtpbTURR) | [Orchid Rain](https://open.spotify.com/artist/12iVnS0Nbz0W1GT5VjNEkd) | [Aetherwind](https://open.spotify.com/album/7HXeEiZn3VTqkDZGq2dfBZ) | 2:43 | 2025-02-26 |  |
 | [Akitai](https://open.spotify.com/track/1nhygEpFiytaSNKmnj3QNp) | [Polydora](https://open.spotify.com/artist/0bOWZ1PEGNLA3kJTnkKTiT) | [Akitai](https://open.spotify.com/album/2HNm4TUulw9oTAyX3Wl4hZ) | 3:12 | 2022-10-15 |  |
 | [All Of Us](https://open.spotify.com/track/6e18CFquaTbBT8aUQ0Vl1A) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [All Of Us](https://open.spotify.com/album/0HM8y58DFBfqDjGiaIoMWQ) | 2:56 | 2023-09-15 |  |
+| [Allure](https://open.spotify.com/track/6XfbZFodLFaQBvPZCz4HGs) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Allure](https://open.spotify.com/album/2iW3oa5LuiNrQnXZ8hURtN) | 3:05 | 2025-03-11 |  |
 | [Alpha](https://open.spotify.com/track/3rZhO9sRiOj2iC0g8UlxBr) | [River Zomnia](https://open.spotify.com/artist/3dkf1Aj7lFgshUMWmIgcX6) | [Alpha](https://open.spotify.com/album/24iln1loly7XtwB6qsfBVy) | 3:05 | 2022-10-15 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2022-07-15 | 2024-11-12 |
 | [Amble](https://open.spotify.com/track/5cV6U9P1ItEIGrvSpkb35V) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Amble](https://open.spotify.com/album/2MJwSBOPC3hwSCigceB7Qx) | 2:37 | 2025-01-28 |  |
@@ -27,6 +28,7 @@
 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2022-11-11 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-07-15 | 2022-12-31 |
 | [Angelic Grace](https://open.spotify.com/track/3oHTwjDovV4AHlgjrZwvtf) | [Simone Baillard](https://open.spotify.com/artist/7pJOC2WVTR888AUtLPCoLh) | [Angelic Grace](https://open.spotify.com/album/43BnxGptkurZNskMqXPk64) | 2:57 | 2024-03-07 |  |
+| [Angelic Planet](https://open.spotify.com/track/3PQkT6k7wYVrpCdfw1nUHC) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Galactic](https://open.spotify.com/album/5auZsjKYVdL2d7aSHgXMWV) | 2:47 | 2025-03-11 |  |
 | [Apaisantes](https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Apaisantes](https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB) | 2:14 | 2022-11-11 |  |
 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 | 2022-08-23 |  |
 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 | 2022-07-15 | 2024-11-28 |
@@ -106,7 +108,9 @@
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-07-15 | 2025-02-06 |
 | [Easy Relaxation](https://open.spotify.com/track/5C2kORborDnldRKdr5jcQY) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Easy Relaxation](https://open.spotify.com/album/2d1vqShDaC1AEcLIQVomTM) | 3:00 | 2022-12-02 |  |
+| [Echoes of the Night](https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA) | [Oblivionis](https://open.spotify.com/artist/15iUgjfevdKD9hVKqnq6MO) | [Echoes of the Night](https://open.spotify.com/album/1W5BHmyplCBRiwXFgzd9oT) | 2:23 | 2025-03-11 |  |
 | [Eclipse](https://open.spotify.com/track/2pQ3Z7MKdBaAnuny5neSDE) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Eclipse](https://open.spotify.com/album/3birOrkNzIm0S1VB4klVL5) | 2:58 | 2025-02-14 |  |
+| [Ecliptica](https://open.spotify.com/track/4AEqSOsUHsxi5wlsxEMraP) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ecliptica](https://open.spotify.com/album/1mMrGiufIO783e8RSwmUOv) | 3:08 | 2025-03-11 |  |
 | [Edge of Ocean Reefs](https://open.spotify.com/track/2QBh6k2PaI4Q9Yf3OoaiYU) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Edge of Ocean Reefs](https://open.spotify.com/album/1rph2FbQMLJBrKYCf8WCYi) | 4:00 | 2024-12-19 |  |
 | [Efímero](https://open.spotify.com/track/4ss24g9SDlCKesKrc9CKHd) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Dédalo](https://open.spotify.com/album/21PsOK7kI5AwvtzxEVBbpi) | 2:07 | 2023-04-07 |  |
 | [Elastic](https://open.spotify.com/track/2RHMslNaOFReTRmmgGYzPR) | [Ground View](https://open.spotify.com/artist/4spyBSE2bQHqg1hlYyp6l4) | [Elastic](https://open.spotify.com/album/5rH39VWTM48iZdlslIWzRz) | 3:07 | 2025-02-14 |  |
@@ -144,6 +148,7 @@
 | [For Your Relief](https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Graceful](https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa) | 2:21 | 2022-07-15 | 2025-01-08 |
 | [Free Heart](https://open.spotify.com/track/20Swwc4vZdDM00QexotXce) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Completely](https://open.spotify.com/album/1i6EaebeCPg1TzIYjhFWhB) | 2:40 | 2022-07-15 |  |
 | [Free Vigour](https://open.spotify.com/track/4DQDWPoBqNUhFJlY5gUQN7) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Free Vigour](https://open.spotify.com/album/2Rmeg8XQW7eXdMGaEhFIAm) | 3:20 | 2024-02-14 |  |
+| [Frid](https://open.spotify.com/track/6CgkDd7PJVghkT2gDA3EJ5) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Frid](https://open.spotify.com/album/0bgm25oNFNBYOznSIykkvB) | 2:19 | 2025-03-11 |  |
 | [Fulfillment](https://open.spotify.com/track/1qniL4F4O4hBtFp5FmK883) | [Photoautotroph](https://open.spotify.com/artist/1OSyQ1c3oDZQloHUlPTlAg) | [Fulfillment](https://open.spotify.com/album/7ay7MJFZvd2TB44IjcDAoZ) | 2:36 | 2025-02-26 |  |
 | [Förvandlingen](https://open.spotify.com/track/7hWn0BxfT0X160O8PdMVeb) | [Kim Nordenstierna](https://open.spotify.com/artist/0MV0YK75T6vC9k9604QRID) | [Förvandlingen](https://open.spotify.com/album/6a1rjpJ0uygd62VPLvtC1H) | 2:27 | 2023-02-03 |  |
 | [Galaxy River](https://open.spotify.com/track/4qoE30s1SzfR9aylJwSULq) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Galaxy River](https://open.spotify.com/album/3TzMmfxAKMqkRFAShdma9u) | 3:37 | 2022-07-15 | 2024-09-04 |

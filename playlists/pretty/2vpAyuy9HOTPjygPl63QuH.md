@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,041 likes - 51 songs - 2 hr 38 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,040 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 49 | [Stunner \- Original Mix](https://open.spotify.com/track/5dFPkVJKFyy1WEZ471gjKz) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Stunner](https://open.spotify.com/album/1WddSukHJztab96YiwuM4r) | 3:19 |
 | 50 | [Tootsie Pop](https://open.spotify.com/track/6iEcJOCsj7rmmJmOO3s7Ok) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Tootsie Pop](https://open.spotify.com/album/5WX2ezXljLgIEVOrqUp513) | 2:59 |
 | 51 | [TELEMARKETER](https://open.spotify.com/track/5YtFmJF6RzB4etYr1rls48) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [TELEMARKETER](https://open.spotify.com/album/47WCuW1XFyEo0P8w2brTx7) | 3:34 |
+| 52 | [Keep Me Hangin' On](https://open.spotify.com/track/5gjwVIZt8P11NESUD1coEP) | [Sides of the Sun](https://open.spotify.com/artist/2DKXVfUseu9jhQ66Rt7Rb4) | [Keep Me Hangin' On](https://open.spotify.com/album/0jiom1UhgcZDZLb3QJrR2g) | 3:02 |
+| 53 | [Koolaid \- Oh Yeah Mix](https://open.spotify.com/track/1ZpTFDpF5mVOtU6NJQl6tr) | [ALVES](https://open.spotify.com/artist/5IuRJkF6BqSdfGykaHfslU) | [Koolaid](https://open.spotify.com/album/41jpxAEX3g57Mhu9Yol9Zz) | 2:20 |
 
-Snapshot ID: `AAAk8LvOt6dbzOFi6EpDjMvZLbt7Lkc2`
+Snapshot ID: `AAAk8tiFsFrf4ZfnkOSpJIagVG0DrEgE`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 59289,
+  "num_followers": 59315,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "Men in Salsa",
-        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "Arquivo II 1991 - 2000",
         "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
       },
@@ -107,18 +91,18 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "Finisterra",
-        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+        "name": "Men in Salsa",
+        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
       },
       "artists": [
         {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 296751,
-      "name": "Fiesta Pagana",
-      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+      "duration_ms": 251253,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
     },
     {
       "added_at": "2024-07-13 01:17:59",
@@ -139,6 +123,22 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
+        "name": "Finisterra",
+        "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Fiesta Pagana",
+      "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
       },
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
     },
     {
       "added_at": "2024-07-13 01:17:59",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "El Ultimo Adios",
-      "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 226800,
       "name": "Paris",
       "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "El Ultimo Adios",
+      "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
     },
     {
       "added_at": "2024-07-13 01:17:59",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
-        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
-        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 274506,
       "name": "Tal Vez Quizas",
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
+        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
+        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
     },
     {
       "added_at": "2024-07-13 01:17:59",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-13 01:17:59",
       "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+    },
+    {
+      "added_at": "2024-07-13 01:17:59",
+      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 444330,
       "name": "Digno",
       "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
-    },
-    {
-      "added_at": "2024-07-13 01:17:59",
-      "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2024-07-13 01:17:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,286 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 33 | [Heroes](https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Heroes](https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7) | 2:24 |
 | 34 | [Op Fok](https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5) | [Op Fok](https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL) | 2:08 |
 | 35 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
-| 36 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
-| 37 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
+| 36 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
+| 37 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
 | 38 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
-| 39 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
+| 39 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
 | 40 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
 | 41 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 |
 | 42 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 43 | [Ghetto Barz](https://open.spotify.com/track/1PkG4e1yiQVpb6upawmYZL) | [Narc Da Kidd](https://open.spotify.com/artist/6zWfAhLn7fkVeVAluyVPLk), [CurwieBoi](https://open.spotify.com/artist/37zIF5Aikozj1Qd0KwWGP9) | [Ghetto Barz](https://open.spotify.com/album/2oB6UIhhAKMY3lktYXh18R) | 1:52 |
 | 44 | [Bang4X](https://open.spotify.com/track/6KId0kbKQzm8qov8fyrGUD) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2tRk2XjIAU98mOQCoGhe2R) | [Katjie Vanie Baan EP](https://open.spotify.com/album/5oFAxSS5YTgVZaclV1g1Jy) | 2:35 |
-| 45 | [OH NO!](https://open.spotify.com/track/4tAZM4vBZGO8rKS1BH4hfA) | [Karma 6east](https://open.spotify.com/artist/12w3eaUjsNFrP0dHVOnSJT) | [OH NO!](https://open.spotify.com/album/2APvCGmM9RReFTPGrrzwcx) | 2:18 |
-| 46 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
+| 45 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
+| 46 | [OH NO!](https://open.spotify.com/track/4tAZM4vBZGO8rKS1BH4hfA) | [Karma 6east](https://open.spotify.com/artist/12w3eaUjsNFrP0dHVOnSJT) | [OH NO!](https://open.spotify.com/album/2APvCGmM9RReFTPGrrzwcx) | 2:18 |
 | 47 | [My Jaar](https://open.spotify.com/track/6NMEUIy8OcuHZwMGkk4NPd) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [My Jaar](https://open.spotify.com/album/1XSdw1pFavqC76IQXNovUH) | 1:47 |
-| 48 | [Onder Die Tafel](https://open.spotify.com/track/28PTDPuRk3hy0RtflAsAIC) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1) | [Onder Die Tafel](https://open.spotify.com/album/6lWnUsGCl8vcKLxdTcmJRq) | 2:23 |
-| 49 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
+| 48 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
+| 49 | [Onder Die Tafel](https://open.spotify.com/track/28PTDPuRk3hy0RtflAsAIC) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1) | [Onder Die Tafel](https://open.spotify.com/album/6lWnUsGCl8vcKLxdTcmJRq) | 2:23 |
 | 50 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
 
 Snapshot ID: `Z8oa7AAAAACKFrGQEPnK6bIGfbir2K2a`

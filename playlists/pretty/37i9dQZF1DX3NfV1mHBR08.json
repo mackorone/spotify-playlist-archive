@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15116,
+  "num_followers": 15123,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
+        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
         "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
         "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 182833,
       "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -835,8 +835,8 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
-        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 217573,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

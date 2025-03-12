@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Alejandro Fern\u00e1ndez",
-  "num_followers": 78036,
+  "num_followers": 78040,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-02-28 18:27:19",
       "album": {
-        "name": "Lo Logramos (En Vivo)",
-        "url": "https://open.spotify.com/album/7hU8Jhc2fl2f9P7vndvf5a"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        },
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Lo Logramos - En Vivo",
-      "url": "https://open.spotify.com/track/78buVfizn1wTIsErkqv1K8"
-    },
-    {
-      "added_at": "2025-02-28 18:27:19",
-      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
+    },
+    {
+      "added_at": "2025-02-28 18:27:19",
+      "album": {
+        "name": "Lo Logramos (En Vivo)",
+        "url": "https://open.spotify.com/album/7hU8Jhc2fl2f9P7vndvf5a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Lo Logramos - En Vivo",
+      "url": "https://open.spotify.com/track/78buVfizn1wTIsErkqv1K8"
     },
     {
       "added_at": "2025-02-28 18:27:19",
