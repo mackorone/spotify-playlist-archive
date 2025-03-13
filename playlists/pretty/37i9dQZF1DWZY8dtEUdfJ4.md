@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,018 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,028 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

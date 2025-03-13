@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777057,
+  "num_followers": 777082,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACu9cP/Kgp8+pslPrDReuVD",
+  "snapshot_id": "Z899AAAAAACiuebqOZA1c78RZtKe2wU/",
   "tracks": [
     {
       "added_at": null,
@@ -186,15 +186,11 @@
         {
           "name": "Panic! At The Disco",
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        },
-        {
-          "name": "LOLO",
-          "url": "https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA"
         }
       ],
-      "duration_ms": 192053,
-      "name": "Miss Jackson (feat. LOLO)",
-      "url": "https://open.spotify.com/track/46Kcradxrva9Dny4lHU1b3"
+      "duration_ms": 187186,
+      "name": "This Is Gospel",
+      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
     },
     {
       "added_at": null,
@@ -254,11 +250,15 @@
         {
           "name": "Panic! At The Disco",
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "LOLO",
+          "url": "https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA"
         }
       ],
-      "duration_ms": 187186,
-      "name": "This Is Gospel",
-      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
+      "duration_ms": 192053,
+      "name": "Miss Jackson (feat. LOLO)",
+      "url": "https://open.spotify.com/track/46Kcradxrva9Dny4lHU1b3"
     },
     {
       "added_at": null,

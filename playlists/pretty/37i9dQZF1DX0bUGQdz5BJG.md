@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Caylee Hammack
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,236 likes - 180 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,254 likes - 180 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

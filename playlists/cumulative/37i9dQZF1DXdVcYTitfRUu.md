@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-173 songs - 10 hr 30 min
+174 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2024-02-21 |  |
 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-11-03 | 2024-01-07 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-11-03 |  |
+| [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 | 2025-03-12 |  |
 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 | 2023-11-03 |  |
 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 | 2024-08-10 |  |
 | [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 | 2024-11-21 |  |
@@ -58,7 +59,7 @@
 | [Every moment of you](https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star Part 7](https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0) | 4:03 | 2024-08-10 |  |
 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 | 2024-03-05 |  |
 | [FALLIN’](https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [FALLIN’](https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK) | 3:20 | 2024-11-21 | 2025-01-29 |
-| [First Step](https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT) | 3:48 | 2025-02-10 |  |
+| [First Step](https://open.spotify.com/track/2dBb7nKOJdVbv4Bib5w1DP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Check in Hanyang \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1ertivhrcJ58ZCX3THYUbT) | 3:48 | 2025-02-10 | 2025-03-13 |
 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-11-03 | 2024-02-22 |
 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 | 2023-11-03 | 2025-03-02 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2023-11-03 |  |

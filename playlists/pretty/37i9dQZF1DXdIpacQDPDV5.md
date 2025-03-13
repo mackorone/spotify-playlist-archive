@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: WHIPPED CREAM & Andrea Botez
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,525 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,516 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 25 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 |
 | 26 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 |
 | 27 | [I Want You](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Want You](https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL) | 3:27 |
-| 28 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
+| 28 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 29 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
 | 30 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 |
 | 31 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |

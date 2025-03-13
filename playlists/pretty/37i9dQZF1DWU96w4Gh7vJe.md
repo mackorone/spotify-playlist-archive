@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,436 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,449 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 41 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
 | 42 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 |
 | 43 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
-| 44 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
-| 45 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
+| 44 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
+| 45 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
 | 46 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
 | 47 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 | 48 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |

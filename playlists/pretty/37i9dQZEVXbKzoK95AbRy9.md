@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,514 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,561 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Vou Raspar Seu Bigodin](https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Vou Raspar Seu Bigodin](https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW) | 1:44 |
 | 50 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
 
-Snapshot ID: `L2OnIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2T4oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

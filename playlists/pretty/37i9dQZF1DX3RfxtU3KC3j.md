@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Güneş
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,667 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,652 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tek Son Bu Mu?](https://open.spotify.com/track/6sylA3i5kJJLUtmRIylSIr) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO), [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Tek Son Bu Mu?](https://open.spotify.com/album/6SY7Z6y4VcJwzkvVUhPHD9) | 4:00 |
-| 2 | [Kanadım Aşktan](https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Kanadım Aşktan](https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa) | 3:07 |
-| 3 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 |
+| 1 | [Beyaz Sayfalar](https://open.spotify.com/track/35LBdRgHxGQ232UmkzbBIe) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Beyaz Sayfalar](https://open.spotify.com/album/4mx7s38eskaxRDWC2BOkeP) | 2:31 |
+| 2 | [Tek Son Bu Mu?](https://open.spotify.com/track/6sylA3i5kJJLUtmRIylSIr) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO), [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Tek Son Bu Mu?](https://open.spotify.com/album/6SY7Z6y4VcJwzkvVUhPHD9) | 4:00 |
+| 3 | [Kanadım Aşktan](https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Kanadım Aşktan](https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa) | 3:07 |
 | 4 | [Modern İnsanlarız](https://open.spotify.com/track/6kEMFpocQgnUC8MXd6rc35) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Modern İnsanlarız](https://open.spotify.com/album/558LMka02jpf9BWupdd0aU) | 3:28 |
 | 5 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 |
 | 6 | [Kim Tutar Beni](https://open.spotify.com/track/4yYyGVZP3iAwkEQpT1prgW) | [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Kim Tutar Beni](https://open.spotify.com/album/4aN63qzjaH3PBsWnVBguYK) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Aşka Çarem Yok](https://open.spotify.com/track/5GWSVnhx6N0JhmCwpy7Psl) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Aşka Çarem Yok](https://open.spotify.com/album/6zlf0dUxMzZ3Ux1i1QHGq2) | 2:22 |
 | 75 | [B.](https://open.spotify.com/track/64P8LehzuNRGQ5JhswIHNW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [B.](https://open.spotify.com/album/6ZMfAa72rsLzLtjuRygUki) | 4:47 |
 
-Snapshot ID: `Z8oM9gAAAADJg4dlT4mMwRuNvTh8LUUH`
+Snapshot ID: `Z9FY3AAAAAAn6UBVmcD9h5D/dpaHBTgp`

@@ -1,6 +1,6 @@
 {
   "description": "sunny days, happy people ",
-  "num_followers": 102890,
+  "num_followers": 102885,
   "original_name": "summer songs",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-09 14:31:55",
       "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "8TEEN",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
+    },
+    {
+      "added_at": "2024-08-09 14:31:55",
+      "album": {
         "name": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
         "url": "https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
-    },
-    {
-      "added_at": "2024-08-09 14:31:55",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "8TEEN",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
     },
     {
       "added_at": "2024-08-09 14:31:55",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-09 14:31:55",
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 206393,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
+    },
+    {
+      "added_at": "2024-08-09 14:31:55",
+      "album": {
         "name": "How You Feel (Ft. Leven Kali)",
         "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-08-09 14:31:55",
-      "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 206393,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
     },
     {
       "added_at": "2024-08-09 14:31:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436 likes - 22 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 22 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 7 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 |
 | 8 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 |
 | 9 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 |
-| 10 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
-| 11 | [Dumped](https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Dumped](https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW) | 2:43 |
+| 10 | [Dumped](https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Dumped](https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW) | 2:43 |
+| 11 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
 | 12 | [People Pleaser](https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:10 |
 | 13 | [Twenty Something](https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Twenty Something](https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6) | 3:09 |
 | 14 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 21 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 | 22 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 
-Snapshot ID: `Z8zaAAAAAACyUaZdGlegGHsQgCoVo8K+`
+Snapshot ID: `Z899AAAAAACFanPvMy1yjOg42BB//cFB`

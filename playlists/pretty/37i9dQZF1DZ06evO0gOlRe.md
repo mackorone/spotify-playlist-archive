@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,883 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,897 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 10 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
 | 11 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 |
 | 12 | [Put You First](https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Put You First](https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd) | 2:20 |
-| 13 | [House of Cards](https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41) | 3:34 |
-| 14 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 |
+| 13 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 |
+| 14 | [House of Cards](https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41) | 3:34 |
 | 15 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 |
 | 16 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
-| 17 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
-| 18 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
+| 17 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
+| 18 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
 | 19 | [Enamorado](https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Enamorado](https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd) | 3:10 |
 | 20 | [Best Damn Thing](https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:52 |
 | 21 | [easier said than done](https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:49 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 36 | [i wish you cheated \(Frank Walker Remix\)](https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [i wish you cheated \(Frank Walker Remix\)](https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz) | 3:30 |
 | 37 | [No Thanks](https://open.spotify.com/track/7sf18eK8GKYiffwszSB3mS) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:40 |
 | 38 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
-| 39 | [Let Me Hate You](https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Let Me Hate You](https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk) | 3:16 |
-| 40 | [Different People](https://open.spotify.com/track/12PFQS7zeWYMJoN9DT2ceE) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE) | 2:54 |
+| 39 | [Different People](https://open.spotify.com/track/12PFQS7zeWYMJoN9DT2ceE) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE) | 2:54 |
+| 40 | [Let Me Hate You](https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Let Me Hate You](https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk) | 3:16 |
 | 41 | [Shady](https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:49 |
 | 42 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 |
 | 43 | [STOP & GO](https://open.spotify.com/track/2kpPludPmHagO06IiRChtM) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [STOP & GO](https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x) | 2:51 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 46 | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [You \(feat\. Alexander Stewart\)](https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg) | 4:12 |
 | 47 | [Be Sad](https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:48 |
 
-Snapshot ID: `Z8zaAAAAAABcuVuYSmXEnJIU9yjAkSop`
+Snapshot ID: `Z899AAAAAAB7HDLmfoJnA7BE8U7H8xdW`

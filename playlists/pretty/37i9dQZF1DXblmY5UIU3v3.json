@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 472377,
+  "num_followers": 472434,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-01-07 16:57:19",
       "album": {
+        "name": "Ethnic",
+        "url": "https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj"
+      },
+      "artists": [
+        {
+          "name": "SINDICVT",
+          "url": "https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "Ethnic",
+      "url": "https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq"
+    },
+    {
+      "added_at": "2025-01-07 16:57:19",
+      "album": {
         "name": "Cradles",
         "url": "https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 184800,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW"
-    },
-    {
-      "added_at": "2025-01-07 16:57:19",
-      "album": {
-        "name": "Ethnic",
-        "url": "https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj"
-      },
-      "artists": [
-        {
-          "name": "SINDICVT",
-          "url": "https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "Ethnic",
-      "url": "https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq"
     },
     {
       "added_at": "2025-01-07 16:57:19",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-01-07 16:57:19",
       "album": {
-        "name": "Mafia (Remix)",
-        "url": "https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n"
-      },
-      "artists": [
-        {
-          "name": "JVLA",
-          "url": "https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu"
-        },
-        {
-          "name": "MARE",
-          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
-        }
-      ],
-      "duration_ms": 122608,
-      "name": "Mafia - Remix",
-      "url": "https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4"
-    },
-    {
-      "added_at": "2025-01-07 16:57:19",
-      "album": {
         "name": "Candy Shop",
         "url": "https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 140458,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z"
+    },
+    {
+      "added_at": "2025-01-07 16:57:19",
+      "album": {
+        "name": "Mafia (Remix)",
+        "url": "https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n"
+      },
+      "artists": [
+        {
+          "name": "JVLA",
+          "url": "https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu"
+        },
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+        }
+      ],
+      "duration_ms": 122608,
+      "name": "Mafia - Remix",
+      "url": "https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4"
     },
     {
       "added_at": "2025-01-07 16:57:19",

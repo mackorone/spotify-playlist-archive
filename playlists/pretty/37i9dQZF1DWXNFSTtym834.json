@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1292919,
+  "num_followers": 1293103,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "I Will Be Heard",
+      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "Digimortal",
         "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "I Will Be Heard",
-      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 350358,
-      "name": "Frantic",
-      "url": "https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh"
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     }
   ],
   "unique_name": "00s Metal Classics",

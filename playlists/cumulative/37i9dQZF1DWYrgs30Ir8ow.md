@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Doechii
 
-875 songs - 1 day 18 hr 40 min
+876 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Barbie World \(with Aqua\)](https://open.spotify.com/track/2tQG2nFEHhWsH05kFKlC4A) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 1:49 | 2023-07-27 | 2023-09-14 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-30 | 2023-07-28 |
 | [Bday Baddie](https://open.spotify.com/track/0vAk9jGuv7X9dtM3HR7n2W) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Bday Baddie](https://open.spotify.com/album/3XhPq40aHj02U9za3VdItx) | 2:45 | 2025-02-27 |  |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-12 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-01 | 2024-02-16 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-10-03 | 2024-12-19 |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-03-26 | 2024-05-10 |
@@ -108,7 +109,7 @@
 | [Best Friend](https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Best Friend](https://open.spotify.com/album/7kZ4FOhBJmEtYbrITAO6h7) | 2:27 | 2023-08-03 | 2023-09-26 |
 | [Better Day](https://open.spotify.com/track/6L4JBOh5qgAwFMnOI14eI2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Save Euphoric](https://open.spotify.com/album/2tJLDFvKYcQbvRzQmvh0NW) | 3:47 | 2024-10-03 | 2024-10-11 |
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-10-05 | 2024-01-05 |
-| [Bezwen Ou \(feat\. Joé Dwet Filé\)](https://open.spotify.com/track/1jNS59FIqYLpde5th5RFQk) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:30 | 2025-03-06 |  |
+| [Bezwen Ou \(feat\. Joé Dwet Filé\)](https://open.spotify.com/track/1jNS59FIqYLpde5th5RFQk) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:30 | 2025-03-06 | 2025-03-13 |
 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2023-10-31 | 2023-11-24 |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-11-27 | 2024-12-06 |
 | [Bij Je Zijn](https://open.spotify.com/track/3PbHkeCvPDwlHObIWkt5aR) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Bij Je Zijn](https://open.spotify.com/album/1adQzuk9Fas8UEjq1dwTUX) | 2:37 | 2024-10-17 | 2024-11-15 |

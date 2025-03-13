@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,034 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,195 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 43 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
 | 44 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 45 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 |
-| 46 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 |
-| 47 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 |
+| 46 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 |
+| 47 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 |
 | 48 | [Drowning \(Face Down\)](https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:55 |
 | 49 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 50 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 71 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
 | 72 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 |
 | 73 | [Things My Father Said](https://open.spotify.com/track/2ZceU5sfgcH5h7bIsFuuXT) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Folklore and Superstition](https://open.spotify.com/album/43qxerasfPdTnMQbXX6TVb) | 3:53 |
-| 74 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
-| 75 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
+| 74 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
+| 75 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
 
 Snapshot ID: `Znt6ZgAAAAAlJSUwnPkRCJXls9XrfDSc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > safeword is out! 🗝️ Foto: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,188 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,174 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 25 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 26 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
 | 27 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
-| 28 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
-| 29 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 28 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 29 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
 | 30 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 31 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 32 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |

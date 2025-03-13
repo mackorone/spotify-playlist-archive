@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20418,
+  "num_followers": 20423,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACizTVwf4JB848Cr9fg2xWd",
+  "snapshot_id": "Z899AAAAAAADEiBGjuF/+26EnMmeuvT4",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438080,
-      "name": "N\u00f3s Te Adoramos - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 254253,
       "name": "Me Atraiu - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Abrigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Hananiel Eduardo",
-          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Meu Abrigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -475,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+        "name": "Meu Abrigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+      "duration_ms": 299746,
+      "name": "Meu Abrigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
     },
     {
       "added_at": null,
@@ -515,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
       },
       "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 327866,
-      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 278840,
       "name": "Eu Me Rendo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 327866,
+      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 283365,
-      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 262933,
       "name": "Bem Mais Que Tudo (Above All) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 283365,
+      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
-        }
-      ],
-      "duration_ms": 417426,
-      "name": "Alfa e \u00d4mega - Ao Vivo",
-      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 243973,
       "name": "Bondade de Deus (Goodness of God) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1ajhbZJPOVo337IV5XHRDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Waters",
-        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Your Waters",
-      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fome e Sede",
         "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 361013,
       "name": "Fome e Sede",
       "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Waters",
+        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Your Waters",
+      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 532577,
-      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
         "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 330940,
       "name": "Sou Humano (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 532577,
+      "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para as Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 499742,
-      "name": "Eu Canto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
     }
   ],
   "unique_name": "This Is Julia Vit\u00f3ria",

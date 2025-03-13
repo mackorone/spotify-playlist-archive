@@ -2,12 +2,13 @@
 
 ### [Frolic](https://open.spotify.com/playlist/37i9dQZF1DWSBBiyFHfY0t)
 
-> For frolicking joyously, freely and theatrically in this world\. Cover: TLDP at The BRITs 2025
+> For frolicking joyously, freely and theatrically in this world.
 
-113 songs - 7 hr 7 min
+117 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-03-12 |  |
 | [7 Seconds](https://open.spotify.com/track/0voJyHU8wz6VEkos3L2ohu) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [7 Seconds](https://open.spotify.com/album/6HjTvm0YO6WoZoSRTsS3TR) | 4:12 | 2024-04-18 |  |
 | [A55](https://open.spotify.com/track/1959e47Ws10YM8EdJXFxgy) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [A55](https://open.spotify.com/album/07jKEPsJBD1vKfD7j0iAJ1) | 4:09 | 2024-04-18 |  |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2024-04-18 |  |
@@ -33,6 +34,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2024-04-18 |  |
 | [Don't Shut Me Down](https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 3:58 | 2024-04-18 |  |
 | [Don’t Beat the Girl out of My Boy](https://open.spotify.com/track/1eQN2B11BU0sIqBGAGnwsH) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Hunter](https://open.spotify.com/album/4i2XIJtswPyQE6G46wpKpH) | 4:03 | 2024-04-18 |  |
+| [Doomsday](https://open.spotify.com/track/5lDEyYqBrVn7eQTIVgx5sx) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Doomsday](https://open.spotify.com/album/3fs8sgCGTX3vs9JmyFYCBS) | 3:48 | 2025-03-12 |  |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-04-18 |  |
 | [Everybody Wants to Love You](https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo) | 2:12 | 2024-04-18 |  |
 | [Filthy Lucre](https://open.spotify.com/track/4SOc3DpGIyLiifA7INFAj4) | [Elea Calvet](https://open.spotify.com/artist/18Hl0NlWPsQdjDnbPV1nR4) | [Filthy lucre](https://open.spotify.com/album/2hI0fBgSlbAlYt6mmRW3jC) | 3:19 | 2025-01-03 |  |
@@ -69,6 +71,7 @@
 | [Liffey](https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2) | 4:19 | 2024-04-18 |  |
 | [Like I Used To](https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/3lTAIzdI3ggBc6AtZTqXRS) | 4:23 | 2024-04-18 |  |
 | [Lost Boy](https://open.spotify.com/track/1Mhb1ceztK0XbMGNV02SqL) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [TTRRUUCES](https://open.spotify.com/album/1gOrHrLpZFhoWxhCJEiNiL) | 2:50 | 2024-04-18 |  |
+| [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 | 2025-03-12 |  |
 | [Love Song](https://open.spotify.com/track/678kL8Wo4A2WX7hHIU7MRt) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Mother](https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF) | 3:11 | 2024-04-18 |  |
 | [Matador](https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Matador](https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd) | 3:47 | 2024-12-20 |  |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2024-04-18 |  |
@@ -117,6 +120,7 @@
 | [Under the Shadows](https://open.spotify.com/track/73lmZmCRp5012Kab1KH1vA) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Unguarded](https://open.spotify.com/album/0MGNAatiEm1f9dTvLvNY6R) | 3:50 | 2024-04-18 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2024-04-18 |  |
 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 | 2024-04-18 |  |
+| [Waves \(Hope Lies Ahead\)](https://open.spotify.com/track/2Nfig65JFcyxN0FEBEswTg) | [Ruby Duff](https://open.spotify.com/artist/7arrmC5cRDHLESNxZmUax1) | [Where Do Odd Socks Go?](https://open.spotify.com/album/46565PpBZTCvfzmWytdPRk) | 3:47 | 2025-03-12 |  |
 | [What's A Girl To Do?](https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Fur and Gold](https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN) | 2:58 | 2024-04-18 |  |
 | [Whole Lotta Nothing](https://open.spotify.com/track/6yampi9RNc9cfOPGwuccH7) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Now Leaving West Feldwood](https://open.spotify.com/album/7m10seswHmxu6oSrXNvths) | 4:47 | 2024-12-20 |  |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2024-04-18 |  |

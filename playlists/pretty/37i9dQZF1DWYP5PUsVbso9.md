@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,765 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,826 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 10 | [The Devil Went Down to Georgia](https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Million Mile Reflections](https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a) | 3:35 |
 | 11 | [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
 | 12 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
-| 13 | [\(Ghost\) Riders in the Sky](https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Silver](https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7) | 3:44 |
+| 13 | [Whiskey Bent And Hell Bound](https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:08 |
 | 14 | [Coal Miner's Daughter](https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [20 \#1's: Classic Country](https://open.spotify.com/album/2kCdzYHccdKQbPUA6Xkwxp) | 3:01 |
-| 15 | [Whiskey Bent And Hell Bound](https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:08 |
+| 15 | [\(Ghost\) Riders in the Sky](https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Silver](https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7) | 3:44 |
 | 16 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
 | 17 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
 | 18 | [Coward Of The County](https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Kenny](https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI) | 4:18 |

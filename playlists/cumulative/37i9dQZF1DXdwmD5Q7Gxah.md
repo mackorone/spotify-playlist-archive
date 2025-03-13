@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: SASAMI
 
-3,220 songs - 7 day 7 hr 8 min
+3,222 songs - 7 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [29 Palms](https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [29 Palms](https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT) | 3:21 | 2022-05-12 | 2022-05-28 |
 | [2D](https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [2D](https://open.spotify.com/album/3tHc4SsvGMU2W6DcAiGkXT) | 3:11 | 2023-06-23 | 2023-08-16 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-06-24 |
-| [33°](https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [33°](https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX) | 4:30 | 2025-01-31 |  |
+| [33°](https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [33°](https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX) | 4:30 | 2025-01-31 | 2025-03-13 |
 | [35.31](https://open.spotify.com/track/4vS4FB3HXgOSmICeqEY0Gh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 3:56 | 2020-03-25 | 2021-01-12 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-10 | 2024-07-02 |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-07-01 | 2024-10-16 |
@@ -160,7 +160,7 @@
 | [Always](https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:17 | 2019-11-14 | 2020-03-25 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-17 | 2022-04-22 |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2020-09-15 | 2020-10-13 |
-| [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-10 |  |
+| [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-10 | 2025-03-13 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-10 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-02-10 | 2023-03-22 |
 | [american spirit](https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [american spirit](https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA) | 3:21 | 2023-08-11 | 2023-11-11 |
@@ -333,7 +333,7 @@
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2022-02-02 | 2022-05-19 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-28 | 2022-12-24 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-11 | 2022-02-26 |
-| [Binz](https://open.spotify.com/track/7yvdp8dqmxExSJwT2fn6Xq) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 1:51 | 2025-01-31 |  |
+| [Binz](https://open.spotify.com/track/7yvdp8dqmxExSJwT2fn6Xq) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 1:51 | 2025-01-31 | 2025-03-13 |
 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 | 2022-08-26 | 2022-09-13 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-17 | 2024-07-27 |
 | [bitter](https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [bitter](https://open.spotify.com/album/2c86CPDBePhbDWVuFhF3OB) | 3:35 | 2021-02-12 | 2021-03-14 |
@@ -1961,7 +1961,7 @@
 | [no faker](https://open.spotify.com/track/2z2S7tNx7Ckn87AUSvfyFe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 2:49 | 2020-04-23 | 2020-05-28 |
 | [no friends](https://open.spotify.com/track/3bDJVbs8h1EpMsZmo3YNtp) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [no friends](https://open.spotify.com/album/6UoCFUS0khylMghHjtCILn) | 1:45 | 2020-04-18 | 2021-03-06 |
 | [no friends \(feat\. spill tab & MIA GLADSTONE\)](https://open.spotify.com/track/0c5eyxgiDJGS48ZCfmLabb) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Mia Gladstone](https://open.spotify.com/artist/655Kf1udFVddxdsFjryd0D) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:10 | 2021-08-26 | 2021-08-28 |
-| [no good](https://open.spotify.com/track/5tFuR5TIvYsH7uj9liPEaQ) | [OHYUNG](https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG) | [no good](https://open.spotify.com/album/1Tj19geckD4ZtT3ZyJpVPl) | 4:11 | 2025-01-24 |  |
+| [no good](https://open.spotify.com/track/5tFuR5TIvYsH7uj9liPEaQ) | [OHYUNG](https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG) | [no good](https://open.spotify.com/album/1Tj19geckD4ZtT3ZyJpVPl) | 4:11 | 2025-01-24 | 2025-03-13 |
 | [NO HALO](https://open.spotify.com/track/694vvR5o19xHPhhJ5QdLN7) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 4:19 | 2022-01-14 | 2022-02-26 |
 | [NO HALO](https://open.spotify.com/track/4fGCNoJqk6Khe6YTRxwMC6) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [NO HALO](https://open.spotify.com/album/1dDce0qvYA4ewr8pJMBmA5) | 4:19 | 2019-08-23 | 2019-08-30 |
 | [No Hope Generation](https://open.spotify.com/track/7H6iMweEZoMlpdNiuZf9Gi) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [No Hope Generation](https://open.spotify.com/album/3Qu99adbteKVC9spNdP29z) | 3:54 | 2019-10-25 | 2019-11-14 |
@@ -2264,6 +2264,7 @@
 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:39 | 2023-04-14 | 2023-05-12 |
 | [Regressa](https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [STAR ANISE](https://open.spotify.com/album/3ZH3NAs9F36n7ZjWBQ9peo) | 1:39 | 2023-04-14 | 2023-07-14 |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-07-31 | 2020-09-17 |
+| [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-12 |  |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2019-09-20 | 2020-02-20 |
 | [remnants](https://open.spotify.com/track/1yIMBMFSVy637rAHGf0tM7) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [sometimes](https://open.spotify.com/album/5TGVnDO9D5D4OnAykbymj8) | 2:06 | 2022-05-20 | 2022-06-03 |
 | [Renaissance](https://open.spotify.com/track/6ND87faCM9Xb5J5rDGtBPM) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Renaissance](https://open.spotify.com/album/6irTwsK0mf7OXoPBddnoD5) | 2:54 | 2019-11-22 | 2019-12-12 |
@@ -3165,6 +3166,7 @@
 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 | 2024-06-07 | 2024-09-05 |
 | [Y U Gotta B Like That](https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Y U Gotta B Like That](https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK) | 2:34 | 2020-01-10 | 2020-05-05 |
 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 | 2022-07-29 | 2022-09-03 |
+| [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-12 |  |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2019-07-30\* | 2020-01-17 |
 | [Yellow Hearts](https://open.spotify.com/track/20JtELGPfOAMq7FpUt8eSM) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/0ahjnylJzSIfobrUbMZnmL) | 3:43 | 2019-11-02 | 2020-01-28 |
 | [Yellow Hearts \(feat\. Audrey Mika\)](https://open.spotify.com/track/3oVGjguICRU4UVS1ZPwH2D) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Yellow Hearts \(feat\. Audrey Mika\)](https://open.spotify.com/album/2xLH4V0PyKfETrIpkDsI2m) | 3:00 | 2020-02-15 | 2020-03-13 |

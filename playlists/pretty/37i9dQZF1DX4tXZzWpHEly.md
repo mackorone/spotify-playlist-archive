@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,907 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,922 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 61 | [Streets of Tamworth](https://open.spotify.com/track/1Qjj7QWWpwRGjE5DM4Jb3e) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:43 |
 | 62 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
 | 63 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
-| 64 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
-| 65 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
+| 64 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
+| 65 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
 | 66 | [Royal Telephone](https://open.spotify.com/track/3ANy5aNWEJScu480jnj11I) | [Jimmy Little](https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97) | [The Definitive Collection](https://open.spotify.com/album/6FaVnrx77ieMJQ05srhqmz) | 2:13 |
 | 67 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
 | 68 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 |

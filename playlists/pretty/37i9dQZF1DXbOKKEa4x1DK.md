@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,357 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 34 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 35 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
 | 36 | [Noches de Fantasía](https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Noches de Fantasía](https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa) | 4:26 |
-| 37 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/2k1zJtaVIDZdP0HDMKMEEu) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike) | 4:31 |
-| 38 | [Palabritas](https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft) | 3:44 |
-| 39 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
+| 37 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
+| 38 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/2k1zJtaVIDZdP0HDMKMEEu) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike) | 4:31 |
+| 39 | [Palabritas](https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft) | 3:44 |
 | 40 | [Cuando Estés Con Él](https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 3:40 |
 | 41 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
 | 42 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |

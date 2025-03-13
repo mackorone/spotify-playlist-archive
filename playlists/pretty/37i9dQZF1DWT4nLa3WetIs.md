@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Timeless sounds of modern Afrobeats\. Cover: Wande Coal
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,315 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,383 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 27 | [Charm](https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 3:24 |
 | 28 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
 | 29 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
-| 30 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
-| 31 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 |
+| 30 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 |
+| 31 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 | 32 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 33 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 |
 | 34 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 65 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 |
 | 66 | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5NOH1b1GanDHuc4pwhoPR1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Romantic \(feat\. Tiwa Savage\)](https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr) | 3:45 |
 | 67 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
-| 68 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
-| 69 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
+| 68 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
+| 69 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 70 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 | 71 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 72 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |

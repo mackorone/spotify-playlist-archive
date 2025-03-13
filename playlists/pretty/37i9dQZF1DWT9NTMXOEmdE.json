@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 485284,
+  "num_followers": 485296,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-03-03 05:56:36",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2025-03-03 05:56:36",
-      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "added_at": "2025-03-03 05:56:36",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2025-03-03 05:56:36",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-03-03 05:56:36",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
-    },
-    {
-      "added_at": "2025-03-03 05:56:36",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 226973,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ"
+    },
+    {
+      "added_at": "2025-03-03 05:56:36",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2025-03-03 05:56:36",

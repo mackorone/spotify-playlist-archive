@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,881 likes - 158 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,893 likes - 158 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

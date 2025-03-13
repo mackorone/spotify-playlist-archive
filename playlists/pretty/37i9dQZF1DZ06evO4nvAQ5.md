@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,064 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,062 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 30 | [Never Give Up](https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Never Give Up](https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9) | 3:08 |
 | 31 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
 | 32 | [Wana](https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Freddy Leone](https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih) | [Wana](https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc) | 3:58 |
-| 33 | [Always Been You](https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Always Been You](https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ) | 3:23 |
-| 34 | [Coldest Zone](https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8) | [Bost & Bim](https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hustlin' Riddim](https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap) | 3:13 |
+| 33 | [Coldest Zone](https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8) | [Bost & Bim](https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hustlin' Riddim](https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap) | 3:13 |
+| 34 | [Always Been You](https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Always Been You](https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ) | 3:23 |
 | 35 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
 | 36 | [Raggamuffin](https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [CELEBRATION](https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy) | 3:25 |
 | 37 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [This Is Love](https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv) | [Monsta Ganjah](https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pacific Coast Highway](https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH) | 4:03 |
 | 50 | [Pina Colada](https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD) | [Kiwini Vaitai](https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Independently Bizarre](https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj) | 4:10 |
 
-Snapshot ID: `Z8zaAAAAAAA4lWmxDkz5ID191HubMM/d`
+Snapshot ID: `Z899AAAAAACEVkC80APfHradaefD+8KC`

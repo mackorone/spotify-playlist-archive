@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,260 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,389 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 19 | [Vida](https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [Tesoros De Colección \- Solo Para Enamorados](https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX) | 2:17 |
 | 20 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 21 | [Déjenme llorar \- Con banda](https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 2:37 |
-| 22 | [Dilo Tu](https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:42 |
-| 23 | [Vamos A Platicar](https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [15 De Coleccion](https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t) | 3:18 |
+| 22 | [Vamos A Platicar](https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [15 De Coleccion](https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t) | 3:18 |
+| 23 | [Dilo Tu](https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:42 |
 | 24 | [Lamento De Amor](https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [40 Aniversario \(Componente 1\)](https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq) | 3:17 |
 | 25 | [Triángulo](https://open.spotify.com/track/3tsMbJIgZQZR3MT6I89GI2) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 3:10 |
 | 26 | [Engaño](https://open.spotify.com/track/4HcAjWbSvFMPnqyuzU5qRI) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:26 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ball w/o you](https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:15 |
-| 2 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 |
+| 1 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 |
+| 2 | [ball w/o you](https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:15 |
 | 3 | [The Party & The After Party](https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 7:39 |
 | 4 | [The Percocet & Stripper Joint](https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:28 |
 | 5 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 39 | [Butterfly Doors](https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI) | [Onlybino!](https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF) | [Butterfly Doors](https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j) | 1:52 |
 | 40 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 | 41 | [No Ties \- Amapiano Remix](https://open.spotify.com/track/0N3SdZTNhp0gZDCoZgiYNH) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [No Ties \(Amapiano Remix\)](https://open.spotify.com/album/2S7i4HxGQBN9okVs3Po1Gy) | 5:42 |
-| 42 | [Yam](https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I) | [sharkboy](https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [UNDERWATER](https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4) | 2:45 |
-| 43 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
+| 42 | [Backend](https://open.spotify.com/track/4YQSpaf4dVmwB4PAb8kDU6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Backend](https://open.spotify.com/album/0JoNVaga3yMJLnBJPuoI7Z) | 3:51 |
+| 43 | [Yam](https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I) | [sharkboy](https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [UNDERWATER](https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4) | 2:45 |
 | 44 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 |
 | 45 | [Cartoon](https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mo Thugs Records Presents: West Coast Bangers, Vol\. 2](https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV) | 6:38 |
 | 46 | [PGT](https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:13 |

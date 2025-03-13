@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 296 songs - 18 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867 likes - 296 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,8 +256,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 246 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
 | 247 | [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 |
 | 248 | [Married To The Game](https://open.spotify.com/track/723ghNyqqw0BVDq3kN47Dw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sam Hook](https://open.spotify.com/artist/224ycOSKcyYsp3bBZzExun), [DUBB](https://open.spotify.com/artist/6KAoJl1Kq41RruyHVkDKB4) | [Blood Moon: Year Of The Wolf \(Bonus Edition\)](https://open.spotify.com/album/2Mk8feYIuAIPbCQbxSAt0D) | 4:40 |
-| 249 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
-| 250 | [Mo Milly](https://open.spotify.com/track/6NaY8IfAPu9qcIL8blwAZv) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:11 |
+| 249 | [Mo Milly](https://open.spotify.com/track/6NaY8IfAPu9qcIL8blwAZv) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:11 |
+| 250 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
 | 251 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 252 | [Set It Off](https://open.spotify.com/track/7ouXmLj4SCOIuIJDlbFnnx) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Not 4 Sale](https://open.spotify.com/album/3nlZ9m98yAvhzIvaF62tpq) | 4:37 |
 | 253 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 295 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 296 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbrzCgAAAAAsiDy9OtOh2mlgZMYUQVku`
+Snapshot ID: `Abr4qgAAAAAD+cGPgf/GC3efnXe9SgGo`

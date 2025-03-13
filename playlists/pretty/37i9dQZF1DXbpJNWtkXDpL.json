@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 87944,
+  "num_followers": 87956,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -67,18 +67,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+      "duration_ms": 263810,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -107,22 +111,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Coraz\u00f3n Fr\u00edo",
-        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
       "artists": [
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 263810,
-      "name": "Coraz\u00f3n Fr\u00edo",
-      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Moda",
-        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Moda",
-      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Y As\u00ed Suena el 3030",
         "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 179610,
       "name": "El Jami",
       "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Moda",
+        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 175804,
+      "name": "Moda",
+      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
     },
     {
       "added_at": "2024-07-26 14:56:01",

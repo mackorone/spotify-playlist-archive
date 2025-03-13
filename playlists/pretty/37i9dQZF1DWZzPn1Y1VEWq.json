@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 379871,
+  "num_followers": 379916,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Airbag",
-        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Solo aqu\u00ed",
-      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -315,18 +299,34 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "Airbag",
+        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 234146,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "De Bichos Y Flores",
+        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "De Bichos Y Flores",
-        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
         }
       ],
-      "duration_ms": 187066,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sigue Girando",
-      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 259813,
       "name": "Sr. Cobranza",
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sigue Girando",
+      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 201866,
       "name": "Yo No Me Quiero Casar, Y Ud?",
       "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 247336,
-      "name": "No Se Llama Amor",
-      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
+      "duration_ms": 330600,
+      "name": "Luna Roja - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 330600,
-      "name": "Luna Roja - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
+      "duration_ms": 247336,
+      "name": "No Se Llama Amor",
+      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
     },
     {
       "added_at": "2024-06-12 23:26:13",

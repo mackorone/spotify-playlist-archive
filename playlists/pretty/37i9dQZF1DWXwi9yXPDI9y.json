@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 149410,
+  "num_followers": 149526,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Jazz 'Round Midnight: Ballads",
-        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
-      },
-      "artists": [
-        {
-          "name": "Arthur Prysock",
-          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Amoureusement V\u00f4tre",
         "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 186506,
       "name": "Misty",
       "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Jazz 'Round Midnight: Ballads",
+        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
+      },
+      "artists": [
+        {
+          "name": "Arthur Prysock",
+          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "My Conception",
-      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 237800,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 284933,
+      "name": "My Conception",
+      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Steppin'Out: Astaire Sings",
-        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Steppin'Out: Astaire Sings",
+        "url": "https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 323333,
       "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
       "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2025-01-20 15:39:56",

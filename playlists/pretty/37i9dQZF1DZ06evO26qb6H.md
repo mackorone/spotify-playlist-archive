@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,149 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 5 | [Bonde da Fumaça \(feat\. Murda Beatz\)](https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Calzone Tapes 3](https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC) | 3:56 |
 | 6 | [Good Evening](https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:17 |
 | 7 | [On You](https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 1:59 |
-| 8 | [Do Not Disturb \(feat\. Lil Yachty & Offset\)](https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:37 |
-| 9 | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve) | 2:51 |
+| 8 | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve) | 2:51 |
+| 9 | [Do Not Disturb \(feat\. Lil Yachty & Offset\)](https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:37 |
 | 10 | [Stuck in Between](https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:23 |
 | 11 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
 | 12 | [Damn Shame](https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Damn Shame](https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG) | 2:17 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 35 | [Woah](https://open.spotify.com/track/77dMaxGB1fCfpkB08w7Gtg) | [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Up In Smoke](https://open.spotify.com/album/0lUJNmaeTCl9aFrkJhUfzC) | 1:48 |
 | 36 | [Pray \(feat\. A$AP Ferg\)](https://open.spotify.com/track/00oeyRVsQcrVHHUR3wjgOw) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:36 |
 
-Snapshot ID: `Z8zaAAAAAAB5GfXIfN1I7JoBbmqnjRfm`
+Snapshot ID: `Z899AAAAAAB9Uez9LhSC6A0DhcISRM1M`

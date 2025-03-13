@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30591,
+  "num_followers": 30596,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAB2OBYXTvRonb83IW5ZmK2T",
+  "snapshot_id": "Z899AAAAAACrQxr5h1qigpQtcEaNAKBz",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 343372,
-      "name": "O Convidado",
-      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 389634,
       "name": "O Noivo Vir\u00e1",
       "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 343372,
+      "name": "O Convidado",
+      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 297058,
-      "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
-      "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -515,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 297058,
+      "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
+      "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -531,6 +531,26 @@
       "duration_ms": 267398,
       "name": "O Le\u00e3o",
       "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 358640,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 358640,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 286400,
       "name": "Escondido Nele",
       "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "A Ora\u00e7\u00e3o de Jabes (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 315930,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Maior Trof\u00e9u (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "A Ora\u00e7\u00e3o de Jabes (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 333162,
-      "name": "Pai, Preciso de Ti",
-      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cad\u00ea o vencedor?",
         "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 222602,
       "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
       "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 333162,
+      "name": "Pai, Preciso de Ti",
+      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
     },
     {
       "added_at": null,

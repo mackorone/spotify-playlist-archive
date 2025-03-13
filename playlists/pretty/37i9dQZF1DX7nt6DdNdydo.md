@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,369 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,391 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 15 | [Wild Wild Young Men](https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:33 |
 | 16 | [Hey! Ba\-Ba\-Re\-Bop \- Single Version](https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Swingsation: Lionel Hampton](https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66) | 3:22 |
 | 17 | [Keep On Churnin' \(Till The Butter Come\)](https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:53 |
-| 18 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
-| 19 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
+| 18 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
+| 19 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
 | 20 | [Nervous Man Nervous](https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 2:34 |
 | 21 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
 | 22 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
-| 23 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |
-| 24 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
+| 23 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
+| 24 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |
 | 25 | [Soft](https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection..\. Plus](https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl) | 2:33 |
 | 26 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
 | 27 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |

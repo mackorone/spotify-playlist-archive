@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 324,019 likes - 105 songs - 7 hr 19 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 324,022 likes - 105 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

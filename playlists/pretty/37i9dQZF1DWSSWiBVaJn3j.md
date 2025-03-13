@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 
 > 60s rock to fuel your ride\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,266 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,395 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 47 | [Strychnine](https://open.spotify.com/track/6u7UrwiZERRglVNSpgmxNf) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:13 |
 | 48 | [Summertime Blues](https://open.spotify.com/track/7J8A3XOuGFnGheoSsHUXC8) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [Vincebus Eruptum](https://open.spotify.com/album/3dAjO3dyUP7edWoE1OeB7b) | 3:47 |
 | 49 | [The Kids Are Alright \- Mono Version](https://open.spotify.com/track/4TfXSV5IenxpMzHzehOaLT) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \(U.S\. Version\)](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 2:46 |
-| 50 | [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:11 |
+| 50 | [Arnold Layne \- 2016 Remastered Version](https://open.spotify.com/track/10MTJevhB5UbnhK7In4vav) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Early Years 1965\-1967 CAMBRIDGE ST/ATION](https://open.spotify.com/album/4kzYgNWgzrtCn2y36Q0gVK) | 2:56 |
 
 Snapshot ID: `ZowoMgAAAADRDVTTLZCi/qYzbOemZAX9`

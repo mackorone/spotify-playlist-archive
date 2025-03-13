@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Vana
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,987 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,084 likes - 71 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,27 +56,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 46 | [The Mystic](https://open.spotify.com/track/2P4MtlmlUjy2On3VEnbRE5) | [Nite](https://open.spotify.com/artist/6MjCnAA9RF0vy3j6QYyLG0) | [The Mystic](https://open.spotify.com/album/4WHB3K7UGdW5muF50KbNwl) | 4:54 |
 | 47 | [Comin' In Hard](https://open.spotify.com/track/18ig4F0Fv3RQqhcG5MmNMx) | [Raging Speedhorn](https://open.spotify.com/artist/3D3G4JAVp6JQVEKjUaaSxA) | [Night Wolf](https://open.spotify.com/album/14l8fVAdaObkGk3UICYv1z) | 3:25 |
 | 48 | [Mistakes Have Been Made](https://open.spotify.com/track/3DL5LoCDxjL2S3QS0c25NO) | [Intensive Care](https://open.spotify.com/artist/0OiHctxDiueqRFpY9fmM8J), [The Body](https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3) | [Mistakes Have Been Made](https://open.spotify.com/album/29Vnos2U4sRYvddr9ubG0v) | 3:33 |
-| 49 | [Aesthetic Of Serpents](https://open.spotify.com/track/4OQzMAjg7ReydAYC2nJZg6) | [Paradise Slaves](https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm) | [Aesthetic Of Serpents](https://open.spotify.com/album/2pGT45CT9rykTF4EOUkDYa) | 4:10 |
-| 50 | [Sentinel Hill](https://open.spotify.com/track/2SwolGypB0DLbUX3HuWxxz) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [Sentinel Hill](https://open.spotify.com/album/4jENLu0wH5hYYqvJl0Bnfr) | 3:23 |
-| 51 | [Something to Pierce](https://open.spotify.com/track/3XQYe64JLk3bXkQOKA4VQr) | [Sadist](https://open.spotify.com/artist/3dmVTaRcdhzAJR0FOvKCDt) | [Something to Pierce](https://open.spotify.com/album/3dq6VRQBaQLR7UWLkNUjmw) | 3:38 |
-| 52 | [Bilanz](https://open.spotify.com/track/206PHjg7GXALSpUPbmRsCO) | [Tausend Löwen unter Feinden](https://open.spotify.com/artist/3NcWuVNI8uc2CiqhV73PAk) | [Bilanz](https://open.spotify.com/album/0DfDZPWklxtNZ37uDSbIGi) | 2:45 |
-| 53 | [Only We Know](https://open.spotify.com/track/1p1XCeiPjsfTjb2eRnbuph) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Only We Know](https://open.spotify.com/album/0EUhJXMwZL5WMI9Sit4ZeT) | 3:42 |
-| 54 | [Morningstar](https://open.spotify.com/track/7nbwTZVXEuzA8TiI5qASOT) | [Alura](https://open.spotify.com/artist/4GwL7jI69iqjXPZcezJpI7) | [Morningstar](https://open.spotify.com/album/57ZNsVc0aV3nFIfyWy5BmI) | 3:40 |
-| 55 | [Portrait of Empty Faces](https://open.spotify.com/track/66VD4lwrQ3BqEtAWQbeSXl) | [Torn From Oblivion](https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS), [Sugar Spine](https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR) | [Portrait of Empty Faces](https://open.spotify.com/album/49tRsygEAunbOnJF0frQW6) | 3:58 |
-| 56 | [FRONT LINE](https://open.spotify.com/track/0qJtm7UyJZQj7ar6lLdHaU) | [John Wolfhooker](https://open.spotify.com/artist/7bIzIk6tTUrU1tTJUe3xiR) | [FRONT LINE](https://open.spotify.com/album/43tABgMcW2L8bCHB4ES5qR) | 3:56 |
-| 57 | [Save Our Souls](https://open.spotify.com/track/3eypHwYEpopm5S6VNOCKBc) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [Save Our Souls](https://open.spotify.com/album/621Q7c3Kb5nN0GR91myUw0) | 3:30 |
-| 58 | [Intimacy](https://open.spotify.com/track/1SPuIqYw2KTfkNOBJdNUIZ) | [Deathtape](https://open.spotify.com/artist/2pg2mTL0jz3HVQD01zf6aY) | [Intimacy](https://open.spotify.com/album/1dI1IwAU0jzTfUQZejvnOh) | 4:06 |
-| 59 | [Bioluminescence](https://open.spotify.com/track/3kWEDs4oEpP650IwLpeXId) | [Dawn of Ouroboros](https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX) | [Bioluminescence](https://open.spotify.com/album/4l77AHV9DFNe8HmsE6wapq) | 5:07 |
-| 60 | [The Dress](https://open.spotify.com/track/2FJJm9ui6HgSRYon2zFrrm) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [The Dress](https://open.spotify.com/album/6zWUyr9x86wmwP1Ve5hfUT) | 8:14 |
-| 61 | [Bad Thoughts](https://open.spotify.com/track/4Yi6q2kLPdMxYRbICdXL02) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Bad Thoughts](https://open.spotify.com/album/36xNTQGdSQGFK4qA7b3K6q) | 3:41 |
-| 62 | [Get On Your Knees](https://open.spotify.com/track/46n8avnvT7Ndplo6bFupZh) | [Deathless Legacy](https://open.spotify.com/artist/1syX6SCTjW1fku8iUyQm2r) | [Damnatio Aeterna](https://open.spotify.com/album/6WxQ67xM3j8yzSk7dcxToM) | 4:42 |
-| 63 | [Belly of the Beast](https://open.spotify.com/track/2xavc5inhhgsDBYraiYcZh) | [Combust](https://open.spotify.com/artist/6vzYdcLnvCyXQbFj4FURxM) | [Belly of the Beast](https://open.spotify.com/album/0AB11mtNyhhtnZaaqCWPJ8) | 3:13 |
-| 64 | [Ascending](https://open.spotify.com/track/4eilHnLt4HKB457Tbdm0Nr) | [Cryptosis](https://open.spotify.com/artist/6wOhrwpLn8mjwUs14xh9nD) | [Celestial Death](https://open.spotify.com/album/0t9K0WpCCyMkhEhpszAUs3) | 3:38 |
-| 65 | [Serpentine](https://open.spotify.com/track/3QXS9S9YXkeLJ5miwNQyYy) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt), [Daniel Weyandt](https://open.spotify.com/artist/2VZuOHOfq2L0tghOP6GbpC) | [Serpentine](https://open.spotify.com/album/5Dxiea9sWkL29Jk6BvUjJ6) | 3:00 |
-| 66 | [CATALYST](https://open.spotify.com/track/0n2b5o0Yi3TrajfOTl10Qu) | [Afterdusk](https://open.spotify.com/artist/38Atx12RioBNjru3to2gzp) | [CATALYST](https://open.spotify.com/album/1sBpcX57h0VzaSwwe4eYPm) | 3:08 |
-| 67 | [PROPERTY DAMAGE](https://open.spotify.com/track/4520nDK2OYl5Arondu5bdO) | [Dead Mall](https://open.spotify.com/artist/4gQc96YtGmZ6IQkdzmRzqV) | [PROPERTY DAMAGE](https://open.spotify.com/album/57SOOp42NizzUSBLGwQa5Y) | 3:05 |
-| 68 | [DINY](https://open.spotify.com/track/6qSb8xljIGls8DjEZitzCH) | [Pridian](https://open.spotify.com/artist/6j9qQhHkmEilFly1bGSvpN) | [DINY](https://open.spotify.com/album/5Va25nS5MtLDTO0ro1lbY3) | 4:27 |
-| 69 | [Thirst For Chaos](https://open.spotify.com/track/3QkpRkTTuzDgICXAE7F6SI) | [Death Reapers](https://open.spotify.com/artist/4eqGcsDsxOgKwrzKweWhdb) | [Thirst For Chaos](https://open.spotify.com/album/2ucaItyBDVkVxQIzwpmLYu) | 5:01 |
-| 70 | [Mind Chaos](https://open.spotify.com/track/7h6pSd0UxJhqtf8yzHkfWg) | [Hollowborn](https://open.spotify.com/artist/68EFK8JNO8AqRzaT8cxppl) | [Mind Chaos](https://open.spotify.com/album/38jKbQYHfkgA2vqjOY4jL6) | 5:53 |
+| 49 | [Armoured in Shadow](https://open.spotify.com/track/2VTbfGs35yeIXmbccS5gnf) | [Tribunal](https://open.spotify.com/artist/4XzAp08yh8r8sN30JjYnL2) | [Armoured in Shadow](https://open.spotify.com/album/1yFS0EpPJj0z6RwTiCYKAu) | 5:11 |
+| 50 | [Aesthetic Of Serpents](https://open.spotify.com/track/4OQzMAjg7ReydAYC2nJZg6) | [Paradise Slaves](https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm) | [Aesthetic Of Serpents](https://open.spotify.com/album/2pGT45CT9rykTF4EOUkDYa) | 4:10 |
+| 51 | [Sentinel Hill](https://open.spotify.com/track/2SwolGypB0DLbUX3HuWxxz) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [Sentinel Hill](https://open.spotify.com/album/4jENLu0wH5hYYqvJl0Bnfr) | 3:23 |
+| 52 | [Something to Pierce](https://open.spotify.com/track/3XQYe64JLk3bXkQOKA4VQr) | [Sadist](https://open.spotify.com/artist/3dmVTaRcdhzAJR0FOvKCDt) | [Something to Pierce](https://open.spotify.com/album/3dq6VRQBaQLR7UWLkNUjmw) | 3:38 |
+| 53 | [Bilanz](https://open.spotify.com/track/206PHjg7GXALSpUPbmRsCO) | [Tausend Löwen unter Feinden](https://open.spotify.com/artist/3NcWuVNI8uc2CiqhV73PAk) | [Bilanz](https://open.spotify.com/album/0DfDZPWklxtNZ37uDSbIGi) | 2:45 |
+| 54 | [Only We Know](https://open.spotify.com/track/1p1XCeiPjsfTjb2eRnbuph) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Only We Know](https://open.spotify.com/album/0EUhJXMwZL5WMI9Sit4ZeT) | 3:42 |
+| 55 | [Morningstar](https://open.spotify.com/track/7nbwTZVXEuzA8TiI5qASOT) | [Alura](https://open.spotify.com/artist/4GwL7jI69iqjXPZcezJpI7) | [Morningstar](https://open.spotify.com/album/57ZNsVc0aV3nFIfyWy5BmI) | 3:40 |
+| 56 | [Portrait of Empty Faces](https://open.spotify.com/track/66VD4lwrQ3BqEtAWQbeSXl) | [Torn From Oblivion](https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS), [Sugar Spine](https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR) | [Portrait of Empty Faces](https://open.spotify.com/album/49tRsygEAunbOnJF0frQW6) | 3:58 |
+| 57 | [FRONT LINE](https://open.spotify.com/track/0qJtm7UyJZQj7ar6lLdHaU) | [John Wolfhooker](https://open.spotify.com/artist/7bIzIk6tTUrU1tTJUe3xiR) | [FRONT LINE](https://open.spotify.com/album/43tABgMcW2L8bCHB4ES5qR) | 3:56 |
+| 58 | [Save Our Souls](https://open.spotify.com/track/3eypHwYEpopm5S6VNOCKBc) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [Save Our Souls](https://open.spotify.com/album/621Q7c3Kb5nN0GR91myUw0) | 3:30 |
+| 59 | [Intimacy](https://open.spotify.com/track/1SPuIqYw2KTfkNOBJdNUIZ) | [Deathtape](https://open.spotify.com/artist/2pg2mTL0jz3HVQD01zf6aY) | [Intimacy](https://open.spotify.com/album/1dI1IwAU0jzTfUQZejvnOh) | 4:06 |
+| 60 | [Bioluminescence](https://open.spotify.com/track/3kWEDs4oEpP650IwLpeXId) | [Dawn of Ouroboros](https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX) | [Bioluminescence](https://open.spotify.com/album/4l77AHV9DFNe8HmsE6wapq) | 5:07 |
+| 61 | [The Dress](https://open.spotify.com/track/2FJJm9ui6HgSRYon2zFrrm) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [The Dress](https://open.spotify.com/album/6zWUyr9x86wmwP1Ve5hfUT) | 8:14 |
+| 62 | [Bad Thoughts](https://open.spotify.com/track/4Yi6q2kLPdMxYRbICdXL02) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Bad Thoughts](https://open.spotify.com/album/36xNTQGdSQGFK4qA7b3K6q) | 3:41 |
+| 63 | [Get On Your Knees](https://open.spotify.com/track/46n8avnvT7Ndplo6bFupZh) | [Deathless Legacy](https://open.spotify.com/artist/1syX6SCTjW1fku8iUyQm2r) | [Damnatio Aeterna](https://open.spotify.com/album/6WxQ67xM3j8yzSk7dcxToM) | 4:42 |
+| 64 | [Belly of the Beast](https://open.spotify.com/track/2xavc5inhhgsDBYraiYcZh) | [Combust](https://open.spotify.com/artist/6vzYdcLnvCyXQbFj4FURxM) | [Belly of the Beast](https://open.spotify.com/album/0AB11mtNyhhtnZaaqCWPJ8) | 3:13 |
+| 65 | [Ascending](https://open.spotify.com/track/4eilHnLt4HKB457Tbdm0Nr) | [Cryptosis](https://open.spotify.com/artist/6wOhrwpLn8mjwUs14xh9nD) | [Celestial Death](https://open.spotify.com/album/0t9K0WpCCyMkhEhpszAUs3) | 3:38 |
+| 66 | [Serpentine](https://open.spotify.com/track/3QXS9S9YXkeLJ5miwNQyYy) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt), [Daniel Weyandt](https://open.spotify.com/artist/2VZuOHOfq2L0tghOP6GbpC) | [Serpentine](https://open.spotify.com/album/5Dxiea9sWkL29Jk6BvUjJ6) | 3:00 |
+| 67 | [CATALYST](https://open.spotify.com/track/0n2b5o0Yi3TrajfOTl10Qu) | [Afterdusk](https://open.spotify.com/artist/38Atx12RioBNjru3to2gzp) | [CATALYST](https://open.spotify.com/album/1sBpcX57h0VzaSwwe4eYPm) | 3:08 |
+| 68 | [PROPERTY DAMAGE](https://open.spotify.com/track/4520nDK2OYl5Arondu5bdO) | [Dead Mall](https://open.spotify.com/artist/4gQc96YtGmZ6IQkdzmRzqV) | [PROPERTY DAMAGE](https://open.spotify.com/album/57SOOp42NizzUSBLGwQa5Y) | 3:05 |
+| 69 | [DINY](https://open.spotify.com/track/6qSb8xljIGls8DjEZitzCH) | [Pridian](https://open.spotify.com/artist/6j9qQhHkmEilFly1bGSvpN) | [DINY](https://open.spotify.com/album/5Va25nS5MtLDTO0ro1lbY3) | 4:27 |
+| 70 | [Thirst For Chaos](https://open.spotify.com/track/3QkpRkTTuzDgICXAE7F6SI) | [Death Reapers](https://open.spotify.com/artist/4eqGcsDsxOgKwrzKweWhdb) | [Thirst For Chaos](https://open.spotify.com/album/2ucaItyBDVkVxQIzwpmLYu) | 5:01 |
+| 71 | [Mind Chaos](https://open.spotify.com/track/7h6pSd0UxJhqtf8yzHkfWg) | [Hollowborn](https://open.spotify.com/artist/68EFK8JNO8AqRzaT8cxppl) | [Mind Chaos](https://open.spotify.com/album/38jKbQYHfkgA2vqjOY4jL6) | 5:53 |
 
-Snapshot ID: `Z8p9cwAAAABAuP2Ucr4uadhij7Y9d6Es`
+Snapshot ID: `Z9Gk8gAAAAA1V6HZpmULclWxhu40YwF7`

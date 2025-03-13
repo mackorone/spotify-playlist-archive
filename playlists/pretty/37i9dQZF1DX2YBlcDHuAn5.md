@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,731 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,728 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,24 +38,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 28 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
 | 29 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
 | 30 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 |
-| 31 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
-| 32 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 |
+| 31 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 |
+| 32 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 33 | [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 |
 | 34 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 |
 | 35 | [Angel By My Side](https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Angel By My Side](https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz) | 3:15 |
-| 36 | [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 |
-| 37 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
+| 36 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
+| 37 | [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 |
 | 38 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
-| 39 | [Greyhound Station](https://open.spotify.com/track/28KVSnRg5u802o3e6Aji5p) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Love You / Greyhound Station](https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7) | 2:49 |
-| 40 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 |
+| 39 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 |
+| 40 | [Greyhound Station](https://open.spotify.com/track/28KVSnRg5u802o3e6Aji5p) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Love You / Greyhound Station](https://open.spotify.com/album/4OTg2qCDAhhlFrhPLjGJF7) | 2:49 |
 | 41 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
 | 42 | [Red White & Blue](https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Red White & Blue](https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj) | 2:47 |
 | 43 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
 | 44 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 |
 | 45 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 |
 | 46 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 |
-| 47 | [Changing Waters](https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Changing Waters](https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX) | 3:25 |
-| 48 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 |
+| 47 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 |
+| 48 | [Changing Waters](https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Changing Waters](https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX) | 3:25 |
 | 49 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 |
 | 50 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 |
 

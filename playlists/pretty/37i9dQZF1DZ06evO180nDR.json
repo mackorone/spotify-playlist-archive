@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 34428,
+  "num_followers": 34443,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADwQSGoH1/4eLCHWegIa3BD",
+  "snapshot_id": "Z899AAAAAAA7T2rV3m2XXU5bu4UNVym+",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TU COQUETTE",
-        "url": "https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 142469,
-      "name": "TU COQUETTE",
-      "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TU COQUETTE",
+        "url": "https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 142469,
+      "name": "TU COQUETTE",
+      "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 138533,
       "name": "C.H.S.M",
       "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
     },
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+        "name": "30 Blindadas",
+        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
         },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 161707,
-      "name": "La Vida En La Sierra",
-      "url": "https://open.spotify.com/track/3hWyiUE4DZLnX5cREZbjh7"
+      "duration_ms": 126293,
+      "name": "30 Blindadas",
+      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
     },
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Blindadas",
-        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
       "artists": [
         {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 126293,
-      "name": "30 Blindadas",
-      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
+      "duration_ms": 161707,
+      "name": "La Vida En La Sierra",
+      "url": "https://open.spotify.com/track/3hWyiUE4DZLnX5cREZbjh7"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil Criticar (En Vivo)",
-        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "F\u00e1cil Criticar - En Vivo",
-      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DE 8 A 5",
         "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
       },
@@ -779,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+        "name": "F\u00e1cil Criticar (En Vivo)",
+        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
       "artists": [
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+      "duration_ms": 194253,
+      "name": "F\u00e1cil Criticar - En Vivo",
+      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 234973,
       "name": "Arrinc\u00f3namela",
       "url": "https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
     },
     {
       "added_at": null,

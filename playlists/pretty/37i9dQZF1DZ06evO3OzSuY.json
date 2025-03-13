@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24529,
+  "num_followers": 24530,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABIjTqq/68hE2Z2wc2qBoy8",
+  "snapshot_id": "Z899AAAAAADf3TLIY7dPSjUJGz5FeBlc",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disney Channel Play It Loud",
+        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Remember Me - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Live For",
         "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 230207,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disney Channel Play It Loud",
-        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Remember Me - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
     },
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: Made in Japan",
-        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
+        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
+        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 214973,
-      "name": "The Same Heart",
-      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
+      "duration_ms": 182093,
+      "name": "Dig Down Deeper",
+      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
-        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
+        "name": "Shake It Up: Made in Japan",
+        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Dig Down Deeper",
-      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
+      "duration_ms": 214973,
+      "name": "The Same Heart",
+      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
     },
     {
       "added_at": null,

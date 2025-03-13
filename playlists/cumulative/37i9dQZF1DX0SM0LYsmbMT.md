@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,368 songs - 6 day 22 hr 27 min
+4,369 songs - 6 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2012,6 +2012,7 @@
 | [Lavaa](https://open.spotify.com/track/2EUkWXNFy5nxzrEEXG8QLt) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Lavaa](https://open.spotify.com/album/3SWsnb4U4gmADnu7L7tf98) | 1:51 | 2020-03-27 | 2020-05-30 |
 | [Lavender](https://open.spotify.com/track/7wSkoXvluRMn8IOpvS60eN) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6XMpIUezd0F9j0NT7u3jZl) | [Lavender](https://open.spotify.com/album/4h9KvqU4dYtffJpa213nGp) | 1:09 | 2019-05-26\* | 2019-06-15 |
 | [Lavender](https://open.spotify.com/track/6nhg2OcyEtiG1yprRHIqin) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Lavender](https://open.spotify.com/album/4YaRgzbVNJV4sQCjfeqMgx) | 3:09 | 2021-07-09 | 2021-09-10 |
+| [Lavender](https://open.spotify.com/track/6OP7rt2g1GX4aZhwRFRyUV) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Lavender](https://open.spotify.com/album/5yUU4d1WcmO1fJSRlGih9c) | 2:36 | 2025-03-07 |  |
 | [Lavender Clouds](https://open.spotify.com/track/3jfPTjVuN8UpKdhMdZXQYK) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Lavender Clouds](https://open.spotify.com/album/1KY4y4WJZzKg2eGjHBCItm) | 2:08 | 2021-12-17 | 2022-01-21 |
 | [LAX Terminal](https://open.spotify.com/track/2hLzQ3GT0aS7YpyNrPjo2o) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [LAX Terminal](https://open.spotify.com/album/1ly06Gqy6NGiioPVB3Kev4) | 1:34 | 2019-05-28 | 2019-10-11 |
 | [Lay Back](https://open.spotify.com/track/3nZRHoCF0HbHtIMDxr8bNC) | [JoDu](https://open.spotify.com/artist/2UVaYQceUD4DAYR4pzaN6A) | [Off the Tracks](https://open.spotify.com/album/6h3O9tZXMuMgxjimt0nkkN) | 3:08 | 2019-05-26\* | 2019-06-26 |
@@ -2859,7 +2860,7 @@
 | [Pebble Beach](https://open.spotify.com/track/5GtP1SxELD0Qw6v1DIUF94) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Pebble Beach](https://open.spotify.com/album/6bEYW7GmSX2RsPvvyC2HOo) | 2:08 | 2020-03-13 | 2020-05-25 |
 | [Pelekas](https://open.spotify.com/track/1GS4cVWVcE2mYUfT807H74) | [Portaledge](https://open.spotify.com/artist/703AVVIX6VeNMQbXJu4UVh) | [Pelekas](https://open.spotify.com/album/1h71qhhO9fZcfza8Fmu4MX) | 2:01 | 2020-11-07 | 2021-02-06 |
 | [Pelosa Beach](https://open.spotify.com/track/0Zz0Ue15udWtJN9RIAhLha) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Pelosa Beach](https://open.spotify.com/album/1wemWaNIsVWPyeGG3Jseyl) | 2:28 | 2023-05-25 | 2023-06-02 |
-| [Pena Ventosa](https://open.spotify.com/track/6D3WXcKOTG6ouNQ2cniMBe) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Pena Ventosa](https://open.spotify.com/album/2KmsJpxaHoPIHdJjASbPvA) | 1:48 | 2025-03-04 |  |
+| [Pena Ventosa](https://open.spotify.com/track/6D3WXcKOTG6ouNQ2cniMBe) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Pena Ventosa](https://open.spotify.com/album/2KmsJpxaHoPIHdJjASbPvA) | 1:48 | 2025-03-04 | 2025-03-13 |
 | [Pendulum](https://open.spotify.com/track/5XfGPtiNkoPkeK00QTEHCb) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Pendulum](https://open.spotify.com/album/0c6GZXLOQNRRfoJSCraLwc) | 2:13 | 2022-03-24 | 2022-05-27 |
 | [Peninsula](https://open.spotify.com/track/5Lpz9sOJdEkH4EUt7iECvd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [Daoti](https://open.spotify.com/artist/0XLvC5dprQ3rL0W0xIIaBn) | [Peninsula](https://open.spotify.com/album/0Tgov7je4sbWGY5hfXHnNc) | 1:50 | 2024-05-09 | 2024-05-15 |
 | [Pennies](https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Pennies](https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF) | 1:55 | 2023-11-23 | 2024-11-26 |

@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Kushagra
 
-258 songs - 14 hr 16 min
+259 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-05-02 |  |
 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-18 |  |
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 | 2024-10-30 |
+| [Jaane Jaana](https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaane Jaana](https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh) | 2:48 | 2025-03-11 |  |
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2023-05-02 | 2024-05-09 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
 | [Jogan](https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 2:38 | 2023-12-15 | 2024-01-25 |
@@ -228,7 +229,7 @@
 | [Tarse Jiya](https://open.spotify.com/track/4awiGalBUrW2cGvuLdKDli) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Samriddhi Khatri](https://open.spotify.com/artist/6xlqskZB0uiMkeR2rc9kTK) | [Tarse Jiya](https://open.spotify.com/album/0kdSrz337jRVRzVGmvV6mQ) | 2:30 | 2024-09-06 | 2024-10-25 |
 | [Tasveer](https://open.spotify.com/track/2TCraSsTU9q8vZeEvKuluW) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Kabul Bukhari](https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49) | [Tasveer](https://open.spotify.com/album/3rfKeoZXddrUBF0dS64vpC) | 4:18 | 2023-05-29 | 2023-06-02 |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-05-02 | 2024-03-21 |
-| [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2023-05-02 |  |
+| [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2023-05-02 | 2025-03-13 |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-02 |  |
 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 | 2023-08-08 |  |
 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 | 2023-05-02 |  |

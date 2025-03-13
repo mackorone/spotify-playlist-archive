@@ -1,29 +1,13 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 12734,
+  "num_followers": 13020,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAAlhfx2di12JvAaKNT7aZEr",
+  "snapshot_id": "Z899AAAAAABdfM5+JkeVroMolmtkkGuX",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 290933,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 372026,
-      "name": "(Lay Your Head On My) Pillow",
-      "url": "https://open.spotify.com/track/0rRGYJSkI7v2VtxJv8n90m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 304240,
       "name": "It Never Rains (In Southern California)",
       "url": "https://open.spotify.com/track/0r4wz91MaRPgI3UtEuU7DF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 372026,
+      "name": "(Lay Your Head On My) Pillow",
+      "url": "https://open.spotify.com/track/0rRGYJSkI7v2VtxJv8n90m"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 289173,
-      "name": "Slow Wine",
-      "url": "https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 298373,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 289173,
+      "name": "Slow Wine",
+      "url": "https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "If I Had No Loot",
-      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 253133,
       "name": "The Blues",
       "url": "https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "If I Had No Loot",
+      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 318466,
-      "name": "I Couldn't Keep It To Myself",
-      "url": "https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 293733,
       "name": "Little Walter",
       "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 318466,
+      "name": "I Couldn't Keep It To Myself",
+      "url": "https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "My Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
         "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 236124,
       "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
       "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "My Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Leavin'",
-      "url": "https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Party II (I Don't Know What You Come To Do)",
         "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 321800,
       "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
       "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Leavin'",
+      "url": "https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 313093,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 346066,
       "name": "Annie May",
       "url": "https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "Sky's The Limit",
-      "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetic Justice: Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+      "duration_ms": 278706,
+      "name": "Sky's The Limit",
+      "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
     },
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thump's Hottest Party Hits",
-        "url": "https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S"
+        "name": "It's a Beautiful Thing",
+        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
       },
       "artists": [
-        {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Whatever U Want",
-      "url": "https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv"
+      "duration_ms": 257790,
+      "name": "It's a Beautiful Thing - Sly Mix",
+      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
     },
     {
       "added_at": null,
@@ -603,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's a Beautiful Thing",
-        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 257790,
-      "name": "It's a Beautiful Thing - Sly Mix",
-      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 321760,
       "name": "Weather 42",
       "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thump's Hottest Party Hits",
+        "url": "https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S"
+      },
+      "artists": [
+        {
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Whatever U Want",
+      "url": "https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv"
     },
     {
       "added_at": null,

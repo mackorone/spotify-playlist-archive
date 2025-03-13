@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   hun\_sagde
 
-170 songs - 8 hr 56 min
+171 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-15 | 2024-09-20 |
 | [Bænkevarmer](https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:25 | 2024-06-27 | 2024-09-07 |
 | [Caroline](https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Caroline](https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx) | 3:10 | 2024-08-29 | 2024-11-05 |
+| [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-07 |  |
 | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE) | 2:08 | 2024-09-05 | 2025-01-20 |
 | [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 | 2025-01-10 |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 | 2024-11-27 |
@@ -107,7 +108,7 @@
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 |  |
-| [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
+| [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 | 2025-03-13 |
 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 | 2024-06-27 | 2025-02-10 |
 | [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 | 2024-11-03 |
 | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg) | 2:56 | 2024-10-18 | 2025-01-24 |

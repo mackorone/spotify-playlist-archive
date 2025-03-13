@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Спеціально до Міжнародного жіночого дня\. Обкладинка: renie cares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,613 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,616 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 32 | [відпусти](https://open.spotify.com/track/6KgXnjyy9kJ2K9R7e3MCRd) | [yorew](https://open.spotify.com/artist/0QznjRb59Pqb2l7d89Cg4q) | [відпусти](https://open.spotify.com/album/6dEHW07SuMHWIKEtFUidSf) | 4:01 |
 | 33 | [новий день](https://open.spotify.com/track/0vhaQEKSn2jwmSytPGsGSy) | [zhenya kudryk](https://open.spotify.com/artist/07FDalb0OOtRuuulpgkq4O) | [новий день](https://open.spotify.com/album/0IIVRnV4soWmEa46Doys0g) | 2:38 |
 | 34 | [Цукорниця Кохання](https://open.spotify.com/track/3rGvmKZuoYEMCVzzsSTXfx) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Цукорниця Кохання](https://open.spotify.com/album/14mvyMYJ6R70KlzeoKaEhH) | 3:05 |
-| 35 | [Сховай](https://open.spotify.com/track/2OrVzA3hda0I7XsG48I927) | [K.E.D.R.O.V.A](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [Сховай](https://open.spotify.com/album/3uNO2ma7ZMzSaQFEUriLmv) | 3:49 |
+| 35 | [Сховай](https://open.spotify.com/track/2OrVzA3hda0I7XsG48I927) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [Сховай](https://open.spotify.com/album/3uNO2ma7ZMzSaQFEUriLmv) | 3:49 |
 | 36 | [не хворію](https://open.spotify.com/track/4TccbHJEeRUlrGLADbhoCq) | [yosyaa](https://open.spotify.com/artist/3G8XcG1zIsU5edIBQGsnIV) | [не хворію](https://open.spotify.com/album/3X1B0dRILIOWg5t7dqcDm5) | 2:24 |
 | 37 | [кришталева](https://open.spotify.com/track/63hDHE7yozkHXNrRh2ukEY) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj), [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [кришталева](https://open.spotify.com/album/4p6pQ8pqSVUzS73icrcMAs) | 4:38 |
 | 38 | [OKAY](https://open.spotify.com/track/1ZJxG4lX2kNxjuxyDvXwEC) | [Vikki Flowz](https://open.spotify.com/artist/3x7Rkw9n0jeIrioxGYcOGV), [PRIANA](https://open.spotify.com/artist/2xGAERGRgL4jTLW7nVH1Ct) | [OKAY](https://open.spotify.com/album/14qMC9yR3cib0Cy0XIux0H) | 3:05 |

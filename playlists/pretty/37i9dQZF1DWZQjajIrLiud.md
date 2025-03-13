@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,154 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,159 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 2 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
 | 3 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 |
 | 4 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
-| 5 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 |
-| 6 | [Ana Meen](https://open.spotify.com/track/5LcThJzvvRzOZZb4apH9Px) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Ana Meen](https://open.spotify.com/album/4AqGKM28CecPAnMpZ1Tgj2) | 3:09 |
+| 5 | [Ana Meen](https://open.spotify.com/track/5LcThJzvvRzOZZb4apH9Px) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Ana Meen](https://open.spotify.com/album/4AqGKM28CecPAnMpZ1Tgj2) | 3:09 |
+| 6 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 |
 | 7 | [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 |
 | 8 | [Aam Betaala' Feek](https://open.spotify.com/track/3vVEtCxtdwSSC1qz2rSHLW) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:39 |
 | 9 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 15 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
 | 16 | [خليك معاها](https://open.spotify.com/track/66xEfcpMCCim4juc0dN4Q2) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:18 |
 | 17 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
-| 18 | [Kel El Qasayed](https://open.spotify.com/track/0Eomiq1hNIfh86AGK8LW85) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Kel El Qasayed](https://open.spotify.com/album/3uQtUJXjmLNHU0NwfxogKu) | 4:01 |
-| 19 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
+| 18 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
+| 19 | [Kel El Qasayed](https://open.spotify.com/track/0Eomiq1hNIfh86AGK8LW85) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Kel El Qasayed](https://open.spotify.com/album/3uQtUJXjmLNHU0NwfxogKu) | 4:01 |
 | 20 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 |
 | 21 | [El Waet Hdiye](https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Waet Hdiye](https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi) | 3:16 |
 | 22 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 |

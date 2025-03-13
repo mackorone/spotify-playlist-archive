@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,518 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,581 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,23 +15,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 5 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
 | 6 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
 | 7 | [Smooth Sensation](https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:36 |
-| 8 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
-| 9 | [When I Think of You](https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:09 |
+| 8 | [When I Think of You](https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:09 |
+| 9 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
 | 10 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
 | 11 | [Personal Touch](https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3) | 3:44 |
 | 12 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 |
 | 13 | [Pleasure Seeker](https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:29 |
 | 14 | [Soul Dance](https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:14 |
 | 15 | [100 Ways](https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc) | [Fattburger](https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi) | [Work to Do](https://open.spotify.com/album/6THuvzMAocj3aImePgicNH) | 4:53 |
-| 16 | [Undun](https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Moonlight](https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk) | 4:53 |
-| 17 | [Now 'Til Forever](https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Unconditional](https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV) | 4:36 |
-| 18 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
+| 16 | [Now 'Til Forever](https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Unconditional](https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV) | 4:36 |
+| 17 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
+| 18 | [Undun](https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Moonlight](https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk) | 4:53 |
 | 19 | [Ain't No Sunshine](https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 3:58 |
 | 20 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
 | 21 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
 | 22 | [A Summer Night's Dream](https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:08 |
-| 23 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
-| 24 | [Twice in a Lifetime](https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Vivid](https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6) | 4:43 |
+| 23 | [Twice in a Lifetime](https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Vivid](https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6) | 4:43 |
+| 24 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
 | 25 | [The Closer I Get To You](https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:26 |
 | 26 | [In The Groove](https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 4:17 |
 | 27 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 40 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
 | 41 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 |
 | 42 | [Sunshine](https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF) | [Gordon James](https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz) | [In Joy](https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43) | 5:05 |
-| 43 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
-| 44 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
-| 45 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
-| 46 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
+| 43 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
+| 44 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
+| 45 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
+| 46 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
 | 47 | [In the Moment](https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [In the Moment](https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk) | 4:11 |
 | 48 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
 | 49 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |

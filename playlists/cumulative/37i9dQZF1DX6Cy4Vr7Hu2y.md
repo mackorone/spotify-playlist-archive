@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: LE SSERAFIM\(르세라핌\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-449 songs - 1 day 0 hr 32 min
+451 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2022-07-07 | 2023-01-14 |
 | [Great Day](https://open.spotify.com/track/57uRvDxET3hNN8yb1jbmph) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Great Day](https://open.spotify.com/album/27JCg7P8IUAVOachCvbUBd) | 3:03 | 2021-11-21 | 2022-04-25 |
 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 | 2023-11-01 | 2024-02-05 |
+| [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-12 |  |
 | [Hangang](https://open.spotify.com/track/4WEbWA7Fz8CgMWeeRZ0Ixy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [THE FAN TOP2](https://open.spotify.com/album/5MNfWlcijGtBHTf7z0VfyM) | 3:43 | 2022-01-19 | 2022-06-03 |
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2021-11-21 | 2022-05-22 |
 | [Happy Now!](https://open.spotify.com/track/6Qm4PXogHJW7JyPfG1Yrwj) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Happy Now!](https://open.spotify.com/album/4VfKsyu4Z5p09r42dKlAzn) | 3:00 | 2021-11-21 | 2022-07-09 |
@@ -205,7 +206,7 @@
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-06 | 2022-10-05 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-28 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-04 | 2024-04-19 |
-| [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 | 2024-07-08 |  |
+| [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 | 2024-07-08 | 2025-03-13 |
 | [KnoCK \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2XnFNm6N3QOdxvKh97ayfc) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [KnoCK \(Feat\. Yerin Baek\)](https://open.spotify.com/album/5VgIL9xltF6uYKVEefdi4Q) | 3:19 | 2022-03-29 | 2022-04-21 |
 | [L.U.V.](https://open.spotify.com/track/6n8YodbIsmMTqL151At1xy) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 2nd Album 'Time for us'](https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO) | 3:15 | 2022-03-22 | 2022-04-21 |
 | [La La Love](https://open.spotify.com/track/1pXpzhdyeryEw8DqhaVrwe) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:22 | 2022-03-29 | 2022-07-07 |
@@ -215,6 +216,7 @@
 | [Let Me In](https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Let Me In](https://open.spotify.com/album/6Bdam86JkTBRhCz7Rohz1i) | 3:11 | 2022-03-22 | 2022-07-28 |
 | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/track/0Movj8s4Amm8ax9y8Y6irk) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/album/2CxUPiHXhCefMjkMvx8XBg) | 3:35 | 2021-11-21 | 2022-07-17 |
 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 | 2022-10-07 | 2024-06-29 |
+| [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-12 |  |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-21 | 2024-03-22 |
 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 | 2021-11-21 | 2022-02-09 |
 | [LIMBO!](https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:16 | 2022-11-10 | 2023-03-01 |
@@ -302,7 +304,7 @@
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-31 | 2022-10-13 |
 | [Q&A](https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:45 | 2024-05-14 | 2024-07-09 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-02 | 2024-04-19 |
-| [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-21 |  |
+| [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-21 | 2025-03-13 |
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2021-11-21 | 2022-07-29 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-11-21 | 2022-03-08 |
 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 | 2022-03-29 | 2022-07-29 |

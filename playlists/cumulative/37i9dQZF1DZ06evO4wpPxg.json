@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 87560,
       "name": "Buck Dance",
       "url": "https://open.spotify.com/track/3mehPZ1GnF8SUC4rc9BLol"
@@ -830,6 +830,24 @@
       "duration_ms": 318320,
       "name": "Don't Let My Baby Catch You Here",
       "url": "https://open.spotify.com/track/0nJz7IghbHnmYxHeC9LKgu"
+    },
+    {
+      "album": {
+        "name": "See What the Lord Has Done for Me",
+        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640360,
+      "name": "Don't Move My Bed 'Till the Holy Ghost Come",
+      "url": "https://open.spotify.com/track/0O2Fa8G2coxrZfpKsH2sxF"
     },
     {
       "album": {
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 171000,
       "name": "I'm Throwin' Up My Hand",
       "url": "https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb"
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 299640,
       "name": "Lost Boy In The Wilderness",
       "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"

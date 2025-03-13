@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,553 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,583 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 36 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 |
 | 37 | [Genius of Love \(Tom Tom Club\) \- Live](https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:30 |
 | 38 | [Perfect World \- 2005 Remaster](https://open.spotify.com/track/6S2pKjLlCpH5Fv5TQX2IBa) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures \(Deluxe Version\)](https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw) | 4:27 |
-| 39 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 |
-| 40 | [A Clean Break \(Let's Work\) \- Live at WCOZ, Massachusetts; 2004 Remaster](https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 5:05 |
-| 41 | [Mind \- 2005 Remaster](https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:12 |
+| 39 | [A Clean Break \(Let's Work\) \- Live at WCOZ, Massachusetts; 2004 Remaster](https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 5:05 |
+| 40 | [Mind \- 2005 Remaster](https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:12 |
+| 41 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 |
 | 42 | [Blind \- 2003 Remaster](https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Best of Talking Heads](https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU) | 4:58 |
 | 43 | [The Good Thing \- 2005 Remaster](https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 3:03 |
-| 44 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 |
-| 45 | [Creatures of Love \- 2005 Remaster](https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:15 |
+| 44 | [Creatures of Love \- 2005 Remaster](https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:15 |
+| 45 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 |
 | 46 | [Love for Sale \- 2005 Remaster](https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 4:31 |
 | 47 | [Big Business / I Zimbra \(Live\) \- 2023 Remaster](https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Deluxe Edition\) \[Live\]](https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK) | 7:23 |
 | 48 | [With Our Love](https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:31 |
 | 49 | [The Girl Wants to Be with the Girls \- 2005 Remaster](https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 2:38 |
 | 50 | [Animals](https://open.spotify.com/track/1HgzFXodDkTxATcCu6ZxDq) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:30 |
 
-Snapshot ID: `Z8zaAAAAAAAiRvUxnfuNTzwMGvmboyjQ`
+Snapshot ID: `Z899AAAAAAA55lAKBKmDVz5WuS+A2Cre`

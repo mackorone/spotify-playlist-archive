@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,018 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,078 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 22 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 23 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 24 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
-| 25 | [Shout](https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Shout](https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e) | 3:29 |
-| 26 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
+| 25 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
+| 26 | [Shout](https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Shout](https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e) | 3:29 |
 | 27 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 |
 | 28 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
 | 29 | [Let’s Go \(feat\. Tom Enzy, Juany Bravo & Sami Brielle\) \[HUGEL Remix\]](https://open.spotify.com/track/5jde2vTSXmrIAKaZYmhqSF) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Let’s Go \(feat\. Tom Enzy, Juany Bravo & Sami Brielle\) \[HUGEL Remix\]](https://open.spotify.com/album/6qCYuLsIIPfjROPwX9QxGc) | 2:28 |

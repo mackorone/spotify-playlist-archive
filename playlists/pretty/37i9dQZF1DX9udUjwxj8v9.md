@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,911 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,913 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 41 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
 | 42 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 43 | [Nobre Vagabundo](https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:53 |
-| 44 | [Chamego](https://open.spotify.com/track/6kReftEapjOZjVbFcqTIy2) | [Chiclete Com Banana](https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL) | [É Festa](https://open.spotify.com/album/3QUIw5JpCkGk4I7CoYo93N) | 3:40 |
-| 45 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
+| 44 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
+| 45 | [Chamego](https://open.spotify.com/track/6kReftEapjOZjVbFcqTIy2) | [Chiclete Com Banana](https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL) | [É Festa](https://open.spotify.com/album/3QUIw5JpCkGk4I7CoYo93N) | 3:40 |
 | 46 | [Zé Do Caroço](https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Raizes Do Samba](https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF) | 3:26 |
 | 47 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
 | 48 | [Pierrot Apaixonado / Ta Hi \(Pra Você Gostar de Mim\) / Quem Sabe Sabe / Aurora](https://open.spotify.com/track/5L5qxxSrbEo5qZFZPIvFBx) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Carnavalança](https://open.spotify.com/album/6vs0FIRgEMDjSgnrR38m8i) | 3:37 |
 | 49 | [Coisinha do Pai](https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [O Carnaval de Beth Carvalho & Martinho Da Vila](https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf) | 2:53 |
-| 50 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
+| 50 | [O Carnaval Quem É Que Faz?](https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [BaianaSystem](https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS) | 4:23 |
 
 Snapshot ID: `ZIxb2gAAAACIH6XV2eLwdNNN+AKH//Zb`

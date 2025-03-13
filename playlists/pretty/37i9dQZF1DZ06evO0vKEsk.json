@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133063,
+  "num_followers": 133065,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAAvW1pG74zGw8tAu8ZkYcLI",
+  "snapshot_id": "Z899AAAAAACN7E/AUnIg1gLULxpqcf9A",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voc\u00ea \u00e9 Precioso",
         "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 262896,
       "name": "Voc\u00ea \u00e9 Precioso",
       "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 298388,
+      "name": "Deus da Gra\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 467647,
       "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive In (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 298388,
-      "name": "Deus da Gra\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
     },
     {
       "added_at": null,
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensou em Mim",
-        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
+        "name": "Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         },
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 429290,
-      "name": "Pensou em Mim",
-      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
+      "duration_ms": 231754,
+      "name": "Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
     },
     {
       "added_at": null,
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+        "name": "Pensou em Mim",
+        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 231754,
-      "name": "Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
+      "duration_ms": 429290,
+      "name": "Pensou em Mim",
+      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
     },
     {
       "added_at": null,

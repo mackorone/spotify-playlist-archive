@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 4045,
+  "num_followers": 4058,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Lonely on Christmas",
-        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        },
-        {
-          "name": "Mike and the Moonpies",
-          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
-        }
-      ],
-      "duration_ms": 189118,
-      "name": "Lonely on Christmas",
-      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Baby, It's Cold Outside",
         "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 271186,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Lonely on Christmas",
+        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        },
+        {
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+        }
+      ],
+      "duration_ms": 189118,
+      "name": "Lonely on Christmas",
+      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "we did a Christmas thing",
-        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 159784,
-      "name": "Christmas Is All Around",
-      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
         "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 143909,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "we did a Christmas thing",
+        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 159784,
+      "name": "Christmas Is All Around",
+      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
     },
     {
       "added_at": "2024-12-20 18:31:17",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 6 hr 0 min
+111 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-08-02 |  |
 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 | 2024-01-29 |  |
 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 | 2024-01-29 |  |
+| [Damage](https://open.spotify.com/track/1xHM4jpOO7aCdpYJHQNsOr) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Damage](https://open.spotify.com/album/6zIU9Rf6rSl6j1cezdgiN1) | 3:01 | 2025-03-12 |  |
 | [DANCING WITH DEMONS](https://open.spotify.com/track/5d5zlLTuykcqoT4EhhyC2Q) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 | 2024-12-13 |  |
 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 | 2024-01-29 |  |
 | [Don't 4get](https://open.spotify.com/track/6955Y2FCvRBBXl06Qq0fh8) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:18 | 2024-01-29 |  |

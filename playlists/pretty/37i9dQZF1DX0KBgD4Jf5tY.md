@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente italiana, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3bxcQZiTtcX1GtUljswo2L">fenoaltea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,023 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,024 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 25 | [Che male c'è?](https://open.spotify.com/track/7dV5IhoorEN6HzOqIkPyjt) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Che male c'è?](https://open.spotify.com/album/68hRiUtlWStcxPi6MQduFh) | 3:26 |
 | 26 | [ALE ALE](https://open.spotify.com/track/1xBtbp9ZVo17IpjKz9HRZC) | [Vnubi](https://open.spotify.com/artist/1Q9xOa8YwVuNBwkR2HFii8) | [ALE ALE](https://open.spotify.com/album/6P4NLFfq0fkB3RO4CWxycp) | 2:26 |
 | 27 | [Mary](https://open.spotify.com/track/3aJZw1kbppqcijZHNgIrcV) | [Kapri](https://open.spotify.com/artist/1B4R8XKme2Ax87Fp2aoL14) | [Mary](https://open.spotify.com/album/1UVsyffUBSgF2GfbXT33aT) | 2:03 |
-| 28 | [Non Dico Niente](https://open.spotify.com/track/0LVpnXtwlsirAMe65Z0LAW) | [Laura Vittoria](https://open.spotify.com/artist/3DZbJQ0PbhS9mBFIHZNDDs) | [Non Dico Niente](https://open.spotify.com/album/6TfYu1LYqK8Ug6RGuG2zgj) | 3:31 |
+| 28 | [Non Dico Niente](https://open.spotify.com/track/0LVpnXtwlsirAMe65Z0LAW) | [Laura Vittoria](https://open.spotify.com/artist/3jeMN6uQaOxDUhuUfhmeyJ) | [Non Dico Niente](https://open.spotify.com/album/6TfYu1LYqK8Ug6RGuG2zgj) | 3:31 |
 | 29 | [LASCIAMI ANDARE](https://open.spotify.com/track/5ggp9FPGtuoMoa40zQ5WHP) | [Dheo](https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf) | [LASCIAMI ANDARE](https://open.spotify.com/album/2u7M8aeOQl2hh24gV9Mkbq) | 2:41 |
 | 30 | [Dimmelo](https://open.spotify.com/track/6CaiYTSzWsLvZQ5aFPHT5K) | [MARLA](https://open.spotify.com/artist/4ROLtTiD6uc8aPq6UDCsBC) | [Dimmelo](https://open.spotify.com/album/6iK5a7e5OkjoCoEMCGL7YN) | 2:36 |
 | 31 | [Non È Normale \(feat Yele\)](https://open.spotify.com/track/536RGaYKYdbV69tB8TzbLz) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx), [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Non È Normale \(feat Yele\)](https://open.spotify.com/album/2pWvggcUEnolHTjjO9KG7I) | 3:20 |

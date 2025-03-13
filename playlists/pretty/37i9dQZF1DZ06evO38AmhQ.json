@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21463,
+  "num_followers": 21466,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADwWQaEtRlneFNpDChJZ27z",
+  "snapshot_id": "Z899AAAAAACkcCIqS/EsKmE9rTIkhvd1",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking for a Story",
+        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 378133,
+      "name": "And the Band Played Waltzing Matilda - Live",
+      "url": "https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 170173,
       "name": "A Thousand Feet (with Warren H. Williams)",
       "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking for a Story",
-        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 378133,
-      "name": "And the Band Played Waltzing Matilda - Live",
-      "url": "https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "I Can't Feel Those Chains Any Longer - Live",
+      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 210133,
       "name": "A Flag of Our Own",
       "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 212680,
-      "name": "I Can't Feel Those Chains Any Longer - Live",
-      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Dingo",
-      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking for a Story",
         "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
       },
@@ -459,6 +443,38 @@
       "duration_ms": 304493,
       "name": "I Was Only 19 - Live",
       "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "The Truckies Wife",
+      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang Caf\u00e9",
-        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "The Truckies Wife",
-      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hillbilly Road",
         "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Queensland Bungalow",
-      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 243506,
       "name": "Why They Call Him Sundown",
       "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Queensland Bungalow",
+      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Ancient Mountains",
+      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Ancient Mountains",
-      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
     },
     {
       "added_at": null,
@@ -671,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+        "name": "Old Farts in Caravan Parks",
+        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 71520,
-      "name": "Chain Around My Ankle",
-      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
+      "duration_ms": 234440,
+      "name": "Old Farts in Caravan Parks",
+      "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Farts in Caravan Parks",
-        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "Old Farts in Caravan Parks",
-      "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Williamson: In Symphony",
         "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 228186,
       "name": "A Bushman Can't Survive",
       "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Prettiest Girl in the Kimberley",
-      "url": "https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Prettiest Girl in the Kimberley",
+      "url": "https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe"
     },
     {
       "added_at": null,

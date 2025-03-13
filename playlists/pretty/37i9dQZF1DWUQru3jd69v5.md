@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Enny P in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,300 likes - 71 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,295 likes - 71 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

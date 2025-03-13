@@ -4,7 +4,7 @@
 
 > 
 
-914 songs - 1 day 20 hr 29 min
+915 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [SWAG LIKE OHIO PT.2 \(feat\. Lil B\)](https://open.spotify.com/track/0rJ4zjiG51JPL0XhbbJ62i) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:00 | 2023-01-20 | 2023-04-24 |
 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 | 2022-10-31 | 2023-05-09 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-03 | 2024-03-05 |
+| [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 | 2025-03-12 |  |
 | [Switch it Up \(feat\. G Herbo, No More Heroes\)](https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [No More Heroes](https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4) | [Shiesty Season \- Spring Deluxe](https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU) | 2:48 | 2024-05-05 | 2024-11-06 |
 | [Sydney Sweeney](https://open.spotify.com/track/4NE3atZAntDJAdReIar6bN) | [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [Sydney Sweeney](https://open.spotify.com/album/6EJm1GLrf3LRFMotzaD1ji) | 2:17 | 2024-02-08 | 2024-05-01 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-11-05 |  |

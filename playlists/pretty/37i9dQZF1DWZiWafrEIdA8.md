@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,475 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,483 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 10 | [Understand](https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [MELOH](https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1) | 2:40 |
 | 11 | [We Are](https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J) | 3:16 |
 | 12 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
-| 13 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 |
-| 14 | [COLD \(feat.10CM\)](https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 |
+| 13 | [COLD \(feat.10CM\)](https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 |
+| 14 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 |
 | 15 | [Martini Blue](https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 3:15 |
 | 16 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 |
 | 17 | [Nightmare](https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [More ASH](https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD) | 1:55 |

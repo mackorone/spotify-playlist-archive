@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Lady Gaga, Kelian, Ghost och Julia Lov med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,939 likes - 113 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,938 likes - 113 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

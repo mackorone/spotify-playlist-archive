@@ -4,7 +4,7 @@
 
 > Hey \(office\) DJ, turn the music up! 👩‍💻
 
-226 songs - 13 hr 15 min
+227 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2020-01-07 | 2025-02-06 |
 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 | 2023-11-23 | 2025-02-06 |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2020-06-05 | 2025-02-06 |
-| [cross my heart](https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:26 | 2025-03-10 |  |
+| [cross my heart](https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:26 | 2025-03-10 | 2025-03-13 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-10-16 | 2024-02-17 |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2020-06-05 | 2025-02-06 |
 | [Dear Ex Yami](https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Fanatic SA](https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo), [Stallin Matsitsa](https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI), [Caeser](https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw), [Ayanda Art](https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv) | [Dear Ex Yami](https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56) | 4:38 | 2025-02-05 | 2025-02-14 |
@@ -62,6 +62,7 @@
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-05 |  |
 | [Diamonds](https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds](https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5) | 3:33 | 2020-12-09 | 2023-04-06 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-02-05 |  |
+| [Disease](https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 | 2025-03-10 |  |
 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 | 2024-04-25 | 2025-02-06 |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2020-01-07 | 2025-02-06 |
 | [Don't Get Too Close](https://open.spotify.com/track/2AaA9Lc7r9xLwSxHoQIeBL) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Archi](https://open.spotify.com/artist/4nS7vhSIavl0LXFIec3FFF), [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N) | [Don't Get Too Close](https://open.spotify.com/album/5L7vulXFTj1MZngKEOuzMZ) | 2:52 | 2024-04-25 | 2024-05-11 |

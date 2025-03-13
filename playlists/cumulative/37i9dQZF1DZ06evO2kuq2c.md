@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 55 min
+79 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Hollow Crown](https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 4:24 | 2022-06-16 |  |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2022-05-30 |  |
 | [Impermanence](https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 | 2022-08-19 |  |
-| [Judgement Day](https://open.spotify.com/track/7xGTMfEv4YSK9VggF8tyvi) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:14 | 2025-03-02 |  |
+| [Judgement Day](https://open.spotify.com/track/7xGTMfEv4YSK9VggF8tyvi) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:14 | 2025-03-02 | 2025-03-13 |
 | [Landmines](https://open.spotify.com/track/1tdZ3QQYxRwVXwTDJwfAMY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:34 | 2025-03-02 |  |
 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 | 2022-05-30 |  |
 | [living is killing us](https://open.spotify.com/track/1Ho5lI6FHNyG8H7UW5kSrs) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:41 | 2022-10-22 | 2022-11-17 |
@@ -84,7 +84,8 @@
 | [These Colours Don't Run](https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:01 | 2022-05-30 |  |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-05-30 | 2022-11-13 |
 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 | 2022-11-16 |  |
-| [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-22 |  |
+| [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-22 | 2025-03-13 |
+| [Whiplash](https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:46 | 2025-03-13 |  |
 | [Youth Is Wasted On The Young](https://open.spotify.com/track/1tEV2ayPBqNLBkZxjLGRDE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:23 | 2022-05-30 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

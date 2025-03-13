@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,774 likes - 39 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,775 likes - 39 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 38 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
 | 39 | [Driftin'](https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:08 |
 
-Snapshot ID: `Z8zaAAAAAAAXJLZE6K9hdPvc1jCAjuwy`
+Snapshot ID: `Z899AAAAAAC/B6UXK2EAHkOukCFWAcBy`

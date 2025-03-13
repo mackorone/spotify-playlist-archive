@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 23538,
+  "num_followers": 23541,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABQvss8DSeqJ2DzSJfmN4YQ",
+  "snapshot_id": "Z899AAAAAADTtF+cXbi0wV5I2rB1ohTh",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 136890,
-      "name": "Rivers - Solo Piano Version",
-      "url": "https://open.spotify.com/track/5Rwivn8wMEQ6TP6XshXhZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 213644,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 136890,
+      "name": "Rivers - Solo Piano Version",
+      "url": "https://open.spotify.com/track/5Rwivn8wMEQ6TP6XshXhZq"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
-        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 183156,
-      "name": "Everything Changes... But All Remains",
-      "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 211819,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
+        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 183156,
+      "name": "Everything Changes... But All Remains",
+      "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
     },
     {
       "added_at": null,
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
-        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 186170,
-      "name": "Everything Changes (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/2c1MoYahV1BlIrti0ZfFvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 168115,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 190308,
       "name": "Shine - Solo Piano Version",
       "url": "https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
+        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 186170,
+      "name": "Everything Changes (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/2c1MoYahV1BlIrti0ZfFvi"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 168115,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suddenly (Solo Piano Version)",
         "url": "https://open.spotify.com/album/1GdcloiQpADlDj3HIVFJRR"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 238510,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-167 songs - 7 hr 47 min
+168 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,11 +144,12 @@
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2024-08-22 | 2024-12-10 |
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-11 | 2024-12-10 |
 | [Superstar](https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [Superstar](https://open.spotify.com/album/2VmclQK1Fsr8uhrtcrL7pl) | 2:52 | 2023-09-01 | 2023-11-18 |
-| [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2024-11-11 |  |
+| [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2024-11-11 | 2025-03-13 |
 | [Taste like Summertime](https://open.spotify.com/track/3bpBlfNm5nZgH8m2imm1dA) | [OFF KEY JUNIOR](https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Taste like Summertime](https://open.spotify.com/album/3w1nX3zVWnhuKDmsuAwM9M) | 2:24 | 2023-09-01 | 2023-09-09 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-07-18 | 2024-09-17 |
 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:26 | 2023-09-01 | 2023-12-18 |
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-09-01 | 2024-03-22 |
+| [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 | 2025-03-10 |  |
 | [The Magic Key](https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The Magic Key](https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY) | 2:51 | 2023-09-01 | 2024-09-21 |
 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 | 2023-09-01 | 2024-08-25 |
 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 | 2023-10-27 | 2024-10-11 |

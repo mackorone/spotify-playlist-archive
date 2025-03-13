@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "I'm the One",
+      "url": "https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q"
+    },
+    {
+      "album": {
         "name": "Roberta Flack",
         "url": "https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 238506,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"

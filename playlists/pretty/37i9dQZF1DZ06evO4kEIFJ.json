@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 162786,
+  "num_followers": 162809,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACYee4c+RjmX+PTcBBV1KPy",
+  "snapshot_id": "Z899AAAAAAAXoeQBdxsLGmqhp0d/5fAv",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DREAMBOY",
+        "url": "https://open.spotify.com/album/3iKDUwVktCzrLqgv2iKlU3"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 215325,
+      "name": "DREAMBOY",
+      "url": "https://open.spotify.com/track/2lrqQ59IyZ9IDYxWeLd6rp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
         "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
       },
@@ -371,6 +387,38 @@
       "duration_ms": 195470,
       "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
       "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG DUMMY!",
+        "url": "https://open.spotify.com/album/44sc8iJj674H2FQ8Oy8jrI"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 125893,
+      "name": "BIG DUMMY!",
+      "url": "https://open.spotify.com/track/6w4jpzvJmPcggS03P0W261"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 130925,
+      "name": "DONT WANT IT",
+      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
     },
     {
       "added_at": null,
@@ -407,22 +455,6 @@
       "duration_ms": 141986,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 130925,
-      "name": "DONT WANT IT",
-      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
     },
     {
       "added_at": null,

@@ -2835,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "Fine Art",
+        "url": "https://open.spotify.com/album/6Wt3uI8G0yhXSvC0jAl9Cg"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176848,
+      "name": "Better Way To Live",
+      "url": "https://open.spotify.com/track/2nlivHG7sBn9C22SBhzuQp"
+    },
+    {
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 198082,
       "name": "Crush (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
@@ -18730,7 +18752,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 171428,
       "name": "Raving In The Studio - Bru-C & Songer Remix",
       "url": "https://open.spotify.com/track/3Wfv12ixjhJ03Moro3v9iT"
@@ -26842,7 +26864,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 259079,
       "name": "\u7279\u5225\u7684\u4eba",
       "url": "https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo"

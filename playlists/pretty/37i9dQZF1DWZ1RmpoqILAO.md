@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Frog 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,072 likes - 144 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,094 likes - 144 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

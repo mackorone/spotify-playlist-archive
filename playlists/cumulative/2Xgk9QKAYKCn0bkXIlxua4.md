@@ -4,7 +4,7 @@
 
 > 
 
-411 songs - 1 day 3 hr 35 min
+412 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Wild Bitches](https://open.spotify.com/track/2lSIsVvagtbcgKRgHGRqrM) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 3:35 | 2022-09-01 |  |
 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 4:42 | 2022-09-30 |  |
 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 | 2022-12-07 |  |
+| [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-03-12 |  |
 | [WY@](https://open.spotify.com/track/1aa4wUXY3Bkc1uAYSi1W2z) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/7lEvBQJNMgRGNaILZdeYkV) | 3:28 | 2023-09-22 |  |
 | [XSCAPE](https://open.spotify.com/track/0jNFDcGAXPs5ahngmD5R6n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 2:36 | 2021-12-16 |  |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-11-29 |  |

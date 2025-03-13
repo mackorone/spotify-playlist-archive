@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,028 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,029 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 41 | [Bagatelle \#57](https://open.spotify.com/track/7Me3uOpXhpVVCuvnzHabJ5) | [John Zorn](https://open.spotify.com/artist/3gkJ7lXtLpE4KauFHpk2vK), [Mary Halvorson Quartet](https://open.spotify.com/artist/0qpbgpdWREqsGuNrsHxIYM) | [The Bagatelles Vol\. 1 \- Mary Halvorson Quartet](https://open.spotify.com/album/5IYKfKnExWq9zD37LAJ5Ux) | 4:46 |
 | 42 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 43 | [Should've Been You](https://open.spotify.com/track/2oLADoIPrqnGoRC4q7xHgO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/37gmVglfhCEkWwiefTKuC6) | 3:14 |
-| 44 | [Tall Man](https://open.spotify.com/track/4XrCnlytKeHaoB3umqy4dQ) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Tall Man](https://open.spotify.com/album/5WSZRZdRfvS1XY39DGVh68) | 3:43 |
+| 44 | [Tall Man](https://open.spotify.com/track/4XrCnlytKeHaoB3umqy4dQ) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3), [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Yusuke Orita](https://open.spotify.com/artist/0Axix53b6tHd1GpZUTAkba) | [Tall Man](https://open.spotify.com/album/5WSZRZdRfvS1XY39DGVh68) | 3:43 |
 | 45 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 46 | [Call Me](https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Dayna Stephens](https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin) | [Call Me](https://open.spotify.com/album/3aCjPLFXzW00JqCHwU92o6) | 4:15 |
 | 47 | [Birds](https://open.spotify.com/track/4NKCtKcL7oGSwJ2EfOBU8N) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [Birds](https://open.spotify.com/album/1vsT2jyons7rMOVsBJnsRV) | 3:22 |

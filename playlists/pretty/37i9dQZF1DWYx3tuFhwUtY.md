@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,373 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,375 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 26 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
 | 27 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 |
 | 28 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
-| 29 | [Paraphernalia](https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx) | 4:23 |
-| 30 | [A Lucid Dream](https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd) | 3:53 |
+| 29 | [A Lucid Dream](https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd) | 3:53 |
+| 30 | [Paraphernalia](https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx) | 4:23 |
 | 31 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 32 | [Maçka Yolları](https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l) | 3:40 |
 | 33 | [Lo/Hi](https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Lo/Hi](https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply) | 2:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 61 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
 | 62 | [Love's a Real Thing](https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn) | [Super Eagles](https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 2:59 |
 | 63 | [Waterfall](https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr) | [The Fresh & Onlys](https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1) | [Play It Strange](https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX) | 3:12 |
-| 64 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
-| 65 | [Huesos Viejos](https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV) | [Davila 666](https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH) | [Huesos Viejos](https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ) | 3:18 |
+| 64 | [Huesos Viejos](https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV) | [Davila 666](https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH) | [Huesos Viejos](https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ) | 3:18 |
+| 65 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
 | 66 | [MYSTERY](https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:35 |
 | 67 | [Loaded](https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Loaded](https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs) | 3:18 |
 | 68 | [Fukushima](https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 5:44 |

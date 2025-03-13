@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-114 songs - 6 hr 5 min
+115 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 | 2025-03-03 |  |
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2024-03-10 |  |
 | [Aw'at \(Acoustic Version\)](https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at \(Acoustic Version\)](https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1) | 3:05 | 2024-03-10 | 2025-03-04 |
-| [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2024-03-10 |  |
+| [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2024-03-10 | 2025-03-13 |
 | [Baladna](https://open.spotify.com/track/5il1M2JH5NJ0UouRxilHaB) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Alabt El Donia](https://open.spotify.com/album/7GgQQP8K6FLAjGjy13SR53) | 3:09 | 2024-03-10 | 2025-03-04 |
 | [Bel ba2i leban](https://open.spotify.com/track/0mjqrOGKJg8HYkDGyaXLrs) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [Bel ba2i leban](https://open.spotify.com/album/4tEPWJxsgEnSan6cjGMqpy) | 1:54 | 2024-03-10 | 2025-03-04 |
 | [Byekhtelif El Hadis](https://open.spotify.com/track/6cy3DFiCOxFPFvqJB4Yhqe) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Byekhtelif El Hadis](https://open.spotify.com/album/5rvsqtrHc5RUoa5MoIzpyf) | 3:13 | 2024-03-10 | 2025-03-04 |
@@ -81,6 +81,7 @@
 | [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 | 2024-03-10 |  |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-10 |  |
 | [الجايزة الكبرى \- من مسلسل كوبرا](https://open.spotify.com/track/4iMA0fHXP4xxSOeok0UpvA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [الجايزة الكبرى \- من مسلسل كوبرا](https://open.spotify.com/album/3VCOs4uMl4OBLwZdTbi2PD) | 2:51 | 2024-03-29 | 2025-02-28 |
+| [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-03-12 |  |
 | [الفن فن \[من مسلسل كوبرا\]](https://open.spotify.com/track/5lces4EJVfofGSoyWBl1zp) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [الفن فن \[من مسلسل كوبرا\]](https://open.spotify.com/album/5339xaz76KpI2OYilWscqp) | 3:19 | 2024-03-27 | 2025-03-04 |
 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 | 2025-03-03 |  |
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2024-03-10 | 2024-03-13 |

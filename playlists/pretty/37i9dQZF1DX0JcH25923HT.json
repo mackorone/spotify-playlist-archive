@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 513507,
+  "num_followers": 513670,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,38 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) [Remix]",
         "url": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
       },
@@ -667,38 +699,6 @@
       "duration_ms": 456939,
       "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
       "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Dime Si Te Acuerdas",
-        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Dime Si Te Acuerdas",
-      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "No Quiere Amor (feat. Farruko)",
         "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 268560,
       "name": "No Quiere Amor (feat. Farruko)",
       "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
       },
       "artists": [
         {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",

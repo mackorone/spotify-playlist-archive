@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Enrique Bunbury en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,627 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,642 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 85 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 |
 | 86 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 |
 | 87 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 |
-| 88 | [La Kaguama](https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [La Kaguama](https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV) | 3:13 |
-| 89 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 88 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 89 | [La Kaguama](https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [La Kaguama](https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV) | 3:13 |
 | 90 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 91 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
 | 92 | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 96 | [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 |
 | 97 | [La Izquierda de la Noche](https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:40 |
 | 98 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Lena Campos](https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz), [Moy Yos](https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX) | 3:12 |
-| 99 | [Princesa](https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Princesa](https://open.spotify.com/album/0MamCSh5CYI0mJUsPXvWjn) | 5:27 |
-| 100 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
+| 99 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
+| 100 | [Princesa](https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Princesa](https://open.spotify.com/album/0MamCSh5CYI0mJUsPXvWjn) | 5:27 |
 
 Snapshot ID: `Z8qLewAAAAAOTStTiIpHB2igB3HgQSlX`

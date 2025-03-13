@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,873 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,886 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 12 | [Listen](https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Listen](https://open.spotify.com/album/5AqD3DHCwtloPO0oInSadE) | 4:25 |
 | 13 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 |
 | 14 | [Nan Slapper](https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Nan Slapper](https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH) | 4:23 |
-| 15 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
-| 16 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
+| 15 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
+| 16 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
 | 17 | [Last Time](https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Last Time](https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D) | 3:21 |
 | 18 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 19 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,040 likes - 53 songs - 2 hr 43 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,043 likes - 54 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 51 | [TELEMARKETER](https://open.spotify.com/track/5YtFmJF6RzB4etYr1rls48) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [TELEMARKETER](https://open.spotify.com/album/47WCuW1XFyEo0P8w2brTx7) | 3:34 |
 | 52 | [Keep Me Hangin' On](https://open.spotify.com/track/5gjwVIZt8P11NESUD1coEP) | [Sides of the Sun](https://open.spotify.com/artist/2DKXVfUseu9jhQ66Rt7Rb4) | [Keep Me Hangin' On](https://open.spotify.com/album/0jiom1UhgcZDZLb3QJrR2g) | 3:02 |
 | 53 | [Koolaid \- Oh Yeah Mix](https://open.spotify.com/track/1ZpTFDpF5mVOtU6NJQl6tr) | [ALVES](https://open.spotify.com/artist/5IuRJkF6BqSdfGykaHfslU) | [Koolaid](https://open.spotify.com/album/41jpxAEX3g57Mhu9Yol9Zz) | 2:20 |
+| 54 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 |
 
-Snapshot ID: `AAAk8tiFsFrf4ZfnkOSpJIagVG0DrEgE`
+Snapshot ID: `AAAk87Xc61/fvkRya7hNvh/DciVWLY6b`

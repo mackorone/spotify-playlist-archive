@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135,160 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,130 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 59 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 | 60 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 61 | [Missing Out](https://open.spotify.com/track/6F49TZfQKs658WuxeKgF4R) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Chaos Angel](https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2) | 3:37 |
-| 62 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
-| 63 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
+| 62 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
+| 63 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
 | 64 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 |
 | 65 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 66 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/1r3ZtE2w3l6KMEoAVpt6Fn) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:26 |
 | 67 | [Expert In A Dying Field](https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:11 |
 | 68 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
-| 69 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
-| 70 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
+| 69 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
+| 70 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
 | 71 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
 | 72 | [Can You Feel It?](https://open.spotify.com/track/7JIguoPVeFrm48Mjx7TTvQ) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Can You Feel It?](https://open.spotify.com/album/6WI1Qyo6IcbIq8zPOnaJYq) | 3:04 |
 | 73 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 |

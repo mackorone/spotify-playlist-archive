@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,175 likes - 79 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,176 likes - 79 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 26 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
 | 27 | [Rockstar Knights \(with Trippie Redd\)](https://open.spotify.com/track/4J9SI7do4KOEsCexqEbjmR) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:51 |
 | 28 | [RERUN \(feat\. Travis Scott\)](https://open.spotify.com/track/0JYAsQJWIuaYUvZGF1qapT) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:56 |
-| 29 | [Scott and Ramona](https://open.spotify.com/track/7egGWCqoxtAuo7QgsWw3tm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:41 |
-| 30 | [3.5](https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:36 |
+| 29 | [3.5](https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:36 |
+| 30 | [Scott and Ramona](https://open.spotify.com/track/7egGWCqoxtAuo7QgsWw3tm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:41 |
 | 31 | [JACKBOYS](https://open.spotify.com/track/62zKJrpbLxz6InR3tGyr7o) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 0:46 |
 | 32 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 |
 | 33 | [This Ain't Love](https://open.spotify.com/track/5Y7dUgG3vyx3541JagbWvv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:44 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 78 | [Plug Music](https://open.spotify.com/track/7sPKoEDVXKZ9OBsxGO9Ghh) | [HS87](https://open.spotify.com/artist/6NUVKfz2xAi4mJJkGm6zyz), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [B\. Carr](https://open.spotify.com/artist/6W2kMgRffdGJ0iPRpjMe6O), [Bmacthequeen](https://open.spotify.com/artist/2BWFGhivszf3CagtAJzvGL), [Audio Push](https://open.spotify.com/artist/3oHjuEyaFp7MddhOXddXbx), [N.No](https://open.spotify.com/artist/1wgcCQ5e3Pm5TiCxPaJawZ), [Kent M$ney](https://open.spotify.com/artist/5jMtI9ikVknLXq77qWYp01), [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [We The Plug](https://open.spotify.com/album/59CdgE2a6HgjtTiTDJo3si) | 3:52 |
 | 79 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AbrzCgAAAACn8WtXEpBq4OmADqNOX46p`
+Snapshot ID: `Abr4qgAAAAAsl2Y6kCvjKeoyC3JdYoz+`

@@ -4,7 +4,7 @@
 
 > 
 
-2,089 songs - 4 day 16 hr 5 min
+2,090 songs - 4 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1699,6 +1699,7 @@
 | [Squaring Up](https://open.spotify.com/track/6jQR5xXcEvCIu5cKpPf2Pm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:00 | 2022-04-03 |  |
 | [Stabbed Her to Death](https://open.spotify.com/track/7j6462dkdxpYhhhpmLHKBu) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY), [Cameron Azi](https://open.spotify.com/artist/6eGuRZs8HIfjgRPPkkD0Af) | [Satanic Prostitute](https://open.spotify.com/album/12wZUFIsldyDhaPneJX9iU) | 2:26 | 2022-04-05 |  |
 | [Stallion](https://open.spotify.com/track/7qzEXfsLxZU0Bc17oVaFaI) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Mirror Might Steal Your Charm](https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz) | 1:50 | 2023-04-13 |  |
+| [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2025-03-13 |  |
 | [Star 9200](https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Star 9200](https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp) | 2:39 | 2024-05-07 |  |
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2022-10-11 |  |
 | [Starry Cat](https://open.spotify.com/track/5KsZOcKZuVgu9bUlQtHXbi) | [Starry Cat](https://open.spotify.com/artist/7lKlhPmLxToffa6icA7vk3) | [Starry Cat](https://open.spotify.com/album/3KVP8EcIWaGWXQHq6uYkvA) | 1:41 | 2022-04-09 |  |

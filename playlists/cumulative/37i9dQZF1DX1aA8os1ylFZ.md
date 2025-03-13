@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-600 songs - 1 day 6 hr 51 min
+601 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [BACK ON MY FEET](https://open.spotify.com/track/7cM96RpP6SZ7Vm5TLUEsRP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [BACK ON MY FEET](https://open.spotify.com/album/0xYw6xQVrBXEVQ3Hg0HqWC) | 2:19 | 2025-02-13 |  |
 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
 | [Bad](https://open.spotify.com/track/0Bfs2jt51qWNeF5iC8OEjd) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Bad](https://open.spotify.com/album/6sjhG7TWY4MgtwReg1zAMN) | 3:08 | 2021-12-16 | 2022-06-10 |
-| [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2025-02-05 |  |
+| [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2025-02-05 | 2025-03-13 |
 | [Baeside](https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [Baeside](https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ) | 1:44 | 2023-11-09 | 2024-03-02 |
 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2023-09-14 | 2024-03-01 |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2023-01-12 | 2023-09-15 |
@@ -354,10 +354,10 @@
 | [Motelroom](https://open.spotify.com/track/78s4uG5j61x2BdoTRUvSA3) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Motelroom](https://open.spotify.com/album/52zmUGUnlOc7HYG9vZrzkC) | 3:41 | 2022-10-27 | 2022-11-13 |
 | [Murder In The Bed](https://open.spotify.com/track/7IP5bvMzmeXp7T1NG6gdBr) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Murder In The Bed](https://open.spotify.com/album/2QDJ3wDeaOtOB4nazB3I52) | 2:26 | 2024-02-15 | 2024-08-02 |
 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 | 2023-08-31 | 2024-09-28 |
-| [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-09-05 | 2025-02-06 |
+| [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-09-05 |  |
 | [My Favourite Mistake](https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [My Favourite Mistake](https://open.spotify.com/album/3H56yRhrGZ90lrsxKpijXH) | 3:39 | 2021-12-16 | 2022-06-10 |
 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 | 2024-07-12 | 2025-03-08 |
-| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2025-02-05 |  |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2025-02-05 | 2025-03-13 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-03-01 | 2023-03-23 |
 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-07 |  |
 | [Never Need You](https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Never Need You](https://open.spotify.com/album/0I8t7ydYrZp0QOZHQKYjel) | 2:23 | 2023-11-09 | 2023-11-21 |
@@ -542,6 +542,7 @@
 | [Uh Baby \- Sad Version](https://open.spotify.com/track/7nu2Wb4OPkH5ISWotOKSrb) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Uh Baby \(Sad Version\)](https://open.spotify.com/album/7AIChYb5phmJN3nOGFnjsT) | 2:43 | 2022-05-06 | 2023-01-13 |
 | [Uh Huh](https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 3:02 | 2023-09-07 | 2023-11-10 |
 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 | 2022-03-25 | 2023-01-13 |
+| [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 | 2025-03-12 |  |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2023-01-12 | 2023-03-23 |
 | [UPSET](https://open.spotify.com/track/3OvCdQoVIWmW4NUbayrBKD) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [i wish we didn't..](https://open.spotify.com/album/69ajOGCWOvtpvM2oSHuaoO) | 1:43 | 2025-02-05 |  |
 | [Use Me](https://open.spotify.com/track/1lCuIWvYcXXxLheYI3wgyq) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF) | [Use Me](https://open.spotify.com/album/6JxNpOwdjprJWXSMJGJT5J) | 2:14 | 2022-02-10 | 2023-01-13 |

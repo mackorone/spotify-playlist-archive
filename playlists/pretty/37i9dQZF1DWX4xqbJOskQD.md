@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 10 | [For Sentimental Reasons](https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 3:08 |
 | 11 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 12 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
-| 13 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
+| 13 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 14 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
 | 15 | [Tea for Two \(with Axel Stordahl & His Orchestra\)](https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Axel Stordahl And His Orchestra](https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl) | [Tea For Two \(with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio\)](https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv) | 3:11 |
 | 16 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
 | 17 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
-| 18 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
+| 18 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
 | 19 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
 | 20 | [The Object Of My Affection \(with Jimmie Grier\) \- 78 rpm Version](https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [That's How Rhythm Was Born](https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj) | 3:21 |
 | 21 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |

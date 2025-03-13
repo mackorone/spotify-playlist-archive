@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=wKuxa\_YxS7\-WsMsElp712Q">The Parlotones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,437 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,480 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 9 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 10 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 11 | [Cop Car](https://open.spotify.com/track/6kU83TuzUiGhS8cat1Y4lf) | [Cistamatic](https://open.spotify.com/artist/6ueRqbxnDDHw3WXFivdxpK) | [Cop Car](https://open.spotify.com/album/6c6ie7TrssFQsqMyS5joTY) | 2:24 |
-| 12 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
-| 13 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
+| 12 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
+| 13 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 14 | [Besete](https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Besete](https://open.spotify.com/album/2MfLAD4mUzD9wxR6y0B2bA) | 3:50 |
 | 15 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 16 | [Severed](https://open.spotify.com/track/795SVqy2CunIZC8rhTbkjM) | [Dynasty House](https://open.spotify.com/artist/5NaDmLkkg2rcjrObTRhiQR) | [Severed](https://open.spotify.com/album/3C8W1HR8WU5JkxQY01XmzR) | 4:02 |
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 36 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 37 | [Steady 75](https://open.spotify.com/track/7LETd0YBKBTB2Z84qc24ya) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Steady 75](https://open.spotify.com/album/1mmwaQn8QwMC4xuQKf7YjG) | 4:03 |
 | 38 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
-| 39 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 |
-| 40 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 39 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 40 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 |
 | 41 | [Even If](https://open.spotify.com/track/3hafu7svrimt7vpensLKie) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Even If](https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62) | 2:18 |
 | 42 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
 | 43 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 | 44 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
-| 45 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
-| 46 | [Staan by Jou](https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw) | [Laudo](https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB) | [Staan by Jou](https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z) | 3:07 |
-| 47 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
+| 45 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
+| 46 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
+| 47 | [Staan by Jou](https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw) | [Laudo](https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB) | [Staan by Jou](https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z) | 3:07 |
 | 48 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 | 49 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
 | 50 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |

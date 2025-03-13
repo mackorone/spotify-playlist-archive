@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,477 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,500 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 28 | [Y' a pas d'arrangement](https://open.spotify.com/track/7sUzkDEQVDowGyLgyjTuDv) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF) | 4:31 |
 | 29 | [Mam'selle bulle](https://open.spotify.com/track/3qOtWKFjrGJky92RPuZH9K) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj), [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [La pittoresque histoire de Pitt Ocha](https://open.spotify.com/album/2jXpYlwSJC9jUjC2Ildqwv) | 3:54 |
 | 30 | [O C B](https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 2:31 |
-| 31 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
-| 32 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
+| 31 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
+| 32 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
 | 33 | [Sex accordéon et alcool](https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ) | [Java](https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi) | [Hawaï](https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn) | 4:25 |
 | 34 | [Leo](https://open.spotify.com/track/5A2eN7HBSi6EcJWFS32ORB) | [Les VRP](https://open.spotify.com/artist/1UlbIPR4gt1ZQcEiDzD5j9) | [Vacances Prolongees](https://open.spotify.com/album/1VJGfxvY2EtV8N9X86ZTEb) | 3:42 |
 | 35 | [Emily](https://open.spotify.com/track/74C1HMWK9xA575Xr60Mt1k) | [Soan](https://open.spotify.com/artist/4Bxixr2SfkADo7S4aZXgCw) | [Tant pis](https://open.spotify.com/album/5W2UTG8meZ7cXm7hMCTM8q) | 2:51 |

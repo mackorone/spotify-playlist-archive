@@ -1,13 +1,33 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 50798,
+  "num_followers": 50815,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABeHGDj3OBifg+CzTz4QoXj",
+  "snapshot_id": "Z899AAAAAAB8/kBShHmTN//UtPcmqGAg",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children Of Chernobyl",
+        "url": "https://open.spotify.com/album/0EknzyMtSPdEvHbgOt0Nmj"
+      },
+      "artists": [
+        {
+          "name": "Soundwalk Collective",
+          "url": "https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC"
+        },
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 900655,
+      "name": "Children Of Chernobyl",
+      "url": "https://open.spotify.com/track/4cOv1iSkg0OTwndjY3ee8B"
+    },
     {
       "added_at": null,
       "album": {
@@ -372,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 244031,
-      "name": "Wild Leaves",
-      "url": "https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t"
+      "duration_ms": 359783,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX"
     },
     {
       "added_at": null,
@@ -500,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 359783,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX"
+      "duration_ms": 304671,
+      "name": "As The Night Goes By",
+      "url": "https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt"
     },
     {
       "added_at": null,
@@ -791,22 +811,6 @@
       "duration_ms": 242640,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Amerigo",
-      "url": "https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q"
     }
   ],
   "unique_name": "This Is Patti Smith",

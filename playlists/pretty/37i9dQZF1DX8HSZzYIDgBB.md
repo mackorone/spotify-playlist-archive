@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol Indie\-Tropical 🌺☀️🌴🎶 Bomba Estéreo y Rawayana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,620 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,627 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 48 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 |
 | 49 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
 | 50 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Siempre Simón y Nunca Nel](https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq) | 4:01 |
-| 51 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 52 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
+| 51 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
+| 52 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
 | 53 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
 | 54 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
 | 55 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 70 | [En el Temblor \(feat\. Chico Mann\)](https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Taurus](https://open.spotify.com/album/27bZK5n13Hoz2n3OscFxJf) | 3:36 |
 | 71 | [Oigo voces](https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 4:36 |
 | 72 | [Sale el Sol](https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:33 |
-| 73 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
-| 74 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 |
+| 73 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 |
+| 74 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 75 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
 
 Snapshot ID: `Z5xWXgAAAADIVNdRjjH4NJAsX30Jl9gq`

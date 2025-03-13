@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,057 likes - 75 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,135 likes - 75 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 59 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw) | 23:24 |
 | 60 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
 | 61 | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/track/3EEpjsPaW823RgMoBkOSTV) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/album/30RNKePqnsWCUbo6ryWwrr) | 5:19 |
-| 62 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 |
+| 62 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 |
 | 63 | [Vishnu Gayatri Mantra](https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Vishnu Gayatri Mantra](https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps) | 5:23 |
 | 64 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 |
 | 65 | [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 |
 | 66 | [Green Tara Mantra](https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Green Tara Mantra](https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV) | 4:19 |
 | 67 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
 | 68 | [Guruji Mantras](https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB) | [Anushka Bajaj](https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U) | [Guruji Mantras](https://open.spotify.com/album/3XcTUCAl9UYJiBkmwfXXLn) | 21:45 |
-| 69 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 |
+| 69 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 |
 | 70 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
 | 71 | [Shri Jagannath Mantra](https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shri Jagannath Mantra](https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3) | 5:47 |
 | 72 | [Mahamrityunjay Mantra \- Om Tryambakam Yajamahe](https://open.spotify.com/track/48TC3j55Q6z0DZ2Spm6AnJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Gayatri Mantra Mala, Pt\. 1](https://open.spotify.com/album/57gvAW3h4riK2CSQWUIBbj) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Sahaswara Mantra for Crown Chakra with AUM Sound](https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:02:33 |
 | 75 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 |
 
-Snapshot ID: `Z8faXQAAAAAWKtxaV7x6L6OrVQDEjjrB`
+Snapshot ID: `Z9ELZgAAAAAetitmCownUWpT4/e81WZB`

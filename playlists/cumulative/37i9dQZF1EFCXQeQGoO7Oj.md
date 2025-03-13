@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-600 songs - 1 day 11 hr 58 min
+601 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:45 | 2024-01-31 |  |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/0X4mRIsX4nDIkX4KAHucNH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again \(Official Video\)](https://open.spotify.com/album/3ZnFbBlgSmQ15vyyKLHL4D) | 4:01 | 2024-01-29 | 2024-02-01 |
 | [New Romantics](https://open.spotify.com/track/0qAIiGFKLdV1xpNlEhjpq8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:50 | 2024-01-29 |  |
-| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/0CphkjW16vWKoDXYZeE69Q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:59 | 2025-03-02 |  |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/0CphkjW16vWKoDXYZeE69Q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:59 | 2025-03-02 | 2025-03-13 |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/5UmfBGfRJgjZ8CdhgffabQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:59 | 2025-03-12 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-18 | 2025-03-03 |
 | [No More \(feat\. French Montana\)](https://open.spotify.com/track/37vqpVS6sQFhLdNZhHo1zu) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [No More \(feat\. French Montana\)](https://open.spotify.com/album/6NxbPkIDGFf9inHWkiYwnZ) | 3:23 | 2024-01-29 |  |
 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 | 2024-01-29 |  |

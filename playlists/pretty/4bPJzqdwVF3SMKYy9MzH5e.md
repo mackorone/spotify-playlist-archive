@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,072 songs - 4 day 15 hr 2 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,073 songs - 4 day 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2080,5 +2080,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2070 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 | 2071 | [Courtship Dating](https://open.spotify.com/track/3zKQDZQTHkUV6bYHNhzbGv) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 3:30 |
 | 2072 | [Because They Want Our Seat](https://open.spotify.com/track/19P0dOcggnCTCIu51gsp5F) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:51 |
+| 2073 | [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 |
 
-Snapshot ID: `AAAD4IuE9h8URSyc4GX2DznYcOuRgeuQ`
+Snapshot ID: `AAAD4R+GbuU9XfVpSOrqSMiCN1H+zgeZ`

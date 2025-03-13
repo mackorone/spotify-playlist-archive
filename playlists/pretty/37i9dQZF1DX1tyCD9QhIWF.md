@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,295,765 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,295,751 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 18 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 19 | [Natural Born Killer](https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:16 |
 | 20 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
-| 21 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
-| 22 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
+| 21 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
+| 22 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
 | 23 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
 | 24 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
 | 25 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 28 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 29 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 30 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 |
-| 31 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
-| 32 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
+| 31 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
+| 32 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 33 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 34 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 |
 | 35 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 66 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 67 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
 | 68 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
-| 69 | [Sink Ya Teeth](https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Sink Ya Teeth](https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i) | 3:27 |
-| 70 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
+| 69 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
+| 70 | [Sink Ya Teeth](https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Sink Ya Teeth](https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i) | 3:27 |
 | 71 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
 | 72 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 73 | [Ready For Something](https://open.spotify.com/track/0D1RTbsoERxU3toO9Z2b46) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z) | 3:57 |
-| 74 | [The Last Dance](https://open.spotify.com/track/4qRjuJ0yie272bG3JY2EvU) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [The Last Dance](https://open.spotify.com/album/0rMHf3ngQEHHkNAKE259qe) | 4:30 |
-| 75 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 |
+| 74 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 |
+| 75 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 
 Snapshot ID: `Zpp4CgAAAAD7SKiAFoSU6GNuxDWXbndm`

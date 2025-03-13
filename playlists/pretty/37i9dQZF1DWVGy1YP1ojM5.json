@@ -1,6 +1,6 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2414824,
+  "num_followers": 2414747,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "When We",
-      "url": "https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O"
-    },
-    {
       "added_at": "2025-02-14 09:44:14",
       "album": {
         "name": "Fuck A Friendzone 2",
@@ -901,20 +885,20 @@
       "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
     },
     {
-      "added_at": "2024-12-13 05:00:38",
+      "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "Glad You Came",
-        "url": "https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s"
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
         }
       ],
-      "duration_ms": 168619,
-      "name": "Keep Going (Aaaaahhhhh)",
-      "url": "https://open.spotify.com/track/1EJ3Ihcgm3HsHTRT4CaUEp"
+      "duration_ms": 309120,
+      "name": "When We",
+      "url": "https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O"
     },
     {
       "added_at": "2023-02-10 08:06:49",
@@ -931,22 +915,6 @@
       "duration_ms": 249406,
       "name": "CUFF IT - WETTER REMIX",
       "url": "https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK"
     },
     {
       "added_at": "2023-02-03 17:30:27",
@@ -971,6 +939,22 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -983,6 +967,38 @@
       "duration_ms": 233493,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
+    },
+    {
+      "added_at": "2024-12-13 05:00:38",
+      "album": {
+        "name": "Glad You Came",
+        "url": "https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 168619,
+      "name": "Keep Going (Aaaaahhhhh)",
+      "url": "https://open.spotify.com/track/1EJ3Ihcgm3HsHTRT4CaUEp"
+    },
+    {
+      "added_at": "2023-02-12 15:52:33",
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Makin' Good Love",
+      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-02-12 15:52:33",
       "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Makin' Good Love",
-      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
-    },
-    {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 209560,
       "name": "I Just Died",
       "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
+    },
+    {
+      "added_at": "2024-05-17 07:33:52",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "act vi: mad man",
+      "url": "https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1057,20 +1073,20 @@
       "url": "https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6"
     },
     {
-      "added_at": "2024-05-17 07:33:52",
+      "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 158804,
-      "name": "act vi: mad man",
-      "url": "https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62"
+      "duration_ms": 122813,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
     },
     {
       "added_at": "2023-02-02 23:24:59",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "F.U.C.K.",
         "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo"
     },
     {
-      "added_at": "2025-02-14 09:44:14",
-      "album": {
-        "name": "SUBMISSIVE2",
-        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "SAME MISTAKE",
-      "url": "https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "AUCTION",
@@ -1211,6 +1191,26 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "added_at": "2025-02-14 09:44:14",
+      "album": {
+        "name": "SUBMISSIVE2",
+        "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "SAME MISTAKE",
+      "url": "https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN"
     },
     {
       "added_at": "2023-02-03 17:30:27",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/6GFR0u6aaNM6qnUQR91WT5"
     },
     {
-      "added_at": "2023-10-20 05:22:09",
-      "album": {
-        "name": "Phases III - EP",
-        "url": "https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 160581,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Love Sick",
@@ -1379,6 +1363,22 @@
       "duration_ms": 360493,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3V5I90jseccXcK4MGC1gqr"
+    },
+    {
+      "added_at": "2023-10-20 05:22:09",
+      "album": {
+        "name": "Phases III - EP",
+        "url": "https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 160581,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/0WVQchechJX4c0BXp8bHpv"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "FWM",
-        "url": "https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "FWM",
-      "url": "https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W"
-    },
-    {
       "added_at": "2025-02-14 09:44:14",
       "album": {
         "name": "The Album",
@@ -1541,6 +1525,22 @@
       "url": "https://open.spotify.com/track/7mWB4XFFEKjysQaQzIg9QR"
     },
     {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "FWM",
+      "url": "https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W"
+    },
+    {
       "added_at": "2023-02-12 15:52:33",
       "album": {
         "name": "Kaleidoscope Dream",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/4o3BlVXqXEQaP5h1Ds0xfy"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
         "name": "TWENTY88",
         "url": "https://open.spotify.com/album/4gqnsOwnA490OYq58VfJV3"
       },
@@ -1589,20 +1605,20 @@
       "url": "https://open.spotify.com/track/6p5zh0HCAeE5WkWAxSxjeg"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
+      "added_at": "2023-02-12 15:52:33",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 154893,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/4o3BlVXqXEQaP5h1Ds0xfy"
+      "duration_ms": 265760,
+      "name": "Come See Me",
+      "url": "https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1623,22 +1639,6 @@
       "duration_ms": 333582,
       "name": "Screwin (with Omarion)",
       "url": "https://open.spotify.com/track/3QR92iEfcnqgVFsOr2pCGz"
-    },
-    {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Come See Me",
-      "url": "https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1689,24 +1689,28 @@
       "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL"
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 152913,
-      "name": "Best Ever (feat. Maeta)",
-      "url": "https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS"
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     }
   ],
   "unique_name": "Silk Sheets",

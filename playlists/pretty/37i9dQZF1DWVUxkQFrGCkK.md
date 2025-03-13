@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,759 likes - 353 songs - 23 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,900 likes - 353 songs - 23 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 26 | [Si Ai \- Marshmello & UKAY Remix](https://open.spotify.com/track/6QiMlAAWY6CV1ItB9oAgF2) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [UKAY](https://open.spotify.com/artist/61g8SMtoEd288zbblnptOJ) | [Si Ai \(Marshmello & UKAY Remix\)](https://open.spotify.com/album/3dXl5dcxNnDy3f4awbJJWZ) | 3:03 |
 | 27 | [SO GOOD](https://open.spotify.com/track/3jq56w2z7QJBnpfRVk0lZf) | [HMWME](https://open.spotify.com/artist/6iUsKG741oVA0KXtElIpOo) | [SO GOOD](https://open.spotify.com/album/6ntmWrNoEMcgULkkVPNRMB) | 2:36 |
 | 28 | [iLanga \- Samm Remix](https://open.spotify.com/track/01uHli2I60dhf2p3cKy3v2) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [iLanga \(Samm Remix\)](https://open.spotify.com/album/5URMWlfNRGISqDtaCcbaxv) | 4:04 |
-| 29 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
+| 29 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 30 | [How Does It Feel \(feat\. Dakota and King Docious\)](https://open.spotify.com/track/2Epm6mdhdQ0HKM2I5fYpyQ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [King Docious](https://open.spotify.com/artist/0EQ9n8yt7k2tZxMUJGFJMb) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:16 |
 | 31 | [EYES WIDE OPEN](https://open.spotify.com/track/1k0uIwMxTiL0ZZ0XPZq44b) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [EYES WIDE OPEN](https://open.spotify.com/album/35ayAeNZsTUyUcpsbsFp9E) | 6:00 |
 | 32 | [A Little Conversation \- Franky Rizardo Remix](https://open.spotify.com/track/7C1sr5rt34jC1zlEXMWOJH) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [A Little Conversation \(Franky Rizardo Remix\)](https://open.spotify.com/album/6uFFzJ60n5AOFgB2zS1xGt) | 3:22 |

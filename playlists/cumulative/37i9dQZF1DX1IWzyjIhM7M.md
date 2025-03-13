@@ -4,7 +4,7 @@
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-135 songs - 7 hr 14 min
+136 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 | 2024-01-10 |  |
 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 | 2024-01-10 |  |
 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 | 2024-01-10 |  |
-| [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 | 2024-01-10 |  |
+| [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 | 2024-01-10 | 2025-03-13 |
 | [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 | 2024-01-10 |  |
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2024-01-10 |  |
 | [Na Na Na](https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Na Na Na](https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0) | 1:40 | 2024-01-10 |  |
@@ -109,6 +109,7 @@
 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2024-01-10 |  |
 | [Salt](https://open.spotify.com/track/2kLb29wxlXPLYFVSfcg69D) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 3:07 | 2024-01-10 | 2024-09-20 |
 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 | 2024-01-10 |  |
+| [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2024-01-10 |  |
 | [Since September](https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [No Substance Mixtape](https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72) | 3:02 | 2024-01-10 |  |
 | [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2024-01-10 |  |
 | [Soon We'll Make It](https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [More Better](https://open.spotify.com/album/4rsrAAeWRTA0FZqJ9eWS3A) | 2:19 | 2024-01-10 | 2024-04-19 |

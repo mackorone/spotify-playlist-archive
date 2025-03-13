@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,784 likes - 33 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,391 likes - 33 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 24 | [Zjerm](https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD) | [Zjerm](https://open.spotify.com/album/6yelOhQls6XqW9y4bxVkXK) | 3:04 |
 | 25 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 |
 | 26 | [Asteromata](https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA) | 2:55 |
-| 27 | [Esa Diva](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
+| 27 | [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
 | 28 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 |
 | 29 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 |
 | 30 | [Bur man laimi](https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK) | [Tautumeitas](https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF) | [Bur man laimi](https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g) | 2:58 |

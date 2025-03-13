@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 87328,
+  "num_followers": 87409,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 247333,
       "name": "True Love (feat. Tay Iwar & Projexx)",
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Gucci (Deleted)",
-        "url": "https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8"
-      },
-      "artists": [
-        {
-          "name": "Mthandeni SK",
-          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 247617,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Gucci (Deleted)",
+        "url": "https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 247617,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 227460,
+      "name": "Let Me Love You Now",
+      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "To the World & Beyond",
         "url": "https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 269520,
       "name": "Kwalula",
       "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 227460,
-      "name": "Let Me Love You Now",
-      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
-      },
-      "artists": [
-        {
-          "name": "Meddy",
-          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
-        }
-      ],
-      "duration_ms": 238888,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Touch My Blood",
         "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 304140,
       "name": "Jika",
       "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
+      },
+      "artists": [
+        {
+          "name": "Meddy",
+          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+        }
+      ],
+      "duration_ms": 238888,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Nakupenda",
-        "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
       },
       "artists": [
         {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Nakupenda",
-      "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
         }
       ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+      "duration_ms": 194560,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 198905,
       "name": "Ubuhle Bakho",
       "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
-      },
-      "artists": [
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Somandla",
         "url": "https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 406189,
       "name": "Ndimthanda",
       "url": "https://open.spotify.com/track/2sf6KNaKxhj8oCESEspmg4"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
+      },
+      "artists": [
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "TRUE STORY",
         "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 237516,
       "name": "Baby Ngimanzi Wuthando",
       "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2025-02-11 06:19:22",

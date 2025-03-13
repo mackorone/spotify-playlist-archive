@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 19763,
+  "num_followers": 19780,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Feels Right (I Love It)",
-        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
-        }
-      ],
-      "duration_ms": 147189,
-      "name": "Feels Right (I Love It)",
-      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Weekend (feat. Emelie Cyr\u00e9us)",
         "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 132775,
       "name": "Weekend (feat. Emelie Cyr\u00e9us)",
       "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Feels Right (I Love It)",
+        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "duration_ms": 147189,
+      "name": "Feels Right (I Love It)",
+      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
     },
     {
       "added_at": "2024-08-29 22:00:00",

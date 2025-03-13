@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Across My Mind",
+        "url": "https://open.spotify.com/album/47Oe13upqWE7y2V5DEP2S6"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117080,
+      "name": "Across My Mind",
+      "url": "https://open.spotify.com/track/7bMsnDJea798RJJYDvfetA"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 139413,
       "name": "Chat",
       "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,240 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,273 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 43 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
 | 44 | [Discúlpeme Señora \- Live Version](https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS) | [El Canario](https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:49 |
 | 45 | [Sonido Bestial \- En Vivo](https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX) | [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Un Sonido Bestial El Concierto \(En Vivo\)](https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg) | 6:11 |
-| 46 | [Sobredosis \- En Vivo](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
-| 47 | [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 |
+| 46 | [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 |
+| 47 | [Sobredosis \- En Vivo](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
 | 48 | [Sonido Bestial](https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq), [Wille Colon](https://open.spotify.com/artist/7FjTUD6W5stHN4LwBCcwkU), [Pedro Brull](https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Luisito Carrion](https://open.spotify.com/artist/7Gkr47aENhNsnuE72IIuUl), [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Marc Anthony](https://open.spotify.com/artist/5pUnaPzP3a5oHMWgJHU0gp), [Papo Lucca](https://open.spotify.com/artist/7vBicXCUm81QrCyx83xEfj) | [40 Aniversario: EN VIVO](https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU) | 6:33 |
 | 49 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 | 50 | [Mia \- En Vivo](https://open.spotify.com/track/5ksUdmgzCsePF8zTyCCiXm) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 5:01 |

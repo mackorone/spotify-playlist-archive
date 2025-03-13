@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,920 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,924 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 6 | [The Baddest](https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [The Baddest](https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV) | 2:51 |
 | 7 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
 | 8 | [Wat Zou Je Doen?](https://open.spotify.com/track/4lHhgAyYDkW0J5ykdyf9OF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Wat Zou Je Doen?](https://open.spotify.com/album/19LO8205QQBIjA424ES7ej) | 2:11 |
-| 9 | [Bezwen Ou \(feat\. Joé Dwet Filé\)](https://open.spotify.com/track/1jNS59FIqYLpde5th5RFQk) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:30 |
-| 10 | [Bday Baddie](https://open.spotify.com/track/0vAk9jGuv7X9dtM3HR7n2W) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Bday Baddie](https://open.spotify.com/album/3XhPq40aHj02U9za3VdItx) | 2:45 |
+| 9 | [Bday Baddie](https://open.spotify.com/track/0vAk9jGuv7X9dtM3HR7n2W) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Bday Baddie](https://open.spotify.com/album/3XhPq40aHj02U9za3VdItx) | 2:45 |
+| 10 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 11 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 12 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 | 13 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
 | 40 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 
-Snapshot ID: `Z9DAgQAAAABG3aqcR5MFoRrvcBv6WJiB`
+Snapshot ID: `Z9G4iQAAAABQOQu8bCDT7jP+t71sWR3t`

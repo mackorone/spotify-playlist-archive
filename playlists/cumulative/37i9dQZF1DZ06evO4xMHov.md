@@ -4,7 +4,7 @@
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-79 songs - 8 hr 54 min
+80 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cordeiro e Leão \- Ao Vivo](https://open.spotify.com/track/4EGj6g4QFno2quxPOLtMcp) | [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Cordeiro e Leão \(Ao Vivo\)](https://open.spotify.com/album/674qX1cl9y824gBlQdUplj) | 5:34 | 2023-12-17 | 2024-07-27 |
 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 | 2023-07-10 |  |
 | [Deus do Impossível, YAHWEH \- Ao Vivo](https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Deus do Impossível, YAHWEH \(Ao Vivo\)](https://open.spotify.com/album/1gWiTsl8U6Mgxm6MxVRhGh) | 5:46 | 2023-07-10 | 2024-03-08 |
+| [Digno de Tudo + Te Exaltamos \- Ao Vivo](https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Digno de Tudo + Te Exaltamos \(Ao Vivo\)](https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB) | 9:06 | 2025-03-13 |  |
 | [Elohim / Não Mais Escravos \- Ao Vivo](https://open.spotify.com/track/7ep4wOYoOgtObGj4gomwSs) | [Clamor Pelas Nações](https://open.spotify.com/artist/6ube8yDyEYxMvAGmuzwNEF), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ricardo Robortella](https://open.spotify.com/artist/17B72UyTRtaLFcuC5juWmz) | [Elohim / Não Mais Escravos \(Ao Vivo\)](https://open.spotify.com/album/1YJXXC0I9iandkorigXckC) | 6:43 | 2024-08-15 | 2024-12-19 |
 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 13:10 | 2023-07-10 |  |
 | [Emanuel](https://open.spotify.com/track/2ScEp4HglMaKLvCKaungiC) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Emanuel](https://open.spotify.com/album/1qQC3sdmgS6NUwen0kh6EN) | 6:20 | 2023-07-10 | 2023-08-20 |
@@ -38,7 +39,7 @@
 | [Grande é o Senhor \- Acústico Ao Vivo](https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:40 | 2023-07-10 |  |
 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Grande é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9) | 6:53 | 2023-07-10 |  |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl) | 5:48 | 2024-05-18 | 2024-10-02 |
-| [Hosana \- Ao Vivo](https://open.spotify.com/track/3UMeu4qzpJC0XW8s1hW1Yd) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/38lZbkJnTd1c4aZePzOX2V) | 5:48 | 2024-12-19 |  |
+| [Hosana \- Ao Vivo](https://open.spotify.com/track/3UMeu4qzpJC0XW8s1hW1Yd) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/38lZbkJnTd1c4aZePzOX2V) | 5:48 | 2024-12-19 | 2025-03-13 |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4Kf8ujQyyQIhwQksSQHQqM) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/7HZGHG5ElP7mbYK8WuKFBd) | 5:48 | 2024-10-16 | 2024-12-11 |
 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 | 2023-07-10 |  |
 | [Jireh](https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Bruno Graça](https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Jireh](https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq) | 9:35 | 2023-07-10 |  |

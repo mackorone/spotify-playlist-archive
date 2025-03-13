@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-351 songs - 1 day 9 hr 22 min
+352 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 | 2024-04-19 |
 | [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 | 2024-01-08 |
 | [Badra Jhum](https://open.spotify.com/track/3paWIcLemVopky4tYAjYnn) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/6xzmXaik3FZtgmExS2Il4M) | 3:42 | 2023-12-15 | 2024-03-16 |
-| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 |  |
+| [Baiyaan](https://open.spotify.com/track/47Wwuu4jfq0nthcsnMr4kC) | [Aniket Kar](https://open.spotify.com/artist/165EyV5h6zZ2ml6ZJVEg7s), [Parul Mishra](https://open.spotify.com/artist/70706ST5lkFhPr9lgea7SU), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI) | [Baiyaan](https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V) | 5:26 | 2023-09-26 | 2025-03-13 |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Balma Roothe](https://open.spotify.com/track/5iwv6Hnc8qK2MMWAEPaxSy) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Balma Roothe](https://open.spotify.com/album/3H2bShG6rGWRWpB4zCB3i8) | 2:46 | 2025-02-12 |  |
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-10-04 |  |
@@ -336,6 +336,7 @@
 | [Talam: Mahalakshmi Tala \- 9 1/2 Beats \- Pancha Nadai Pallavi \(Ragam Tanam Pallavi\)](https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [T.H\. Vinayakram](https://open.spotify.com/artist/6kF3zpdpcHSckhA72oPCGd), [Caroline](https://open.spotify.com/artist/3BgtwcBb7TUHnvTZEs64C8) | [Pancha Nadai Pallavi](https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p) | 31:15 | 2025-01-06 |  |
 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/6e0Nq5CfORhxfuuBRsUaQG) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Shiva Moon: Prem Joshua Remixed by Maneesh de Moor](https://open.spotify.com/album/0q91pqWmodbereR3sVAxvX) | 7:12 | 2022-05-17 | 2022-07-29 |
 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 | 2022-07-12 | 2023-03-16 |
+| [Taras Gaye](https://open.spotify.com/track/6y2FPmJ5XTov5ObxFKdk5X) | [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Taras Gaye](https://open.spotify.com/album/6Bo0us2VfJoZv8DWpRyKZF) | 2:51 | 2025-03-12 |  |
 | [Tarfe](https://open.spotify.com/track/3VvdqoYyBa6zssV8kNj0bM) | [Samarth Janve](https://open.spotify.com/artist/6aD59tcg6klEh7d51b6JuQ) | [Tarfe](https://open.spotify.com/album/4jkjW6EwGjiZO10LD2DTfx) | 3:18 | 2023-03-01 | 2023-07-22 |
 | [Tera Junoon](https://open.spotify.com/track/0dwrjtyiGDQe10u9VZkkUn) | [Madhav Mahajan](https://open.spotify.com/artist/2o3BjrezOtEh2AfODNjLXX) | [Tera Junoon](https://open.spotify.com/album/5foF2jYpEh28PxsAgdFP7G) | 4:55 | 2024-07-17 | 2025-02-28 |
 | [The Deepest Of Sorrow](https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo) | [Pathiena](https://open.spotify.com/artist/0gFioxhm0NLtIrUKSLkmUW) | [The Deepest Of Sorrow](https://open.spotify.com/album/7x43if6epaRgG3Mlj3dtwQ) | 3:32 | 2022-05-17 | 2023-02-22 |

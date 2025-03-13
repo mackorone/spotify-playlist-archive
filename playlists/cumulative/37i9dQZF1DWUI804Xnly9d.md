@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-500 songs - 1 day 4 hr 6 min
+501 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-04 | 2024-01-20 |
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
 | [Doorie](https://open.spotify.com/track/3CkXsLQbfU0dDPp10a7FVJ) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [U K D](https://open.spotify.com/artist/2Nmoa6Hzb6eF1egjM76rjK) | [Doorie](https://open.spotify.com/album/28pI0qUgSonCHteYEsLyJ2) | 3:39 | 2024-02-23 | 2024-07-19 |
-| [Dooriyan](https://open.spotify.com/track/215WEhkM0NH81aJjnDjzad) | [Abhishek Rai](https://open.spotify.com/artist/2OiZEUSa2j3zh7iTshyOYK), [Ruthuraj](https://open.spotify.com/artist/3h9sN9KqD82pD4sZ95ICkB) | [Dooriyan](https://open.spotify.com/album/2nuz9KeEBHea4AztcYMMcj) | 4:38 | 2025-02-14 |  |
+| [Dooriyan](https://open.spotify.com/track/215WEhkM0NH81aJjnDjzad) | [Abhishek Rai](https://open.spotify.com/artist/2OiZEUSa2j3zh7iTshyOYK), [Ruthuraj](https://open.spotify.com/artist/3h9sN9KqD82pD4sZ95ICkB) | [Dooriyan](https://open.spotify.com/album/2nuz9KeEBHea4AztcYMMcj) | 4:38 | 2025-02-14 | 2025-03-13 |
 | [Dooriyan](https://open.spotify.com/track/0ppwDEu7J3NdPNIUHtpsUB) | [Lega\-C](https://open.spotify.com/artist/6PFF32ltwmEyLcwX6FD2mG), [Saubhagya](https://open.spotify.com/artist/21efmh0LXU7EX5pTi6Xr1f), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Dooriyan](https://open.spotify.com/album/1inFZC4j9k9thsOvzY6YSI) | 3:20 | 2024-09-05 | 2024-10-01 |
 | [Dooriyan \- Acoustic](https://open.spotify.com/track/50RH0RyxLEj8NEhaHlqWNX) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/2sid24LIFGikqtrQ0089TP) | 3:30 | 2024-05-31 | 2024-10-05 |
 | [Dost Banke \(Reprise Version\)](https://open.spotify.com/track/6zd5z2VCfuj1N8ymbNoISZ) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Dost Banke \(Reprise Version\)](https://open.spotify.com/album/44v1rcaB4o1pgbfIAh1YTo) | 4:35 | 2024-08-02 | 2024-09-04 |
@@ -255,6 +255,7 @@
 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 | 2024-08-22 | 2025-02-15 |
 | [Kisi Tarah](https://open.spotify.com/track/4jVJH1awgJLzWWv2vKNRwg) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Kisi Tarah](https://open.spotify.com/album/20GlqmFsboHgSZC4KA0rtr) | 2:58 | 2025-01-31 |  |
 | [Kivein Mukhade](https://open.spotify.com/track/7FFfdpjbckpKidr7AoLLPE) | [Harjot K Dhillon](https://open.spotify.com/artist/0OR1HFAannTqpzRH4Efq5Z) | [Kivein Mukhade](https://open.spotify.com/album/7dK1nmyjIuvBb1OZEpZlL8) | 2:21 | 2023-07-07 | 2023-09-30 |
+| [Koi Khwab](https://open.spotify.com/track/7KHeGvdKguMx2skcrIKaVh) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [Sheeba Alam](https://open.spotify.com/artist/7gTKX7BKhCiz4aZx6W5nkH), [Israt Tonni](https://open.spotify.com/artist/0mg1A2jSH2hI5TUEdz6Glh), [Valerii Kurtesov](https://open.spotify.com/artist/41SsNhMS20TDzhI4EOPWuo) | [Koi Khwab](https://open.spotify.com/album/389jYBhedE6oiaxkP4MCyl) | 2:55 | 2025-03-12 |  |
 | [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 | 2023-10-13 | 2023-11-25 |
 | [Kuch ghadi aur](https://open.spotify.com/track/3pwYsNSjZNzcp9wOt28gVI) | [Samiir](https://open.spotify.com/artist/6E4rMwXlr9mQh5BbSlw3oR), [Avanish Bhalla](https://open.spotify.com/artist/5RJvc3CEkxK4WVkeKzu9Dc) | [Kuch ghadi aur](https://open.spotify.com/album/6PD8Mtm1k4teXgjIY2QPRw) | 4:08 | 2023-07-28 | 2023-09-26 |
 | [Kuch Kam](https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Kuch Kam](https://open.spotify.com/album/2bC8qwPlpC8CO1YpppXczb) | 2:32 | 2023-05-17 | 2023-07-13 |

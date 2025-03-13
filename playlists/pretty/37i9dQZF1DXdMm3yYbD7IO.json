@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 432049,
+  "num_followers": 432267,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Mr. Vain Recall",
+        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Mr. Vain Recall - Radio Edit",
+      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 269306,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Mr. Vain Recall",
-        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Mr. Vain Recall - Radio Edit",
-      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
     },
     {
       "added_at": "2024-07-12 19:59:45",

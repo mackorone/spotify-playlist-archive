@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 70891,
+  "num_followers": 70923,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,38 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -235,38 +267,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Yo Te Dir\u00e9",
-      "url": "https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/6Vxnagxqa9cuCqxPTxq1RC"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/1JLB67iNVIOs6NCiMAB1Fo"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Fuimos Amor",
-      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Fantas\u00eda Pop",
         "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 223640,
       "name": "Cada Que...",
       "url": "https://open.spotify.com/track/22cB3FJq4vAb2gnUUbux2i"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Fuimos Amor",
+      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
     },
     {
       "added_at": "2024-06-24 20:26:35",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Otra Era",
         "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
       },
@@ -743,26 +763,6 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-24 20:26:35",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "Toda la Noche Oliendo a Ti",
+      "url": "https://open.spotify.com/track/361ePlL30dZ240c84R06AG"
+    },
+    {
+      "added_at": "2024-06-24 20:26:35",
+      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
-    },
-    {
-      "added_at": "2024-06-24 20:26:35",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Toda la Noche Oliendo a Ti",
-      "url": "https://open.spotify.com/track/361ePlL30dZ240c84R06AG"
     },
     {
       "added_at": "2024-06-24 20:26:35",

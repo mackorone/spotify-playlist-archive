@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,338 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,406 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 10 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
 | 11 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
 | 12 | [Corazón Necio](https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Corazón Necio](https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8) | 3:26 |
-| 13 | [Y Como Es El](https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:54 |
-| 14 | [No Te Extraño](https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Renta Un Corazón \(Reissue\)](https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t) | 3:23 |
-| 15 | [Si Ella Supiera](https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:52 |
+| 13 | [No Te Extraño](https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Renta Un Corazón \(Reissue\)](https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t) | 3:23 |
+| 14 | [Si Ella Supiera](https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:52 |
+| 15 | [Y Como Es El](https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:54 |
 | 16 | [Amor Añejo](https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:14 |
 | 17 | [Y Le Diré](https://open.spotify.com/track/2PLLTB5IgPTEBfOkgFOa65) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Muchas Ganas](https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V) | 3:18 |
 | 18 | [Para Olvidarme De Ti](https://open.spotify.com/track/5EF19tsYnIdHOgbbZM5muy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [No Puedo Mas](https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Muchas Ganas](https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V) | 3:00 |
 | 50 | [De Norte a Sur](https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 2:52 |
 
-Snapshot ID: `Z8zaAAAAAAA8BMkoMQp9bVqOzF01Kl5k`
+Snapshot ID: `Z899AAAAAADPOTFogrrL0zyjJd5C5UgF`

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 177247,
+  "num_followers": 177249,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "Coisas Simples",
         "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -751,30 +751,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Liga\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
-      },
-      "artists": [
-        {
-          "name": "Meraki",
-          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
-        },
-        {
-          "name": "BlakkLan\u00e7a",
-          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
-        },
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
-        }
-      ],
-      "duration_ms": 209389,
-      "name": "Liga\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "Liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+      },
+      "artists": [
+        {
+          "name": "Meraki",
+          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+        },
+        {
+          "name": "BlakkLan\u00e7a",
+          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        }
+      ],
+      "duration_ms": 209389,
+      "name": "Liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
         "name": "Seu Bem",
         "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 207000,
       "name": "Seu Bem",
       "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Melanina",
-        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
-      },
-      "artists": [
-        {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
-        },
-        {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Melanina",
-      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
+      },
+      "artists": [
+        {
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+        "name": "Tenho Tanto de Voc\u00ea em Mim",
+        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
       },
       "artists": [
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+      "duration_ms": 168053,
+      "name": "Tenho Tanto de Voc\u00ea em Mim",
+      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "Tenho Tanto de Voc\u00ea em Mim",
-        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
       },
       "artists": [
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         }
       ],
-      "duration_ms": 168053,
-      "name": "Tenho Tanto de Voc\u00ea em Mim",
-      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
     },
     {
       "added_at": "2025-03-01 19:34:15",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-03-01 19:34:15",
       "album": {
-        "name": "A\u00e7a\u00ed e Amendo\u00edm",
-        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
-      },
-      "artists": [
-        {
-          "name": "Nevess",
-          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
-        }
-      ],
-      "duration_ms": 193414,
-      "name": "A\u00e7a\u00ed e Amendo\u00edm",
-      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
-    },
-    {
-      "added_at": "2025-03-01 19:34:15",
-      "album": {
         "name": "sexysong.mp3",
         "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 137000,
       "name": "sexysong.mp3",
       "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
+    },
+    {
+      "added_at": "2025-03-01 19:34:15",
+      "album": {
+        "name": "A\u00e7a\u00ed e Amendo\u00edm",
+        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
+      },
+      "artists": [
+        {
+          "name": "Nevess",
+          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
+        }
+      ],
+      "duration_ms": 193414,
+      "name": "A\u00e7a\u00ed e Amendo\u00edm",
+      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
     },
     {
       "added_at": "2025-03-01 19:34:15",

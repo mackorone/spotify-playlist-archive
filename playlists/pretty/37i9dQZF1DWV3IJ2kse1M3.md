@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我還是放不下你 真的可惜 我在也無能為力 繼續愛你。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,287 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,290 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 21 | [最後一堂課 \- 《媽，別鬧了！》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽，別鬧了！》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 |
 | 22 | [失落沙洲](https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk) | 4:59 |
 | 23 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
-| 24 | [退後](https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:21 |
-| 25 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
+| 24 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
+| 25 | [退後](https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:21 |
 | 26 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 |
 | 27 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 | 28 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 47 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 48 | [祝我生日快樂](https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [溫式效應](https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7) | 4:18 |
 | 49 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 |
-| 50 | [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 |
+| 50 | [我們都傻](https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [仰望](https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5) | 5:30 |
 
 Snapshot ID: `Z6C8YQAAAAALbqOvN66PCqIr/yXAe0q4`

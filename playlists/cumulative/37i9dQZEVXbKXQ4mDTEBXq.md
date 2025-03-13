@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-561 songs - 1 day 10 hr 30 min
+562 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [INZM](https://open.spotify.com/track/5PTL6Kn0n4rEmhWQP3NqEb) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [INZM](https://open.spotify.com/album/57GML4mcquryzg30iaajtx) | 3:30 | 2024-08-20 | 2024-09-25 |
 | [INZM](https://open.spotify.com/track/1JdUw14vtWg9Vt4aRfHqwl) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 3:34 | 2024-09-24 |  |
 | [Is it me?](https://open.spotify.com/track/13t6ysw3FUR0yJvTx4qCIU) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:58 | 2024-03-07 | 2024-03-14 |
+| [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-03-12 |  |
 | [IYKYK](https://open.spotify.com/track/0Gl9pXfGTU8eAnEbcka6AV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:00 | 2024-11-09 | 2024-11-16 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-12 | 2024-11-10 |
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-12-08 | 2024-12-24 |
@@ -225,7 +226,7 @@
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-02-28 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-12-25 | 2024-12-28 |
 | [Romantic](https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Romantic](https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G) | 4:10 | 2024-06-03 | 2024-08-21 |
-| [RUN](https://open.spotify.com/track/4ko0h3V5HpSI2LqzFeBXUN) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Hello! We’re timelesz](https://open.spotify.com/album/4Mwq0zT8k27V37Gg5Ig784) | 3:55 | 2025-03-01 |  |
+| [RUN](https://open.spotify.com/track/4ko0h3V5HpSI2LqzFeBXUN) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Hello! We’re timelesz](https://open.spotify.com/album/4Mwq0zT8k27V37Gg5Ig784) | 3:55 | 2025-03-01 | 2025-03-13 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-27 |
 | [Running Wild](https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:31 | 2024-11-20 | 2024-11-25 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-16 | 2024-11-21 |

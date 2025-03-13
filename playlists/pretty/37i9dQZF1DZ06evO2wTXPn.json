@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31443,
+  "num_followers": 31450,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAAtx7N0xkQZSMQ4iMGAF5sv",
+  "snapshot_id": "Z899AAAAAAAHItMF2hRSpe4Lm8p3TH/H",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -411,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "unas ac\u00fasticas",
-        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
       },
       "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
       "duration_ms": 202760,
       "name": "10 Veces Mejor",
       "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mujer Perfecta",
-        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
-      },
-      "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "La Mujer Perfecta",
-      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1al",
         "url": "https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 245600,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jodido Sin Ti",
+        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Jodido Sin Ti",
+      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 157426,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jodido Sin Ti",
-        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Jodido Sin Ti",
-      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
     },
     {
       "added_at": null,

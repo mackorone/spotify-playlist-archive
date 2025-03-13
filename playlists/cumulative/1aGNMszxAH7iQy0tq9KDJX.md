@@ -4,7 +4,7 @@
 
 > 
 
-30 songs - 1 hr 51 min
+31 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,5 +38,6 @@
 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 | 2024-12-09 |  |
 | [What a Good Boy](https://open.spotify.com/track/7IgRvUDTdjsligNmNpnUrz) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 3:54 | 2022-05-06 |  |
 | [worm food](https://open.spotify.com/track/4Q3GSw3CR92lKtPFmKQl90) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:57 | 2023-03-05 |  |
+| [Zero Zero](https://open.spotify.com/track/4LayGZR6aW0VCoMlv828NM) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:49 | 2025-03-12 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

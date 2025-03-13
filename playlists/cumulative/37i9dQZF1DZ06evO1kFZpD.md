@@ -4,11 +4,12 @@
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 14 min
+58 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afternoon Tea with the Auroras \(Interlude\)](https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 0:35 | 2025-03-06 |  |
+| [16 Candles \(feat\. Ganavya\)](https://open.spotify.com/track/4VJbyABSDzHtZy0DxZAjLM) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Ganavya](https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 5:07 | 2025-03-13 |  |
+| [Afternoon Tea with the Auroras \(Interlude\)](https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 0:35 | 2025-03-06 | 2025-03-13 |
 | [Baby Mama](https://open.spotify.com/track/1zegJDoCVOHIgQmGGSZriW) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:53 | 2024-06-17 |  |
 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 | 2023-05-20 |  |
 | [Blunt Talk \(feat\. Nacho Picasso & Raveena\)](https://open.spotify.com/track/4ZNM7r3IbFeJLGouDG79ze) | [Brothers From Another](https://open.spotify.com/artist/7EBy1PkMgjQ9H5qroSGC8P), [Nacho Picasso](https://open.spotify.com/artist/5oib7h2INOpWPRLaSQxdY0), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [This Summer](https://open.spotify.com/album/3ETbunFdPVpvzcyuRG1zO8) | 3:58 | 2023-11-10 | 2024-06-17 |
@@ -28,7 +29,7 @@
 | [Kathy Left 4 Kathmandu](https://open.spotify.com/track/3yOaX3XEVAnTIyUHagBJvj) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 2:27 | 2023-05-02 |  |
 | [Kid](https://open.spotify.com/track/0MNCbevebpbLdEVxvzQXMk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:29 | 2025-03-08 |  |
 | [Kid](https://open.spotify.com/track/3DsSDXqDVTpqY33Drz41GY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:29 | 2024-06-17 | 2024-07-04 |
-| [Little Bird](https://open.spotify.com/track/5BidO02y2epLpSsOcgP8xu) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 2:35 | 2025-03-06 |  |
+| [Little Bird](https://open.spotify.com/track/5BidO02y2epLpSsOcgP8xu) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 2:35 | 2025-03-06 | 2025-03-13 |
 | [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 | 2024-06-16 | 2025-03-02 |
 | [Lose My Focus](https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:37 | 2025-03-02 |  |
 | [Love Child](https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 2:43 | 2023-05-02 |  |
@@ -43,7 +44,8 @@
 | [Petal](https://open.spotify.com/track/12Aq4Ryc1rZQ0hWnT8wZNe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 3:07 | 2023-05-02 |  |
 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 | 2024-07-15 |  |
 | [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-11 | 2024-07-03 |
-| [Rise](https://open.spotify.com/track/0ngdWWyCMCeCkMQNwUiN9o) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 5:34 | 2024-06-17 |  |
+| [Rise](https://open.spotify.com/track/0ngdWWyCMCeCkMQNwUiN9o) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 5:34 | 2024-06-17 | 2025-03-13 |
+| [Rise](https://open.spotify.com/track/7KqAcGYfCl2LehZXodacmu) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 5:34 | 2025-03-13 |  |
 | [Rush](https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:05 | 2023-05-02 |  |
 | [Seagirl](https://open.spotify.com/track/0FO4lzbW7ufcYSc1iHune9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:22 | 2023-06-10 |  |
 | [Seagirl](https://open.spotify.com/track/7ssj7z5AP6V5O6Ooyeni60) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 3:22 | 2023-11-10 | 2024-08-22 |

@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26008,
+  "num_followers": 26011,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABiNMsROhCGQpf2TM3HARuhotjlKWf8",
+  "snapshot_id": "AABiOMRh1UFUh+ZQUXYihXd+wLf2OOQX",
   "tracks": [
     {
       "added_at": "2025-03-07 14:17:05",
@@ -59,6 +59,22 @@
       "duration_ms": 192000,
       "name": "i sleep better",
       "url": "https://open.spotify.com/track/4blmdVzI7AyJ6G8gpMMsSs"
+    },
+    {
+      "added_at": "2025-03-12 05:19:04",
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/2PRoNPkcYS73ijwcqlUTOW"
+      },
+      "artists": [
+        {
+          "name": "FLYNK",
+          "url": "https://open.spotify.com/artist/0fWlFYpNON20VuHUlb7mod"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/5ncLCNGOjTV78hyBN0qQv7"
     },
     {
       "added_at": "2025-03-07 14:17:05",
@@ -201,22 +217,6 @@
       "url": "https://open.spotify.com/track/7qTu1G3gDgC5qJ6Eu71OUs"
     },
     {
-      "added_at": "2025-03-07 20:07:02",
-      "album": {
-        "name": "THE HYPE MACHINE",
-        "url": "https://open.spotify.com/album/6Q8qjt8EGfVkKu7XXTAMsU"
-      },
-      "artists": [
-        {
-          "name": "ECLYP",
-          "url": "https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "THE HYPE MACHINE",
-      "url": "https://open.spotify.com/track/36kcVd5EE0aTVuqMUsfv3Z"
-    },
-    {
       "added_at": "2025-03-07 14:17:05",
       "album": {
         "name": "Let You Go",
@@ -311,6 +311,22 @@
       "duration_ms": 213677,
       "name": "Change To Follow",
       "url": "https://open.spotify.com/track/5M1OQ87CeXnFbduLXxItcy"
+    },
+    {
+      "added_at": "2025-03-12 05:25:39",
+      "album": {
+        "name": "He's The One",
+        "url": "https://open.spotify.com/album/2whcQGQeWKGw5EzhdzsJhl"
+      },
+      "artists": [
+        {
+          "name": "Sonic Psalm",
+          "url": "https://open.spotify.com/artist/0OtL5q5DwwhGornAhm0uXo"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "He\u2019s My Rhythm",
+      "url": "https://open.spotify.com/track/1mgt4QZceVnIygWfUFVGjy"
     },
     {
       "added_at": "2025-03-07 14:17:05",
@@ -451,6 +467,38 @@
       "duration_ms": 186240,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/3NndWm9sgNDA7AtbTfTtM3"
+    },
+    {
+      "added_at": "2025-03-07 20:07:02",
+      "album": {
+        "name": "THE HYPE MACHINE",
+        "url": "https://open.spotify.com/album/6Q8qjt8EGfVkKu7XXTAMsU"
+      },
+      "artists": [
+        {
+          "name": "ECLYP",
+          "url": "https://open.spotify.com/artist/4HChIBz1tnhUbJoYswBIn7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "THE HYPE MACHINE",
+      "url": "https://open.spotify.com/track/36kcVd5EE0aTVuqMUsfv3Z"
+    },
+    {
+      "added_at": "2025-03-12 05:21:50",
+      "album": {
+        "name": "Pulse of the Night",
+        "url": "https://open.spotify.com/album/4UoMJnbeNyv4L3CqV7QDqv"
+      },
+      "artists": [
+        {
+          "name": "SHADOWN",
+          "url": "https://open.spotify.com/artist/3JThFvYEhBSlFGk6JMkmma"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "Pulse of the Night",
+      "url": "https://open.spotify.com/track/6hvp0zQ2mJ2Q4t43MlZqU7"
     },
     {
       "added_at": "2025-03-07 14:17:05",

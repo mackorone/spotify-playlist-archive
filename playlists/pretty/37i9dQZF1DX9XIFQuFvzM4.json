@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3653161,
+  "num_followers": 3653372,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pusherman",
-      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
       "added_at": "2022-03-28 18:28:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Story Of Cornelius Brothers & Sister Rose",
         "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 198693,
       "name": "Too Late To Turn Back Now",
       "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -927,22 +943,6 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
-    },
-    {
-      "added_at": "2024-02-29 20:11:01",
-      "album": {
-        "name": "Cry To Me-The Best Of Freddie Scott",
-        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
-      },
-      "artists": [
-        {
-          "name": "Freddie Scott",
-          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "(You) Got What I Need",
-      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Curtis (Expanded Edition)",
         "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 291320,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
+      "added_at": "2024-02-29 20:11:01",
+      "album": {
+        "name": "Cry To Me-The Best Of Freddie Scott",
+        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
+      },
+      "artists": [
+        {
+          "name": "Freddie Scott",
+          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "(You) Got What I Need",
+      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of The Velvelettes",
-        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
-      },
-      "artists": [
-        {
-          "name": "The Velvelettes",
-          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "Needle In A Haystack",
-      "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Anthology: Jackson 5",
         "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 177426,
       "name": "ABC",
       "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of The Velvelettes",
+        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
+      },
+      "artists": [
+        {
+          "name": "The Velvelettes",
+          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Needle In A Haystack",
+      "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
     },
     {
+      "added_at": "2022-02-28 20:07:33",
+      "album": {
+        "name": "Up, Up And Away",
+        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
+      },
+      "artists": [
+        {
+          "name": "The 5th Dimension",
+          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Up, Up and Away",
+      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
+    },
+    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "My World",
@@ -1367,22 +1383,6 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
-    },
-    {
-      "added_at": "2022-02-28 20:07:33",
-      "album": {
-        "name": "Up, Up And Away",
-        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
-      },
-      "artists": [
-        {
-          "name": "The 5th Dimension",
-          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Up, Up and Away",
-      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Very Best Of Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 280040,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2053,22 +2053,6 @@
       "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Mixed-Up, Shook-Up Girl",
-        "url": "https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO"
-      },
-      "artists": [
-        {
-          "name": "Patty & The Emblems",
-          "url": "https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up"
-        }
-      ],
-      "duration_ms": 126920,
-      "name": "Mixed-Up, Shook-Up Girl",
-      "url": "https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Ubuntu",
@@ -2087,6 +2071,22 @@
       "duration_ms": 254314,
       "name": "When Love Comes In",
       "url": "https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Mixed-Up, Shook-Up Girl",
+        "url": "https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO"
+      },
+      "artists": [
+        {
+          "name": "Patty & The Emblems",
+          "url": "https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up"
+        }
+      ],
+      "duration_ms": 126920,
+      "name": "Mixed-Up, Shook-Up Girl",
+      "url": "https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "20 All-Time Greatest Hits!",
         "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
       },
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Too Hot To Handle",
         "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
       },
@@ -2307,6 +2307,22 @@
       "duration_ms": 303533,
       "name": "Boogie Nights",
       "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
       },
@@ -2371,6 +2371,22 @@
       "duration_ms": 199400,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
     },
     {
       "added_at": "2023-08-03 17:52:54",
@@ -2391,6 +2407,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Discover Bill Withers",
         "url": "https://open.spotify.com/album/0PuHBmxh6nKG8TTjuVZghY"
       },
@@ -2407,66 +2439,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb"
       },
       "artists": [
         {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up In Flames)",
+      "url": "https://open.spotify.com/track/4u2KDCwcj8WGcFXDhy1aKL"
     },
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Motown 1970s Vol. 1",
-        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/3iNpxjTJ8kBPtN3kAFh43X"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 258706,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/47CPS60gbKOHyf1R5pdUR9"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Something's Got A Hold On Me - Single Version",
-      "url": "https://open.spotify.com/track/4T43c9I2dDyrrlds7qqS2N"
+      "duration_ms": 252360,
+      "name": "Got To Give It Up (Part 1)",
+      "url": "https://open.spotify.com/track/1jogl9f7HlgoN817JlwqgY"
     }
   ],
   "unique_name": "Feelin' Good",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,823 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,828 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 5 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 6 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 7 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
-| 8 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 |
-| 9 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
+| 8 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
+| 9 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 |
 | 10 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 | 11 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 |
 | 12 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 19 | [Both](https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:23 |
 | 20 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 21 | [Runnin \(with JP Saxe\)](https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:26 |
-| 22 | [How Honest Do You Want Me To Be?](https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:54 |
+| 22 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:33 |
 | 23 | [Life of the Party](https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 2:56 |
-| 24 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:33 |
+| 24 | [How Honest Do You Want Me To Be?](https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:54 |
 | 25 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
-| 26 | [No Choice](https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:53 |
-| 27 | [Bed on Fire](https://open.spotify.com/track/2BJTwF42ARiW2RQWyDgoLS) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TOP HITS 2024](https://open.spotify.com/album/4eoUp2Fr6MZTggBU5e8BVK) | 3:48 |
-| 28 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
+| 26 | [Bed on Fire](https://open.spotify.com/track/2BJTwF42ARiW2RQWyDgoLS) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TOP HITS 2024](https://open.spotify.com/album/4eoUp2Fr6MZTggBU5e8BVK) | 3:48 |
+| 27 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 |
+| 28 | [No Choice](https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:53 |
 | 29 | [Here for It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 |
-| 30 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
-| 31 | [Treated Me Good](https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:20 |
-| 32 | [Boys](https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 2:43 |
+| 30 | [Treated Me Good](https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:20 |
+| 31 | [Boys](https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 2:43 |
+| 32 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
 | 33 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 
-Snapshot ID: `Z8zaAAAAAADjzp6uYZWVbimKgGdn5BUI`
+Snapshot ID: `Z899AAAAAAAlj4AqsSlfyQf+u2gqVMqL`

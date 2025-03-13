@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 15072,
+  "num_followers": 15633,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAD6btRKBCWBVBLb6FB8KgDu",
+  "snapshot_id": "Z899AAAAAACTJr6198knU5IrfAjF01a4",
   "tracks": [
     {
       "added_at": null,
@@ -131,70 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
-      },
-      "artists": [
-        {
-          "name": "Richard Earnshaw",
-          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
-        },
-        {
-          "name": "Ursula Rucker",
-          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Roy Ayers",
-        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Mystic Voyage",
-      "url": "https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Champagne Kisses",
         "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
       },
@@ -227,8 +163,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
+      },
+      "artists": [
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        },
+        {
+          "name": "Ursula Rucker",
+          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 376066,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Roy Ayers",
+        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
       },
       "artists": [
         {
@@ -236,9 +196,33 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 175213,
-      "name": "Aragon - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
+      "duration_ms": 222000,
+      "name": "Mystic Voyage",
+      "url": "https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
     },
     {
       "added_at": null,
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "Aragon - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Brighter Day",
         "url": "https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 253933,
       "name": "Mystic Voyage",
       "url": "https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 361826,
-      "name": "Love Will Bring Us Back Together",
-      "url": "https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Love Will Bring Us Back Together",
+      "url": "https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 336546,
       "name": "Funk in the Hole",
       "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 508186,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 142127,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Everytime I See You",
+      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Everytime I See You",
-      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffy",
         "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 198306,
       "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
       "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 508186,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "And Don't You Say No",
-      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -551,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2000 Blacks Got to Be Free",
-        "url": "https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf"
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
       "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 293295,
-      "name": "2000 Blacks Got to Be Free (Edit)",
-      "url": "https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk"
+      "duration_ms": 203760,
+      "name": "And Don't You Say No",
+      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
     },
     {
       "added_at": null,
@@ -587,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+        "name": "2000 Blacks Got to Be Free",
+        "url": "https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 329240,
-      "name": "Vibin' W/Ayers",
-      "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
+      "duration_ms": 293295,
+      "name": "2000 Blacks Got to Be Free (Edit)",
+      "url": "https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 219989,
       "name": "Shadows of The East",
       "url": "https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 329240,
+      "name": "Vibin' W/Ayers",
+      "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 300280,
-      "name": "Sunshine - Demo",
-      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 211977,
       "name": "Synchronize Vibration",
       "url": "https://open.spotify.com/track/7FLT4dXxZMaapLcNn4SgBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 300280,
+      "name": "Sunshine - Demo",
+      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
       "duration_ms": 305800,
       "name": "Searching",
       "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eardrum",
-        "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "In the Mood (feat. Kanye West & Roy Ayers)",
-      "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
     },
     {
       "added_at": null,
@@ -811,6 +787,50 @@
       "duration_ms": 281186,
       "name": "Wasting",
       "url": "https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Vibes / Bad Vibes",
+        "url": "https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby"
+      },
+      "artists": [
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 32623,
+      "name": "The Bad Vibes Intro",
+      "url": "https://open.spotify.com/track/6oDnofOSeVbv8RJPg6rGpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eardrum",
+        "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "In the Mood (feat. Kanye West & Roy Ayers)",
+      "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
     },
     {
       "added_at": null,
@@ -860,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 32623,
-      "name": "The Bad Vibes Intro",
-      "url": "https://open.spotify.com/track/6oDnofOSeVbv8RJPg6rGpW"
+      "duration_ms": 105924,
+      "name": "Bands Jukes",
+      "url": "https://open.spotify.com/track/1VoHbA54cMaIBxCqNoO2HT"
     },
     {
       "added_at": null,
@@ -916,29 +936,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 495800,
-      "name": "Don't Stop The Feeling",
-      "url": "https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Vibes / Bad Vibes",
-        "url": "https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby"
-      },
-      "artists": [
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 105924,
-      "name": "Bands Jukes",
-      "url": "https://open.spotify.com/track/1VoHbA54cMaIBxCqNoO2HT"
+      "duration_ms": 352333,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/3wqjuBowiWVFG6vCFJQfjQ"
     },
     {
       "added_at": null,
@@ -968,29 +968,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 352333,
-      "name": "What You Won't Do For Love",
-      "url": "https://open.spotify.com/track/3wqjuBowiWVFG6vCFJQfjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Vibes / Bad Vibes",
-        "url": "https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby"
-      },
-      "artists": [
-        {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 94926,
-      "name": "Bounce Keepers",
-      "url": "https://open.spotify.com/track/3NXniwMLRqDltNT065vM3W"
+      "duration_ms": 495800,
+      "name": "Don't Stop The Feeling",
+      "url": "https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4"
     }
   ],
   "unique_name": "This Is Roy Ayers",

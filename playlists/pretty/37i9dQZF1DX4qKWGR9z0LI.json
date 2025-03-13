@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Christian Alicea",
-  "num_followers": 1915875,
+  "num_followers": 1915851,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-05 02:34:49",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Mal Necesario",
-      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
-    },
-    {
-      "added_at": "2025-03-05 02:34:49",
-      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+    },
+    {
+      "added_at": "2025-03-05 02:34:49",
+      "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Mal Necesario",
+      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
     },
     {
       "added_at": "2025-03-05 02:34:49",
@@ -1423,18 +1423,22 @@
     {
       "added_at": "2025-03-05 02:34:49",
       "album": {
-        "name": "La Foto, el Video, la Chicaner\u00eda",
-        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+        "name": "Esta Vida (Salsa Version)",
+        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
       "artists": [
         {
-          "name": "Orquesta Calibre",
-          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
         }
       ],
-      "duration_ms": 341839,
-      "name": "Charrupi",
-      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+      "duration_ms": 223439,
+      "name": "Esta Vida (Salsa Version)",
+      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
     },
     {
       "added_at": "2025-03-05 02:34:49",
@@ -1455,22 +1459,18 @@
     {
       "added_at": "2025-03-05 02:34:49",
       "album": {
-        "name": "Esta Vida (Salsa Version)",
-        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
+        "name": "La Foto, el Video, la Chicaner\u00eda",
+        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
+          "name": "Orquesta Calibre",
+          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
         }
       ],
-      "duration_ms": 223439,
-      "name": "Esta Vida (Salsa Version)",
-      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+      "duration_ms": 341839,
+      "name": "Charrupi",
+      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
     },
     {
       "added_at": "2025-03-05 02:34:49",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2025-03-05 02:34:49",
       "album": {
+        "name": "Tesoro M\u00edo",
+        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
+      },
+      "artists": [
+        {
+          "name": "Yan Collazo",
+          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242932,
+      "name": "Tesoro M\u00edo",
+      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+    },
+    {
+      "added_at": "2025-03-05 02:34:49",
+      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
-    },
-    {
-      "added_at": "2025-03-05 02:34:49",
-      "album": {
-        "name": "Tesoro M\u00edo",
-        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
-      },
-      "artists": [
-        {
-          "name": "Yan Collazo",
-          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242932,
-      "name": "Tesoro M\u00edo",
-      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
     },
     {
       "added_at": "2025-03-05 02:34:49",

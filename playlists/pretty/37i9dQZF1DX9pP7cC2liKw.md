@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,985 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,136 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 26 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 |
 | 27 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
 | 28 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 |
-| 29 | [Move on Up \- Live](https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Live at KEXP!](https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69) | 5:00 |
-| 30 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
+| 29 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
+| 30 | [Move on Up \- Live](https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Live at KEXP!](https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69) | 5:00 |
 | 31 | [Euphoric Avenue](https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:54 |
 | 32 | [Rúmbala \- Jiony Remix](https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Rúmbala \(Jiony Remix\)](https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN) | 3:51 |
 | 33 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 42 | [Amor Entre Mujer](https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Amor Entre Mujer](https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO) | 4:32 |
 | 43 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
 | 44 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
-| 45 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
-| 46 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
+| 45 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
+| 46 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
 | 47 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 48 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 |
 | 49 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 65 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 66 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
 | 67 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
-| 68 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
-| 69 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
+| 68 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
+| 69 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
 | 70 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
 
 Snapshot ID: `Z5xXZgAAAABqe6H5DU9+IPWcPc5eNlcX`

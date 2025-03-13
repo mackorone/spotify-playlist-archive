@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22072,
+  "num_followers": 22070,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAD+s7SizGy9CDvHgdWMg4LQ",
+  "snapshot_id": "Z899AAAAAACD78t6eBQ5xJ+KYGTvqDED",
   "tracks": [
     {
       "added_at": null,
@@ -666,11 +666,15 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 234239,
-      "name": "OSMOSIS",
-      "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": null,
@@ -727,6 +731,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 234239,
+      "name": "OSMOSIS",
+      "url": "https://open.spotify.com/track/1mhugCOgWL9MLBvNYT5y9d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -747,50 +791,6 @@
       "duration_ms": 185806,
       "name": "Menace",
       "url": "https://open.spotify.com/track/6P0qxnyxLL6D7Gmm8ZMlF2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "Stuck (feat. Arin Ray)",
-      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 225252,
       "name": "PUT IN WORK (feat. Tommy Newport)",
       "url": "https://open.spotify.com/track/6f0WsFJtn4Ptcil4koEfQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "Stuck (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 173589,
       "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,22 @@
       "duration_ms": 290035,
       "name": "Mecca (with JID & EARTHGANG)",
       "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 240288,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
     },
     {
       "added_at": null,
@@ -1103,18 +1119,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+        "name": "Spilligion",
+        "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
       "artists": [
         {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jurdan Bryant",
+          "url": "https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1"
+        },
+        {
+          "name": "Hollywood JB",
+          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
         }
       ],
-      "duration_ms": 240288,
-      "name": "ALL EYES ON ME",
-      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
+      "duration_ms": 146715,
+      "name": "Jupiter (with Mereba & JID feat. EARTHGANG, Jurdan Bryant, Hollywood JB & Benji.)",
+      "url": "https://open.spotify.com/track/0je2CwkO13cSNRJzastZKB"
     },
     {
       "added_at": null,
@@ -1131,34 +1171,6 @@
       "duration_ms": 179493,
       "name": "Bank",
       "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SNAKEGANG EP Volume 1",
-        "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "SNAKEGANG",
-          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 221561,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/6r76yMtgYR4Bisq6zfvNLt"
     },
     {
       "added_at": null,

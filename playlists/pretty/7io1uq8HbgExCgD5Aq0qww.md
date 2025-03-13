@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain]
 
 > Stories, tales, ballads, etc
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 30 songs - 1 hr 54 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 31 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/7io1uq8HbgExCgD5Aq0qww.md) - [plain]
 | 28 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 |
 | 29 | [You Don't Mess Around with Jim](https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 3:04 |
 | 30 | [Lake Pontchartrain](https://open.spotify.com/track/079xRk9N70NzB2vF0oMRRj) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 3:36 |
+| 31 | [Maya the Psychic](https://open.spotify.com/track/1tg5c5gVzzpSHUsIWbEl8v) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 3:01 |
 
-Snapshot ID: `AAAAJcLshoZSVlqkDYOzHYTbS6uokZ9Q`
+Snapshot ID: `AAAAJq0uVsf49SCg8xqzKHtSbeBat+W6`

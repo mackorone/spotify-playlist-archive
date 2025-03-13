@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ashley Cooke and Joe Jonas",
-  "num_followers": 218068,
+  "num_followers": 218130,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-02-21 05:00:41",
       "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2025-02-21 05:00:41",
+      "album": {
         "name": "Life Goes On (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 210208,
       "name": "Life Goes On (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
-    },
-    {
-      "added_at": "2025-02-21 05:00:41",
-      "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2025-02-21 05:00:41",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-02-21 05:00:41",
       "album": {
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "added_at": "2025-02-21 05:00:41",
+      "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:41",
-      "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "added_at": "2025-02-21 05:00:41",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2025-02-21 05:00:41",
       "album": {
-        "name": "What If I Don't",
-        "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
-      },
-      "artists": [
-        {
-          "name": "Shaylen",
-          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
-        }
-      ],
-      "duration_ms": 201544,
-      "name": "What If I Don't",
-      "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
-    },
-    {
-      "added_at": "2025-02-21 05:00:41",
-      "album": {
-        "name": "Danielle",
-        "url": "https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 198334,
-      "name": "You Could",
-      "url": "https://open.spotify.com/track/2HyCPU7CZOdmhyZPIeOPWy"
-    },
-    {
-      "added_at": "2025-02-21 05:00:41",
-      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -1115,18 +1083,34 @@
     {
       "added_at": "2025-02-21 05:00:41",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
+        "name": "Danielle",
+        "url": "https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 164264,
-      "name": "Park",
-      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
+      "duration_ms": 198334,
+      "name": "You Could",
+      "url": "https://open.spotify.com/track/2HyCPU7CZOdmhyZPIeOPWy"
+    },
+    {
+      "added_at": "2025-02-21 05:00:41",
+      "album": {
+        "name": "What If I Don't",
+        "url": "https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC"
+      },
+      "artists": [
+        {
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+        }
+      ],
+      "duration_ms": 201544,
+      "name": "What If I Don't",
+      "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
     },
     {
       "added_at": "2025-02-21 05:00:41",
@@ -1183,6 +1167,22 @@
       "duration_ms": 156813,
       "name": "Hurt (with Jelly Roll)",
       "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
+    },
+    {
+      "added_at": "2025-02-21 05:00:41",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 164264,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
     },
     {
       "added_at": "2025-02-21 05:00:41",

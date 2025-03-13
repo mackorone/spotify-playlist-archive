@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,081 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,200 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 47 | [Me Mata La Soledad](https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 4:37 |
 | 48 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
 | 49 | [Llegaste A Mi](https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Todo A Su Tiempo](https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk) | 4:56 |
-| 50 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
-| 51 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
-| 52 | [Amiga](https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:39 |
-| 53 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
+| 50 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
+| 51 | [Amiga](https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:39 |
+| 52 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
+| 53 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 54 | [He Tratado](https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:03 |
 | 55 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
 | 56 | [Lo Mío Es Amor](https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 5:09 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 63 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 64 | [Lloraras](https://open.spotify.com/track/38TXGZ4G7c9jBCBrwV1OrB) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:41 |
 | 65 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
-| 66 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
-| 67 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 |
+| 66 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 |
+| 67 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
 | 68 | [Necesito Amarte](https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 4:53 |
 | 69 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
 | 70 | [Dile a Ella](https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [A Pesar De Todo](https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t) | 5:05 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 73 | [Magdalena, Mi Amor \(Quimbara\)](https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:17 |
 | 74 | [Ese Hombre](https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:39 |
 | 75 | [Eres La Unica](https://open.spotify.com/track/07YmP86ySInF4VLZnAOESp) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 6:12 |
-| 76 | [Ojos Chinos](https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 4:21 |
-| 77 | [Llorando](https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4) | [Orlando Collado](https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh) | [Sus Exitos](https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E) | 5:04 |
+| 76 | [Llorando](https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4) | [Orlando Collado](https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh) | [Sus Exitos](https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E) | 5:04 |
+| 77 | [Ojos Chinos](https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 4:21 |
 | 78 | [Puerto Rico](https://open.spotify.com/track/7hsC2wLaYgeKabMr6JGRzE) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 4:35 |
 | 79 | [Date un Chance](https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:46 |
 | 80 | [Zodiaco](https://open.spotify.com/track/1RomkFIk4vXjvmjJaoOGc2) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:22 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 95 | [Hoy Me He Vuelto a Enamorar](https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [Con Amor Se Gana](https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV) | 4:17 |
 | 96 | [Penas Penas](https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 5:06 |
 | 97 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
-| 98 | [Me Tengo Que Ir](https://open.spotify.com/track/3AK05RIuu30jqJ40cfOxLD) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Me Tengo Que Ir](https://open.spotify.com/album/7mdskxE2Kr6O5DWiWw3RB2) | 4:40 |
-| 99 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
-| 100 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
+| 98 | [Aquel Lugar](https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL) | 3:53 |
+| 99 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
+| 100 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 
 Snapshot ID: `ZpGCDAAAAAB28qYz/qQ0uBuejXoBJ/M4`

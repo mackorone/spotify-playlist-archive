@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa BESS.
 
-570 songs - 1 day 4 hr 25 min
+571 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 | 2024-11-28 | 2025-02-21 |
 | [Anteeks minä](https://open.spotify.com/track/5WmvVkCh3wIhoSRB0eO5eU) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Anteeks minä](https://open.spotify.com/album/1ZvR4KVLqbLLLovSsywpat) | 3:10 | 2025-02-20 | 2025-03-07 |
 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 | 2024-12-12 | 2025-01-10 |
+| [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-12 |  |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-07-02 | 2024-08-02 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 | 2024-10-25 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-23 | 2025-03-06 |

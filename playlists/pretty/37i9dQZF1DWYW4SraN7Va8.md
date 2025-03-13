@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,604 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,711 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 10 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 11 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 | 12 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
-| 13 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
-| 14 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
+| 13 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
+| 14 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 15 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 16 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 17 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 45 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 46 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 47 | [Surrender](https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Essential Cheap Trick](https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR) | 4:13 |
-| 48 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
-| 49 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
+| 48 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
+| 49 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
 | 50 | [Rainbow In The Dark](https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2wkqGL9LivRgE9K523kizA) | 4:14 |
 | 51 | [Dirty Little Thing](https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 3:56 |
 | 52 | [Automatic Sun](https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:10 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 64 | [No More, No More](https://open.spotify.com/track/0dJGtR6vhnxkaWyg2FOuy5) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband \(Deluxe Edition\)](https://open.spotify.com/album/19oa2tIRvZg4dSUD8Dyt8t) | 5:38 |
 | 65 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
 | 66 | [Old Time Rock n\\' Roll](https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY) | [Sam Morrison and Turn The Page](https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl) | [A Tribute to the Music of Bob Seger](https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU) | 3:10 |
-| 67 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
-| 68 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
-| 69 | [Bad Moon Rising](https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:21 |
-| 70 | [Stone Cold Killer](https://open.spotify.com/track/19upAEqeqyWplsN9UXcA12) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Stone Cold Killer](https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb) | 3:08 |
-| 71 | [Leather Boyz With Electric Toyz](https://open.spotify.com/track/5FjNOCy01diVS2ikWHZ1Ik) | [Pretty Boy Floyd](https://open.spotify.com/artist/6wnbsasRwmhUld5BBDfbKa) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:08 |
-| 72 | [Paso Del Norte](https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv) | [Jenny Don't And The Spurs](https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk) | [Call of the Road](https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr) | 3:48 |
+| 67 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
+| 68 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
+| 69 | [Stone Cold Killer](https://open.spotify.com/track/19upAEqeqyWplsN9UXcA12) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Stone Cold Killer](https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb) | 3:08 |
+| 70 | [Leather Boyz With Electric Toyz](https://open.spotify.com/track/5FjNOCy01diVS2ikWHZ1Ik) | [Pretty Boy Floyd](https://open.spotify.com/artist/6wnbsasRwmhUld5BBDfbKa) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:08 |
+| 71 | [Paso Del Norte](https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv) | [Jenny Don't And The Spurs](https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk) | [Call of the Road](https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr) | 3:48 |
+| 72 | [I'm So Free](https://open.spotify.com/track/71T5P0hVVyAq871Ml864SX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I'm So Free](https://open.spotify.com/album/1dy58qBMnCNkv3QlQtuFgP) | 2:32 |
 | 73 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
-| 74 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
-| 75 | [I'm So Free](https://open.spotify.com/track/71T5P0hVVyAq871Ml864SX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I'm So Free](https://open.spotify.com/album/1dy58qBMnCNkv3QlQtuFgP) | 2:32 |
+| 74 | [RISE](https://open.spotify.com/track/2HSzFijVYyUpdw0Aezukdn) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [SIX](https://open.spotify.com/album/4u8ShfrnVWBOKmY9JK9fg0) | 4:35 |
+| 75 | [Bad Moon Rising](https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:21 |
 
 Snapshot ID: `Z8qLdQAAAAC71Q73CqUsEOhf8TqaGP/l`

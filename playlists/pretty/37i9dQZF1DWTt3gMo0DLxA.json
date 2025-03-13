@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Sankranthiki Vasthunnam",
-  "num_followers": 313396,
+  "num_followers": 314092,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8G0dgAAAAA7fzWVPfjB9rwJoJHjIAcX",
+  "snapshot_id": "Z9F2WAAAAAA8qQ9UDEXiGRQC1RJl9fyK",
   "tracks": [
     {
       "added_at": "2025-01-06 08:20:46",
@@ -189,30 +189,6 @@
       "url": "https://open.spotify.com/track/7peNClR7CbF9bDYCmOiy4L"
     },
     {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
-      },
-      "artists": [
-        {
-          "name": "Naresh Iyer",
-          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
-        },
-        {
-          "name": "Nadeesh",
-          "url": "https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE"
-        },
-        {
-          "name": "U.V.Jackey",
-          "url": "https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn"
-        }
-      ],
-      "duration_ms": 287823,
-      "name": "Nenu Nuvvantu",
-      "url": "https://open.spotify.com/track/0X0Y2AnYuIdn9arB8P6EB4"
-    },
-    {
       "added_at": "2024-06-05 09:12:34",
       "album": {
         "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
@@ -291,6 +267,34 @@
       "duration_ms": 349653,
       "name": "Manasa",
       "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
+    },
+    {
+      "added_at": "2025-03-12 11:56:08",
+      "album": {
+        "name": "Premalo (From \"Court\")",
+        "url": "https://open.spotify.com/album/6YLvtxc4R24hRMgPJ0kYhv"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "duration_ms": 331489,
+      "name": "Premalo (From \"Court\")",
+      "url": "https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z"
     },
     {
       "added_at": "2025-02-14 06:50:34",

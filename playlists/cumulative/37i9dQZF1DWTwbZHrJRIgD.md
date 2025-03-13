@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-290 songs - 17 hr 22 min
+291 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2023-03-03 |  |
 | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/track/709Eo5HgTz3di5xVkTWr4b) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/album/0qyUqa11Zf6m5hXjogpSo9) | 3:22 | 2023-02-24 | 2023-03-04 |
 | [Mahi Ve](https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc) | 4:44 | 2023-02-20 | 2023-03-16 |
+| [Mahiya](https://open.spotify.com/track/4qOtDofZEAOYJ1Dq9GXgiM) | [Suzzane D'Mello](https://open.spotify.com/artist/6uOKeyhLuByJRekqUVSkwW) | [Awarapan \(Original Soundtrack\)](https://open.spotify.com/album/2rgMLBPzMGrnxj8NaDaIwf) | 4:24 | 2025-03-12 |  |
 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 | 2023-07-03 | 2024-05-09 |
 | [Maiyya](https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Do Patti](https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr) | 3:34 | 2024-12-01 |  |
 | [Maiyya Mainu](https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Jersey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC) | 3:51 | 2023-12-11 |  |
@@ -191,7 +192,7 @@
 | [Naina Da Kya Kasoor](https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h) | 3:30 | 2023-12-11 |  |
 | [Naina Da Kya Kasoor](https://open.spotify.com/track/4JQxGJ8jsKW8pOUVoAgOZr) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 3:30 | 2023-02-20 | 2023-03-18 |
 | [Nikat \- Dance Version](https://open.spotify.com/track/4BZrDyKyD9wyOLtPJgMx9d) | [Haroon\-Gavin](https://open.spotify.com/artist/61TMIueHFQCPav1PmET3ce), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Kill \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50WGXLzYqSHJQhu15Vv7is) | 3:00 | 2024-07-04 | 2024-08-23 |
-| [O Beliya](https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 2:58 | 2024-10-21 |  |
+| [O Beliya](https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 2:58 | 2024-10-21 | 2025-03-13 |
 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 | 2023-03-17 |  |
 | [O’Sajna](https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:28 | 2024-03-19 | 2024-04-10 |
 | [P PAA K](https://open.spotify.com/track/4FaLSd64sSJ41WE6WhnUCw) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Siddhant Kaushal](https://open.spotify.com/artist/2qpgJ59UEgeQI5KexOcENV) | [P PAA K](https://open.spotify.com/album/1Kcckfo4mH7wwa6bEqdyZF) | 3:13 | 2022-12-06 | 2023-02-11 |

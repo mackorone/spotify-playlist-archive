@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruno Caliman, Luan Santana",
-  "num_followers": 144496,
+  "num_followers": 144494,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "N\u00e3o Somos Mais",
+        "url": "https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Torres",
+          "url": "https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy"
+        }
+      ],
+      "duration_ms": 250431,
+      "name": "N\u00e3o Somos Mais",
+      "url": "https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Simplesmente",
         "url": "https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 222986,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "N\u00e3o Somos Mais",
-        "url": "https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ"
-      },
-      "artists": [
-        {
-          "name": "Matheus Torres",
-          "url": "https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy"
-        }
-      ],
-      "duration_ms": 250431,
-      "name": "N\u00e3o Somos Mais",
-      "url": "https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Frejat Trio Ao Vivo no Teatro Alcione Ara\u00fajo",
-        "url": "https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
       },
@@ -291,22 +275,18 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Can\u00e7\u00f5es Para Um Novo Mundo",
-        "url": "https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5"
+        "name": "Frejat Trio Ao Vivo no Teatro Alcione Ara\u00fajo",
+        "url": "https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS"
       },
       "artists": [
         {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        },
-        {
-          "name": "Hecto",
-          "url": "https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9"
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
         }
       ],
-      "duration_ms": 192259,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8"
+      "duration_ms": 170723,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -327,6 +307,26 @@
       "duration_ms": 211254,
       "name": "Amor Em V\u00e3o",
       "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Can\u00e7\u00f5es Para Um Novo Mundo",
+        "url": "https://open.spotify.com/album/0tTtokpLm9C1CvMD0JWIA5"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "name": "Hecto",
+          "url": "https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9"
+        }
+      ],
+      "duration_ms": 192259,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/16Ll3Z8PNf86gll9zV5Lq8"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Sonora",
-        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 213714,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "S\u00f3 n\u00f3s 2",
         "url": "https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 218589,
       "name": "S\u00f3 n\u00f3s 2",
       "url": "https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Sonora",
+        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 213714,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
       },
       "artists": [
         {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 254062,
-      "name": "Por Enquanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -559,22 +559,6 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -627,6 +611,22 @@
       "duration_ms": 193469,
       "name": "Tela Quente - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 254062,
+      "name": "Por Enquanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
-      },
-      "artists": [
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 216860,
-      "name": "Estive com Stevie",
-      "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
@@ -883,34 +867,18 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
       },
       "artists": [
         {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         }
       ],
-      "duration_ms": 149646,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Power Trio",
-        "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
-      },
-      "artists": [
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "No Delta dos Rios",
-      "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
+      "duration_ms": 216860,
+      "name": "Estive com Stevie",
+      "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -927,6 +895,22 @@
       "duration_ms": 226186,
       "name": "Outro Mundo, Outro Lugar",
       "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Power Trio",
+        "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "No Delta dos Rios",
+      "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -1003,6 +987,22 @@
       "duration_ms": 273488,
       "name": "Espetacular",
       "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 149646,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "P\u00e1ssaro Livre",
-        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "P\u00e1ssaro Livre",
-      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Acustico Dr. Sin 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 274866,
       "name": "Wake Me Up - Ao Vivo",
       "url": "https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "P\u00e1ssaro Livre",
+        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "P\u00e1ssaro Livre",
+      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "A Cidade Sumiu",
-        "url": "https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ"
-      },
-      "artists": [
-        {
-          "name": "Cadu Pereira",
-          "url": "https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP"
-        }
-      ],
-      "duration_ms": 177458,
-      "name": "A Cidade Sumiu",
-      "url": "https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 166615,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "A Cidade Sumiu",
+        "url": "https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ"
+      },
+      "artists": [
+        {
+          "name": "Cadu Pereira",
+          "url": "https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP"
+        }
+      ],
+      "duration_ms": 177458,
+      "name": "A Cidade Sumiu",
+      "url": "https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ"
     },
     {
       "added_at": "2025-03-07 03:01:18",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 156270,
+  "num_followers": 156290,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAC99e+rWiYXrfQsR5qnGFF3",
+  "snapshot_id": "Z899AAAAAAAf7FGmLl/SXw2DbPB5WcD6",
   "tracks": [
     {
       "added_at": null,
@@ -219,34 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constant",
-        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Anthony Gargiula",
-          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 292185,
-      "name": "Constant (feat. Chandler Moore)",
-      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Name of Jesus (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o"
       },
@@ -287,6 +259,34 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/7JxHM7ioNtHLF2pJLcXHkp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 292185,
+      "name": "Constant (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 225768,
       "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
       "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
     },
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jubilee: Juneteenth Edition",
-        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 299509,
-      "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
-      "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 625062,
       "name": "Fear Is Not My Future (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 299509,
+      "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
     },
     {
       "added_at": null,
@@ -907,30 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
-        }
-      ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
@@ -1059,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
@@ -1068,17 +1048,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Todd Galberth",
-          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 205740,
-      "name": "Questions (feat. Todd Galberth)",
-      "url": "https://open.spotify.com/track/1ZEaMn36IKUNFAaXPMYww8"
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     },
     {
       "added_at": null,
@@ -1171,6 +1147,30 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "Questions (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/1ZEaMn36IKUNFAaXPMYww8"
     },
     {
       "added_at": null,

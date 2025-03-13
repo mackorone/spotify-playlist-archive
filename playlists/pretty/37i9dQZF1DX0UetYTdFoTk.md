@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover:  Tamer Ashour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,362 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,390 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 22 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 |
 | 23 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 |
 | 24 | [Ma Baaref](https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:02 |
-| 25 | [Yetalemo](https://open.spotify.com/track/7FgBRZYvvEqyRNvnMX8QHE) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Kol Hayaty](https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC) | 3:56 |
-| 26 | [Albi Ashe2ha \- Remake Version](https://open.spotify.com/track/40fFiVk4mt0qRYFb2laAFC) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Albi Ashe2ha \(Remake Version\)](https://open.spotify.com/album/7CIRsb5Dvy3VZhFby5gLW0) | 3:50 |
+| 25 | [Albi Ashe2ha \- Remake Version](https://open.spotify.com/track/40fFiVk4mt0qRYFb2laAFC) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Albi Ashe2ha \(Remake Version\)](https://open.spotify.com/album/7CIRsb5Dvy3VZhFby5gLW0) | 3:50 |
+| 26 | [Yetalemo](https://open.spotify.com/track/7FgBRZYvvEqyRNvnMX8QHE) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Kol Hayaty](https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC) | 3:56 |
 | 27 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 |
-| 28 | [Esmek Eh](https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Esmek Eh](https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU) | 3:10 |
-| 29 | [أنا وبس](https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا وبس](https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ) | 4:08 |
+| 28 | [أنا وبس](https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا وبس](https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ) | 4:08 |
+| 29 | [Esmek Eh](https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Esmek Eh](https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU) | 3:10 |
 | 30 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 31 | [Leena Ra2sa](https://open.spotify.com/track/612qZheYzgDboDZGz2iJDv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Leena Ra2sa](https://open.spotify.com/album/79QFJVtyVVreerzC2ysapQ) | 3:51 |
 | 32 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 |

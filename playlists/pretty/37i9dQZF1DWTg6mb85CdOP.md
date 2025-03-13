@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,769 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,767 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 40 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 41 | [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 |
 | 42 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
-| 43 | [Cartagena](https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:32 |
-| 44 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 |
+| 43 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 |
+| 44 | [Cartagena](https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:32 |
 | 45 | [My Love for You](https://open.spotify.com/track/7mgaHZBHLNlxBnJ5uR64bf) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [Come Away with ESG](https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid) | 2:57 |
 | 46 | [UZI](https://open.spotify.com/track/2wDFg2Kios46zh7nnObqOr) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:06 |
 | 47 | [Del Oro](https://open.spotify.com/track/3YGFZ8rIsAA5zQvvoeCaW0) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 6:14 |

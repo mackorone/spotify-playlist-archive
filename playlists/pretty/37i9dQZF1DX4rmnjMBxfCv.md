@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,640 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,672 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
+| 1 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 2 | [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 |
 | 3 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |
 | 4 | [Ah Ya Albi \- Ajna \(BE\), Samm \(BE\) Edit](https://open.spotify.com/track/6DmQ5PdNr7lxOkjWAxQiyI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Ah Ya Albi \(Ajna & Samm Edit\)](https://open.spotify.com/album/25lAtNYLwyPQENO19j8aWo) | 5:35 |

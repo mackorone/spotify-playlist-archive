@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 51523,
+  "num_followers": 51547,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABUA7X45H5u03gRYMwq8uHr",
+  "snapshot_id": "Z899AAAAAAA165tkCWOTvPVMoX6TwPoa",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 227810,
+      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 227810,
-      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
     },
     {
       "added_at": null,

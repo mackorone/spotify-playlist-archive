@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.",
-  "num_followers": 5345,
+  "num_followers": 5346,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 216112,
+      "name": "La tua canzone - Recorded at Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "EMPELICULADOS - Spotify Singles",
         "url": "https://open.spotify.com/album/1L88SIO4NmlW9TeY5gbCLb"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 222245,
       "name": "EMPELICULADOS - Spotify Singles",
       "url": "https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 216112,
-      "name": "La tua canzone - Recorded at Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1042,15 +1042,11 @@
         {
           "name": "Twin Shadow",
           "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        },
-        {
-          "name": "BLACKPAW",
-          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
-      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
+      "duration_ms": 173023,
+      "name": "Telepat\u00eda - Spotify Singles",
+      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1202,11 +1198,15 @@
         {
           "name": "Twin Shadow",
           "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
         }
       ],
-      "duration_ms": 173023,
-      "name": "Telepat\u00eda - Spotify Singles",
-      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
+      "duration_ms": 250000,
+      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
+      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     },
     {
       "added_at": "2024-11-07 00:01:00",

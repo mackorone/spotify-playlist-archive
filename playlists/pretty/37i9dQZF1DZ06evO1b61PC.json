@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11184,
+  "num_followers": 11185,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAD770pEbrh7aa12YiIrTTWR",
+  "snapshot_id": "Z899AAAAAAByh0I/u1jD8u2UKJUFBm3+",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Meet Again",
-        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 201199,
-      "name": "We Will Meet Again",
-      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Rider (feat. Wrabel)",
         "url": "https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 218000,
       "name": "Moon Rider (feat. Wrabel)",
       "url": "https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Will Meet Again",
+        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 201199,
+      "name": "We Will Meet Again",
+      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
       "added_at": null,
@@ -387,6 +387,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "The Chain Gang Of 1974",
+          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/7AQsECqHNK4QfO7LDKqiAm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Want It All (feat. Evalyn)",
         "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
       },
@@ -419,74 +487,6 @@
       "duration_ms": 100625,
       "name": "3 Tattoos (Rishi\u2019s Interlude)",
       "url": "https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "The Chain Gang Of 1974",
-          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/7AQsECqHNK4QfO7LDKqiAm"
     },
     {
       "added_at": null,

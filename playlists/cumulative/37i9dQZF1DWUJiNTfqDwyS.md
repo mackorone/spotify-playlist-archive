@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Bring Me The Horizon
 
-192 songs - 13 hr 30 min
+193 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Unholy](https://open.spotify.com/track/67b6lPMr7PSvdcrzl4NjVS) | [Jonathan Young](https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Lee Albrecht](https://open.spotify.com/artist/3bwSP80xbrpxXlfSAzysAJ) | [Unholy](https://open.spotify.com/album/6YorYFOVCI1kGESyKhXfHu) | 2:41 | 2022-12-12 | 2023-02-20 |
 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 | 2022-06-13 | 2023-05-18 |
 | [Voyage Voyage](https://open.spotify.com/track/75YX0XH3dLamMxfut44LOo) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Voyage Voyage](https://open.spotify.com/album/3zjOOho4Y5Rcc6LUK8yAhl) | 4:18 | 2022-05-25 | 2022-07-29 |
+| [What Was I Made For](https://open.spotify.com/track/18pBu1WpO9z2UxEQrrJAfy) | [Iress](https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc) | [What Was I Made For](https://open.spotify.com/album/6DhjsbMIVWuKDfClatRT8H) | 3:40 | 2025-03-12 |  |
 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/4n6UcEo3ZJU50iN8NgzMjh) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [When Doves Cry](https://open.spotify.com/album/0ws2cJaGcQUDvlN9oKok3o) | 3:52 | 2022-05-25 | 2022-07-29 |
 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 | 2022-06-13 | 2024-04-19 |
 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 | 2022-06-13 | 2023-02-20 |
@@ -195,7 +196,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 | 2022-05-25 |  |
 | [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-29 |  |
 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 | 2022-05-25 |  |
-| [Wrecking Ball](https://open.spotify.com/track/1dHklWqi0PRH51Xb7WiiYu) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 4:13 | 2024-04-01 |  |
+| [Wrecking Ball](https://open.spotify.com/track/1dHklWqi0PRH51Xb7WiiYu) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 4:13 | 2024-04-01 | 2025-03-13 |
 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 | 2024-04-01 |  |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 | 2023-02-19 |  |
 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 | 2023-02-19 | 2023-08-31 |

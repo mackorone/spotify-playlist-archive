@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 113186,
+  "num_followers": 113215,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 146481,
+      "name": "CORSO",
+      "url": "https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 152250,
       "name": "West",
       "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 146481,
-      "name": "CORSO",
-      "url": "https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD"
     },
     {
       "added_at": "2022-10-03 04:00:00",

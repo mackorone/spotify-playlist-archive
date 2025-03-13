@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 29 min
+91 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amores Fingidos](https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:59 | 2022-06-01 | 2023-05-26 |
 | [Arboles De La Barranca](https://open.spotify.com/track/0kUbjY97T4F4GLjYPdGUek) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Ayer, Hoy Y Siempre Con..\. Carlos Y José](https://open.spotify.com/album/53bk8gYAjNAtz9s6uEtOB7) | 2:21 | 2022-06-01 | 2023-09-26 |
 | [Arboles De La Barranca](https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Retro Chingonas](https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe) | 2:21 | 2022-08-07 | 2022-09-21 |
-| [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 | 2022-07-27 | 2023-11-11 |
+| [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 | 2022-07-27 |  |
 | [Asesino A Sueldo](https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [¡Ay Que Triste!](https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5) | 3:06 | 2022-11-03 |  |
 | [Betillo Araujo](https://open.spotify.com/track/3JrJ5eReaNEUrhdNLC7KAk) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:09 | 2024-01-31 | 2024-07-21 |
 | [Beto Molina](https://open.spotify.com/track/23IFCQgkLCcfRTXBYIUTFS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:30 | 2022-06-01 | 2022-10-13 |
@@ -59,8 +59,9 @@
 | [Flor De Las Flores](https://open.spotify.com/track/41ztdXuWnrY8B9Z5tKPzTt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Éxitos Con Carlos Y José](https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh) | 2:08 | 2022-08-19 | 2023-05-20 |
 | [Gabino Barrera](https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:27 | 2022-06-01 | 2023-11-11 |
 | [Gabino Barrera](https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:27 | 2023-11-10 |  |
-| [Jacinto el Tullido](https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 3:52 | 2022-10-04 |  |
+| [Jacinto el Tullido](https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 3:52 | 2022-10-04 | 2025-03-13 |
 | [Jacinto el Tullido](https://open.spotify.com/track/1WAaIX3DOlmBMfLD2tnNXV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:53 | 2022-06-01 | 2022-10-03 |
+| [Jacinto el Tullido](https://open.spotify.com/track/3eKPWrgEf4r4i6XDtoUZrd) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:53 | 2025-03-13 |  |
 | [Jacinto Treviño](https://open.spotify.com/track/34vgrochxz5O9QPrz1peLq) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:23 | 2022-06-01 | 2023-11-11 |
 | [Jacinto Treviño](https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:23 | 2023-12-18 | 2023-12-20 |
 | [Jorge Y El Comandante](https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:44 | 2022-06-03 |  |
@@ -97,6 +98,6 @@
 | [Tengo a Mi Lupe](https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Primeros 20 Éxitos](https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op) | 3:23 | 2024-12-20 |  |
 | [Tengo A Mi Lupe Aka Mi Lupita](https://open.spotify.com/track/0kbnsN5La8x5adu0AeebTT) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tengo A Mi Lupe](https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD) | 3:23 | 2022-06-01 | 2024-09-25 |
 | [Una Noche Serena Y Oscura](https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Noche Serena Y Obscura](https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A) | 4:09 | 2022-06-01 | 2023-06-28 |
-| [Árboles de la Barranca](https://open.spotify.com/track/0DCWVnZP7u6h0FcjqE1wVB) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 2:21 | 2023-11-10 |  |
+| [Árboles de la Barranca](https://open.spotify.com/track/0DCWVnZP7u6h0FcjqE1wVB) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 2:21 | 2023-11-10 | 2025-03-13 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

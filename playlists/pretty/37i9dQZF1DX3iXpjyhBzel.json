@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Jadson Moreno",
-  "num_followers": 1125314,
+  "num_followers": 1125562,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
         "name": "Esperan\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 319866,
       "name": "Esperan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
-        "name": "Eu Te Entrego o Meu Dia",
-        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 199259,
-      "name": "Eu Te Entrego o Meu Dia",
-      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "Si\u00e3o / Derrama (Ao Vivo)",
         "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 508733,
       "name": "Si\u00e3o / Derrama - Ao Vivo",
       "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
     },
     {
       "added_at": "2025-02-21 16:17:21",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-21 16:17:21",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
-    },
-    {
-      "added_at": "2025-02-21 16:17:21",
-      "album": {
         "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 377246,
       "name": "O C\u00e9u Responde Diferente - Ao Vivo",
       "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
+    },
+    {
+      "added_at": "2025-02-21 16:17:21",
+      "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2025-02-21 16:17:21",

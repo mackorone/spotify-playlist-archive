@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=\-\_YTdqB\-SviFo5WYECAZ9A">Franja Du Plessis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,381 likes - 76 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,392 likes - 76 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 19 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 |
 | 20 | [Helder Hoek van die Heelal](https://open.spotify.com/track/77cyqEhW4bDwYA9gKY1Rsn) | [Philip Godfrey](https://open.spotify.com/artist/1Y1OPJQidfekOKUu3YCqi7) | [Helder Hoek van die Heelal](https://open.spotify.com/album/1q91AhOVX7F3DhOTEvvT17) | 2:55 |
 | 21 | [Lui Voete](https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Lui Voete](https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM) | 3:02 |
-| 22 | [Sê Dit Harder \- JaKeS Remix](https://open.spotify.com/track/5i5zOOiZGAIPQWly1DU7Yf) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS), [Jakes](https://open.spotify.com/artist/5pEZP5C65VUtzbkZCLAMgS) | [Sê Dit Harder \(JaKeS Remix\)](https://open.spotify.com/album/6mH2ODPPdoi2RFDhxOXoXX) | 3:35 |
+| 22 | [Sê Dit Harder \- JaKeS Remix](https://open.spotify.com/track/5i5zOOiZGAIPQWly1DU7Yf) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS) | [Sê Dit Harder \(JaKeS Remix\)](https://open.spotify.com/album/6mH2ODPPdoi2RFDhxOXoXX) | 3:35 |
 | 23 | [Ware Liefde](https://open.spotify.com/track/49dLyQyIaMoN5G5GA7ctLq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Ware Liefde](https://open.spotify.com/album/5dEZJzMc5uywB58mbFIX0w) | 3:16 |
 | 24 | [Soen](https://open.spotify.com/track/5Nv1LLdezHg50f4vtpilCP) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Soen](https://open.spotify.com/album/1jeI9xEZ3OTw2MLbHMkkiv) | 3:14 |
 | 25 | [Soos 'n Engel](https://open.spotify.com/track/2AV7AYTvTvII2DZ7erNVhJ) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Soos 'n Engel](https://open.spotify.com/album/7vZ5vzWA3cXM4fAX1TgWH5) | 3:03 |

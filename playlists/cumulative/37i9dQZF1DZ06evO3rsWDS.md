@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 0 min
+81 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Anímate Y Verás](https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Anímate Y Verás](https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI) | 2:24 | 2023-03-10 | 2024-11-18 |
 | [Aprovechame](https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 2:36 | 2023-03-10 | 2024-05-12 |
 | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ) | 2:51 | 2023-03-10 |  |
-| [Bienvenida De Soltera](https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:38 | 2024-06-15 |  |
+| [Bienvenida De Soltera](https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:38 | 2024-06-15 | 2025-03-13 |
 | [Brindaremos Por Él](https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 | 2024-06-07 |  |
 | [Chuper Amigos \- En Vivo](https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:26 | 2023-09-15 | 2024-10-01 |
 | [Completamente](https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:01 | 2023-03-10 |  |
@@ -40,6 +40,7 @@
 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 | 2023-03-10 |  |
 | [Feliz de la vida](https://open.spotify.com/track/1hR8dT8YKiUP8gM9XbUa3F) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:25 | 2023-03-10 | 2023-11-11 |
 | [FUERTE](https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 | 2024-06-09 | 2025-02-10 |
+| [FUERTE](https://open.spotify.com/track/578MEUSOSlTtp3cZNbazwb) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FUERTE](https://open.spotify.com/album/1AtISppDd4G0ly9zTCDZXX) | 3:09 | 2025-03-13 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-07 |  |
 | [Gracias Por Tu Participación](https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:44 | 2023-03-10 | 2024-06-18 |
 | [Hazme Un Paro](https://open.spotify.com/track/3YX4gmPBHsT2LytlWMHuAC) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:53 | 2024-06-02 | 2024-09-21 |

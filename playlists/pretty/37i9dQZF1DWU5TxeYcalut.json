@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 163202,
+  "num_followers": 163209,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
         "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
         "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 303750,
       "name": "Lamento de um Perplexo",
       "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -727,30 +727,26 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "Su\u00edte Amer\u00edndia",
-        "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
+        "name": "April Child",
+        "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
       },
       "artists": [
         {
-          "name": "Yamandu Costa",
-          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
         },
         {
-          "name": "Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
         },
         {
-          "name": "Mart\u00edn Sued & Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx"
-        },
-        {
-          "name": "Martin Sued",
-          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
         }
       ],
-      "duration_ms": 840973,
-      "name": "Su\u00edte Amer\u00edndia",
-      "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
+      "duration_ms": 424404,
+      "name": "April Child",
+      "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -783,26 +779,30 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "April Child",
-        "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
+        "name": "Su\u00edte Amer\u00edndia",
+        "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
       },
       "artists": [
         {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
         },
         {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+          "name": "Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
         },
         {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+          "name": "Mart\u00edn Sued & Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx"
+        },
+        {
+          "name": "Martin Sued",
+          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
         }
       ],
-      "duration_ms": 424404,
-      "name": "April Child",
-      "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
+      "duration_ms": 840973,
+      "name": "Su\u00edte Amer\u00edndia",
+      "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
-      },
-      "artists": [
-        {
-          "name": "Edu Sangirardi",
-          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
-        }
-      ],
-      "duration_ms": 271656,
-      "name": "Canto de Aruanda",
-      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
         "name": "Mar de Cirandeiras",
         "url": "https://open.spotify.com/album/2e7tCsPiamIIcKpkOKMUqL"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 230307,
       "name": "Mar de Cirandeiras",
       "url": "https://open.spotify.com/track/0fyPqTAayRNDDJawYaZkGe"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "Um",
+        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
+      },
+      "artists": [
+        {
+          "name": "Edu Sangirardi",
+          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
+        }
+      ],
+      "duration_ms": 271656,
+      "name": "Canto de Aruanda",
+      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+      },
+      "artists": [
+        {
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
         "name": "Afinidades",
         "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 343211,
       "name": "Burlesque",
       "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
         "name": "Jazz & Java",
         "url": "https://open.spotify.com/album/1tYhHFAzdyoFvEtZkZvp1b"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 230179,
       "name": "Latte Lounge",
       "url": "https://open.spotify.com/track/3gYXfglUVYmiPsoxEFjjmL"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1407,6 +1407,30 @@
       "duration_ms": 352329,
       "name": "Kurukere",
       "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "Mirada Pervertida (Bossa Guitar)",
+        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
+      },
+      "artists": [
+        {
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+        },
+        {
+          "name": "Bossasonic",
+          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
+        },
+        {
+          "name": "Taryn Szpilman",
+          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nadie Tiene El Alma Pura",
+      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1443,54 +1467,6 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "Mirada Pervertida (Bossa Guitar)",
-        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        },
-        {
-          "name": "Bossasonic",
-          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
-        },
-        {
-          "name": "Taryn Szpilman",
-          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nadie Tiene El Alma Pura",
-      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        },
-        {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
-        },
-        {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
-        }
-      ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
         "name": "AMF",
         "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
       },
@@ -1515,38 +1491,26 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "CasaBrancaBrinCadeira",
-        "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
       },
       "artists": [
         {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
         },
         {
-          "name": "Jaques Morelenbaum Cellosam3atrio",
-          "url": "https://open.spotify.com/artist/5Du1aBiUwXn3ObWKa3BmjS"
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
         },
         {
-          "name": "Lula Galv\u00e3o",
-          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
-        },
-        {
-          "name": "Rafael Barata",
-          "url": "https://open.spotify.com/artist/5H0JsjEdShoczu7NKURyJ2"
-        },
-        {
-          "name": "Zeca Assump\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF"
-        },
-        {
-          "name": "Crist\u00f3v\u00e3o Bastos",
-          "url": "https://open.spotify.com/artist/1lOQN7mWnDiUd5GIauuTc7"
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
         }
       ],
-      "duration_ms": 396331,
-      "name": "CasaBrancaBrinCadeira",
-      "url": "https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH"
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1583,6 +1547,42 @@
       "duration_ms": 331092,
       "name": "Samba de Aroeira",
       "url": "https://open.spotify.com/track/3hcfWKBHZKRfCkSjbbhk8M"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "CasaBrancaBrinCadeira",
+        "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
+      },
+      "artists": [
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Jaques Morelenbaum Cellosam3atrio",
+          "url": "https://open.spotify.com/artist/5Du1aBiUwXn3ObWKa3BmjS"
+        },
+        {
+          "name": "Lula Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
+        },
+        {
+          "name": "Rafael Barata",
+          "url": "https://open.spotify.com/artist/5H0JsjEdShoczu7NKURyJ2"
+        },
+        {
+          "name": "Zeca Assump\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF"
+        },
+        {
+          "name": "Crist\u00f3v\u00e3o Bastos",
+          "url": "https://open.spotify.com/artist/1lOQN7mWnDiUd5GIauuTc7"
+        }
+      ],
+      "duration_ms": 396331,
+      "name": "CasaBrancaBrinCadeira",
+      "url": "https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1627,34 +1627,6 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "MOA",
-        "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
-      },
-      "artists": [
-        {
-          "name": "\u00c1gar-\u00c1gar TRIO",
-          "url": "https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O"
-        },
-        {
-          "name": "Lucas Brogiolo",
-          "url": "https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc"
-        },
-        {
-          "name": "Jussan Cluxnei",
-          "url": "https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05"
-        },
-        {
-          "name": "Lucas Bonetti",
-          "url": "https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK"
-        }
-      ],
-      "duration_ms": 259320,
-      "name": "Sete Coisas",
-      "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
         "name": "Amilton Godoy 80 Anos",
         "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
@@ -1675,6 +1647,22 @@
       "duration_ms": 166933,
       "name": "Ponteio 49",
       "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/2k12vDHjjOouicHnBgGy9O"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Elias",
+          "url": "https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/47wEKppE3oQnGjpF9KnJ6q"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1703,18 +1691,30 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/2k12vDHjjOouicHnBgGy9O"
+        "name": "MOA",
+        "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
       "artists": [
         {
-          "name": "Alexandre Elias",
-          "url": "https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb"
+          "name": "\u00c1gar-\u00c1gar TRIO",
+          "url": "https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O"
+        },
+        {
+          "name": "Lucas Brogiolo",
+          "url": "https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc"
+        },
+        {
+          "name": "Jussan Cluxnei",
+          "url": "https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05"
+        },
+        {
+          "name": "Lucas Bonetti",
+          "url": "https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK"
         }
       ],
-      "duration_ms": 191684,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/47wEKppE3oQnGjpF9KnJ6q"
+      "duration_ms": 259320,
+      "name": "Sete Coisas",
+      "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1735,30 +1735,6 @@
       "duration_ms": 253167,
       "name": "Nos Dias de Hoje",
       "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
-        "name": "Fugindo do Sete",
-        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Gomes",
-          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
-        },
-        {
-          "name": "Alexandre Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
-        },
-        {
-          "name": "Augusto Cordeiro",
-          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
-        }
-      ],
-      "duration_ms": 300659,
-      "name": "Fugindo do Sete",
-      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1795,6 +1771,30 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "Fugindo do Sete",
+        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Gomes",
+          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
+        },
+        {
+          "name": "Alexandre Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
+        },
+        {
+          "name": "Augusto Cordeiro",
+          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
+        }
+      ],
+      "duration_ms": 300659,
+      "name": "Fugindo do Sete",
+      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
     },
     {
       "added_at": "2025-02-28 09:21:26",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-02-28 09:21:26",
       "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        }
-      ],
-      "duration_ms": 407033,
-      "name": "Influ\u00eancia",
-      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
-    },
-    {
-      "added_at": "2025-02-28 09:21:26",
-      "album": {
         "name": "Sebastiana",
         "url": "https://open.spotify.com/album/4q56BGQ4tTDObrGGLe5XSU"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 374180,
       "name": "Trasantonte",
       "url": "https://open.spotify.com/track/6oi42F70ZZDRpWIJABOD1u"
+    },
+    {
+      "added_at": "2025-02-28 09:21:26",
+      "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        }
+      ],
+      "duration_ms": 407033,
+      "name": "Influ\u00eancia",
+      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
     },
     {
       "added_at": "2025-02-28 09:21:26",

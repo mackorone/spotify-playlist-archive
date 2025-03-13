@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3168,
+  "num_followers": 3169,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACCJplli+Tu9KLvjTioSR7T",
+  "snapshot_id": "Z899AAAAAACOXM0HUV9JU73PLv7Mfv6n",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 264533,
-      "name": "Insomniatic Meat",
-      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
+      "duration_ms": 185386,
+      "name": "A Piece Of Mind",
+      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brown Acid - The Fifth Trip",
-        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
+        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 250213,
-      "name": "Nothing In The Sun",
-      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
+      "duration_ms": 157693,
+      "name": "Spanish Fly (Bonus Track)",
+      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 185386,
-      "name": "A Piece Of Mind",
-      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
+      "duration_ms": 264533,
+      "name": "Insomniatic Meat",
+      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
+        "name": "Brown Acid - The Fifth Trip",
+        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 157693,
-      "name": "Spanish Fly (Bonus Track)",
-      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
+      "duration_ms": 250213,
+      "name": "Nothing In The Sun",
+      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
     },
     {
       "added_at": null,

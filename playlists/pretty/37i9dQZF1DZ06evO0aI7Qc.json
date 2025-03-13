@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 357579,
+  "num_followers": 357687,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADrkJDOWLhgPR8KlNyLeHKE",
+  "snapshot_id": "Z899AAAAAADnZcISJkWXoL5EVRMLI7L5",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F*%K U Baby",
-        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "F*%K U Baby",
-      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 138559,
       "name": "SU CASA",
       "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F*%K U Baby",
+        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "F*%K U Baby",
+      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Mire Con Talento",
         "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 163000,
       "name": "Los Mire Con Talento",
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
       "added_at": null,

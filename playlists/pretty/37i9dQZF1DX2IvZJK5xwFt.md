@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,492 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,506 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 39 | [Three Six Five](https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:40 |
 | 40 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 |
 | 41 | [Walk The Earth](https://open.spotify.com/track/4f6n6t8uG1YnVEITfUyLx8) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Walk The Earth](https://open.spotify.com/album/2X3PG4xcJtioHpkG7EnHyC) | 3:07 |
-| 42 | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 |
+| 42 | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 |
 | 43 | [Puppets Can’t Control You](https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can’t Control You](https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K) | 3:14 |
 | 44 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
 | 45 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 |

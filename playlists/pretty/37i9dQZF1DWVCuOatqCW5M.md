@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from Shreya Ghoshal, Ayushmann Khurrana,  Aasa Singh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,436 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,534 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pyaar Aata Hai](https://open.spotify.com/track/2MFa2NcTwKmPSsxzswq8my) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Pyaar Aata Hai](https://open.spotify.com/album/6WRkYCsWvnoLMXiv1rHDJq) | 4:23 |
-| 2 | [Ho Gaya Pyar Re](https://open.spotify.com/track/1uX0NwDpA6ywsl2WnD73Pi) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W), [June Banerjee](https://open.spotify.com/artist/4UBbDzx1Rdp0qtxD2CccBD) | [The Heartbreak Chhora](https://open.spotify.com/album/1gbk2kMovW8hiA6DJCzuIG) | 2:33 |
+| 2 | [Ho Gaya Pyar Re](https://open.spotify.com/track/1uX0NwDpA6ywsl2WnD73Pi) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W) | [The Heartbreak Chhora](https://open.spotify.com/album/1gbk2kMovW8hiA6DJCzuIG) | 2:33 |
 | 3 | [Chaand Jaisa Yaar](https://open.spotify.com/track/3R7447mMv3O3yPR8cBKNVJ) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Chaand Jaisa Yaar](https://open.spotify.com/album/2DQIZrOnJ2MiCmxH6CZwxA) | 4:52 |
 | 4 | [Chhora Pardesi](https://open.spotify.com/track/3HEofNqegMCevv6TqRyeQK) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Chhora Pardesi](https://open.spotify.com/album/47WsHtGnKir40L3Di8oylC) | 3:28 |
 | 5 | [Mera Intezaar Karna](https://open.spotify.com/track/5CYPfBQfYjAxUyE9ETZtei) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Mera Intezaar Karna](https://open.spotify.com/album/66IfkD0OGDchvtqYVnZRWb) | 4:15 |

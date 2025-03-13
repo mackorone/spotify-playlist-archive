@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 38846,
+  "num_followers": 38855,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABflok0vcJqTFWSyINRpool",
+  "snapshot_id": "Z899AAAAAAD47tA9MBZo26I2sz1hFk1E",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Get to the Gone",
-      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
+      "duration_ms": 231240,
+      "name": "Black and White",
+      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Black and White",
-      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
+      "duration_ms": 169800,
+      "name": "Get to the Gone",
+      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start a War",
-        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "I Want to Fucking Break It",
-      "url": "https://open.spotify.com/track/3KqRJRn6xaeETk3sI4PIrw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 236066,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "I Want to Fucking Break It",
+      "url": "https://open.spotify.com/track/3KqRJRn6xaeETk3sI4PIrw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,649 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,644 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 3 | [Final de Semana](https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Final de Semana](https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu) | 3:21 |
 | 4 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 |
 | 5 | [Índia](https://open.spotify.com/track/2xt5DJpvyf5BmUD9Q91LOc) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [Índia](https://open.spotify.com/album/62bhIEXWOgYms1Nf4aZGBa) | 3:11 |
-| 6 | [Gente Boa se Atrai](https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Peu Meurray](https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 3:25 |
-| 7 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 |
-| 8 | [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 |
-| 9 | [Pra todas as mulheres](https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas as mulheres](https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ) | 2:48 |
+| 6 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 |
+| 7 | [Gente Boa se Atrai](https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Peu Meurray](https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 3:25 |
+| 8 | [Pra todas as mulheres](https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas as mulheres](https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ) | 2:48 |
+| 9 | [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 |
 | 10 | [Soprou](https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Cinco](https://open.spotify.com/album/6DqXBagxY611pulprabgLw) | 5:02 |
 | 11 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
 | 12 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 |

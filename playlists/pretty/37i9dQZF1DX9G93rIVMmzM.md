@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,132 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,222 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 26 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
 | 27 | [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 |
 | 28 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 |
-| 29 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
-| 30 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
+| 29 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
+| 30 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
 | 31 | [Sleeptalk](https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Sleeptalk \(Deluxe\)](https://open.spotify.com/album/5eAo9LbhWjBYX2AHt9o4jh) | 3:43 |
 | 32 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 33 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 63 | [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 |
 | 64 | [Phrygian](https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:00 |
 | 65 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |
-| 66 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 |
-| 67 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
-| 68 | [Valentina](https://open.spotify.com/track/6nFQW2MigtHWPLpOvqbod3) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1), [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Valentina](https://open.spotify.com/album/0KXe6LZTUtvVBbAMft6BpE) | 3:48 |
+| 66 | [Valentina](https://open.spotify.com/track/6nFQW2MigtHWPLpOvqbod3) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1), [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Valentina](https://open.spotify.com/album/0KXe6LZTUtvVBbAMft6BpE) | 3:48 |
+| 67 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 |
+| 68 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 | 69 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
 | 70 | [Obsessed](https://open.spotify.com/track/4N2VXLqPf1WC9Pb2X4Tn4F) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Obsessed](https://open.spotify.com/album/17ujSCNWjqD1fcbMbvxUz7) | 3:09 |
-| 71 | [Oscillator](https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Oscillator](https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW) | 4:00 |
-| 72 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
-| 73 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
-| 74 | [Lovely \(Forget Me Not\)](https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5) | [Iress](https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc) | [Sleep Now, In Reverse](https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F) | 5:25 |
-| 75 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 71 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
+| 72 | [Oscillator](https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Oscillator](https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW) | 4:00 |
+| 73 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
+| 74 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
+| 75 | [Lovely \(Forget Me Not\)](https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5) | [Iress](https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc) | [Sleep Now, In Reverse](https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F) | 5:25 |
 
 Snapshot ID: `Z8p9cAAAAAD0ZWweTNUe+Mln5xSceBzH`

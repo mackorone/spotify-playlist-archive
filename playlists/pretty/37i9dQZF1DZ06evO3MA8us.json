@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34583,
+  "num_followers": 34585,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAC1NDLcAw37nLOFKhLrdW/6",
+  "snapshot_id": "Z899AAAAAAADLG6pGpVFdAwaXmbbYpzt",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "Glorioso D\u00eda",
-      "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -119,28 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Landon Wolfe",
-          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
-        }
-      ],
-      "duration_ms": 336249,
-      "name": "The Lord Will Provide - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6J3fye9IIfEker6Z27Gq1N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Thing Remains",
-        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
       },
       "artists": [
         {
@@ -152,9 +112,29 @@
           "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 239613,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
+      "duration_ms": 260160,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion Collection",
+        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "One Thing Remains - Radio Version",
+      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
     },
     {
       "added_at": null,
@@ -179,30 +159,6 @@
       "duration_ms": 426573,
       "name": "God, You\u2019re So Good - Live",
       "url": "https://open.spotify.com/track/3AHWbUsTaYecnT4aTEU0ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 316843,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
     },
     {
       "added_at": null,
@@ -251,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even So Come (Radio Version/Live)",
-        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
       },
       "artists": [
         {
@@ -262,11 +218,35 @@
         {
           "name": "Kristian Stanfill",
           "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 254373,
-      "name": "Even So Come - Radio Version/Live",
-      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
+      "duration_ms": 316843,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord Will Provide (Live From Passion 2024)",
+        "url": "https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+        }
+      ],
+      "duration_ms": 336249,
+      "name": "The Lord Will Provide - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW"
     },
     {
       "added_at": null,
@@ -287,6 +267,26 @@
       "duration_ms": 269000,
       "name": "I've Witnessed It - Single Version",
       "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Even So Come (Radio Version/Live)",
+        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Even So Come - Radio Version/Live",
+      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "duration_ms": 351817,
+      "name": "How Great Is Your Name - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: Awakening (Live)",
         "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 313228,
       "name": "Here It Is (I Worship You) - Live From Passion 2023",
       "url": "https://open.spotify.com/track/70xFZ3jcTwlgBlAD8TjHjF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn Bright",
-        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 340572,
-      "name": "Yesterday, Today And Forever - Live From Passion 2022",
-      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,919 likes - 90 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,934 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 69 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
 | 70 | [Adiós Amor Mío](https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Adiós Amor Mío](https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt) | 2:29 |
 | 71 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
-| 72 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
-| 73 | [Tonada De Tus Labios](https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Goy Karamelo](https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC) | [Tonada De Tus Labios](https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n) | 2:57 |
+| 72 | [Tonada De Tus Labios](https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Goy Karamelo](https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC) | [Tonada De Tus Labios](https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n) | 2:57 |
+| 73 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 | 74 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
 | 75 | [Bien o Mal](https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Bien o Mal](https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg) | 3:30 |
 | 76 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 87 | [Entrega de Amor](https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Entrega de Amor](https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq) | 3:05 |
 | 88 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
 | 89 | [La Desamorada](https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Desamorada](https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3) | 4:01 |
-| 90 | [Eterno Amor](https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/7jSJ1FNwZOFzkVETCPSTLx) | 3:41 |
+| 90 | [Zamba y Acuarela](https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/0jZXoejsjx2oS5vEHXmWzt) | 4:32 |
 
 Snapshot ID: `ZzYqWgAAAACE9yzxIElkLS/fP6E1wFAG`

@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Sena Şahin
 
-233 songs - 11 hr 38 min
+234 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Yakacak Belli](https://open.spotify.com/track/5Ra1k4mBQjP2NPk5NX5Pbq) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT), [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Yakacak Belli](https://open.spotify.com/album/3ZWj5U8qZf8RNvsSUkI76x) | 2:48 | 2024-06-27 | 2024-07-25 |
 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 | 2024-06-27 | 2024-12-21 |
 | [YANGIN](https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [YANGIN](https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp) | 2:18 | 2024-06-27 | 2024-09-16 |
-| [Yangın](https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yangın](https://open.spotify.com/album/5Sn1LiwtbVm10W7XOMEvYH) | 2:52 | 2024-06-27 |  |
+| [Yangın](https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yangın](https://open.spotify.com/album/5Sn1LiwtbVm10W7XOMEvYH) | 2:52 | 2024-06-27 | 2025-03-13 |
 | [Yansam](https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yansam](https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo) | 2:16 | 2024-07-18 |  |
 | [Yara](https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP), [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Yaşam Çiçeği](https://open.spotify.com/album/0PEw8EZ84GWGe3YTeeBqbx) | 3:06 | 2024-06-27 |  |
 | [Yarem](https://open.spotify.com/track/2sBp2g6P6VCG19hzu56IOg) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Yarem](https://open.spotify.com/album/2cVkr3JnyqqACqhK4s0wm4) | 2:11 | 2024-08-22 | 2025-02-18 |
@@ -235,6 +235,7 @@
 | [Çok Özlüyorum](https://open.spotify.com/track/39gABHIgJSl52G0TnTddeU) | [Berksan](https://open.spotify.com/artist/72OZeQyKCAebfnRJAIEpnx) | [Çok Özlüyorum](https://open.spotify.com/album/5ZYMBeTtPpwW1xTgLUKOic) | 2:57 | 2024-07-11 | 2024-07-17 |
 | [Ömrüm](https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Ömrüm](https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz) | 2:33 | 2024-10-03 | 2024-11-15 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 |  |
+| [Özgürlük](https://open.spotify.com/track/19oVO1hFQBqrum2bmHBqvC) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Özgürlük](https://open.spotify.com/album/1H2JdnSioGeGGgnxfyT0rN) | 3:03 | 2025-03-06 |  |
 | [Özür Dilerim](https://open.spotify.com/track/1t00Q23r5MtFVZS1jo8v61) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Özür Dilerim](https://open.spotify.com/album/0zlRHRWnbXEL3kja60woC6) | 2:35 | 2025-01-09 |  |
 | [Üzdü](https://open.spotify.com/track/37h8rUJVvJ3AjsHqFxeuo8) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [2 Şarkı](https://open.spotify.com/album/5GrJxnDfpxO83UV8jnb8x8) | 4:24 | 2025-02-06 | 2025-02-14 |
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 | 2025-02-07 |

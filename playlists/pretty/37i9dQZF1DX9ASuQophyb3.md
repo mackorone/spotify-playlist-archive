@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkiye'nin en büyük pop listesi\. Kapak: Afra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,853 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,149 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
 | 2 | [Anahtar](https://open.spotify.com/track/5soHIW4p5gs0txChuTl8sZ) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anahtar](https://open.spotify.com/album/5HgrSDS7Q9XhCleuATRkXT) | 3:11 |
-| 3 | [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:17 |
+| 3 | [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:18 |
 | 4 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 |
 | 5 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
 | 6 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |

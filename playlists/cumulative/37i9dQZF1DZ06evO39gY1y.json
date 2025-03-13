@@ -90,7 +90,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
       "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 179507,
       "name": "Cleopatra / \u201cGobernante\u201d",
       "url": "https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML"
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Pachamama / \"Bendecido\"",
+      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
+    },
+    {
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 214500,
       "name": "Suave",
       "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"

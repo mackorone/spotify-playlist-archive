@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32846,
+  "num_followers": 32848,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -431,6 +447,22 @@
       "duration_ms": 468087,
       "name": "Sol La, Al Sol",
       "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -455,38 +487,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Rata",
         "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 237240,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 296653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -939,6 +939,38 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "Influencias",
+        "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Fraga",
+          "url": "https://open.spotify.com/artist/5ETZ8t75GZqfKBvuVFm4f4"
+        },
+        {
+          "name": "Alvaro Torres",
+          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
+        },
+        {
+          "name": "Andres Pellican",
+          "url": "https://open.spotify.com/artist/65XpLqacJAIUQcbKgLVvHo"
+        },
+        {
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        },
+        {
+          "name": "Quintino Cinalli",
+          "url": "https://open.spotify.com/artist/46VejkVhYPLpD9FIhfHt4O"
+        }
+      ],
+      "duration_ms": 285487,
+      "name": "Se\u00fal",
+      "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "Grabaciones In\u00e9ditas Vol. 1",
         "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
       },
@@ -975,50 +1007,22 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Influencias",
-        "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Fraga",
-          "url": "https://open.spotify.com/artist/5ETZ8t75GZqfKBvuVFm4f4"
-        },
-        {
-          "name": "Alvaro Torres",
-          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
-        },
-        {
-          "name": "Andres Pellican",
-          "url": "https://open.spotify.com/artist/65XpLqacJAIUQcbKgLVvHo"
-        },
-        {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        },
-        {
-          "name": "Quintino Cinalli",
-          "url": "https://open.spotify.com/artist/46VejkVhYPLpD9FIhfHt4O"
-        }
-      ],
-      "duration_ms": 285487,
-      "name": "Se\u00fal",
-      "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+        "name": "Nueva Luna, Mundo Arjo (feat. Pedro Aznar)",
+        "url": "https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g"
       },
       "artists": [
         {
           "name": "Roxana Amed",
           "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
-      "duration_ms": 349454,
-      "name": "Blue in Green (Sky and Sea)",
-      "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
+      "duration_ms": 396160,
+      "name": "Nueva Luna, Mundo Arjo (feat. Pedro Aznar)",
+      "url": "https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -1223,6 +1227,26 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "Infinite Universe",
         "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
       },
@@ -1243,22 +1267,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "En el fondo del mar",
         "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
       },
@@ -1275,22 +1283,18 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
       "artists": [
         {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
         }
       ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -1407,18 +1411,22 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+        "name": "Corre Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5g0VVvKVm6kcqxr7dizJLf"
       },
       "artists": [
         {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
         }
       ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
+      "duration_ms": 257519,
+      "name": "Corre Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3JB87Mtpxx777llgvhdpzZ"
     }
   ],
   "unique_name": "Jazz Argentino",

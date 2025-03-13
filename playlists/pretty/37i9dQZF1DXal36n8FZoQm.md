@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,746 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,874 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

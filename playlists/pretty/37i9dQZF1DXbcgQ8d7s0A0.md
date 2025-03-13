@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,639 likes - 65 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,898 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 10 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 11 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 12 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
-| 13 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
-| 14 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
+| 13 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
+| 14 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 15 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 16 | [You'll Never Find Another Love Like Mine](https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:26 |
 | 17 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 27 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 |
 | 28 | [Sweet Baby](https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Clarke/Duke Project](https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI) | 3:47 |
 | 29 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 |
-| 30 | [Son Of A Preacher Man](https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Silver Collection](https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf) | 2:26 |
-| 31 | [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 |
-| 32 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 |
+| 30 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 |
+| 31 | [Son Of A Preacher Man](https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Silver Collection](https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf) | 2:26 |
+| 32 | [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 |
 | 33 | [BRKN](https://open.spotify.com/track/07gFabF2ePsmBM0Q3CYitT) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Beyond Me](https://open.spotify.com/album/05tbey8KoO4jyoqB362gl6) | 3:53 |
 | 34 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
 | 35 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |

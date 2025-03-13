@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1824035,
+  "num_followers": 1824116,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -639,6 +623,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 158359,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Ashlyn",
         "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 158359,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-10 05:00:39",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2025-01-10 05:00:39",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2025-01-10 05:00:39",

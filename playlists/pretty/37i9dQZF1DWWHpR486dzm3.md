@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Sonia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,398 likes - 79 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,404 likes - 79 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kosketa mua](https://open.spotify.com/track/1bd7Mjy3G7V0mJY8TnKp6J) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Punainen kuu](https://open.spotify.com/album/1LIOQDU5PDrU26dzjdpATS) | 3:00 |
-| 2 | [Thunder as an Arrow](https://open.spotify.com/track/04CYj693GjFBY6j7E4ukmJ) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [Thunder as an Arrow](https://open.spotify.com/album/1Wdhpdbn6jIp4E2Wz6zBya) | 5:19 |
-| 3 | [rumaa / kaunista](https://open.spotify.com/track/2lYpTsSPTqGoMFunv2xeLH) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [rumaa / kaunista](https://open.spotify.com/album/3ljUiUjDCDGxUhXxKen1p0) | 2:46 |
-| 4 | [Kuusamo](https://open.spotify.com/track/4Dj7m0piDFWivE7kFEg4Nx) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Esa Kotilainen](https://open.spotify.com/artist/2fmZJOTP97iGhwlnOicgEc) | [Kuusamo](https://open.spotify.com/album/5DSctkA40sxfSA6QP0I6rU) | 4:54 |
-| 5 | [Leskenlehdet](https://open.spotify.com/track/229wYThavUePmywOQZmnJF) | [Kaikki turhat haaveet](https://open.spotify.com/artist/5rsorJ0ZGBj6QvSbRMHDtK) | [Leskenlehdet](https://open.spotify.com/album/2IKhkFKHfZbOLkdQWvyHPp) | 4:34 |
+| 1 | [Leskenlehdet](https://open.spotify.com/track/229wYThavUePmywOQZmnJF) | [Kaikki turhat haaveet](https://open.spotify.com/artist/5rsorJ0ZGBj6QvSbRMHDtK) | [Leskenlehdet](https://open.spotify.com/album/2IKhkFKHfZbOLkdQWvyHPp) | 4:34 |
+| 2 | [Kosketa mua](https://open.spotify.com/track/1bd7Mjy3G7V0mJY8TnKp6J) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Punainen kuu](https://open.spotify.com/album/1LIOQDU5PDrU26dzjdpATS) | 3:00 |
+| 3 | [Kuusamo](https://open.spotify.com/track/4Dj7m0piDFWivE7kFEg4Nx) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Esa Kotilainen](https://open.spotify.com/artist/2fmZJOTP97iGhwlnOicgEc) | [Kuusamo](https://open.spotify.com/album/5DSctkA40sxfSA6QP0I6rU) | 4:54 |
+| 4 | [Thunder as an Arrow](https://open.spotify.com/track/04CYj693GjFBY6j7E4ukmJ) | [Cats Of Transnistria](https://open.spotify.com/artist/2Rnlk97rOW76miPCgrvZKX) | [Thunder as an Arrow](https://open.spotify.com/album/1Wdhpdbn6jIp4E2Wz6zBya) | 5:19 |
+| 5 | [rumaa / kaunista](https://open.spotify.com/track/2lYpTsSPTqGoMFunv2xeLH) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [rumaa / kaunista](https://open.spotify.com/album/3ljUiUjDCDGxUhXxKen1p0) | 2:46 |
 | 6 | [POIS](https://open.spotify.com/track/29C5MbqBdZ8j9q8Y7mDCAO) | [Joacim](https://open.spotify.com/artist/7djkllhA8gV4HNCjY7FwBy) | [POIS](https://open.spotify.com/album/5UA3LB664QrDUCmesGPtES) | 3:20 |
-| 7 | [Katoava kesä](https://open.spotify.com/track/5J6A0U1hEQ4qT6WZL9Elvn) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [POP // ROCK](https://open.spotify.com/album/5J0IN6uIsLr3aVZaQa0Kp1) | 3:31 |
-| 8 | [Big Silence](https://open.spotify.com/track/35Sp68RS7qg8kNGWvjcd8l) | [The Moontwins](https://open.spotify.com/artist/5MGAGvXzmpPKmLXqliwi6s), [PK Keränen](https://open.spotify.com/artist/2bC9jxae44eoG0o0WoFcl5), [Leija Lautamaja](https://open.spotify.com/artist/36dcqkWwVi2Qm901dedz8V) | [Big Silence](https://open.spotify.com/album/7iCzRyILQgeBduHj1pWoek) | 2:36 |
-| 9 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
-| 10 | [Hyvän pahaks muuttumaan](https://open.spotify.com/track/2Uv7W3HhgEIcxMGgPpkZV0) | [VIIMEINEN](https://open.spotify.com/artist/61FHcZZm3lBwYEHporoqT4) | [Hyvän pahaks muuttumaan](https://open.spotify.com/album/6RGJ1gPQWHapanBq8A46u7) | 2:59 |
-| 11 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 |
+| 7 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 |
+| 8 | [Katoava kesä](https://open.spotify.com/track/5J6A0U1hEQ4qT6WZL9Elvn) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [POP // ROCK](https://open.spotify.com/album/5J0IN6uIsLr3aVZaQa0Kp1) | 3:31 |
+| 9 | [Big Silence](https://open.spotify.com/track/35Sp68RS7qg8kNGWvjcd8l) | [The Moontwins](https://open.spotify.com/artist/5MGAGvXzmpPKmLXqliwi6s), [PK Keränen](https://open.spotify.com/artist/2bC9jxae44eoG0o0WoFcl5), [Leija Lautamaja](https://open.spotify.com/artist/36dcqkWwVi2Qm901dedz8V) | [Big Silence](https://open.spotify.com/album/7iCzRyILQgeBduHj1pWoek) | 2:36 |
+| 10 | [Siinä sä nyt oot](https://open.spotify.com/track/5qVqn8H1kLo3w7UvOdg4Db) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [Siinä sä nyt oot](https://open.spotify.com/album/51iluio0Fl3zsyCvL0Nwts) | 3:15 |
+| 11 | [Hyvän pahaks muuttumaan](https://open.spotify.com/track/2Uv7W3HhgEIcxMGgPpkZV0) | [VIIMEINEN](https://open.spotify.com/artist/61FHcZZm3lBwYEHporoqT4) | [Hyvän pahaks muuttumaan](https://open.spotify.com/album/6RGJ1gPQWHapanBq8A46u7) | 2:59 |
 | 12 | [Tokyo No Go](https://open.spotify.com/track/4gtFoBXTXmjMCj8jq58Rdw) | [Tinyhawk & Bizzarro](https://open.spotify.com/artist/2ZJ203WZjSAIeeKJgcdElj) | [Tokyo No Go](https://open.spotify.com/album/32sWqnQPstmiKMl3gopVUe) | 4:21 |
 | 13 | [Rotta](https://open.spotify.com/track/7MCndCeRXAfVYozzAhhkCn) | [1980 AD](https://open.spotify.com/artist/44QSjd5tXrAGwQtif9W6c7) | [Rotta](https://open.spotify.com/album/5BXYyLxxA7gpMJK2TFWDQW) | 3:45 |
 | 14 | [Action Man \- The Greatest Hero of All](https://open.spotify.com/track/6iPk4LbYViadWPRSxBo9Gv) | [Zombit lomalla](https://open.spotify.com/artist/1bQLxB5BbeT6AkgayWXrVm) | [Action Man \- The Greatest Hero of All](https://open.spotify.com/album/4rB0PBzrYciQm8DpuVQIW5) | 3:09 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 78 | [Kai sullakin on unelmii](https://open.spotify.com/track/2ZCRdKLUcXkceqMNQ2hELn) | [Arteva](https://open.spotify.com/artist/3YWlYKMUKiGAkZx0bZcEMH) | [Kai sullakin on unelmii](https://open.spotify.com/album/6vH7cxpf0UKOwI2xZhSLWv) | 4:04 |
 | 79 | [Jos alkaa saan uudelleen](https://open.spotify.com/track/3ETvZjC9p1RV8UHokrjBdM) | [Jani Matti Juhani](https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a), [Knipi](https://open.spotify.com/artist/4wLgqkai4BYWNKbHcQJi7c) | [Jos alkaa saan uudelleen](https://open.spotify.com/album/3Wg2cVxspa7N5KgXxtC0vC) | 2:17 |
 
-Snapshot ID: `Z8obMQAAAAD6GgLOPH6jAvCafXjZoEhY`
+Snapshot ID: `Z9Hl9QAAAACw2e6mKu84DdO2PrFPA6k3`

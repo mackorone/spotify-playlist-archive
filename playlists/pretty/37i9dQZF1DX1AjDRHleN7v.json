@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 367097,
+  "num_followers": 367129,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Carlo",
+          "url": "https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2"
+        }
+      ],
+      "duration_ms": 203342,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 166731,
       "name": "T\u00f4 Em Casa",
       "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2d8MweiVKq4HbVmYqFIVAk"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Carlo",
-          "url": "https://open.spotify.com/artist/3A7Ajwwlko5vqI6dyy7LN2"
-        }
-      ],
-      "duration_ms": 203342,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
     },
     {
       "added_at": "2025-02-28 17:10:11",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-02-28 17:10:11",
       "album": {
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2025-02-28 17:10:11",
+      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 190026,
       "name": "Ficar de Leve",
       "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
-    },
-    {
-      "added_at": "2025-02-28 17:10:11",
-      "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2025-02-28 17:10:11",

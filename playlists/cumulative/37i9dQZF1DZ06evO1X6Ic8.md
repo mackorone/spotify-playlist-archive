@@ -4,7 +4,7 @@
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 52 min
+60 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,5 +67,6 @@
 | [Undo](https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:04 | 2023-03-19 |  |
 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2023-03-29 | 2024-12-07 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2023-03-19 | 2025-01-29 |
+| [You \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 4:51 | 2025-03-13 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,050 songs - 2 day 16 hr 26 min
+1,053 songs - 2 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,8 @@
 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 | 2024-02-26 |  |
 | [Blacked Out](https://open.spotify.com/track/0Hv8BT3S6Ww0qV5EfIgxJS) | [Yxng Dave](https://open.spotify.com/artist/1zpptQ5p9E7oIfWsfNCf9n), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [DJ Fricktion](https://open.spotify.com/artist/77G0QBYtNoaVhQcpkpAsGU) | [Blacked Out](https://open.spotify.com/album/6dZoGjRpfdW0VkYrIT1hfi) | 2:19 | 2023-07-20 | 2024-06-07 |
 | [BLUE SKY](https://open.spotify.com/track/7rYR2a3DisiE26KA2FpHgT) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:41 | 2024-01-13 |  |
+| [Blue Velvet](https://open.spotify.com/track/6AzdnFpMk4WzVvX85uVqsx) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:36 | 2025-03-12 |  |
+| [Body](https://open.spotify.com/track/3lRh3BAgwNXBJ6tjtvc6ZF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:30 | 2025-03-12 |  |
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-09-29 |  |
 | [Body Paint](https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:50 | 2022-10-20 |  |
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-06-17 |  |
@@ -1035,6 +1037,7 @@
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2021-09-02 |  |
 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 | 2022-09-27 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-05-05 |  |
+| [Wine & Spirits](https://open.spotify.com/track/02iwkyyf6rSZPAe0NQOcjL) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:15 | 2025-03-12 |  |
 | [Wings](https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:10 | 2022-09-18 |  |
 | [Woke The F\*ck Up](https://open.spotify.com/track/5jKMjgG0J08rCezDvAX0sn) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:39 | 2021-12-27 |  |
 | [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:01 | 2022-06-14 |  |

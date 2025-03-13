@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,466 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,488 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 75 | [Dame Tu Querer](https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:07 |
 | 76 | [Hue Le La](https://open.spotify.com/track/4f1SHxvB9HorDX5gX1YxPU) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Historia Musical de Alfredo Gutiérrez](https://open.spotify.com/album/0YYxKT1WDdzYUvPA09rkG8) | 3:37 |
 | 77 | [Cachondea](https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:57 |
-| 78 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 2:35 |
-| 79 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
+| 78 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
+| 79 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 2:35 |
 | 80 | [Golpes en el Corazón](https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO), [Wíllinton Garcés](https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:28 |
 | 81 | [Bebiendo y Llorando](https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:55 |
 | 82 | [Qué Lindo Es Quererte](https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM), [Elkin Serna](https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 3:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,033 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,076 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 41 | [Wavy Gravy \- Remastered](https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:47 |
 | 42 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
 | 43 | [Crying](https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 5:34 |
-| 44 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
-| 45 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
+| 44 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
+| 45 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
 | 46 | [Softly, As In A Morning Sunrise](https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [East To Wes](https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN) | 8:10 |
 | 47 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
 | 48 | [All Across The City](https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Intermodulation](https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS) | 4:50 |

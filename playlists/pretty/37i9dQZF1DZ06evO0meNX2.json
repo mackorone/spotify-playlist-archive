@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 36259,
+  "num_followers": 36310,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACXyBObSO8wlouP5EfbBOrW",
+  "snapshot_id": "Z899AAAAAAAauyE/MQc/R8rwotxVSOAl",
   "tracks": [
     {
       "added_at": null,
@@ -52,7 +52,7 @@
       "added_at": null,
       "album": {
         "name": "Y Lo Que Falta",
-        "url": "https://open.spotify.com/album/6FJ6RLY0ozGas2NnTu0Or0"
+        "url": "https://open.spotify.com/album/2rlU1lP7dG380YCf3EVkZu"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 184426,
+      "duration_ms": 183694,
       "name": "Ando Enfocado",
-      "url": "https://open.spotify.com/track/2XbHeIK0ZEpY30kFY15r38"
+      "url": "https://open.spotify.com/track/6HRCOGVHfqXk60weyHLMIo"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Golpes De La Vida",
-      "url": "https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 149624,
       "name": "El Disney",
       "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Golpes De La Vida",
+      "url": "https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 223743,
-      "name": "Habemus Conciliaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 138533,
       "name": "C.H.S.M",
       "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 223743,
+      "name": "Habemus Conciliaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
     },
     {
       "added_at": null,
@@ -444,7 +444,7 @@
       "added_at": null,
       "album": {
         "name": "Ni\u00f1o De Oro",
-        "url": "https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh"
+        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
       "artists": [
         {
@@ -456,29 +456,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 177720,
+      "duration_ms": 177704,
       "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Blindado El Carro",
-      "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
+      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
     },
     {
       "added_at": null,
@@ -519,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Blindado El Carro",
+      "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mente Activa",
         "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
       },
@@ -535,54 +535,6 @@
       "duration_ms": 169216,
       "name": "Mente Activa",
       "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Hablen",
-      "url": "https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flotando En El Aire",
-        "url": "https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Flotando En El Aire",
-      "url": "https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 198325,
-      "name": "Parque De Diversiones",
-      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
     },
     {
       "added_at": null,
@@ -607,6 +559,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 198325,
+      "name": "Parque De Diversiones",
+      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flotando En El Aire",
+        "url": "https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Flotando En El Aire",
+      "url": "https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Notas Musicales",
         "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 250991,
       "name": "Notas Musicales",
       "url": "https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Hablen",
+      "url": "https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB"
     },
     {
       "added_at": null,
@@ -659,24 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Hermanos",
-        "url": "https://open.spotify.com/album/0old6hxis8rO7QgKH7Rw5d"
+        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
       },
       "artists": [
         {
@@ -686,7 +670,7 @@
       ],
       "duration_ms": 217200,
       "name": "Los Hermanos",
-      "url": "https://open.spotify.com/track/3ZAWnRZ9STLvBSBxoheC9H"
+      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
     },
     {
       "added_at": null,
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 247080,
+      "duration_ms": 246671,
       "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
+      "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
     },
     {
       "added_at": null,
@@ -751,22 +735,6 @@
       "duration_ms": 127920,
       "name": "Gabachas",
       "url": "https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Chavo F\u00e9lix",
-      "url": "https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA"
     },
     {
       "added_at": null,
@@ -808,7 +776,7 @@
       "added_at": null,
       "album": {
         "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
       },
       "artists": [
         {
@@ -816,9 +784,25 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 245076,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/5rHHjCMAWQbTsM9T4b98I0"
+      "duration_ms": 211680,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Chavo F\u00e9lix",
+      "url": "https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA"
     }
   ],
   "unique_name": "This Is Codiciado",

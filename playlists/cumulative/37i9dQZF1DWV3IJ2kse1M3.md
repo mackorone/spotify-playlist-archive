@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。我還是放不下你 真的可惜 我在也無能為力 繼續愛你。
 
-168 songs - 12 hr 41 min
+169 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Tattoo \- "REBORN" Movie Ending Song](https://open.spotify.com/track/0H7sm4ptv8fFTkbHDRZoP1) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [Tattoos \("Reborn" Movie Ending Song\)](https://open.spotify.com/album/7DWUnMnAtkQaU5vYRtE7Gr) | 4:29 | 2022-06-01 | 2022-07-27 |
 | [一筆勾銷 \- 公視<噬罪者>片頭曲](https://open.spotify.com/track/3g8JT6dLKqF2X3rtEBZtEt) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [一筆勾銷 \(公視<噬罪者>片頭曲\)](https://open.spotify.com/album/3OODByIwcSWAsgfzW1Wjzl) | 4:42 | 2022-06-01 | 2022-07-08 |
 | [三寸天堂](https://open.spotify.com/track/5OBzFghTuqj8UedBPsEQqT) | [嚴藝丹](https://open.spotify.com/artist/1Z7VMoFxsMu5ZbPJBq5zO8) | [無·果](https://open.spotify.com/album/3Qns8hZ97fF1Hc8oYiEr69) | 4:48 | 2022-06-01 | 2022-07-29 |
-| [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 | 2022-06-01 |  |
+| [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 | 2022-06-01 | 2025-03-13 |
 | [不在一起就不會分開](https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不在一起就不會分開](https://open.spotify.com/album/3zdOCw1uKKB8I9jHC0E7Cg) | 4:47 | 2022-10-04 | 2022-10-16 |
 | [不在場祝福](https://open.spotify.com/track/4PQXO7o3LPdSetedTDDsZs) | [楊奇煜](https://open.spotify.com/artist/4mEiq1LqyqanaP13xovzEr) | [不在場祝福](https://open.spotify.com/album/3jpU9LGTmBdol6VS5fJtN9) | 3:53 | 2022-06-01 | 2022-07-20 |
 | [不想聽見的歌](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [不想聽見的歌](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 | 2022-06-01 | 2022-07-29 |
@@ -91,6 +91,7 @@
 | [我们三](https://open.spotify.com/track/0dr4DaJb4bf2EjgBcDsumR) | [朱浩仁](https://open.spotify.com/artist/1Y2za0XzyluvtDTYtkFwJ7), [淑敏](https://open.spotify.com/artist/6Pg1FbAoJJDpdX6ettFZx9) | [我们三](https://open.spotify.com/album/2ZKpm2pcLRZlk58UvDuKG6) | 4:12 | 2022-06-01 | 2022-07-01 |
 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 | 2022-06-01 |  |
 | [我們盡力了](https://open.spotify.com/track/7o1TK2v9JvUHo47LIYjWTd) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [我們盡力了](https://open.spotify.com/album/0pcqjPwBloZXi7PW8KC8Uq) | 5:11 | 2022-06-01 | 2022-07-22 |
+| [我們都傻](https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [仰望](https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5) | 5:30 | 2025-02-03 |  |
 | [我恨我愛你](https://open.spotify.com/track/1aQdSw1B6uOBErzNN6jsXx) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [真實 \(Remastered\)](https://open.spotify.com/album/6IgxzPmPjyRen4tUstQ1Ov) | 4:31 | 2022-06-01 | 2022-07-29 |
 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2022-06-01 |  |
 | [我愛你對不起 謝謝你沒關係](https://open.spotify.com/track/00jPopb33woapLbXAe4e1t) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [我愛你對不起 謝謝你沒關係](https://open.spotify.com/album/4qF7TO24rkByR998SX23lT) | 5:05 | 2024-06-20 | 2024-09-28 |

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-316 songs - 18 hr 46 min
+318 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2017-12-03 | 2025-02-04 |
 | [Closer To The Sun](https://open.spotify.com/track/5qQ7HmA57BxMfHEOtWuPCF) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [Closer To The Sun](https://open.spotify.com/album/7tCbZ4Kx4ksIKqRTnoM3Eo) | 3:47 | 2025-02-03 |  |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2021-11-18 | 2025-02-04 |
+| [Coldest Sea](https://open.spotify.com/track/4433aYr8rBSqRV2anhNySZ) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Coldest Sea](https://open.spotify.com/album/15Jd6gNC89RBvyYJKllfyk) | 4:53 | 2025-03-12 |  |
 | [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2025-02-03 |  |
 | [Constellations](https://open.spotify.com/track/427ckvkTomPZKpFvgaMBcy) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Constellations](https://open.spotify.com/album/3cJm2D899SihiCAY68lU1Z) | 2:45 | 2025-02-03 |  |
 | [Convince Yourself](https://open.spotify.com/track/0lbuz5ZNwAxlp1z1Vkks9f) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [Convince Yourself](https://open.spotify.com/album/3GgDV6ldoI54egU3rfOBGZ) | 3:16 | 2025-02-03 |  |
@@ -106,7 +107,7 @@
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2025-02-03 |  |
 | [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 | 2017-12-03 | 2024-11-23 |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2017-12-03 | 2024-04-19 |
-| [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2017-12-03 |  |
+| [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2017-12-03 | 2025-03-13 |
 | [Hold On To The Night \- Acoustic](https://open.spotify.com/track/7nFG13NCU0gUY1RV8h1kDe) | [Roy van Maren](https://open.spotify.com/artist/7JkafgaIW0izdL74lbCkX6), [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Hold On To The Night](https://open.spotify.com/album/2frOup854eahgacwS4TJfj) | 2:08 | 2025-02-03 |  |
 | [Hold You](https://open.spotify.com/track/7fOstQ4Nq9Zkj2J0sZZ5rE) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u), [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Hold You](https://open.spotify.com/album/4QMB7pB3LBmoAxiFVcsOlk) | 4:16 | 2025-02-03 |  |
 | [Hope](https://open.spotify.com/track/0rB5UZpt3AHmA8o80gxb2F) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Hope](https://open.spotify.com/album/6NiGNXGhMRoToVXf59ujX7) | 2:24 | 2025-02-03 |  |
@@ -178,7 +179,7 @@
 | [Molly](https://open.spotify.com/track/7mUc6lgV0QBDriecrOHAQ0) | [Pauwel](https://open.spotify.com/artist/38V9jML2xuaNlknJUhoLQG) | [Molly](https://open.spotify.com/album/7JN3FZdAdd9b0z6JjecOJs) | 2:01 | 2025-02-03 |  |
 | [Morning Light](https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Morning Light](https://open.spotify.com/album/61RZZpsBP6RXUofd4uv5NZ) | 3:14 | 2017-12-03 | 2025-02-04 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-03-08 | 2025-02-04 |
-| [Nicotine](https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg) | 3:58 | 2025-02-03 |  |
+| [Nicotine](https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg) | 3:58 | 2025-02-03 | 2025-03-13 |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2025-02-03 |  |
 | [Nothing For Miles](https://open.spotify.com/track/23Ht5Sur2qTl0C2dPMX6lK) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Haul](https://open.spotify.com/album/4TrA4GVlOwq5pNcW6roKPY) | 4:34 | 2025-02-03 |  |
 | [October Road](https://open.spotify.com/track/0nILp5SpecXFvJQotZe48y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 3:56 | 2017-12-03 | 2025-02-04 |
@@ -290,6 +291,7 @@
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2017-12-03 | 2024-04-19 |
 | [Today](https://open.spotify.com/track/5tKOOwcF7wdfNGTQGsXXzy) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Today](https://open.spotify.com/album/4QXTS74M6q3erVpK4uumPX) | 4:22 | 2025-02-10 |  |
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2025-02-03 |  |
+| [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-12 |  |
 | [Torn](https://open.spotify.com/track/6c2AwEBPa3JJBSYHNbasAN) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Classic Covers](https://open.spotify.com/album/47KsZpubPUNipcC7cbywDA) | 3:16 | 2017-12-03 | 2022-11-13 |
 | [Torn \- Bonus Track](https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:16 | 2017-12-03 | 2024-04-19 |
 | [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2017-12-03 | 2025-02-04 |

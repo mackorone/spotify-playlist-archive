@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Lustre",
+        "url": "https://open.spotify.com/album/4476oK9dDwXluywz166CT1"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224849,
+      "name": "Ahead Of Myself",
+      "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/5cvYAH7KUd817SGr1Bklkz"
       },
@@ -684,7 +702,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 320016,
       "name": "I Loved Everyone",
       "url": "https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu"

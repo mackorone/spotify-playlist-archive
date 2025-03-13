@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,467 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,513 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 57 | [When A Man Loves A Woman](https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [When A Man Loves A Woman](https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN) | 3:17 |
 | 58 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
 | 59 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 |
-| 60 | [I'm A Ram](https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm A Ram](https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm) | 3:59 |
-| 61 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
+| 60 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
+| 61 | [I'm A Ram](https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm A Ram](https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm) | 3:59 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 63 | [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 |
 | 64 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 92 | [Iris](https://open.spotify.com/track/5li0T0hP91MgcGMMKfw3KM) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Iris](https://open.spotify.com/album/2cE2EIYVWbnsKrLCN55Kix) | 3:26 |
 | 93 | [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 |
 | 94 | [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 |
-| 95 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 |
-| 96 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 |
+| 95 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 |
+| 96 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 |
 | 97 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 |
 | 98 | [Greedy \- Country Version](https://open.spotify.com/track/0thzAxCyLFOQJ6JwbThQ3R) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Greedy \(Country Version\)](https://open.spotify.com/album/4k7gV0lfcX1r0nQkV9qYbh) | 2:21 |
 | 99 | [I Want to Know What Love Is](https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 5:01 |

@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1274237,
+  "num_followers": 1274707,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Good Vibrations 40th Anniversary",
         "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 217746,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sweet Soul Music",
         "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2024-07-12 06:11:58",

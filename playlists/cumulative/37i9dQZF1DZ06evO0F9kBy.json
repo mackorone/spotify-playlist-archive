@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 291057,
       "name": "Hosanna! (Will You Rise?)",
       "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 481266,
       "name": "Inheritance",
       "url": "https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz"
@@ -1498,10 +1498,36 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 228145,
       "name": "Take it Easy",
       "url": "https://open.spotify.com/track/1ET6peDpteC9VF12kh7v3z"
+    },
+    {
+      "album": {
+        "name": "Sanctuary Songs",
+        "url": "https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228145,
+      "name": "Take it Easy",
+      "url": "https://open.spotify.com/track/2TfhMkVOjxZ4S0Al2FqRs8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Charlotte Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,705 likes - 150 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,673 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 27 | [Needed You](https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Needed You](https://open.spotify.com/album/61A8H7HWSGoqszTaWx5Btk) | 3:48 |
 | 28 | [Take Me Home](https://open.spotify.com/track/31FRnGSxumO77K9T8uaJrZ) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Take Me Home](https://open.spotify.com/album/65EP6p1YCDkScfDT7jyguM) | 2:34 |
 | 29 | [HEARTPIECE](https://open.spotify.com/track/4Fd6Tuj0ZeRshcftzX4AAF) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [HEARTPIECE](https://open.spotify.com/album/0vdqNRrtw4J3QSWHsljwNC) | 2:00 |
-| 30 | [Oops…](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops…](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 |
+| 30 | [Oops...](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops...](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 |
 | 31 | [nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [nothing left 2 say / give u everything](https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL) | 3:15 |
 | 32 | [my pu$$y](https://open.spotify.com/track/2ySTVNT8PAci1UhWB9dCwG) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [my pu$$y](https://open.spotify.com/album/2fihz8xD7IpcvaVXM4wQU5) | 5:39 |
 | 33 | [Sirens](https://open.spotify.com/track/0C5yZEXslHsoIQ3BWijgOQ) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Sirens](https://open.spotify.com/album/7vR5vnHZE0Zx6CqDDZEJ9P) | 2:43 |

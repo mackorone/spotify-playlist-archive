@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,146 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,150 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 16 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
 | 17 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
 | 18 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
-| 19 | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK) | 4:18 |
+| 19 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
 | 20 | [A Love International](https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 4:15 |
-| 21 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
+| 21 | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Feet Off The Ground \(feat\. Jade Bird\)](https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK) | 4:18 |
 | 22 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
 | 23 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 24 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 39 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 |
 | 40 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 41 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
-| 42 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
-| 43 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
+| 42 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
+| 43 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
 | 44 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 45 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 |
 | 46 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 56 | [Make My Mind Up](https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:31 |
 | 57 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |
 | 58 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 |
-| 59 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
-| 60 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 |
-| 61 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
+| 59 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
+| 60 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
+| 61 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 |
 | 62 | [Denim & Diamonds](https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Shooter](https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG) | 3:26 |
 | 63 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
 | 64 | [Justice](https://open.spotify.com/track/1EOGdbnAjCYFo2NGHy2Yki) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Justice](https://open.spotify.com/album/54zCCRilHLhxkA0Moy7Jnz) | 3:44 |

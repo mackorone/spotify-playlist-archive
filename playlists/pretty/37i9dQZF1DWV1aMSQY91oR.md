@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Hanumankind
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,060 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,076 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 5 | [Landlord Member](https://open.spotify.com/track/1rnLUbj6EprZoMvilZFFzV) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [ANKHLEJOHN](https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M) | [The Michelin Man](https://open.spotify.com/album/48y642MLccmLlQg6LD8AIE) | 3:31 |
 | 6 | [Keep Killin](https://open.spotify.com/track/4nReKOGUdT8yzHEFF3wGSR) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Power Book III: Raising Kanan, Season 4 \(Music From the Starz Original TV Series\)](https://open.spotify.com/album/4N2kyiUcPs6xjcORkIa70p) | 2:16 |
 | 7 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 |
-| 8 | [Messi](https://open.spotify.com/track/0RPB4pwJ6EdiZ6vSeOi1DV) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [TOBi](https://open.spotify.com/artist/2zVarNfkdOVJwmf5aaKHQE) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 3:17 |
+| 8 | [Messi](https://open.spotify.com/track/0RPB4pwJ6EdiZ6vSeOi1DV) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 3:17 |
 | 9 | [365](https://open.spotify.com/track/32b6t5mWm1MKC7UpegNzpP) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [365](https://open.spotify.com/album/60hligID505oL4nJCChCAB) | 2:03 |
 | 10 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4) | 3:49 |
 | 11 | [BAD DECISIONS](https://open.spotify.com/track/6DPe3yHTfpFwVVx92AVT54) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [BAD DECISIONS](https://open.spotify.com/album/6FRtJw6ULKUrSvqXK99PjR) | 2:19 |

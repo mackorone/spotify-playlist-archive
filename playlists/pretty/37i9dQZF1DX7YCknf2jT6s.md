@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: ARTEMIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,894 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,893 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

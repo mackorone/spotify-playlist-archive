@@ -4,7 +4,7 @@
 
 > Sedef Sebüktekin, Sıla, Lady Gaga ve haftanın en iyi çıkışları!
 
-303 songs - 15 hr 15 min
+304 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Raf](https://open.spotify.com/track/1cFuWTgSE8LCgnG7MSVwZI) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Raf](https://open.spotify.com/album/3teB4wQBOyMBvytv40bjjq) | 4:23 | 2025-02-27 | 2025-03-07 |
 | [Red Light](https://open.spotify.com/track/1eRsYW80thFTfA7QP8vRBK) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Red Light](https://open.spotify.com/album/05RpaVvtRNOyUID3IQL4eh) | 2:26 | 2025-02-20 | 2025-02-28 |
 | [RED ZONE](https://open.spotify.com/track/35ZTL6aG24WiyQWgGcykaH) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ReawakeR](https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI) | 2:57 | 2025-03-06 |  |
+| [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-06 |  |
 | [Ressam](https://open.spotify.com/track/3QUr0xbiWcH1TpojSJu4bc) | [Kıraç](https://open.spotify.com/artist/4XYD8wP6f1sfLtWfrY1luF) | [Ressam](https://open.spotify.com/album/5PTkgWSbH0ZIg4bBJ4uiyr) | 3:40 | 2025-02-27 | 2025-03-07 |
 | [ROMAN](https://open.spotify.com/track/3Y3ca1n1KQjkVah2v66zN4) | [Parla](https://open.spotify.com/artist/0ELB2APjrcxE6zO75MWpBN), [Mili B](https://open.spotify.com/artist/7y2FO59lrnN6jNoiHoEhE9) | [ROMAN](https://open.spotify.com/album/4x02caUUy37uaMZJLBGTWK) | 3:03 | 2025-02-20 | 2025-02-28 |
 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 | 2025-03-06 |  |

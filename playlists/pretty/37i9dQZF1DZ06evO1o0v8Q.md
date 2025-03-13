@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,052 likes - 34 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,065 likes - 34 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 17 | [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 |
 | 18 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 |
 | 19 | [\(Lost Another\) Piece of My World](https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:51 |
-| 20 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 |
+| 20 | [Bad Wave](https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:16 |
 | 21 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 |
 | 22 | [Better Way](https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:31 |
 | 23 | [High Pressure](https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
-| 24 | [Bad Wave](https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:16 |
+| 24 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 |
 | 25 | [Death Grip](https://open.spotify.com/track/6BNPwD7KTEHu31hles8CyD) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:10 |
 | 26 | [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 |
 | 27 | [Come Back For More](https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL) | 2:03 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 33 | [Move Thru Me](https://open.spotify.com/track/4rKG6dxdnugCSZ6COGNlvB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL) | 2:18 |
 | 34 | [Pressure to Succeed](https://open.spotify.com/track/6lgwU51adM1hZwgFWLF2nh) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:13 |
 
-Snapshot ID: `Z8zaAAAAAACEm/sNRIGDLLXPtP1P5spN`
+Snapshot ID: `Z899AAAAAADS5x48xWAJSVj6Nn4cDmlv`

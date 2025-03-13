@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,651 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,656 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 43 | [Liên Khúc Mưa Nửa Đêm \- Ai Cho Tôi Tình Yêu](https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Nguyên Lê](https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:35 |
 | 44 | [Tạ Từ Trong Đêm](https://open.spotify.com/track/7J1Np3eRmXmLAbzVadZewG) | [Huỳnh Phi Tiễn](https://open.spotify.com/artist/7an9uvbh1rC2bflIvcwRRL), [Ái Ni](https://open.spotify.com/artist/1GONsfBOY2JpOBbJsVBaaL) | [Tạ Từ Trong Đêm](https://open.spotify.com/album/3EU1OeCxTUL4X6o7OZyoCq) | 7:05 |
 | 45 | [Cau Chuyen Dau Nam](https://open.spotify.com/track/0aeKrqZGmx5mW1KYEXEpqb) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Xuan](https://open.spotify.com/album/7ElPpeYDFpYEIcnyhZEpNH) | 4:03 |
-| 46 | [Hai Mua Mua](https://open.spotify.com/track/1BhDgPwf1ocaXzFWIfzZFN) | [Mỹ Huyền](https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB) | [Dong Nhac Anh Bang: Mai Toi Di](https://open.spotify.com/album/3rD0IYBCTswvgRgCklLpeX) | 3:03 |
-| 47 | [Tạ từ trong đêm](https://open.spotify.com/track/7J9kYCDB02eCdaXiE1S0MZ) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 4:33 |
+| 46 | [Tạ từ trong đêm](https://open.spotify.com/track/7J9kYCDB02eCdaXiE1S0MZ) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 4:33 |
+| 47 | [Hai Mua Mua](https://open.spotify.com/track/1BhDgPwf1ocaXzFWIfzZFN) | [Mỹ Huyền](https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB) | [Dong Nhac Anh Bang: Mai Toi Di](https://open.spotify.com/album/3rD0IYBCTswvgRgCklLpeX) | 3:03 |
 | 48 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 4:55 |
 | 49 | [Đò chiều](https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi) | [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc), [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap) | [Trúc Phương \- Ông Hoàng Của Dòng Nhạc Bolero](https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx) | 5:05 |
 | 50 | [Nua Dem Ngoai O](https://open.spotify.com/track/6AESqUrvtPbk25I5ojf5c3) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 5:50 |

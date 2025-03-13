@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,744 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,745 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

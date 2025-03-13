@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 15056,
+  "num_followers": 15225,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "Siniaki i cekiny",
+        "url": "https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 162484,
+      "name": "Mi\u0142ego lata",
+      "url": "https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "Na po\u0142udniu bez zmian",
         "url": "https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 218040,
       "name": "Skacz ze mn\u0105 na bomb\u0119",
       "url": "https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "Siniaki i cekiny",
-        "url": "https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 162484,
-      "name": "Mi\u0142ego lata",
-      "url": "https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "Prosta Sprawa (Muzyka i piosenki z serialu)",
         "url": "https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 196048,
       "name": "Pami\u0119tam Ci\u0119",
       "url": "https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Vanishing",
-        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
-      },
-      "artists": [
-        {
-          "name": "Blindead 23",
-          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
-        }
-      ],
-      "duration_ms": 510066,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "LIPSTICK ON THE GLASS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 152000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
+      },
+      "artists": [
+        {
+          "name": "Blindead 23",
+          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
+        }
+      ],
+      "duration_ms": 510066,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1203,22 +1203,26 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
+        "name": "Come back...",
+        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
       },
       "artists": [
         {
-          "name": "Pianohooligan",
-          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
+          "name": "Henryk Miskiewicz",
+          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
         },
         {
-          "name": "Piotr Orzechowski",
-          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
+          "name": "Chopin University Big Band",
+          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
+        },
+        {
+          "name": "Piotr Kostrzewa",
+          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
         }
       ],
-      "duration_ms": 865922,
-      "name": "Critique of Swing in Two Parts, Pt. 1",
-      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+      "duration_ms": 416128,
+      "name": "Kakaruka",
+      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1251,30 +1255,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Come back...",
-        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
-      },
-      "artists": [
-        {
-          "name": "Henryk Miskiewicz",
-          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
-        },
-        {
-          "name": "Chopin University Big Band",
-          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
-        },
-        {
-          "name": "Piotr Kostrzewa",
-          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
-        }
-      ],
-      "duration_ms": 416128,
-      "name": "Kakaruka",
-      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Live 2021",
         "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
       },
@@ -1287,6 +1267,46 @@
       "duration_ms": 236493,
       "name": "Jestem g\u0142odny",
       "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
+      },
+      "artists": [
+        {
+          "name": "Pianohooligan",
+          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
+        },
+        {
+          "name": "Piotr Orzechowski",
+          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
+        }
+      ],
+      "duration_ms": 865922,
+      "name": "Critique of Swing in Two Parts, Pt. 1",
+      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Universum",
+        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
+      },
+      "artists": [
+        {
+          "name": "Dawid Lubowicz",
+          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
+        },
+        {
+          "name": "Atom String Quartet",
+          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
+        }
+      ],
+      "duration_ms": 332013,
+      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
+      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1315,26 +1335,6 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "Universum",
-        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
-      },
-      "artists": [
-        {
-          "name": "Dawid Lubowicz",
-          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
-        },
-        {
-          "name": "Atom String Quartet",
-          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
-      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Wsp\u00f3\u0142g\u0142osy",
         "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 91803,
       "name": "Gospel Song",
       "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "No Soloing, Please",
+        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
+      },
+      "artists": [
+        {
+          "name": "Adam J\u0119drysik",
+          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
+        }
+      ],
+      "duration_ms": 125412,
+      "name": "the right place to be (dzieksa)",
+      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 577993,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "No Soloing, Please",
-        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
-      },
-      "artists": [
-        {
-          "name": "Adam J\u0119drysik",
-          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
-        }
-      ],
-      "duration_ms": 125412,
-      "name": "the right place to be (dzieksa)",
-      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
     },
     {
       "added_at": "2025-03-06 13:50:31",

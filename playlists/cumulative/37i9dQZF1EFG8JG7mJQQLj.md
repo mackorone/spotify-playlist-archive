@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-539 songs - 1 day 6 hr 43 min
+540 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,8 @@
 | [Rich Love \(with Seeb\)](https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Rich Love](https://open.spotify.com/album/0fLgNovzjpxE13hCIWa0sL) | 3:21 | 2024-01-29 |  |
 | [Right Now](https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2024-01-29 |  |
 | [RIIICH](https://open.spotify.com/track/2ckJF2jluuZ8q3BRZ19as7) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [RIIICH](https://open.spotify.com/album/2Tv4mu5RRsj5YfG7TYoyC4) | 3:14 | 2024-01-29 |  |
-| [Rockstar](https://open.spotify.com/track/2e26R02kxMvLSx7uvNYyGU) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:18 | 2025-03-02 |  |
+| [Rockstar](https://open.spotify.com/track/2e26R02kxMvLSx7uvNYyGU) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:18 | 2025-03-02 | 2025-03-13 |
+| [Rockstar](https://open.spotify.com/track/65ZihkVQO3KqPj7ZKxmcev) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:18 | 2025-03-12 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-08-07 | 2025-03-03 |
 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2024-01-29 |  |
 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 | 2024-08-16 |  |

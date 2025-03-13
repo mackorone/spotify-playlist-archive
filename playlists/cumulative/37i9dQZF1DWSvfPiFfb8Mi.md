@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-352 songs - 23 hr 13 min
+353 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Stand Up](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Stand Up](https://open.spotify.com/album/0RYjPzxyHrBPebqHtUbtIY) | 2:26 | 2024-03-22 | 2024-04-19 |
 | [Stick Together](https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Stick Together](https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX) | 1:50 | 2024-04-12 |  |
 | [Stop The World](https://open.spotify.com/track/7hXWENKVs2XOlIdzgCMws7) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Stop The World](https://open.spotify.com/album/4Nd0jx1QuMiTgJgdJZBohf) | 3:32 | 2024-09-20 | 2025-02-17 |
-| [Street Player \- Dimitri From Paris Super Disco Blend, Pt\. I & II](https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4) | [Leonid & Friends](https://open.spotify.com/artist/238tF244RAl3ApUAr23NVc), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Street Player \(Dimitri From Paris Remixes\)](https://open.spotify.com/album/2v1rNv1sKK9iIEsscwv05V) | 10:06 | 2023-05-19 |  |
+| [Street Player \- Dimitri From Paris Super Disco Blend, Pt\. I & II](https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4) | [Leonid & Friends](https://open.spotify.com/artist/238tF244RAl3ApUAr23NVc), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Street Player \(Dimitri From Paris Remixes\)](https://open.spotify.com/album/2v1rNv1sKK9iIEsscwv05V) | 10:06 | 2023-05-19 | 2025-03-13 |
 | [Street Swimming](https://open.spotify.com/track/1E1kJlXTfjl3WT1iyRq718) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Street Swimming](https://open.spotify.com/album/5CDlK2UulC69TCPGX26rT4) | 3:02 | 2021-07-24 | 2023-05-20 |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-19 | 2024-05-25 |
@@ -345,6 +345,7 @@
 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 | 2023-09-22 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2023-05-19 | 2024-10-28 |
 | [Welcome To Organic](https://open.spotify.com/track/2RABiORxekaDV23sfNTjid) | [Mount Liberation Unlimited](https://open.spotify.com/artist/5zVhnqOyQesaJrFSC0wShT) | [Mount Liberation Unlimited](https://open.spotify.com/album/0NGgNO6HINijyLI7aHreKP) | 4:59 | 2021-07-24 | 2022-06-21 |
+| [What Am I](https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [What Am I](https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm) | 3:11 | 2025-03-07 |  |
 | [what i feel](https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [tomorrow never comes](https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT) | 3:20 | 2024-09-27 |  |
 | [What You Mean to Me](https://open.spotify.com/track/2oh0F0WIDbbFDhaJHpBxOU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Free Fall](https://open.spotify.com/album/6XouRdQWRuzp17zN4IMfjU) | 6:24 | 2021-07-24 | 2023-05-20 |
 | [When We're Together](https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt) | [Love Language](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Bodies in Motion](https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA) | 3:16 | 2024-10-11 | 2024-11-21 |

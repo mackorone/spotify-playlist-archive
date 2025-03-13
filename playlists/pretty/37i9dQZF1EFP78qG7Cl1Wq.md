@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,091 likes - 234 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,093 likes - 234 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 34 | [Take Yourself Home](https://open.spotify.com/track/6LqK5VHLY9Aaxn9jYEmEDb) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 4:09 |
 | 35 | [worst behavior](https://open.spotify.com/track/6KIKaWKE9wV6mLjho3w61y) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:04 |
 | 36 | [Not a Pop Song](https://open.spotify.com/track/5WDIq9E5f5ryHeIs8FwKcl) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:59 |
-| 37 | [Diamonds \(with Normani\)](https://open.spotify.com/track/0PQsrLxPbOBBwwmXCnGvcF) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Diamonds \(with Normani\)](https://open.spotify.com/album/2brh6nArR9NUPankXlhmAZ) | 3:19 |
-| 38 | [summer](https://open.spotify.com/track/09V88jra8j1yk3UEqz4Hd3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL \(Korean Special Edition\)](https://open.spotify.com/album/61dwQc7Dvb0KESBhI7Xk8S) | 2:45 |
+| 37 | [summer](https://open.spotify.com/track/09V88jra8j1yk3UEqz4Hd3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL \(Korean Special Edition\)](https://open.spotify.com/album/61dwQc7Dvb0KESBhI7Xk8S) | 2:45 |
+| 38 | [Diamonds \(with Normani\)](https://open.spotify.com/track/0PQsrLxPbOBBwwmXCnGvcF) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Diamonds \(with Normani\)](https://open.spotify.com/album/2brh6nArR9NUPankXlhmAZ) | 3:19 |
 | 39 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
 | 40 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
 | 41 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 233 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 234 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbrzCgAAAABcYvSjPvNtT7H3Y/1QnCa1`
+Snapshot ID: `Abr4qgAAAAAe1SWmCr+Rbt4BRmEBAnN2`

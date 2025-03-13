@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: MAN WITH A MISSION
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,874 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,890 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 73 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 74 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
 | 75 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
-| 76 | [The Landolt C](https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [The Landolt C](https://open.spotify.com/album/3AEc4G6uZqIGc02Xo9ApZ1) | 3:28 |
+| 76 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
 | 77 | [helm’N bass](https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [helm’N bass](https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi) | 3:54 |
-| 78 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
+| 78 | [The Landolt C](https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [The Landolt C](https://open.spotify.com/album/3AEc4G6uZqIGc02Xo9ApZ1) | 3:28 |
 | 79 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 |
 | 80 | [girls lie.](https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 2:45 |
 | 81 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
 | 82 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
-| 83 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
-| 84 | [LIES \- feat\. PK](https://open.spotify.com/track/6fjTOhbiqbeTRM04yxNaaA) | [Falling Asleep](https://open.spotify.com/artist/10ieHOzetJ5VD9IBD1flWx), [PK](https://open.spotify.com/artist/0QA9CU5CuE7A7e1mjDEIG2) | [LIES](https://open.spotify.com/album/3Vxce3BdxpvwCl51DsIS8U) | 3:24 |
-| 85 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
-| 86 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
+| 83 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
+| 84 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
+| 85 | [LIES \- feat\. PK](https://open.spotify.com/track/6fjTOhbiqbeTRM04yxNaaA) | [Falling Asleep](https://open.spotify.com/artist/10ieHOzetJ5VD9IBD1flWx), [PK](https://open.spotify.com/artist/0QA9CU5CuE7A7e1mjDEIG2) | [LIES](https://open.spotify.com/album/3Vxce3BdxpvwCl51DsIS8U) | 3:24 |
+| 86 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
 | 87 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 |
 | 88 | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt) | 3:28 |
 | 89 | [smileY:\)](https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [smileY:\)](https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn) | 1:55 |

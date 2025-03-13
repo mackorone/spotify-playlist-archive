@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,938 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,946 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 5 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
 | 6 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 |
 | 7 | [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 |
-| 8 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
-| 9 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
+| 8 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
+| 9 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
 | 10 | [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 |
 | 11 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 |
 | 12 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 36 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
 | 37 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
 | 38 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
-| 39 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 |
-| 40 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
-| 41 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
-| 42 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 |
-| 43 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
-| 44 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
+| 39 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
+| 40 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 |
+| 41 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
+| 42 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
+| 43 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 |
+| 44 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 | 45 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
 | 46 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
 | 47 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
-| 48 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
-| 49 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
+| 48 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
+| 49 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 50 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
 
 Snapshot ID: `Z8DuogAAAABqT6XUM27QhAO17+TJpoSM`

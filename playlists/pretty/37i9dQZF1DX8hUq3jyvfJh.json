@@ -1,6 +1,6 @@
 {
   "description": "Escute Duquesa e mais mulheres incr\u00edveis no volume m\u00e1ximo! co-curada por Duquesa",
-  "num_followers": 189031,
+  "num_followers": 189009,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
+        "name": "Quase Pronta Mixtape",
+        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        }
+      ],
+      "duration_ms": 148829,
+      "name": "\u00c0s Vezes",
+      "url": "https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY"
+    },
+    {
+      "added_at": "2025-02-05 12:36:27",
+      "album": {
         "name": "Nada Veio De Gra\u00e7a",
         "url": "https://open.spotify.com/album/6SDiWRDW6DMZUvXlVMoY1Q"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 183870,
       "name": "Nada Veio De Gra\u00e7a",
       "url": "https://open.spotify.com/track/0sCl69kcmFEhRVzNPSHTCH"
-    },
-    {
-      "added_at": "2025-02-05 12:36:27",
-      "album": {
-        "name": "Quase Pronta Mixtape",
-        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        }
-      ],
-      "duration_ms": 148829,
-      "name": "\u00c0s Vezes",
-      "url": "https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY"
     },
     {
       "added_at": "2025-02-05 12:36:27",
@@ -819,26 +819,22 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
-        "name": "It Girl Pt. 2",
-        "url": "https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK"
+        "name": "Semiseria",
+        "url": "https://open.spotify.com/album/3bVAx8tYtibv6Zcg95mb1N"
       },
       "artists": [
         {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+          "name": "\u00c1urea Semiseria",
+          "url": "https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg"
         },
         {
-          "name": "Jaxz Bond",
-          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 144101,
-      "name": "Turn\u00ea",
-      "url": "https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI"
+      "duration_ms": 173419,
+      "name": "Big Mamma",
+      "url": "https://open.spotify.com/track/3c7LMm68wN0Z3i6Jr41Ao1"
     },
     {
       "added_at": "2025-02-05 12:36:27",
@@ -887,22 +883,26 @@
     {
       "added_at": "2025-02-05 12:36:27",
       "album": {
-        "name": "Semiseria",
-        "url": "https://open.spotify.com/album/3bVAx8tYtibv6Zcg95mb1N"
+        "name": "It Girl Pt. 2",
+        "url": "https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK"
       },
       "artists": [
         {
-          "name": "\u00c1urea Semiseria",
-          "url": "https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg"
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "Jaxz Bond",
+          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
         }
       ],
-      "duration_ms": 173419,
-      "name": "Big Mamma",
-      "url": "https://open.spotify.com/track/3c7LMm68wN0Z3i6Jr41Ao1"
+      "duration_ms": 144101,
+      "name": "Turn\u00ea",
+      "url": "https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI"
     },
     {
       "added_at": "2025-02-05 12:36:27",

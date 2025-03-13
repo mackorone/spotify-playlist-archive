@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,763 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,780 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 66 | [Freedom](https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Freedom](https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4) | 3:18 |
 | 67 | [Tillfälligheter / Hungry Hearts \- Mashup](https://open.spotify.com/track/2BCskl15k3IkQmj2YTYk2b) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Tillfälligheter / Hungry Hearts \(Mashup\)](https://open.spotify.com/album/2dJWXi5jTW9MFHJ17ruXFc) | 3:14 |
 | 68 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 |
-| 69 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
-| 70 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
+| 69 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
+| 70 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
 | 71 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy) | 2:33 |
 | 72 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 |
 | 73 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |

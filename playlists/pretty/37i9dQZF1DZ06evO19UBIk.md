@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,979 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,028 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,26 +32,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 22 | [Strange Days](https://open.spotify.com/track/4WFVX3E568hdAixIj3U222) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:06 |
 | 23 | [Waiting for the Sun](https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 3:58 |
 | 24 | [Back Door Man](https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:32 |
-| 25 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 |
+| 25 | [Spanish Caravan](https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:58 |
 | 26 | [Moonlight Drive](https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:01 |
-| 27 | [Spanish Caravan](https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:58 |
+| 27 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 |
 | 28 | [Queen of the Highway](https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:47 |
-| 29 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 |
+| 29 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 |
 | 30 | [Breakn' a Sweat](https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 5:01 |
-| 31 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 |
+| 31 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 |
 | 32 | [My Eyes Have Seen You](https://open.spotify.com/track/6HSQ5z5afdLjhphHWfPiEG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:27 |
-| 33 | [Hyacinth House](https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:10 |
-| 34 | [Wild Child](https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:35 |
-| 35 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 |
+| 33 | [Wild Child](https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:35 |
+| 34 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 |
+| 35 | [Hyacinth House](https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:10 |
 | 36 | [Bird of Prey](https://open.spotify.com/track/0psPuObi7UupQnXjaex39e) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:03 |
-| 37 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
-| 38 | [Tell All the People](https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:20 |
-| 39 | [Summer's Almost Gone](https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:19 |
+| 37 | [Tell All the People](https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:20 |
+| 38 | [Not to Touch the Earth](https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:54 |
+| 39 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
 | 40 | [I Am Troubled \- 2019 Remaster](https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE) | 0:39 |
-| 41 | [Mack The Knife \- Live 1968](https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Back In Town \(Live\)](https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj) | 1:36 |
-| 42 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
+| 41 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
+| 42 | [Mack The Knife \- Live 1968](https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Back In Town \(Live\)](https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj) | 1:36 |
 | 43 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 |
 | 44 | [Runnin' Blue](https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:26 |
 | 45 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 |
 
-Snapshot ID: `Z8zaAAAAAADNa33eQOoOjM5fZHRkNPm7`
+Snapshot ID: `Z899AAAAAAC9oGayMf2Y59mlxWF6HJ9b`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADbWKTTn+u6MZjDa6Lkf3rF",
+  "snapshot_id": "Z899AAAAAADYNk/ZS4ITsPbM3ViF5b6K",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199877,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no vuelvas a mirar atr\u00e1s",
         "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 245945,
       "name": "no vuelvas a mirar atr\u00e1s",
       "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tonight",
         "url": "https://open.spotify.com/album/6S99rpqeEMctqNEs43xmOW"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 200212,
       "name": "tonight",
       "url": "https://open.spotify.com/track/4WGFnr5oQ7JzIORYDWwA4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "stfu (i got u)",
-      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wishlist",
         "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 203093,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
       "artists": [
         {
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
+      "duration_ms": 152851,
+      "name": "no importa",
+      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 152851,
-      "name": "no importa",
-      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "lips (Original Music from The L Word: Generation Q)",
         "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "mentiras",
+      "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mensajes de voz",
         "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 183587,
-      "name": "mentiras",
-      "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
+      "duration_ms": 235480,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "sad girl",
-      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "malos h\u00e1bitos",
-        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hookah envenena",
         "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 170682,
       "name": "hookah envenena",
       "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,

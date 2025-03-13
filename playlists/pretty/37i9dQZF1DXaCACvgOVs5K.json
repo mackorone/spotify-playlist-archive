@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 632343,
+  "num_followers": 632522,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Amana",
+        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 338210,
+      "name": "Amana",
+      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Amana",
-        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 338210,
-      "name": "Amana",
-      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 178304,
       "name": "World, Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Can\u2019t Fight The Feeling",
-        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Can\u2019t Fight The Feeling",
-      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 134846,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Can\u2019t Fight The Feeling",
+        "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Can\u2019t Fight The Feeling",
+      "url": "https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -903,18 +919,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -935,26 +955,6 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Better Times",
         "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
@@ -1035,6 +1019,26 @@
       "duration_ms": 199015,
       "name": "Better Times",
       "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1067,42 +1071,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
       },
       "artists": [
         {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 158716,
       "name": "Fine Fine Baby (with Kah-Lo)",
       "url": "https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Set Me Free (feat. Robert Courtois)",
-        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Robert Courtois",
-          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
-        }
-      ],
-      "duration_ms": 150218,
-      "name": "Set Me Free (feat. Robert Courtois)",
-      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Alma de Ibiza (WEPA)",
         "url": "https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 208814,
       "name": "Motions",
       "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Set Me Free (feat. Robert Courtois)",
+        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Robert Courtois",
+          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
+        }
+      ],
+      "duration_ms": 150218,
+      "name": "Set Me Free (feat. Robert Courtois)",
+      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "The Big Easy",
         "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 195143,
       "name": "Wile Out (feat. Surya Sen)",
       "url": "https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 214575,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1647,18 +1623,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
       },
       "artists": [
         {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
         }
       ],
-      "duration_ms": 219099,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
+      "duration_ms": 214575,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 223384,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Talamanca (Carl Cox Remix)",
         "url": "https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 275076,
       "name": "Talamanca - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Up Down Round",
-        "url": "https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 144393,
-      "name": "Up Down Round",
-      "url": "https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Locomotiva Ibiza 2099 I",
         "url": "https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 399360,
       "name": "Locomotiva Ibiza 2099 feat. VTSS",
       "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Up Down Round",
+        "url": "https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 144393,
+      "name": "Up Down Round",
+      "url": "https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K"
     },
     {
       "added_at": "2024-09-26 23:00:00",

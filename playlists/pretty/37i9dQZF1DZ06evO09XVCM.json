@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34012,
+  "num_followers": 34011,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABBMHhfLS5E2wztj7sJT7yQ",
+  "snapshot_id": "Z899AAAAAAAUKaLk5MAPIN7txHW+r4M4",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Circle Of Peace",
-      "url": "https://open.spotify.com/track/6xqnSKk0vyzp8KhkeKj9oG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 292400,
       "name": "The Chapel",
       "url": "https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Circle Of Peace",
+      "url": "https://open.spotify.com/track/6xqnSKk0vyzp8KhkeKj9oG"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "#7DJ (7 D\u00edas En Jamaica)",
         "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 230920,
       "name": "Tonika (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 149306,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": null,
@@ -451,54 +451,6 @@
       "duration_ms": 225595,
       "name": "There's A Reward",
       "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Rainbow in the Sky",
-      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 184992,
-      "name": "High On Life",
-      "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 359923,
-      "name": "Top Rankin'/We And Dem - Live",
-      "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
     },
     {
       "added_at": null,
@@ -548,9 +500,41 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Never Deny You",
-      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
+      "duration_ms": 188333,
+      "name": "Rainbow in the Sky",
+      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 359923,
+      "name": "Top Rankin'/We And Dem - Live",
+      "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 184992,
+      "name": "High On Life",
+      "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Never Deny You",
+      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
     },
     {
       "added_at": null,
@@ -627,42 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solid Gold",
-        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
-      },
-      "artists": [
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 269929,
-      "name": "Trenchtown Rock (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 256978,
-      "name": "Positive Vibration - Live",
-      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -683,6 +647,42 @@
       "duration_ms": 213480,
       "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
       "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 256978,
+      "name": "Positive Vibration - Live",
+      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solid Gold",
+        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 269929,
+      "name": "Trenchtown Rock (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
       "duration_ms": 236746,
       "name": "Sedjedo",
       "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb"
     },
     {
       "added_at": null,
@@ -799,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
         }
       ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
     },
     {
       "added_at": null,
@@ -831,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "RUSL",
-          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
         }
       ],
-      "duration_ms": 188668,
-      "name": "Sunshine (feat. RUSL) - RUSL Remix",
-      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 238253,
       "name": "See Dem Fake Leaders",
       "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "RUSL",
+          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
+        }
+      ],
+      "duration_ms": 188668,
+      "name": "Sunshine (feat. RUSL) - RUSL Remix",
+      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
     },
     {
       "added_at": null,
@@ -935,30 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOUL VISION",
-        "url": "https://open.spotify.com/album/1BWLKNP3j1XqLv4avK874f"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
       },
       "artists": [
         {
-          "name": "Nneka",
-          "url": "https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ"
-        },
-        {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Frank Fitzpatrick",
-          "url": "https://open.spotify.com/artist/6xnvYc9KEUaCsJQhX5oiJz"
-        },
-        {
-          "name": "Eeday",
-          "url": "https://open.spotify.com/artist/0VHM0UdeTigh5S74sgtNoB"
         }
       ],
-      "duration_ms": 254745,
-      "name": "Express Yourself (Amplified Mix)",
-      "url": "https://open.spotify.com/track/5onx5emgJUwxgJ9Osoywzq"
+      "duration_ms": 260113,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

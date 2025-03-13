@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,019 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,020 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 |
 | 2 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 3 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 |
-| 4 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 |
-| 5 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 |
+| 4 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 |
+| 5 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 |
 | 6 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 |
 | 7 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
 | 8 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 34 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 | 35 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 36 | [Now I Know](https://open.spotify.com/track/591qy56kcfBuNgj1kregOM) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Now I Know](https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc) | 3:01 |
-| 37 | [I Do Me](https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [I Do Me](https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M) | 2:43 |
-| 38 | [Give Me Your Love](https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd) | [Fame](https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6) | [Give Me Your Love](https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR) | 3:02 |
-| 39 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |
+| 37 | [Give Me Your Love](https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd) | [Fame](https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6) | [Give Me Your Love](https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR) | 3:02 |
+| 38 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 |
+| 39 | [I Do Me](https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [I Do Me](https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M) | 2:43 |
 | 40 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 41 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
 | 42 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 48 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 |
 | 49 | [Baby Goodbye](https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [A State Of Mind](https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0) | 2:54 |
 | 50 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
-| 51 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
-| 52 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
+| 51 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
+| 52 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |
 
 Snapshot ID: `Z8zMBAAAAADk9qeZ7uxUQP81F82zC1An`

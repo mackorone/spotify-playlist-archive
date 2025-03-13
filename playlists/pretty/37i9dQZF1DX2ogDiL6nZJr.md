@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,148 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,384 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 14 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 |
 | 15 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 |
 | 16 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
-| 17 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
-| 18 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
+| 17 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
+| 18 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 | 19 | [One Evening](https://open.spotify.com/track/09dYenMs0WXWh0pAAtd9Zd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB) | 3:36 |
 | 20 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 21 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 54 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 55 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
 | 56 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 |
-| 57 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
-| 58 | [I'm Trying](https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Library](https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE) | 3:15 |
+| 57 | [I'm Trying](https://open.spotify.com/track/2cDHWddXHOEuKgM5I3Ekjs) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Library](https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE) | 3:15 |
+| 58 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
 | 59 | [Californian Soil](https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg) | 3:41 |
 | 60 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
 | 61 | [Rhizome](https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [No Fire in the Sand](https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ) | 4:17 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 66 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
 | 67 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 |
 | 68 | [Hello Sunshine](https://open.spotify.com/track/26fA2nehuPzIVzfWwKg9MA) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hello Sunshine](https://open.spotify.com/album/5YeVhDtsgPOBSo0e4qIxRb) | 2:33 |
-| 69 | [Golden](https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x) | [Golden](https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL) | 3:14 |
+| 69 | [You Might](https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K) | [MarkMoon](https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ) | [You Might](https://open.spotify.com/album/7otKscInqHObpSN9hIWjte) | 1:59 |
 | 70 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
-| 71 | [You Might](https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K) | [MarkMoon](https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ) | [You Might](https://open.spotify.com/album/7otKscInqHObpSN9hIWjte) | 1:59 |
+| 71 | [Golden](https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x) | [Golden](https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL) | 3:14 |
 | 72 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
 | 73 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 74 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 |

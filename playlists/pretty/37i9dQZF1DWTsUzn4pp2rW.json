@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 171663,
+  "num_followers": 171696,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Can't Fight Love",
+        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
+      },
+      "artists": [
+        {
+          "name": "Marif\u00e9",
+          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Can't Fight Love",
+      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Can't Fight Love",
-        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
-      },
-      "artists": [
-        {
-          "name": "Marif\u00e9",
-          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Can't Fight Love",
-      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Midnight Jones",
-        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "Peace - First Sessions Demo",
-      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Midnight Jones",
+        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "Peace - First Sessions Demo",
+      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Melodic Canvas",
         "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 207396,
       "name": "Do You Believe",
       "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2024-09-18 05:02:09",

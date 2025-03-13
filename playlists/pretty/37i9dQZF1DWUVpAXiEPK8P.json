@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4244595,
+  "num_followers": 4244572,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-05-22 12:00:00",
       "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 132832,
+      "name": "Martin & Gina",
+      "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
+    },
+    {
+      "added_at": "2024-05-22 12:00:00",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 203786,
       "name": "1, 2 Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2024-05-22 12:00:00",
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 132832,
-      "name": "Martin & Gina",
-      "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
     },
     {
       "added_at": "2024-05-22 12:00:00",

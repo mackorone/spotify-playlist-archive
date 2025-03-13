@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,433 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,442 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 13 | [GHOSTS IN MY ROOM](https://open.spotify.com/track/56NeQMRoZnqzLNz7naX0kz) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [GHOSTS IN MY ROOM](https://open.spotify.com/album/4dIppxd4cpY5jutYjGhRIC) | 3:29 |
 | 14 | [Teal Cutlass](https://open.spotify.com/track/2u79Sx1OWs52ng5hR4vo4q) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Ghost Notes](https://open.spotify.com/artist/3p3RulJ5SgVjRUywR2RKup), [Pro Dillinger](https://open.spotify.com/artist/27rHpyfeuJ7Rtka10jBojd) | [The Estes Method](https://open.spotify.com/album/6b5WBALGvWU1C9bJMJGKsy) | 2:44 |
 | 15 | [HITSCAN](https://open.spotify.com/track/3oP2Q4QYLb0krybHshZ2CM) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HITSCAN](https://open.spotify.com/album/0wIbOInUJpzoozjaZBIYp6) | 2:27 |
-| 16 | [Messi](https://open.spotify.com/track/0RPB4pwJ6EdiZ6vSeOi1DV) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [TOBi](https://open.spotify.com/artist/2zVarNfkdOVJwmf5aaKHQE) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 3:17 |
+| 16 | [Messi](https://open.spotify.com/track/0RPB4pwJ6EdiZ6vSeOi1DV) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 3:17 |
 | 17 | [Free un tel](https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Porter le coup, oublier\. Porter la marque, se souvenir](https://open.spotify.com/album/47wpyURruMQckYemmj2fb5) | 3:36 |
 | 18 | [underground legend](https://open.spotify.com/track/7jibSWPG306tXKiBxqT12e) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [shabbvangogh](https://open.spotify.com/album/3GlNJAb1kH1GH10YvyFhwI) | 2:11 |
 | 19 | [Chapter Savvy](https://open.spotify.com/track/2PTK0LrdtQ5cLWEwg9I3fA) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Chapter Savvy](https://open.spotify.com/album/6lUzUmkAtdT2xcWujagaIq) | 2:13 |

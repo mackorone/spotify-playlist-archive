@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,810 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,823 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 14 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
 | 15 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 |
 | 16 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
-| 17 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 |
+| 17 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 |
 | 18 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
 | 19 | [Pull Up](https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Santi](https://open.spotify.com/artist/4B0NjjLmANzqttcCrw9VeF) | [Everything Pretty](https://open.spotify.com/album/5C0aXCJzr9tBP7iWvuWBGs) | 3:22 |
 | 20 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 21 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 |
 | 22 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 |
-| 23 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 |
+| 23 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 |
 | 24 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 |
 | 25 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
 | 26 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 46 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
 | 47 | [My Wave](https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sona](https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 4:19 |
 | 48 | [SPACE](https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:13 |
-| 49 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |
-| 50 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
+| 49 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
+| 50 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |
 | 51 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
 | 52 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 |
 | 53 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 55 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
 | 56 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
 | 57 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
-| 58 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
-| 59 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 |
-| 60 | [Boytoy](https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Boytoy](https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7) | 2:19 |
+| 58 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 |
+| 59 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
+| 60 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
 
 Snapshot ID: `Zv+GTAAAAADjE2yQ2xGO739rBBRrQUNA`

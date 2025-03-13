@@ -124801,28 +124801,6 @@
     },
     {
       "album": {
-        "name": "The Swimming Pool",
-        "url": "https://open.spotify.com/album/7cYQDFQn9IZ4uRqMhkbIoH"
-      },
-      "artists": [
-        {
-          "name": "Lance Ferguson",
-          "url": "https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua"
-        },
-        {
-          "name": "The Bamboos",
-          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
-        }
-      ],
-      "date_added": "2025-03-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255627,
-      "name": "Swimming Pool",
-      "url": "https://open.spotify.com/track/1CuNRbx1zzhyIGfr5kxUgg"
-    },
-    {
-      "album": {
         "name": "SWINE",
         "url": "https://open.spotify.com/album/25TrMACZ5mWFn9r1q7qaY3"
       },
@@ -130634,6 +130612,28 @@
       "duration_ms": 178485,
       "name": "The Summer That Got Away",
       "url": "https://open.spotify.com/track/1Obt0ahEG2Avv4KAOHM7qm"
+    },
+    {
+      "album": {
+        "name": "The Swimming Pool",
+        "url": "https://open.spotify.com/album/7cYQDFQn9IZ4uRqMhkbIoH"
+      },
+      "artists": [
+        {
+          "name": "Lance Ferguson",
+          "url": "https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua"
+        },
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255627,
+      "name": "The Swimming Pool",
+      "url": "https://open.spotify.com/track/1CuNRbx1zzhyIGfr5kxUgg"
     },
     {
       "album": {

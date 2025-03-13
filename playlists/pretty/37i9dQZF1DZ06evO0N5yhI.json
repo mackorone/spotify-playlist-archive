@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 134135,
+  "num_followers": 134162,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABdoIYllGNGjzvjtHpokteW",
+  "snapshot_id": "Z899AAAAAAAjktD9I0cn0SJ0jX58a+85",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Cool About It",
-      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+      "duration_ms": 234933,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
       "added_at": null,
@@ -143,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
       "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 258812,
-      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": null,
@@ -184,25 +180,29 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 234933,
-      "name": "Not Strong Enough",
-      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+      "duration_ms": 180000,
+      "name": "Cool About It",
+      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+      "duration_ms": 258812,
+      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
     },
     {
       "added_at": null,

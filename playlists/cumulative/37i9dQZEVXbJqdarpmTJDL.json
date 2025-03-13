@@ -15337,6 +15337,24 @@
     },
     {
       "album": {
+        "name": "Gin & Bacardi",
+        "url": "https://open.spotify.com/album/2UqSxctXVnDQSBF3mcfrXY"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Gin & Bacardi",
+      "url": "https://open.spotify.com/track/0j4ZUJgIYKPG3EsnvH6l2Q"
+    },
+    {
+      "album": {
         "name": "LIBERTA",
         "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
       },
@@ -18418,7 +18436,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 127500,
       "name": "JackpoTT",
       "url": "https://open.spotify.com/track/1qu9xjffk1viZGNVeU7rSy"
@@ -22746,7 +22764,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 155604,
       "name": "LV",
       "url": "https://open.spotify.com/track/4f4x3kOLWIEn274ynz5Fh4"
@@ -24246,7 +24264,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
@@ -30092,7 +30110,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 199200,
       "name": "PATISION",
       "url": "https://open.spotify.com/track/7fMBkpvGZy1ndV7MNLvoD2"
@@ -32240,7 +32258,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 176400,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/3gZHFbrbtx94WThAqx1n5Y"

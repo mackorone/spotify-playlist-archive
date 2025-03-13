@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,577 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,676 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 66 | [Cantante de Cartel](https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Good Vibrations](https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7) | 4:33 |
 | 67 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
 | 68 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
-| 69 | [Si Me Ves Llorar](https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 5:28 |
+| 69 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
 | 70 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
-| 71 | [Fantasia Herida](https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [SALSEANDO CON..\. UNO](https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6) | 5:09 |
-| 72 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
-| 73 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |
-| 74 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
+| 71 | [Si Me Ves Llorar](https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 5:28 |
+| 72 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |
+| 73 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
+| 74 | [Fantasia Herida](https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [SALSEANDO CON..\. UNO](https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6) | 5:09 |
 | 75 | [Detalles](https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [La Formula Original](https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf) | 4:38 |
 
 Snapshot ID: `Zo8sngAAAAA9LOWTkb5Lwx4BoJhen4NC`

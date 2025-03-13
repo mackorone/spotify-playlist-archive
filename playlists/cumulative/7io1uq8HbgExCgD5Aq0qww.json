@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Hesitant Alien",
+        "url": "https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT"
+      },
+      "artists": [
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Maya the Psychic",
+      "url": "https://open.spotify.com/track/1tg5c5gVzzpSHUsIWbEl8v"
+    },
+    {
+      "album": {
         "name": "Hope and a Hand Grenade",
         "url": "https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz"
       },

@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,945 songs - 10 day 21 hr 57 min
+4,946 songs - 10 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3297,6 +3297,7 @@
 | [parkinglot](https://open.spotify.com/track/51FqcMgkf2OFli2di4Xw9o) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [parkinglot](https://open.spotify.com/album/5IaoGPf4z2TLDz23gW6ITs) | 3:25 | 2024-12-20 | 2025-02-08 |
 | [Parlons peu](https://open.spotify.com/track/2rL2Xp7YooWtywcVgAZWLy) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Temps\-tôt](https://open.spotify.com/album/7BqKxMQVXELSYioMF4aDmE) | 2:40 | 2022-12-09 | 2023-01-21 |
 | [Parque de Atracciones \(feat\. pawoblo\)](https://open.spotify.com/track/1t8Yv679mPK0KxyMtoyjl6) | [Lil Ella](https://open.spotify.com/artist/4z8DAc9ysHE4RMmrT1YiaG), [pawoblo](https://open.spotify.com/artist/1P6RVjODcrFQxu197fvkZN), [marinadorciud](https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW) | [Parque de Atracciones \(feat\. pawoblo\)](https://open.spotify.com/album/6rhzp7JaWKvKjkHeTo7Mug) | 2:55 | 2022-09-09 | 2022-10-22 |
+| [Parte de Mi](https://open.spotify.com/track/0ZJWq3iEMoEDBzBDzQPIrg) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Parte de Mi](https://open.spotify.com/album/2nTApfwPQa8Z6oIq8hD0Z7) | 3:45 | 2025-03-12 |  |
 | [Party](https://open.spotify.com/track/6YpTky9XCQ6nDLNBS3Iabj) | [Yaw Darling](https://open.spotify.com/artist/5Evs57zwRolR6QHb2qeYwv), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Party](https://open.spotify.com/album/1HAXlRpddZNK73aNEbYN3k) | 4:13 | 2023-07-07 | 2023-07-29 |
 | [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 | 2024-07-05 | 2024-07-19 |
 | [Party Boy](https://open.spotify.com/track/51miOuPRpcixpAMvEPfqHe) | [Eaglemont](https://open.spotify.com/artist/29lNdWVT8FA54OsgO0TUca) | [Party Boy](https://open.spotify.com/album/5rDfCNRou1diPQdMyp7cht) | 3:47 | 2024-04-19 | 2024-05-03 |

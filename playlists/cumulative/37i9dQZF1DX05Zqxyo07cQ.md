@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-685 songs - 1 day 9 hr 30 min
+686 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Overcome](https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Overcome](https://open.spotify.com/album/1iA61n9CWRIdgDa8ZFx6XZ) | 3:03 | 2024-07-09 |  |
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2023-03-23 | 2024-01-18 |
 | [Paintings](https://open.spotify.com/track/4z9T5rLKI42F1Pm4JMPFlY) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paintings](https://open.spotify.com/album/3dN2zzbNXmMGDuAYABHGOe) | 2:41 | 2023-03-23 | 2024-02-09 |
+| [Panacea](https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Panacea](https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG) | 2:51 | 2025-03-05 |  |
 | [Paper Planes](https://open.spotify.com/track/6K3GQ0EUISQazk67bWfWCB) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Paper Planes](https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ) | 3:30 | 2023-03-23 | 2023-09-01 |
 | [Paradigm](https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Paradigm](https://open.spotify.com/album/05RwFQSvi4XzEPlkoFsH0H) | 3:00 | 2025-01-22 |  |
 | [Paradiso](https://open.spotify.com/track/0E90iMgBCVaX7euZDNIsmE) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradiso](https://open.spotify.com/album/4HRUgpgh8njMktYmTahkQh) | 2:42 | 2024-06-18 | 2025-02-01 |
@@ -477,7 +478,7 @@
 | [Pure Devotion](https://open.spotify.com/track/5A1olsOXK5e86FYqxvnhAx) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Pure Devotion](https://open.spotify.com/album/5kneDPDEV2cJ3AxJmuYt3g) | 3:02 | 2023-11-10 | 2024-05-23 |
 | [Purifier](https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Purifier](https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts) | 3:45 | 2024-10-14 |  |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2023-03-23 | 2024-01-18 |
-| [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-09 |  |
+| [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-09 | 2025-03-13 |
 | [Quand la neige tombe](https://open.spotify.com/track/1qVYn3HKHjga2franlJdU1) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Quand la neige tombe](https://open.spotify.com/album/0WS3vyLeMR9nNvvRf9c0fO) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-23 | 2024-02-09 |

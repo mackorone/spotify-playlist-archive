@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa KAJ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,446 likes - 64 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,467 likes - 64 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 9 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
 | 10 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
 | 11 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
-| 12 | [Ei me kuolla kuitenkaan](https://open.spotify.com/track/6JJOkXsbhZAWfJUIFApXIp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Ei me kuolla kuitenkaan](https://open.spotify.com/album/39MJlMRGdRCQiHCqMJHibn) | 3:32 |
+| 12 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
 | 13 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
-| 14 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
-| 15 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
-| 16 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
-| 17 | [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 |
+| 14 | [Ei me kuolla kuitenkaan](https://open.spotify.com/track/6JJOkXsbhZAWfJUIFApXIp) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Ei me kuolla kuitenkaan](https://open.spotify.com/album/39MJlMRGdRCQiHCqMJHibn) | 3:32 |
+| 15 | [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 |
+| 16 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
+| 17 | [Mä ja sä \(feat\. ABREU\)](https://open.spotify.com/track/5VtxTNVzC0PohY2IwRzTk3) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:18 |
 | 18 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 |
 | 19 | [Suuria tarinoita](https://open.spotify.com/track/4ZPgBmWL0HQ87T1E8dHoHk) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suuria tarinoita](https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3) | 3:06 |
 | 20 | [Jäävuorii](https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Jäävuorii](https://open.spotify.com/album/3LKRIasfmbfoFhFQJZ5a5O) | 4:05 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 63 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 64 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 |
 
-Snapshot ID: `Z9CaqwAAAADFMEcGl3uFQahJNtO7C9yt`
+Snapshot ID: `Z9FREwAAAADL1BMMhEpq6ya65F6Aqr2l`

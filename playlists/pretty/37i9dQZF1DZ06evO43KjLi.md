@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,955 likes - 47 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,969 likes - 47 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 30 | [Pasan Los Dias](https://open.spotify.com/track/18QZ9gVts0qXiITtUcBf9S) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 3:00 |
 | 31 | [Otra Noche Mas \- En Vivo](https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:21 |
 | 32 | [Besos](https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 2:41 |
-| 33 | [454](https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 2:35 |
-| 34 | [Morro Loco](https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Morro Loco](https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c) | 3:11 |
+| 33 | [Morro Loco](https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Morro Loco](https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c) | 3:11 |
+| 34 | [454](https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 2:35 |
 | 35 | [Substancias](https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Substancias](https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb) | 3:24 |
 | 36 | [Seduceme](https://open.spotify.com/track/6um5rfVr77YWdtW2BFVnb0) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 2:21 |
 | 37 | [Madre](https://open.spotify.com/track/7gl6Espy38g068wpy32adp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:35 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 46 | [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 |
 | 47 | [Intro](https://open.spotify.com/track/453sDOvAWU4QVvGegD46du) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:32 |
 
-Snapshot ID: `Z8zaAAAAAAAksNmKBCSQX5sDLun+wOjv`
+Snapshot ID: `Z899AAAAAADo1mAdFbuiSOP0q+cvNDTJ`

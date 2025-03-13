@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,382,304 likes - 177 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382,568 likes - 177 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

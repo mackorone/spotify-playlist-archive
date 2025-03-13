@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: yung kai
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,325 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,332 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

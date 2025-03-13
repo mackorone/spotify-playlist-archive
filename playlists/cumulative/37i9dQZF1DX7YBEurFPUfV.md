@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-124 songs - 7 hr 7 min
+127 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,14 +84,15 @@
 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 | 2024-02-24 | 2024-12-06 |
 | [Mata7kich](https://open.spotify.com/track/4vSMMlTaIk53HeRtn1Yhg5) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Mata7kich](https://open.spotify.com/album/1J2UZknu6mll6gHAD3YtpP) | 3:15 | 2024-02-24 | 2024-08-02 |
 | [Mel Galb](https://open.spotify.com/track/1RjZ14m5vJCa47WDmM2RHD) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mel Galb](https://open.spotify.com/album/1V4kGcJm7sh4iX3r5hAF0O) | 3:45 | 2024-02-24 |  |
+| [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 | 2025-03-12 |  |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2024-02-24 | 2024-05-03 |
 | [MERENGUE](https://open.spotify.com/track/3QqhtC6ID1MfSVNxg9x33p) | [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [MERENGUE](https://open.spotify.com/album/7fhrmMITLrEEyCCsQS8HLw) | 3:12 | 2024-09-13 | 2024-09-19 |
-| [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 | 2024-07-26 |  |
+| [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 | 2024-07-26 | 2025-03-13 |
 | [Messyeba](https://open.spotify.com/track/5PQEjCkpBTcu7ckIHzlFZm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Messyeba](https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr) | 4:43 | 2024-02-24 | 2024-07-17 |
 | [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 | 2024-06-05 | 2024-08-21 |
 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 | 2024-10-10 |  |
 | [N3awed fel 3am](https://open.spotify.com/track/707GkvPkCHMVdPIXzWlv3g) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl), [L'vibe](https://open.spotify.com/artist/2nhBiQjksWJvRoNf9H2fZa) | [Side Effects](https://open.spotify.com/album/0BNTa2AYTosb561nNUWG4S) | 2:46 | 2025-02-17 |  |
-| [NE7LEF](https://open.spotify.com/track/7kNMPjBvOLwkdrj39A6Jwm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [NE7LEF](https://open.spotify.com/album/6ywgv4mpHICIW4nfg9jCly) | 3:52 | 2024-07-16 |  |
+| [NE7LEF](https://open.spotify.com/track/7kNMPjBvOLwkdrj39A6Jwm) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [NE7LEF](https://open.spotify.com/album/6ywgv4mpHICIW4nfg9jCly) | 3:52 | 2024-07-16 | 2025-03-13 |
 | [NESSI ENNOUM](https://open.spotify.com/track/79YxZIeHwjSF65yKl03ebx) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [NESSI ENNOUM](https://open.spotify.com/album/64MeBBw7pKbnTuQtUYJndT) | 4:35 | 2024-02-24 | 2024-06-05 |
 | [Nesta3ref](https://open.spotify.com/track/0dIYvl9pLL5lhmTXOWkz5Q) | [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Nesta3ref](https://open.spotify.com/album/5We6huHN6gtuVPYXXqNw3e) | 3:25 | 2024-02-24 | 2024-11-08 |
 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 | 2024-02-24 | 2024-10-30 |
@@ -112,11 +113,13 @@
 | [SNE NMES SME](https://open.spotify.com/track/60iFivuGYfiQaI0doBvyop) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NOTE](https://open.spotify.com/album/3t4d4XbkJ02ohP8efP1g4L) | 3:17 | 2024-02-24 |  |
 | [SOMMET](https://open.spotify.com/track/0BL3kRwVBhFH8pZ1NgLOIk) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [SOMMET](https://open.spotify.com/album/5tZPJfcLFCwma2ln8UaOHq) | 3:34 | 2024-07-08 |  |
 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 | 2024-05-10 | 2024-11-15 |
-| [Souvenir](https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Souvenir](https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi) | 2:57 | 2024-05-24 |  |
+| [Souvenir](https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Souvenir](https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi) | 2:57 | 2024-05-24 | 2025-03-13 |
 | [Stava Bene](https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Stava Bene](https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF) | 3:44 | 2024-04-18 | 2024-06-01 |
 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 | 2024-02-24 | 2024-04-19 |
 | [Sur La Tête De Ma Mère](https://open.spotify.com/track/6FdXUFCdk2oTBltsS216gC) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [Sur La Tête De Ma Mère](https://open.spotify.com/album/3nktcC8HVPUiJP5cdUYnJh) | 3:03 | 2024-02-24 | 2025-02-02 |
 | [Tamam \- تمام](https://open.spotify.com/track/5uEEIZTLKtQjHXCKpqcAqz) | [Klay BBJ](https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO) | [Tamam \(تمام\)](https://open.spotify.com/album/28IxyUCkogf2mh0hxv6fOS) | 3:50 | 2024-02-24 | 2025-01-10 |
+| [Tfadhel](https://open.spotify.com/track/7EBgYjGG0ZXOZh3PraqIhj) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Tfadhel](https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu) | 3:12 | 2025-03-12 |  |
+| [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 | 2025-03-12 |  |
 | [Ti Amo](https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Ti Amo](https://open.spotify.com/album/0fNoucZFlVIsQhJiZYsL1p) | 3:00 | 2024-05-29 |  |
 | [True Story](https://open.spotify.com/track/3QBl9rRztpkwjve94I72NE) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [True Story](https://open.spotify.com/album/6G5UR76sE94A126vA5cj22) | 3:06 | 2025-02-07 | 2025-02-18 |
 | [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 | 2025-02-01 |  |

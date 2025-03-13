@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Paola Pizzino in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,271 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,279 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

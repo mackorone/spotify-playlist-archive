@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACY4ReLE4P6B4qmPq6bZHKq",
+  "snapshot_id": "Z899AAAAAAAmUrdpnZWs5Xd/Wg2D1FGI",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 182813,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0"
+      "duration_ms": 181333,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
       "duration_ms": 224495,
       "name": "Follow Me Here - Demo",
       "url": "https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Violent Soho (Australia Version)",
-        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Paper Plane",
-      "url": "https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7"
     }
   ],
   "unique_name": "This Is Violent Soho",

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Frank van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,473 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,469 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toen De Euro Nog Een Gulden Was](https://open.spotify.com/track/1DhO6d9nwWQRMM2wvH1NaG) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Toen De Euro Nog Een Gulden Was](https://open.spotify.com/album/0ByXYGsuwWtuXQpPW1Idy5) | 3:29 |
-| 2 | [Lang Leve De Lol](https://open.spotify.com/track/1Do8jxwE6zBMHinAEjvfjQ) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Lang Leve De Lol](https://open.spotify.com/album/5Eu5qhWAnfklaFaVG2P9QY) | 3:11 |
-| 3 | [Altijd Altijd 2.0](https://open.spotify.com/track/6PO8kt1r1k0f4yJkNUEPTz) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Altijd Altijd 2.0](https://open.spotify.com/album/0QO4KLZnIhqEzART4OgoKj) | 3:08 |
-| 4 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
-| 5 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
-| 6 | [Daar Ga Ik Weer](https://open.spotify.com/track/4fXbWLmRnOGh0xSteNh1vC) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Daar Ga Ik Weer](https://open.spotify.com/album/3HZwT3fHHAY3DiWCrNhJWu) | 3:45 |
-| 7 | [Eeuwige Vrijgezel](https://open.spotify.com/track/7zOd09BFkqClE1ExyMBAli) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eeuwige Vrijgezel](https://open.spotify.com/album/0ZI3DVDtDxy84x1K5EbmOF) | 2:43 |
-| 8 | [Hoe Heet Dat Liedje?](https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Hoe Heet Dat Liedje?](https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD) | 3:15 |
-| 9 | [Feessie](https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H) | 3:08 |
-| 10 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
-| 11 | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2) | 2:47 |
-| 12 | [Vanavond zijn we hier](https://open.spotify.com/track/5QdaMBEwFiOOFMxOIMGbLZ) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Vanavond zijn we hier](https://open.spotify.com/album/6yjeyDSub3nnIWwIcx6QiQ) | 3:02 |
-| 13 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 |
-| 14 | [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 |
-| 15 | [Wat liefde is](https://open.spotify.com/track/7pF5SrBs97tPSPhPHBLNQz) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Wat liefde is](https://open.spotify.com/album/7aMxk1elKgZfZgfpW39XNK) | 3:03 |
+| 2 | [Wat liefde is](https://open.spotify.com/track/7pF5SrBs97tPSPhPHBLNQz) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Wat liefde is](https://open.spotify.com/album/7aMxk1elKgZfZgfpW39XNK) | 3:03 |
+| 3 | [Lang Leve De Lol](https://open.spotify.com/track/1Do8jxwE6zBMHinAEjvfjQ) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Lang Leve De Lol](https://open.spotify.com/album/5Eu5qhWAnfklaFaVG2P9QY) | 3:11 |
+| 4 | [Altijd Altijd 2.0](https://open.spotify.com/track/6PO8kt1r1k0f4yJkNUEPTz) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Altijd Altijd 2.0](https://open.spotify.com/album/0QO4KLZnIhqEzART4OgoKj) | 3:08 |
+| 5 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
+| 6 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
+| 7 | [Daar Ga Ik Weer](https://open.spotify.com/track/4fXbWLmRnOGh0xSteNh1vC) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Daar Ga Ik Weer](https://open.spotify.com/album/3HZwT3fHHAY3DiWCrNhJWu) | 3:45 |
+| 8 | [Eeuwige Vrijgezel](https://open.spotify.com/track/7zOd09BFkqClE1ExyMBAli) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eeuwige Vrijgezel](https://open.spotify.com/album/0ZI3DVDtDxy84x1K5EbmOF) | 2:43 |
+| 9 | [Hoe Heet Dat Liedje?](https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Hoe Heet Dat Liedje?](https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD) | 3:15 |
+| 10 | [Feessie](https://open.spotify.com/track/5z8js5bnIxbSVWt9wLvv6x) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H) | 3:08 |
+| 11 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
+| 12 | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2) | 2:47 |
+| 13 | [Vanavond zijn we hier](https://open.spotify.com/track/5QdaMBEwFiOOFMxOIMGbLZ) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Vanavond zijn we hier](https://open.spotify.com/album/6yjeyDSub3nnIWwIcx6QiQ) | 3:02 |
+| 14 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 |
+| 15 | [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 |
 | 16 | [Als Ik Je Heb](https://open.spotify.com/track/50XPpXkxNanl3ADzJy8iAd) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Als Ik Je Heb](https://open.spotify.com/album/48gIEiAtfE2nGNg0gqmsxV) | 2:43 |
 | 17 | [Als Je Kijkt](https://open.spotify.com/track/4YZg6QZ5Mcl3Js3MKetT5C) | [Gianluca](https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN) | [Als Je kijkt](https://open.spotify.com/album/15nTqtmVFOhB6XZbteKY1u) | 3:05 |
 | 18 | [Rad van Fortuin](https://open.spotify.com/track/2svKnbJyLGfyRtcwRDbIUB) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Rad van Fortuin](https://open.spotify.com/album/4glskiU08ok4FTiyphg201) | 2:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
 | 70 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 |
 
-Snapshot ID: `Z8q4AQAAAAD1PoduN9cfp7kt+3iVd5lI`
+Snapshot ID: `Z9GMkQAAAAD06+n4y7RcqpeYRHO3ECoW`

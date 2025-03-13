@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 123190,
+  "num_followers": 123213,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "All Of Me",
-        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 165038,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "All Of Me",
+        "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 165038,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -775,6 +775,42 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
         "name": "I Need It (feat. Syd & Tank)",
         "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
       },
@@ -799,38 +835,18 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
-        "name": "Seamless (with Kehlani)",
-        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 195265,
-      "name": "Seamless (with Kehlani)",
-      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -847,22 +863,6 @@
       "duration_ms": 164018,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/4IXfejQPOGKNMstLaOskGC"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -1147,38 +1147,6 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
         "name": "SunStorm",
         "url": "https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j"
       },
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 177600,
       "name": "Stay Here Tonight",
       "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 161573,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 177053,
       "name": "No Pussy For Losers",
       "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
     },
     {
       "added_at": "2025-02-14 03:01:22",

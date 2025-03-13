@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 
 > LeeHi's here for you, Hice Creams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,451 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,461 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

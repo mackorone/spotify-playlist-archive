@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-762 songs - 1 day 9 hr 4 min
+763 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All Alone](https://open.spotify.com/track/0LS1QHHL2PwsjngC77l0VS) | [MUNICH MONSTRS](https://open.spotify.com/artist/65JeCEZBSZlp9lJGDZov3f) | [All Alone](https://open.spotify.com/album/1fD4dmOFr7TEmwq9tVTQM4) | 2:10 | 2024-05-03 | 2024-06-23 |
 | [All Because Of You](https://open.spotify.com/track/3CVQcey35nX0Yo3dpXAc7a) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [All Because Of You](https://open.spotify.com/album/4iw9Md8QwcwKhEDZ8ycHLk) | 2:19 | 2024-05-27 | 2024-06-10 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/2X8EqHzSI872SjcdvlGDHy) | [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG), [Fia De Luca](https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/3huh7GYVDVU582wPJZ78Kp) | 2:35 | 2025-02-02 | 2025-02-24 |
+| [All I Ever Need](https://open.spotify.com/track/3Vu06YSbGw7Yu0eehrMwmk) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [All I Ever Need](https://open.spotify.com/album/4sAxBBc2qVLrN8ALw51QEU) | 2:38 | 2025-03-12 |  |
 | [All I Think About](https://open.spotify.com/track/7JbpzzQ9bM1gprjgTsBJOP) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [All I Think About](https://open.spotify.com/album/1LHgAOXD690JhN0fUja5BD) | 2:42 | 2024-12-30 | 2025-01-26 |
 | [All I Wanna Know](https://open.spotify.com/track/5KYNaaD5q5bDTyxCvMmAT3) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [pinkskies](https://open.spotify.com/artist/3D0ZLvHVSldg6LyN8fa3f1) | [All I Wanna Know](https://open.spotify.com/album/4eUh2Uskg8nd7au5imGEy7) | 2:26 | 2024-10-08 | 2025-01-26 |
 | [All I Want Is You](https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [All I Want Is You](https://open.spotify.com/album/24k3mEFlEnke4PjmDu59NJ) | 2:29 | 2024-04-13 | 2024-05-13 |

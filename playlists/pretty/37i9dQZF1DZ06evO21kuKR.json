@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 94325,
+  "num_followers": 94335,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACUEa3mlV/kwOp3zqPWl/oB",
+  "snapshot_id": "Z899AAAAAABAykSft3QBzE8ISKIebVMo",
   "tracks": [
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+        "name": "2 Federal",
+        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         }
       ],
-      "duration_ms": 167332,
-      "name": "Don't Kno",
-      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
+      "duration_ms": 204557,
+      "name": "Doin 2 Much",
+      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
     },
     {
       "added_at": null,
@@ -759,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Federal",
-        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         }
       ],
-      "duration_ms": 204557,
-      "name": "Doin 2 Much",
-      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
+      "duration_ms": 167332,
+      "name": "Don't Kno",
+      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 158482,
-      "name": "SUM TO HATE ON",
-      "url": "https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA"
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Federal 3X",
-        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 204073,
-      "name": "Side B!+$#es",
-      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
+      "duration_ms": 158482,
+      "name": "SUM TO HATE ON",
+      "url": "https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA"
     },
     {
       "added_at": null,

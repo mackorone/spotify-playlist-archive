@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,023 likes - 48 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,071 likes - 48 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 19 | [Monster](https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:18 |
 | 20 | [Lump Sum](https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:21 |
 | 21 | [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 |
-| 22 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 |
+| 22 | [Minnesota, WI](https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:52 |
 | 23 | [Lost In The World](https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:16 |
 | 24 | [Creature Fear](https://open.spotify.com/track/7jJH5jAOUvR0FxkbYBmAQA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:06 |
 | 25 | [29 \#Strafford APTS](https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 4:05 |
-| 26 | [Minnesota, WI](https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:52 |
+| 26 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 |
 | 27 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 5:03 |
 | 28 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 | 29 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 32 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 33 | [8 \(circle\)](https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 5:09 |
 | 34 | [Faith](https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:37 |
-| 35 | [Brackett, WI](https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 4:02 |
-| 36 | [AUATC](https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP) | 2:22 |
+| 35 | [AUATC](https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP) | 2:22 |
+| 36 | [Brackett, WI](https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 4:02 |
 | 37 | [22 \(OVER S∞∞N\)](https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 2:48 |
 | 38 | [U \(Man Like\)](https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:25 |
 | 39 | [I Can't Make You Love Me \- AIR Studios – 4AD/Jagjaguwar Session](https://open.spotify.com/track/2rCFBMdyuqqoO1LAuYggw6) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 4:46 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 47 | [Babys](https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:43 |
 | 48 | [iMi](https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:16 |
 
-Snapshot ID: `Z8zaAAAAAAAbRSsr5TVWJQRM/ZLHz91L`
+Snapshot ID: `Z899AAAAAACSUqidR84HA7Iu97yq9Z2O`

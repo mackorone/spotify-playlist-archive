@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,086 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,095 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 23 | [People Are Vomit](https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:52 |
 | 24 | [Listening](https://open.spotify.com/track/528rajP3OyhornDwrsQrt4) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 2:46 |
 | 25 | [Hospital](https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 |
-| 26 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
-| 27 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 |
+| 26 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 |
+| 27 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
 | 28 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 |
 | 29 | [Liar Liar \(Burn in Hell\)](https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:52 |
 | 30 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 47 | [Kissing You Goodbye](https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:08 |
 | 48 | [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 |
 | 49 | [Bloody Nose](https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
+| 50 | [Cathedral Bell](https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
 
-Snapshot ID: `Z8zaAAAAAABacT7D/DhK69pQI07oK23x`
+Snapshot ID: `Z899AAAAAABHDbF9qQWIUPfsU3vZ3tr1`

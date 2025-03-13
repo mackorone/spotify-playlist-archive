@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,666 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,673 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 12 | [Entertainment](https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 3:39 |
 | 13 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 |
 | 14 | [Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:44 |
-| 15 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
+| 15 | [Consolation Prizes](https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 16 | [Chloroform](https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 4:04 |
-| 17 | [Consolation Prizes](https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
+| 17 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
 | 18 | [Girlfriend](https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:24 |
 | 19 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 20 | [Alpha Zulu](https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 48 | [On Fire](https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 2:49 |
 | 49 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `Z8zaAAAAAABbe8a0XHmWwi7bMdYnKB3p`
+Snapshot ID: `Z899AAAAAACl5vJvYCFaxml0rnGfmZhi`

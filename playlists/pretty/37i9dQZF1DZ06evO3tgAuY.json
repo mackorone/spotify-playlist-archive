@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2196,
+  "num_followers": 2199,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACqx0h0pdWTg4VxmBqtEdY2",
+  "snapshot_id": "Z899AAAAAABg5Gda2RbGws8QuIgz4t4u",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casa Siempre Gana",
-        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romeo y Julieta",
         "url": "https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 152464,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Marin",
         "url": "https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd"
       },
@@ -731,26 +711,6 @@
       "duration_ms": 133923,
       "name": "El Marin",
       "url": "https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Abelardo Nevarez",
-          "url": "https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr"
-        }
-      ],
-      "duration_ms": 160362,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
     },
     {
       "added_at": null,
@@ -775,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+        "name": "Nos Gusto El Estilo",
+        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Perfil SS",
+          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
         }
       ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+      "duration_ms": 179141,
+      "name": "Nos Gusto El Estilo",
+      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
     },
     {
       "added_at": null,
@@ -803,6 +767,42 @@
       "duration_ms": 110256,
       "name": "RZR Rojo - En Vivo",
       "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Abelardo Nevarez",
+          "url": "https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr"
+        }
+      ],
+      "duration_ms": 160362,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "Medio Fresa - En Vivo",
+      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Maserati (En Vivo)",
         "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 162474,
       "name": "El Maserati - En Vivo",
       "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119920,
-      "name": "Medio Fresa - En Vivo",
-      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA Live Session",
         "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is The End (En Vivo)",
-        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Rubio",
-          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
         }
       ],
-      "duration_ms": 196414,
-      "name": "This Is The End - En Vivo",
-      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
     },
     {
       "added_at": null,
@@ -991,6 +971,26 @@
       "duration_ms": 134184,
       "name": "Ac\u00e1 Por Tijuana - En Vivo",
       "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is The End (En Vivo)",
+        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "This Is The End - En Vivo",
+      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
     }
   ],
   "unique_name": "This Is Alex Favela",

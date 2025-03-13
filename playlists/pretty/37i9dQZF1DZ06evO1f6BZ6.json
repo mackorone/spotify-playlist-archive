@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 119342,
+  "num_followers": 119351,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAD+QYY08YqU6ZuLji72VKoa",
+  "snapshot_id": "Z899AAAAAAD/AVMGz02quVt5Bzbc3jKd",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Beers Ago",
-      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 243706,
       "name": "Weed With Willie - Live",
       "url": "https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Beers Ago",
+      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "The Taliban Song - Live",
-      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 233106,
       "name": "Me Too",
       "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "The Taliban Song - Live",
+      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
     },
     {
       "added_at": null,

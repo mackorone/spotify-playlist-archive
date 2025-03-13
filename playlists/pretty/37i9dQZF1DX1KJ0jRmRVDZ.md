@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,728 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,730 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 25 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 | 26 | [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 |
 | 27 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
-| 28 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
-| 29 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 28 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 29 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
 | 30 | [亜東京 \(feat\. キタニタツヤ\)](https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:55 |
 | 31 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 |
 | 32 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |

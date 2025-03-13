@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-880 songs - 2 day 10 hr 1 min
+881 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2023-04-05 |
 | [Lonely One](https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [分離派の夏](https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2) | 4:39 | 2024-09-25 | 2025-03-01 |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-11-11 |
-| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 |  |
+| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 | 2025-03-13 |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2023-11-10 | 2024-04-19 |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2023-11-10 |  |
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |
@@ -871,6 +871,7 @@
 | [踊らせないで](https://open.spotify.com/track/7vK2DtxftUf2iQgVF0Qnzg) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M) | 3:47 | 2022-07-27 | 2024-04-19 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-05-31 | 2022-11-09 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\) \- Kan Sano Remix](https://open.spotify.com/track/1siasGbYxYkN9PXZvNGTWS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [透明なガール \(Remixes\)](https://open.spotify.com/album/2zu4pvYDprErsrMOA0eP8U) | 3:57 | 2023-12-12 | 2024-03-16 |
+| [道標](https://open.spotify.com/track/61XZNwm1eCZAc0DNIbvUmV) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [Hiplin](https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi) | [道標](https://open.spotify.com/album/0fpyZVbzieSaxdTrxgcFFl) | 4:49 | 2025-03-11 |  |
 | [都会](https://open.spotify.com/track/0uBO7wsxUY9NjzRhVQFcOX) | [Airi](https://open.spotify.com/artist/5YN0XBqDwo3W5EnFvrc0iJ) | [City Pop Rendez\-Vous](https://open.spotify.com/album/6x5KIXv4960MZ0Vy5SSZVg) | 4:19 | 2023-07-11 | 2023-07-19 |
 | [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 | 2022-11-08 | 2022-12-14 |
 | [都会 \- NAUTILUS Re\-work](https://open.spotify.com/track/5dffFNM0KfehZXj0e0GiQN) | [HF International](https://open.spotify.com/artist/5nCgjWUjFdlNTRtLO5e8jy), [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [都会 \(NAUTILUS Re\-work\)](https://open.spotify.com/album/5Pvo0Sbl7M9AsSN2xwE6bG) | 4:37 | 2023-09-19 | 2023-10-03 |

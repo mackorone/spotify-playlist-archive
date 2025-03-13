@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2755,
+  "num_followers": 2757,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAD7AD1XllQSQ8vjdMNjJhvL",
+  "snapshot_id": "Z899AAAAAABKvSuSHhBA+1ti1W/fEQK0",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
       },
@@ -239,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUAN PABLO VEGA",
-        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 222598,
-      "name": "Dejarnos Ir",
-      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -279,22 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
       "artists": [
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+      "duration_ms": 222598,
+      "name": "Dejarnos Ir",
+      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 164052,
-      "name": "LENTO",
-      "url": "https://open.spotify.com/track/4tsqTxwsSejvLnnwW30kpx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encontr\u00e9",
         "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
       },
@@ -443,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo Puede Esperar",
         "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 161142,
       "name": "El Mundo Puede Esperar",
       "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
     },
     {
       "added_at": null,
@@ -496,25 +512,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 158492,
-      "name": "SUBCONSCIENTE",
-      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
+      "duration_ms": 164052,
+      "name": "LENTO",
+      "url": "https://open.spotify.com/track/4tsqTxwsSejvLnnwW30kpx"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 91658,
-      "name": "OJO DE DIOS",
-      "url": "https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atl\u00e1ntica",
         "url": "https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 215853,
       "name": "Sonidos y Leyendas (feat. Vanessa Zamora)",
       "url": "https://open.spotify.com/track/5swZ6J3habONISd330y55t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 91658,
+      "name": "OJO DE DIOS",
+      "url": "https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OPTEMOS",
-        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "OPTEMOS",
-      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -695,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 90875,
+      "name": "caballos",
+      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+        "name": "OPTEMOS",
+        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
       },
       "artists": [
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 90875,
-      "name": "caballos",
-      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
+      "duration_ms": 178500,
+      "name": "OPTEMOS",
+      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
       "duration_ms": 130021,
       "name": "Te Choca Te Checa",
       "url": "https://open.spotify.com/track/1Twvcodfxn69xkCHNghbQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 230921,
+      "name": "beso",
+      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 230921,
-      "name": "beso",
-      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminando en Fuego",
         "url": "https://open.spotify.com/album/2uipo7WWFVAgVCXVfz8aAK"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venus (Remix)",
         "url": "https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 232753,
       "name": "Venus (Remix)",
       "url": "https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,

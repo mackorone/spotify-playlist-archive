@@ -483,22 +483,6 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 197903,
-      "name": "Vidigal",
-      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
-    },
-    {
-      "added_at": "2025-03-07 03:01:20",
-      "album": {
         "name": "S\u00f3 Rock 3",
         "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 312240,
       "name": "S\u00f3 Rock 3",
       "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
+    },
+    {
+      "added_at": "2025-03-07 03:01:20",
+      "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 197903,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
     },
     {
       "added_at": "2025-03-07 03:01:20",
@@ -583,30 +583,6 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
-        "name": "tempo.zip",
-        "url": "https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "doce m\u00e1gico",
-      "url": "https://open.spotify.com/track/2zjSEHhLqyRoNHrNcGewMO"
-    },
-    {
-      "added_at": "2025-03-07 03:01:20",
-      "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
       },
@@ -639,6 +615,30 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
+        "name": "tempo.zip",
+        "url": "https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "doce m\u00e1gico",
+      "url": "https://open.spotify.com/track/2zjSEHhLqyRoNHrNcGewMO"
+    },
+    {
+      "added_at": "2025-03-07 03:01:20",
+      "album": {
         "name": "Sorriso no Rosto",
         "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
       },
@@ -659,26 +659,6 @@
       "duration_ms": 148000,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2025-03-07 03:01:20",
-      "album": {
-        "name": "Problemas de um Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Problemas de um Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "added_at": "2025-03-07 03:01:20",
@@ -783,6 +763,26 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "added_at": "2025-03-07 03:01:20",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
       },
@@ -795,6 +795,34 @@
       "duration_ms": 312480,
       "name": "O Som",
       "url": "https://open.spotify.com/track/4v0VOuuaZSQHjnjzkC3cnk"
+    },
+    {
+      "added_at": "2025-03-07 03:01:20",
+      "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
     },
     {
       "added_at": "2025-03-07 03:01:20",
@@ -895,30 +923,6 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
-        "name": "Vem Desestressar",
-        "url": "https://open.spotify.com/album/7mOeU0TxEZhzCFQkjnuRSV"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Vem Desestressar",
-      "url": "https://open.spotify.com/track/2SFLZ4b8md59HSDxmomQxx"
-    },
-    {
-      "added_at": "2025-03-07 03:01:20",
-      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
       },
@@ -951,30 +955,26 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
-        "name": "Qual \u00e9 seu desejo?",
-        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+        "name": "Vem Desestressar",
+        "url": "https://open.spotify.com/album/7mOeU0TxEZhzCFQkjnuRSV"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
         },
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         }
       ],
-      "duration_ms": 153429,
-      "name": "Qual \u00e9 seu desejo?",
-      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+      "duration_ms": 240000,
+      "name": "Vem Desestressar",
+      "url": "https://open.spotify.com/track/2SFLZ4b8md59HSDxmomQxx"
     },
     {
       "added_at": "2025-03-07 03:01:20",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
+        "name": "Rainha da Finesse",
+        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
+    },
+    {
+      "added_at": "2025-03-07 03:01:20",
+      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 168959,
       "name": "Me Chama Pelo Meu Vulgo",
       "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
-    },
-    {
-      "added_at": "2025-03-07 03:01:20",
-      "album": {
-        "name": "Rainha da Finesse",
-        "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
     },
     {
       "added_at": "2025-03-07 03:01:20",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2025-03-07 03:01:20",
       "album": {
-        "name": "MIXTRAPISEIRO",
-        "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "EDNOBEAT",
-          "url": "https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "BUND\u00c3O GG",
-      "url": "https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2"
-    },
-    {
-      "added_at": "2025-03-07 03:01:20",
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -1579,6 +1555,30 @@
       "duration_ms": 160000,
       "name": "Pra Se Entorpecer",
       "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
+    },
+    {
+      "added_at": "2025-03-07 03:01:20",
+      "album": {
+        "name": "MIXTRAPISEIRO",
+        "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "EDNOBEAT",
+          "url": "https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "BUND\u00c3O GG",
+      "url": "https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2"
     },
     {
       "added_at": "2025-03-07 03:01:20",

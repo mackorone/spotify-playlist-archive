@@ -1,6 +1,6 @@
 {
   "description": "The pop hits you just can't get enough of. Cover: Tate McRae",
-  "num_followers": 273809,
+  "num_followers": 273810,
   "original_name": "Pop Favourites",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -603,18 +603,18 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "It's ok I'm ok",
-        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "It's ok I'm ok",
-      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 202546,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "When It's Dark Out",
         "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+        "name": "In the Name of Love",
+        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+      "duration_ms": 195706,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
     }
   ],
   "unique_name": "Pop Favourites",

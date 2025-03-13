@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2005,
+  "num_followers": 2021,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -451,42 +451,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6"
-      },
-      "artists": [
-        {
-          "name": "Noemi",
-          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 141961,
-      "name": "Tutto il resto \u00e8 noia (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Vai mo' (2021 Remaster)",
-        "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
-      },
-      "artists": [
-        {
-          "name": "Pino Daniele",
-          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
-        }
-      ],
-      "duration_ms": 216543,
-      "name": "Yes I Know My Way - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Sulla riva del fiume",
         "url": "https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 225982,
       "name": "Un tempo piccolo (feat. Tiromancino & Ditonellapiaga)",
       "url": "https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Vai mo' (2021 Remaster)",
+        "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
+      },
+      "artists": [
+        {
+          "name": "Pino Daniele",
+          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
+        }
+      ],
+      "duration_ms": 216543,
+      "name": "Yes I Know My Way - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 141961,
+      "name": "Tutto il resto \u00e8 noia (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d"
     },
     {
       "added_at": "2025-03-03 09:30:09",

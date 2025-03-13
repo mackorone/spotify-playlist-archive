@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Smur Lee, Joeboy, Candy Bleakz  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,229 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,276 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 41 | [Represent](https://open.spotify.com/track/3ECENqfPJLxCLXmhozjrYp) | [Shola Og](https://open.spotify.com/artist/0DKxMWBnECEDsz5WaJJE9o) | [Unit 7](https://open.spotify.com/album/7xjs78r4d6UZewMilrBM5Q) | 3:05 |
 | 42 | [Miracle](https://open.spotify.com/track/2pcbEaseQ5snFhwcsK5tlb) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Mikkah](https://open.spotify.com/artist/77L9ffhefvK540POxDBkRA) | [Miracle](https://open.spotify.com/album/6MwR9q6dL7jJXbHaeUqDBn) | 3:11 |
 | 43 | [Pressure](https://open.spotify.com/track/3OTs7F7vFu2U7R7P80dp8r) | [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a) | [Pressure](https://open.spotify.com/album/4SYpWKkBL7HQQMrfjBCI75) | 3:01 |
-| 44 | [We Dey Conquer](https://open.spotify.com/track/5lNa2zcSHykmaYmVC6quKN) | [Tinny](https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl) | [We Dey Conquer](https://open.spotify.com/album/2BORu8PLT7nua07kFgqrrA) | 3:35 |
+| 44 | [We Dey Conquer](https://open.spotify.com/track/5lNa2zcSHykmaYmVC6quKN) | [Tinny](https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl) | [We Dey Conquer](https://open.spotify.com/album/2BORu8PLT7nua07kFgqrrA) | 3:36 |
 | 45 | [France Feeling](https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43) | [Kokoë](https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [France Feeling](https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG) | 2:49 |
 | 46 | [zendaya](https://open.spotify.com/track/3lcboq3uOAimPWj6uJAe9k) | [VERBB](https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [zendaya](https://open.spotify.com/album/5j67cX27d0LqnZUqpFLkoB) | 2:12 |
 | 47 | [Freedom at Last](https://open.spotify.com/track/1UHPeXA3fZxYunbgLrIRqR) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk) | [Freedom at Last](https://open.spotify.com/album/1JfaNEhiBSZSV5oc8siLW2) | 2:32 |

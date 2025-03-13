@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,851 likes - 56 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,951 likes - 56 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

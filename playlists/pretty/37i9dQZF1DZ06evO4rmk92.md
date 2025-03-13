@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,906 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,921 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 18 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 19 | [Ramblin' Rose](https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:47 |
 | 20 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
-| 21 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
-| 22 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:42 |
-| 23 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 |
+| 21 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:42 |
+| 22 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
+| 23 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 |
 | 24 | [Too Young](https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:24 |
-| 25 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 |
+| 25 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 |
 | 26 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 |
 | 27 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
 | 28 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Let's Face The Music \(Expanded Edition\)](https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0) | 3:46 |
 | 50 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
 
-Snapshot ID: `Z8zaAAAAAABu/l7vg34dYox9w1cWpsoc`
+Snapshot ID: `Z899AAAAAABEB70gnlBU7uqJzkzDNGsd`

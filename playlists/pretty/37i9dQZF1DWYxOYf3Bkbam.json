@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 55149,
+  "num_followers": 55168,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-02-28 03:00:32",
       "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
+    },
+    {
+      "added_at": "2025-02-28 03:00:32",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 189600,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
-    },
-    {
-      "added_at": "2025-02-28 03:00:32",
-      "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2025-02-28 03:00:32",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-02-28 03:00:32",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2025-02-28 03:00:32",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
       },
@@ -991,18 +971,42 @@
     {
       "added_at": "2025-02-28 03:00:32",
       "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
       "artists": [
         {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2025-02-28 03:00:32",
+      "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
     },
     {
       "added_at": "2025-02-28 03:00:32",
@@ -1023,26 +1027,6 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2025-02-28 03:00:32",
-      "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
-      },
-      "artists": [
-        {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
-        },
-        {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
     },
     {
       "added_at": "2025-02-28 03:00:32",
@@ -1075,6 +1059,22 @@
       "duration_ms": 248320,
       "name": "Mi Estrella Perdida",
       "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
+    },
+    {
+      "added_at": "2025-02-28 03:00:32",
+      "album": {
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2025-02-28 03:00:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-02-28 03:00:32",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
-    },
-    {
-      "added_at": "2025-02-28 03:00:32",
-      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2025-02-28 03:00:32",
       "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
+    },
+    {
+      "added_at": "2025-02-28 03:00:32",
+      "album": {
         "name": "Chamame - Los 100 mejores temas - Vol 4",
         "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 123226,
       "name": "Un simbronazo",
       "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
+    },
+    {
+      "added_at": "2025-02-28 03:00:32",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2025-02-28 03:00:32",
@@ -1235,22 +1251,6 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
-    },
-    {
-      "added_at": "2025-02-28 03:00:32",
-      "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2025-02-28 03:00:32",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2025-02-28 03:00:32",
       "album": {
-        "name": "La Chamamecera",
-        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
+        "name": "De Goya Soy",
+        "url": "https://open.spotify.com/album/2XXhwp5tDq2C2IBpLVzbb5"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
         }
       ],
-      "duration_ms": 265253,
-      "name": "La Chamamecera",
-      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
+      "duration_ms": 206235,
+      "name": "De Goya Soy",
+      "url": "https://open.spotify.com/track/1JEZrM0qMpV73paLvLntWJ"
     },
     {
       "added_at": "2025-02-28 03:00:32",

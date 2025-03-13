@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341 likes - 242 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 242 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 110 | [Never Enough](https://open.spotify.com/track/3s7SAlA1NPlgddOxZEwmm6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Under Pressure \(Deluxe\)](https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V) | 4:22 |
 | 111 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
 | 112 | [Into You](https://open.spotify.com/track/1wkHhcUnVOMhLtA79dQaQx) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 3:12 |
-| 113 | [NORTHSIDE](https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 3:29 |
+| 113 | [NORTHSIDE](https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf) | [Ama](https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 3:29 |
 | 114 | [Different Now](https://open.spotify.com/track/5h2RIt544riNwCr3EH9xGe) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Different Now](https://open.spotify.com/album/0nRbM6EKEQhmyCTsWEPLO7) | 3:22 |
 | 115 | [Groundhog Day](https://open.spotify.com/track/1SCl4Y5tTalU4q8Yp5ywWC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2](https://open.spotify.com/album/1UiPHgFputxSUssPibAVxc) | 4:53 |
 | 116 | [Cold Hearted II](https://open.spotify.com/track/75ld9n7watXCD0nHnE931J) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 5:01 |
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 183 | [Jo Bros](https://open.spotify.com/track/6RMNFacCLVjpthfp62orGz) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [One Night Only](https://open.spotify.com/album/6GdJPhGu12KSZ7KdgBfye1) | 3:35 |
 | 184 | [Charge It To The Rap Game](https://open.spotify.com/track/4qQePxheRSXNd2lqlvgGYd) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 3:50 |
 | 185 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
-| 186 | [Better](https://open.spotify.com/track/4W1HsvmcGtusNPyqdVOqaV) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 4:40 |
+| 186 | [Better](https://open.spotify.com/track/4W1HsvmcGtusNPyqdVOqaV) | [Ama](https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 4:40 |
 | 187 | [Lyrical Healing](https://open.spotify.com/track/6QkRTkarDVgHf2WGGcmU5g) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 1:16 |
 | 188 | [Miracles](https://open.spotify.com/track/6oFEizgUZD7x6QSbjkqD7b) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Miracles](https://open.spotify.com/album/2BkwErxEfjc7a8MXtU8GyB) | 3:23 |
 | 189 | [The Duke](https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Exciting Sounds of Menahan Street Band](https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF) | 2:46 |
@@ -225,17 +225,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 215 | [X6 Intro](https://open.spotify.com/track/3QwXUfKuYn3M5DZkoYfpub) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 2:17 |
 | 216 | [Funeral for a Prince](https://open.spotify.com/track/3dl6lR0cug0BPOLeWUvYj8) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 2:53 |
 | 217 | [A Likkle Prince](https://open.spotify.com/track/7sq8IOgLVcTnGPXoqlgc5G) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:59 |
-| 218 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
+| 218 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama](https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
 | 219 | [Sooner Or Later \(Die 1 Day\)](https://open.spotify.com/track/0bOQvSTtkJtTM6Q2ScJozq) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 3:31 |
 | 220 | [shadows](https://open.spotify.com/track/51Xv2pcQLRmy7hSW5xpcY8) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 3:11 |
 | 221 | [In Tha Park](https://open.spotify.com/track/34RHYZFXumEjWfWeBAKNW2) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Apollo Kids](https://open.spotify.com/album/3hPl7uRfNdRvoRW0kUzkVk) | 3:47 |
 | 222 | [On A Wave](https://open.spotify.com/track/0GuhX81IqyufFB3VdVzUbj) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Off The Books EP \(2016\)](https://open.spotify.com/album/5seVG1s2oc5piRtsixp4g0) | 3:02 |
 | 223 | [Electric Prince](https://open.spotify.com/track/41HHyPT2sSZGMfcAMWkSQ1) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:23 |
-| 224 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
+| 224 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama](https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
 | 225 | [The Prince Lives](https://open.spotify.com/track/2l6kKeJ6hBG1lwcFzdeoR1) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:30 |
 | 226 | [Reste en vie \- fragile](https://open.spotify.com/track/20eyfLl6Qib62ljOowPA6O) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile x Fragile \(Version deluxe\)](https://open.spotify.com/album/7BcRdUtUhuDpvyOsv1a4lF) | 3:13 |
-| 227 | [A Burnt Prince](https://open.spotify.com/track/4F2d8yjpbqoKCbGgJDnEgZ) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:51 |
-| 228 | [GOATED](https://open.spotify.com/track/5YRuPUlYE3OnQPZxS8VbY4) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 3:02 |
+| 227 | [GOATED](https://open.spotify.com/track/5YRuPUlYE3OnQPZxS8VbY4) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 3:02 |
+| 228 | [A Burnt Prince](https://open.spotify.com/track/4F2d8yjpbqoKCbGgJDnEgZ) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:51 |
 | 229 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 |
 | 230 | [Dear Boy](https://open.spotify.com/track/47LToA6rpfFwwMu7npAwWd) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:05 |
 | 231 | [Love Me Back](https://open.spotify.com/track/3TkWlPbDAl2LbYIQMgHT3B) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 2:49 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 | 242 | [Get Krazy](https://open.spotify.com/track/2O3YgsmoPyKvbHCNmRFEOA) | [Bigg Dogg](https://open.spotify.com/artist/2Fsd7VeBkpjuYnPk87X57g) | [The Vaccine](https://open.spotify.com/album/2Uky9NSAp1e9ILVPIBqoLE) | 4:11 |
 
-Snapshot ID: `AbrzFAAAAADni6/BRVo5pG0nsshuEHzP`
+Snapshot ID: `Abr4tAAAAACJ81sInnQR+ad1wWQSTzub`

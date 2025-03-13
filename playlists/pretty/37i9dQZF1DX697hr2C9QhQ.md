@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,340 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,407 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 23 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
 | 24 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 |
 | 25 | [Comeback Girl](https://open.spotify.com/track/6BikNH6NZ8zYfexFiQGnxA) | [Republic Of Loose](https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU) | [Aaagh!](https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV) | 3:58 |
-| 26 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 27 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
+| 26 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
+| 27 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 28 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
 | 29 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 |
 | 30 | [Drink Before the War](https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
 | 50 | [Flame](https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Flock](https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD) | 3:53 |
 
-Snapshot ID: `Zo3BKAAAAACTmVwC5Uo50yvolqjZg6Mw`
+Snapshot ID: `Z9F1FgAAAAAnVSYIq3lKkQmT1+q4PqBL`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,903 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,955 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 |
 | 2 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
-| 3 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
-| 4 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
+| 3 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
+| 4 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
 | 5 | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [El Baisón \(feat\. Toser One\)](https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr) | 3:39 |
 | 6 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 |
 | 7 | [ALV TODOS](https://open.spotify.com/track/76akywa2I8JChhWVpGQv01) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [ALV TODOS](https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
 | 50 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
 
-Snapshot ID: `Z8zaAAAAAACMBp+5h8p1NzkNDydsikp4`
+Snapshot ID: `Z899AAAAAABupxHcuuc1Fw0wdARUYEpK`

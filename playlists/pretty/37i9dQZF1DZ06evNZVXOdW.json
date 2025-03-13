@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8718,
+  "num_followers": 8717,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADg8C9ibwiOi+s4IndwVe+G",
+  "snapshot_id": "Z899AAAAAAA4nc0sXJBmZUjHY1tWri68",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
-        }
-      ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naja",
         "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 542837,
       "name": "Naja",
       "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
     },
     {
       "added_at": null,

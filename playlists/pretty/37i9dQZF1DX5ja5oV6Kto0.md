@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: MiDi KwaKwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,709 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,725 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hits, hits, hits van de afgelopen tijd\. Cover: Myles Smith
 
-241 songs - 11 hr 58 min
+242 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-01-30 | 2024-04-19 |
 | [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 | 2023-01-30 | 2023-06-03 |
 | [Solo Para Ti](https://open.spotify.com/track/2uAgZ0PelSImQe3BME9CiT) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Solo Para Ti](https://open.spotify.com/album/7CX6KwcrRx0iwTH8iU6rDJ) | 3:18 | 2023-01-30 | 2024-03-16 |
+| [Somebody Without U](https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Somebody Without U](https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR) | 3:23 | 2025-03-12 |  |
 | [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-09-27 |  |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2023-03-31 | 2024-09-28 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-12-20 |  |
@@ -239,7 +240,7 @@
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/09PxIJHtAlqOKV6aPci5B1) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Joris](https://open.spotify.com/album/7nqav22eDtbEci6zCr4wQL) | 3:19 | 2023-09-29 | 2024-04-19 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-09-29 | 2023-10-02 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju) | 3:19 | 2024-03-18 | 2025-03-07 |
-| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-03-15 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-03-15 | 2025-03-13 |
 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 | 2024-05-16 |  |
 | [We Could Be Together](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 | 2023-01-30 | 2024-07-12 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-09-27 |  |

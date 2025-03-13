@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > Celebrating some of the most iconic female voices of all time\. Cover: Cynthia Erivo & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,086 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,814,154 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 44 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 | 45 | [When You Say Nothing At All](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Now That I've Found You: A Collection](https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs) | 4:20 |
 | 46 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
-| 47 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
-| 48 | [The Rose](https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Rose](https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU) | 3:41 |
+| 47 | [The Rose](https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Rose](https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU) | 3:41 |
+| 48 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
 | 49 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 |
 | 50 | [If I Were a Boy](https://open.spotify.com/track/0K7wIocSvzcRISpssBUzfZ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/20E3PwDg1jaDdK9K565luD) | 4:09 |
 

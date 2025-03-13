@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: TOGENASHITOGEARI トゲナシトゲアリ
 
-741 songs - 2 day 1 hr 14 min
+742 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [New Genesis \- From CrosSing](https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk) | [Natsuyoshi Yuko](https://open.spotify.com/artist/0O5jlFShsrrHIwj3sdnbWq), [Matsuoka Misato](https://open.spotify.com/artist/6BFKpJfchNBofHmTd1h0bL) | [New Genesis \- From CrosSing](https://open.spotify.com/album/6t7sKaTUmq3HhvPhYWDRmc) | 3:47 | 2023-06-13 | 2023-07-05 |
 | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/track/6PshiiQYhJ1CcqNQ9dEml5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/album/1FC23UCOGmieycsP29GrVn) | 4:38 | 2022-06-21 | 2022-07-28 |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-27 | 2022-11-20 |
+| [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 | 2025-03-11 |  |
 | [No Pain, Not to be Strong](https://open.spotify.com/track/0fARm3SivTnCDucLIrHHZx) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(勘解由小路無花果\)](https://open.spotify.com/artist/3pKwnUM4f6ufAgOL5nA4PL) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:20 | 2023-04-13 | 2023-06-09 |
 | [No.6](https://open.spotify.com/track/5PX4xUYIxqAdrekai2B3K2) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Lowland Jazz](https://open.spotify.com/artist/15YaKCW5WtV9QKQCNRbIlO) | [No.6 \(TVアニメ「戦闘員、派遣します!」オープニング・テーマ\)](https://open.spotify.com/album/0n1H1DFuxbt9E6KnwaMvH0) | 3:54 | 2022-07-19 | 2022-07-28 |
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-09 | 2022-06-11 |

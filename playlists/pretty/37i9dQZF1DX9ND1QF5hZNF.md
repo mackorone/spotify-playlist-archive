@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,447 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,505 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 17 | [Can I Tell You a Secret](https://open.spotify.com/track/6taRJdzTh60z4O3Z4Ksj6m) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Can I Tell You a Secret](https://open.spotify.com/album/5qqT029IqjdQkCMZfm6KPG) | 3:09 |
 | 18 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 |
 | 19 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
-| 20 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
+| 20 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 21 | [Birds Of A Feather](https://open.spotify.com/track/0Xz7tgOxs2dOR4OeD9iumx) | [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q) | [Birds Of A Feather](https://open.spotify.com/album/2R9kC6LuDxu8DHkAhY2Zub) | 3:20 |
 | 22 | [Woke Up in Love](https://open.spotify.com/track/1cBb6fiyDm4LAcMSJCHHCF) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Woke Up in Love](https://open.spotify.com/album/4tAO7cNmQuQfUDnfJBV7n8) | 2:33 |
 | 23 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,661 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,726 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 17 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 | 18 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 |
 | 19 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
-| 20 | [Mi Música \- Remasterizado](https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Haciendo Historia \(Remasterizado\)](https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W) | 5:47 |
-| 21 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
+| 20 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
+| 21 | [Mi Música \- Remasterizado](https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Haciendo Historia \(Remasterizado\)](https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W) | 5:47 |
 | 22 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elio Revé Y Su Charangón](https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
 | 23 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
 | 24 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 |
 | 25 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
-| 26 | [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 |
-| 27 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
+| 26 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
+| 27 | [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 |
 | 28 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
 | 29 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 | 30 | [Al Paso](https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 5:13 |

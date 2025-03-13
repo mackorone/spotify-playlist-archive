@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 73263,
+  "num_followers": 73317,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 202053,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 401880,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Te Tuve Y Te Perd\u00ed",
         "url": "https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 194666,
       "name": "Estoy Enamorado de Ti",
       "url": "https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 401880,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -631,6 +631,22 @@
       "duration_ms": 171360,
       "name": "A Veces Tu, A Veces Yo",
       "url": "https://open.spotify.com/track/0EOhH2L1RVEvssIltBES3E"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Antologia (Volumen 2)",
         "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Confesiones De Invierno",
-        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Confesiones de Invierno",
-      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 1",
         "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
@@ -759,22 +743,6 @@
       "duration_ms": 243466,
       "name": "Un Gato en la Oscuridad - Un Gato en Blu",
       "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Abrazame",
-      "url": "https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -795,18 +763,18 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Por un Amor",
-      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
+      "duration_ms": 211400,
+      "name": "Abrazame",
+      "url": "https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -839,6 +807,38 @@
       "duration_ms": 183866,
       "name": "Lucia",
       "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Confesiones de Invierno",
+      "url": "https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Por un Amor",
+      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
     }
   ],
   "unique_name": "Los 70s",

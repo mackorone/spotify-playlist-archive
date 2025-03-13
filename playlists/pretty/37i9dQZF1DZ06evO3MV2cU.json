@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 137840,
+  "num_followers": 137845,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABZSQ4BmEZGfDM9OWYHqU/4",
+  "snapshot_id": "Z899AAAAAABmxAnKEe3mMwLziqkUCVIa",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 271920,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriving",
-        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
       },
       "artists": [
         {
@@ -456,9 +440,25 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Your Grace Is Enough",
-      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
+      "duration_ms": 248666,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
     },
     {
       "added_at": null,
@@ -479,6 +479,38 @@
       "duration_ms": 291410,
       "name": "10,000 Reasons (Bless The Lord)",
       "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriving",
+        "url": "https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Your Grace Is Enough",
+      "url": "https://open.spotify.com/track/6nVzKwxkRdm5ZM7rMDCwE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 218747,
+      "name": "God's Great Dance Floor",
+      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
     },
     {
       "added_at": null,
@@ -515,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 218747,
-      "name": "God's Great Dance Floor",
-      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -547,38 +563,6 @@
       "duration_ms": 480193,
       "name": "Holy Forever - Instrumental",
       "url": "https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Jesus Messiah",
-      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Jesus Messiah",
+      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "Holy Is The Lord - Arriving Album Version",
-      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pour Over Me - Worship Together Live 2001",
         "url": "https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "Holy Is The Lord - Arriving Album Version",
+      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Ran Red",
         "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 211506,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 230673,
+      "name": "I See You (with Brandon Lake)",
+      "url": "https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF"
     },
     {
       "added_at": null,
@@ -751,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 230673,
-      "name": "I See You (with Brandon Lake)",
-      "url": "https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF"
+      "duration_ms": 328160,
+      "name": "Our God - Live",
+      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
     },
     {
       "added_at": null,
@@ -799,26 +819,6 @@
       "duration_ms": 250800,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 328160,
-      "name": "Our God - Live",
-      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
     },
     {
       "added_at": null,
@@ -863,82 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Thou Art (Until That Day)",
-        "url": "https://open.spotify.com/album/4EHbFG6ALlnX76Hff9Dlgr"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Hillary Scott",
-          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 269678,
-      "name": "How Great Thou Art (Until That Day) - Live",
-      "url": "https://open.spotify.com/track/2gvPDTxttF9RbvCcwrtrWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -955,6 +879,26 @@
       "duration_ms": 305920,
       "name": "God Of This City - Live",
       "url": "https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 514039,
+      "name": "Amazing Grace (My Chains Are Gone) - Live",
+      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
     }
   ],
   "unique_name": "This Is Chris Tomlin",

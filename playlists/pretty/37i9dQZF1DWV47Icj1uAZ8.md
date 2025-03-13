@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,968 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,980 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 7 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
 | 8 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 |
 | 9 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 |
-| 10 | [The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 3:54 |
-| 11 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
+| 10 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 |
+| 11 | [The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 3:54 |
 | 12 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 13 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
 | 14 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 38 | [don’t i \(feat\. Gunna\)](https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:33 |
 | 39 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
 | 40 | [Hello](https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:19 |
-| 41 | [Looks Are Deceiving](https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:37 |
+| 41 | [Recognize Real \(with Gunna\)](https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:51 |
 | 42 | [Picture Me Rollin'](https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:13 |
-| 43 | [Recognize Real \(with Gunna\)](https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:51 |
+| 43 | [Looks Are Deceiving](https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:37 |
 | 44 | [Lovely](https://open.spotify.com/track/2yb8xWLdEaDsUMOFsWr09q) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 4:51 |
 | 45 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 |
 | 46 | [Since I Seen't You](https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:15 |

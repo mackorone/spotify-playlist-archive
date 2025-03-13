@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler\. Kapak: Nana Hera  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,926 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,950 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

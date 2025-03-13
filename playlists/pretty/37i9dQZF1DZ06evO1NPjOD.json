@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 38800,
+  "num_followers": 38796,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABTUwg6NBpy3chPceCifhsN",
+  "snapshot_id": "Z899AAAAAADI0UsfYcehjZ7rYPS7omQP",
   "tracks": [
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bars",
-        "url": "https://open.spotify.com/album/4Ad0AJ7kZ296e7wu8Ri4QJ"
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 176842,
+      "duration_ms": 176065,
       "name": "No Bars",
-      "url": "https://open.spotify.com/track/4aJYaQide0vBqT3ErvVKvp"
+      "url": "https://open.spotify.com/track/36GEUBKW7fgKGv7vY4KpsB"
     },
     {
       "added_at": null,
@@ -279,6 +279,30 @@
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Hot Girl Meg",
+          "url": "https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Do It On The Tip (feat. City Girls & Hot Girl Meg)",
+      "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
     },
     {
       "added_at": null,
@@ -307,30 +331,6 @@
       "duration_ms": 255180,
       "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
       "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Hot Girl Meg",
-          "url": "https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Do It On The Tip (feat. City Girls & Hot Girl Meg)",
-      "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNDER8ED",
         "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 170229,
       "name": "Peach (feat. City Girls)",
       "url": "https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
     },
     {
       "added_at": null,
@@ -651,30 +651,6 @@
       "duration_ms": 131631,
       "name": "Double CC's",
       "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Money",
-        "url": "https://open.spotify.com/album/3VHKbIoAqthCRMJ3ZtRpQX"
-      },
-      "artists": [
-        {
-          "name": "Cashflow Harlem",
-          "url": "https://open.spotify.com/artist/46e4kw7Ahn7VwRaVcXiLlZ"
-        },
-        {
-          "name": "Jaleel Knight",
-          "url": "https://open.spotify.com/artist/2xiVuPWzSoDtVRcOQxNNGK"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 128391,
-      "name": "Take Money",
-      "url": "https://open.spotify.com/track/120nygI7DcxAXigooArYKy"
     },
     {
       "added_at": null,
@@ -959,6 +935,30 @@
       "duration_ms": 187679,
       "name": "JT First Day Out",
       "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Money",
+        "url": "https://open.spotify.com/album/3VHKbIoAqthCRMJ3ZtRpQX"
+      },
+      "artists": [
+        {
+          "name": "Cashflow Harlem",
+          "url": "https://open.spotify.com/artist/46e4kw7Ahn7VwRaVcXiLlZ"
+        },
+        {
+          "name": "Jaleel Knight",
+          "url": "https://open.spotify.com/artist/2xiVuPWzSoDtVRcOQxNNGK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 128391,
+      "name": "Take Money",
+      "url": "https://open.spotify.com/track/120nygI7DcxAXigooArYKy"
     },
     {
       "added_at": null,

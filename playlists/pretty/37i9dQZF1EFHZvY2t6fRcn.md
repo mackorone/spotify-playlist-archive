@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 63 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 |
 | 64 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 |
 | 65 | [Contact](https://open.spotify.com/track/1tBIQgGTfEzZVLLcKK8wIp) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Contact](https://open.spotify.com/album/69zHpPx9IkCA2V3WkjrG87) | 3:42 |
-| 66 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 |
-| 67 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 |
+| 66 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 |
+| 67 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 |
 | 68 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 |
 | 69 | [Healing Hurts](https://open.spotify.com/track/1b0KbkFk1LvwkWhOJfmevW) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:42 |
 | 70 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 130 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 131 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AbrzKAAAAAAsvXH/SZ2TjS3A86Sv0JkY`
+Snapshot ID: `Abr4tAAAAADyhJOFD+4YXLyI0DGAUVrc`

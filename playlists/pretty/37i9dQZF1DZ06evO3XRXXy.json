@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 142487,
+  "num_followers": 142504,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADLvQt2l+tFp3UsEYIBgXhY",
+  "snapshot_id": "Z899AAAAAAA2cK/W79cslcAAanh5rfzz",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Music Radio",
-        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
       },
       "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 77374,
-      "name": "Clair de Lune (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
+      "duration_ms": 146881,
+      "name": "Nocturne Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
     },
     {
       "added_at": null,
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
       },
       "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 146881,
-      "name": "Nocturne Op. 9 No. 2",
-      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
+      "duration_ms": 77374,
+      "name": "Clair de Lune (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
     }
   ],
   "unique_name": "This Is Kenny G",

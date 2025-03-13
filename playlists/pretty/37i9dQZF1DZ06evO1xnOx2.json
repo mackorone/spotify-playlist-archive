@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 585511,
+  "num_followers": 585755,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABPoq8+KLSdUBgqohUTrrvv",
+  "snapshot_id": "Z899AAAAAABwcsa7XgABMFDaRxKcw7a2",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+        "name": "Northern Attitude (with Hozier)",
+        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
       "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 280106,
-      "name": "Unknown / Nth",
-      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
+      "duration_ms": 267256,
+      "name": "Northern Attitude (with Hozier)",
+      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
     },
     {
       "added_at": null,
@@ -139,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Northern Attitude (with Hozier)",
-        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
       "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude (with Hozier)",
-      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
     },
     {
       "added_at": null,

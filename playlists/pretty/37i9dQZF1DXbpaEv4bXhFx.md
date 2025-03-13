@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,499 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,501 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 33 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
 | 34 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
 | 35 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
-| 36 | [Talk About Love](https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 |
-| 37 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
+| 36 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
+| 37 | [Talk About Love](https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30) | 3:38 |
 | 38 | [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 |
 | 39 | [빗소리 \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [음악 캠핑 갈래?](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 |
 | 40 | [A Kind Of Confession \(Male Ver.\)](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |

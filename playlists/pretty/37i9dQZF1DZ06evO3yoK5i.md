@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,944 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,964 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 20 | [Un Ángel Como El Sol Tú Eres](https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Somos](https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk) | 3:23 |
 | 21 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:11 |
 | 22 | [Terra promessa \- Remastered 2021](https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 3:45 |
-| 23 | [Estrella Gemela \- Remastered 2021](https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:41 |
-| 24 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 |
+| 23 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 |
+| 24 | [Estrella Gemela \- Remastered 2021](https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:41 |
 | 25 | [Parla con me](https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Ali E Radici](https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R) | 3:58 |
 | 26 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
 | 27 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 40 | [No Estamos Solos](https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 3:42 |
 | 41 | [Huracan Meri \- Remastered 2021](https://open.spotify.com/track/16PPtSAznMYuqfeQ9vPYnM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:46 |
 | 42 | [Tierra Prometida \- Remastered 2021](https://open.spotify.com/track/11ioDeqYPCbfB6vk8mwEpI) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:38 |
-| 43 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
-| 44 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros Romántico](https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke) | 5:04 |
+| 43 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros Romántico](https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke) | 5:04 |
+| 44 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
 | 45 | [Yo sin ti \- Remastered 2021](https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:13 |
 | 46 | [Un Angel No Es](https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Spanish/Latin Version\)](https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF) | 4:31 |
 | 47 | [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Completamente Enamorados](https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 4:11 |
 | 50 | [Cancion para Ella \- Remastered 2021](https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Remastered 192 khz\)](https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0) | 3:40 |
 
-Snapshot ID: `Z8zaAAAAAADX+hS24AWuI4pw9nrw+G28`
+Snapshot ID: `Z899AAAAAADQzzdI5oB8SiIKSlQXXOHz`

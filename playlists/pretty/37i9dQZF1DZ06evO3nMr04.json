@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1397121,
+  "num_followers": 1397297,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADn6jSDypBvR5CVDmBqWI3W",
+  "snapshot_id": "Z899AAAAAAC9OJ4YK8AUsMx5M1vJUKEt",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 264334,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 372113,
-      "name": "Saint Pablo",
-      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
+      "duration_ms": 372113,
+      "name": "Saint Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
     },
     {
       "added_at": null,
@@ -919,6 +919,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 209581,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/0cbVD7WpHVdHUKwoolzhCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man On The Moon II: The Legend Of Mr. Rager",
         "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 192253,
       "name": "Erase Me - Main",
       "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "PROMOTION",
-      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
     },
     {
       "added_at": null,

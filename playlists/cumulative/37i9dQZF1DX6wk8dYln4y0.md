@@ -4,7 +4,7 @@
 
 > Music that just \*hits different\* Cover: Mallrat
 
-432 songs - 23 hr 38 min
+433 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-08-01 | 2024-09-03 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-03-16 | 2023-12-20 |
 | [Dive Bars And Angel Cards](https://open.spotify.com/track/1wk9O1WZx3nTFs80zjGBTO) | [Montgomery](https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4) | [Dive Bars And Angel Cards](https://open.spotify.com/album/67F3dEjCjWJTpRUArmlV7h) | 3:34 | 2024-10-03 | 2024-10-25 |
+| [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 | 2025-03-06 |  |
 | [Don't Panic](https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A New Best Friend](https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO) | 1:50 | 2025-02-27 | 2025-03-02 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2023-03-16 | 2023-12-20 |
 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 | 2024-04-29 | 2024-07-27 |
@@ -429,7 +430,7 @@
 | [Woman Gone Mad](https://open.spotify.com/track/2NYHtLFcLqq7T7MXTXrsK8) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Woman Gone Mad](https://open.spotify.com/album/4MhaKeoa64cH14GRjjpLXG) | 2:57 | 2025-03-06 |  |
 | [Work Song](https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:49 | 2024-06-18 | 2024-07-27 |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2023-03-16 | 2023-04-16 |
-| [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-18 |  |
+| [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-18 | 2025-03-13 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-03-16 | 2023-12-20 |
 | [YOU](https://open.spotify.com/track/6p2eArI2fcdxiO8UenVfVy) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN](https://open.spotify.com/album/6fCGW5OWBTrtesYXjEze3h) | 3:33 | 2024-11-07 |  |
 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 | 2023-12-19 | 2024-06-19 |

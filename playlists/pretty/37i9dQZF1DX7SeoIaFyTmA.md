@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,821 likes - 100 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,244 likes - 100 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 23 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
 | 24 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 25 | [El Gran Varón](https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Top Secrets](https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy) | 6:54 |
-| 26 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
+| 26 | [Pequeñas Cosas](https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Justo A Tiempo](https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl) | 5:07 |
 | 27 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 28 | [Apiádate de Mi](https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 5:04 |
 | 29 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
-| 30 | [Pequeñas Cosas](https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Justo A Tiempo](https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl) | 5:07 |
+| 30 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 31 | [Tú Con Él](https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 5:02 |
 | 32 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
 | 33 | [Ese](https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:31 |
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 83 | [Abran Paso \- Remastered 2024](https://open.spotify.com/track/6Vsk73MArJQeUoNlhRJEbv) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Orchestra Harlow](https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR) | [Abran Paso! \(Remastered 2024\)](https://open.spotify.com/album/4VIYw0JkogPtnZFdFGf9gJ) | 3:27 |
 | 84 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
 | 85 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
-| 86 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
-| 87 | [El Nazareno](https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Traigo de Todo](https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc) | 5:37 |
+| 86 | [El Nazareno](https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Traigo de Todo](https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc) | 5:37 |
+| 87 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
 | 88 | [Aquel Lugar](https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL) | 3:53 |
 | 89 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 |
 | 90 | [No Me Acostumbro](https://open.spotify.com/track/4HEIPKvipeKYPlC91MZGxC) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:49 |
 | 91 | [El Rey De La Puntualidad](https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Qué Pide La Gente](https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0) | 6:42 |
-| 92 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
-| 93 | [Oiga, Mire, Vea \- Salsa](https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK) | 5:23 |
+| 92 | [Oiga, Mire, Vea \- Salsa](https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK) | 5:23 |
+| 93 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 | 94 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Pura Salsa](https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi) | 5:09 |
 | 95 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
 | 96 | [Detalles](https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Detalles](https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI) | 4:38 |

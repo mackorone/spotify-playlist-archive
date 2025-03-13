@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 162635,
+  "num_followers": 162659,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -284,12 +284,12 @@
       },
       "artists": [
         {
-          "name": "Rufige Kru",
-          "url": "https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm"
-        },
-        {
           "name": "Goldie",
           "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Rufige Kru",
+          "url": "https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm"
         },
         {
           "name": "Submotive",
@@ -623,6 +623,38 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
+        "name": "Stop & Search",
+        "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
+      },
+      "artists": [
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "duration_ms": 202858,
+      "name": "Stop & Search",
+      "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"
+    },
+    {
+      "added_at": "2025-02-28 00:00:26",
+      "album": {
         "name": "Break It Down (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
       },
@@ -663,38 +695,6 @@
       "duration_ms": 240344,
       "name": "Cry",
       "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
-    },
-    {
-      "added_at": "2025-02-28 00:00:26",
-      "album": {
-        "name": "Stop & Search",
-        "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
-      },
-      "artists": [
-        {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "Sweetie Irie",
-          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Stop & Search",
-      "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"
     },
     {
       "added_at": "2025-02-28 00:00:26",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
-        },
-        {
-          "name": "Jasmine Knight",
-          "url": "https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
-    },
-    {
-      "added_at": "2025-02-28 00:00:26",
-      "album": {
         "name": "Don't Wanna Wake Up",
         "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 289371,
       "name": "Don't Wanna Wake Up",
       "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
+    },
+    {
+      "added_at": "2025-02-28 00:00:26",
+      "album": {
+        "name": "From The Dirt",
+        "url": "https://open.spotify.com/album/5a87llnssLqkYFKLD0pqoL"
+      },
+      "artists": [
+        {
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+        },
+        {
+          "name": "The Upbeats",
+          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+        }
+      ],
+      "duration_ms": 208092,
+      "name": "From The Dirt",
+      "url": "https://open.spotify.com/track/3vqnAH6SerB5wzpbo8Gccb"
     },
     {
       "added_at": "2025-02-28 00:00:26",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
-        "name": "From The Dirt",
-        "url": "https://open.spotify.com/album/5a87llnssLqkYFKLD0pqoL"
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
       },
       "artists": [
         {
-          "name": "Jakes",
-          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
         },
         {
-          "name": "The Upbeats",
-          "url": "https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF"
+          "name": "Jasmine Knight",
+          "url": "https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh"
         }
       ],
-      "duration_ms": 208092,
-      "name": "From The Dirt",
-      "url": "https://open.spotify.com/track/3vqnAH6SerB5wzpbo8Gccb"
+      "duration_ms": 190344,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
     },
     {
       "added_at": "2025-02-28 00:00:26",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2025-02-28 00:00:26",
+      "album": {
         "name": "Told You (Soundboy)",
         "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
       },
@@ -1475,18 +1491,26 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+        "name": "Bad Boy Horns",
+        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
       "artists": [
         {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+      "duration_ms": 252342,
+      "name": "Bad Boy Horns",
+      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
     },
     {
       "added_at": "2025-02-28 00:00:26",
@@ -1527,46 +1551,22 @@
     {
       "added_at": "2025-02-28 00:00:26",
       "album": {
-        "name": "Bad Boy Horns",
-        "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
+        "name": "Underground Supply",
+        "url": "https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj"
       },
       "artists": [
         {
-          "name": "Kelvin 373",
-          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
         },
         {
-          "name": "Waeys",
-          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
-        },
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+          "name": "Molecular",
+          "url": "https://open.spotify.com/artist/69dILXHVwcYRPfoOhmd0uj"
         }
       ],
-      "duration_ms": 252342,
-      "name": "Bad Boy Horns",
-      "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
-    },
-    {
-      "added_at": "2025-02-28 00:00:26",
-      "album": {
-        "name": "So Here It Is",
-        "url": "https://open.spotify.com/album/2xaXtzity8odRJqbfFuLyc"
-      },
-      "artists": [
-        {
-          "name": "DLR",
-          "url": "https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs"
-        },
-        {
-          "name": "Alix Perez",
-          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "So Here It Is",
-      "url": "https://open.spotify.com/track/3Nj5oxn4fEoyAFZG2eiePZ"
+      "duration_ms": 252607,
+      "name": "Underground Supply",
+      "url": "https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain](/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNb6Ba0LuVc)
 
-### [Feel Good Beats](https://open.spotify.com/playlist/37i9dQZF1DXcNb6Ba0LuVc)
+### [Happy Beats 2025](https://open.spotify.com/playlist/37i9dQZF1DXcNb6Ba0LuVc)
 
-> Uplifting instrumental beats to brighten your day.
+> Uplifting instrumental beats for feel\-good vibes and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,336 likes - 218 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,501 likes - 218 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 217 | [Rush Hour](https://open.spotify.com/track/4lv69NLbpOU0A2EACI4bEg) | [Lo\-Five](https://open.spotify.com/artist/3K8s2AFPmTDnzEkSfXDoTi) | [lofi cafe](https://open.spotify.com/album/5VFel9xgsCTME5frlsDRPn) | 2:38 |
 | 218 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `Z862ggAAAADMSgUIpfYkVzn7Jcx8UZ8L`
+Snapshot ID: `Z9IFXwAAAABXS7shgkFhG47Zk8pKbOGe`

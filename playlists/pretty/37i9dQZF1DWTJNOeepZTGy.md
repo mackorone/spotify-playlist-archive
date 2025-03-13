@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,982 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,010 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 8 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
 | 9 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
 | 10 | [For You](https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Kenny Lattimore](https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE) | 3:57 |
-| 11 | [Take You Out](https://open.spotify.com/track/650M98AP1WgRo1jJ0snmoI) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 3:26 |
-| 12 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
+| 11 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
+| 12 | [Take You Out](https://open.spotify.com/track/650M98AP1WgRo1jJ0snmoI) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 3:26 |
 | 13 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 14 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
+| 14 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
 | 15 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 16 | [If This World Were Mine \(with Luther Vandross\)](https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Instant Love \(Expanded Edition\)](https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG) | 5:23 |
 | 17 | [Knocks Me Off My Feet](https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:36 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 22 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 23 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
 | 24 | [Lately](https://open.spotify.com/track/2931VBrdy0FnvNmjfyRPD9) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Lately](https://open.spotify.com/album/5OUPs3doEKFc9Mm2NGGiwD) | 4:02 |
-| 25 | [You](https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Experience](https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0) | 5:02 |
-| 26 | [Inside My Love \- Remastered 1993](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
-| 27 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
+| 25 | [Inside My Love \- Remastered 1993](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
+| 26 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
+| 27 | [You](https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Experience](https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0) | 5:02 |
 | 28 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
 | 29 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
 | 30 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |

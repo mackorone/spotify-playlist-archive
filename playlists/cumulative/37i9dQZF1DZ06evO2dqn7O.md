@@ -4,7 +4,7 @@
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 34 min
+94 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 | 2024-05-11 |  |
 | [forever, now](https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [forever, now](https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw) | 4:48 | 2023-02-03 | 2024-01-21 |
 | [forever, now](https://open.spotify.com/track/3Nm9x3Y218pXYz0a0hKGn2) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 4:48 | 2024-01-28 | 2024-02-18 |
-| [Fragile](https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 3:03 | 2024-10-20 |  |
+| [Fragile](https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 3:03 | 2024-10-20 | 2025-03-13 |
+| [Fragile \(OurVinyl Sessions\)](https://open.spotify.com/track/01qg03uODrcMCIOPhRX5nK) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 2:55 | 2025-03-13 |  |
 | [Free & Lonely](https://open.spotify.com/track/0aPN28xnhv6RMuxAPpygjR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 4:08 | 2022-10-26 | 2023-12-17 |
 | [Friend For Life \(with Medium Build\)](https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Friend For Life \(with Medium Build\)](https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n) | 3:30 | 2023-06-24 |  |
 | [give me hell](https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [give me hell](https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0) | 3:04 | 2023-04-15 | 2023-09-10 |

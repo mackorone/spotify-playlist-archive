@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,769 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,776 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 63 | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx) | [Fazobeats](https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Bbl Drizzy \(Jersey Club\)](https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ) | 2:08 |
 | 64 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 65 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
-| 66 | [now rock](https://open.spotify.com/track/0sLiGUOYYRQ2pzJgijFCNm) | [gangwalkk](https://open.spotify.com/artist/5CfPXXv7fxuj8CeegMa5hK), [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n) | [now rock](https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1) | 2:50 |
+| 66 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
 | 67 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
 | 68 | [Under The Influence \(Jersey Club\)](https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [DJ Taj](https://open.spotify.com/artist/5TAqQamkiCMNUpBP3tLkVY) | [Under The Influence \(Jersey Club\)](https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp) | 2:19 |
 | 69 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
-| 70 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
+| 70 | [now rock](https://open.spotify.com/track/0sLiGUOYYRQ2pzJgijFCNm) | [gangwalkk](https://open.spotify.com/artist/5CfPXXv7fxuj8CeegMa5hK), [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n) | [now rock](https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1) | 2:50 |
 | 71 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
-| 72 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
-| 73 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
+| 72 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
+| 73 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 74 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
 | 75 | [Back It Up](https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [I Said It's Lilman](https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H) | 2:36 |
 

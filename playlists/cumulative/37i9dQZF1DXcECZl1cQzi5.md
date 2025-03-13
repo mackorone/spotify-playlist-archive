@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-159 songs - 7 hr 31 min
+160 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blue Horizon](https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc) | [Frederic Stelliard](https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc) | [Blue Horizon](https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz) | 2:39 | 2024-10-09 |  |
 | [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 | 2024-07-09 |
 | [Breath](https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-10-23 |  |
+| [Breathe \(In\)](https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Synchrony](https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0) | 4:08 | 2025-02-18 |  |
 | [Breezing](https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Breezing](https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4) | 2:43 | 2023-10-26 | 2025-02-19 |
 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 | 2023-10-23 |  |
 | [By the Ocean](https://open.spotify.com/track/3wiPradzeWPto8383InaTd) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [By the Ocean](https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4) | 3:05 | 2025-01-15 |  |
@@ -92,7 +93,7 @@
 | [Mindful Swell](https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mindful Swell](https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP) | 2:16 | 2024-06-03 | 2024-08-13 |
 | [Morning Waves](https://open.spotify.com/track/1rECiVNfP8569A717vmLe1) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Morning Waves](https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT) | 2:52 | 2024-03-20 | 2025-02-28 |
 | [Night Waves](https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Night Waves](https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV) | 3:44 | 2025-01-15 |  |
-| [Oasis](https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:07 | 2023-10-23 |  |
+| [Oasis](https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:07 | 2023-10-23 | 2025-03-13 |
 | [Obscure Ocean](https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Obscure Ocean](https://open.spotify.com/album/3d2kKnsb4KIGKDjWlOuXVo) | 2:28 | 2024-02-06 | 2024-12-21 |
 | [Ocean](https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 2:36 | 2023-10-23 |  |
 | [Ocean Air](https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ocean Air](https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y) | 2:35 | 2025-01-15 |  |

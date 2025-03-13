@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,049 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,267 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 32 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
 | 33 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
 | 34 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
-| 35 | [Good Vibrations](https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9) | [Marky Mark And The Funky Bunch](https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV), [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Music For The People](https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ) | 4:29 |
-| 36 | [Mr\. Vain Recall \- Radio Edit](https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain Recall](https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO) | 3:33 |
+| 35 | [Mr\. Vain Recall \- Radio Edit](https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain Recall](https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO) | 3:33 |
+| 36 | [Good Vibrations](https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9) | [Marky Mark And The Funky Bunch](https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV), [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Music For The People](https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ) | 4:29 |
 | 37 | [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 |
 | 38 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
 | 39 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |

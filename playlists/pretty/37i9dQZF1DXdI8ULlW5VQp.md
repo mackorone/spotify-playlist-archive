@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Natalia Lafourcade en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,087 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,111 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 45 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
 | 46 | [Ojalá](https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Ojalá](https://open.spotify.com/album/3chBDiP97QKgFLAlVszXm1) | 3:17 |
 | 47 | [La Gata Bajo la Lluvia \- Sesión Acústica en Vivo](https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [La Gata Bajo la Lluvia \(Sesión Acústica en Vivo\)](https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T) | 4:08 |
-| 48 | [Soledad y el Mar \(feat\. Omara Portuondo\) \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Natalia Lafourcade Live at Carnegie Hall](https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY) | 4:12 |
-| 49 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
+| 48 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
+| 49 | [Soledad y el Mar \(feat\. Omara Portuondo\) \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Natalia Lafourcade Live at Carnegie Hall](https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY) | 4:12 |
 | 50 | [Se Cancela La Llorada](https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Se Cancela La Llorada](https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv) | 3:00 |
 | 51 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
 | 52 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 62 | [año nuevo](https://open.spotify.com/track/7ajLeP8dofCboY5MpQ5ymP) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Vangan](https://open.spotify.com/artist/7k5pkos4SfOSL1o0VMQzU0) | [año nuevo](https://open.spotify.com/album/56Mx91RHVVImdY8mCcR4Bm) | 3:17 |
 | 63 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 |
 | 64 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
-| 65 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
-| 66 | [Raíces](https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Raíces](https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK) | 2:54 |
+| 65 | [Raíces](https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Raíces](https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK) | 2:54 |
+| 66 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
 | 67 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
 | 68 | [Escuchado](https://open.spotify.com/track/49WZpJPbTNDSXOIrmXN2qY) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Las Cápsulas Del Tiempo Son Rosas](https://open.spotify.com/album/1EYtlVjlntnbVZQh0QLptu) | 3:03 |
 | 69 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,143 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,151 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

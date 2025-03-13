@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,800 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,964 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 37 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 |
 | 38 | [ビーナスバグ](https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:49 |
 | 39 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 40 | [み む かゥ わ ナ イ ス ト ラ イ](https://open.spotify.com/track/5SXF0cKaxsWJYDFMbXGvoA) | [ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ](https://open.spotify.com/artist/44D3MnQihKkhALgAxoMiOL) | [み む かゥ わ ナ イ ス ト ラ イ](https://open.spotify.com/album/3vLgYPfe2Ttuf7ksvHzVKu) | 3:25 |
+| 40 | [み む かゥ わ ナ イ ス ト ラ イ](https://open.spotify.com/track/5SXF0cKaxsWJYDFMbXGvoA) | [nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu](https://open.spotify.com/artist/1U0xy9KHRDwpM08aIJWfTN) | [み む かゥ わ ナ イ ス ト ラ イ](https://open.spotify.com/album/3vLgYPfe2Ttuf7ksvHzVKu) | 3:25 |
 | 41 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
 | 42 | [心の奥](https://open.spotify.com/track/0tbeRI5RFnZlqufHP7bMnS) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [溜息](https://open.spotify.com/album/3U0cY8IL5mhYjIveWhZa6g) | 2:40 |
 | 43 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |

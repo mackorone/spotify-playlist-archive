@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,132 likes - 50 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,152 likes - 50 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 13 | [Raga: Pahari](https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s) | [Shujaat Khan](https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0) | [Sweet Melodies](https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ) | 8:14 |
 | 14 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 |
 | 15 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |
-| 16 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 |
-| 17 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 |
-| 18 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
-| 19 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |
+| 16 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 |
+| 17 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
+| 18 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |
+| 19 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 |
 | 20 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 21 | [Raga Darbari \- Drut Gat \- Teentaal \- Instrumental](https://open.spotify.com/track/6XX6lVVxCdyFkwwiPUl72b) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr), [Sabri Khan](https://open.spotify.com/artist/4jJPc9HPkYDNJxvloWDTqx) | [Celebrating the Legend \- Amjad Ali Khan](https://open.spotify.com/album/7x2PlNq4pjCvCtD3Q78yIL) | 9:34 |
 | 22 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 49 | [Ragmala](https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG) | [Rais Khan](https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK) | [Rag\-Rang](https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk) | 23:05 |
 | 50 | [Raga Chandranandan \- Alap, Jor](https://open.spotify.com/track/3a9XtNboaANi0w3fZGhnKK) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Over the Moon](https://open.spotify.com/album/1mmiBzkLYgjoyX8O9U8moV) | 22:11 |
 
-Snapshot ID: `Z4+MfAAAAADdSaKrAAE7L/I6OfiPrqnT`
+Snapshot ID: `Z9Eq7QAAAACpiKTHfZyOPWZVynN/A4+9`

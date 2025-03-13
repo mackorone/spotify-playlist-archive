@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36405,
+  "num_followers": 36404,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADJvoLfQCt0gbvM0Gr7kn8K",
+  "snapshot_id": "Z899AAAAAACkQbiymm9TO8YuD7cG7Hr7",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myekeleni",
-        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Mama I'm Sorry",
-      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 239800,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/26e8Qw2ABeMtVbYxIYIkMr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
     },
     {
       "added_at": null,
@@ -243,26 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Republik",
-        "url": "https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ"
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
       "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 236379,
-      "name": "Mamgobhozi (feat. Brenda Fassie)",
-      "url": "https://open.spotify.com/track/3HfP4ClNsgUElIIeiaIKUx"
+      "duration_ms": 210697,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
     },
     {
       "added_at": null,
@@ -283,18 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+        "name": "Piano Republik",
+        "url": "https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ"
       },
       "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 210697,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
+      "duration_ms": 236379,
+      "name": "Mamgobhozi (feat. Brenda Fassie)",
+      "url": "https://open.spotify.com/track/3HfP4ClNsgUElIIeiaIKUx"
     },
     {
       "added_at": null,
@@ -516,9 +516,25 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 355066,
-      "name": "Ntsware - Ndibambe",
-      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
+      "duration_ms": 306933,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 294746,
+      "name": "Monate",
+      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 294746,
-      "name": "Monate",
-      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 306933,
-      "name": "Mali",
-      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+      "duration_ms": 355066,
+      "name": "Ntsware - Ndibambe",
+      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "Soon And Very Soon - 99 Remix",
+      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 275960,
-      "name": "Soon And Very Soon - 99 Remix",
-      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
+      "duration_ms": 244333,
+      "name": "Ngizobuya",
+      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 244333,
-      "name": "Ngizobuya",
-      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
+      "duration_ms": 298906,
+      "name": "Ngohlala Ngi Nje",
+      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 314426,
       "name": "Ngiyakusaba",
       "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

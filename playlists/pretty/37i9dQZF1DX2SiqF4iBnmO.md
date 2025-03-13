@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,293 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,350 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 16 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 |
 | 17 | [The Way You Do The Things You Do](https://open.spotify.com/track/04PydaEH97XN7YohGteKpK) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:02 |
 | 18 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
-| 19 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
-| 20 | [Doin' it Right \(feat\. Panda Bear\)](https://open.spotify.com/track/36c4JohayB9qd64eidQMBi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:11 |
+| 19 | [Doin' it Right \(feat\. Panda Bear\)](https://open.spotify.com/track/36c4JohayB9qd64eidQMBi) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:11 |
+| 20 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
 | 21 | [Paul Revere](https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:40 |
 | 22 | [Sweet Sixteen \- Remastered 2001](https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:14 |
 | 23 | [Don't Stop the Rock](https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Don't Stop the Rock](https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z) | 5:28 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 45 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/5ZlGmiT0YSMUrHP6P7rEVB) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Lose Control](https://open.spotify.com/album/3l5ahNH1dS4casarZMH3GR) | 3:32 |
 | 46 | [Remote Control](https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr) | [Sweet And Short](https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf) | 5:03 |
 | 47 | [Sanctified Lady](https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Dream Of A Lifetime](https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf) | 5:25 |
-| 48 | [Funky Little Beat](https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx) | [Connie](https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx) | [Thump Pick Six Connie](https://open.spotify.com/album/113nqnTrK2JWXpKAGySjtN) | 4:36 |
-| 49 | [How Much Can You Take?](https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT) | [M.C\. A.D.E.](https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT) | [How Much Can You Take](https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu) | 3:22 |
+| 48 | [How Much Can You Take?](https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT) | [M.C\. A.D.E.](https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT) | [How Much Can You Take](https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu) | 3:22 |
+| 49 | [Funky Little Beat](https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx) | [Connie](https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx) | [Thump Pick Six Connie](https://open.spotify.com/album/113nqnTrK2JWXpKAGySjtN) | 4:36 |
 | 50 | [Problèmes d'Amour](https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq), [Martine Michellod](https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE) | [Ce n'est q'un début \(Remastered\)](https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs) | 4:30 |
 
 Snapshot ID: `Zo5G1wAAAADWPPCvTSY1LecPXt68tdOL`

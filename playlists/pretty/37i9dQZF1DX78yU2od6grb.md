@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,249 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,275 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 40 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 |
 | 41 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 |
 | 42 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
-| 43 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
-| 44 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
+| 43 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
+| 44 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
 | 45 | [Nobody](https://open.spotify.com/track/736MgYHdLtKTBKGJTutpGz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Nobody](https://open.spotify.com/album/2IOxCs33hAnjIQrdwJqFKb) | 3:19 |
 | 46 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 |
 | 47 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 58194,
+  "num_followers": 58221,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABA5hrfMZi5GvHU0CZYt4e7",
+  "snapshot_id": "Z899AAAAAAD3c8fUEls9sRpGKRRCmGBn",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Colony of Birchmen",
-      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
+      "duration_ms": 209932,
+      "name": "Pushing the Tides",
+      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Colony of Birchmen",
+      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 209932,
-      "name": "Pushing the Tides",
-      "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
+      "duration_ms": 377695,
+      "name": "Sickle and Peace",
+      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
     },
     {
       "added_at": null,
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 377695,
-      "name": "Sickle and Peace",
-      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
+      "duration_ms": 299542,
+      "name": "The Crux",
+      "url": "https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 299542,
-      "name": "The Crux",
-      "url": "https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cold Dark Place",
         "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 312600,
       "name": "Blue Walsh",
       "url": "https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Stargasm",
+      "url": "https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR"
     },
     {
       "added_at": null,
@@ -619,38 +635,6 @@
       "duration_ms": 265133,
       "name": "Capillarian Crest",
       "url": "https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunter",
-        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Stargasm",
-      "url": "https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "The Sparrow",
-      "url": "https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV"
     },
     {
       "added_at": null,

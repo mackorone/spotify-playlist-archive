@@ -495,6 +495,22 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 136082,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
         "name": "HBB",
         "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 146750,
       "name": "HBB",
       "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "Big Steppa",
-        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 136082,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
+        "name": "Bland Sagor & Vapen",
+        "url": "https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 155160,
+      "name": "Welou (Better Days)",
+      "url": "https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
         "name": "Tenk Inte",
         "url": "https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 173000,
       "name": "Tenk Inte",
       "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "Bland Sagor & Vapen",
-        "url": "https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 155160,
-      "name": "Welou (Better Days)",
-      "url": "https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Brunette & Blondine (feat. Tyr)",
-        "url": "https://open.spotify.com/album/2GaBMPzaLkAgr59lCKyTAd"
-      },
-      "artists": [
-        {
-          "name": "Bargee",
-          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
-        },
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 131603,
-      "name": "Brunette & Blondine (feat. Tyr)",
-      "url": "https://open.spotify.com/track/6Veqegam37sgXeKNaKSXly"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "Brunette & Blondine (feat. Tyr)",
+        "url": "https://open.spotify.com/album/2GaBMPzaLkAgr59lCKyTAd"
+      },
+      "artists": [
+        {
+          "name": "Bargee",
+          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
+        },
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 131603,
+      "name": "Brunette & Blondine (feat. Tyr)",
+      "url": "https://open.spotify.com/track/6Veqegam37sgXeKNaKSXly"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
+        "name": "Frossa",
+        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 154985,
+      "name": "Frossa",
+      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
         "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
         "url": "https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 165528,
       "name": "Kj\u00e6re Mor (feat. Stig Brenner)",
       "url": "https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "Frossa",
-        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 154985,
-      "name": "Frossa",
-      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
         "name": "I Want You 2 Be Mine",
         "url": "https://open.spotify.com/album/6xGLYXAdQ5ChOF5gsJRGnM"
       },
@@ -1223,18 +1239,22 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+        "name": "Bra \u00c5r",
+        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Peder Nord",
+          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
         }
       ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+      "duration_ms": 109766,
+      "name": "Cph Freestyle",
+      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1259,26 +1279,6 @@
       "duration_ms": 190062,
       "name": "Souljaboii Remixxx",
       "url": "https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "Bra \u00c5r",
-        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        },
-        {
-          "name": "Peder Nord",
-          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
-        }
-      ],
-      "duration_ms": 109766,
-      "name": "Cph Freestyle",
-      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1319,34 +1319,18 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
       "artists": [
         {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "Put 'Em Up",
-        "url": "https://open.spotify.com/album/1gRxW7y4qFncNhrQUpu14T"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "Put 'Em Up",
-      "url": "https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH"
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1407,6 +1375,38 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "2 Trekk",
+        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 172841,
+      "name": "2 Trekk",
+      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2025-02-27 23:00:41",
@@ -1463,8 +1463,28 @@
     {
       "added_at": "2025-02-27 23:00:41",
       "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
+    },
+    {
+      "added_at": "2025-02-27 23:00:41",
+      "album": {
+        "name": "Put 'Em Up",
+        "url": "https://open.spotify.com/album/1gRxW7y4qFncNhrQUpu14T"
       },
       "artists": [
         {
@@ -1472,25 +1492,9 @@
           "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
         }
       ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
-    },
-    {
-      "added_at": "2025-02-27 23:00:41",
-      "album": {
-        "name": "Batmobile",
-        "url": "https://open.spotify.com/album/0QlwSCsBfQ5AdKmHBnL1FE"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 117216,
-      "name": "Batmobile",
-      "url": "https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k"
+      "duration_ms": 184583,
+      "name": "Put 'Em Up",
+      "url": "https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH"
     }
   ],
   "unique_name": "100 (2)",

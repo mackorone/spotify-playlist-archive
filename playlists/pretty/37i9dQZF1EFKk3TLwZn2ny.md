@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 38 | [Fix My Lonely](https://open.spotify.com/track/6QlUoc2IFZO9iAMnRxVJHl) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Symptoms Of A Teen](https://open.spotify.com/album/32HZ71X3o8JgNmYxSb8f1W) | 3:01 |
 | 39 | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/track/0tjkC3oD2A3sj4nTMEsezR) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/album/7m13fjwYVPw5URrUvS89K0) | 3:57 |
 | 40 | [Countdown](https://open.spotify.com/track/5c12s5qzsC9tu9IwyMIUgi) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Countdown](https://open.spotify.com/album/7LInTNKbSTA1j8wCk2hT48) | 2:20 |
-| 41 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 |
+| 41 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama](https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 |
 | 42 | [Brand New](https://open.spotify.com/track/1SAiUd9FlY6A36831AuXtX) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 3:20 |
 | 43 | [Why Would I](https://open.spotify.com/track/3tlagYGVQF3IArtnyE6f8x) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [I Feel Different Every Day](https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB) | 3:21 |
 | 44 | [The Middle](https://open.spotify.com/track/6ZdEk3NpGOn0pk8AcYoksu) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Syd B](https://open.spotify.com/artist/3DjOPWwOPmmhNMGpRlmnzb) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:30 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 58 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 59 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `AbrzCgAAAABAWQac6Nz+iRiyxgKBiIYy`
+Snapshot ID: `Abr4qgAAAACggR1fExWUpqe2b3+PVIkS`

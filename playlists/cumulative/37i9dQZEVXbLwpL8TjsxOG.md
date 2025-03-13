@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,127 songs - 2 day 17 hr 34 min
+1,129 songs - 2 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Supernova](https://open.spotify.com/track/58b0gBwBVjQfbbCU4xIvoy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/49kUtQMJo7Am9UuLuN1MuB) | 2:58 | 2024-10-06 | 2024-10-08 |
 | [Supernova](https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) | 2:58 | 2024-10-09 | 2024-10-24 |
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2024-02-20 | 2024-03-10 |
+| [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-12 |  |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-27 |
 | [Sweet Sweet Christmas](https://open.spotify.com/track/2Uzjd7yEjikMPc0kYC4gaJ) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Sweet Sweet Christmas](https://open.spotify.com/album/2VdMBRSw6iOnkT6qDfZapu) | 4:37 | 2021-12-19 | 2021-12-29 |
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-18 | 2023-11-23 |
@@ -735,7 +736,7 @@
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-18 | 2024-05-23 |
 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2024-11-30 |  |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-12-25 | 2024-12-28 |
-| [with the IE \(way up\)](https://open.spotify.com/track/7rzzByujLJIBXpyOCnJhfx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:43 | 2025-03-08 |  |
+| [with the IE \(way up\)](https://open.spotify.com/track/7rzzByujLJIBXpyOCnJhfx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:43 | 2025-03-08 | 2025-03-13 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-26 | 2022-04-28 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-25 | 2023-12-30 |
 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 | 2024-06-08 | 2024-07-07 |
@@ -754,7 +755,7 @@
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-11-07 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-23 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 | 2023-12-10 |
-| [ZEN](https://open.spotify.com/track/2chbuybiy6aDDBC985tJcP) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:21 | 2025-03-08 |  |
+| [ZEN](https://open.spotify.com/track/2chbuybiy6aDDBC985tJcP) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:21 | 2025-03-08 | 2025-03-13 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-04-18 |
 | [⁠1994](https://open.spotify.com/track/4tLmgS4JGvc3OZJOya96cj) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ), [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:18 | 2025-03-09 |  |
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2023-03-06 | 2023-04-09 |
@@ -902,6 +903,7 @@
 | [愛情簽證申請](https://open.spotify.com/track/4eQKKfqMKSofIelC3fXyjn) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [Jhen F](https://open.spotify.com/artist/1M42F0mZ6VCSizzqPHUXDX) | [愛情簽證申請](https://open.spotify.com/album/0gtJNnbuuEuod6gOPYJlnS) | 3:12 | 2023-11-28 | 2023-12-24 |
 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 | 2025-03-02 |  |
 | [懷舊金曲之夜](https://open.spotify.com/track/2jxqkUylLlJl7p45bFbH9u) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [懷舊金曲之夜](https://open.spotify.com/album/6ev7ivUUzC1DRhFzeg9RoV) | 3:49 | 2023-02-15 | 2023-05-03 |
+| [戀愛腦之死](https://open.spotify.com/track/28MuHiNnoY8yjwhvIw5NnO) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [戀愛腦之死](https://open.spotify.com/album/6j9GAQ0xUflZH8hTsfyd5p) | 4:32 | 2025-03-12 |  |
 | [我不如](https://open.spotify.com/track/0uAW2j0sLBHVr3Gs9IGIqf) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [我不如](https://open.spotify.com/album/6duDqjjDQ7RDxN4aL7FSjA) | 3:36 | 2021-04-26 | 2022-03-21 |
 | [我不是神,我只是平凡卻直拗愛著你的人](https://open.spotify.com/track/1XkaiiA1izzcVhVuhB532l) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [我不是神,我只是平凡卻直拗愛著你的人](https://open.spotify.com/album/7BMCjQbDoNCetLD5sZnKFL) | 4:59 | 2023-04-15 | 2023-04-18 |
 | [我不是邱比特](https://open.spotify.com/track/3wELjotjK7vdWGYD7G9s6z) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [我不是邱比特](https://open.spotify.com/album/5PR6jwqIR8MXBu0Xs6FJnh) | 4:02 | 2021-07-12 | 2021-10-31 |

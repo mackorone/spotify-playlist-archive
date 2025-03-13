@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,443 likes - 83 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,468 likes - 83 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 |
 | 2 | [By a Monster’s Hand](https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster’s Hand](https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV) | 3:42 |
-| 3 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
-| 4 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
+| 3 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
+| 4 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
 | 5 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 |
 | 6 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
 | 7 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 82 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 83 | [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 |
 
-Snapshot ID: `Z88U8gAAAABtRIxSY+jlSSn41J4jmOd2`
+Snapshot ID: `Z9HlVQAAAABm3+Spyrv7x995i9DK8p/U`

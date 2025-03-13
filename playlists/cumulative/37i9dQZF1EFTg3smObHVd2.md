@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-91 songs - 5 hr 19 min
+92 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Gossip Girl](https://open.spotify.com/track/2maAcOeKbRN6zSmwQcGA7G) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:23 | 2024-02-27 |  |
 | [Hand In Hand](https://open.spotify.com/track/5TyMCjuHEOb1H4zOhW6JrL) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:15 | 2024-02-27 |  |
 | [Happiness](https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 4:03 | 2024-02-27 | 2025-03-09 |
+| [Happiness](https://open.spotify.com/track/4ylodEz8DajPJbhIpDKgFy) | [nebiskremx](https://open.spotify.com/artist/7Efd80kRellHK4fudVfzCd) | [Happiness](https://open.spotify.com/album/4ZFej9FDkIgYMYCUI6JS2v) | 4:04 | 2025-03-12 |  |
 | [Happiness \- Wideboys Radio Edit](https://open.spotify.com/track/2NoqQBbDYCZ0L9RcgtlPsU) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1), [The Wideboys \(E\. Craig/J\. Sullivan\)](https://open.spotify.com/artist/6cVuiXTphf2oLXxxKOUxZp) | [Essential R&B \- The Clubmix](https://open.spotify.com/album/1ZlofBdVJvmavcAl7mX7wD) | 4:08 | 2024-12-13 | 2025-02-10 |
 | [Heart Miles](https://open.spotify.com/track/7IKzUEyAypH22vz6yu0TMN) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Heart Miles](https://open.spotify.com/album/1cAUTH46IrJSTrdu0s7fI8) | 3:31 | 2024-02-27 |  |
 | [Hello](https://open.spotify.com/track/7jO1boY6qwRjeu0EBtvDuu) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:57 | 2024-02-27 |  |

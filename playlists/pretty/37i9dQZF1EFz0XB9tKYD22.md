@@ -260,8 +260,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 250 | [Hell Of A Heartbreak](https://open.spotify.com/track/1YtSJkaTnzV2TNkGo2045F) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hell Of A Heartbreak](https://open.spotify.com/album/3JFCNlunpvtxLZiGO3OQ5Z) | 3:02 |
 | 251 | [Church](https://open.spotify.com/track/0QE20mK0CaoBOw5WebQY7M) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Evolution](https://open.spotify.com/album/3scMKfMlTX9zRDAyPKw6ei) | 3:15 |
 | 252 | [The Moon \(feat\. Hillary Lindsey & Lori McKenna\)](https://open.spotify.com/track/505B8PAcsjCpntbYFp3Mrb) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [History of Heartbreak](https://open.spotify.com/album/1xYOjjl7ahWGn65D9j9uGe) | 4:18 |
-| 253 | [Two Birds](https://open.spotify.com/track/4dXYpeXEDUAB9PONc1hT1A) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:28 |
-| 254 | [tryin' to love you](https://open.spotify.com/track/3kvmNifP422VOXbXrAVoYR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:57 |
+| 253 | [tryin' to love you](https://open.spotify.com/track/3kvmNifP422VOXbXrAVoYR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:57 |
+| 254 | [Two Birds](https://open.spotify.com/track/4dXYpeXEDUAB9PONc1hT1A) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:28 |
 | 255 | [Liar](https://open.spotify.com/track/6qsc0dVy76PRWI0hkcLbz4) | [Walker County](https://open.spotify.com/artist/54sAFNFpWz9HcPVTOSa6Ag) | [Liar](https://open.spotify.com/album/4UD1ACjCmwnCcTdQwvtwj3) | 3:29 |
 | 256 | [boy crazy.](https://open.spotify.com/track/5JVTQ9BlW479QIzY6jrR8Y) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:37 |
 | 257 | [Bad Love](https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF) | 3:26 |
@@ -352,4 +352,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 342 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 343 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbrzHgAAAACa6oL23q2DBrgsxxWK4tN7`
+Snapshot ID: `Abr4tAAAAABz/6I1jmH3CpS66rYHN/KI`

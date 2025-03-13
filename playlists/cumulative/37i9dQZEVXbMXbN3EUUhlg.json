@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 184320,
       "name": "ALUGA-SE - Ao Vivo",
       "url": "https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm"
@@ -16930,7 +16930,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 159999,
       "name": "Meu Carro nao tem Porta Luva - Remastered 2024",
       "url": "https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc"
@@ -18330,7 +18330,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 112000,
       "name": "M\u00f4naco Freestyle",
       "url": "https://open.spotify.com/track/0d7oIw2t0f6oCXJUfWYw8E"
@@ -22666,7 +22666,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 165888,
       "name": "Proibido Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT"
@@ -24720,7 +24720,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/45ZY7YpxyqPS2qzGBqNxfG"
@@ -24746,7 +24746,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
@@ -29762,6 +29762,36 @@
       "duration_ms": 151976,
       "name": "Vestido Curto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
+    },
+    {
+      "album": {
+        "name": "Viciado Em Ver Ela Descer (feat. MC Ryan SP)",
+        "url": "https://open.spotify.com/album/4L5eU4Tx7bWNGq3K8PSlaK"
+      },
+      "artists": [
+        {
+          "name": "Kew",
+          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Viciado Em Ver Ela Descer (feat. MC Ryan SP)",
+      "url": "https://open.spotify.com/track/25IyuetB1r3ntdH3SGpzLn"
     },
     {
       "album": {

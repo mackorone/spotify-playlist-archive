@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484931,
+  "num_followers": 484921,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADJMPFr5GWEPBqu0QIpUOxJ",
+  "snapshot_id": "Z899AAAAAAA6mSW9rxLdRtFzVgA1zRge",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It on Your Love",
-        "url": "https://open.spotify.com/album/7taiT9oVLbid3rJ7KwM9jf"
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
       },
       "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 191113,
-      "name": "Blame It on Your Love (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/1MfuskV4ODUp14C2dnyPgW"
+      "duration_ms": 156284,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
+        "name": "Blame It on Your Love",
+        "url": "https://open.spotify.com/album/7taiT9oVLbid3rJ7KwM9jf"
       },
       "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 156284,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
+      "duration_ms": 191113,
+      "name": "Blame It on Your Love (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/1MfuskV4ODUp14C2dnyPgW"
     },
     {
       "added_at": null,

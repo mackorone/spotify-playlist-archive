@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Punto](https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres De Manzanero](https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R) | 2:58 | 2023-12-18 |  |
+| [A Punto](https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres De Manzanero](https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R) | 2:58 | 2023-12-18 | 2025-03-13 |
 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 | 2023-12-18 |  |
 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 | 2023-12-18 |  |
 | [Arrepentida](https://open.spotify.com/track/0uNH2bpQFlUku6mPcdk9up) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:27 | 2023-12-18 |  |
@@ -68,7 +68,7 @@
 | [Tú Me Obligaste](https://open.spotify.com/track/2U5AymDbKKdUncaaGGi3Jt) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 2:59 | 2023-12-18 |  |
 | [Un Viejo Amor \(feat\. Edith Márquez\)](https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:41 | 2023-12-18 |  |
 | [Vas A Llorar](https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Singles](https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL) | 3:19 | 2023-12-18 | 2025-01-18 |
-| [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 | 2023-12-18 | 2025-03-12 |
+| [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 | 2023-12-18 |  |
 | [Yo Lo Extraño A Morir](https://open.spotify.com/track/2kqiZz3VORkKuO9n0om5fg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:43 | 2023-12-18 |  |
 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 | 2023-12-18 |  |
 | [Ódiame](https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:53 | 2023-12-18 |  |

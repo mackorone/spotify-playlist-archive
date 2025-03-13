@@ -4,7 +4,7 @@
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 43 min
+70 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 | 2024-01-10 |  |
 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 | 2024-01-10 |  |
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-11-18 |  |
+| [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 | 2025-03-13 |  |
 | [Suitcase](https://open.spotify.com/track/0IDKI9KI71q4YPrW58hNtA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:48 | 2024-05-11 | 2025-01-30 |
 | [Tell Me](https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:56 | 2024-04-29 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-01-10 |  |

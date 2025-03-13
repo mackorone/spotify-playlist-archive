@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 256735,
+  "num_followers": 256865,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 226266,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Para Dejarte de Querer",
         "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "Con Sierre\u00f1o Mis Canciones Favoritas",
+        "url": "https://open.spotify.com/album/3JfDDBD3ZA2UOik3IcsxJH"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
         }
       ],
-      "duration_ms": 210680,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
+      "duration_ms": 191840,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/4EK2Jj9U45MPsUekGKv1zV"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Con Sierre\u00f1o Mis Canciones Favoritas",
-        "url": "https://open.spotify.com/album/3JfDDBD3ZA2UOik3IcsxJH"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 191840,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/4EK2Jj9U45MPsUekGKv1zV"
+      "duration_ms": 210680,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Sigo en la Jugada",
         "url": "https://open.spotify.com/album/2AaM8dsA0A02vExF4vGTib"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 224893,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/4xcwc7RC9YzjBJt3F6Podo"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Presiento Que Voy A LLorar",
+      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 235106,
       "name": "\u00bf A D\u00f3nde Vamos A Parar ?",
       "url": "https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Presiento Que Voy A LLorar",
-      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "A Traves De Tus Ojos",
         "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 286013,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
     },
     {
       "added_at": "2025-01-23 17:30:18",

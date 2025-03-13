@@ -89,8 +89,8 @@
 | [Twisted Tongues](https://open.spotify.com/track/5x1Shc6k7r3hBYyjNaaddy) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 4:01 | 2022-10-25 | 2023-01-26 |
 | [Two Of A Kind](https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:29 | 2023-01-19 | 2024-07-06 |
 | [Veronica Sawyer Smokes](https://open.spotify.com/track/6SN4qm8A1aQNvZm52dLAvu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:44 | 2024-04-22 | 2024-05-01 |
-| [Wake\-Up Call](https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:42 | 2023-04-21 |  |
+| [Wake\-Up Call](https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:42 | 2023-04-21 | 2025-03-13 |
 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 | 2022-10-25 |  |
-| [Your Name Here](https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:27 | 2025-03-05 | 2025-03-09 |
+| [Your Name Here](https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 2:27 | 2025-03-05 |  |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

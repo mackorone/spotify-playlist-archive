@@ -1,6 +1,6 @@
 {
   "description": "when life gives you lemons \u00af\\_(\u30c4)_/\u00af",
-  "num_followers": 115690,
+  "num_followers": 115673,
   "original_name": "Lemonade",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Prelude to Ecstasy",
-        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "The Feminine Urge",
-      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "a little more time",
         "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
       },
@@ -687,22 +671,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "October Moon",
-        "url": "https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 246624,
-      "name": "October Moon",
-      "url": "https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "Burning Down the House",
         "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
       },
@@ -719,18 +687,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+        "name": "October Moon",
+        "url": "https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
         }
       ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+      "duration_ms": 246624,
+      "name": "October Moon",
+      "url": "https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 123949,
       "name": "don't miss me",
       "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
+        "name": "can't slow down",
+        "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "can't slow down",
+      "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "Valleyheart",
-        "url": "https://open.spotify.com/album/1RYBqAoMBjelC8bI6UJX2O"
-      },
-      "artists": [
-        {
-          "name": "Lostboycrow",
-          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Strawberry Sunscreen",
-      "url": "https://open.spotify.com/track/6Xve7pWqzW6CQV8mlXzpBe"
     }
   ],
   "unique_name": "Lemonade",

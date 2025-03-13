@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 202709,
       "name": "24 SONGS",
       "url": "https://open.spotify.com/track/6QK8cvVsFnrS3i165Mpozd"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 121600,
       "name": "Ballert auf Lautlos",
       "url": "https://open.spotify.com/track/4QveIIDRvuV7aKGOqDAbuP"
@@ -11815,6 +11815,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu (Schtuka)",
+        "url": "https://open.spotify.com/album/6qvvaxC9FJkD310DK1mAgJ"
+      },
+      "artists": [
+        {
+          "name": "FERDY",
+          "url": "https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw"
+        },
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Deja Vu - Schtuka",
+      "url": "https://open.spotify.com/track/0aoOmxWETiAnX6oyotEPik"
+    },
+    {
+      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -11982,7 +12004,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -23708,7 +23730,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 176516,
       "name": "Ice Baby Melt",
       "url": "https://open.spotify.com/track/2uXWBou22TwQ2O40B5dTm5"
@@ -26910,7 +26932,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 198857,
       "name": "Kruhy",
       "url": "https://open.spotify.com/track/3qwU7usVGO8fcQWj9CwKpn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,669 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,679 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 13 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 |
 | 14 | [Savoir aimer](https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Savoir Aimer](https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p) | 4:41 |
 | 15 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
-| 16 | [Ne me quitte pas](https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [La Valse A Mille Temps \(Vol.4\)](https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV) | 3:49 |
-| 17 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
+| 16 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
+| 17 | [Ne me quitte pas](https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [La Valse A Mille Temps \(Vol.4\)](https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV) | 3:49 |
 | 18 | [J'attends](https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 4:40 |
 | 19 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
 | 20 | [S'il suffisait d'aimer](https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 3:34 |
 | 21 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 |
 | 22 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
-| 23 | [Aimer à mort](https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Joie de vivre](https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2) | 2:56 |
-| 24 | [La maladie d'amour](https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf) | 3:30 |
+| 23 | [La maladie d'amour](https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf) | 3:30 |
+| 24 | [Aimer à mort](https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Joie de vivre](https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2) | 2:56 |
 | 25 | [Morgane de toi](https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 6:12 |
 | 26 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
 | 27 | [L'encre de tes yeux \- Remastered](https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Fragile \(Remastered\)](https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX) | 3:06 |

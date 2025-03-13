@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,659 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,771 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Now I'm Up to My Neck with Offers](https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:47 |
 | 50 | [Champagne Face](https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:20 |
 
-Snapshot ID: `Z8zaAAAAAABPcFGYzyJQu/nEo+yTR9z4`
+Snapshot ID: `Z899AAAAAACQyg1YzTIpcG/gtTQAmAeL`

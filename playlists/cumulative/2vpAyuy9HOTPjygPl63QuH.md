@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,122 songs - 5 day 0 hr 5 min
+2,123 songs - 5 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Bass Into the Future](https://open.spotify.com/track/77OusbYYDTgplE8hdihWXN) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Bass Into the Future](https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H) | 2:41 | 2023-08-04 | 2023-08-12 |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-01-21 | 2023-01-29 |
 | [Bassline Pumping](https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Bassline Pumping EP](https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE) | 3:30 | 2023-11-10 | 2023-11-18 |
+| [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-03-12 |  |
 | [BBY](https://open.spotify.com/track/1uexlgfIM9HiDrIbav1R7T) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [BBY](https://open.spotify.com/album/6YwFFGavPEMIkBLSszOlDJ) | 2:29 | 2024-07-07 | 2024-08-03 |
 | [Be Free](https://open.spotify.com/track/086g3FROHfu3zdQpk08iVY) | [Lara Klart](https://open.spotify.com/artist/1Rhon5PriofaAjjCEGNrQ2), [Rowetta](https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z) | [Be Free](https://open.spotify.com/album/6TzWK5z15RiGXk9w6fBxWl) | 6:42 | 2023-08-25 | 2023-09-02 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-03-31 | 2023-04-09 |

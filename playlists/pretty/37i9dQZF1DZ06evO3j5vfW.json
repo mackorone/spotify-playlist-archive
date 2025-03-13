@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71999,
+  "num_followers": 71995,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADL0Iupgbku2O0C72mn65Zz",
+  "snapshot_id": "Z899AAAAAABV8X71R8kwX74P7nBsEQeY",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toulouse (Bobby Anthony Vocal Mix)",
+        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Toulouse - Bobby Anthony Vocal Mix",
+      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toulouse (Bobby Anthony Vocal Mix)",
-        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Toulouse - Bobby Anthony Vocal Mix",
-      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
     },
     {
       "added_at": null,
@@ -335,6 +335,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KYGO (The Remixes)",
         "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 231477,
       "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
-        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
       },
       "artists": [
         {
@@ -532,13 +532,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
-      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
+        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
       },
       "artists": [
         {
@@ -576,33 +576,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         }
       ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        }
-      ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
+      "duration_ms": 190746,
+      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
+      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
     },
     {
       "added_at": null,
@@ -631,6 +611,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights With You",
-        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Nights With You",
-      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 182192,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Chelcee Grimes",
-          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
-        }
-      ],
-      "duration_ms": 174665,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "duration_ms": 174665,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
     },
     {
       "added_at": null,
@@ -1115,26 +1115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
+        "name": "Where Would We Be",
+        "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
       },
       "artists": [
         {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Jared Lee",
-          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
         }
       ],
-      "duration_ms": 221428,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
+      "duration_ms": 208023,
+      "name": "Where Would We Be",
+      "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
     }
   ],
   "unique_name": "This Is Nicky Romero",

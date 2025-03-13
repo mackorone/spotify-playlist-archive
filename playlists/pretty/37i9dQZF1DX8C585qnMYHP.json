@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 185614,
+  "num_followers": 185649,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "THIEVES",
-      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "Selva",
@@ -655,6 +639,22 @@
       "duration_ms": 192283,
       "name": "Snapdragon",
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "THIEVES",
+      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
-      "added_at": "2024-10-25 06:00:00",
+      "added_at": "2024-09-11 15:31:53",
       "album": {
         "name": "Under the Sun",
         "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -805,38 +805,6 @@
       "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
-    },
-    {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "nothing or something to die for",
@@ -853,6 +821,38 @@
       "url": "https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11"
     },
     {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Nomad",
@@ -867,22 +867,6 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
-      },
-      "artists": [
-        {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Distance Learner",
-      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -919,6 +903,22 @@
       "duration_ms": 275194,
       "name": "Billowing",
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Hailu Remixes",
         "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 334000,
       "name": "Riot on the Hush - K-LONE Remix",
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/4W3Gdxl6tqbxVKAsc7FGrC"
     },
     {
-      "added_at": "2024-06-19 16:42:50",
-      "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Epic Wonder",
@@ -1399,6 +1383,22 @@
       "duration_ms": 176170,
       "name": "Me she said",
       "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
+    },
+    {
+      "added_at": "2024-06-19 16:42:50",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
-    },
-    {
       "added_at": "2024-06-19 16:42:50",
       "album": {
         "name": "Hailu",
@@ -1559,6 +1543,22 @@
       "duration_ms": 155000,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-01-15 18:16:36",
       "album": {
-        "name": "IN:titolo",
-        "url": "https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y"
-      },
-      "artists": [
-        {
-          "name": "Giulia Impache",
-          "url": "https://open.spotify.com/artist/37QS09rahGmzedxYYv93tb"
-        }
-      ],
-      "duration_ms": 319389,
-      "name": "Sailor (for fin)",
-      "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
         "name": "AMB005",
         "url": "https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 358314,
       "name": "AMB005",
       "url": "https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM"
+    },
+    {
+      "added_at": "2025-01-15 18:16:36",
+      "album": {
+        "name": "IN:titolo",
+        "url": "https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y"
+      },
+      "artists": [
+        {
+          "name": "Giulia Impache",
+          "url": "https://open.spotify.com/artist/37QS09rahGmzedxYYv93tb"
+        }
+      ],
+      "duration_ms": 319389,
+      "name": "Sailor (for fin)",
+      "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
     },
     {
       "added_at": "2024-12-04 12:15:00",

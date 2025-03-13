@@ -1021,6 +1021,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209581,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/0cbVD7WpHVdHUKwoolzhCZ"
+    },
+    {
+      "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
@@ -2054,7 +2080,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 158980,
       "name": "PROMOTION",
       "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"

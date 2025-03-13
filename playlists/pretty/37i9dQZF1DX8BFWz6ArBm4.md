@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Despina Vandi \#ΠαγκόσμιαΗμέραΓυναίκας
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,361 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,423 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 27 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
 | 28 | [Parallili Agapi](https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Parallili Agapi](https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt) | 4:02 |
 | 29 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 |
-| 30 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 |
+| 30 | [7/7](https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [7/7](https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv) | 2:51 |
 | 31 | [Alitheia](https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Alitheia](https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2) | 2:52 |
 | 32 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
 | 33 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
 | 34 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 |
 | 35 | [To Pairno Pano Mou](https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [To Pairno Pano Mou](https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD) | 3:10 |
-| 36 | [7/7](https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [7/7](https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv) | 2:51 |
+| 36 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 |
 | 37 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 3:00 |
 | 38 | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS) | 3:28 |
 | 39 | [Savvato Vrady](https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Savvato Vrady](https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk) | 3:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 46 | [Ferte Tin Piso](https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Ferte Tin Piso](https://open.spotify.com/album/12AJK5voCX09GdZGXHt3Bp) | 3:47 |
 | 47 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 |
 | 48 | [Ta Hirotera](https://open.spotify.com/track/4gqZRda0IW5gTn5Be8DlNO) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Itan Na Vrethoume](https://open.spotify.com/album/4McNW9nL6Y58uXk8Xcu8Jd) | 3:44 |
-| 49 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 |
-| 50 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
+| 49 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
+| 50 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 |
 
 Snapshot ID: `Z8tsZwAAAADYBKmlM1zFRzrf0R+Ep6Sq`

@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 472246,
+  "num_followers": 472309,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADfYXul/lxSGfPCLE2t1gv/",
+  "snapshot_id": "Z899AAAAAABrYuKyu5UU2m4P1aapMRaz",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmasked",
-        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Shandi",
-      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 240493,
       "name": "Domino",
       "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmasked",
+        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Shandi",
+      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "C'mon And Love Me",
-      "url": "https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 213000,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "C'mon And Love Me",
+      "url": "https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP"
     },
     {
       "added_at": null,
@@ -687,6 +687,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "100,000 Years",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 149720,
+      "name": "See You Tonight - Live",
+      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 274573,
+      "name": "All Hell's Breakin' Loose",
+      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -712,41 +760,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 202266,
-      "name": "100,000 Years",
-      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lick It Up",
-        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 274573,
-      "name": "All Hell's Breakin' Loose",
-      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 149720,
-      "name": "See You Tonight - Live",
-      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+      "duration_ms": 314026,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 222200,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
     },
     {
       "added_at": null,

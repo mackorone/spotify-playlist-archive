@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 215624,
+  "num_followers": 215681,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAB6oqJdHZakO2r3hg5QjWWg",
+  "snapshot_id": "Z899AAAAAAAWMQh5IkYPZD+wzs0aO6CF",
   "tracks": [
     {
       "added_at": null,
@@ -99,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Genius",
-        "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 203161,
-      "name": "Wake Up in the Sky",
-      "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -143,6 +119,30 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evil Genius",
+        "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 203161,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Institution",
-      "url": "https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back For Everything",
         "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 239146,
       "name": "Love & War",
       "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 176091,
+      "name": "Institution",
+      "url": "https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 196672,
       "name": "Don't Wanna Breathe",
       "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
     },
     {
       "added_at": null,
@@ -423,22 +423,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMA (Finesse Elevate Motivate Achieve)",
-        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         }
       ],
-      "duration_ms": 203840,
-      "name": "Heart Mind",
-      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
+      "duration_ms": 196113,
+      "name": "There He Go",
+      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 150979,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
     },
     {
       "added_at": null,
@@ -459,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+        "name": "FEMA (Finesse Elevate Motivate Achieve)",
+        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         }
       ],
-      "duration_ms": 150979,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
+      "duration_ms": 203840,
+      "name": "Heart Mind",
+      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
     },
     {
       "added_at": null,
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 196113,
-      "name": "There He Go",
-      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
+      "duration_ms": 182833,
+      "name": "Corrlinks and JPay",
+      "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "Corrlinks and JPay",
-      "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Institution",
         "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 183562,
       "name": "Shake Back",
       "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senseless",
-        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 143857,
-      "name": "Senseless",
-      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 143857,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift For The Streets",
         "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 124235,
       "name": "Nightmare Before Christmas",
       "url": "https://open.spotify.com/track/64w8zS71nvU3JDQVIas4ND"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hit Bout It",
         "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I Was Dead",
-        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165765,
-      "name": "Lemme See",
-      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 213028,
       "name": "Gave It All I Got",
       "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165765,
+      "name": "Lemme See",
+      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
       "added_at": null,

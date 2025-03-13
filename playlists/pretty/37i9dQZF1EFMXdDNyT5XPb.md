@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 18 | [Lying That You Love Me](https://open.spotify.com/track/5uzVktek96iav42umOw4eL) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Lying That You Love Me](https://open.spotify.com/album/6Cr3ivBN5B2K8RGuICgywg) | 3:45 |
 | 19 | [I Got You](https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [I Got You](https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX) | 3:30 |
 | 20 | [I'll Be Back \(feat\. ROOKIES\)](https://open.spotify.com/track/13IpuP7UrDLJo7LaJIf68Z) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:37 |
-| 21 | [Say Something](https://open.spotify.com/track/24rLBEqQCaNCRMwDWRaebk) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:53 |
-| 22 | [Flaws](https://open.spotify.com/track/5Ohsg2xaxenqn0OfIIWeiS) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:28 |
+| 21 | [Flaws](https://open.spotify.com/track/5Ohsg2xaxenqn0OfIIWeiS) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:28 |
+| 22 | [Say Something](https://open.spotify.com/track/24rLBEqQCaNCRMwDWRaebk) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:53 |
 | 23 | [No Patience \(feat\. Polo G & NoCap\)](https://open.spotify.com/track/6spzNS1pF4rrq0JoVMC7ox) | [CashMoneyAP](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [No Patience \(feat\. Polo G & NoCap\)](https://open.spotify.com/album/3HWxjClfIXepZSThnKThq2) | 2:48 |
 | 24 | [Saving Grace](https://open.spotify.com/track/6LfJhNwhSPvIEwvg4ASmnp) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:50 |
 | 25 | [Don't Even Know Your Name](https://open.spotify.com/track/5M4rm5ga9KAaYFPxCTKllY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/2F3t7A71izLYlhfSuw6LZE) | 2:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 92 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 93 | [Banks of Shiloh](https://open.spotify.com/track/3Z4kWj16OdUEI8Wie9myuv) | [Johnny McGuire](https://open.spotify.com/artist/08rVq88zf9uE6G66X5ve5o) | [Banks of Shiloh](https://open.spotify.com/album/1V47SxIAPQWkoQ8r19FYBd) | 4:39 |
 
-Snapshot ID: `AbrzCgAAAADaWmMbIWs2eCLDDFneiawY`
+Snapshot ID: `Abr4qgAAAAB8ydTWmzqMmCTp8xyzr2S0`

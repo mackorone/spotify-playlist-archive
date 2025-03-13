@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,418 likes - 70 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,584 likes - 70 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 5 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
 | 6 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
 | 7 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |
-| 8 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
+| 8 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 |
 | 9 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 |
 | 10 | [Riqueza](https://open.spotify.com/track/26W4Ttw0wyFjTuOI7cch40) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Comunhão](https://open.spotify.com/album/4CaW1rRRjmmHprILOonYej) | 4:21 |
-| 11 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 |
+| 11 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
 | 12 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 |
 | 13 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
 | 14 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 50 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
 | 51 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 |
 | 52 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
-| 53 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
+| 53 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
 | 54 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
-| 55 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
+| 55 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
 | 56 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
 | 57 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
 | 58 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |

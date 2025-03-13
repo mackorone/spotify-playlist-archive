@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,595 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,597 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 14 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 15 | [lágrimas de un gangster](https://open.spotify.com/track/0PHcfYoUnQZIeSuppfeBmI) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [lágrimas de un gangster](https://open.spotify.com/album/0W1YP07FiQg36pSo407XV2) | 2:46 |
 | 16 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
-| 17 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
-| 18 | [Última](https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:58 |
-| 19 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
+| 17 | [Última](https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:58 |
+| 18 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
+| 19 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 20 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 |
 | 21 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 |
 | 22 | [NADIE MÁS!](https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SÍSIFO / NADIE MÁS!](https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD) | 4:09 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 31 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 32 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 |
 | 33 | [Conversacion con mi ex](https://open.spotify.com/track/78vPSJOTl86KUM3cAVjty3) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Conversación con mi ex](https://open.spotify.com/album/29gAeBgjScLcbj805uuTsL) | 2:16 |
-| 34 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY) | 3:42 |
+| 34 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
 | 35 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
-| 36 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
+| 36 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY) | 3:42 |
 | 37 | [Demasiado Lejos](https://open.spotify.com/track/1ydCxlXVCoMOzl3a1ePBjg) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:59 |
 | 38 | [Ferrari](https://open.spotify.com/track/4kT2Jw1LlqYEWev9JpIExG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:14 |
 | 39 | [tus manias](https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tus manias](https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T) | 3:19 |

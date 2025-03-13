@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,940 likes - 75 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,005 likes - 75 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

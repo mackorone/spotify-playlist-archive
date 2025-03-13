@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,418 likes - 160 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 160 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 62 | [Over](https://open.spotify.com/track/3cXeu25WMjDXjMOQmRkLVY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:16 |
 | 63 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 |
 | 64 | [Call Me!!!](https://open.spotify.com/track/4JFQ6XcKPvXIU34JPLbbOQ) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
-| 65 | [Focused](https://open.spotify.com/track/2oEZ1PJ5qpLuQMR7CmtizD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:02 |
-| 66 | [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 |
+| 65 | [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 |
+| 66 | [Focused](https://open.spotify.com/track/2oEZ1PJ5qpLuQMR7CmtizD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:02 |
 | 67 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
 | 68 | [Holy Feeling](https://open.spotify.com/track/4Hxj1xfkSPF02IwgLZhu0B) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Trophies](https://open.spotify.com/album/2AUBG0Hw2pJyULNK5xyDwC) | 4:06 |
 | 69 | [Jump On It](https://open.spotify.com/track/66iI77cgWBEdGichkndWJe) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 159 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 160 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbrzKAAAAAALxnVZuwEzasEDLNeEcitF`
+Snapshot ID: `Abr4yAAAAACCdOroQ981n2F4w8s5Tu0b`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Rihanna, Ariana Grande, Sabrina Carpenter and more",
+  "description": "With Rihanna, Sabrina Carpenter, Dua Lipa and more",
   "name": "Lady Gaga Radio",
   "tracks": [
     {
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 274213,
       "name": "Alejandro",
       "url": "https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL"
@@ -4604,7 +4604,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 260252,
       "name": "Born This Way",
       "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
@@ -7242,7 +7242,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
@@ -11208,7 +11208,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -13326,7 +13326,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
@@ -13366,6 +13366,28 @@
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "Handlebars (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
     },
     {
       "album": {
@@ -13684,7 +13706,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 210840,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
@@ -14890,6 +14912,24 @@
       "duration_ms": 208298,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/0VsJsr8dCM8SRBpo3hTPbI"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
     },
     {
       "album": {
@@ -18000,7 +18040,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
@@ -18218,7 +18258,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -21266,7 +21306,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 258893,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
@@ -24268,7 +24308,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -28218,7 +28258,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -28392,6 +28432,24 @@
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199723,
+      "name": "Shadow Of A Man",
+      "url": "https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu"
     },
     {
       "album": {
@@ -29516,7 +29574,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
@@ -33960,7 +34018,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
@@ -34112,7 +34170,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 171335,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
@@ -35608,7 +35666,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
@@ -35814,7 +35872,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1"
@@ -37478,7 +37536,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 221360,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"

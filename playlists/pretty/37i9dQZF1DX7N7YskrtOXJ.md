@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,033 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,053 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 75 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
 | 76 | [Cosecha de Mujeres](https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 2:36 |
 | 77 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 78 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
+| 78 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
 | 79 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
-| 80 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
+| 80 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
 | 81 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
-| 82 | [Haciendo el Amor](https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Quiéreme](https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU) | 3:44 |
+| 82 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
 | 83 | [Si Tu No Estas](https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Si Tu No Estas](https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J) | 3:40 |
-| 84 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
+| 84 | [Haciendo el Amor](https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Quiéreme](https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU) | 3:44 |
 | 85 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
 | 86 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
 | 87 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 |

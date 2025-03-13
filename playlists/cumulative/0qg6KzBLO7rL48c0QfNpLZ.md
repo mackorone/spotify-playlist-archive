@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-944 songs - 1 day 17 hr 54 min
+945 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alive](https://open.spotify.com/track/1jDLjeBGASzg5v9bOfJhA2) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Alive](https://open.spotify.com/album/3xovyf9YQeNiHusP6Z20Wv) | 2:00 | 2024-01-16 | 2024-03-09 |
 | [All A Dream](https://open.spotify.com/track/6ua5WObOzDqtcNcZsouD1D) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [All A Dream](https://open.spotify.com/album/2hiUFaze8qIeuBgV9hMUcc) | 2:14 | 2024-05-17 | 2024-06-15 |
 | [All Alone](https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l) | [Miravo](https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [All Alone](https://open.spotify.com/album/7jSorPOKtgRzqenk5JBdSd) | 3:04 | 2025-02-28 |  |
+| [All I Ever Need](https://open.spotify.com/track/3Vu06YSbGw7Yu0eehrMwmk) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [All I Ever Need](https://open.spotify.com/album/4sAxBBc2qVLrN8ALw51QEU) | 2:38 | 2025-03-12 |  |
 | [All My Love](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa) | [Stridon](https://open.spotify.com/artist/3Bi3uh8Ns8QxssTtqVKu5u), [Rik Weber](https://open.spotify.com/artist/3VU9fMNvKYsdjvccNqBuho) | [All My Love](https://open.spotify.com/album/2kjumiS4VltG0VtIednDQd) | 2:39 | 2024-08-30 | 2024-11-18 |
 | [All That I Want](https://open.spotify.com/track/3eLf9pZmPNw7q86FwzipRd) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Ernar](https://open.spotify.com/artist/32KPoYZtDacGAVUE6MmhOK), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [All That I Want](https://open.spotify.com/album/4C4ydVT0ajhSBzRbIuB9n7) | 2:17 | 2024-02-02 | 2024-03-02 |
 | [All The Way Down](https://open.spotify.com/track/1JLUnZ3nhiaJ9XiZ62a8wG) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Plaha](https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [All The Way Down](https://open.spotify.com/album/5yiANlsz99kE9TWCTxPlzP) | 2:21 | 2024-12-20 |  |

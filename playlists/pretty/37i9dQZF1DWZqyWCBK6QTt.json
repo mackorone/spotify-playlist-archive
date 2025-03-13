@@ -1,6 +1,6 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Damiano David",
-  "num_followers": 479082,
+  "num_followers": 479129,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-02 15:28:47",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -876,22 +876,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 256893,
-      "name": "Pony - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
@@ -903,6 +887,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 256893,
+      "name": "Pony - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1036,38 +1036,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
       },
       "artists": [
@@ -1079,6 +1047,22 @@
       "duration_ms": 262826,
       "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-11-22 05:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
-      "added_at": "2024-03-13 13:13:28",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -1187,6 +1171,22 @@
       "duration_ms": 167381,
       "name": "Golden Slumbers - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y"
+    },
+    {
+      "added_at": "2024-03-13 13:13:28",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-02-12 20:44:42",
@@ -1508,22 +1508,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
       },
       "artists": [
@@ -1535,6 +1519,22 @@
       "duration_ms": 186600,
       "name": "Teenage Dirtbag \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-02 15:28:47",
       "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
     },
     {
-      "added_at": "2023-10-18 18:44:37",
-      "album": {
-        "name": "Monster (Spotify Singles)",
-        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 237989,
-      "name": "Monster - Spotify Singles",
-      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -1817,6 +1801,22 @@
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
+      "added_at": "2023-10-18 18:44:37",
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
+    },
+    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -1852,22 +1852,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 239487,
-      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -1879,6 +1863,22 @@
       "duration_ms": 181000,
       "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 239487,
+      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-10-02 15:28:47",
       "album": {
+        "name": "Smalltown Boy (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 317729,
+      "name": "Smalltown Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6gj7iXOB1pGIaTASfjZYMT"
       },
@@ -1963,18 +1979,18 @@
     {
       "added_at": "2023-10-02 15:28:47",
       "album": {
-        "name": "Smalltown Boy (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
         }
       ],
-      "duration_ms": 317729,
-      "name": "Smalltown Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+      "duration_ms": 278611,
+      "name": "Hannah Hunt",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -2007,22 +2023,6 @@
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2024-05-16 21:14:09",
@@ -2236,22 +2236,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "I Don't Wanna Know - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT"
       },
       "artists": [
@@ -2263,6 +2247,22 @@
       "duration_ms": 247767,
       "name": "Shape of You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "I Don't Wanna Know - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -2348,22 +2348,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 165328,
-      "name": "Lucid Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
       },
       "artists": [
@@ -2375,6 +2359,22 @@
       "duration_ms": 145747,
       "name": "- - Recorded at Electric Lady Studios, New York",
       "url": "https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 165328,
+      "name": "Lucid Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6"
     },
     {
       "added_at": "2023-10-02 15:28:47",

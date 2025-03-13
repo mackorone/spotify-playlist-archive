@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Cure",
-  "num_followers": 538901,
+  "num_followers": 539088,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 212786,
       "name": "That's Entertainment",
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     }
   ],
   "unique_name": "Legends Only",

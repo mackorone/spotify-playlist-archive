@@ -404,6 +404,28 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185320,
+      "name": "I Am an Ape",
+      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
+    },
+    {
+      "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -710,7 +732,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 278272,
       "name": "Se Fue La Luz",
       "url": "https://open.spotify.com/track/7rsj406NOY5g1gQ0oTU4mY"

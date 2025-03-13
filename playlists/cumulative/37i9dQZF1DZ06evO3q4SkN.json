@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Agent Down",
+      "url": "https://open.spotify.com/track/2yXVQ7k2Z4kiNf2G5IQxL7"
+    },
+    {
+      "album": {
         "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 103400,
       "name": "Black Momma Whoopin'",
       "url": "https://open.spotify.com/track/78FxyWd9zhHkbYSVIKrYgy"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 188800,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 68280,
       "name": "I\u2019m Alive",
       "url": "https://open.spotify.com/track/0R4lBruSHW3lh2e5eCEiTE"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 160786,
       "name": "Mother Daughter Theme - Solo Piano Version",
       "url": "https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny"
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 103213,
       "name": "She Knows This Monkey",
       "url": "https://open.spotify.com/track/5cv2M8HwQrpVv5oIFsGrXj"
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 382120,
       "name": "Spring Peach Tree Blossoms",
       "url": "https://open.spotify.com/track/5p5f3NLKUOBm7xSYu5WjfV"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 98613,
       "name": "Ted Saves The Day",
       "url": "https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 140160,
       "name": "Ted's Stuck In A Tree",
       "url": "https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun"
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 93546,
       "name": "Ted's TV Realization",
       "url": "https://open.spotify.com/track/3Z3OztSmMX5Jda6VcevoQQ"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 122626,
       "name": "The Legend Of The Tiger",
       "url": "https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI"
@@ -2784,7 +2802,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 84240,
       "name": "Wolf Watcher",
       "url": "https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus"

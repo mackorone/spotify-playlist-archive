@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 422652,
+  "num_followers": 422666,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Dog Day",
-        "url": "https://open.spotify.com/album/6XaCeKX8eXfyQQWseBzknI"
-      },
-      "artists": [
-        {
-          "name": "Martin Hoper",
-          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
-        }
-      ],
-      "duration_ms": 219814,
-      "name": "Dog Day",
-      "url": "https://open.spotify.com/track/1XMZnGBdPepIKvMFai5v2f"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Barcode",
         "url": "https://open.spotify.com/album/36Xt075p8VSDs0wTkfcciE"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 264150,
       "name": "It's a Blue World",
       "url": "https://open.spotify.com/track/24FZPmTSx4fba5N24y9rNp"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Dog Day",
+        "url": "https://open.spotify.com/album/6XaCeKX8eXfyQQWseBzknI"
+      },
+      "artists": [
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        }
+      ],
+      "duration_ms": 219814,
+      "name": "Dog Day",
+      "url": "https://open.spotify.com/track/1XMZnGBdPepIKvMFai5v2f"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Phil's Mood",
+        "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        },
+        {
+          "name": "Space Jazz Trio",
+          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
+        }
+      ],
+      "duration_ms": 391240,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Trio Tapestry",
         "url": "https://open.spotify.com/album/5frkvwu4yxiU1d024x89KW"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 313693,
       "name": "Seeds Of Change",
       "url": "https://open.spotify.com/track/0ezRjBMuxG1PcW0FEVgaWS"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Phil's Mood",
-        "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        },
-        {
-          "name": "Space Jazz Trio",
-          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
-        }
-      ],
-      "duration_ms": 391240,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "There's Always A Way",
-        "url": "https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 174192,
-      "name": "There's Always A Way",
-      "url": "https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "I've Got The World On A String",
-        "url": "https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI"
+        "name": "There's Always A Way",
+        "url": "https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU"
       },
       "artists": [
         {
-          "name": "Al Fowler Trio",
-          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
         }
       ],
-      "duration_ms": 257566,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT"
+      "duration_ms": 174192,
+      "name": "There's Always A Way",
+      "url": "https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -927,6 +911,22 @@
       "duration_ms": 526710,
       "name": "Clifford Notes",
       "url": "https://open.spotify.com/track/58ZOSLqiasr2M0HIodxecW"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "I've Got The World On A String",
+        "url": "https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "duration_ms": 257566,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Introducing Brad Mehldau",
+        "url": "https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 422066,
+      "name": "London Blues",
+      "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 343542,
       "name": "Old News",
       "url": "https://open.spotify.com/track/1CEQHQFKA803N1UhLXzOPM"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Introducing Brad Mehldau",
-        "url": "https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 422066,
-      "name": "London Blues",
-      "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Stracci",
-        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
-      },
-      "artists": [
-        {
-          "name": "Michael Ragonese",
-          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Out Here",
         "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 506655,
       "name": "I Guess I'll Have to Forget",
       "url": "https://open.spotify.com/track/2EhDOBGOiJGJkiBcdxz7ga"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Stracci",
+        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
+      },
+      "artists": [
+        {
+          "name": "Michael Ragonese",
+          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
         }
       ],
-      "duration_ms": 321600,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/7yanq8mZzoDYMn7bWGtKIu"
+      "duration_ms": 405973,
+      "name": "Bon ami",
+      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1327,6 +1327,22 @@
       "duration_ms": 279253,
       "name": "At That Moment",
       "url": "https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Out Here",
+        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+        }
+      ],
+      "duration_ms": 461278,
+      "name": "East of the Sun (And West of the Moon)",
+      "url": "https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1355,34 +1371,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Out Here",
-        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
       "artists": [
         {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
         }
       ],
-      "duration_ms": 461278,
-      "name": "East of the Sun (And West of the Moon)",
-      "url": "https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Remembering",
-        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
-      },
-      "artists": [
-        {
-          "name": "Hyuntae Kim",
-          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
-        }
-      ],
-      "duration_ms": 360986,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
       },
       "artists": [
         {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+          "name": "Hyuntae Kim",
+          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
         }
       ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
+      "duration_ms": 360986,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
         }
       ],
-      "duration_ms": 405973,
-      "name": "Bon ami",
-      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
+      "duration_ms": 321600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/7yanq8mZzoDYMn7bWGtKIu"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1519,6 +1519,30 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "At The Deer Head Inn",
+        "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        }
+      ],
+      "duration_ms": 561826,
+      "name": "Chandra",
+      "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Standards Live",
         "url": "https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6"
       },
@@ -1551,26 +1575,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "At The Deer Head Inn",
-        "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        },
-        {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
         }
       ],
-      "duration_ms": 561826,
-      "name": "Chandra",
-      "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+      "duration_ms": 314413,
+      "name": "Very Late",
+      "url": "https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 314413,
-      "name": "Very Late",
-      "url": "https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Ode",
         "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Send In the Clowns",
-        "url": "https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0"
-      },
-      "artists": [
-        {
-          "name": "Peter Nordahl Trio",
-          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
-        }
-      ],
-      "duration_ms": 321306,
-      "name": "Send In the Clowns",
-      "url": "https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Laura",
         "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 288832,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Send In the Clowns",
+        "url": "https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "duration_ms": 321306,
+      "name": "Send In the Clowns",
+      "url": "https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt"
     },
     {
       "added_at": "2024-06-28 09:05:32",

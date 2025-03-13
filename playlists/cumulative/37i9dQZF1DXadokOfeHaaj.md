@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Dam Swindle
 
-281 songs - 17 hr 47 min
+282 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-24 | 2025-03-07 |
 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-29 | 2024-04-19 |
 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu) | 4:33 | 2024-03-29 | 2025-02-14 |
-| [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-22 |  |
+| [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-22 | 2025-03-13 |
 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-05-10 |  |
 | [Hop On By](https://open.spotify.com/track/2U79LYoBkxfWzyNSJ7xms5) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [Hop On By](https://open.spotify.com/album/4xkAdVdypAdO5OOOEsS12v) | 2:54 | 2024-10-03 | 2025-02-14 |
 | [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-03-22 | 2025-02-14 |
@@ -231,6 +231,7 @@
 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 | 2024-10-24 |  |
 | [Space Between Us](https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Space Between Us](https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9) | 3:45 | 2025-01-31 |  |
 | [SPEAKING OUT LOUD](https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [SPEAKING OUT LOUD](https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o) | 2:53 | 2024-02-02 | 2024-07-04 |
+| [Square Pegs In Round Holes](https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Chewing The Fat](https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa) | 3:33 | 2025-03-07 |  |
 | [Start up Nation](https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Embrace](https://open.spotify.com/album/0HdSPq0RQFpkJiEiYAdKGg) | 3:19 | 2021-10-28 | 2024-03-02 |
 | [stay alive](https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [stay alive](https://open.spotify.com/album/3FE6DDUtqAM7HrKueMyXAZ) | 2:10 | 2025-02-28 |  |
 | [Still Here](https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/3VtEYbEgLnLwJPml2lOYLi) | 3:34 | 2021-10-28 | 2024-03-01 |

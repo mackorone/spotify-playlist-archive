@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Rico Nasty",
-  "num_followers": 768511,
+  "num_followers": 768565,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "In The Heat Of The Night",
-        "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 206700,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "In The Heat Of The Night",
+        "url": "https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Will You Love Me When I\u2019m Dead",
-        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 193798,
-      "name": "Will You Love Me When I\u2019m Dead",
-      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 197013,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Will You Love Me When I\u2019m Dead",
+        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 193798,
+      "name": "Will You Love Me When I\u2019m Dead",
+      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "T&A",
-        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "T&A",
-      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 189706,
       "name": "Drain the Blood",
       "url": "https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "No Obligation",
-        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "No Obligation",
+        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "All Comes Crashing",
-      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "Take Your Aim",
         "url": "https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 200520,
       "name": "Take Your Aim",
       "url": "https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "A Million Knives",
         "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
       },
@@ -1035,22 +1015,6 @@
       "duration_ms": 232041,
       "name": "Take It From The Top",
       "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1075,6 +1039,42 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
         "name": "Tiny Screens",
         "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 178015,
       "name": "Tiny Screens",
       "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 160919,
+      "name": "Dig Me Out",
+      "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1107,22 +1123,6 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/06xvZS1bsWS421A1Jz88vU"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
-        "name": "Dig Me Out (Remastered)",
-        "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 160919,
-      "name": "Dig Me Out",
-      "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
     },
     {
       "added_at": "2025-03-07 05:00:43",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-03-07 05:00:43",
       "album": {
-        "name": "Sometimes, Forever",
-        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Feel It All The Time",
-      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
-    },
-    {
-      "added_at": "2025-03-07 05:00:43",
-      "album": {
         "name": "My Apologies To The Chef",
         "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 178770,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/5CiuxX6lcOXgHZMEbGJXT4"
+    },
+    {
+      "added_at": "2025-03-07 05:00:43",
+      "album": {
+        "name": "Sometimes, Forever",
+        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Feel It All The Time",
+      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
     },
     {
       "added_at": "2025-03-07 05:00:43",

@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15064,
+  "num_followers": 15062,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAA4lWmxDkz5ID191HubMM/d",
+  "snapshot_id": "Z899AAAAAACEVkC80APfHradaefD+8KC",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u0412\u0434\u0438\u0445, \u0432\u0438\u0434\u0438\u0445 \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf38",
-  "num_followers": 34808,
+  "num_followers": 34832,
   "original_name": "\u0412\u0435\u0441\u043d\u044f\u043d\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-02-28 22:00:21",
       "album": {
-        "name": "Sweetest Heart",
-        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 196436,
-      "name": "Sweetest Heart",
-      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
-    },
-    {
-      "added_at": "2025-02-28 22:00:21",
-      "album": {
         "name": "One More Try",
         "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 356000,
       "name": "One More Try",
       "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
+    },
+    {
+      "added_at": "2025-02-28 22:00:21",
+      "album": {
+        "name": "Sweetest Heart",
+        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 196436,
+      "name": "Sweetest Heart",
+      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
     },
     {
       "added_at": "2025-02-28 22:00:21",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-02-28 22:00:21",
       "album": {
-        "name": "Kava",
-        "url": "https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D"
-      },
-      "artists": [
-        {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Kava",
-      "url": "https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt"
-    },
-    {
-      "added_at": "2025-02-28 22:00:21",
-      "album": {
         "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
         "url": "https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 150638,
       "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c"
+    },
+    {
+      "added_at": "2025-02-28 22:00:21",
+      "album": {
+        "name": "Kava",
+        "url": "https://open.spotify.com/album/7q4ky8FehrlQeEV3llZN9D"
+      },
+      "artists": [
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Kava",
+      "url": "https://open.spotify.com/track/2PqtiIAHQhZfOH5GTAonYt"
     },
     {
       "added_at": "2025-02-28 22:00:21",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-02-28 22:00:21",
       "album": {
-        "name": "pitpony",
-        "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
-      },
-      "artists": [
-        {
-          "name": "Second House",
-          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "pitpony",
-      "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
-    },
-    {
-      "added_at": "2025-02-28 22:00:21",
-      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1"
+    },
+    {
+      "added_at": "2025-02-28 22:00:21",
+      "album": {
+        "name": "pitpony",
+        "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "pitpony",
+      "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
     },
     {
       "added_at": "2025-02-28 22:00:21",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-28 22:00:21",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 203324,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "added_at": "2025-02-28 22:00:21",
-      "album": {
         "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
         "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 157928,
       "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
+    },
+    {
+      "added_at": "2025-02-28 22:00:21",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     },
     {
       "added_at": "2025-02-28 22:00:21",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-02-28 22:00:21",
       "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
+        "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
+        "url": "https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC"
       },
       "artists": [
         {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
         }
       ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
+      "duration_ms": 159000,
+      "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
+      "url": "https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM"
     },
     {
       "added_at": "2025-02-28 22:00:21",

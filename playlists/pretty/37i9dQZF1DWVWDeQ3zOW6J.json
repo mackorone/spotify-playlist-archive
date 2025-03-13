@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 48161,
+  "num_followers": 48174,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Simplemente... Lalo",
-        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "M\u00e1ximo Chamorro",
-      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Simplemente... Lalo",
+        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "M\u00e1ximo Chamorro",
+      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -751,6 +751,26 @@
       "duration_ms": 194720,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Fruko el Patillero",
+        "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson \"Saoko\" Manyoma",
+          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Patillero",
+      "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -835,26 +855,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Fruko el Patillero",
-        "url": "https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson \"Saoko\" Manyoma",
-          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Patillero",
-      "url": "https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "Antolog\u00eda de la M\u00fasica Cubana",
         "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 206200,
       "name": "La Cazuela",
       "url": "https://open.spotify.com/track/269rQv3OAIS5XcaQ6RLr2i"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Antolog\u00eda de la M\u00fasica Cubana",
-        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Juancito Trucupey",
-      "url": "https://open.spotify.com/track/2Xr2pWBvV4ofRkheeleKIf"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Antolog\u00eda de la M\u00fasica Cubana",
+        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Juancito Trucupey",
+      "url": "https://open.spotify.com/track/2Xr2pWBvV4ofRkheeleKIf"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "El Cantante de los Cantantes",
-        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 622520,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "Lo Mejor de Ray Perez - Salsa",
         "url": "https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 193440,
       "name": "Pa'l 23",
       "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "El Cantante de los Cantantes",
+        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
     },
     {
       "added_at": "2024-09-24 21:05:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/0Y2DVvg0bwD4dBrjNZTxqd?si=EWU53sHxThqJJzdHNOdyUA">Logan Pietersen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,704 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,713 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 15 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
 | 16 | [Girl I Never Met](https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Girl I Never Met](https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu) | 2:57 |
 | 17 | [Dancin' In The Stars](https://open.spotify.com/track/627prN1Fich2Z7u0zttQat) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Dancin' In The Stars](https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd) | 3:19 |
-| 18 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
-| 19 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
+| 18 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
+| 19 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
 | 20 | [COUNTRY IS FOR ME](https://open.spotify.com/track/5ZQThi4zaMjCYWCnJQiCTa) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [COUNTRY IS FOR ME](https://open.spotify.com/album/1zvLuzCsvWou3ERPsjkpiN) | 3:00 |
 | 21 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 22 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |

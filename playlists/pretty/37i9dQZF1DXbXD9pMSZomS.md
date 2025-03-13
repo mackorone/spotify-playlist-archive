@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,981 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,225 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 30 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 | 31 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 32 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
-| 33 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 34 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
-| 35 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
-| 36 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
-| 37 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
+| 33 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
+| 34 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
+| 35 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
+| 36 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
+| 37 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
 | 38 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
 | 39 | [Call](https://open.spotify.com/track/5mm3h0pkFAVSfSg3z7QCZ9) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Call](https://open.spotify.com/album/7sDoYNIuxPIADPJSvDyBny) | 1:18 |
 | 40 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 43 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 44 | [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 |
 | 45 | [Endcliffe Park](https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP) | [Al Zanders](https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz) | [Limb Valley](https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq) | 7:30 |
-| 46 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 47 | [Holy](https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc) | [Becky Ford](https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs) | [Holy](https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7) | 2:18 |
+| 46 | [Holy](https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc) | [Becky Ford](https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs) | [Holy](https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7) | 2:18 |
+| 47 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 48 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
 | 49 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
 | 50 | [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 |

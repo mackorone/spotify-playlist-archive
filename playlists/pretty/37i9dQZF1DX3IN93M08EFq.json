@@ -1,6 +1,6 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 63488,
+  "num_followers": 63490,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
         "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 228893,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Ramlar",
-      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "What If Leaving Is a Loving Thing",
         "url": "https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195840,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Ramlar",
+      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
     },
     {
       "added_at": "2024-06-24 11:47:22",

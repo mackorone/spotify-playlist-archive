@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,078 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,146 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 51 | [Honestly](https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN) | [Harem Scarem](https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va) | [Harem Scarem](https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c) | 4:02 |
 | 52 | [Til Death Do Us Part](https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 5:26 |
 | 53 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
-| 54 | [House of Pain](https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw) | [Faster Pussycat](https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7) | [Wake Me When It's Over](https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys) | 5:44 |
-| 55 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
+| 54 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
+| 55 | [House of Pain](https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw) | [Faster Pussycat](https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7) | [Wake Me When It's Over](https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys) | 5:44 |
 | 56 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 57 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
 | 58 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
@@ -97,12 +97,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 87 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
 | 88 | [Don't Walk Away](https://open.spotify.com/track/0g0WdBxrrOxOrowa9PDF9j) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Danger Danger](https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U) | 4:55 |
 | 89 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
-| 90 | [The Deeper the Love](https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 4:22 |
+| 90 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |
 | 91 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
-| 92 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |
+| 92 | [The Deeper the Love](https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 4:22 |
 | 93 | [Love Is A Killer](https://open.spotify.com/track/2ZMO4x1D3aeXP1ISozKOnU) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Rev It Up!](https://open.spotify.com/album/3ojiLMvJpANQKvzSO7Jhuj) | 4:43 |
-| 94 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
-| 95 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
+| 94 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
+| 95 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
 | 96 | [Paradise](https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 4:58 |
 | 97 | [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 |
 | 98 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |

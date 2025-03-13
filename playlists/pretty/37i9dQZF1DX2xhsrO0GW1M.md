@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,904 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,895 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 12 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
 | 13 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
 | 14 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
-| 15 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
-| 16 | [Sex on Fire](https://open.spotify.com/track/5A1FmxbYVRZKy4nc16MAue) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm) | 3:23 |
+| 15 | [Sex on Fire](https://open.spotify.com/track/5A1FmxbYVRZKy4nc16MAue) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm) | 3:23 |
+| 16 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 17 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 18 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
 | 19 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 47 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 48 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 |
 | 49 | [Cash Machine](https://open.spotify.com/track/5F9Pe2Tg20NRi8N4cHHXUD) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 3:42 |
-| 50 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 51 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
+| 50 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
+| 51 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 52 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 53 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 54 | [Games for Days](https://open.spotify.com/track/0LSdx5GAWI9Swa62gWK05Y) | [Julian Plenti](https://open.spotify.com/artist/4RlEYUI2Q5gKfDn1VwKQpK) | [Julian Plenti Is..\. Skyscraper](https://open.spotify.com/album/1MsdIaYaUSYZLiPeY20md4) | 3:57 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 64 | [Take The Long Road And Walk It](https://open.spotify.com/track/2R3PlaE5R66NhyTEqwryDj) | [The Music](https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2) | [The Music](https://open.spotify.com/album/7AGI3bMM4IkVK8HmCedIaZ) | 4:53 |
 | 65 | [Battered & Bruised](https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Battered & Bruised](https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx) | 2:23 |
 | 66 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 |
-| 67 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 |
-| 68 | [Vigil](https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Vigil](https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6) | 3:14 |
-| 69 | [A\-Punk](https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F) | 2:17 |
-| 70 | [Young and Stupid](https://open.spotify.com/track/6sscHAvwBvcl89tyACWGom) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Young and Stupid](https://open.spotify.com/album/41W9IQTwbwFvyAv2ESlfSy) | 2:54 |
-| 71 | [Ruby](https://open.spotify.com/track/0N5x5UmYcbBeHFJtCCqf62) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/0mKKqokWGSgKoL2bzdyTpd) | 3:24 |
+| 67 | [Vigil](https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Vigil](https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6) | 3:14 |
+| 68 | [Young and Stupid](https://open.spotify.com/track/6sscHAvwBvcl89tyACWGom) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Young and Stupid](https://open.spotify.com/album/41W9IQTwbwFvyAv2ESlfSy) | 2:54 |
+| 69 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 |
+| 70 | [A\-Punk](https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F) | 2:17 |
+| 71 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 |
 | 72 | [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 |
 | 73 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 |
-| 74 | [French Navy](https://open.spotify.com/track/0xVU3b2ZWl8cq8QuZ6oYPl) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/4MlYueB39zmkX1ScPAdczS) | 3:18 |
-| 75 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 |
+| 74 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
+| 75 | [Ruby](https://open.spotify.com/track/0N5x5UmYcbBeHFJtCCqf62) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/0mKKqokWGSgKoL2bzdyTpd) | 3:24 |
 
 Snapshot ID: `ZpFuYgAAAAApJYBrshc5CJ09Z7Iu7D8L`

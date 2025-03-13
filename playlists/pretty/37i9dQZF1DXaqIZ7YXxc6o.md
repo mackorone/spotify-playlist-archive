@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,243 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,328 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 29 | [Raf](https://open.spotify.com/track/1cFuWTgSE8LCgnG7MSVwZI) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Raf](https://open.spotify.com/album/3teB4wQBOyMBvytv40bjjq) | 4:23 |
 | 30 | [We Like To Party](https://open.spotify.com/track/21eo9Yve6iexYAjIKrmpRQ) | [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO) | [We Like To Party EP](https://open.spotify.com/album/3drMeKYFXKxHelqVYEWJfY) | 3:56 |
 | 31 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
-| 32 | [Pul Up Dat](https://open.spotify.com/track/6YPfhsXJ1tfdy9KGGgXL4r) | [Wax Thief](https://open.spotify.com/artist/7kKG2nSqKYsSoheorKdJuP) | [Pull Up Dat](https://open.spotify.com/album/0bOPvXAclLfLAkY8VJOiwC) | 3:37 |
+| 32 | [Pull Up Dat](https://open.spotify.com/track/6YPfhsXJ1tfdy9KGGgXL4r) | [Wax Thief](https://open.spotify.com/artist/7kKG2nSqKYsSoheorKdJuP) | [Pull Up Dat](https://open.spotify.com/album/0bOPvXAclLfLAkY8VJOiwC) | 3:37 |
 | 33 | [Hypnotized \(feat\. Ellie Goulding\) \- John Summit Remix](https://open.spotify.com/track/1VAVEYZlzBp7d8UlWJvaDD) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Hypnotized \(John Summit Remix\)](https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ) | 2:50 |
 | 34 | [Revolver](https://open.spotify.com/track/39KkGrkTwD0MIZAnWr9AkY) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Revolver](https://open.spotify.com/album/3SGiYiOb88avGWt27pXmWX) | 3:13 |
 | 35 | [B UR](https://open.spotify.com/track/41szjbh3PmYO4p2IhREV1I) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [B UR](https://open.spotify.com/album/29XtaH42DB6xGge63z6d8I) | 4:01 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 41 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 |
 | 42 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 |
 | 43 | [Drum Death](https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Drum Death](https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t) | 2:50 |
-| 44 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
+| 44 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 45 | [Butterflies \(with Green Velvet\)](https://open.spotify.com/track/0FzltX5P5EcptwLZh85UO1) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies \(with Green Velvet\)](https://open.spotify.com/album/2fJmzODMorOEHxq23FFtfV) | 2:49 |
 | 46 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 |
 | 47 | [Still The Same](https://open.spotify.com/track/3MIo7ob9Rg1XqVeRiHAQp2) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Still The Same](https://open.spotify.com/album/2aobNbBUhYIm9TB98BH2Yv) | 3:24 |

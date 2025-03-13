@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1349996,
+  "num_followers": 1350095,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 305253,
       "name": "\u00c1ngel Malvado",
       "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -499,6 +499,30 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "No Me Enga\u00f1es Nunca",
+        "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        },
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        },
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "No Me Enga\u00f1es Nunca",
+      "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -515,38 +539,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
-      },
-      "artists": [
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        }
-      ],
-      "duration_ms": 196597,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Exitos Sonideros, Vol. 2",
         "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
       },
@@ -559,6 +551,22 @@
       "duration_ms": 196637,
       "name": "Cumbia Yemaya",
       "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -595,6 +603,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        }
+      ],
+      "duration_ms": 196597,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -611,30 +635,6 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "No Me Enga\u00f1es Nunca",
-        "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
-      },
-      "artists": [
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        },
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        },
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "No Me Enga\u00f1es Nunca",
-      "url": "https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Recuerdos Andinos",
-        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Cumbia Azteca",
-      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "De Reventon",
         "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 254640,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Recuerdos Andinos",
+        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Cumbia Azteca",
+      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Lo Har\u00e9 por Ti",
-        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
         }
       ],
-      "duration_ms": 228646,
-      "name": "Lo Har\u00e9 por Ti",
-      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -875,34 +875,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+        "name": "Lo Har\u00e9 por Ti",
+        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
       },
       "artists": [
         {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+      "duration_ms": 228646,
+      "name": "Lo Har\u00e9 por Ti",
+      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -919,6 +903,22 @@
       "duration_ms": 247453,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "20 Exitos Originales 20",
-        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Que Nota",
-          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "El Amor de la Nena",
-      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Enamoradas",
         "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 250541,
       "name": "Dile, Cuentale",
       "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "20 Exitos Originales 20",
+        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Que Nota",
+          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "El Amor de la Nena",
+      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 277455,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Triste y Vac\u00eda",
         "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Dejame Pensar",
+        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 277455,
+      "name": "Dejame Pensar",
+      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Vaya Que Sabor!!",
         "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 366503,
       "name": "Pa' La Paloma",
       "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Video Cumbias Pa' Bailar 2",
-        "url": "https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie"
+        "name": "El Campeon",
+        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/54RMaVyxUKrZlSCkvMtU4G"
+          "name": "Los Marios",
+          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
         }
       ],
-      "duration_ms": 309386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2"
+      "duration_ms": 205437,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "El Campeon",
-        "url": "https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U"
+        "name": "Video Cumbias Pa' Bailar 2",
+        "url": "https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie"
       },
       "artists": [
         {
-          "name": "Los Marios",
-          "url": "https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/54RMaVyxUKrZlSCkvMtU4G"
         }
       ],
-      "duration_ms": 205437,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
+      "duration_ms": 309386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/5jvfvwBAiW0LBm0I7ou4G2"
     },
     {
       "added_at": "2024-07-04 23:21:37",

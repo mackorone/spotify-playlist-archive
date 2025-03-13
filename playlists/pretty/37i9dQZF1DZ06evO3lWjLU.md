@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,380 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,474 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 20 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 |
 | 21 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
 | 22 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
-| 23 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 |
+| 23 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 24 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
-| 25 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
+| 25 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 |
 | 26 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 |
-| 27 | [Me rehúso \- 2024 acústico](https://open.spotify.com/track/6VXvnqNNJ5ivmiFLlBH4Qz) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:31 |
+| 27 | [No te enamores de él](https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:17 |
 | 28 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 29 | [No te enamores de él](https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:17 |
+| 29 | [Me rehúso \- 2024 acústico](https://open.spotify.com/track/6VXvnqNNJ5ivmiFLlBH4Qz) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:31 |
 | 30 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
-| 31 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
+| 31 | [Medio friends](https://open.spotify.com/track/1WpWQJnnZL8qGNOUoF1wE9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 32 | [Epa Wei](https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Epa Wei](https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x) | 3:28 |
-| 33 | [Medio friends](https://open.spotify.com/track/1WpWQJnnZL8qGNOUoF1wE9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
+| 33 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
 | 34 | [No Eres Tu Soy Yo \(feat\. Danny Ocean\)](https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:07 |
 | 35 | [EIVISSA](https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:20 |
 | 36 | [Tú no me conoces](https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7hfky5cSLmniAq4fyJiQ99) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 49 | [Baby I Won't](https://open.spotify.com/track/1G0xFA3KNiKdbjhT2asL43) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Baby I Won't](https://open.spotify.com/album/25S2NFMHnTQhB0oQmi6ghq) | 3:25 |
 | 50 | [Lazy Day \(feat\. Danny Ocean\)](https://open.spotify.com/track/1dA9GzuP546CjJT0n9tZoe) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Lazy Day \(feat\. Danny Ocean\)](https://open.spotify.com/album/5XbAwDgRBXdoLtM1uuK0BS) | 3:25 |
 
-Snapshot ID: `Z8zaAAAAAAADAuBH0VuhdDTxKRxzT01V`
+Snapshot ID: `Z899AAAAAAC/Vp9xNSdZ9NRw/E4hxIFY`

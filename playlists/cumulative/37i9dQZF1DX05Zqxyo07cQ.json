@@ -8019,6 +8019,24 @@
     },
     {
       "album": {
+        "name": "Panacea",
+        "url": "https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171290,
+      "name": "Panacea",
+      "url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM"
+    },
+    {
+      "album": {
         "name": "Paper Planes",
         "url": "https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ"
       },
@@ -8466,7 +8484,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 173966,
       "name": "Qadar",
       "url": "https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre"

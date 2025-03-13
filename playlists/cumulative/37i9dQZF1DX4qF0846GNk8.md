@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=wpk2V5C7TeOmye8MjNunpg"> اسلام كابونحا </a>
 
-282 songs - 17 hr 21 min
+283 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [احنا صيع منحرفين](https://open.spotify.com/track/1knAwiRcTrsScBYDFPXLlw) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احنا صيع منحرفين](https://open.spotify.com/album/7AcGD0Nl9ROGIEhMCvik7J) | 3:36 | 2024-07-30 | 2025-03-11 |
 | [اخرس عمك جالك](https://open.spotify.com/track/7xY05LQHDQJFxvZrEzStsY) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [اخرس عمك جالك](https://open.spotify.com/album/6FaNLCBZEMml6pu9shmRPc) | 5:44 | 2022-02-01 | 2022-07-29 |
 | [ازاى تتساو بيا](https://open.spotify.com/track/191eHjlFxHTFTbYmmd1vJ4) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ازاى تتساو بيا](https://open.spotify.com/album/6Nh5cETpD4ej0JSmgM9GUy) | 4:36 | 2023-01-03 | 2023-09-15 |
+| [ازاي يا زميلي بتقولي بحبك](https://open.spotify.com/track/5AGfNPy7s5dDij0YzqYKJE) | [Mahmoud Dola](https://open.spotify.com/artist/7kcomZRRTlJocQfVWOQLSu), [Ahmed El Dogary](https://open.spotify.com/artist/54iYnBTUjygADSOqHDCLoG) | [ازاي يا زميلي بتقولي بحبك](https://open.spotify.com/album/7ss8mQy1C2qpKK9hUuUmgC) | 3:01 | 2025-03-12 |  |
 | [اسد](https://open.spotify.com/track/1L7aD7NY2girxihsDxw4Wj) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [اسد](https://open.spotify.com/album/3SSBYhKw3OuJkA53w9JvqA) | 4:00 | 2022-10-25 | 2023-02-01 |
 | [اكشن جاي اتعارك \- عيني جت علي سنيورة \- جلب](https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة \- جلب](https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl) | 5:42 | 2024-03-08 |  |
 | [البابا](https://open.spotify.com/track/7hYdamEgzysb2hiOUDXb66) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [البابا](https://open.spotify.com/album/2vQiKmLoDMDSdwzQkNWmnr) | 2:39 | 2023-01-12 | 2023-08-21 |

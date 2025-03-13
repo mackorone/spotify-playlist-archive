@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,944 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,956 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
 | 2 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 3 | [Punta Cana](https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Punta Cana](https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK) | 2:48 |
-| 4 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
+| 4 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 5 | [Perreo Saiko](https://open.spotify.com/track/0KNCaO7ZPTZz965SQwvYoO) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu), [Dj Alexis Najera](https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa) | [Perreo Saiko](https://open.spotify.com/album/1JqKdS32E49gcOWtCM7vgy) | 2:22 |
-| 6 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
+| 6 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 | 7 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 |
 | 8 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
 | 9 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 26 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
 | 27 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 |
 | 28 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 |
-| 29 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
-| 30 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 |
+| 29 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 |
+| 30 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
 | 31 | [MONEY](https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:14 |
 | 32 | [Un Tabaco \- En Vivo](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 33 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 
 > This is Static\-X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,846 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,855 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 7 | [Terminator Oscillator](https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:13 |
 | 8 | [Dirthouse](https://open.spotify.com/track/22yW9zEVazCKjN2wJgRiX3) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 3:03 |
 | 9 | [Bled for Days](https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:45 |
-| 10 | [Get to the Gone](https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 2:49 |
+| 10 | [Black and White](https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:51 |
 | 11 | [Control It](https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 3:05 |
 | 12 | [I'm the One](https://open.spotify.com/track/5cRtjsCQTb0Z1ITIx6DFWS) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/1qk8Ki1mqj4s42SZlpzUpx) | 2:36 |
 | 13 | [Love Dump](https://open.spotify.com/track/6kJb4WaCuc4wLBIkSJUY3n) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 4:19 |
-| 14 | [Black and White](https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:51 |
+| 14 | [Get to the Gone](https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 2:49 |
 | 15 | [Cannibal](https://open.spotify.com/track/3i7SFm1X8kHXfa9saDtxIW) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 3:13 |
 | 16 | [The Enemy](https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 2:28 |
 | 17 | [Wisconsin Death Trip](https://open.spotify.com/track/5ctRbSANfjfqVeNGPI7oau) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:09 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 30 | [So](https://open.spotify.com/track/6JUuxEQ47lJH3qfPf5nlil) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 3:40 |
 | 31 | [Kamikaze](https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 2:59 |
 | 32 | [Permanence](https://open.spotify.com/track/63DUo97PJNh69Gg1rXGHEN) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 4:01 |
-| 33 | [I Want to Fucking Break It](https://open.spotify.com/track/3KqRJRn6xaeETk3sI4PIrw) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 2:42 |
-| 34 | [All These Years](https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:56 |
+| 33 | [All These Years](https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:56 |
+| 34 | [I Want to Fucking Break It](https://open.spotify.com/track/3KqRJRn6xaeETk3sI4PIrw) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 2:42 |
 | 35 | [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 |
 | 36 | [Hypure](https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 4:15 |
 | 37 | [Behemoth](https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 49 | [Head](https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Beneath...Between...Beyond...](https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr) | 2:46 |
 | 50 | [Lunatic](https://open.spotify.com/track/1I4g0zU8WQ73sRd64QPYmw) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:35 |
 
-Snapshot ID: `Z8zaAAAAAABflok0vcJqTFWSyINRpool`
+Snapshot ID: `Z899AAAAAAD47tA9MBZo26I2sz1hFk1E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Lady Gaga, David Guetta, Sia, JENNIE, Dua Lipa, The Wiggles, Lainey Wilson & Blusher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,911 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,931 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 52 | [To Survive](https://open.spotify.com/track/4gwoL7rcEk6PVgquBmo8hZ) | [Liz Stringer](https://open.spotify.com/artist/1pQUWntaZHuboOtD9Gfel2) | [To Survive](https://open.spotify.com/album/1A1RHZpWGjtnfGKkwFtKA8) | 4:02 |
 | 53 | [Pound Town](https://open.spotify.com/track/61yXM2XDYQkjWJsydNtwTz) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Pound Town](https://open.spotify.com/album/6oqFuZKIyU7FKnk4RyjXET) | 3:19 |
 | 54 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
-| 55 | [Swimming Pool](https://open.spotify.com/track/1CuNRbx1zzhyIGfr5kxUgg) | [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua), [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [The Swimming Pool](https://open.spotify.com/album/7cYQDFQn9IZ4uRqMhkbIoH) | 4:15 |
+| 55 | [The Swimming Pool](https://open.spotify.com/track/1CuNRbx1zzhyIGfr5kxUgg) | [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua), [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [The Swimming Pool](https://open.spotify.com/album/7cYQDFQn9IZ4uRqMhkbIoH) | 4:15 |
 | 56 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
 | 57 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
 | 58 | [Otherside](https://open.spotify.com/track/6ez4bGJoi57CgMuCxiYFz3) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Split Ends](https://open.spotify.com/album/77CgNl8usM1tY0sRgeGbWA) | 3:26 |

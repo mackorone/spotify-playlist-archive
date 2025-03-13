@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,898 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,959 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 41 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
 | 42 | [BADO](https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [BADO](https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM) | 3:14 |
 | 43 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 |
-| 44 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 |
-| 45 | [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 |
+| 44 | [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 |
+| 45 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 |
 | 46 | [Only Human](https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Only Human](https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp) | 3:25 |
 | 47 | [Afterglow](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Afterglow](https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb) | 6:35 |
 | 48 | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Train of Thoughts](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Train of Thoughts](https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD) | 3:26 |
 | 57 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 |
 | 58 | [Running In A Dream](https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:29 |
-| 59 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 |
-| 60 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 |
+| 59 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 |
+| 60 | [Voices](https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Voices](https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b) | 4:58 |
 
 Snapshot ID: `Z8o3DwAAAAAbYjrRn39fgqzS9tSqt13C`

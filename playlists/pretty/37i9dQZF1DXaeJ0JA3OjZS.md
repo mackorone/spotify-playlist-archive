@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,830 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,953 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 45 | [Mi Potrillo](https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw) | [Banda Alta Potencia](https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2) | [Mi Potrillo](https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT) | 3:30 |
 | 46 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 | 47 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
-| 48 | [Caballos de la Cordada](https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Puente Roto](https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF) | 2:40 |
+| 48 | [El Dorado](https://open.spotify.com/track/1dmHOooKueXIkghSKdRYMC) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Corridos De Caballos](https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl) | 3:41 |
 | 49 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
-| 50 | [El Dorado](https://open.spotify.com/track/1dmHOooKueXIkghSKdRYMC) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Corridos De Caballos](https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl) | 3:41 |
+| 50 | [Caballos de la Cordada](https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Puente Roto](https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF) | 2:40 |
 | 51 | [El Quijote De Don Chuy](https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:57 |
 | 52 | [Corrido Del Payaso](https://open.spotify.com/track/71aFPlBP9HDFfppHCBv7bL) | [Serapio Ramirez](https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW) | [Corrido Del Payaso](https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i) | 3:26 |
 | 53 | [El Caballo de Mi Padre](https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Caballo de Mi Padre](https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI) | 3:21 |

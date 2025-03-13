@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 240030,
+  "num_followers": 240071,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABy5dKjuoe+z7U9We2LQ3V5",
+  "snapshot_id": "Z899AAAAAACcW54BU/N9svgC+ceDIZLK",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 71333,
+      "name": "Enyoyando",
+      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Codigos Del Alma",
         "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 307720,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 71333,
-      "name": "Enyoyando",
-      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 69083,
+  "num_followers": 69740,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAAKzJkkN9UY/KhPVmR/jnPJ",
+  "snapshot_id": "Z899AAAAAACmtX4qgObA5Z6EC+Z/0EsH",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
     {
       "added_at": null,
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 126832,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 135063,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alter Ego (with JT)",
         "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
-        "url": "https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 143829,
-      "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
-      "url": "https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 176682,
       "name": "Wat U Sed (feat. Doechii & Kal Banx)",
       "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
+        "url": "https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 143829,
+      "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
+      "url": "https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/1zvRP4zj0nfsHeeoeXuanm"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 60418,
+      "name": "Bills",
+      "url": "https://open.spotify.com/track/4qXBIFAjXJMwNxXTYN8Qyj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Burger",
         "url": "https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 221039,
       "name": "I, Myself & Me",
       "url": "https://open.spotify.com/track/3WnMme8cHk0QEM518WNXmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/1zvRP4zj0nfsHeeoeXuanm"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 60418,
-      "name": "Bills",
-      "url": "https://open.spotify.com/track/4qXBIFAjXJMwNxXTYN8Qyj"
     }
   ],
   "unique_name": "This Is Doechii",

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,068 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,085 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 2 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
 | 3 | [BLIZZARD](https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [NO SIDE](https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK) | 4:33 |
-| 4 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 |
+| 4 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
 | 5 | [粉雪](https://open.spotify.com/track/1Vimcaq6kgTq6xgHSnr4pS) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [HORIZON](https://open.spotify.com/album/3mMsgDoDSuT2oqdsmkSBr9) | 5:25 |
-| 6 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
+| 6 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 |
 | 7 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
 | 8 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
 | 9 | [夜凪 \(feat\. にしな\)](https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜凪 \(feat\. にしな\)](https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU) | 3:27 |
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 15 | [やさしい舞踏会](https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm) | 4:54 |
 | 16 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 17 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 |
-| 18 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 |
+| 18 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
 | 19 | [雪明かり \(Yukiakari\)](https://open.spotify.com/track/0uHnmZfRQVgme4k99xeKzH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/0sC7gPF7nafWA69qus9sxq) | 3:13 |
 | 20 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 |
 | 21 | [悪夢のような \- Acoustic](https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \(NightTime Version\)](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:12 |
 | 22 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 |
 | 23 | [独白](https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [独白](https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf) | 3:52 |
-| 24 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
+| 24 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 |
 | 25 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
 | 26 | [City Love City Love City Love](https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [City Love City Love City Love](https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe) | 3:24 |
 | 27 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 69 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
 | 70 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 |
 | 71 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 |
-| 72 | [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 |
-| 73 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
+| 72 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
+| 73 | [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 |
 | 74 | [冬枯れのボレロ](https://open.spotify.com/track/7xkQJzI4hTZj0vK1G4vKi2) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [冬枯れのボレロ](https://open.spotify.com/album/3IT9wr6qYRawUAKkOrf5RL) | 3:49 |
 | 75 | [〇](https://open.spotify.com/track/2wcIrfQFcXHZ7GIKfP4rD9) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [〇](https://open.spotify.com/album/0SUDbLjaTOjHJFgzovopXr) | 5:14 |
 | 76 | [ブービー・プライズ](https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブービー・プライズ](https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT) | 4:01 |
-| 77 | [Note to Self \- Acoustic](https://open.spotify.com/track/2Xgr5HdzgDVRGLWGMsoXrn) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Note to Self \(Acoustic\)](https://open.spotify.com/album/0dHD1VulBSZBbp83cGKK2z) | 4:34 |
-| 78 | [遠い街のどこかで…](https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [遠い街のどこかで…](https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf) | 5:32 |
+| 77 | [遠い街のどこかで…](https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [遠い街のどこかで…](https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf) | 5:32 |
+| 78 | [Note to Self \- Acoustic](https://open.spotify.com/track/2Xgr5HdzgDVRGLWGMsoXrn) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Note to Self \(Acoustic\)](https://open.spotify.com/album/0dHD1VulBSZBbp83cGKK2z) | 4:34 |
 | 79 | [火魅蟲](https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [火魅蟲](https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG) | 3:10 |
 | 80 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > Celebrate International Women's Day with new music from Lady Gaga, Khanyisa, LISA, Ggoldie and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,931 likes - 54 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,959 likes - 54 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

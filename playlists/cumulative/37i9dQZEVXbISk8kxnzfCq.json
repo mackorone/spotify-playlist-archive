@@ -4074,7 +4074,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 278106,
       "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
       "url": "https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"
@@ -4154,7 +4154,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C"
@@ -6262,7 +6262,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 267786,
       "name": "Ella Y Yo - Featuring Don Omar",
       "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
@@ -6700,7 +6700,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -6754,7 +6754,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -11011,6 +11011,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
         "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
         "url": "https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA"
       },
@@ -11954,7 +11972,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 187087,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
@@ -13376,7 +13394,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 193728,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW"
@@ -15650,7 +15668,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
@@ -17296,7 +17314,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
@@ -22114,7 +22132,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 186666,
       "name": "Vibrador",
       "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
@@ -22194,6 +22212,32 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208743,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
     },
     {
       "album": {

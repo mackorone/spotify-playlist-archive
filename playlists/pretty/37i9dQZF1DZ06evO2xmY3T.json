@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 679149,
+  "num_followers": 679158,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAC10dTXMmQssqcHg42kM5z+",
+  "snapshot_id": "Z899AAAAAAA35aj3oP6mZsdEohEPCU4r",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The D.O.A. Tape (Care Package)",
-        "url": "https://open.spotify.com/album/6fKx0UeCduyu1piUvBZJqg"
+        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
       "artists": [
         {
@@ -853,8 +853,8 @@
         }
       ],
       "duration_ms": 118249,
-      "name": "Shake It (feat. Cardi B, Dougie B & Bory 300)",
-      "url": "https://open.spotify.com/track/7ovrKrP1jYi04c1qpHr7mY"
+      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
     },
     {
       "added_at": null,

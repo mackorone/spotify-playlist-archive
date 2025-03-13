@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 48999,
+  "num_followers": 49000,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAA0hZCUdWbOMoxnMCOFYFjL",
+  "snapshot_id": "Z899AAAAAABKoXYq1EnSjVDRn4CZDfyX",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30cf\u30ed",
         "url": "https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu"
       },
@@ -275,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versus the night",
+        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "MoonWalker",
+      "url": "https://open.spotify.com/track/6pjEIAEvpZ9nl6Hjuyv3Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nerenaiyoruni ka-tenwoakete",
         "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
       },
@@ -291,22 +323,6 @@
       "duration_ms": 197067,
       "name": "Sleeping town (feat. yama)",
       "url": "https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Versus the night",
-        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "MoonWalker",
-      "url": "https://open.spotify.com/track/6pjEIAEvpZ9nl6Hjuyv3Mv"
     },
     {
       "added_at": null,
@@ -336,25 +352,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u3053\u3060\u307e",
-        "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "\u3053\u3060\u307e",
-      "url": "https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv"
+      "duration_ms": 179253,
+      "name": "TORIHADA",
+      "url": "https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+        "name": "\u3053\u3060\u307e",
+        "url": "https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq"
       },
       "artists": [
         {
@@ -424,9 +424,29 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 179253,
-      "name": "TORIHADA",
-      "url": "https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0"
+      "duration_ms": 184600,
+      "name": "\u3053\u3060\u307e",
+      "url": "https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "\u30ec\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
     },
     {
       "added_at": null,
@@ -486,39 +506,11 @@
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 180666,
-      "name": "\u30ec\u30b3\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello/Hello",
-        "url": "https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "Nakimushi",
-          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
-        }
-      ],
-      "duration_ms": 245214,
-      "name": "Hello/Hello",
-      "url": "https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX"
+      "duration_ms": 270160,
+      "name": "rain check",
+      "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
     },
     {
       "added_at": null,
@@ -559,18 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u771f\u3063\u767d",
-        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
+        "name": "Hello/Hello",
+        "url": "https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint"
       },
       "artists": [
         {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
         }
       ],
-      "duration_ms": 287166,
-      "name": "\u771f\u3063\u767d",
-      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
+      "duration_ms": 245214,
+      "name": "Hello/Hello",
+      "url": "https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX"
     },
     {
       "added_at": null,
@@ -584,9 +584,25 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 270160,
-      "name": "rain check",
-      "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
+      "duration_ms": 241186,
+      "name": "semicolon",
+      "url": "https://open.spotify.com/track/3FFeh3VjHhnJjjqmBydCF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u771f\u3063\u767d",
+        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 287166,
+      "name": "\u771f\u3063\u767d",
+      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3044\u3076\u304d",
-        "url": "https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "\u3044\u3076\u304d",
-      "url": "https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "; semicolon",
         "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 241186,
-      "name": "semicolon",
-      "url": "https://open.spotify.com/track/3FFeh3VjHhnJjjqmBydCF1"
+      "duration_ms": 162066,
+      "name": "MUSE",
+      "url": "https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
       "duration_ms": 171133,
       "name": "\u507d\u9854 -\u201cthe meaning of life\u201d TOUR 2024 at LINE CUBE SHIBUYA-",
       "url": "https://open.spotify.com/track/10Vohh05ZClyfvbzUP3rFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3044\u3076\u304d",
+        "url": "https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "\u3044\u3076\u304d",
+      "url": "https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "MUSE",
-      "url": "https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
-        "url": "https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
-      "url": "https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oz. / \u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060 / \u30b9\u30e2\u30fc\u30ad\u30fc\u30d2\u30ed\u30a4\u30f3",
         "url": "https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 226440,
       "name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
       "url": "https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
+        "url": "https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
+      "url": "https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 203302,
+  "num_followers": 203314,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADn3lO02TExUaBQ8YVewqzd",
+  "snapshot_id": "Z899AAAAAAAp1sxEahA/4yx4aCLuel1o",
   "tracks": [
     {
       "added_at": null,
@@ -819,46 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 453588,
-      "name": "Graves into Gardens",
-      "url": "https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Steffany Gertzinger",
-          "url": "https://open.spotify.com/artist/3rUPosNas9HRJr9kpCYzU3"
-        }
-      ],
-      "duration_ms": 339870,
-      "name": "Pieces (Live)",
-      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
@@ -883,6 +843,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gertzinger",
+          "url": "https://open.spotify.com/artist/3rUPosNas9HRJr9kpCYzU3"
+        }
+      ],
+      "duration_ms": 339870,
+      "name": "Pieces (Live)",
+      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 453588,
+      "name": "Graves into Gardens",
+      "url": "https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 314306,
+      "name": "Gravity (Instrumental)",
+      "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -899,26 +915,6 @@
       "duration_ms": 317789,
       "name": "By the Grace of God",
       "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "The Light in You",
-      "url": "https://open.spotify.com/track/7v7O7fDoWx0M6MpyQNjOMT"
     },
     {
       "added_at": null,
@@ -943,24 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 314306,
-      "name": "Gravity (Instrumental)",
-      "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
       "artists": [
         {
@@ -968,17 +948,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 414280,
-      "name": "Padre Nuestro (En Vivo)",
-      "url": "https://open.spotify.com/track/3pjl44IOMQPTcxrf7gE74v"
+      "duration_ms": 263160,
+      "name": "The Light in You",
+      "url": "https://open.spotify.com/track/7v7O7fDoWx0M6MpyQNjOMT"
     },
     {
       "added_at": null,
@@ -1003,6 +979,30 @@
       "duration_ms": 468274,
       "name": "Homecoming (Live)",
       "url": "https://open.spotify.com/track/59Sd4AqkDIlx1BnOgxOpXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 414280,
+      "name": "Padre Nuestro (En Vivo)",
+      "url": "https://open.spotify.com/track/3pjl44IOMQPTcxrf7gE74v"
     },
     {
       "added_at": null,

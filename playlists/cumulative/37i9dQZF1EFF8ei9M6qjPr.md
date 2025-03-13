@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 8 hr 56 min
+191 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,9 @@
 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 | 2024-07-09 |  |
 | [Move On](https://open.spotify.com/track/177XRjFkqB9RpGTFjlgeQE) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Slow Dance](https://open.spotify.com/album/3BN8juNaSxMdwagm6RBvwh) | 2:25 | 2024-07-09 |  |
 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 | 2024-07-09 |  |
-| [My My](https://open.spotify.com/track/0LyUR1JNxrjeLiJIpUF57x) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [My My](https://open.spotify.com/album/6avNjZBR2EcnkhUU0UCEPT) | 3:02 | 2025-01-31 |  |
+| [My My](https://open.spotify.com/track/0LyUR1JNxrjeLiJIpUF57x) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [My My](https://open.spotify.com/album/6avNjZBR2EcnkhUU0UCEPT) | 3:02 | 2025-01-31 | 2025-03-13 |
 | [My My](https://open.spotify.com/track/1mXZmBOb4wPusZQ0gUG8Ui) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/4P0pCYWGTLTJMzrEFGJ0WM) | 3:02 | 2024-07-09 | 2025-02-01 |
+| [My My](https://open.spotify.com/track/473Gdc2FyRRR0Zq1nUDmEE) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/5pXMD5ZtWugzcLXl6uBTrq) | 3:02 | 2025-03-12 |  |
 | [My Way](https://open.spotify.com/track/1AAPG2QIYP0VB6qAplNpCB) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [My Way](https://open.spotify.com/album/7yFOHwrpzLIvkDdA0Ie8fz) | 2:06 | 2024-12-11 |  |
 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2024-07-09 |  |
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2024-07-09 |  |

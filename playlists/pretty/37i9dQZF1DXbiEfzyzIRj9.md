@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Tohji
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,084 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,081 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 34 | [on & on](https://open.spotify.com/track/0SLmyaqNDmqVBakll401xr) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG), [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14), [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [ON&ON](https://open.spotify.com/album/46T3rFSu6bKD9D7ocjTe4U) | 3:08 |
 | 35 | [Raving In The Studio \- IN PARALLEL Remix](https://open.spotify.com/track/4E1FTmpKg1R5GeC2zXJgHr) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [Raving In The Studio \(IN PARALLEL Remix\)](https://open.spotify.com/album/1IwygxSOjbblFqaKQOuEHb) | 2:50 |
 | 36 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
-| 37 | [Oops…](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops…](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 |
+| 37 | [Oops...](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops...](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 |
 | 38 | [MANIMANI \- Masayoshi Iimori Remix](https://open.spotify.com/track/3lh0LNamASrkGsVcsS9K0G) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [MANIMANI \(Remixed\)](https://open.spotify.com/album/3IUM8oUmsPrq1GsFbkxAem) | 3:02 |
 | 39 | [CA$HED UP](https://open.spotify.com/track/3GEFATx7q7vAlz9jzTGLda) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [CA$HED UP](https://open.spotify.com/album/3Y3omMSeHyie3YmHnqZOwl) | 2:54 |
 | 40 | [B Somebody \- X CLUB\. Remix](https://open.spotify.com/track/0fgjSCrThXsWnEvqRD1DsG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [B Somebody \(X CLUB\. Remix\)](https://open.spotify.com/album/1UdRqFmjpDpn4ZLW9tpBJy) | 3:41 |

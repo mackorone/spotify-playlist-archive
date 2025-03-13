@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,784 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,799 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

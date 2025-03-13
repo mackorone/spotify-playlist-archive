@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: TOKiMONSTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,806,169 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,806,097 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 22 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
 | 23 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 |
 | 24 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 |
-| 25 | [Solfa](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
+| 25 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 |
 | 26 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 |
 | 27 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 |
 | 28 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |

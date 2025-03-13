@@ -4,7 +4,7 @@
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 19 min
+41 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [I See Grace](https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [I See Grace](https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il) | 3:13 | 2023-04-02 |  |
 | [If She Only Knew](https://open.spotify.com/track/5l14L8mxpCQKA0cHYJowHt) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:24 | 2023-04-02 | 2023-12-27 |
 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 | 2023-04-02 |  |
-| [It's Raining, It's Pouring](https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:06 | 2023-04-02 |  |
+| [It's Raining, It's Pouring](https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:06 | 2023-04-02 | 2025-03-13 |
 | [Last](https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 | 2023-04-02 | 2025-02-25 |
 | [Love Lifted Me Up](https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:11 | 2023-04-02 |  |
 | [Mighty to Love](https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:02 | 2023-04-02 |  |
@@ -44,6 +44,7 @@
 | [The Flood](https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:20 | 2023-04-02 |  |
 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 | 2024-01-11 |  |
 | [Walking Free](https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:21 | 2023-04-02 |  |
+| [What Are You Waiting For](https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:52 | 2025-03-13 |  |
 | [What Mercy Did for Me \(feat\. Crystal Yates, Micah Tyler & Joshua Sherman\)](https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [Crystal Yates](https://open.spotify.com/artist/1px9WTV9bYGfGYjLimvsxJ), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Joshua Sherman](https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR) | [The Emerging Sound, Vol\. 3](https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP) | 4:08 | 2023-04-02 |  |
 | [What Mercy Did For Me \(feat\. Maranda Curtis & Jason Crabb\)](https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:43 | 2023-04-02 |  |
 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 | 2023-04-02 |  |

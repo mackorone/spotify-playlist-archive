@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,659 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,923 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 18 | [Sleepwalk](https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Volume Secondo](https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8) | 2:31 |
 | 19 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
 | 20 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
-| 21 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
-| 22 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
+| 21 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
+| 22 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 23 | [Love Is Blue](https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:37 |
 | 24 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
 | 25 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 41 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
 | 42 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 43 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
-| 44 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
-| 45 | [Never On Sunday](https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu) | [Don Costa And His Orchestra](https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or) | [Lost Hits Of The 60's](https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp) | 2:55 |
+| 44 | [Never On Sunday](https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu) | [Don Costa And His Orchestra](https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or) | [Lost Hits Of The 60's](https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp) | 2:55 |
+| 45 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
 | 46 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 |
 | 47 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
 | 48 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |

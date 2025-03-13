@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Dillom
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,879 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,881 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 28 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
 | 29 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
 | 30 | [¿Qué Vas A Hacer Tan Sola Hoy?](https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:08 |
-| 31 | [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 |
-| 32 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
+| 31 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
+| 32 | [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 |
 | 33 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
 | 34 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 |
 | 35 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 38 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
 | 39 | [Quién Dice](https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Ya No Somos Dos Ahora](https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt) | 3:05 |
 | 40 | [¿A dónde vas?](https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Historias Perdidas](https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX) | 3:43 |
-| 41 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
-| 42 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/2qOZlmuakVosc9cQRHMJLt) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 5:13 |
+| 41 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/2qOZlmuakVosc9cQRHMJLt) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 5:13 |
+| 42 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
 | 43 | [Ojos Ventanal](https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi) | 3:44 |
 | 44 | [Unos Versos](https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp) | 6:22 |
 | 45 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |

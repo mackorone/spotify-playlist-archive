@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,566 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,575 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 25 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 |
 | 26 | [Take on Me \- Kygo Remix](https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Take on Me \(Kygo Remix\)](https://open.spotify.com/album/3R2Movau61LViutgG8JYtV) | 3:46 |
 | 27 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
-| 28 | [Wiggle Up, Giddy Up!](https://open.spotify.com/track/4eHpZ7aVEIIjtxK8JrxBWg) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/35Oojm51uhnUPWDEcTnNwN) | 2:37 |
-| 29 | [Dance Mode](https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode](https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk) | 1:58 |
+| 28 | [Dance Mode](https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode](https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk) | 1:58 |
+| 29 | [Wiggle Up, Giddy Up!](https://open.spotify.com/track/4eHpZ7aVEIIjtxK8JrxBWg) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/35Oojm51uhnUPWDEcTnNwN) | 2:37 |
 | 30 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
 | 31 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 |
 | 32 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 |

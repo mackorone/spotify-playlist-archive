@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Candy Bleakz
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,943 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,975 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 12 | [Jay Jay](https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jay Jay](https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm) | 2:52 |
 | 13 | [Best Of Both Worlds](https://open.spotify.com/track/3lqUUejq3ESNMEEW1wnicR) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 2:34 |
 | 14 | [Survivor](https://open.spotify.com/track/4juj2vcoKlRyW2toW951Wg) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Survivor](https://open.spotify.com/album/5uaAvmMxqIOtqu2Vh3omBc) | 2:30 |
-| 15 | [Conse \(feat\. May D, Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. May D, Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 |
+| 15 | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 |
 | 16 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 |
 | 17 | [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 |
 | 18 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |

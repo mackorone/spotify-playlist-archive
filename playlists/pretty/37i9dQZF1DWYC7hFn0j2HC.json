@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Antonio Aguilar en portada.",
-  "num_followers": 1136209,
+  "num_followers": 1136326,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
         "name": "15 \u00c9xitos 15 con Tambora Vol. 3",
         "url": "https://open.spotify.com/album/5YQy0EdocVowWgBc8uC7Rq"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 168083,
       "name": "De Ma\u00f1ana en Ocho D\u00edas",
       "url": "https://open.spotify.com/track/6R5mmSYJvDl18axakBWqo6"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
     },
     {
       "added_at": "2024-09-12 23:26:02",

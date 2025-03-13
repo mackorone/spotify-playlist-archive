@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=d\-YhDSQQQReef2azXUA9RA>Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,919 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,935 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 50 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
 
-Snapshot ID: `Z8o3XgAAAAD/YvfZkilMlMSeztai+2aJ`
+Snapshot ID: `Z9FaMAAAAADh7ma4wB8GGOOnyCP+9G75`

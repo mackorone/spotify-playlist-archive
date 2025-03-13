@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAC/PfK/KVeOp8/R+1+nwfzL",
+  "snapshot_id": "Z899AAAAAACwczZmX8EqYz7bkIGe/AHX",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Hang on in There",
-      "url": "https://open.spotify.com/track/1TiOhjk5WfR30VXbDplcdr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 151320,
       "name": "Turn the Hands of Time",
       "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Hang on in There",
+      "url": "https://open.spotify.com/track/1TiOhjk5WfR30VXbDplcdr"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 419746,
-      "name": "Save the Children",
-      "url": "https://open.spotify.com/track/3mfSxUjDW6JQGLd45Qbcr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 89091,
       "name": "The Intruders Medley Introduction - Live",
       "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 419746,
+      "name": "Save the Children",
+      "url": "https://open.spotify.com/track/3mfSxUjDW6JQGLd45Qbcr0"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Memories are Here to Stay",
-      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Memories are Here to Stay",
+      "url": "https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW"
     },
     {
       "added_at": null,
@@ -547,6 +547,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 312830,
+      "name": "The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -563,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Energy of Love",
         "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
@@ -591,6 +599,22 @@
       "duration_ms": 213146,
       "name": "Energy of Love",
       "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,
@@ -612,9 +636,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 312830,
-      "name": "The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
+      "duration_ms": 116050,
+      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
+      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
     },
     {
       "added_at": null,
@@ -651,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -660,9 +684,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -691,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
       "artists": [
         {
@@ -700,9 +724,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+      "duration_ms": 169213,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
     },
     {
       "added_at": null,
@@ -723,46 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "One In a Million",
-      "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
-      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go Instro",
         "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
       },
@@ -775,6 +759,38 @@
       "duration_ms": 135800,
       "name": "Rockamaroll",
       "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Guitar Instrumentals: '50s & '60s",
+        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Jefferies Rock",
+      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     },
     {
       "added_at": null,
@@ -804,25 +820,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great Guitar Instrumentals: '50s & '60s",
-        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Jefferies Rock",
-      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+      "duration_ms": 193133,
+      "name": "One In a Million",
+      "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 25175,
+  "num_followers": 25191,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Mirla",
-        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
-      },
-      "artists": [
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        },
-        {
-          "name": "Sim\u00f3n Mej\u00eda",
-          "url": "https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Mirla",
-      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Chocomenta",
         "url": "https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 164250,
       "name": "Chocomenta",
       "url": "https://open.spotify.com/track/3puwMzQnKzBKf0LH851Yha"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Mirla",
+        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
+      },
+      "artists": [
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        },
+        {
+          "name": "Sim\u00f3n Mej\u00eda",
+          "url": "https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Mirla",
+      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Uno Es M\u00ednimo Dos",
+        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 153857,
       "name": "Parque de Bugambilias",
       "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Uno Es M\u00ednimo Dos",
-        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "\u00d3leo sobre tela",
         "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 162479,
       "name": "Abr\u00e1zame mucho estos d\u00edas",
       "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -767,30 +767,6 @@
       "duration_ms": 127749,
       "name": ":(",
       "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Ipanema Sunset",
-        "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
-      },
-      "artists": [
-        {
-          "name": "Praia Sur",
-          "url": "https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf"
-        },
-        {
-          "name": "LaidSisters",
-          "url": "https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj"
-        },
-        {
-          "name": "M\u00fcx",
-          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
-        }
-      ],
-      "duration_ms": 122202,
-      "name": "Ipanema Sunset",
-      "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -875,26 +851,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ag\u00fcita de Coco",
-        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "El Chicahual",
-          "url": "https://open.spotify.com/artist/6qF40Aqmb3S4s7K2OYX225"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Ag\u00fcita de Coco",
-      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Sunset on Vallarta",
         "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
       },
@@ -911,6 +867,30 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Ipanema Sunset",
+        "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
+      },
+      "artists": [
+        {
+          "name": "Praia Sur",
+          "url": "https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf"
+        },
+        {
+          "name": "LaidSisters",
+          "url": "https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj"
+        },
+        {
+          "name": "M\u00fcx",
+          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
+        }
+      ],
+      "duration_ms": 122202,
+      "name": "Ipanema Sunset",
+      "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Dia de Muertos",
         "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 149333,
       "name": "Cempasuchil",
       "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ag\u00fcita de Coco",
+        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "El Chicahual",
+          "url": "https://open.spotify.com/artist/6qF40Aqmb3S4s7K2OYX225"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Ag\u00fcita de Coco",
+      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -955,30 +955,6 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Helado de Mango (Remix)",
-        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "Helado de Mango (Remix)",
-      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1019,6 +995,30 @@
       "duration_ms": 128000,
       "name": "La Belleza de lo Cotidiano",
       "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Helado de Mango (Remix)",
+        "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 141825,
+      "name": "Helado de Mango (Remix)",
+      "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
-      },
-      "artists": [
-        {
-          "name": "Anto Pla",
-          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 122273,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
+      },
+      "artists": [
+        {
+          "name": "Anto Pla",
+          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
     },
     {
       "added_at": "2024-10-04 04:00:00",

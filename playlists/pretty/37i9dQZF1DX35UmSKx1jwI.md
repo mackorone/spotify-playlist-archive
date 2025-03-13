@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,266 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,315 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 56 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 57 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 |
 | 58 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
-| 59 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
-| 60 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 |
+| 59 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 |
+| 60 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
 
 Snapshot ID: `ZqEINAAAAACk7btWHo2464fhKulG4Xt0`

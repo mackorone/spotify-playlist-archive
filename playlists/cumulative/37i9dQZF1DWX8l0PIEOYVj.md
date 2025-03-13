@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Dabin
 
-739 songs - 1 day 20 hr 14 min
+740 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [Lonely](https://open.spotify.com/track/0i9XzZElo5bpCCblQ3UpCS) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Leila Pari](https://open.spotify.com/artist/74psZWrKKzR4f9mplHXqJb) | [Lonely](https://open.spotify.com/album/5dXu6XuogLgDJJkb390Xnb) | 3:51 | 2022-12-02 | 2023-07-29 |
 | [Loner](https://open.spotify.com/track/68BVpRNAbM1847iY5mcDbN) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Tink](https://open.spotify.com/album/6U4iNugvx6mfLFy8pWD5MM) | 4:32 | 2024-11-06 |  |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-08 | 2022-08-19 |
-| [Lose Control](https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC) | [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Lose Control](https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu) | 3:05 | 2024-04-26 |  |
+| [Lose Control](https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC) | [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Lose Control](https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu) | 3:05 | 2024-04-26 | 2025-03-13 |
 | [Lose It All](https://open.spotify.com/track/1oNUsiZTq5fTC2jO4VL5zP) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Stepping Out Of Shadows](https://open.spotify.com/album/2OUJuGrU9DJJMARPd2W1Gq) | 4:30 | 2024-11-06 | 2024-12-14 |
 | [Losing My Mind](https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Losing My Mind](https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV) | 3:12 | 2022-07-08 | 2023-09-02 |
 | [LOST](https://open.spotify.com/track/2bgFEoaY6r4CqDPjllvKsl) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [LOST](https://open.spotify.com/album/7JzcPhDBznSOo5V4SZExpK) | 4:34 | 2025-02-28 |  |
@@ -687,6 +687,7 @@
 | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf) | 3:48 | 2023-06-30 |  |
 | [vision \(wish u could see\)](https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [vision \(wish u could see\)](https://open.spotify.com/album/3Jw3BAEuYNZwWWDxXduAL5) | 3:59 | 2025-02-16 |  |
 | [Voices](https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Voices](https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce) | 3:48 | 2024-03-08 |  |
+| [Wait for Fate](https://open.spotify.com/track/7CedP29UcimYIrxEViMPo2) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Wait for Fate](https://open.spotify.com/album/44pzhFsX019bA88c9GF7YO) | 4:08 | 2025-03-07 |  |
 | [Waiting](https://open.spotify.com/track/3l5bgBsTb7lx6p72oJ9BWD) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting / Paradise](https://open.spotify.com/album/24aWSkyPzUBq8RCJ2Kprdf) | 5:01 | 2023-09-15 | 2024-03-23 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-07-08 | 2023-04-09 |
 | [Wake Up](https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Wake Up](https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0) | 3:09 | 2024-08-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,540 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,549 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 29 | [Spring days pass](https://open.spotify.com/track/1WACArKm987xYhEAiuetlx) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Jeongnyeon: The Star is Born, Pt\. 3 : Spring days pass \(Original Soundtrack\)](https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp) | 3:21 |
 | 30 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
 | 31 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
-| 32 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
-| 33 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 32 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 33 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 34 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 |
 | 35 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 |
 | 36 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |

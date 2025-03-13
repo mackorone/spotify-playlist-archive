@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Great Day For Freedom 2022](https://open.spotify.com/track/08ZP6LzduiKEURYbNex8SH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU) | 4:07 | 2022-09-17 | 2022-10-13 |
-| [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 | 2025-02-25 | 2025-03-08 |
+| [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 | 2025-02-25 |  |
 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 | 2022-09-17 |  |
 | [Another Brick in the Wall, Pt\. 1](https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:12 | 2022-09-17 |  |
 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 | 2022-09-17 |  |

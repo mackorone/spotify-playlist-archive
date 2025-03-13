@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 247737,
+  "num_followers": 247754,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAApSifxT0YSUChBuJz7qsUj",
+  "snapshot_id": "Z899AAAAAAAeKDAlQfLXnaWzAFeyCXxP",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't!",
-        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Don't! - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 248866,
       "name": "Nah! - Red Version",
       "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't!",
+        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Don't! - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Swingin' With My Eyes Closed",
-      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Swingin' With My Eyes Closed",
+      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Just A Girl (The Highlights)",
         "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 191493,
       "name": "Not Just A Girl",
       "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
     },
     {
       "added_at": null,
@@ -807,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
       },
       "artists": [
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
     },
     {
       "added_at": null,
@@ -855,6 +835,22 @@
       "duration_ms": 196720,
       "name": "In My Car (I'll Be The Driver) - Red Version",
       "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 243948,
+      "name": "If You Wanna Touch Her, Ask!",
+      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
     }
   ],
   "unique_name": "This Is Shania Twain",

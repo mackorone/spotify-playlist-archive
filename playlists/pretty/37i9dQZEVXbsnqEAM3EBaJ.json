@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADGj6Z5qjD28yKY9uKNw/Fs",
+  "snapshot_id": "AAAAAAAAAAAaDzh1cAaoFHAJvp0OkVcL",
   "tracks": [
     {
       "added_at": "2025-03-07 03:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
+        "name": "Awen",
+        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Awen",
+      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
         "name": "Satirolog\u00eda, Vol. 3",
         "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 284091,
       "name": "Debo Aterrizar",
       "url": "https://open.spotify.com/track/4MQEsa25Jc6mfLaFYmYhIo"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
-        "name": "Awen",
-        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Awen",
-      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
         "name": "Swing For The Fences",
         "url": "https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3"
       },
@@ -167,22 +183,6 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
         "name": "Oceanside Countryside",
         "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
       },
@@ -195,30 +195,6 @@
       "duration_ms": 152998,
       "name": "Dance Dance Dance",
       "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
-        "name": "Tchaikovsky: Violin Concerto & Symphony No. 4 \u2013 Live from Jerusalem",
-        "url": "https://open.spotify.com/album/4nEalGQvznC90eSriuS58g"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Jerusalem Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3zv9qBCEaz0IueMObFosUj"
-        },
-        {
-          "name": "Julian Rachlin",
-          "url": "https://open.spotify.com/artist/6aXeLNKDAYfLVrVcy5ISaX"
-        }
-      ],
-      "duration_ms": 392640,
-      "name": "Violin Concerto in D major, Op. 35: II. Canzonetta. Andante \u2013 Live from Jerusalem - Live",
-      "url": "https://open.spotify.com/track/3SS9WWlbNKGnDBcA8joCMw"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -243,6 +219,30 @@
       "duration_ms": 230146,
       "name": "Let's Stay Together - Alternative Radio Mix, 1983",
       "url": "https://open.spotify.com/track/37gLEFVAkPi68XoZhwldgY"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
+        "name": "Tchaikovsky: Swan Lake - Neapolitan Dance (Excerpt)",
+        "url": "https://open.spotify.com/album/2uyVJZsuSG0CkEH8iw8RE4"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Alexander Titov",
+          "url": "https://open.spotify.com/artist/0i7LEbNYupmNEuVG7GJr7O"
+        },
+        {
+          "name": "Orchestra New Philharmony St. Petersburg",
+          "url": "https://open.spotify.com/artist/6PC5mHlqB8BIbsDJ9QSVZx"
+        }
+      ],
+      "duration_ms": 50792,
+      "name": "Tchaikovsky: Swan Lake - Neapolitan Dance - Excerpt",
+      "url": "https://open.spotify.com/track/5MmhK1FDPjuUOeWSHEG0s1"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -455,6 +455,30 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
+        "name": "Made Me This Way",
+        "url": "https://open.spotify.com/album/14PCSa4Qu2wP8fTGkNp6JF"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        },
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        },
+        {
+          "name": "Jay Gordon",
+          "url": "https://open.spotify.com/artist/5z89czaFMCQGaZdVRX2Rbk"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Made Me This Way",
+      "url": "https://open.spotify.com/track/2BzNRpyEZNqNvWDa0WQgZA"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -475,18 +499,22 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
+        "name": "Your Name In Lights (Pyramid Music Mix)",
+        "url": "https://open.spotify.com/album/7zZULmz86UjKZLyVSHJYTA"
       },
       "artists": [
         {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        },
+        {
+          "name": "Pyramid Music",
+          "url": "https://open.spotify.com/artist/3fvmbhHUtlmLfutvhUi2p9"
         }
       ],
-      "duration_ms": 225871,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
+      "duration_ms": 214315,
+      "name": "Your Name In Lights - Pyramid Music Mix",
+      "url": "https://open.spotify.com/track/6200gfWDlpru5njPReAXdb"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -535,26 +563,18 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
-        "name": "Made Me This Way",
-        "url": "https://open.spotify.com/album/14PCSa4Qu2wP8fTGkNp6JF"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
       },
       "artists": [
         {
-          "name": "Silent Theory",
-          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
-        },
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        },
-        {
-          "name": "Jay Gordon",
-          "url": "https://open.spotify.com/artist/5z89czaFMCQGaZdVRX2Rbk"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Made Me This Way",
-      "url": "https://open.spotify.com/track/2BzNRpyEZNqNvWDa0WQgZA"
+      "duration_ms": 225871,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -571,6 +591,22 @@
       "duration_ms": 277111,
       "name": "The right path",
       "url": "https://open.spotify.com/track/2zF4ysfKulsSOFkhstsYlS"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
+        "name": "All The Love Is Gone",
+        "url": "https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 182650,
+      "name": "All The Love Is Gone",
+      "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -607,6 +643,26 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
+        "name": "Here Be Dragons",
+        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Adrienne Cowan",
+          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
         "name": "The Warner Recordings (1985-1994) [2025 Remaster]",
         "url": "https://open.spotify.com/album/6MSNtv4VP7CS8nh8Xu32v7"
       },
@@ -619,62 +675,6 @@
       "duration_ms": 253003,
       "name": "You're Breathin' It (Urban NYC Mix) - 2025 Remaster",
       "url": "https://open.spotify.com/track/7h4io0fUvBR7YM1gHyhb2V"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
-        "name": "Antibloom",
-        "url": "https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
-        "name": "Your Name In Lights (Pyramid Music Mix)",
-        "url": "https://open.spotify.com/album/7zZULmz86UjKZLyVSHJYTA"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        },
-        {
-          "name": "Pyramid Music",
-          "url": "https://open.spotify.com/artist/3fvmbhHUtlmLfutvhUi2p9"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Your Name In Lights - Pyramid Music Mix",
-      "url": "https://open.spotify.com/track/6200gfWDlpru5njPReAXdb"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 193490,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -703,38 +703,38 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
-        "name": "All The Love Is Gone",
-        "url": "https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez"
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 182650,
-      "name": "All The Love Is Gone",
-      "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
+      "duration_ms": 193490,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
     },
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
-        "name": "Here Be Dragons",
-        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
+        "name": "Antibloom",
+        "url": "https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk"
       },
       "artists": [
         {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        },
-        {
-          "name": "Adrienne Cowan",
-          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 335626,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
+      "duration_ms": 178560,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
     },
     {
       "added_at": "2025-03-07 03:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-03-07 03:00:00",
       "album": {
-        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
-        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
-      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
-    },
-    {
-      "added_at": "2025-03-07 03:00:00",
-      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 189045,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv"
+    },
+    {
+      "added_at": "2025-03-07 03:00:00",
+      "album": {
+        "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+        "url": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
+      "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
     },
     {
       "added_at": "2025-03-07 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Joost & Spinvis",
-  "num_followers": 9968,
+  "num_followers": 9973,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
+        "name": "platland",
+        "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 190467,
+      "name": "alle buren moeten dood",
+      "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
         "name": "Zieke Wereld",
         "url": "https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "platland",
-        "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 190467,
-      "name": "alle buren moeten dood",
-      "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
         "name": "Als Je Nog Wil",
         "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 203264,
       "name": "Als Je Nog Wil",
       "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
-        "name": "Altijd Anders",
-        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
-      },
-      "artists": [
-        {
-          "name": "Massi",
-          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Altijd Anders",
-      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -399,6 +383,22 @@
       "duration_ms": 178610,
       "name": "IK LACH MAAR IK HUIL",
       "url": "https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "Altijd Anders",
+        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Altijd Anders",
+      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
+        "name": "Het Vliegt Voorbij",
+        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 163261,
+      "name": "Het Vliegt Voorbij",
+      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
         "name": "Symptomen",
         "url": "https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "Naamloze Liefde",
-        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
-      },
-      "artists": [
-        {
-          "name": "Roos Blufpand",
-          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
-        }
-      ],
-      "duration_ms": 157752,
-      "name": "Nieuw Begin",
-      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
         "name": "Spijbelaar",
         "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
       },
@@ -627,50 +627,18 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "Sorry Lul",
-        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
+        "name": "Naamloze Liefde",
+        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Roos Blufpand",
+          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
         }
       ],
-      "duration_ms": 167968,
-      "name": "Sorry Lul",
-      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
-        "name": "Het Vliegt Voorbij",
-        "url": "https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 163261,
-      "name": "Het Vliegt Voorbij",
-      "url": "https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
-        "name": "Naar de Stad",
-        "url": "https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O"
-      },
-      "artists": [
-        {
-          "name": "puntjudith",
-          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
-        }
-      ],
-      "duration_ms": 179297,
-      "name": "Naar de Stad",
-      "url": "https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV"
+      "duration_ms": 157752,
+      "name": "Nieuw Begin",
+      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -691,6 +659,38 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
+        "name": "Sorry Lul",
+        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 167968,
+      "name": "Sorry Lul",
+      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "Naar de Stad",
+        "url": "https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O"
+      },
+      "artists": [
+        {
+          "name": "puntjudith",
+          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
+        }
+      ],
+      "duration_ms": 179297,
+      "name": "Naar de Stad",
+      "url": "https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
         "name": "Ik Weet Het",
         "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 241833,
       "name": "Ik Weet Het",
       "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
+    },
+    {
+      "added_at": "2025-03-07 09:12:13",
+      "album": {
+        "name": "Grote Broer",
+        "url": "https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc"
+      },
+      "artists": [
+        {
+          "name": "FULCO",
+          "url": "https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "Grote Broer",
+      "url": "https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -743,18 +759,18 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "Grote Broer",
-        "url": "https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc"
+        "name": "platland",
+        "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
       },
       "artists": [
         {
-          "name": "FULCO",
-          "url": "https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt"
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
         }
       ],
-      "duration_ms": 153066,
-      "name": "Grote Broer",
-      "url": "https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8"
+      "duration_ms": 206590,
+      "name": "platland",
+      "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
     },
     {
       "added_at": "2025-03-07 09:12:13",
@@ -775,22 +791,6 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "platland",
-        "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 206590,
-      "name": "platland",
-      "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
-    },
-    {
-      "added_at": "2025-03-07 09:12:13",
-      "album": {
         "name": "BOM",
         "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-03-07 09:12:13",
       "album": {
-        "name": "Dag en Nacht",
-        "url": "https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ"
+        "name": "Blijf Maar Zitten",
+        "url": "https://open.spotify.com/album/0XqFNh4lPuxE0caEm6B5Yi"
       },
       "artists": [
         {
-          "name": "YRSA",
-          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
+          "name": "FULCO",
+          "url": "https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt"
         }
       ],
-      "duration_ms": 219357,
-      "name": "Dag en Nacht",
-      "url": "https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV"
+      "duration_ms": 180146,
+      "name": "Blijf Maar Zitten",
+      "url": "https://open.spotify.com/track/2Im5y148VhyId6QP2Theig"
     }
   ],
   "unique_name": "indiepuntnl",

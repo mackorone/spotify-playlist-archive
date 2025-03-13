@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,029 songs - 2 day 15 hr 12 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,032 songs - 2 day 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1037,5 +1037,8 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1027 | [Battlefield](https://open.spotify.com/track/2Y0DLfSAncXNhn2tOjmvSD) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 1:54 |
 | 1028 | [Pieces Of You](https://open.spotify.com/track/5bQrrbXqR6MDnuyYYuoq7S) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:48 |
 | 1029 | [Song to the Siren ft\. Courtney Love](https://open.spotify.com/track/4ebM8xnMGL0JYU6F9Lp6iy) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Courtney Love](https://open.spotify.com/artist/4vI0xGbQl2cMnMiagUEBOj) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 2:59 |
+| 1030 | [Wine & Spirits](https://open.spotify.com/track/02iwkyyf6rSZPAe0NQOcjL) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:15 |
+| 1031 | [Blue Velvet](https://open.spotify.com/track/6AzdnFpMk4WzVvX85uVqsx) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:36 |
+| 1032 | [Body](https://open.spotify.com/track/3lRh3BAgwNXBJ6tjtvc6ZF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:30 |
 
-Snapshot ID: `AAAIywrSBnOTaTNluGA7xOXU9YUgOPfI`
+Snapshot ID: `AAAIzile1+pey5UAd10Cfa3OjBB65GwE`

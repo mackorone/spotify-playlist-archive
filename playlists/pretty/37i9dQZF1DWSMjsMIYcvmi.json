@@ -1,6 +1,6 @@
 {
   "description": "Hey (office) DJ, turn the music up! \ud83d\udc69\u200d\ud83d\udcbb",
-  "num_followers": 21737,
+  "num_followers": 21743,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Garden Of Eden",
+      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -919,18 +935,18 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -951,38 +967,6 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Garden Of Eden",
-      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
         "name": "It's ok I'm ok",
         "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -1075,6 +1075,22 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2025-03-10 09:14:14",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
+    },
+    {
+      "added_at": "2025-03-10 09:14:14",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn"
     },
     {
       "added_at": "2025-03-10 09:14:14",
@@ -1195,22 +1211,6 @@
       "duration_ms": 247578,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
-    },
-    {
-      "added_at": "2025-03-10 09:14:14",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 146216,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu"
     }
   ],
   "unique_name": "9 to 5",

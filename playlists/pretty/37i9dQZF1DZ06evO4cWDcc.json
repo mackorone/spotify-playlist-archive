@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 316595,
+  "num_followers": 316633,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABGA/mxQ4zF3jhKsUGekoHZ",
+  "snapshot_id": "Z899AAAAAAAKTzmRlWU4I1vJw3TZb2A9",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 106213,
-      "name": "Farther Up the Road",
-      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 307453,
       "name": "Pali Gap",
       "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 106213,
+      "name": "Farther Up the Road",
+      "url": "https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj"
     },
     {
       "added_at": null,
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Things I Used to Do",
-      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
+      "duration_ms": 234866,
+      "name": "Sweet Angel",
+      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 284333,
       "name": "Dolly Dagger",
       "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
     },
     {
       "added_at": null,
@@ -532,25 +532,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Sweet Angel",
-      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Straight Ahead - Takes 1 & 2",
-      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+      "duration_ms": 221360,
+      "name": "Things I Used to Do",
+      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 249920,
       "name": "Ezy Ryder",
       "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Straight Ahead - Takes 1 & 2",
+      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Monterey",
-        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 426613,
-      "name": "Like A Rolling Stone - Live At Monterey",
-      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 426613,
+      "name": "Like A Rolling Stone - Live At Monterey",
+      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 104973,
-      "name": "Villanova Junction Blues",
-      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
+      "duration_ms": 219573,
+      "name": "Hey Gypsy Boy",
+      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 475373,
-      "name": "Georgia Blues",
-      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+      "duration_ms": 171973,
+      "name": "Astro Man - Takes 9 & 10",
+      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
     },
     {
       "added_at": null,
@@ -740,9 +740,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Hey Gypsy Boy",
-      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+      "duration_ms": 104973,
+      "name": "Villanova Junction Blues",
+      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
     },
     {
       "added_at": null,
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Astro Man - Takes 9 & 10",
-      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
+      "duration_ms": 234346,
+      "name": "Night Bird Flying - Alternate Version",
+      "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
     },
     {
       "added_at": null,
@@ -791,26 +807,6 @@
       "duration_ms": 576360,
       "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
       "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
-        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
-      },
-      "artists": [
-        {
-          "name": "Curtis Knight & The Squires",
-          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
-        },
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fool for You Baby (feat. Jimi Hendrix)",
-      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

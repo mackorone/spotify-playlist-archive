@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 166532,
+  "num_followers": 166535,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAA6LuLTq5meyzMGIV9OPN4N",
+  "snapshot_id": "Z899AAAAAAA1tlhKyTkegXi4eGrfVKjd",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "STAND-ALONE",
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "escalate",
         "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 233045,
       "name": "800",
       "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "STAND-ALONE",
-      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
-      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9065\u304b / 800 / End of All / Ref:rain -3 nuits ver.-",
         "url": "https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 219066,
       "name": "End of All",
       "url": "https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
     },
     {
       "added_at": null,

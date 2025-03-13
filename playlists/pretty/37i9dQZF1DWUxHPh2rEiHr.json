@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Ela Taubert & Joe Jonas ",
-  "num_followers": 498735,
+  "num_followers": 498724,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
         "name": "I Adore You (with J Balvin & Ellie Goulding)",
         "url": "https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 180000,
       "name": "I Adore You (with J Balvin & Ellie Goulding)",
       "url": "https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 116492,
-      "name": "Callin' U (Tamally Maak)",
-      "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
+        "name": "WOLEDTO",
+        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 116492,
+      "name": "Callin' U (Tamally Maak)",
+      "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
         "name": "Love Me Back (Fayahh Beat)",
         "url": "https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s"
       },
@@ -1543,38 +1559,6 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
-        "name": "Look Who's Laughing Now",
-        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Look Who's Laughing Now",
-      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2025-02-25 19:01:44",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2025-02-25 19:01:44",
       "album": {
-        "name": "Smeraldo Garden Marching Band (feat. Loco)",
-        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
-    },
-    {
-      "added_at": "2025-02-25 19:01:44",
-      "album": {
         "name": "Wanna Be (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "added_at": "2025-02-25 19:01:44",
+      "album": {
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
       "added_at": "2025-02-25 19:01:44",

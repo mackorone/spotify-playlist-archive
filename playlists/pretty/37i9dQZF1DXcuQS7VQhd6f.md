@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,708 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,821 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 55 | [My Life Is In Your Hands](https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:35 |
 | 56 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 57 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
-| 58 | [Just Want to Praise You](https://open.spotify.com/track/6EstomtQJkk4F0pS6qX5NS) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [By His Grace](https://open.spotify.com/album/2fTG48qA2oQ7Ap8D7eTsxU) | 4:59 |
+| 58 | [Stand](https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:20 |
 | 59 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
-| 60 | [Stand](https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:20 |
+| 60 | [Just Want to Praise You](https://open.spotify.com/track/6EstomtQJkk4F0pS6qX5NS) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [By His Grace](https://open.spotify.com/album/2fTG48qA2oQ7Ap8D7eTsxU) | 4:59 |
 | 61 | [Encourage Yourself](https://open.spotify.com/track/6G7VwsjxNBPjCyPmzrUS2R) | [Sheri Jones\-Moffett](https://open.spotify.com/artist/0p4g6nQShPxtibUdD45Euz) | [Renewed](https://open.spotify.com/album/1HV7nwX73bMeQxJgEZ8uQT) | 5:45 |
 | 62 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
 | 63 | [Imagine Me](https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 5:18 |

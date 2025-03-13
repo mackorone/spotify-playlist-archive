@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,594 likes - 348 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,595 likes - 348 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 88 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/6pz1iqWlBwYXiAzJB7OAZY) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:09 |
 | 89 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
 | 90 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 91 | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/track/5CuMr1KC8oMHIBbyduLqI5) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/album/3cTOYq7PwnToTmevhPJ67K) | 2:48 |
-| 92 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 91 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 92 | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/track/5CuMr1KC8oMHIBbyduLqI5) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Feelings \(Wifey\) \[feat\. Yungen\]](https://open.spotify.com/album/3cTOYq7PwnToTmevhPJ67K) | 2:48 |
 | 93 | [All I See](https://open.spotify.com/track/6VhmDvsNXnJKDw1vE0ZCPE) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [All I See](https://open.spotify.com/album/3EWixUkrWkl2lLAzXyFi9Y) | 3:30 |
 | 94 | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/track/0na0lYafx97flwjhS0dNIR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [My Love 4 U \(feat\. A\*M\*E\)](https://open.spotify.com/album/1LbJj3VpL4nL4xOjX4aCdb) | 3:06 |
 | 95 | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/track/36h65e9IteCo7PPvkBZUyl) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/album/3Yv1WJDoIjO4zI1y3Ypr92) | 2:47 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 151 | [We the Generation \(feat\. Mahalia\)](https://open.spotify.com/track/0viAOwad3URSgmJwF5ZSZ7) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 3:41 |
 | 152 | [Children](https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:41 |
 | 153 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
-| 154 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
-| 155 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 154 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 155 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
 | 156 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 |
 | 157 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |
 | 158 | [Time](https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:46 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 347 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 348 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbrzKAAAAABlZRl9hNI/lpv4EvJltOGB`
+Snapshot ID: `Abr4yAAAAADQ4Qkx0q2Dvc1a8V/8V66D`

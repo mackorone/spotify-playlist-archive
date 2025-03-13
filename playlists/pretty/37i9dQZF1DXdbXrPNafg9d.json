@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Yeule",
-  "num_followers": 1290404,
+  "num_followers": 1290449,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9eAAAAACgFcOx20d6Xw9ZujBAJl0F",
+  "snapshot_id": "Z9H6XwAAAABsbz3jk6jOVlyV19lxxM3K",
   "tracks": [
     {
       "added_at": "2025-03-07 05:00:40",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC"
     },
     {
+      "added_at": "2025-03-12 21:19:27",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "duration_ms": 176079,
+      "name": "Partly Get By",
+      "url": "https://open.spotify.com/track/5u4C0rTo9aGye7kVMH02oL"
+    },
+    {
       "added_at": "2025-03-07 05:00:40",
       "album": {
         "name": "Spackle",
@@ -171,6 +187,26 @@
       "duration_ms": 246288,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG"
+    },
+    {
+      "added_at": "2025-03-12 21:19:27",
+      "album": {
+        "name": "All Worlds",
+        "url": "https://open.spotify.com/album/0TQsFDYAoApv5HDz8lkSBm"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        },
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 277846,
+      "name": "Kokiri",
+      "url": "https://open.spotify.com/track/3xkVY989NT6xF9JeFI0Ir2"
     },
     {
       "added_at": "2025-03-07 05:00:40",
@@ -407,6 +443,22 @@
       "duration_ms": 159068,
       "name": "Animal Death Already Breathing",
       "url": "https://open.spotify.com/track/2k2USr0srRydgTSilsEz4r"
+    },
+    {
+      "added_at": "2025-03-12 21:19:27",
+      "album": {
+        "name": "Heaven Is In You",
+        "url": "https://open.spotify.com/album/2qYOyc7d7fVsClHMkZaN97"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 176687,
+      "name": "Arm Candy",
+      "url": "https://open.spotify.com/track/3CSqfRdSEatLd9BOkEmczX"
     },
     {
       "added_at": "2025-03-07 05:00:40",
@@ -2447,22 +2499,6 @@
       "duration_ms": 179821,
       "name": "BGR",
       "url": "https://open.spotify.com/track/1k3PeczcuViHNJfOBPyuIA"
-    },
-    {
-      "added_at": "2025-02-14 05:00:17",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 177781,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb"
     },
     {
       "added_at": "2025-02-14 05:00:17",

@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 726513,
+  "num_followers": 726591,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAB00/YFOHwhcBgsLYLgOfYl",
+  "snapshot_id": "Z899AAAAAAAJsQr9s0olH6155HyV/zzD",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "He Wasn't",
-      "url": "https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody's Home",
         "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 170533,
       "name": "Knockin' on Heaven's Door - Studio Version",
       "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 189200,
       "name": "The Best Damn Thing",
       "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "He Wasn't",
+      "url": "https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+      "duration_ms": 234133,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 234133,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ambitions",
         "url": "https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 218992,
       "name": "Listen (featuring Avril Lavigne)",
       "url": "https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
     },
     {
       "added_at": null,

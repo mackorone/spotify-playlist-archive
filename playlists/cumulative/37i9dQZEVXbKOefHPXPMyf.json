@@ -10654,7 +10654,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 122037,
       "name": "check",
       "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
@@ -21457,6 +21457,24 @@
     },
     {
       "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363066,
+      "name": "Forty Six & 2",
+      "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r"
+    },
+    {
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -21776,7 +21794,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -31054,7 +31072,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 214219,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/4mJYjmCeiuYarCtAc26VyS"

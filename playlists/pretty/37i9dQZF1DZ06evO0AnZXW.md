@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,962,690 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,962,670 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 26 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
 | 27 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
 | 28 | [Triumph](https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:46 |
-| 29 | [what are you so afraid of](https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:30 |
-| 30 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 |
+| 29 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 |
+| 30 | [what are you so afraid of](https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:30 |
 | 31 | [RIP Roach](https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 2:49 |
 | 32 | [HEARTEATER](https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:16 |
-| 33 | [I don't let go](https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:01 |
-| 34 | [hate will never win](https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:43 |
+| 33 | [hate will never win](https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:43 |
+| 34 | [I don't let go](https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:01 |
 | 35 | [Arms Around You \(feat\. Maluma & Swae Lee\)](https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Arms Around You \(feat\. Maluma & Swae Lee\)](https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO) | 3:18 |
 | 36 | [WingRiddenAngel](https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:46 |
-| 37 | [King](https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:52 |
-| 38 | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:44 |
+| 37 | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:44 |
+| 38 | [King](https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:52 |
 | 39 | [numb the pain](https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 1:22 |
 | 40 | [difference \(interlude\)](https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:16 |
 | 41 | [Teeth \(Interlude\)](https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Teeth \(Interlude\)](https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb) | 1:34 |
 | 50 | [Off the Wall!](https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 3:23 |
 
-Snapshot ID: `Z8zaAAAAAACdOQ5QPGwABQukOMHWPEnj`
+Snapshot ID: `Z899AAAAAAAZM2LIrGUsaofXCVEftcif`

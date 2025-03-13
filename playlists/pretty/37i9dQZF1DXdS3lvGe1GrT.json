@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Uwade",
-  "num_followers": 87378,
+  "num_followers": 87480,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8mx6AAAAACTtYkJl8m3DY8evzEBgZRk",
+  "snapshot_id": "Z9HbnAAAAACrA7xd9RmemEvKjEz6500L",
   "tracks": [
+    {
+      "added_at": "2025-03-12 16:00:19",
+      "album": {
+        "name": "Buzzcut",
+        "url": "https://open.spotify.com/album/6DmbPKuaUH1ewkaHK0jrxF"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "duration_ms": 271969,
+      "name": "Buzzcut",
+      "url": "https://open.spotify.com/track/4g8YcZKdulqMoOl5giupxJ"
+    },
     {
       "added_at": "2025-02-26 17:00:19",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 255000,
       "name": "Sedona",
       "url": "https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG"
+    },
+    {
+      "added_at": "2025-03-12 19:08:12",
+      "album": {
+        "name": "See You Around",
+        "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "See You Around",
+      "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
+    },
+    {
+      "added_at": "2025-03-12 16:00:19",
+      "album": {
+        "name": "Blurring Time",
+        "url": "https://open.spotify.com/album/5V8CQQ5ZioyFbHId6xijCk"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "duration_ms": 146175,
+      "name": "Blurring Time",
+      "url": "https://open.spotify.com/track/1P8E9GntMtRnKQttcy0vTp"
+    },
+    {
+      "added_at": "2025-03-12 16:00:19",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4lcj7hpxKJKgJ1lg6X4dlm"
+      },
+      "artists": [
+        {
+          "name": "Chiara Parravicini",
+          "url": "https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas"
+        }
+      ],
+      "duration_ms": 200587,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7IHdnAkDfuESyMpdX7mlhn"
     },
     {
       "added_at": "2025-03-06 14:32:08",
@@ -55,6 +119,22 @@
       "duration_ms": 153839,
       "name": "Junkyard Dog",
       "url": "https://open.spotify.com/track/6P1R66lnlGL2Q1lqmAOwc5"
+    },
+    {
+      "added_at": "2025-03-12 16:00:19",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/0o2uAIV3BtMNvpNoexquqq"
+      },
+      "artists": [
+        {
+          "name": "Alyson McNamara",
+          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
+        }
+      ],
+      "duration_ms": 207628,
+      "name": "New",
+      "url": "https://open.spotify.com/track/3RLIN2s5AonHu5TGsV8MBg"
     },
     {
       "added_at": "2025-02-26 17:00:19",
@@ -103,6 +183,22 @@
       "duration_ms": 242386,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2kWqj2m1OKkp83pDdN1GQY"
+    },
+    {
+      "added_at": "2025-03-12 16:00:19",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/404xrGahuBDRoRbNfg87dY"
+      },
+      "artists": [
+        {
+          "name": "Hannah Everingham",
+          "url": "https://open.spotify.com/artist/6WFcf3GiyMdSCF1PdUhUXI"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/02zFiJ5nMpGQsQCQwkR17e"
     },
     {
       "added_at": "2025-03-06 14:32:08",
@@ -1515,22 +1611,6 @@
       "duration_ms": 152158,
       "name": "never disappear",
       "url": "https://open.spotify.com/track/4ZI2p1lrbjhPSYvv9unbsl"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "David",
-        "url": "https://open.spotify.com/album/2E30ZuCKqtcIKj6F31cGJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Lucier",
-          "url": "https://open.spotify.com/artist/5fqAKTeGBFD1bdZhEJ3CJl"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "David",
-      "url": "https://open.spotify.com/track/4PbLDIXUSYF9rwNg86Jt8i"
     },
     {
       "added_at": "2025-01-15 17:00:22",

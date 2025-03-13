@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,889 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,030 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 39 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 |
 | 40 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 41 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
-| 42 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 |
-| 43 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
+| 42 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
+| 43 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 |
 | 44 | [シカ色デイズ](https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD) | [鹿乃子のこ \(CV.潘めぐみ\)](https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN), [虎視虎子 \(CV.藤田 咲\)](https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd), [虎視餡子 \(CV.田辺留依\)](https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT), [馬車芽めめ \(CV.和泉風花\)](https://open.spotify.com/artist/73326vNByOtmvaXTJryL19) | [シカ色デイズ](https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG) | 3:21 |
 | 45 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 46 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [Yoshiki](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 76 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 |
 | 77 | [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 |
 | 78 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
-| 79 | [傍若のカリスマ](https://open.spotify.com/track/6ubI9ALQi6TQYZm7tVPDAi) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [傍若のカリスマ](https://open.spotify.com/album/6D0tjjeezuKCQbAyiGILDj) | 4:25 |
-| 80 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 |
-| 81 | [Only One Story](https://open.spotify.com/track/1mcNZCvco4Vh7gmaxLy1Vr) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story](https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp) | 3:39 |
-| 82 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
-| 83 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
-| 84 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
+| 79 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 |
+| 80 | [傍若のカリスマ](https://open.spotify.com/track/6ubI9ALQi6TQYZm7tVPDAi) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [傍若のカリスマ](https://open.spotify.com/album/6D0tjjeezuKCQbAyiGILDj) | 4:25 |
+| 81 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
+| 82 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
+| 83 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
+| 84 | [Only One Story](https://open.spotify.com/track/1mcNZCvco4Vh7gmaxLy1Vr) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story](https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp) | 3:39 |
 | 85 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 |
 | 86 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 |
 | 87 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 92 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
 | 93 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
 | 94 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
-| 95 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
-| 96 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
-| 97 | [イエスタデイ](https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/0AcDdZ01F1DSv6XSvLunkb) | 4:59 |
-| 98 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
-| 99 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 |
+| 95 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
+| 96 | [イエスタデイ](https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/0AcDdZ01F1DSv6XSvLunkb) | 4:59 |
+| 97 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
+| 98 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 |
+| 99 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
 | 100 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 |
 
 Snapshot ID: `Z73vLAAAAAB83r/yBGQu7QkKMr9O2dNn`

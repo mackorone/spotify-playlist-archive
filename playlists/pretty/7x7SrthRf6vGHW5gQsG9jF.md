@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 833 songs - 2 day 5 hr 20 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 845 songs - 2 day 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -841,5 +841,17 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 831 | [Hold Me](https://open.spotify.com/track/2qz1earowX9HgKQiwUyE2M) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Loading...](https://open.spotify.com/album/4ybgu5jjrqmTiqh8i3NfPr) | 4:16 |
 | 832 | [apricot sun](https://open.spotify.com/track/0I3HmHZKgYk0tyAtBS7KXC) | [36g](https://open.spotify.com/artist/5XXGclleBXB5sjxRVwYTwN) | [The raingazer's song](https://open.spotify.com/album/06txe8ED5uPOIekcKUtfEs) | 4:09 |
 | 833 | [Drop](https://open.spotify.com/track/2Wj3ULjIa0g82rhbwOTKGF) | [Marmalade butcher](https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi) | [Waltz for chroma](https://open.spotify.com/album/7ESdU5zTRRCZPJ1Ekw90jq) | 1:52 |
+| 834 | [夜のたわむれ](https://open.spotify.com/track/5uFM38S4k7ZXxUGg7CSMaF) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [夜のたわむれ](https://open.spotify.com/album/79RxkJm4Zjbjcbn4O3J2fD) | 3:59 |
+| 835 | [FaceID](https://open.spotify.com/track/2IA4zaiGFZarbaF4tZWraN) | [gaburyu](https://open.spotify.com/artist/7LNFEb2Axhj6CMHx3coSZc), [iboibo](https://open.spotify.com/artist/7xWWbtSQNQIfBt4VDouTH8), [somunia](https://open.spotify.com/artist/6OduXXk2Xvxkfe9QG5upcc), [yaca](https://open.spotify.com/artist/6bOI44vIWQPwNzm0ORkK8Q) | [条理加速の片隅、彼女と想像の中身に関する行方](https://open.spotify.com/album/2fFfmUr2BXCmpsx6vA9YDr) | 1:54 |
+| 836 | [桜流し](https://open.spotify.com/track/2TQsZUVhevVTtNUil5JoJv) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Fantome](https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS) | 4:40 |
+| 837 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 |
+| 838 | [PONPONPON](https://open.spotify.com/track/4bQrS8lhD0GKkWxcycbBzA) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 4:02 |
+| 839 | [リナリア](https://open.spotify.com/track/6CDwwQF6WjyiYf2YRwjtFk) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [リナリア](https://open.spotify.com/album/6nHcxKC13BVATxDD5IGkRi) | 3:51 |
+| 840 | [青春狂騒曲](https://open.spotify.com/track/3zE6YLb2IBb8NriBuuXWQd) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [サンボマスターは君に語りかける](https://open.spotify.com/album/7jOQKynuTihfn4eDgwhAav) | 4:46 |
+| 841 | [Sakura Biyori and Time Machine with Hatsune Miku](https://open.spotify.com/track/6gX8ADfHTphQg4h2FiOAlB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Sakura Biyori and Time Machine with Hatsune Miku / Shoka](https://open.spotify.com/album/0CN8S0o5lA55IK8IMwxnVg) | 5:31 |
+| 842 | [Kareru](https://open.spotify.com/track/7F7pyDY7EDiSg51jz3tM6E) | [Annabel](https://open.spotify.com/artist/5W0JUdTpRRurSqR61yJNNc) | [slow light, slow glass](https://open.spotify.com/album/012JtGTfOu4KgcGb2cQZ5k) | 3:14 |
+| 843 | [Freiheit](https://open.spotify.com/track/5Jl2Zy0tFajj1stlKRaLZt) | [DIGM](https://open.spotify.com/artist/2CO7BHHd3z8JRHyguv8GDs) | [Freiheit](https://open.spotify.com/album/3VNkqXhcLoeUSRjPSAZBy6) | 3:31 |
+| 844 | [Everywhere](https://open.spotify.com/track/5xvIn9HsyGAGVlqwhdgHb5) | [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Everywhere](https://open.spotify.com/album/3AkYtIIYIdzIVM3vjtYUum) | 2:54 |
+| 845 | [Blue Youth](https://open.spotify.com/track/04zTPJMXog2HpYK2mK5Wdg) | [Hikarinonakani](https://open.spotify.com/artist/7v1EcexaWSP0Ra29bQCsnm) | [Blue Youth](https://open.spotify.com/album/5fQudcd31VvtMr4IvFEWwo) | 1:48 |
 
-Snapshot ID: `AAAE0M5bj6uQXkumWt8P/zYVnrtEhe6M`
+Snapshot ID: `AAAE3kU3TxwxKGL9fwdId2wLMfwSgkuN`

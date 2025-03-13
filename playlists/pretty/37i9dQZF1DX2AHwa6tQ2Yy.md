@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,808 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,821 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 41 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
 | 42 | [No Need 2 Be Sorry, Call Me? \(ft\. Maverick Sabre\)](https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:27 |
 | 43 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 |
-| 44 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 45 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
-| 46 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
-| 47 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
+| 44 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 45 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
+| 46 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
+| 47 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
 | 48 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 |
 | 49 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
 | 50 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 265578,
+  "num_followers": 265693,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADrOTUtPiT328DhkR9gl16s",
+  "snapshot_id": "Z899AAAAAAAXNUVzKoTgXWO/rCQReD6/",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 230171,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": null,
@@ -403,42 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -459,6 +423,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 222383,
       "name": "quiero sentirme bien",
       "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Pensamientos Intrusivos",
-      "url": "https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 156037,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 179042,
       "name": "FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)",
       "url": "https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 156037,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 121145,
-      "name": "no eres tu(soy yo)",
-      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 401572,
       "name": "FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)",
       "url": "https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 121145,
+      "name": "no eres tu(soy yo)",
+      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
     },
     {
       "added_at": null,

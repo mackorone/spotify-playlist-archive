@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. ROA en portada.",
-  "num_followers": 257494,
+  "num_followers": 257487,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5QhpI19RX6S2azhCwFqt3h"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 153362,
-      "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 353544,
       "name": "WYA REMIX WHITE",
       "url": "https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5QhpI19RX6S2azhCwFqt3h"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1295,6 +1295,38 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
+        "name": "1000 cartas / dsps de un faje",
+        "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 145479,
+      "name": "1000 cartas",
+      "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "C\u00d3MO VAS?",
+        "url": "https://open.spotify.com/album/6t5PKyBAq58UiSixaqN6Fj"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 183132,
+      "name": "C\u00d3MO VAS?",
+      "url": "https://open.spotify.com/track/6zEerY9VA3ioMiBQSB0V1O"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -1327,54 +1359,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "C\u00d3MO VAS?",
-        "url": "https://open.spotify.com/album/6t5PKyBAq58UiSixaqN6Fj"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 183132,
-      "name": "C\u00d3MO VAS?",
-      "url": "https://open.spotify.com/track/6zEerY9VA3ioMiBQSB0V1O"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
-        "name": "1000 cartas / dsps de un faje",
-        "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 145479,
-      "name": "1000 cartas",
-      "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
-        "name": "posta",
-        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 121290,
-      "name": "posta",
-      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "posta",
+        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 121290,
+      "name": "posta",
+      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
-      },
-      "artists": [
-        {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2025-03-07 06:00:22",

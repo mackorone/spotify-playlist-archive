@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442,025 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,442,375 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 56 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 57 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 4:23 |
 | 58 | [Lost in a Wave](https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Lost in the Waves](https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt) | 3:44 |
-| 59 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 |
+| 59 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |
 | 60 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 61 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |
+| 61 | [Overdose \- feat\. Blindside](https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Overdose \(feat\. Blindside\)](https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi) | 3:07 |
 | 62 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 |
 | 63 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
 | 64 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 69 | [Denial](https://open.spotify.com/track/25LbeGnYJuqbkxqc8VyhTs) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Home](https://open.spotify.com/album/0oSbjRKcORa1iN2wTcQYqf) | 4:17 |
 | 70 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
 | 71 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 |
-| 72 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 |
-| 73 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
+| 72 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
+| 73 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 |
 | 74 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 |
 | 75 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 76 | [AFRAID TO DIE \(feat\. Tatiana Shmayluyk from Jinjer\)](https://open.spotify.com/track/70XQAZsck714xP80hqeUsj) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:04 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 93 | [Why Am I Like This?](https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Violent Noise](https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP) | 3:13 |
 | 94 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 |
 | 95 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
-| 96 | [Pulling Teeth](https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Pulling Teeth](https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ) | 3:20 |
+| 96 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
 | 97 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 |
-| 98 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
+| 98 | [Pulling Teeth](https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Pulling Teeth](https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ) | 3:20 |
 | 99 | [MANTRA](https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [MANTRA](https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3) | 3:53 |
 | 100 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |
 

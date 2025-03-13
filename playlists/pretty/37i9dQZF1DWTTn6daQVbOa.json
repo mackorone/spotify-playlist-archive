@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 864571,
+  "num_followers": 864761,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 326320,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Blue Moves",
-        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "The Manhattans (Expanded Version)",
-        "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Kiss and Say Goodbye",
-      "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
-    },
-    {
       "added_at": "2024-12-27 17:35:00",
       "album": {
         "name": "Seasons In The Sun (Expanded Edition)",
@@ -1407,18 +1391,34 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "A Night on the Town",
-        "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
+        "name": "The Manhattans (Expanded Version)",
+        "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
         }
       ],
-      "duration_ms": 271200,
-      "name": "The First Cut Is the Deepest",
-      "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
+      "duration_ms": 266733,
+      "name": "Kiss and Say Goodbye",
+      "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+      },
+      "artists": [
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+        "name": "A Night on the Town",
+        "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
       },
       "artists": [
         {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+      "duration_ms": 271200,
+      "name": "The First Cut Is the Deepest",
+      "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 264266,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "The Man with the Child in His Eyes",
-      "url": "https://open.spotify.com/track/4xjVfArXNQRxAvsUpjmfMt"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rose Royce III: Strikes Again!",
         "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 238306,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "The Man with the Child in His Eyes",
+      "url": "https://open.spotify.com/track/4xjVfArXNQRxAvsUpjmfMt"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Let Me In Your Life",
         "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 208466,
       "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
       "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
     },
     {
       "added_at": "2022-09-23 05:26:33",

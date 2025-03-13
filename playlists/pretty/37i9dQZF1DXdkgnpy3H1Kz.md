@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,471 likes - 44 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,480 likes - 44 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

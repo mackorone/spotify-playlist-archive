@@ -4,7 +4,7 @@
 
 > 2012 highlights from the home of indie music.
 
-194 songs - 12 hr 12 min
+195 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Insane feat\. Moon Holiday](https://open.spotify.com/track/7gqKkrzG5OV1CLViOaXSay) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Moon Holiday](https://open.spotify.com/artist/5HAqdulyJZF8EPKIvPMRTy) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:33 | 2022-05-19 | 2024-04-19 |
 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 | 2022-05-19 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2022-05-19 |  |
+| [Kill For Love](https://open.spotify.com/track/4jhdcYyWYx6d60j60OQDCa) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Kill for Love](https://open.spotify.com/album/5Rz4NIqwoYGDbIh40UTylV) | 3:57 | 2024-03-18 |  |
 | [Lazuli](https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 5:01 | 2024-03-18 |  |
 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 | 2022-05-19 | 2024-04-19 |
 | [Let’s Go](https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH) | 3:30 | 2022-05-19 |  |
@@ -139,7 +140,7 @@
 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2022-05-19 |  |
 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 | 2022-05-19 | 2024-04-19 |
 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 | 2024-03-18 |  |
-| [Ode to Viceroy](https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:53 | 2024-03-18 |  |
+| [Ode to Viceroy](https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:53 | 2024-03-18 | 2025-03-13 |
 | [Ode to Viceroy](https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:53 | 2022-05-19 | 2024-04-19 |
 | [On Top \(feat\. T\-Shirt\)](https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:51 | 2022-05-19 | 2024-02-14 |
 | [On Top \(feat\. T\-Shirt\)](https://open.spotify.com/track/6nX7vTBehiIIwcwzS5BrmE) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [T\-Shirt](https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:51 | 2022-05-19 | 2024-03-19 |

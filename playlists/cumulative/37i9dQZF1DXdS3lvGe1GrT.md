@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
 
-1,582 songs - 3 day 22 hr 24 min
+1,588 songs - 3 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Blow Wind Blow](https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX) | [Jordan Lehning](https://open.spotify.com/artist/4TJq86PFfl12FBpxk5FS7O) | [Blow Wind Blow](https://open.spotify.com/album/6MiDRCah5wxJOOsCBp8sE2) | 3:18 | 2025-01-22 |  |
 | [Blue Thread](https://open.spotify.com/track/5B3mFQrx9uH2ThAbBzoSe7) | [Ben Garnett](https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Blue Thread](https://open.spotify.com/album/4b58AwOV1YJneW4fydnWHQ) | 3:57 | 2023-02-15 | 2023-03-30 |
 | [Blueberry Roan](https://open.spotify.com/track/129PyNIvFZTnvE6CMvdvEA) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Blueberry Roan](https://open.spotify.com/album/6GtAJ9jVdoGYMKbPCU5IWj) | 4:09 | 2024-01-17 | 2024-03-07 |
+| [Blurring Time](https://open.spotify.com/track/1P8E9GntMtRnKQttcy0vTp) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/5V8CQQ5ZioyFbHId6xijCk) | 2:26 | 2025-03-12 |  |
 | [Bobcaygeon](https://open.spotify.com/track/31feq1aRhqlapMfQm9kJaS) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV), [T\. Buckley](https://open.spotify.com/artist/3uMfRdAAdTRyi0Kg2qCxmo) | [Bobcaygeon](https://open.spotify.com/album/412zp56YbUqDxziYXAAVRX) | 4:37 | 2023-01-11 | 2023-02-16 |
 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-10-18 | 2023-12-11 |
 | [Bone](https://open.spotify.com/track/4wYs9MjgRTArLXJCEqN87k) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bone](https://open.spotify.com/album/2gVPQYKwnLBN0aaXeMT8b1) | 2:56 | 2023-04-12 | 2023-06-08 |
@@ -223,6 +224,7 @@
 | [But I Want More](https://open.spotify.com/track/1d7H0Xiau1rkzj8u78W7RP) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [Through The Window](https://open.spotify.com/album/5KCpi1B9uh0NCMJ4HWeZEV) | 5:28 | 2024-06-12 | 2024-08-22 |
 | [but then i just stopped growing](https://open.spotify.com/track/4Q6PWBtCwVE6hzsWJdbzoL) | [Portra](https://open.spotify.com/artist/6pkTpw086gZWWdx3guBUCe) | [but then i just stopped growing](https://open.spotify.com/album/4bv6jWjr4ULR2C7wI7UzMa) | 2:37 | 2023-07-12 | 2023-09-15 |
 | [Butterfly Song](https://open.spotify.com/track/6JuB5cewTiFUzvYRrD5FuE) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [CRACK A SMILE COME ON STAY A WHILE](https://open.spotify.com/album/3MCABaEqPmI82mgE6OVYoB) | 2:56 | 2024-08-07 | 2025-01-16 |
+| [Buzzcut](https://open.spotify.com/track/4g8YcZKdulqMoOl5giupxJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Buzzcut](https://open.spotify.com/album/6DmbPKuaUH1ewkaHK0jrxF) | 4:31 | 2025-03-12 |  |
 | [Cafe Du Monde](https://open.spotify.com/track/08s1bWzjQY7zrszcXk0heZ) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Cafe Du Monde](https://open.spotify.com/album/1TPctzBJR77bATX80jyFLw) | 3:11 | 2023-05-17 | 2023-07-13 |
 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-01-24 | 2025-01-16 |
 | [Calgary Skyline](https://open.spotify.com/track/5b650x4FrY2CiIw9LLcopY) | [Peach & Quiet](https://open.spotify.com/artist/1k9yLhNPTAVPf1R03eUnbc) | [Calgary Skyline](https://open.spotify.com/album/4TDb5JSdVdgXQY9cddv5WG) | 3:22 | 2023-01-11 | 2023-03-02 |
@@ -340,7 +342,7 @@
 | [Darlin’](https://open.spotify.com/track/7wgfoPchQkxKD8H6qNRi2x) | [Flour](https://open.spotify.com/artist/5iYAsFJkWN0bcybJDdnstE) | [Darlin’](https://open.spotify.com/album/4zOrvad2xbxqR8iy5dDo1o) | 4:14 | 2023-06-07 | 2024-01-11 |
 | [Date Night at Daddy Joe's](https://open.spotify.com/track/7HgoZbwo2u4obD00htOZE4) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Date Night at Daddy Joe's](https://open.spotify.com/album/2pPdJJ7vwmxt61GmQofm0u) | 2:06 | 2023-03-01 | 2023-03-30 |
 | [Dave](https://open.spotify.com/track/7o3Q82Yb6whC6shTgAz5Or) | [Ray](https://open.spotify.com/artist/1Nt2hBKPlqqZ2IGyu0XlLb) | [Someone's speaking](https://open.spotify.com/album/25UP2JDlEZR8zBnF9Sotit) | 2:38 | 2024-12-04 | 2025-01-16 |
-| [David](https://open.spotify.com/track/4PbLDIXUSYF9rwNg86Jt8i) | [Andrew Lucier](https://open.spotify.com/artist/5fqAKTeGBFD1bdZhEJ3CJl) | [David](https://open.spotify.com/album/2E30ZuCKqtcIKj6F31cGJB) | 3:46 | 2025-01-15 |  |
+| [David](https://open.spotify.com/track/4PbLDIXUSYF9rwNg86Jt8i) | [Andrew Lucier](https://open.spotify.com/artist/5fqAKTeGBFD1bdZhEJ3CJl) | [David](https://open.spotify.com/album/2E30ZuCKqtcIKj6F31cGJB) | 3:46 | 2025-01-15 | 2025-03-13 |
 | [Dawn](https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [Dawn](https://open.spotify.com/album/22i1EuwuPIc25Z5E8zKdzB) | 4:13 | 2024-03-20 | 2024-06-06 |
 | [Daydream](https://open.spotify.com/track/0E12FUPGpS0DYu6C1zegiu) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 4:03 | 2023-02-08 | 2023-03-16 |
 | [Daydream](https://open.spotify.com/track/2Mh9ifVSvGj6l80ZPi9o7Q) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Daydream](https://open.spotify.com/album/4bTMGUi39C1EEMJW8Fmpbd) | 4:03 | 2023-01-25 | 2023-02-13 |
@@ -929,6 +931,7 @@
 | [Meet Me In The Middle](https://open.spotify.com/track/3YzBYRceMfEMjKavekA6Lv) | [Wezn](https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf) | [Meet Me In The Middle](https://open.spotify.com/album/5ITmYXwPwbgWllhVFQMtGh) | 4:16 | 2024-02-07 | 2024-04-11 |
 | [Megachurch](https://open.spotify.com/track/5tXkuObswa1uxjKoQaZhHf) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Megachurch](https://open.spotify.com/album/1LnMJUIle8lLZiHHBZpy8U) | 4:12 | 2022-06-15 | 2022-09-29 |
 | [Melatonin](https://open.spotify.com/track/5k9aMP8DDSWUVBRgxMb4Er) | [Easton Kerr](https://open.spotify.com/artist/0v2X9cJOfcotMsok5yRW48), [Bridey Costello](https://open.spotify.com/artist/3tvlb1aIjr47jXRsA4i7GU) | [Melatonin](https://open.spotify.com/album/5sDzsapWKCGd1Rcd2hlM96) | 4:15 | 2022-10-26 | 2022-12-01 |
+| [Mercury](https://open.spotify.com/track/02zFiJ5nMpGQsQCQwkR17e) | [Hannah Everingham](https://open.spotify.com/artist/6WFcf3GiyMdSCF1PdUhUXI) | [Mercury](https://open.spotify.com/album/404xrGahuBDRoRbNfg87dY) | 3:21 | 2025-03-12 |  |
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-11-09 | 2022-12-01 |
 | [Mexico](https://open.spotify.com/track/7q68vzFRLwyWde8xKCDhJd) | [Callan Brown](https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu) | [Mexico](https://open.spotify.com/album/3NDzbsul6n6TAEBNDLqbVL) | 3:06 | 2024-06-26 | 2024-10-10 |
 | [Mhm Okay](https://open.spotify.com/track/7x94AlpzNuSa8oBUp96Cn8) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Mhm Okay](https://open.spotify.com/album/2UBcowpWLqB3KubRglWjBL) | 4:33 | 2023-05-10 | 2023-06-29 |
@@ -990,6 +993,7 @@
 | [Never Mine To Lose](https://open.spotify.com/track/5BGpBL5DhIIEJtxQyDjaIS) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Never Mine To Lose](https://open.spotify.com/album/2wUcSdKVC8k9y7Fh2WpStF) | 4:29 | 2023-04-20 | 2023-06-08 |
 | [Never on My Mind](https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk) | [Tobacco City](https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX) | [Tobacco City, USA](https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20) | 3:45 | 2022-11-30 | 2023-01-12 |
 | [nevermind](https://open.spotify.com/track/7dqcNwj8ZUkkUMgllYB0US) | [Maisyn](https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d) | [nevermind](https://open.spotify.com/album/4ukiTfQoW4ghQAOih5b4QE) | 3:20 | 2024-07-10 | 2024-09-19 |
+| [New](https://open.spotify.com/track/3RLIN2s5AonHu5TGsV8MBg) | [Alyson McNamara](https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby) | [New](https://open.spotify.com/album/0o2uAIV3BtMNvpNoexquqq) | 3:27 | 2025-03-12 |  |
 | [New California Blue](https://open.spotify.com/track/6qD6vbTppsgtMVIo8hB6as) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [Cookbook](https://open.spotify.com/album/3UF5qbcpJVl4M8lN3AL7qV) | 3:58 | 2022-11-30 | 2023-01-12 |
 | [New World Back](https://open.spotify.com/track/3MWPcF16vFhvIUYTfcVoyS) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Babytooth](https://open.spotify.com/album/25NEizm1s9EIs13f5jqtn5) | 3:28 | 2023-08-23 | 2023-11-11 |
 | [New Years](https://open.spotify.com/track/3iLLnKc0Oz6JTJaMYkzdrY) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC) | [New Years](https://open.spotify.com/album/4a1MoUcaJb7nsNYcSRVU5t) | 3:27 | 2024-01-17 | 2024-03-14 |
@@ -1207,6 +1211,7 @@
 | [Secrets](https://open.spotify.com/track/4e2OclvRO3w8s4VomIbfxF) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/7eHb55jHq7cPgnKquT81xs) | 4:12 | 2022-10-12 | 2023-01-12 |
 | [Sedona](https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Sedona](https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh) | 4:15 | 2025-02-26 |  |
 | [See](https://open.spotify.com/track/652icucvRa5SeZkQFUDk6w) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [See](https://open.spotify.com/album/4beTaEBzxpzUaAj2P8PBIQ) | 3:08 | 2023-01-11 | 2023-02-16 |
+| [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-03-12 |  |
 | [See You in August](https://open.spotify.com/track/0KrOgO4uvmeSHf4gjf1gHN) | [Sound of Honey](https://open.spotify.com/artist/5L6uoIDsPWkcsYmvBU49FG) | [See You in August](https://open.spotify.com/album/0Y5LuAMsBzbj9eHMMPygrx) | 3:04 | 2022-05-25 | 2022-09-09 |
 | [Seeing Clear](https://open.spotify.com/track/3ZPg7jtMtFCqQsOFN3mLE2) | [Emma Frank](https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O) | [Interiors](https://open.spotify.com/album/5h7ZJJKlbC3CvEkP5AFRwb) | 3:15 | 2023-05-17 | 2023-07-13 |
 | [Seize The Sun](https://open.spotify.com/track/2kuYksbeaWWT6nc7YhWmW1) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [I Miss the Sky](https://open.spotify.com/album/1Ffa7l8Fh6kPl4LV8KGste) | 3:39 | 2024-05-01 | 2024-07-11 |
@@ -1320,6 +1325,7 @@
 | [sunflood](https://open.spotify.com/track/2v9FhgR6POwiVPoOGxSCkG) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [sunflood](https://open.spotify.com/album/3xeaPMSPlAEUjG6jqauZ3A) | 2:46 | 2024-05-29 | 2024-07-25 |
 | [Sunken Stones](https://open.spotify.com/track/1XEqV9Q9YU8xb1AqCKTFgm) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Sunken Stones](https://open.spotify.com/album/0HI8E0TBNdtVDDtFfchJFn) | 3:45 | 2024-08-14 | 2024-12-05 |
 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 | 2023-11-15 | 2023-12-11 |
+| [Sunshine](https://open.spotify.com/track/7IHdnAkDfuESyMpdX7mlhn) | [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Sunshine](https://open.spotify.com/album/4lcj7hpxKJKgJ1lg6X4dlm) | 3:20 | 2025-03-12 |  |
 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 | 2024-05-08 | 2025-01-16 |
 | [Superman](https://open.spotify.com/track/1yn5la6jJycj0gDFlDD2wx) | [Deathcruiser](https://open.spotify.com/artist/2TsHAB2qyWpuSKBYhpRxu3) | [Superman](https://open.spotify.com/album/13uwADBU6y8sZN7JDjB24y) | 3:07 | 2023-05-10 | 2023-07-13 |
 | [Swan Dive](https://open.spotify.com/track/19N1T1fY79pLLAihd0o8gB) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [Blue Dreams](https://open.spotify.com/album/5lljRxy7hHRhUzXOSoNU29) | 4:12 | 2024-07-31 | 2024-10-17 |

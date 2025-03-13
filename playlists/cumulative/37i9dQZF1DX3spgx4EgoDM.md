@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-335 songs - 20 hr 49 min
+336 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 | 2022-07-05 | 2024-04-19 |
 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 | 2022-07-05 | 2022-07-24 |
 | [Agüita de Manantial](https://open.spotify.com/track/5xXo6JSzEPaGjfnCWzg2ic) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Agüita de Manantial](https://open.spotify.com/album/1JN2arA8WlCoJ8NlTkJCb4) | 4:06 | 2022-07-05 | 2023-04-09 |
+| [Ahora Resulta](https://open.spotify.com/track/4Kn1qDeYfuL53YJTKq4vTA) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Ahora Resulta](https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy) | 2:27 | 2025-03-07 |  |
 | [Algo Tiene](https://open.spotify.com/track/1k4ldqe6XE6Q143GsBwhfc) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:04 | 2022-07-05 | 2022-11-05 |
 | [Algo Tiene](https://open.spotify.com/track/5L5ct7rhZeYKLkb0qJn168) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A) | 3:04 | 2022-07-05 | 2022-07-29 |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2022-07-05 | 2022-07-29 |
@@ -76,7 +77,7 @@
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2022-07-05 | 2024-07-27 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/4Y9RStla12pXfmFGAqe9Wk) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Íconos 25 Éxitos](https://open.spotify.com/album/6Ab1MkKGaHwhOakjB4acNw) | 4:31 | 2022-07-05 | 2022-07-26 |
 | [De Mi Te Vas A Enamorar](https://open.spotify.com/track/6Ea63VAoVJyvXgi2XQyCk2) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:24 | 2022-07-05 | 2022-07-29 |
-| [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2024-07-26 |  |
+| [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2024-07-26 | 2025-03-13 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2022-07-05 |  |
 | [Desde Que Te Fuiste](https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Desde Que Te Fuiste](https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt) | 3:41 | 2022-07-05 |  |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2022-07-05 |  |

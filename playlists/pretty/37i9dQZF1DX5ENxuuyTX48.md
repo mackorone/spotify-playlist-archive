@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,346 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,354 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 34 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 |
 | 35 | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/0V6nKCvWMIXgsvyiSyiLPT) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/23qxIsMBrP5jSrF66At2dt) | 4:15 |
 | 36 | [AdaMu](https://open.spotify.com/track/0riZFEMGbitaVGhz0G6oD6) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [AdaMu \- Single](https://open.spotify.com/album/2A4QjaFxAGTWdnaBmdIpT2) | 3:18 |
-| 37 | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/track/4XS9LuFJPDVtMhRcusypFa) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/album/0olFjxKrvkZZRdTjxSrlfO) | 3:44 |
+| 37 | [Allah Ya Maulana](https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Allah Ya Maulana](https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi) | 3:59 |
 | 38 | [Ku Mohon](https://open.spotify.com/track/6ZypUMclVIm3YziM9cDCVR) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ku Mohon](https://open.spotify.com/album/5maxDRWhSlXbln4effsPPD) | 4:37 |
 | 39 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
-| 40 | [Allah Ya Maulana](https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Allah Ya Maulana](https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi) | 3:59 |
+| 40 | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/track/4XS9LuFJPDVtMhRcusypFa) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/album/0olFjxKrvkZZRdTjxSrlfO) | 3:44 |
 | 41 | [SurgaMu](https://open.spotify.com/track/32esdG9DqNblHD4iUKazgc) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:18 |
 | 42 | [Sahabat](https://open.spotify.com/track/1Akc1GcXsLGa8SLSJw4zUU) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sahabat \- Single](https://open.spotify.com/album/65fwfs24nGOQu5YGh4SSzz) | 3:08 |
 | 43 | [Sujud](https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Sujud](https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6) | 3:33 |
-| 44 | [Ikhlas](https://open.spotify.com/track/56UcBDMGMiDzbLilbuddxM) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Nissa Sabyan](https://open.spotify.com/artist/58FxAw8gQz34r2lewLrFZU), [Taufik Batisah](https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m) | [Ikhlas](https://open.spotify.com/album/71plkNyCVZxYzRX2vaBshv) | 4:00 |
-| 45 | [Tangisan Seorang Pendosa](https://open.spotify.com/track/7CIwjDQLUz20LlX8gf59LZ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Tangisan Seorang Pendosa](https://open.spotify.com/album/5uPak5uMBZwQCO5N4zN4Ud) | 3:31 |
+| 44 | [Tangisan Seorang Pendosa](https://open.spotify.com/track/7CIwjDQLUz20LlX8gf59LZ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Tangisan Seorang Pendosa](https://open.spotify.com/album/5uPak5uMBZwQCO5N4zN4Ud) | 3:31 |
+| 45 | [Ikhlas](https://open.spotify.com/track/56UcBDMGMiDzbLilbuddxM) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Nissa Sabyan](https://open.spotify.com/artist/58FxAw8gQz34r2lewLrFZU), [Taufik Batisah](https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m) | [Ikhlas](https://open.spotify.com/album/71plkNyCVZxYzRX2vaBshv) | 4:00 |
 | 46 | [Bulan Baik](https://open.spotify.com/track/1YyTd4LV23xFDhL0Aaktft) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Bulan Baik](https://open.spotify.com/album/7HRkyGZQHPxezmVVfzUuIu) | 3:28 |
 | 47 | [Sabar](https://open.spotify.com/track/5Ob4KA6rb4E0096Q4YCnlT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:44 |
 | 48 | [Akhirnya](https://open.spotify.com/track/6U4SJCcwA4RhcmyxKfgvWf) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Raihlah Kemenangan?](https://open.spotify.com/album/0xVo1nzVc8Uhwaz2q4mbkp) | 4:23 |

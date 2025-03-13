@@ -12,11 +12,33 @@
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "Ganavya",
+          "url": "https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307718,
+      "name": "16 Candles (feat. Ganavya)",
+      "url": "https://open.spotify.com/track/4VJbyABSDzHtZy0DxZAjLM"
+    },
+    {
+      "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 35726,
       "name": "Afternoon Tea with the Auroras (Interlude)",
       "url": "https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR"
@@ -400,7 +422,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 155094,
       "name": "Little Bird",
       "url": "https://open.spotify.com/track/5BidO02y2epLpSsOcgP8xu"
@@ -674,10 +696,28 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 334578,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0ngdWWyCMCeCkMQNwUiN9o"
+    },
+    {
+      "album": {
+        "name": "Where the Butterflies Go in the Rain (Deluxe)",
+        "url": "https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334578,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7KqAcGYfCl2LehZXodacmu"
     },
     {
       "album": {

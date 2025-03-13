@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 52769,
+  "num_followers": 52779,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADTcp0Jfct3UGuT8doK9Tyh",
+  "snapshot_id": "Z899AAAAAADQQLQNVNbwFzphU7AzeUNQ",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Prince Johnny",
-      "url": "https://open.spotify.com/track/201StFQq0nodCrsX5ysC30"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
+      "duration_ms": 276640,
+      "name": "Prince Johnny",
+      "url": "https://open.spotify.com/track/201StFQq0nodCrsX5ysC30"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Champagne Year",
-      "url": "https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Tiempos Violentos",
-      "url": "https://open.spotify.com/track/642aWXi3f2s0qVb3N3wDsa"
+      "duration_ms": 179920,
+      "name": "Bad Believer",
+      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 179920,
-      "name": "Bad Believer",
-      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
+      "duration_ms": 237029,
+      "name": "Tiempos Violentos",
+      "url": "https://open.spotify.com/track/642aWXi3f2s0qVb3N3wDsa"
     },
     {
       "added_at": null,
@@ -759,6 +743,38 @@
       "duration_ms": 222986,
       "name": "Dinner for Two",
       "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "Huey Newton",
+      "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Champagne Year",
+      "url": "https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR"
     },
     {
       "added_at": null,
@@ -795,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 277893,
-      "name": "Huey Newton",
-      "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
+      "duration_ms": 185320,
+      "name": "I Am an Ape",
+      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
     },
     {
       "added_at": null,
@@ -823,22 +843,6 @@
       "duration_ms": 199320,
       "name": "These Days",
       "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 278272,
-      "name": "Se Fue La Luz",
-      "url": "https://open.spotify.com/track/7rsj406NOY5g1gQ0oTU4mY"
     }
   ],
   "unique_name": "This Is St. Vincent",

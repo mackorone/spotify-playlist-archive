@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Yanga Chief, Riky Rick, K.O, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,169 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,178 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

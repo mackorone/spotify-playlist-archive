@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 151206,
       "name": "Deewana Tera",
       "url": "https://open.spotify.com/track/3mC4STcsop9M0ZPAeC02Y1"
@@ -6143,6 +6143,32 @@
     },
     {
       "album": {
+        "name": "Got You",
+        "url": "https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE"
+      },
+      "artists": [
+        {
+          "name": "GKhan",
+          "url": "https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Kulshaan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222864,
+      "name": "Got You",
+      "url": "https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3BIuAv9phvIqWSXhgWCfXV"
       },
@@ -6350,6 +6376,32 @@
       "duration_ms": 294591,
       "name": "Haadsa",
       "url": "https://open.spotify.com/track/0JokwEj0EIFXuCpDrLmB2A"
+    },
+    {
+      "album": {
+        "name": "Haak Maar Saddi Jatt Ne",
+        "url": "https://open.spotify.com/album/4FIng5FbD4rPrCt5tvzosl"
+      },
+      "artists": [
+        {
+          "name": "Arshaan Basaati",
+          "url": "https://open.spotify.com/artist/4OmifCCVdHwdXh41OsQD9B"
+        },
+        {
+          "name": "Kulshaan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
+        },
+        {
+          "name": "Zora Ahluwalia",
+          "url": "https://open.spotify.com/artist/3pqcaPl0sinm0yurXWf7E2"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Haak Maar Saddi Jatt Ne",
+      "url": "https://open.spotify.com/track/57wgmIiyooq7XIHsAlEZQN"
     },
     {
       "album": {
@@ -17476,7 +17528,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 346904,
       "name": "Soch",
       "url": "https://open.spotify.com/track/5ACG6R1PbFnP7WHZNVDHAi"
@@ -19652,6 +19704,10 @@
         {
           "name": "Jasmeen Akhtar",
           "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Kulshaan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
         }
       ],
       "date_added": "2025-03-11",

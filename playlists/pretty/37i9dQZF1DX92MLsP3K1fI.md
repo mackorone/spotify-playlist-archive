@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Esteman y Daniela Spalla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,247 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,252 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 16 | [no pudimos ser </3](https://open.spotify.com/track/2Yovk3o959wt0HT5xxbuNM) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [No pudimos ser </3](https://open.spotify.com/album/3wnMvuFOaI2BHv5NLy6WbF) | 3:08 |
 | 17 | [ESA NO SOY YO](https://open.spotify.com/track/6ZLpqPelpfOwGAk45cgJnu) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [ESA NO SOY YO](https://open.spotify.com/album/3SCF4bXbTnnVmkgfMrPUtA) | 2:52 |
 | 18 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
-| 19 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
+| 19 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
 | 20 | [Hoy Estoy Bien](https://open.spotify.com/track/7Fly2aNYrm0FeH3wFECKIx) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Hoy Estoy Bien + Mala](https://open.spotify.com/album/3ITJjsdCjCDQnkBkxMHWeC) | 2:38 |
-| 21 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
+| 21 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 22 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
 | 23 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
 | 24 | [SAMPLE](https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SAMPLE](https://open.spotify.com/album/3O8Ne1bfLwW9ddFvltybCh) | 2:39 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 36 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 37 | [Al Mali \(TQM, BB\)](https://open.spotify.com/track/58PPaCuX97R4Pl4ChqPlrV) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Al Mali \(TQM, BB\)](https://open.spotify.com/album/4FtmQji5oLnFktbXNO87Yp) | 2:35 |
 | 38 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
-| 39 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 |
-| 40 | [vuelta atrás](https://open.spotify.com/track/4FMMjc5dSWjVAXPniOgPMm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [vuelta atrás](https://open.spotify.com/album/2s90tYrnPJdFveZL5fRsYN) | 2:55 |
-| 41 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
+| 39 | [vuelta atrás](https://open.spotify.com/track/4FMMjc5dSWjVAXPniOgPMm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [vuelta atrás](https://open.spotify.com/album/2s90tYrnPJdFveZL5fRsYN) | 2:55 |
+| 40 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
+| 41 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 |
 | 42 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 |
 | 43 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 |
 | 44 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |

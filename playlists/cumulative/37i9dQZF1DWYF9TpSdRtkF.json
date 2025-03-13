@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 277866,
       "name": "I did I will",
       "url": "https://open.spotify.com/track/2Motple8xZGNmLv81DfWry"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 246840,
       "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
@@ -3678,7 +3678,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 276666,
       "name": "Precious Grain",
       "url": "https://open.spotify.com/track/78VkrLXLPjnEhwdatKWNcH"
@@ -5005,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 05",
+        "url": "https://open.spotify.com/album/2vsCygKagHpff8Gha6cdt2"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "Up!10sion Pleeeeeeeeease!",
+      "url": "https://open.spotify.com/track/6yWr7XCrcTi8fhv8GDIf9Y"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION MOVEMENT OF STARDOM ROAD 02 Upper Dog",
         "url": "https://open.spotify.com/album/5BwDtSCTBEOBR4aBMqly68"
       },
@@ -5474,7 +5492,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 245333,
       "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
       "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
@@ -6258,7 +6276,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 245493,
       "name": "\u30bb\u30d6\u30f3\u30ab\u30a6\u30f3\u30c8",
       "url": "https://open.spotify.com/track/19piUWz1Gy6isXAyhxdGUQ"
@@ -6965,6 +6983,32 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
+        "url": "https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301266,
+      "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9",
+      "url": "https://open.spotify.com/track/09bGez10DkAcqceZmOKMnW"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
         "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
       },
@@ -7474,7 +7518,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 278986,
       "name": "\u5922\u8272\u30c8\u30ec\u30a4\u30f3",
       "url": "https://open.spotify.com/track/43WOgh92scvqudeRjRIPdK"

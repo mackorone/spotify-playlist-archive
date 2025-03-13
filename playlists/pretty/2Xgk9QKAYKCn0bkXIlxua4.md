@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 411 songs - 1 day 3 hr 35 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 412 songs - 1 day 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -419,5 +419,6 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 | 409 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
 | 410 | [Niagara Falls](https://open.spotify.com/track/2v0AG62ZHtD3I4YmTb3WYM) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:37 |
 | 411 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 |
+| 412 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 
-Snapshot ID: `AAABywU3pYq91SLICiPV/a0mrE3J01Ml`
+Snapshot ID: `AAABzE0o0xxNWmpKQ/9WvSR92RRepS0s`

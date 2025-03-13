@@ -7865,6 +7865,24 @@
     },
     {
       "album": {
+        "name": "Turma do Pagode - As Melhores",
+        "url": "https://open.spotify.com/album/2p6mlFq9itVZi0fa7q7Cim"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183758,
+      "name": "Sua M\u00e3e Vai Me Amar",
+      "url": "https://open.spotify.com/track/0V0O1P31CTi51PERBLpvty"
+    },
+    {
+      "album": {
         "name": "Sua M\u00e3e Vai Me Amar",
         "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
       },
@@ -7876,7 +7894,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 183758,
       "name": "Sua M\u00e3e Vai Me Amar",
       "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"

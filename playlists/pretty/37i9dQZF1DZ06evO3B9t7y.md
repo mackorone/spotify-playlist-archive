@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,827 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,222 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 9 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
 | 10 | [No Es Por Acá](https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:47 |
 | 11 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
-| 12 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
-| 13 | [QUE VUELVAS](https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:49 |
+| 12 | [QUE VUELVAS](https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:49 |
+| 13 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
 | 14 | [Necesito Encontrarte](https://open.spotify.com/track/7Fge718eSrqrCmaJykEmsR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:20 |
 | 15 | [El Tóxico](https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s) | 2:59 |
 | 16 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 21 | [Me la Avente](https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:35 |
 | 22 | [De Compas](https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:45 |
 | 23 | [Lamentablemente](https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:15 |
-| 24 | [El Correcto](https://open.spotify.com/track/0rvGl8ZQBLhOZcqc33gPbw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:48 |
-| 25 | [Qué Más Puedo Pedir \- Bonus Track](https://open.spotify.com/track/2dtwxFjUGeoMO4Y2Zy9sW2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 3:17 |
+| 24 | [Qué Más Puedo Pedir \- Bonus Track](https://open.spotify.com/track/2dtwxFjUGeoMO4Y2Zy9sW2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 3:17 |
+| 25 | [El Correcto](https://open.spotify.com/track/0rvGl8ZQBLhOZcqc33gPbw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:48 |
 | 26 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
 | 27 | [⁠1](https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:39 |
 | 28 | [Decreté](https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj) | 2:24 |
 | 50 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 |
 
-Snapshot ID: `Z8zaAAAAAAAKzM15mLDdJOvKxjiTgIGn`
+Snapshot ID: `Z899AAAAAACuNr0BS+JGj33gFh78GX4i`

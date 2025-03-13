@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "MEN BARRA",
+      "url": "https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI"
+    },
+    {
+      "album": {
         "name": "Menghir Sbab",
         "url": "https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 283653,
       "name": "Messyeba",
       "url": "https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 232258,
       "name": "NE7LEF",
       "url": "https://open.spotify.com/track/7kNMPjBvOLwkdrj39A6Jwm"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 177391,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W"
@@ -2128,6 +2146,42 @@
       "duration_ms": 230112,
       "name": "Tamam - \u062a\u0645\u0627\u0645",
       "url": "https://open.spotify.com/track/5uEEIZTLKtQjHXCKpqcAqz"
+    },
+    {
+      "album": {
+        "name": "Tfadhel",
+        "url": "https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tfadhel",
+      "url": "https://open.spotify.com/track/7EBgYjGG0ZXOZh3PraqIhj"
+    },
+    {
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178236,
+      "name": "THANNA",
+      "url": "https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Where your new favourite bands are discovered. Cover: Girl Group",
-  "num_followers": 74211,
+  "num_followers": 74234,
   "original_name": "Hot New Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8sfVwAAAABHgM0ZS2zkvu1eOkcUtijc",
+  "snapshot_id": "Z9FqlwAAAAApEgsnBKjLYE1HBXC3izZt",
   "tracks": [
     {
       "added_at": "2025-03-07 16:31:19",
@@ -39,6 +39,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2025-03-12 11:05:59",
+      "album": {
+        "name": "See You Around",
+        "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "See You Around",
+      "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
     },
     {
       "added_at": "2025-03-07 16:31:19",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/31NMfMxMEnqDich4OYD8sE"
     },
     {
+      "added_at": "2025-03-12 11:05:59",
+      "album": {
+        "name": "Lil' Horse",
+        "url": "https://open.spotify.com/album/5YO2PLIdJCAFVaOYcKCHyJ"
+      },
+      "artists": [
+        {
+          "name": "Kissing on Camera",
+          "url": "https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU"
+        }
+      ],
+      "duration_ms": 134571,
+      "name": "Lil' Horse",
+      "url": "https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50"
+    },
+    {
       "added_at": "2025-03-07 16:31:19",
       "album": {
         "name": "Kiss Me Like You Miss Her",
@@ -151,6 +183,22 @@
       "duration_ms": 183623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/1quJhosjIGze4W4bT3b5D3"
+    },
+    {
+      "added_at": "2025-03-12 11:05:59",
+      "album": {
+        "name": "Massive Twenty One Pilots Tattoo",
+        "url": "https://open.spotify.com/album/2P5drzZjD0ZJku6XHtqSe5"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSITY",
+          "url": "https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Massive Twenty One Pilots Tattoo",
+      "url": "https://open.spotify.com/track/1CT0BPp8AlxmnT7L9rh12O"
     },
     {
       "added_at": "2025-03-07 16:31:19",

@@ -15159,6 +15159,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sweet Boy",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
+    },
+    {
+      "album": {
         "name": "Shiesty Season - Spring Deluxe",
         "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
       },

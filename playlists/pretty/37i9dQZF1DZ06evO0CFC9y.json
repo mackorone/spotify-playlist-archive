@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36027,
+  "num_followers": 36032,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACmUDR0iRPBjWXO5JhbOp7A",
+  "snapshot_id": "Z899AAAAAACT5HcXQmVCA5cY2rmLHW0V",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Answer That And Stay Fashionable",
         "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -635,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Escape From Los Angeles",
-      "url": "https://open.spotify.com/track/2tYYqcxm4gkmc6L8ClVqfD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Too Shy To Scream",
-      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -676,25 +628,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140240,
-      "name": "This Secret Ninja",
-      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 149906,
-      "name": "Narrative Of Soul Against Soul",
-      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
     },
     {
       "added_at": null,
@@ -715,6 +651,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Escape From Los Angeles",
+      "url": "https://open.spotify.com/track/2tYYqcxm4gkmc6L8ClVqfD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 149906,
+      "name": "Narrative Of Soul Against Soul",
+      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140240,
+      "name": "This Secret Ninja",
+      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Too Shy To Scream",
+      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shut Your Mouth And Open Your Eyes",
         "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 169293,
       "name": "Third Season",
       "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 93426,
+      "name": "Strength Through Wounding",
+      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 93426,
-      "name": "Strength Through Wounding",
-      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
+      "duration_ms": 147133,
+      "name": "Your Name Here",
+      "url": "https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 93706,
       "name": "Three Reasons",
       "url": "https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 102600,
-      "name": "Wake-Up Call",
-      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
     }
   ],
   "unique_name": "This Is AFI",

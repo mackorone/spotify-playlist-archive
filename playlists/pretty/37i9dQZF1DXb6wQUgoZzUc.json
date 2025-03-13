@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1041943,
+  "num_followers": 1042185,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
+        "name": "Guatauba XXX",
+        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Guatauba",
+      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
         "name": "Persia (Remix)",
         "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
-        "name": "Guatauba XXX",
-        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Guatauba",
-      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
     },
     {
       "added_at": "2025-03-07 06:00:28",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2025-03-07 06:00:28",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
-        "name": "MIRALA",
-        "url": "https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 146633,
-      "name": "MIRALA",
-      "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
         "name": "Chosen Few: Grandes Exitos",
         "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 185640,
       "name": "Freakytona",
       "url": "https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
+        "name": "MIRALA",
+        "url": "https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 146633,
+      "name": "MIRALA",
+      "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
     },
     {
       "added_at": "2025-03-07 06:00:28",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
+        "name": "Chaparrita",
+        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Chaparrita",
+      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -1515,6 +1535,26 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 210788,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -1539,46 +1579,6 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 210788,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
-        "name": "Chaparrita",
-        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chaparrita",
-      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
     },
     {
       "added_at": "2025-03-07 06:00:28",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
         "name": "Maquillaje (feat. Yexel) [Remix]",
         "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 286283,
       "name": "Maquillaje - Remix",
       "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
     },
     {
       "added_at": "2025-03-07 06:00:28",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
         "name": "En To Lao",
         "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 195033,
       "name": "En To Lao",
       "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": "2025-03-07 06:00:28",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2025-03-07 06:00:28",
       "album": {
-        "name": "PRIMER AVISO",
-        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "PRIMER AVISO",
-      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
-    },
-    {
-      "added_at": "2025-03-07 06:00:28",
-      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -2195,6 +2175,30 @@
       "duration_ms": 235525,
       "name": "ID",
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+    },
+    {
+      "added_at": "2025-03-07 06:00:28",
+      "album": {
+        "name": "Poblado",
+        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "duration_ms": 201596,
+      "name": "Poblado",
+      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
     }
   ],
   "unique_name": "La Casa del Perreo",

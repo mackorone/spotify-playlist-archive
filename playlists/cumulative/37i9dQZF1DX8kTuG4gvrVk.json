@@ -51,6 +51,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "111",
+      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
+    },
+    {
+      "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -301,6 +319,42 @@
     },
     {
       "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137821,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "album": {
         "name": "BBY BOO (REMIX)",
         "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
       },
@@ -404,7 +458,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -532,10 +586,32 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "album": {
@@ -924,10 +1000,32 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -1084,7 +1182,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -1216,7 +1314,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
@@ -1295,6 +1393,40 @@
     },
     {
       "album": {
+        "name": "Private Suite (Vol. 2)",
+        "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462561,
+      "name": "ETA - RMX",
+      "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
+    },
+    {
+      "album": {
         "name": "ETA (RMX)",
         "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
       },
@@ -1322,7 +1454,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
@@ -1524,7 +1656,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 155053,
       "name": "G O D D E S S",
       "url": "https://open.spotify.com/track/7E5qtyFBvbyfNbHOTR42rs"
@@ -1616,6 +1748,28 @@
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
     },
     {
       "album": {
@@ -1721,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173529,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+    },
+    {
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
       },
@@ -1754,7 +1926,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
@@ -2050,6 +2222,32 @@
       "duration_ms": 155000,
       "name": "La Ni\u00f1a Perfecta",
       "url": "https://open.spotify.com/track/0mhNNWZMcKgEuIaDDoqvZ1"
+    },
+    {
+      "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
       "album": {
@@ -2465,6 +2663,32 @@
     },
     {
       "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201307,
+      "name": "Me Pasa (Piscis)",
+      "url": "https://open.spotify.com/track/63ZVyUi9weRwuMf1QsbDnY"
+    },
+    {
+      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -2494,7 +2718,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 123157,
       "name": "Media Hora",
       "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
@@ -3005,6 +3229,32 @@
     },
     {
       "album": {
+        "name": "Parte & Choke (with Ryan Castro) [Remix]",
+        "url": "https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218591,
+      "name": "Parte & Choke (with Ryan Castro) - Remix",
+      "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
+    },
+    {
+      "album": {
         "name": "Passoa",
         "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
       },
@@ -3148,6 +3398,28 @@
       "duration_ms": 182479,
       "name": "por la peque\u00f1a Venecia",
       "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
+    },
+    {
+      "album": {
+        "name": "PPC",
+        "url": "https://open.spotify.com/album/4V5HyefyVSF15kOhuy11up"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240195,
+      "name": "PPC",
+      "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
     },
     {
       "album": {
@@ -3376,7 +3648,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -3424,7 +3696,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 166880,
       "name": "RD",
       "url": "https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU"
@@ -3578,7 +3850,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -3865,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
+    },
+    {
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
@@ -3876,7 +4166,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -3902,7 +4192,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
@@ -3920,10 +4210,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "album": {
@@ -3942,7 +4254,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 176186,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ"
@@ -3986,6 +4298,28 @@
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "tranqui, te puedes enamorar",
+      "url": "https://open.spotify.com/track/5L7Cj7HFf7YcCb9GU1ySDt"
     },
     {
       "album": {
@@ -4220,10 +4554,54 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 254664,
       "name": "Veneka",
       "url": "https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw"
+    },
+    {
+      "album": {
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157755,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5"
+    },
+    {
+      "album": {
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208743,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
     },
     {
       "album": {
@@ -4548,6 +4926,24 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216506,
+      "name": "\u2060LUCES DE COLORES",
+      "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8kTuG4gvrVk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,082 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,100 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 47 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 48 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 49 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
-| 50 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 |
+| 50 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 51 | [Km 0](https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Km 0](https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf) | 2:46 |
-| 52 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
-| 53 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
+| 52 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
+| 53 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 |
 | 54 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 |
 | 55 | [Olor a Café](https://open.spotify.com/track/0xFl4mBckGs5lJhaYArtCZ) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Olor a Café](https://open.spotify.com/album/220c55Iv1KN8TjLQGbdir9) | 3:33 |
 | 56 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 58 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 |
 | 59 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 |
 | 60 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 |
-| 61 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
-| 62 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
+| 61 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
+| 62 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 63 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
 | 64 | [Parece](https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:38 |
 | 65 | [Todo vuelve a su lugar](https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:59 |

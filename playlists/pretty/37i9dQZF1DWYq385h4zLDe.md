@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 ### [Moana Official Playlist ](https://open.spotify.com/playlist/37i9dQZF1DWYq385h4zLDe)
 
-> It’s a call from the ancestors\. Listen to new music from Moana 2, coming soon to Disney+.
+> It’s a call from the ancestors\. Listen to new music from Moana 2, now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,775 likes - 84 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,923 likes - 84 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 | 83 | [Navigating Home](https://open.spotify.com/track/4izlxzOjLPRzWy6Co5x0N0) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 0:47 |
 | 84 | [Hand of a God](https://open.spotify.com/track/1ytmdDK5IqzTGhmEc4gHIt) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 0:30 |
 
-Snapshot ID: `Z8dC6AAAAACim8GgcCblsUzG2w2FaBKD`
+Snapshot ID: `Z9EG3AAAAAC4a0XSzfwoW3BzeCFL25cf`

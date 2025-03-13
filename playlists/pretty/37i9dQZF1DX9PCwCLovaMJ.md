@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,18 +47,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 37 | [Oh, To Be Cool](https://open.spotify.com/track/4AXzAOLaXRJ5fFYlX1F3QG) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Oh, To Be Cool](https://open.spotify.com/album/76oUHJreCw9z2nr561xwVF) | 3:18 |
 | 38 | [under isen](https://open.spotify.com/track/6XmOCjeIjYijSeSEGJLCy5) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [under isen](https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF) | 2:26 |
 | 39 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
-| 40 | [The Trip](https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [The Trip](https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B) | 3:12 |
-| 41 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 |
-| 42 | [Nightrun](https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 4:24 |
-| 43 | [EVERYDAY IS A NEW BEGINNING](https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 3:03 |
+| 40 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 |
+| 41 | [The Trip](https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [The Trip](https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B) | 3:12 |
+| 42 | [EVERYDAY IS A NEW BEGINNING](https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 3:03 |
+| 43 | [Nightrun](https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 4:24 |
 | 44 | [Shoulder](https://open.spotify.com/track/1Z8MidkV2WcP1vUxM64vpf) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Shoulder](https://open.spotify.com/album/7jjCS1RPvekWlZ6RFZ0Ni1) | 2:53 |
 | 45 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
-| 46 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
-| 47 | [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 |
-| 48 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
+| 46 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
+| 47 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
+| 48 | [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 |
 | 49 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
-| 50 | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/track/2gd1LE7hK53p0UBuVKYFth) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW) | 3:36 |
-| 51 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 50 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 |
+| 51 | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/track/2gd1LE7hK53p0UBuVKYFth) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW) | 3:36 |
 | 52 | [waste](https://open.spotify.com/track/7Kn3tgPBG36YPq4rDz6kWN) | [edphorix](https://open.spotify.com/artist/3mxFS6QPoslmTAxsiUMy06), [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [waste](https://open.spotify.com/album/2TypuDjDoHxitguU3Wk4RT) | 2:25 |
 | 53 | [Light](https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Light](https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo) | 3:37 |
 | 54 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 65 | [devoted](https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [devoted](https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59) | 3:15 |
 | 66 | [Fiend](https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Fiend](https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV) | 3:07 |
 | 67 | [Yangtze](https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Yangtze](https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2) | 3:06 |
-| 68 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 |
-| 69 | [Spooky](https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Spooky](https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS) | 2:49 |
+| 68 | [Spooky](https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Spooky](https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS) | 2:49 |
+| 69 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 |
 | 70 | [Daylight](https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daylight](https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1) | 2:07 |
 | 71 | [20 BPM](https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [20 BPM](https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w) | 3:03 |
 | 72 | [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 |

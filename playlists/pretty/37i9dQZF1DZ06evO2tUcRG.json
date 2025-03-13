@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 266682,
+  "num_followers": 266705,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACjzpa04uncP3r3gJYuds9x",
+  "snapshot_id": "Z899AAAAAACeS6sTj+t5XDBgwC62CDo2",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 437928,
       "name": "A Ele a Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP Gabriela Rocha",
+        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Atos 2",
+      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP Gabriela Rocha",
-        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Atos 2",
-      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
     },
     {
       "added_at": null,
@@ -495,22 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuas \u00c1guas",
-        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Tuas \u00c1guas",
-      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
     },
     {
       "added_at": null,
@@ -531,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         },
         {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 271866,
-      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,

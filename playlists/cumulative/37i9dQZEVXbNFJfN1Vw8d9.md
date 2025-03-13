@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,333 songs - 3 day 0 hr 32 min
+1,334 songs - 3 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Algodón de azúcar](https://open.spotify.com/track/6CHYyL3462Y2Bb2uWIIBkE) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Algodón de azúcar](https://open.spotify.com/album/7GXFvjeCBHDD783X4jms0l) | 2:48 | 2022-01-19 | 2022-04-27 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-07 | 2025-01-03 |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-08-01 | 2021-12-25 |
-| [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-02-11 |  |
+| [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-02-11 | 2025-03-13 |
 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 | 2021-03-27\* | 2021-08-05 |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-01-12 | 2024-04-06 |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2021-04-05 | 2021-07-09 |
@@ -1137,6 +1137,7 @@
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2021-05-03 | 2021-05-27 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-25 | 2024-12-28 |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-20 | 2024-04-22 |
+| [sobelove](https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [sobelove](https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO) | 2:11 | 2025-03-12 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-08-02 | 2021-08-26 |
 | [Sofi \- Remix](https://open.spotify.com/track/7hjHRDKZTcccrN8P3udrzP) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Sofi \- Remix](https://open.spotify.com/album/5sGU74Q9cWns7wfZKW8P2l) | 2:51 | 2023-12-11 | 2023-12-15 |
 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-07-22 | 2023-07-27 |

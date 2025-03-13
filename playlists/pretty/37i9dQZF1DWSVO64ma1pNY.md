@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,686 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,691 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 26 | [Getting Away With Murder](https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:11 |
 | 27 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 |
 | 28 | [Supersoaker](https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
-| 29 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 30 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
+| 29 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
+| 30 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
 | 31 | [Invincible](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:10 |
 | 32 | [Jars](https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Sci\-Fi Crimes](https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH) | 3:19 |
 | 33 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 48 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
 | 49 | [Life Support](https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Life Support / Ms\. Supernova](https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy) | 3:11 |
 | 50 | [Revelations](https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:12 |
-| 51 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
-| 52 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 |
+| 51 | [Shot In The Dark](https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Shot In The Dark](https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB) | 3:05 |
+| 52 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
 | 53 | [Oh No!!!](https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Oh No!!!](https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp) | 3:35 |
 | 54 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 |
 | 55 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 57 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 58 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 59 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
-| 60 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
-| 61 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 |
+| 60 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 |
+| 61 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
 | 62 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
 | 63 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
 | 64 | [Falling Apart](https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:28 |
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 72 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
 | 73 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 |
 | 74 | [Crocus](https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Datura](https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY) | 3:57 |
-| 75 | [JOY](https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [JOY](https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG) | 3:46 |
-| 76 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
-| 77 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
-| 78 | [Who Will Fix Me Now?](https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0) | [Slow Degrade](https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz) | [Who Will Fix Me Now?](https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH) | 3:39 |
-| 79 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
-| 80 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
+| 75 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
+| 76 | [JOY](https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [JOY](https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG) | 3:46 |
+| 77 | [Who Will Fix Me Now?](https://open.spotify.com/track/5w49lBNC26nILBbphwXyn0) | [Slow Degrade](https://open.spotify.com/artist/5LWqvtfUtbjgzQKOWk24Lz) | [Who Will Fix Me Now?](https://open.spotify.com/album/5GaVZYbQccbOCN4L7a22TH) | 3:39 |
+| 78 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
+| 79 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
+| 80 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 | 81 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
 | 82 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
 | 83 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 96 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
 | 97 | [Wring It Out](https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [Pedals](https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO) | 3:29 |
 | 98 | [Smother!](https://open.spotify.com/track/3fbqRfChbrtlPOg1imoOsN) | [Post Profit](https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg) | [When You Think It's Right It's Always Wrong](https://open.spotify.com/album/1IZxAgVHBH8Z3iBsh8EBxd) | 4:06 |
-| 99 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
-| 100 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
+| 99 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
+| 100 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
 
 Snapshot ID: `Z07PEwAAAABYwfoKuqhcow+CJCFXuVAs`

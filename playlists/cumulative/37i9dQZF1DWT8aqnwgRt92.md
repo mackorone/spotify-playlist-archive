@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,824 songs - 4 day 17 hr 38 min
+1,825 songs - 4 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [No Frontier](https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [No Frontier](https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u) | 3:06 | 2023-07-04 | 2023-09-01 |
 | [No Man's Dawn](https://open.spotify.com/track/5XvmEVOlh8S0FvZQyaYnzo) | [criminal](https://open.spotify.com/artist/01x2ElR5LGoZ3HTwn0u4eH) | [No Man's Dawn](https://open.spotify.com/album/5emNQodJSciI2Ib281UrG3) | 3:53 | 2022-09-06 | 2022-10-19 |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-07-28 | 2022-09-07 |
+| [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 | 2025-03-11 |  |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-28 | 2022-07-08 |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-11 | 2024-07-24 |
 | [Nomic](https://open.spotify.com/track/097t1k0326IivjNTdqOqx7) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Nomic](https://open.spotify.com/album/4LSTro12AcY0M6dqGaZpak) | 3:00 | 2022-10-06 | 2023-01-11 |

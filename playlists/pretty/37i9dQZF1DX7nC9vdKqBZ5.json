@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1491,70 +1491,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
-      },
-      "artists": [
-        {
-          "name": "Eu, Trovador",
-          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Novo Ciclo",
         "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
       },
@@ -1579,6 +1515,70 @@
       "duration_ms": 230107,
       "name": "Novo Ciclo",
       "url": "https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Nois T\u00e1 Alto - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u"
+        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
       },
       "artists": [
         {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 215340,
-      "name": "Amar Amei - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5t9r2NifmP11xHoVa5kAVG"
+      "duration_ms": 142857,
+      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
+        "name": "Nois T\u00e1 Alto - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
+      "duration_ms": 215340,
+      "name": "Amar Amei - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5t9r2NifmP11xHoVa5kAVG"
     },
     {
       "added_at": "2024-08-02 18:37:00",

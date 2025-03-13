@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: LAGHEADS
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,810 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,821 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 11 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 12 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 13 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
-| 14 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
-| 15 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 14 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 15 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 16 | [夜間航路 \- Album Mix](https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Discovery](https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg) | 3:56 |
 | 17 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 18 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 21 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 | 22 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 23 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
-| 24 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 |
-| 25 | [枯葉 ～Autumn Leaves～ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
-| 26 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
+| 24 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
+| 25 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 |
+| 26 | [枯葉 ～Autumn Leaves～ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
 | 27 | [Philly's Dance](https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 3](https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO) | 4:59 |
 | 28 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 |
 | 29 | [Blood is thicker than water](https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Living Message](https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2) | 3:31 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 35 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
 | 36 | [tokyo class](https://open.spotify.com/track/347ncFkne4BCG7q9ZFLHCb) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [debut](https://open.spotify.com/album/1zqQSutLk34XtF5jHWGCuj) | 4:52 |
 | 37 | [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 |
-| 38 | [merry pitch'n](https://open.spotify.com/track/13N5C1T7JzgtabFHDOVOlN) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [merry pitch'n](https://open.spotify.com/album/1vA6gYERxgJGNTcr0SHLtl) | 3:44 |
-| 39 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
+| 38 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
+| 39 | [merry pitch'n](https://open.spotify.com/track/13N5C1T7JzgtabFHDOVOlN) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [merry pitch'n](https://open.spotify.com/album/1vA6gYERxgJGNTcr0SHLtl) | 3:44 |
 | 40 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
 | 41 | [Normal Life](https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Variety](https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2) | 2:38 |
 | 42 | [Sakura Flutter](https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Bouquet](https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW) | 4:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 46 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
 | 47 | [Never Let Go \- Instrumental](https://open.spotify.com/track/6HHlEdo81pmNuapvkEPQZl) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Elastic Afterwords \(Instrumental\)](https://open.spotify.com/album/1iXHDPgsCFPAT6TGdQ9DIm) | 4:28 |
 | 48 | [Noisia](https://open.spotify.com/track/54DUSBw5r1lEqlsvVFmgBm) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Noisia](https://open.spotify.com/album/0oKLUiiUtEe6nrJzUS5hFz) | 5:07 |
-| 49 | [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 |
+| 49 | [after heat](https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Color & Monochrome 3](https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev) | 4:16 |
 | 50 | [Keep on Going](https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Keep on Going](https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH) | 3:34 |
 
 Snapshot ID: `Z9BP+wAAAAAmAL4C3t2J5H81YcfemPYu`

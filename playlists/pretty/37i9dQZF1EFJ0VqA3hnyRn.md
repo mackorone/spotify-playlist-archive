@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 315 songs - 18 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 315 songs - 18 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 314 | [Big Big](https://open.spotify.com/track/4wsNgpWYdQjQZjP0eiCT3P) | [Timo Makaveli](https://open.spotify.com/artist/68nIghWoFPxGpj5aHIyznz), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Right On Time](https://open.spotify.com/album/5MFK2qG2EJRgpEibwM823C) | 2:54 |
 | 315 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbrzFAAAAADhQge6h+4iaykPW8rRAjFy`
+Snapshot ID: `Abr4tAAAAACx6Y3DpCSGy8N9ne99vfc0`

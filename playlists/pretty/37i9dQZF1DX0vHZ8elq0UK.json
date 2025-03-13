@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1020031,
+  "num_followers": 1020332,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -195,34 +211,18 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -891,22 +871,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -923,18 +887,18 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -959,22 +923,38 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "#willpower",
-        "url": "https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb"
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
       "artists": [
         {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
         }
       ],
-      "duration_ms": 283400,
-      "name": "Scream & Shout",
-      "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -995,6 +975,26 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
+        "name": "#willpower",
+        "url": "https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "Scream & Shout",
+      "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Club Can't Handle Me (feat. David Guetta)",
+      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1055,22 +1075,18 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Only One Flo (Part 1)",
-        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Club Can't Handle Me (feat. David Guetta)",
-      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1091,22 +1107,6 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Born This Way (International Special Edition Version)",
-        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1575,6 +1559,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Born This Way (International Special Edition Version)",
-        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "The Edge Of Glory",
-      "url": "https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "The Edge Of Glory",
+      "url": "https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO"
     },
     {
       "added_at": "2024-09-13 18:52:08",

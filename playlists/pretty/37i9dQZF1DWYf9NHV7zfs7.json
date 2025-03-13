@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Olivia Wald.",
-  "num_followers": 58538,
+  "num_followers": 58562,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-03-07 03:00:37",
       "album": {
+        "name": "Vida Lejana",
+        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
+    },
+    {
+      "added_at": "2025-03-07 03:00:37",
+      "album": {
         "name": "Tristeza de la Ciudad",
         "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 164925,
       "name": "Tristeza de la Ciudad",
       "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
-    },
-    {
-      "added_at": "2025-03-07 03:00:37",
-      "album": {
-        "name": "Vida Lejana",
-        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
     },
     {
       "added_at": "2025-03-07 03:00:37",

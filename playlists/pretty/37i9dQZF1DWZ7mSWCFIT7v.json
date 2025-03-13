@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 237849,
+  "num_followers": 237859,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 248758,
       "name": "Before I Leave",
       "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "The Star Compass",
-      "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
         "name": "Other Means",
         "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
       },
@@ -591,18 +575,34 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+      "duration_ms": 289320,
+      "name": "The Star Compass",
+      "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+      },
+      "artists": [
+        {
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
       },
       "artists": [
         {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Inkjet / Fluo",
-        "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
-      },
-      "artists": [
-        {
-          "name": "Beatrice Dillon",
-          "url": "https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97"
-        },
-        {
-          "name": "Call Super",
-          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
-        }
-      ],
-      "duration_ms": 502161,
-      "name": "Fluo",
-      "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
         "name": "Oxido En El Espejo",
         "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
+        "name": "Inkjet / Fluo",
+        "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Dillon",
+          "url": "https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97"
+        },
+        {
+          "name": "Call Super",
+          "url": "https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9"
+        }
+      ],
+      "duration_ms": 502161,
+      "name": "Fluo",
+      "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Symbolic Use Of Light",
-        "url": "https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn"
-      },
-      "artists": [
-        {
-          "name": "UMFANG",
-          "url": "https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3"
-        }
-      ],
-      "duration_ms": 271237,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
         "name": "Common Land",
         "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
       },
@@ -1203,18 +1187,34 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
       },
       "artists": [
         {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
         }
       ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
+        "name": "Symbolic Use Of Light",
+        "url": "https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn"
+      },
+      "artists": [
+        {
+          "name": "UMFANG",
+          "url": "https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3"
+        }
+      ],
+      "duration_ms": 271237,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
       },
       "artists": [
         {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
         }
       ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
+      },
+      "artists": [
+        {
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
+        }
+      ],
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
         "name": "that day, on the beach",
         "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 131709,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
         "name": "Hodes",
         "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 150000,
       "name": "Piano Improvisation No. 19",
       "url": "https://open.spotify.com/track/5yJicLB0k8YwdluDf9y0HN"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
+        "name": "Diistemi",
+        "url": "https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5"
+      },
+      "artists": [
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Siblings",
+      "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
         "name": "Nightwidth",
         "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 131944,
       "name": "Double Fifths",
       "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
-        "name": "Diistemi",
-        "url": "https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5"
-      },
-      "artists": [
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Siblings",
-      "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
     },
     {
       "added_at": "2025-02-21 18:38:29",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-21 18:38:29",
       "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
-    },
-    {
-      "added_at": "2025-02-21 18:38:29",
-      "album": {
         "name": "Actoma",
         "url": "https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 209306,
       "name": "MWLHWOF-4",
       "url": "https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx"
+    },
+    {
+      "added_at": "2025-02-21 18:38:29",
+      "album": {
+        "name": "onomatopoeia",
+        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
+      },
+      "artists": [
+        {
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
+        }
+      ],
+      "duration_ms": 269812,
+      "name": "tdU_du_tdu_tdu",
+      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
       "added_at": "2025-02-21 18:38:29",

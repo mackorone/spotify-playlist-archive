@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21738,
+  "num_followers": 21748,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAA2LQWaXZxeOD2RzjG9NIsz",
+  "snapshot_id": "Z899AAAAAABeF0DxHJypJt1fkALeUxom",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Dethbed",
-      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 136160,
-      "name": "Fatally Yours",
-      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
+      "duration_ms": 183533,
+      "name": "Dethbed",
+      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 138693,
-      "name": "I'm Dying Tomorrow",
-      "url": "https://open.spotify.com/track/4cIFLerFqmenkf3qzn1UPz"
+      "duration_ms": 124560,
+      "name": "The Poison",
+      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 124560,
-      "name": "The Poison",
-      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
+      "duration_ms": 138693,
+      "name": "I'm Dying Tomorrow",
+      "url": "https://open.spotify.com/track/4cIFLerFqmenkf3qzn1UPz"
     },
     {
       "added_at": null,
@@ -715,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Maybe I'll Catch Fire",
-      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Alkaline Trio",
-        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Goodbye Forever",
-      "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Shame Is True (Deluxe Edition)",
         "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 143893,
       "name": "Cringe",
       "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Maybe I'll Catch Fire",
+      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
     },
     {
       "added_at": null,

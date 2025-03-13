@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 37951,
+  "num_followers": 37958,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Brain Melting Sleep Treatment",
-        "url": "https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w"
-      },
-      "artists": [
-        {
-          "name": "Tingting ASMR",
-          "url": "https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw"
-        }
-      ],
-      "duration_ms": 389971,
-      "name": "Brain Melting Sleep Treatment Pt.1",
-      "url": "https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "Karuna's Sleep Clinic",
         "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 232571,
       "name": "Sleep Clinic Part 2",
       "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Brain Melting Sleep Treatment",
+        "url": "https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w"
+      },
+      "artists": [
+        {
+          "name": "Tingting ASMR",
+          "url": "https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw"
+        }
+      ],
+      "duration_ms": 389971,
+      "name": "Brain Melting Sleep Treatment Pt.1",
+      "url": "https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
         }
       ],
-      "duration_ms": 176039,
-      "name": "Unintelligble Sleep Whisper Sayy Wayy",
-      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
+      "duration_ms": 182682,
+      "name": "Unintelligble Sleep Whisper Dee Kaa",
+      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
         }
       ],
-      "duration_ms": 182682,
-      "name": "Unintelligble Sleep Whisper Dee Kaa",
-      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
+      "duration_ms": 176039,
+      "name": "Unintelligble Sleep Whisper Sayy Wayy",
+      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
     },
     {
       "added_at": "2024-08-30 08:51:58",

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 75920,
+  "num_followers": 75936,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADMQptJ9iz+PvQTO9F9+YpF",
+  "snapshot_id": "Z899AAAAAAAT08r3PcHP2nj5SLOifqH6",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 220479,
-      "name": "Hide My Gun (Feat. HARDY)",
-      "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 220479,
+      "name": "Hide My Gun (Feat. HARDY)",
+      "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
     },
     {
       "added_at": null,
@@ -231,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195326,
-      "name": "In The Bible (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 221795,
-      "name": "JIM BOB",
-      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
+      "duration_ms": 195326,
+      "name": "In The Bible (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
     },
     {
       "added_at": null,

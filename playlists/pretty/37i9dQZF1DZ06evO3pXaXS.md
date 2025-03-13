@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,191 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,240 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 8 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 |
 | 9 | [Spirits In The Material World](https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 2:59 |
 | 10 | [King Of Pain](https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:59 |
-| 11 | [Can't Stand Losing You](https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 2:58 |
-| 12 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 |
+| 11 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 |
+| 12 | [Can't Stand Losing You](https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 2:58 |
 | 13 | [Bring On The Night](https://open.spotify.com/track/4EkNINvDLeGgIL4zYGsYPb) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:15 |
 | 14 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 |
 | 15 | [Invisible Sun](https://open.spotify.com/track/5u8Dwz4h41DDOKfeFfexMR) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 49 | [Dead End Job](https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:35 |
 | 50 | [Goodbye Tomorrow](https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:12 |
 
-Snapshot ID: `Z8zaAAAAAABu7wl4peOe8ux2rwmIgzvZ`
+Snapshot ID: `Z899AAAAAAA1sceILF5uiwJkjhVfPaFZ`

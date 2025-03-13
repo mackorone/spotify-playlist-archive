@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15676,
+  "num_followers": 15675,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACjZOgVBn6Fk24iFOcJCZnl",
+  "snapshot_id": "Z899AAAAAAC2I+nS0/DK4zXG2jTEkqIf",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Baby (feat. Valerie June)",
-        "url": "https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/751gK3jve65bGX4LtckYMF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Baby (feat. Valerie June)",
+        "url": "https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/751gK3jve65bGX4LtckYMF"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -227,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U"
       },
       "artists": [
         {
@@ -236,9 +220,25 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+      "duration_ms": 198586,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 285813,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 285813,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD"
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up and Rolling (feat. Son Little and Valerie June)",
-        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 201921,
-      "name": "Up and Rolling (feat. Son Little and Valerie June)",
-      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 219961,
       "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
       "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up and Rolling (feat. Son Little and Valerie June)",
+        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 201921,
+      "name": "Up and Rolling (feat. Son Little and Valerie June)",
+      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traveler's Soul",
         "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 242840,
       "name": "Within You - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": null,

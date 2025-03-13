@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: Sydney Rose
 
-860 songs - 1 day 23 hr 22 min
+861 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 | 2024-05-17 | 2024-07-16 |
 | [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 | 2023-03-17 | 2023-08-05 |
 | [look what you did](https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [look what you did](https://open.spotify.com/album/5y6B6WamjdWeACbHeijgXT) | 3:57 | 2024-07-12 | 2024-08-17 |
+| [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-10 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2021-12-17 | 2024-05-11 |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-07-22 | 2024-04-19 |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-03-23 |
@@ -551,7 +552,7 @@
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-04 |  |
 | [My Person](https://open.spotify.com/track/0a3oURCG3s5cpAPNcdDm6e) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [My Person](https://open.spotify.com/album/0hCFjworN4bxpXRH2GBQR5) | 3:06 | 2021-12-17 | 2022-05-20 |
 | [my tears ricochet](https://open.spotify.com/track/5P2bHCDM2tsgIaYWsZMhu5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:15 | 2021-12-17 | 2022-05-20 |
-| [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 |  |
+| [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 | 2025-03-13 |
 | [Nauseous](https://open.spotify.com/track/1HMCbPngUxPENYBBt2fQXr) | [Eric Punzo](https://open.spotify.com/artist/5ovr8bErhT7iHJVZL18osS) | [Nauseous](https://open.spotify.com/album/2BJkdy0VsRsfoSStdX8CLV) | 2:53 | 2021-12-24 | 2021-12-26 |
 | [Need Someone](https://open.spotify.com/track/3iYS4NIxfoSNNnPuBhawZy) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Need Someone](https://open.spotify.com/album/0A3sognBevBEGwN2qSpKQ6) | 2:56 | 2022-04-29 | 2022-04-30 |
 | [Never Be Me](https://open.spotify.com/track/1M7qLcfozANPcMKfgMEHOt) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:35 | 2021-12-17 | 2022-05-03 |

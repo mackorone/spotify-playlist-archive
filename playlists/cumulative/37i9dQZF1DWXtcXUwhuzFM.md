@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Lady Gagalta, ibeltä ja Benjaminilta!
 
-4,847 songs - 10 day 15 hr 59 min
+4,848 songs - 10 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3431,6 +3431,7 @@
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2024-08-16 |
 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 | 2025-01-30 | 2025-02-07 |
 | [Reignite](https://open.spotify.com/track/5nD92xcnk0UKLzr5EQVwLk) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Reignite](https://open.spotify.com/album/4bPjH7Od2hQsBRNpXcpcqt) | 2:13 | 2024-05-16 | 2024-05-24 |
+| [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-07 |  |
 | [Remember](https://open.spotify.com/track/3JkrlNhTe9DfWwUuQOdZPu) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Remember](https://open.spotify.com/album/6Pd3LadYDKkDXV1GuJeIHf) | 2:40 | 2025-01-16 | 2025-01-24 |
 | [Remember](https://open.spotify.com/track/6gaM0L6EltW1U11WvAJFV1) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Remember](https://open.spotify.com/album/2Ge3gHjvufJ7LVsINXgY5l) | 2:44 | 2024-08-15 | 2024-08-23 |
 | [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2024-09-12 | 2024-09-20 |

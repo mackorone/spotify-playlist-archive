@@ -195,6 +195,32 @@
     },
     {
       "album": {
+        "name": "Al\u00e9m",
+        "url": "https://open.spotify.com/album/6lphcExMxtb7BIIwrOFPTB"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172754,
+      "name": "Barras de Ouro",
+      "url": "https://open.spotify.com/track/3nsZRMOxSCczFA9YCSfNty"
+    },
+    {
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/5Xpio5Atc4JEcaVOpL0mNn"
       },
@@ -656,7 +682,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "Esquinas",
       "url": "https://open.spotify.com/track/1kY7c0pcnSX05MlMUb3eqS"
@@ -812,7 +838,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 161911,
       "name": "Fazendo Dinheiro",
       "url": "https://open.spotify.com/track/3qY3VmHFWbn87ivZgD6fku"
@@ -2494,7 +2520,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 205923,
       "name": "Talvez Bem Mais",
       "url": "https://open.spotify.com/track/6VKcdqumtvLbTf7t3X3pmS"
@@ -2562,7 +2588,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 457683,
       "name": "Trof\u00e9u",
       "url": "https://open.spotify.com/track/3fHg8oNVWCV5InUmgwPjqD"
@@ -2584,7 +2610,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 160000,
       "name": "Tr\u00e2nsito da Cidade",
       "url": "https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC"

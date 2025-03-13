@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,276 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,354 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 37 | [Neza No\. 1](https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0) | [Sociedad Café](https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR) | [Rap Latino](https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz) | 4:33 |
 | 38 | [Los Gritos del Iconoclasta](https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El Manual de la Otredad](https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je) | 3:31 |
 | 39 | [Plata o Plomo \(feat\. Eugenia León\)](https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW) | [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [33](https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ) | 3:35 |
-| 40 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
-| 41 | [Hoy No Circulo](https://open.spotify.com/track/3UHc064XWh0sTWoMmDTBeu) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [DFMXVG](https://open.spotify.com/album/35UZzg3KUxH3HAEyp3F3OU) | 2:49 |
+| 40 | [Hoy No Circulo](https://open.spotify.com/track/3UHc064XWh0sTWoMmDTBeu) | [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [DFMXVG](https://open.spotify.com/album/35UZzg3KUxH3HAEyp3F3OU) | 2:49 |
+| 41 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
 | 42 | [Margarito](https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR) | [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw) | [Margarito No Cometio Delito](https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z) | 3:05 |
 | 43 | [Camaleones \- Remasterizado](https://open.spotify.com/track/4miCCObbx713lWPnTAZXHh) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m) | [Camaleones \(Remasterizado\)](https://open.spotify.com/album/3qbeaGHvshA1NZDv0slOpj) | 2:33 |
 | 44 | [Alquimista \(Bonus Track\)](https://open.spotify.com/track/20BppOrfwiJmWfg1wEfjw8) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Libre](https://open.spotify.com/album/5HfSAaF786Ib99EJZs3zls) | 2:54 |

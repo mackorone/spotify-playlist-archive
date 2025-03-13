@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,614 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,644 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 59 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 61 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
-| 62 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
+| 62 | [Interstate](https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY) | 4:41 |
 | 63 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
-| 64 | [Interstate](https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY) | 4:41 |
+| 64 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
 | 65 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 66 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 67 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 88 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
 | 89 | [Back Roads](https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Conviction](https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL) | 4:04 |
 | 90 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
-| 91 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
-| 92 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
+| 91 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
+| 92 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
 | 93 | [Beer, Bait and Ammo](https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Beer, Bait and Ammo](https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T) | 5:15 |
 | 94 | [Texas On My Mind](https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:40 |
 | 95 | [Anyhow, I Love You](https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Texas Cookin](https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF) | 3:54 |

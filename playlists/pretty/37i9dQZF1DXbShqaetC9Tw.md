@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,026 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,037 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 22 | [Careless I Love You](https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Careless I Love You \(Secret Relationships X Paul Blanco\)](https://open.spotify.com/album/3mxfjPxPCkW210ymyiTVf9) | 2:20 |
 | 23 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
 | 24 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
-| 25 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
-| 26 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 |
+| 25 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 |
+| 26 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
 | 27 | [vestigial organ](https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [JEMN](https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5) | [EASTERN NIGHT](https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw) | 2:48 |
 | 28 | [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 |
 | 29 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 46 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
 | 47 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
 | 48 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
-| 49 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
-| 50 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 |
+| 49 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 |
+| 50 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 
 Snapshot ID: `Z5tUTQAAAACfO4wQdwuGQa+LvpiJRT5Z`

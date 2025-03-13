@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,653 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,655 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 31 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
 | 32 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
 | 33 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 |
-| 34 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
-| 35 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
+| 34 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
+| 35 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
 | 36 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
 | 37 | [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 |
 | 38 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
 | 39 | [Drop](https://open.spotify.com/track/63JgXc0KFuJ0L56E0gjqX8) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Drop](https://open.spotify.com/album/5hMekWTlnb8UKJohroZLQy) | 4:16 |
-| 40 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
-| 41 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
+| 40 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
+| 41 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 | 42 | [I Know What Everyone Says About Me](https://open.spotify.com/track/2VWb5h4WeuNgd54p7pk7ay) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [I Feel Different Every Day](https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB) | 3:30 |
 | 43 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
 | 44 | [As Soon As You Can](https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [As Soon As You Can](https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6) | 3:45 |

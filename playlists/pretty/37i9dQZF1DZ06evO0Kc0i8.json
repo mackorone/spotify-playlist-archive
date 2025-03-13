@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 804553,
+  "num_followers": 804841,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAD9zgtaAzQA3M6ri4NbHK/K",
+  "snapshot_id": "Z899AAAAAADsvQ7aXWn45UqsHMypkpwu",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "NO ME SUELTES",
-      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "NO ME SUELTES",
+      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "DEJAU'",
-      "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -951,26 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nota",
-        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
         }
       ],
-      "duration_ms": 216107,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+      "duration_ms": 182836,
+      "name": "DEJAU'",
+      "url": "https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC"
     },
     {
       "added_at": null,
@@ -1067,22 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "La Nota",
+        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
       "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 181621,
-      "name": "DE CAROLINA",
-      "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
+      "duration_ms": 216107,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
     },
     {
       "added_at": null,
@@ -1103,6 +1083,26 @@
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "DE CAROLINA",
+      "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
     }
   ],
   "unique_name": "This Is Rauw Alejandro",

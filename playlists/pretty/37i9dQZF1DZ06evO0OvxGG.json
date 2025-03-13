@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7279,
+  "num_followers": 7288,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACd6bTuF6FlW8JCYjODjtQy",
+  "snapshot_id": "Z899AAAAAADNavdVyuORb0s5O2CMCudm",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Molho",
-        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 167119,
-      "name": "Molho",
-      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "me d\u00e1 dinheiro ou me faz gozar",
         "url": "https://open.spotify.com/album/6inLM6jekV3HXn8IW3AYWS"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 120923,
       "name": "me d\u00e1 dinheiro ou me faz gozar",
       "url": "https://open.spotify.com/track/6dX7MYD8SXum7KFgcfdxdT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Molho",
+        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 167119,
+      "name": "Molho",
+      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moranguinho",
         "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
       },
@@ -735,26 +715,6 @@
       "duration_ms": 114465,
       "name": "Moranguinho",
       "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "Cruzadas",
-      "url": "https://open.spotify.com/track/1aCV3ELeetm1pgdSOiDoeO"
     },
     {
       "added_at": null,
@@ -779,6 +739,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 174550,
+      "name": "N\u00e3o Gosto",
+      "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B\u00d4NUS TRACK",
         "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
       },
@@ -799,6 +795,30 @@
       "duration_ms": 228000,
       "name": "B\u00d4NUS TRACK",
       "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malvatrem (Deluxe)",
+        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "HG RealTrem",
+          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Preso na Minha BCT",
+      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
     },
     {
       "added_at": null,
@@ -843,30 +863,6 @@
       "duration_ms": 135521,
       "name": "O PAPO",
       "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvatrem (Deluxe)",
-        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "HG RealTrem",
-          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Preso na Minha BCT",
-      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
     },
     {
       "added_at": null,

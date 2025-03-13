@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new materiaL from horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,559 likes - 200 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,583 likes - 200 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 30 | [take it slow](https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [take it slow](https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR) | 2:17 |
 | 31 | [it boy](https://open.spotify.com/track/2z7NXVYJzeGnlzoEUN3Mdj) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [it boy](https://open.spotify.com/album/3zZiuSaIHp9t0KiFhySQZn) | 2:22 |
 | 32 | [LiKE A](https://open.spotify.com/track/3HLpdUbdkuApzseADV9oX5) | [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI) | [LiKE A](https://open.spotify.com/album/3A6nBAmn3tMZsaP71TFXr8) | 1:49 |
-| 33 | [Oops…](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops…](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 |
+| 33 | [Oops...](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops...](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 |
 | 34 | [Magic Powers With Two Shell](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [Magic Powers With Two Shell](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 35 | [Call My Phone](https://open.spotify.com/track/4l1Z3ocLNGegBMlAuNRKMf) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [Ticket 2 Heaven, Pt\. 1](https://open.spotify.com/album/3kT9iIH313t6Gb1J81YJIF) | 2:43 |
 | 36 | [Shrinking Violet](https://open.spotify.com/track/18LRMEMKbDoqA8WtBV0mGi) | [Oh well.](https://open.spotify.com/artist/25FTiLQemubL5MjTJ9AEXT) | [Shrinking Violet](https://open.spotify.com/album/0bsZv4zj4VpxckdZQfFm6s) | 3:06 |

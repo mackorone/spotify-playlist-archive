@@ -1,6 +1,6 @@
 {
   "description": "Every summer needs a soundtrack.",
-  "num_followers": 68422,
+  "num_followers": 68413,
   "original_name": "Summer Hits 2024",
   "owner": {
     "name": "Spotify",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "3 Songs At A Time Sampler",
-        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     }
   ],
   "unique_name": "Summer Hits 2024 (2)",

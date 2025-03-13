@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 497219,
+  "num_followers": 497301,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAACn+ebRhcQ3D0SuSExIYK25",
+  "snapshot_id": "Z899AAAAAAC49JX/j+xFwAFVVJs2H3ru",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+      "duration_ms": 238026,
+      "name": "Mariposa de Barrio",
+      "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Tu Camisa Puesta",
-      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
+      "duration_ms": 136320,
+      "name": "La Cara Bonita",
+      "url": "https://open.spotify.com/track/738eSXmmWKzUztBlemx7DQ"
     },
     {
       "added_at": null,
@@ -448,15 +448,15 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 238026,
-      "name": "Mariposa de Barrio",
-      "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
+      "duration_ms": 160880,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 136320,
-      "name": "La Cara Bonita",
-      "url": "https://open.spotify.com/track/738eSXmmWKzUztBlemx7DQ"
+      "duration_ms": 192004,
+      "name": "Tu Camisa Puesta",
+      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 222720,
       "name": "Ajustando Cuentas",
       "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 245967,
-      "name": "Chuper Amigos",
-      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 184026,
       "name": "\u00c9l - Banda",
       "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,176 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,173 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 20 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
 | 21 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
 | 22 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 |
-| 23 | [No Te Pongas Triste](https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:54 |
-| 24 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
+| 23 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
+| 24 | [No Te Pongas Triste](https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:54 |
 | 25 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
 | 26 | [Dónde Está La Nieve En Navidad](https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 2:25 |
 | 27 | [Llegó La Navidad](https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:05 |

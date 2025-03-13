@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc85 amo, troppo noi \ud83e\udec2",
-  "num_followers": 103810,
+  "num_followers": 103817,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-01-28 15:23:38",
       "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2025-01-28 15:23:38",
-      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2025-01-28 15:23:38",
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2025-01-28 15:23:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-01-28 15:23:38",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2025-01-28 15:23:38",
-      "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2025-01-28 15:23:38",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2025-01-28 15:23:38",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-28 15:23:38",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2025-01-28 15:23:38",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
+    },
+    {
+      "added_at": "2025-01-28 15:23:38",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2025-01-28 15:23:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-01-28 15:23:38",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2025-01-28 15:23:38",
-      "album": {
         "name": "THE LONELIEST",
         "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "added_at": "2025-01-28 15:23:38",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2025-01-28 15:23:38",

@@ -1,6 +1,6 @@
 {
   "description": "Get away from the maddening crowds with this peaceful pop mix.",
-  "num_followers": 1076999,
+  "num_followers": 1076995,
   "original_name": "Morning Stroll",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-11 03:12:12",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": "2024-07-11 03:12:12",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2024-07-11 03:12:12",
       "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2024-07-11 03:12:12",
@@ -619,6 +599,26 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2024-07-11 03:12:12",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2024-07-11 03:12:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-11 03:12:12",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2024-07-11 03:12:12",
-      "album": {
         "name": "Strawberries & Cigarettes",
         "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2024-07-11 03:12:12",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     }
   ],
   "unique_name": "Morning Stroll",

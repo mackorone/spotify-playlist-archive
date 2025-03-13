@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "BIG DUMMY!",
+        "url": "https://open.spotify.com/album/44sc8iJj674H2FQ8Oy8jrI"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "BIG DUMMY!",
+      "url": "https://open.spotify.com/track/6w4jpzvJmPcggS03P0W261"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -100,6 +118,24 @@
       "duration_ms": 130925,
       "name": "DONT WANT IT",
       "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
+    },
+    {
+      "album": {
+        "name": "DREAMBOY",
+        "url": "https://open.spotify.com/album/3iKDUwVktCzrLqgv2iKlU3"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215325,
+      "name": "DREAMBOY",
+      "url": "https://open.spotify.com/track/2lrqQ59IyZ9IDYxWeLd6rp"
     },
     {
       "album": {

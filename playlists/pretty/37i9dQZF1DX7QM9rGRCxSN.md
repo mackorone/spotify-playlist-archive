@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Vesica Piscis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,983 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,991 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 21 | [La Caja Del Diablo](https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 9:10 |
 | 22 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
 | 23 | [Lo Bonito de la Muerte](https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 6:22 |
-| 24 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
+| 24 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 | 25 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 |
-| 26 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
+| 26 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
 | 27 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 |
 | 28 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 29 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 40 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
 | 41 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 42 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 |
-| 43 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
-| 44 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
+| 43 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
+| 44 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 | 45 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
 | 46 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
 | 47 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
-| 48 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
-| 49 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 48 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 49 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
 | 50 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
 
 Snapshot ID: `Z4nsYgAAAACB/VEslUqxtvdGQl0dj73y`

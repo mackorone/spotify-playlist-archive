@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142204,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
+    },
+    {
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 168400,
       "name": "Brain Busta",
       "url": "https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK"

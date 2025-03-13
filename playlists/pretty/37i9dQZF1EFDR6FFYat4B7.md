@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 98 | [Maria](https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:34 |
 | 99 | [What You Do to Me](https://open.spotify.com/track/75spKLi9TpyyleewmxLR36) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:36 |
 | 100 | [All I Ever Wanted](https://open.spotify.com/track/3p0M2TUGrPyt2vfojWpjLw) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:23 |
-| 101 | [jaguars in the air](https://open.spotify.com/track/4UHTXB3cN4jzH5OdkpIUwX) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:37 |
-| 102 | [Glitter & Honey](https://open.spotify.com/track/4Ar1E0HhDOUwQyGzzHsED3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:07 |
+| 101 | [Glitter & Honey](https://open.spotify.com/track/4Ar1E0HhDOUwQyGzzHsED3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:07 |
+| 102 | [jaguars in the air](https://open.spotify.com/track/4UHTXB3cN4jzH5OdkpIUwX) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:37 |
 | 103 | [bad woman](https://open.spotify.com/track/4o9aWoai9UFblJYSiVmYuf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:14 |
 | 104 | [Doll House](https://open.spotify.com/track/6U8ckPIrR0xi2a4BdtHDJk) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:11 |
 | 105 | [Burning](https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 153 | [Ring The Alarm](https://open.spotify.com/track/0pr03cUOFsjZW26YSPBYG6) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Ring The Alarm](https://open.spotify.com/album/6wLqWInrnKYTH4nbnP0tSX) | 2:38 |
 | 154 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbrzCgAAAACr2VYZFGHJYcyfTxO0Tn46`
+Snapshot ID: `Abr4qgAAAABAk0kAaYzP9N9zVp3Ov4ro`

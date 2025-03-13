@@ -4,12 +4,13 @@
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-86 songs - 4 hr 55 min
+87 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 | 2024-12-04 |  |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-12-04 |  |
+| [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-12-04 |  |
 | [All In](https://open.spotify.com/track/3cDT2FK9rNvo1MdIEh2cvn) | [Aktiv Dödshjelp](https://open.spotify.com/artist/6VmW8AvN8ilOMV6hLo4xxP) | [All In](https://open.spotify.com/album/5cvYAH7KUd817SGr1Bklkz) | 2:40 | 2024-12-04 |  |
 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 | 2024-12-04 |  |
 | [Bardo](https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:24 | 2024-12-04 |  |
@@ -44,7 +45,7 @@
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-12-04 | 2024-12-23 |
 | [Hurts Like Hell](https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Hurts Like Hell](https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie) | 3:41 | 2024-12-04 | 2025-02-03 |
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-12-04 |  |
-| [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 | 2024-12-04 |  |
+| [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 | 2024-12-04 | 2025-03-13 |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-12-04 |  |
 | [I Wish I Never Loved You](https://open.spotify.com/track/15Y5h2JcW69wSP8Nz5cOVZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:43 | 2024-12-04 |  |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4) | 2:15 | 2024-12-04 |  |

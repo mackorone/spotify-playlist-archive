@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Olivia Wald.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,538 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,562 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 60 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
 | 61 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 |
 | 62 | [Creo en Ti](https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Creo en Ti](https://open.spotify.com/album/30xEbvEfbOvidCufcbfQtc) | 2:34 |
-| 63 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 |
-| 64 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 |
+| 63 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 |
+| 64 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 |
 | 65 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
 | 66 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 |
 | 67 | [Despacio Que Hay Prisa](https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Despacio Que Hay Prisa](https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj) | 5:02 |

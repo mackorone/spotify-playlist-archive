@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lady Gaga, JENNIE, Doechii, Spiritbox and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,138 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,146 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 51 | [Crimson and Clay](https://open.spotify.com/track/60gQmNkGCHQEb4TaJC9IwC) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Foxes in the Snow](https://open.spotify.com/album/6OgNgnMcqhcDw01qXlw8el) | 3:02 |
 | 52 | [Raining Inside \(With Dawes\)](https://open.spotify.com/track/7su4nP6XfnhsWNa9WS5O3Y) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Raining Inside \(With Dawes\)](https://open.spotify.com/album/1nYOXtwd7Ut5sBeM3207ka) | 5:27 |
 | 53 | [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 |
-| 54 | [Messi](https://open.spotify.com/track/0RPB4pwJ6EdiZ6vSeOi1DV) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [TOBi](https://open.spotify.com/artist/2zVarNfkdOVJwmf5aaKHQE) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 3:17 |
+| 54 | [Messi](https://open.spotify.com/track/0RPB4pwJ6EdiZ6vSeOi1DV) | [6ix](https://open.spotify.com/artist/73Df0fxT22620yLqUoV3ud), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Homebody](https://open.spotify.com/album/3vCrFs233lnxWtVBz0gS27) | 3:17 |
 | 55 | [I Need A Doctor](https://open.spotify.com/track/3icZay7m4Uvz2Xl29W1KnY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [More Leaks](https://open.spotify.com/album/4c44OTQjheRYrLdXX14TdC) | 2:33 |
 | 56 | [TMTK](https://open.spotify.com/track/1YVU9o0ftmmsFkIyBz8aT0) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [TMTK](https://open.spotify.com/album/1pSpnkEo6C2F7IxRVD8y0h) | 2:20 |
 | 57 | [Beg nor Borrow \(Clean\)](https://open.spotify.com/track/2RaUGWkPE1jASbyovWssJV) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Beg nor Borrow](https://open.spotify.com/album/2CHWzbW2djXd4cUyKhsGOa) | 3:15 |

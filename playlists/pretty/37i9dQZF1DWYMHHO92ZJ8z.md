@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,750 likes - 68 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,775 likes - 68 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Solfa](https://open.spotify.com/track/27OyimhoqIZaPG0Z0m3x4V) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn) | [Solfa](https://open.spotify.com/album/3jtT0D7rTtOfmdKRFw5OVp) | 3:14 |
+| 1 | [Solfa \(Tila\)](https://open.spotify.com/track/27OyimhoqIZaPG0Z0m3x4V) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn) | [Solfa \(Tila\)](https://open.spotify.com/album/3jtT0D7rTtOfmdKRFw5OVp) | 3:14 |
 | 2 | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/track/6QMUjJ6U90lSwC6wjzH5jP) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/album/27btvaDkPDLQJhPRlaJMlt) | 3:04 |
 | 3 | [Not The Same \- Black Coffee feat\. Shoba Remix](https://open.spotify.com/track/4zLzINaqP5GDhvvKKdtw8U) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Shoba](https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Not The Same \(Black Coffee feat\. Shoba Remix\)](https://open.spotify.com/album/4tzNE68h46UJPb28N8bhwg) | 3:36 |
 | 4 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |

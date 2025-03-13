@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-935 songs - 2 day 4 hr 56 min
+936 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Anna](https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Astroleaf](https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4) | [Anna](https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz) | 4:27 | 2022-07-29 | 2022-10-11 |
 | [Another Light](https://open.spotify.com/track/5EwM7BZizrzcJYY3CXLKC0) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Another Light](https://open.spotify.com/album/246lmuP4COwpbWT4jpDuM8) | 3:56 | 2024-03-19 | 2024-06-06 |
 | [Another World](https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Another World](https://open.spotify.com/album/1F2S0yuHSOnWaEjQRyMSq6) | 3:43 | 2024-05-24 | 2024-08-15 |
+| [Anxious](https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Anxious](https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU) | 2:22 | 2025-03-12 |  |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-19 | 2023-09-26 |
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
 | [Arise](https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Arise](https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv) | 3:16 | 2022-08-03 | 2022-10-19 |
@@ -112,7 +113,7 @@
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [BOOMBA](https://open.spotify.com/track/5LHRP4KmkSMCqrGbLUGaTo) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq) | 6:33 | 2024-12-06 |  |
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
-| [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 |  |
+| [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-02-27 |  |

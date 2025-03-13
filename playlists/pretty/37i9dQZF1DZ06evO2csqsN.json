@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 34404,
+  "num_followers": 34418,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADH97cOg6+6XHIp2mq1Ijdk",
+  "snapshot_id": "Z899AAAAAACgzayUzDrKLhFzrhOPmuEb",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Big Mama",
-      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Just Called",
         "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "H&M",
-      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B*tch From Da Souf",
-        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 144047,
-      "name": "B*tch From Da Souf",
-      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 178160,
       "name": "Look What You Did (feat. Mariah the Scientist)",
       "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B*tch From Da Souf",
+        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 144047,
+      "name": "B*tch From Da Souf",
+      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Chicken Grease",
+      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Booty (feat. Latto)",
         "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Chicken Grease",
-      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Didn't Say (feat. Latto)",
-      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 206613,
       "name": "Copper Cove (feat. Hunxho)",
       "url": "https://open.spotify.com/track/6AbCAY8Wp0BXJ99itlWlVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Didn't Say (feat. Latto)",
+      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
         "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 255180,
       "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
       "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
         "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 179533,
       "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
       "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Shotta",
         "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 113237,
       "name": "On God",
       "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": null,

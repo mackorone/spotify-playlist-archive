@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,253 songs - 11 day 10 hr 44 min
+7,254 songs - 11 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,7 +1285,7 @@
 | [Collecting Dust](https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Collecting Dust](https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH) | 2:10 | 2024-03-08 | 2024-06-23 |
 | [Collecting Fluffy Stuff](https://open.spotify.com/track/2YWnkjiPKJHG8t4LRC0IFg) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Collecting Fluffy Stuff](https://open.spotify.com/album/47sWKMPyGzRpDIYU1tuFI6) | 2:44 | 2022-01-07 | 2022-08-27 |
 | [Collection](https://open.spotify.com/track/7wOGFhYnKOIMdUxQRtg273) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Collection](https://open.spotify.com/album/7tnhTs8ZEHYBJ6XtAHemLs) | 3:01 | 2021-11-05 | 2022-05-27 |
-| [College Love](https://open.spotify.com/track/6eLrSZpTldW4qXzZI0xlOg) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [College Love](https://open.spotify.com/album/4tFUzCU0OomrbDuKX5BOHq) | 3:07 | 2024-12-20 |  |
+| [College Love](https://open.spotify.com/track/6eLrSZpTldW4qXzZI0xlOg) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [College Love](https://open.spotify.com/album/4tFUzCU0OomrbDuKX5BOHq) | 3:07 | 2024-12-20 | 2025-03-13 |
 | [Collins Avenue](https://open.spotify.com/track/2yVDbSSbJzJGMwy7N5Chid) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [Collins Avenue](https://open.spotify.com/album/3q5TZtQOaDHHP6z37jnagc) | 3:06 | 2021-10-26 | 2022-04-24 |
 | [Cologne Nights](https://open.spotify.com/track/377tuQh5TNir1qp8mr58NI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Cologne Nights](https://open.spotify.com/album/1nu3ZwgEJ0fIK8Ge5T1XOF) | 2:11 | 2022-06-03 | 2022-09-30 |
 | [Color Fusion](https://open.spotify.com/track/5QBlqDw9JZMCi6V6hLKqL5) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Color Fusion](https://open.spotify.com/album/1GSCjxeFTThuItnhenJPvC) | 2:02 | 2023-05-18 | 2023-09-16 |
@@ -2453,6 +2453,7 @@
 | [Glidin](https://open.spotify.com/track/1f2zvcKa9pYHfO97JCKhDG) | [Gian Thani](https://open.spotify.com/artist/4BXXLCtwIwhOEvbx6FG5uF) | [Glidin](https://open.spotify.com/album/6YxQnvP5ngDXZgo9XpbOFq) | 2:25 | 2023-06-07 | 2023-07-28 |
 | [Gliding](https://open.spotify.com/track/6PqLv3nqov3gWGyjgEfqgT) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Gliding](https://open.spotify.com/album/7FwWCkfoIGvRvUa1f6XKSo) | 2:26 | 2022-07-08 | 2022-10-21 |
 | [Gliding](https://open.spotify.com/track/6AZYiPSh3nTdui6bXuKo7L) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk) | [Gliding](https://open.spotify.com/album/3kRLJtFz6SvRCh800HIbIi) | 3:13 | 2024-08-23 | 2024-10-19 |
+| [Glimmers](https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Glimmers](https://open.spotify.com/album/1XzhGnS0rspiOQZ552QHo5) | 2:21 | 2025-03-07 |  |
 | [Glimpse](https://open.spotify.com/track/0FycLRrgbBt1BbEglfgvFd) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [Glimpse](https://open.spotify.com/album/1b6qoWWQEvp7p4q7qTVG6w) | 2:33 | 2022-12-02 | 2023-04-06 |
 | [Glint](https://open.spotify.com/track/4yLh1AgaQhxdgIOhCPAMAp) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Glint](https://open.spotify.com/album/5W4BbFuX8md3xhNHRTfW7g) | 1:52 | 2022-07-08 | 2022-10-21 |
 | [Glissade](https://open.spotify.com/track/7wckVgqFimHFAQA5GzGSGS) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Glissade](https://open.spotify.com/album/3hr8SY2rU7UGqZMAcDpf4j) | 2:27 | 2022-07-15 | 2022-10-28 |

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-647 songs - 1 day 14 hr 8 min
+648 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Gundu Kuzhi](https://open.spotify.com/track/4vdmh57LjtzPh6wKIZ7hsl) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Gundu Kuzhi](https://open.spotify.com/album/5J0ulhZcotGQ0oZfGfE3Zx) | 4:12 | 2023-03-23 | 2024-04-19 |
 | [Gundu Kuzhi](https://open.spotify.com/track/607puj8ynHdgBVtbrv8I3N) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Gundu Kuzhi](https://open.spotify.com/album/1EcmdraRNzhqODFNDw3FDW) | 4:12 | 2023-03-23 | 2024-11-05 |
 | [Gundumalli](https://open.spotify.com/track/2spwqh9U3q4hFdwzLIzz8W) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP) | [Gundumalli](https://open.spotify.com/album/3NV47pWn2ERWwWsWJPz4J8) | 3:35 | 2021-12-27 | 2022-07-08 |
+| [HAMILTON](https://open.spotify.com/track/46Zt8NpcGIxnfitzm2XSLl) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [HAMILTON](https://open.spotify.com/album/55faVp7wRhzY3DsUeGpCyV) | 2:26 | 2025-03-12 |  |
 | [Hasana Hasana](https://open.spotify.com/track/3CbeaHqKfAaYZQ9XllA0Ce) | [L.V\. Muthukumarasamy](https://open.spotify.com/artist/1bLTExC3vBstps2u92ae6J) | [Hasana](https://open.spotify.com/album/143H6oM50x5cvXcw5Fs4V6) | 3:42 | 2023-03-06 | 2023-03-18 |
 | [Heartu Oru Nodi Nikkudhey](https://open.spotify.com/track/3bn64N4VIDpEap7zRY17Xi) | [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV), [Akshaya Ramnath](https://open.spotify.com/artist/5WxOIRzmphbilTrjYw4fyA), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Heartu Oru Nodi Nikkudhey](https://open.spotify.com/album/2peM2HbrosGpu9z6p8zPeH) | 4:15 | 2023-02-21 | 2023-03-23 |
 | [Hello Endru Pesatta](https://open.spotify.com/track/1HmdmyY0rJl5KaDzW8lJrj) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Hello Endru Pesatta](https://open.spotify.com/album/4qRn37Ee2SKAPLCR0QwkhX) | 3:32 | 2022-07-15 | 2023-02-07 |
@@ -166,7 +167,7 @@
 | [Hey Sagiye](https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Sagiye](https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc) | 3:08 | 2022-09-23 | 2022-10-07 |
 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 | 2021-12-01 | 2022-08-12 |
 | [HIGH FASHION](https://open.spotify.com/track/7BtpADoxk4qpQiK3gQMtDb) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [HIGH FASHION](https://open.spotify.com/album/4OS7pjJGJ8gpoM8uFWgawi) | 2:12 | 2024-09-30 |  |
-| [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-10-06 |  |
+| [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-10-06 | 2025-03-13 |
 | [i Aval](https://open.spotify.com/track/2IF8PVUGyCrbYfJz5wsDa3) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/4uFSbPAoFHoa5SZ72WD9pw) | 2:49 | 2023-10-06 | 2024-04-19 |
 | [I Mac Nee](https://open.spotify.com/track/3iotSFdvIPHlbVMH4caznZ) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Chaithania Prakash](https://open.spotify.com/artist/4zLVUpAR1fVOY1O00fRc92), [Akshay Kamal](https://open.spotify.com/artist/7qmBZJIXxASuf2ODypFxo1) | [I Mac Nee](https://open.spotify.com/album/0vHTrFFBcDgqrU77Hwu3xx) | 3:57 | 2023-03-03 | 2023-03-23 |
 | [Idhan da Life\-u](https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Idhan da Life\-u](https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq) | 2:58 | 2022-12-23 | 2023-03-22 |

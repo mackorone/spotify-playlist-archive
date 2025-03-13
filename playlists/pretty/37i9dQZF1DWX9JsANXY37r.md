@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,716 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,712 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 25 | [Aloha](https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [Panorama](https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r) | 3:38 |
 | 26 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
 | 27 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 |
-| 28 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
-| 29 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
-| 30 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
+| 28 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
+| 29 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
+| 30 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
 | 31 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
 | 32 | [Late Nights & Heartbreak](https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v) | [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg), [The Affirmations](https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g) | [Late Nights & Heartbreak](https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp) | 4:15 |
 | 33 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |

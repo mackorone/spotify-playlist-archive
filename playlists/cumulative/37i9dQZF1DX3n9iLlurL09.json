@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Kill for Love",
+        "url": "https://open.spotify.com/album/5Rz4NIqwoYGDbIh40UTylV"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237986,
+      "name": "Kill For Love",
+      "url": "https://open.spotify.com/track/4jhdcYyWYx6d60j60OQDCa"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm"
       },
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 233817,
       "name": "Ode to Viceroy",
       "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"

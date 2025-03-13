@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: マカロニえんぴつ \*👉 <a href="https://spice.eplus.jp/articles/336043">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: マカロニえんぴつ \*👉 <a href="https://spice.eplus.jp/articles/336217">SPICE連動記事</a>をSPICEでチェック!
 
-9,812 songs - 25 day 11 hr 18 min
+9,813 songs - 25 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [2025/2/19 AKASAKIが新曲をリリース！緑黄色社会のインタビューも到着！LANA、Medusa、E.V.P、IFEのコラボソング、キタニタツヤの新曲もピックアップ！！](https://open.spotify.com/episode/6cD571DZakH1SM5EVQNEFV) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 52:58 | 2025-02-19 | 2025-02-26 |
 | [2025/2/26 yamaがindigo la Endを迎えた新曲をリリース！！G\-DRAGON\(BIGBANG\)の8年ぶりのニューアルバムやONE OK ROCKのニューアルバムも！ShowyVICTOR初のスタジオアルバム、注目のバンドluvもピックアップ！](https://open.spotify.com/episode/0NUfAAE0YlBNtdaRdnKNkQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:19 | 2025-02-26 | 2025-03-05 |
 | [2025/2/5 Creepy Nutsがカバー！『No No Girls』から誕生したHANA、Early NoiseアーティストLavtの新曲も！ハルカミライのニューアルバム、日食なつこの新曲もピックアップ！BOYNEXTDOORからメッセージも到着！](https://open.spotify.com/episode/5nrxle7946p4Hj07OSSVsk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:12 | 2025-02-05 | 2025-02-12 |
+| [2025/3/12 マカロニえんぴつがニューEPをリリース！折坂悠太やjo0jiの新曲も！佐野元春 & THE COYOTE BANDのニューアルバム、3Houseのニューアルバムもピックアップ！7coからメッセージも到着！](https://open.spotify.com/episode/0JRV38XEFzf7So4p4SGzrX) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 23:12 | 2025-03-12 |  |
 | [2025/3/5 AAAMYYYが鎮座DOPENESSとNeetzを迎えた新曲をリリース！女王蜂のニューアルバムも！君島大空のニューEP、G\-k.i.dのソロ新曲、冨田ラボの新曲もピックアップ！この1週間の音楽ニュースも深堀り！](https://open.spotify.com/episode/0T6FmQgdyXosPxc3EqnOFg) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:11 | 2025-03-05 | 2025-03-12 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
@@ -5749,7 +5750,7 @@
 | [THIS IS JAPANESE GIRL](https://open.spotify.com/track/5psoHRZLny713ndQc6X9up) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/2f3N06aYmjaeAZAppZfsgJ) | 3:20 | 2024-05-28 | 2024-06-05 |
 | [This is Love](https://open.spotify.com/track/12sRRpwLcQm09i1ziYnnBQ) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [This is Love](https://open.spotify.com/album/48x9zm2sjBVeWeiDR5D6dM) | 3:17 | 2023-11-08 | 2023-11-16 |
 | [This is Love](https://open.spotify.com/track/2S6C8oSWSUwQeQQc3X4feY) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [This is Love](https://open.spotify.com/album/5gnfAYg6ecMZrJkjLnMbG1) | 3:17 | 2023-11-07 | 2023-11-09 |
-| [This is Love](https://open.spotify.com/track/3lBvP5iRD724i45ximoGjQ) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [This is Love](https://open.spotify.com/album/1O7slRAXhy4XnqTHp7ignu) | 3:44 | 2025-03-11 |  |
+| [This is love](https://open.spotify.com/track/3lBvP5iRD724i45ximoGjQ) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [This is love](https://open.spotify.com/album/1O7slRAXhy4XnqTHp7ignu) | 3:44 | 2025-03-11 |  |
 | [This is Love](https://open.spotify.com/track/2UpYcx6CtOFqdz0Enh608Y) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [高谷秀司](https://open.spotify.com/artist/7dkLPE7h3MieW9fchAcsky) | [This is Love](https://open.spotify.com/album/34p5vSdr7BrTg69dU0ThTP) | 3:42 | 2023-09-12 | 2023-09-20 |
 | [This is Plum Hills Studio](https://open.spotify.com/track/4mxIQItQtG2Vh9v5Xk1YN0) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [This is Plum Hills Studio](https://open.spotify.com/album/2XESlFBpVFJz0hXdW2Svyx) | 2:39 | 2024-04-16 | 2024-04-24 |
 | [This is 人生](https://open.spotify.com/track/5cSEEa7ziv9UVonTOb76DO) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [ぬくもり](https://open.spotify.com/album/4U7o0SU8HwdABbnHlURJBy) | 4:49 | 2023-06-13 | 2023-06-21 |

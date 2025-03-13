@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 36 | [Still In Love](https://open.spotify.com/track/6Zu27PkzMSe2oL9kgCXyk3) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:26 |
 | 37 | [Never Did This Before](https://open.spotify.com/track/27skPro3ahG0esoPhkNEs4) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5) | [Never Did This Before](https://open.spotify.com/album/1UcbXv32GuCvEFo9A2t1Qr) | 3:25 |
 | 38 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
-| 39 | [Broken Arrow](https://open.spotify.com/track/4ETuk7bkreL9gkDOZQ4djV) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up \(Louder\)](https://open.spotify.com/album/75EDt9qc7jTgyoi8K4SyJn) | 3:39 |
-| 40 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 39 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 40 | [Broken Arrow](https://open.spotify.com/track/4ETuk7bkreL9gkDOZQ4djV) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up \(Louder\)](https://open.spotify.com/album/75EDt9qc7jTgyoi8K4SyJn) | 3:39 |
 | 41 | [Remedy](https://open.spotify.com/track/5caMleOQ7qtqKZA34x9vSA) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [At Your Inconvenience](https://open.spotify.com/album/1DrD9yINGa4J2xb37dGZ8u) | 3:15 |
 | 42 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
 | 43 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 128 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 | 129 | [Alibi](https://open.spotify.com/track/3R8hu5b33Pq2ucV4V7fPqv) | [Le Delacroix](https://open.spotify.com/artist/3P6sbTAoScXwESIgUG0PmH) | [EDM Gaming Energy Boost](https://open.spotify.com/album/6gRDEE1FXYgblES7yADmu1) | 3:05 |
 
-Snapshot ID: `AbrzKAAAAAAcfuO/Jlumz2/RGmPVnc/f`
+Snapshot ID: `Abr4tAAAAADw0cRNd3paX8gBfqVR04my`

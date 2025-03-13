@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1960069,
+  "num_followers": 1960044,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
         "name": "Chasing Paradise",
         "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 180091,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
@@ -1263,6 +1247,30 @@
       "duration_ms": 230945,
       "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1299,46 +1307,18 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 157252,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1359,6 +1339,26 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "\u30aa\u30d7\u30c6\u30a3\u30ab\u30eb\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\uff0f\u30b9\u30da\u30af\u30c8\u30e9\u30e0\uff12",
-        "url": "https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U"
-      },
-      "artists": [
-        {
-          "name": "Spectrum",
-          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
-        }
-      ],
-      "duration_ms": 210389,
-      "name": "F\u30fbL\u30fbY",
-      "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
+        "name": "\u30aa\u30d7\u30c6\u30a3\u30ab\u30eb\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\uff0f\u30b9\u30da\u30af\u30c8\u30e9\u30e0\uff12",
+        "url": "https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U"
+      },
+      "artists": [
+        {
+          "name": "Spectrum",
+          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
+        }
+      ],
+      "duration_ms": 210389,
+      "name": "F\u30fbL\u30fbY",
+      "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
+        "name": "Broken Sunshine",
+        "url": "https://open.spotify.com/album/7vucHZXvKvdwPhlZzzJvTR"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Broken Sunshine",
+      "url": "https://open.spotify.com/track/0dN8k9rJg8uQnERTw5w5Vy"
+    },
+    {
+      "added_at": "2025-03-07 09:27:40",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC"
       },
@@ -1551,26 +1567,6 @@
       "duration_ms": 154013,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg"
-    },
-    {
-      "added_at": "2025-03-07 09:27:40",
-      "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
     },
     {
       "added_at": "2025-03-07 09:27:40",
@@ -1591,18 +1587,22 @@
     {
       "added_at": "2025-03-07 09:27:40",
       "album": {
-        "name": "Broken Sunshine",
-        "url": "https://open.spotify.com/album/7vucHZXvKvdwPhlZzzJvTR"
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Broken Sunshine",
-      "url": "https://open.spotify.com/track/0dN8k9rJg8uQnERTw5w5Vy"
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
     },
     {
       "added_at": "2025-03-07 09:27:40",

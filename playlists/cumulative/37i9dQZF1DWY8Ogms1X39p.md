@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-213 songs - 12 hr 7 min
+214 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 | 2024-08-30 |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-12-13 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-12-13 |  |
+| [everything u are](https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:56 | 2025-03-12 |  |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-12-13 |  |
 | [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 | 2022-12-13 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-19 |  |
@@ -76,7 +77,7 @@
 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2023-03-30 |  |
 | [Gimme A Minute \(Feat\. CHUNG HA\)](https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:05 | 2024-11-25 | 2025-01-08 |
 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 | 2022-12-13 |  |
-| [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2022-12-13 |  |
+| [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2022-12-13 | 2025-03-13 |
 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 | 2024-08-29 |  |
 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 | 2024-02-09 |  |
 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2025-03-03 |  |
@@ -118,7 +119,7 @@
 | [LESTARI MERDU](https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [+62](https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk) | 4:47 | 2022-12-13 | 2023-08-31 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-12-13 | 2024-03-01 |
 | [Lifetime \(Dimension\)](https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Green Banana](https://open.spotify.com/album/2h4MnsFmmZdXsqXqPESDc8) | 3:36 | 2023-10-11 | 2024-01-17 |
-| [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-10-07 |  |
+| [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-10-07 | 2025-03-13 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-12-13 | 2023-09-14 |
 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 | 2023-06-20 | 2025-03-04 |
 | [Look At Me](https://open.spotify.com/track/6Jkcg39vqttJezD7nfqrSj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:13 | 2024-02-20 |  |
@@ -142,7 +143,7 @@
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2025-01-07 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-03-30 | 2025-02-13 |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2024-02-29 | 2024-08-30 |
-| [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 | 2025-03-10 |  |
+| [Nothing More Than That](https://open.spotify.com/track/55FmSDZaK44xnMo6vSKz4t) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Nothing More Than That](https://open.spotify.com/album/2FAfNqsMaba4L3yC8S3zLz) | 3:33 | 2025-03-10 | 2025-03-13 |
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-12-13 |  |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-09-13 |  |
 | [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 | 2024-04-17 | 2024-07-25 |

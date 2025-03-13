@@ -471,22 +471,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "02:30",
         "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 217000,
       "name": "02:30",
       "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR"
       },
@@ -599,18 +583,34 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Den jag kunde blivit - Den jag blev",
-        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk"
       },
       "artists": [
         {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 177479,
-      "name": "Den jag kunde blivit - Den jag blev",
-      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
+      "duration_ms": 182824,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -627,6 +627,22 @@
       "duration_ms": 189375,
       "name": "How Can I Make You Stay",
       "url": "https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Den jag kunde blivit - Den jag blev",
+        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Den jag kunde blivit - Den jag blev",
+      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -691,22 +707,6 @@
       "duration_ms": 159024,
       "name": "han e done",
       "url": "https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Du \u00e4r nog",
-        "url": "https://open.spotify.com/album/0iCL5mpUCWSIdc7e4mgQ4V"
-      },
-      "artists": [
-        {
-          "name": "Daniel Adams-Ray",
-          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
-        }
-      ],
-      "duration_ms": 226105,
-      "name": "Du \u00e4r nog",
-      "url": "https://open.spotify.com/track/4QZwUG1znAUQ7TH7HNyGK9"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "Du lever bara en g\u00e5ng",
         "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 184973,
       "name": "Du lever bara en g\u00e5ng",
       "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Du \u00e4r nog",
+        "url": "https://open.spotify.com/album/0iCL5mpUCWSIdc7e4mgQ4V"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "duration_ms": 226105,
+      "name": "Du \u00e4r nog",
+      "url": "https://open.spotify.com/track/4QZwUG1znAUQ7TH7HNyGK9"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Dying Light",
-        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 173694,
-      "name": "Dying Light",
-      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "Vad har du gjort med mig",
         "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 181052,
       "name": "Vad har du gjort med mig",
       "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Dying Light",
+        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 173694,
+      "name": "Dying Light",
+      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "sista ordet",
-        "url": "https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 148577,
-      "name": "sista ordet",
-      "url": "https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "Can't Find Love",
         "url": "https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
-        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
+        "name": "sista ordet",
+        "url": "https://open.spotify.com/album/1kUhBiMtrokFAKJTfJduuW"
       },
       "artists": [
         {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
         }
       ],
-      "duration_ms": 245376,
-      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
-      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
+      "duration_ms": 148577,
+      "name": "sista ordet",
+      "url": "https://open.spotify.com/track/267CfmuUf0qy8b0fPsGgTu"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Alla Tittar P\u00e5 Mig",
-        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
         }
       ],
-      "duration_ms": 144586,
-      "name": "Alla Tittar P\u00e5 Mig",
-      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
+      "duration_ms": 245376,
+      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1195,6 +1179,22 @@
       "duration_ms": 204287,
       "name": "Fyllda Av Sommar",
       "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Alla Tittar P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "Alla Tittar P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 160655,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "L\u00e4tt",
         "url": "https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 223626,
       "name": "L\u00e4tt",
       "url": "https://open.spotify.com/track/1rU3xTM0G4qQ0dfBhjTUCz"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 160655,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1447,38 +1447,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Terapi",
-        "url": "https://open.spotify.com/album/1PclVXly9xQi0c2U1pcbVZ"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Terapi",
-      "url": "https://open.spotify.com/track/7Ck9S4q8vVfdyEkggerGB0"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
-        "name": "nathalie",
-        "url": "https://open.spotify.com/album/5TFSOfVQXJmnYtXphF4mNs"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "nathalie",
-      "url": "https://open.spotify.com/track/6AgvVg29MZ6LIw6DiLOZ4H"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "Allting regnar men himlen st\u00e5r kvar",
         "url": "https://open.spotify.com/album/5V0vlxkrxOt1uJlAG3LZwW"
       },
@@ -1495,34 +1463,18 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "The Driving Towards The Sunset Tapes",
-        "url": "https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL"
+        "name": "Terapi",
+        "url": "https://open.spotify.com/album/1PclVXly9xQi0c2U1pcbVZ"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
         }
       ],
-      "duration_ms": 239859,
-      "name": "volar",
-      "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
-        "name": "Out of My Mind",
-        "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 217294,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
+      "duration_ms": 172386,
+      "name": "Terapi",
+      "url": "https://open.spotify.com/track/7Ck9S4q8vVfdyEkggerGB0"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1543,6 +1495,38 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
+        "name": "nathalie",
+        "url": "https://open.spotify.com/album/5TFSOfVQXJmnYtXphF4mNs"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "nathalie",
+      "url": "https://open.spotify.com/track/6AgvVg29MZ6LIw6DiLOZ4H"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "The Driving Towards The Sunset Tapes",
+        "url": "https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 239859,
+      "name": "volar",
+      "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
         "name": "The Player",
         "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
       },
@@ -1559,18 +1543,34 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Yue",
-        "url": "https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w"
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
       },
       "artists": [
         {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
         }
       ],
-      "duration_ms": 154213,
-      "name": "nylon",
-      "url": "https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr"
+      "duration_ms": 217294,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1611,34 +1611,18 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+        "name": "Yue",
+        "url": "https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w"
       },
       "artists": [
         {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
         }
       ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
-        "name": "push pull",
-        "url": "https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 147949,
-      "name": "push pull",
-      "url": "https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y"
+      "duration_ms": 154213,
+      "name": "nylon",
+      "url": "https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr"
     },
     {
       "added_at": "2025-03-07 10:39:57",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
+        "name": "push pull",
+        "url": "https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 147949,
+      "name": "push pull",
+      "url": "https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
         "name": "I natt \u00e9 hela staden v\u00e5r",
         "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-03-07 10:39:57",
       "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx"
-      },
-      "artists": [
-        {
-          "name": "emoemy",
-          "url": "https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-      "url": "https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9"
-    },
-    {
-      "added_at": "2025-03-07 10:39:57",
-      "album": {
         "name": "kort & kall",
         "url": "https://open.spotify.com/album/3pr7T4bj8g7aYTR6K6SJ4f"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 189295,
       "name": "kort & kall",
       "url": "https://open.spotify.com/track/2I0UzNqQKk6EBg7oLhgcGC"
+    },
+    {
+      "added_at": "2025-03-07 10:39:57",
+      "album": {
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx"
+      },
+      "artists": [
+        {
+          "name": "emoemy",
+          "url": "https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+      "url": "https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9"
     },
     {
       "added_at": "2025-03-07 10:39:57",

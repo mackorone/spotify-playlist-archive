@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: MARLENA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,765 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,769 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [échame la culpa <3](https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [échame la culpa <3](https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h) | 2:59 |
-| 2 | [Esa Diva](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
+| 2 | [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |
 | 3 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
 | 4 | [Guapa y Lista](https://open.spotify.com/track/0EELX4BqniiLIvidaj6Z5C) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm), [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML), [MΔG](https://open.spotify.com/artist/0qiMFUaxhWadg9Mz1Y4p1M) | [Remixes by MΔG](https://open.spotify.com/album/1eJrBleuRcjhciHsgPTUb7) | 3:57 |
 | 5 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |

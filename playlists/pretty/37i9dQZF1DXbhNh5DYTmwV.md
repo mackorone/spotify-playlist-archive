@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,650 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,653 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 30 songs - 1 hr 51 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 31 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 | 28 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
 | 29 | [Home](https://open.spotify.com/track/3XRALl9CNCnjjbCZid2L9w) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Home](https://open.spotify.com/album/1VsBid0LZVPoNokDiJqROg) | 4:29 |
 | 30 | [House of Wolves](https://open.spotify.com/track/4qPbHPTHniTcYt6oeboB7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:04 |
+| 31 | [Zero Zero](https://open.spotify.com/track/4LayGZR6aW0VCoMlv828NM) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:49 |
 
-Snapshot ID: `AAAAIOAsLhdX6Is4a+YhmUAgiuI6SymE`
+Snapshot ID: `AAAAIeSXTYSUhykINBnoFoGlTnGDhht9`

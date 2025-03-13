@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-286 songs - 18 hr 25 min
+287 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [DOWN TO EARTH](https://open.spotify.com/track/0xzMgzRwyU2QKSHhkZFmhk) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [DOWN TO EARTH](https://open.spotify.com/album/2ytD8Aj9m2zF42kYSHDFVx) | 3:00 | 2025-02-10 |  |
 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 | 2022-10-14 | 2025-02-11 |
 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 | 2021-12-13 | 2023-10-04 |
+| [Eon](https://open.spotify.com/track/3rIJKLPUqpXQGWmldbgbxH) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Eon](https://open.spotify.com/album/4LUTndEHE6DgiOAiHN5hgQ) | 3:18 | 2025-03-12 |  |
 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 | 2021-12-13 | 2024-09-21 |
 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 | 2024-04-11 | 2024-11-15 |
 | [Everybody Love \[Feat\. Musiq Soulchild & Posdnuos\]](https://open.spotify.com/track/78Al5zZW8NubOJjlmscmEa) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:03 | 2022-09-30 | 2024-04-19 |
@@ -102,7 +103,7 @@
 | [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 | 2022-12-02 | 2024-02-24 |
 | [Hangmat](https://open.spotify.com/track/4Fe4a65JErIRywwlm2x5ob) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Livingstone](https://open.spotify.com/album/7BJvFHKl7SQDoVmi3PRuVu) | 6:22 | 2021-12-13 | 2022-01-11 |
 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 | 2024-08-02 |  |
-| [Haunted \- Instrumental](https://open.spotify.com/track/1aJJkw3hPHNWpC4wwVrWlb) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [A World Away EP \(Instrumental\)](https://open.spotify.com/album/2VUSynMaz2jfStBMQLR5uu) | 5:09 | 2024-02-23 |  |
+| [Haunted \- Instrumental](https://open.spotify.com/track/1aJJkw3hPHNWpC4wwVrWlb) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [A World Away EP \(Instrumental\)](https://open.spotify.com/album/2VUSynMaz2jfStBMQLR5uu) | 5:09 | 2024-02-23 | 2025-03-13 |
 | [He's Been Gone](https://open.spotify.com/track/3dXoXjTSjbcR1IVYUdo9YI) | [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Speak Up EP](https://open.spotify.com/album/3D53Q7mIXqlu40HW1jerWY) | 2:48 | 2021-12-13 | 2022-07-29 |
 | [He's Been Gone](https://open.spotify.com/track/7Apu2VeNNUlKivnI6BatoV) | [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Speak Up EP](https://open.spotify.com/album/5L0WOwTwEoXYlb4pC4IcZM) | 2:48 | 2022-07-05 | 2022-10-01 |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-12-05 | 2025-02-11 |

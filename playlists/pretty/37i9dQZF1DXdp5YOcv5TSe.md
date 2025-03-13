@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,117 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,213 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

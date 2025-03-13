@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 15326,
+  "num_followers": 15327,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Mila J",
-          "url": "https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "On The Way (feat. Mila J)",
-      "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Mila J",
+          "url": "https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "On The Way (feat. Mila J)",
+      "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
     },
     {
       "added_at": "2022-10-01 16:57:49",

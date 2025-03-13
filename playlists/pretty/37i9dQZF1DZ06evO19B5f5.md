@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 
 > This is Lauren Aquilina\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529 likes - 35 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 530 likes - 35 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King](https://open.spotify.com/track/5pCqu0I33UR4UMjrJaAHCi) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:58 |
-| 2 | [Sinners](https://open.spotify.com/track/66M3VrZU4KosdRnntqKfXK) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:39 |
-| 3 | [Latest Ghost](https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:13 |
+| 2 | [Latest Ghost](https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:13 |
+| 3 | [Sinners](https://open.spotify.com/track/66M3VrZU4KosdRnntqKfXK) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:39 |
 | 4 | [Forest Fires](https://open.spotify.com/track/2LkJSSCynjnin2q21IC844) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:46 |
 | 5 | [Fools](https://open.spotify.com/track/5EebKfMu8tX94Vm4ohQAwA) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:33 |
 | 6 | [Time To Say Goodbye](https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Time To Say Goodbye](https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY) | 3:08 |
@@ -28,20 +28,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 18 | [Ugly Truth](https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:12 |
 | 19 | [Hanging By Your Halo](https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Hanging By Your Halo](https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR) | 3:15 |
 | 20 | [Thinking About](https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:57 |
-| 21 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
-| 22 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
-| 23 | [Flaws & Ceilings](https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2) | [Frank Hamilton](https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa), [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [All of \#OneSongAWeek](https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg) | 3:36 |
-| 24 | [How Would You Like It?](https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:59 |
+| 21 | [Flaws & Ceilings](https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2) | [Frank Hamilton](https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa), [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [All of \#OneSongAWeek](https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg) | 3:36 |
+| 22 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
+| 23 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
+| 24 | [Suddenly Strangers](https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:22 |
 | 25 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 |
-| 26 | [Fuckedupminddd](https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 2:54 |
-| 27 | [Midnight Mouths \- filous Remix](https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Midnight Mouths \(filous Remix\)](https://open.spotify.com/album/316VVViBiKIcbTSamsojmG) | 4:05 |
-| 28 | [Suddenly Strangers](https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:22 |
+| 26 | [Midnight Mouths \- filous Remix](https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Midnight Mouths \(filous Remix\)](https://open.spotify.com/album/316VVViBiKIcbTSamsojmG) | 4:05 |
+| 27 | [Fuckedupminddd](https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 2:54 |
+| 28 | [How Would You Like It?](https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:59 |
 | 29 | [The Knife](https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [The Knife](https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM) | 2:56 |
-| 30 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 |
-| 31 | [Broke](https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 4:07 |
+| 30 | [Broke](https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 4:07 |
+| 31 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 |
 | 32 | [Ocean](https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 4:18 |
 | 33 | [Low](https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:28 |
 | 34 | [Hurt Any Less](https://open.spotify.com/track/2djUFakeHHNfmpMj907vZ6) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:22 |
 | 35 | [Out Of Our Depth](https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:58 |
 
-Snapshot ID: `Z8zaAAAAAAD+vdivroe9hawuWDnXMvuM`
+Snapshot ID: `Z899AAAAAADIIUSG+MEFTgJUmbZof+iw`

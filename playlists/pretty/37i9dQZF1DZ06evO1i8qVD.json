@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 35041,
+  "num_followers": 35037,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABHhfVv5GI3l1Q3YrfT27qP",
+  "snapshot_id": "Z899AAAAAADTlz1dnkTzGNYGKiplXrIV",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 138506,
+      "name": "First Time I Met The Blues - Single Version",
+      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "First Time I Met The Blues - Single Version",
-      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "The Blues Is Alive And Well",
+      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 175530,
       "name": "Texas Louisiana",
       "url": "https://open.spotify.com/track/6OdFdXQR5gm1uCJYzA5RqH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "The Blues Is Alive And Well",
-      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "One Day Away (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -583,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "One Day Away (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -595,6 +595,54 @@
       "duration_ms": 339466,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "A Few Good Years",
+      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I Go By Feel",
+      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -619,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
@@ -628,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 255600,
-      "name": "I Go By Feel",
-      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
       "added_at": null,
@@ -644,41 +692,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 287666,
-      "name": "A Few Good Years",
-      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DJ Play My Blues",
-        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "Just Teasin'",
-      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
@@ -712,29 +728,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 296280,
-      "name": "I've Got Dreams To Remember",
-      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
+      "duration_ms": 314026,
+      "name": "The Devil's Daughter",
+      "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 314026,
-      "name": "The Devil's Daughter",
-      "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
+      "duration_ms": 296280,
+      "name": "I've Got Dreams To Remember",
+      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
@@ -863,6 +847,38 @@
       "duration_ms": 220986,
       "name": "The Price You Gotta Pay",
       "url": "https://open.spotify.com/track/34JrJDLnQSCdcvX54bRYys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": null,
@@ -887,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+      "duration_ms": 244373,
+      "name": "I Put a Spell On You (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 207000,
       "name": "Blues Don't Care (feat. Gary Clark, Jr.)",
       "url": "https://open.spotify.com/track/5fs3sNq3KK9jpbTNCf324m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "I Put a Spell On You (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"
     },
     {
       "added_at": null,

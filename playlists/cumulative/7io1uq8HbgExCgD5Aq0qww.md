@@ -4,7 +4,7 @@
 
 > Stories, tales, ballads, etc
 
-30 songs - 1 hr 54 min
+31 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2024-09-17 |  |
 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 | 2024-09-17 |  |
 | [Lake Pontchartrain](https://open.spotify.com/track/079xRk9N70NzB2vF0oMRRj) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 3:36 | 2025-01-11 |  |
+| [Maya the Psychic](https://open.spotify.com/track/1tg5c5gVzzpSHUsIWbEl8v) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 3:01 | 2025-03-12 |  |
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
 | [Misery Fell](https://open.spotify.com/track/01BMA2zYOX51Vz7QHdSAgO) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 3:34 | 2024-09-30 |  |
 | [My Fairy King \- BBC Session / February 5th 1973, Langham 1 Studio](https://open.spotify.com/track/22PDDxasXyFMek05JaWmVC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen On Air](https://open.spotify.com/album/60TXSuzXQoEy3p5cQEkLu7) | 4:07 | 2023-03-21 |  |

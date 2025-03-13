@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,904 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,906 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 11 | [Sailor Mars](https://open.spotify.com/track/38n8scVMRubWOn1rIN2hfr) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sailor Mars](https://open.spotify.com/album/4Ql6PbVf1kgd4g22lWdgf7) | 2:32 |
 | 12 | [Arab Trap: Made in Egypt](https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap: Made in Egypt](https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7) | 2:34 |
 | 13 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
-| 14 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 |
-| 15 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |
+| 14 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |
+| 15 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 |
 | 16 | [Maqlooba](https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:20 |
 | 17 | [Mazikah](https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Mazikah](https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt) | 3:33 |
 | 18 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Yan Block en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,479 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,537 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

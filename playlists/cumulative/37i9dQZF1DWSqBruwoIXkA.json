@@ -8785,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2025-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Lose Me Like You Mean It",
+      "url": "https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K"
+    },
+    {
+      "album": {
         "name": "Lose You To Love Me",
         "url": "https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY"
       },
@@ -9946,7 +9964,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 172878,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"

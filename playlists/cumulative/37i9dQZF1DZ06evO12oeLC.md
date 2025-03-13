@@ -4,7 +4,7 @@
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 20 min
+59 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 | 2024-10-10 |  |
 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 | 2024-10-10 |  |
 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 | 2024-10-10 |  |
+| [La mamma](https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 4:03 | 2025-03-13 |  |
 | [La vague](https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:03 | 2024-10-10 |  |
 | [Laisse aller \(feat\. Yseult\)](https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Drapeau blanc](https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW) | 3:04 | 2024-10-10 |  |
-| [Le plus beau des astres](https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:05 | 2024-10-10 |  |
+| [Le plus beau des astres](https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:05 | 2024-10-10 | 2025-03-13 |
 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 | 2024-10-10 |  |
 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 | 2024-11-10 |  |
 | [L’orage](https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:17 | 2024-10-10 |  |

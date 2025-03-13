@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414,269 likes - 39 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414,374 likes - 39 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 18 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 |
 | 19 | [Blew](https://open.spotify.com/track/7pETV41GUutaZ6KMHMAYIH) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:54 |
 | 20 | [Oh Me \- Live](https://open.spotify.com/track/2vfCSwToh0Am0O4zgHXfn7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:26 |
-| 21 | [Breed](https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:04 |
+| 21 | [Breed](https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:04 |
 | 22 | [Serve The Servants](https://open.spotify.com/track/3w5Ekq9O8g0gGFEsT77Ydi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:37 |
 | 23 | [School](https://open.spotify.com/track/0EY1Z9UmZnYZyM7zHs6C0j) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:42 |
 | 24 | [Plateau \- Live](https://open.spotify.com/track/2smax1OWAxOo63p14G8KZx) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 38 | [Intro \- Live At London Astoria, UK, December 3, 1989](https://open.spotify.com/track/4iXJS5y9qpVWmnrI8LcnLC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [From The Muddy Banks Of The Wishkah \(Live\)](https://open.spotify.com/album/26paS1Rzj1L0d3Zr1WBTIj) | 0:52 |
 | 39 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `Z8zaAAAAAABkPjWFWqFzVNC4vqHxgia7`
+Snapshot ID: `Z899AAAAAAD4WgFvQFajAxkV5fkS5BEg`

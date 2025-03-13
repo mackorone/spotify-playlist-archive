@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820 likes - 104 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 42 | [Favorite](https://open.spotify.com/track/0mYzFrdOZLnDCDdgjsnSjx) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:31 |
 | 43 | [Luchas Mentales](https://open.spotify.com/track/1f70ywNtUyw4VgckqXeuOv) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:46 |
 | 44 | [Scary Nights](https://open.spotify.com/track/0OwSIR2cx1HhPVR2eWNQu1) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Scary Nights](https://open.spotify.com/album/77Q0xwlCfFLhUNO1Sh8ORM) | 3:56 |
-| 45 | [Hide & Freak](https://open.spotify.com/track/1ikIktDZJvfQFDOfPTIqAY) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 2:59 |
-| 46 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 |
+| 45 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 |
+| 46 | [Hide & Freak](https://open.spotify.com/track/1ikIktDZJvfQFDOfPTIqAY) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 2:59 |
 | 47 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
 | 48 | [Back It Up](https://open.spotify.com/track/04J9aoBIvtKSeDCvC6OEAk) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:34 |
 | 49 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 61 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
 | 62 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
 | 63 | [Sneak](https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:59 |
-| 64 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5UqICqub1deTe918NnxtwZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:07 |
-| 65 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
+| 64 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
+| 65 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5UqICqub1deTe918NnxtwZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:07 |
 | 66 | [I'd Rather Be Broke](https://open.spotify.com/track/4GhRns9gZpQol9evF1dqQ8) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:37 |
 | 67 | [Superstar](https://open.spotify.com/track/4musQfBRjlfN6pfJNpchpC) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [12 AM in Atlanta 2](https://open.spotify.com/album/76ke5GIkFCFyJTYbBbMXuq) | 3:39 |
 | 68 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 102 | [System](https://open.spotify.com/track/77Ylv38EbvWLxQ5ejjAce5) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 3:14 |
 | 103 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 104 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
+| 105 | [Damage](https://open.spotify.com/track/1xHM4jpOO7aCdpYJHQNsOr) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Damage](https://open.spotify.com/album/6zIU9Rf6rSl6j1cezdgiN1) | 3:01 |
 
-Snapshot ID: `AbrzCgAAAADO1vSMVDu13ne6xcNASnR1`
+Snapshot ID: `Abr4qgAAAAAHR0THK3QpjN1eYNwpKs4J`

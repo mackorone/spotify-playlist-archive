@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,671 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,677 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 10 | [obsessed](https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:05 |
 | 11 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 12 | [whatcha gotta say \(with Blxst\)](https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:51 |
-| 13 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
-| 14 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
+| 13 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
+| 14 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
 | 15 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 |
 | 16 | [fairy godmother](https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:43 |
 | 17 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 39 | [attention](https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:57 |
 | 40 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 |
 | 41 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
-| 42 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
-| 43 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
+| 42 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
+| 43 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 | 44 | [Tied Down](https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Tied Down](https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS) | 2:43 |
-| 45 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
-| 46 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
+| 45 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
+| 46 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
 | 47 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
 | 48 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 |
 | 49 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
 | 50 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 
-Snapshot ID: `Z8zaAAAAAAA6I7aaW8gYS0BCfdH6yXTz`
+Snapshot ID: `Z899AAAAAAC8XRdaSjBoQTuO7mxvCjz1`

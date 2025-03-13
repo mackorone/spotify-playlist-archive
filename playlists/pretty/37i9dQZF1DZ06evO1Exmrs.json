@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 331474,
+  "num_followers": 331681,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAABIsyNoKjYis8cggdlIAK8o",
+  "snapshot_id": "Z899AAAAAAD6QiiOD2c3yuv9dqFT3e3Q",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+        "name": "Young Blood (Acoustic)",
+        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
       },
       "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+      "duration_ms": 200613,
+      "name": "Young Blood - Acoustic",
+      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
     },
     {
       "added_at": null,
@@ -659,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Blood (Acoustic)",
-        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
       "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 200613,
-      "name": "Young Blood - Acoustic",
-      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": null,

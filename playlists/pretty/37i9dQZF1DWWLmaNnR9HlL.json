@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 410380,
+  "num_followers": 410376,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2024-11-28 14:50:35",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
-    },
-    {
-      "added_at": "2024-11-28 14:50:35",
-      "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2024-11-28 14:50:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
-        "name": "Dusty... Definitely (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164173,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
-    },
-    {
-      "added_at": "2024-11-28 14:50:35",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+      "duration_ms": 164173,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
     },
     {
       "added_at": "2024-11-28 14:50:35",
@@ -667,6 +651,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2024-11-28 14:50:35",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2024-11-28 14:50:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 228326,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
-    },
-    {
-      "added_at": "2024-11-28 14:50:35",
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2024-11-28 14:50:35",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2024-11-28 14:50:35",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
-        "name": "Bossa Nova Lounge",
-        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
-      },
-      "artists": [
-        {
-          "name": "Olga Chung",
-          "url": "https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S"
-        }
-      ],
-      "duration_ms": 204418,
-      "name": "Somewhere Over The Rainbow - Bossa Version",
-      "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
-    },
-    {
-      "added_at": "2024-11-28 14:50:35",
-      "album": {
         "name": "Get Lucky (Acoustic)",
         "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 188605,
       "name": "Get Lucky - Acoustic",
       "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
+    },
+    {
+      "added_at": "2024-11-28 14:50:35",
+      "album": {
+        "name": "Bossa Nova Lounge",
+        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
+      },
+      "artists": [
+        {
+          "name": "Olga Chung",
+          "url": "https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S"
+        }
+      ],
+      "duration_ms": 204418,
+      "name": "Somewhere Over The Rainbow - Bossa Version",
+      "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
     },
     {
       "added_at": "2024-11-28 14:50:35",

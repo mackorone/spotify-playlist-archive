@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,539 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,554 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 40 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
 | 41 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 |
 | 42 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
-| 43 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
-| 44 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
+| 43 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
+| 44 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
 | 45 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
 | 46 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 47 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
@@ -83,22 +83,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 73 | [Quick Escape](https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Quick Escape](https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY) | 4:46 |
 | 74 | [Mercy](https://open.spotify.com/track/4wEKLWQxK9xzwYaWQkgzBj) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [LIGHTBRINGER](https://open.spotify.com/album/51CoENXtQxKfwEfvxRHyDN) | 4:26 |
 | 75 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
-| 76 | [Enter Sandman](https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 5:31 |
-| 77 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
-| 78 | [Gold Confetti](https://open.spotify.com/track/0sapiklqQFuc0feYf5lBGV) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Freakazoid](https://open.spotify.com/album/393CAil0sINecjquYtN6aF) | 3:23 |
-| 79 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
-| 80 | [Welcome To The Jungle](https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 4:33 |
+| 76 | [Gold Confetti](https://open.spotify.com/track/0sapiklqQFuc0feYf5lBGV) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Freakazoid](https://open.spotify.com/album/393CAil0sINecjquYtN6aF) | 3:23 |
+| 77 | [Enter Sandman](https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 5:31 |
+| 78 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
+| 79 | [Welcome To The Jungle](https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 4:33 |
+| 80 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
 | 81 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 |
-| 82 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |
-| 83 | [Even Flow](https://open.spotify.com/track/7vPnlEkCGmYx2Eier8YBwc) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/31G5IKmrHwpPWGJYk3X2kI) | 4:53 |
-| 84 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
+| 82 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
+| 83 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |
+| 84 | [Even Flow](https://open.spotify.com/track/7vPnlEkCGmYx2Eier8YBwc) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/31G5IKmrHwpPWGJYk3X2kI) | 4:53 |
 | 85 | [What's My Age Again?](https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:28 |
 | 86 | [All My Life](https://open.spotify.com/track/40Gxnw5Vc8hnhGFknXHe3R) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One](https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe) | 4:22 |
 | 87 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 |
 | 88 | [Do I Wanna Know?](https://open.spotify.com/track/3jfr0TF6DQcOLat8gGn7E2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 4:32 |
 | 89 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
-| 90 | [The Way You Used to Do](https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a) | 4:34 |
-| 91 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 |
+| 90 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 |
+| 91 | [The Way You Used to Do](https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/6JdX9MGiEMypqYLMKyIE8a) | 4:34 |
 | 92 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 |
 | 93 | [S.O.B.](https://open.spotify.com/track/1hWQvA6oGVJ2mAVsZ59AaV) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/2UCyiayMoJOwBilPLQPQvK) | 4:07 |
 | 94 | [The Devil's Bleeding Crown](https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Devil's Bleeding Crown](https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak) | 3:58 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 96 | [Highway Tune](https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Black Smoke Rising](https://open.spotify.com/album/23lA1QsNgeWOsMy0OlFRWC) | 3:01 |
 | 97 | [Legendary](https://open.spotify.com/track/3tA2Khh4RpQThUoX22PQAG) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary](https://open.spotify.com/album/4iNCKJaeccVS1TFymZZlxU) | 3:50 |
 | 98 | [Walk On Water](https://open.spotify.com/track/5UMD1Iz7yyVK8Q5FLsVt3q) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water](https://open.spotify.com/album/3PXrILqM1bJoj2EUhqs8X3) | 3:08 |
-| 99 | [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 |
-| 100 | [Let Me Live / Let Me Die](https://open.spotify.com/track/2UKMqNCVsHrAYzBZMA0rxL) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let Me Live / Let Me Die](https://open.spotify.com/album/1aY43nCh7Oy0D7KEfPRqBA) | 3:27 |
+| 99 | [Let Me Live / Let Me Die](https://open.spotify.com/track/2UKMqNCVsHrAYzBZMA0rxL) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let Me Live / Let Me Die](https://open.spotify.com/album/1aY43nCh7Oy0D7KEfPRqBA) | 3:27 |
+| 100 | [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 |
 
 Snapshot ID: `ZnmoOwAAAACG8I8molKDz+iXTNJYo//R`

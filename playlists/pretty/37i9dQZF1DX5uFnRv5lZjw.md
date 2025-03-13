@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292 likes - 44 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 44 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,25 +22,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 12 | [The Only One](https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [The Only One](https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m) | 2:56 |
 | 13 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 |
 | 14 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 |
-| 15 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 |
-| 16 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
-| 17 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 |
-| 18 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 |
-| 19 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 |
-| 20 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
+| 15 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 |
+| 16 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 |
+| 17 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 |
+| 18 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 |
+| 19 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 |
+| 20 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 |
 | 21 | [Foothills](https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Foothills](https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi) | 2:13 |
 | 22 | [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 |
 | 23 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 |
 | 24 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 |
 | 25 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 |
-| 26 | [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 |
-| 27 | [With Winds Free](https://open.spotify.com/track/6MpLfCVfp8IshjM6eqQQhC) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [With Winds Free](https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov) | 2:29 |
+| 26 | [With Winds Free](https://open.spotify.com/track/6MpLfCVfp8IshjM6eqQQhC) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [With Winds Free](https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov) | 2:29 |
+| 27 | [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 |
 | 28 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
 | 29 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 |
 | 30 | [When you know, you know](https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When you know, you know](https://open.spotify.com/album/3q8ciLZpMajLdjS9i7oUpm) | 2:40 |
 | 31 | [Laurence](https://open.spotify.com/track/5VW6aFOUabBvUI94eDFVSe) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Laurence](https://open.spotify.com/album/56xYvj6tVsPP8HpZYphfUW) | 3:00 |
-| 32 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 |
-| 33 | [Are You Sure](https://open.spotify.com/track/2TqLlM0y1UJMRIrbunTpmG) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Are You Sure](https://open.spotify.com/album/2VKd1pXPnFyyhbNryo22um) | 2:10 |
+| 32 | [Are You Sure](https://open.spotify.com/track/2TqLlM0y1UJMRIrbunTpmG) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Are You Sure](https://open.spotify.com/album/2VKd1pXPnFyyhbNryo22um) | 2:10 |
+| 33 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 |
 | 34 | [Talk to Them](https://open.spotify.com/track/3oGWkoSBS9wpmf48OlI54i) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Talk to Them](https://open.spotify.com/album/2KuOjVGZuTGKh260hLfX3T) | 2:24 |
 | 35 | [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 |
 | 36 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 |

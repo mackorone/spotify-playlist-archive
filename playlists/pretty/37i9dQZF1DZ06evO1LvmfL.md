@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,325 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,831 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 24 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
 | 25 | [Your Kind of Crazy](https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:02 |
 | 26 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 |
-| 27 | [Tell Me](https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:56 |
-| 28 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 |
+| 27 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 |
+| 28 | [Tell Me](https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:56 |
 | 29 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 |
 | 30 | [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 |
 | 31 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 |
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 46 | [Rivers](https://open.spotify.com/track/2yca6MO7D35fltqQEFkWjT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Rivers](https://open.spotify.com/album/5e3GudnXw3whduY1LIYh4f) | 3:22 |
 | 47 | [What's Going On](https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What's Going On](https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N) | 3:49 |
 | 48 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
+| 49 | [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 |
 
-Snapshot ID: `Z8zaAAAAAACpBLiP4MKhjito9Au6J4D5`
+Snapshot ID: `Z899AAAAAABFfRmLvJ612w+9th+NVAs4`

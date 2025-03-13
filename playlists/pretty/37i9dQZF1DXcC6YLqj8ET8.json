@@ -1,6 +1,6 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 212904,
+  "num_followers": 212906,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
-        "name": "Marrakech",
-        "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
-      },
-      "artists": [
-        {
-          "name": "T\u00fcrk\u00fcm",
-          "url": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
         "name": "Dulce",
         "url": "https://open.spotify.com/album/01f58ABTNjb0quUNprou4v"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 193959,
       "name": "Dulce",
       "url": "https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
+        "name": "Marrakech",
+        "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
+      },
+      "artists": [
+        {
+          "name": "T\u00fcrk\u00fcm",
+          "url": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh"
     },
     {
       "added_at": "2023-02-17 13:36:32",

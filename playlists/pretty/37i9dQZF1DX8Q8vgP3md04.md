@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,771 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,777 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 14 | [AYZON](https://open.spotify.com/track/29nzNE7CyuywKJKBlt2deI) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU), [Anteneh Minalu](https://open.spotify.com/artist/6dIY3ynRrBa1745sJFNgkY) | [AYZON](https://open.spotify.com/album/1Fuoeuwn8qldn6ATtrAUPD) | 4:32 |
 | 15 | [Fiyah Burn](https://open.spotify.com/track/1z3WMz6hnl2bC1E0WEeIyZ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Fiyah Burn](https://open.spotify.com/album/3N0dCv4K4kG6yXQqoBs8ee) | 2:23 |
 | 16 | [Web Alem](https://open.spotify.com/track/5trOza7zXZEddQgwX2Cu4L) | [KUTU](https://open.spotify.com/artist/4ELJpRf923CpualWnE17LJ), [Théo Ceccaldi](https://open.spotify.com/artist/4mz08nmtjVH6ITqxBEmzHY), [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Web Alem](https://open.spotify.com/album/5SSeoww2Lt36bXi7g0HnRz) | 3:19 |
-| 17 | [Ambbaanut Sirtteeu](https://open.spotify.com/track/4wAj1u7LSzLJ07MTol6qdu) | [Adinew AB](https://open.spotify.com/artist/36XEOmpmWIgsLRwqgnAbnN), [Kembatisa Mezmur](https://open.spotify.com/artist/3CRmLp2MhtXteJdf8svxQG) | [Ambbaanut Sirtteeu](https://open.spotify.com/album/09KCMxbtxIOF8iRmAm87p6) | 8:43 |
+| 17 | [Ambbaanut Sirtteeù](https://open.spotify.com/track/4wAj1u7LSzLJ07MTol6qdu) | [Kembatisa Mezmur](https://open.spotify.com/artist/3CRmLp2MhtXteJdf8svxQG) | [Ambbaanut Sirtteeù](https://open.spotify.com/album/09KCMxbtxIOF8iRmAm87p6) | 8:43 |
 | 18 | [DEJARME LLEVAR](https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak) | [Nadlyn](https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X) | [DEJARME LLEVAR](https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A) | 2:53 |
 | 19 | [Pon Mi](https://open.spotify.com/track/460VtlJtrs4j8kiBPcQlyJ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Pon Mi](https://open.spotify.com/album/19Oyvrg5EIJr8GeXVxkD1z) | 2:23 |
 | 20 | [Brana \(Intro\)](https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Brana \(Intro\)](https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO) | 1:34 |

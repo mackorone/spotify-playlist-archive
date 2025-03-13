@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Sub Zero Project, D\-Block & S\-te\-Fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,662 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,751 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

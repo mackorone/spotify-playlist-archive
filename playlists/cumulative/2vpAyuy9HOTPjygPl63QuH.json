@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "BATTERY OPERATED",
+        "url": "https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v"
+      },
+      "artists": [
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127994,
+      "name": "BATTERY OPERATED",
+      "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
+    },
+    {
+      "album": {
         "name": "BBY",
         "url": "https://open.spotify.com/album/6YwFFGavPEMIkBLSszOlDJ"
       },

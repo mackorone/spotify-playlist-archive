@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,823 likes - 39 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499,993 likes - 40 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 35 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:19 |
 | 36 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 |
 | 37 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
-| 38 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
-| 39 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 |
+| 38 | [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 |
+| 39 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
+| 40 | [The Fletcher Memorial Home](https://open.spotify.com/track/0L0HAZg6FGrBAS6QE7B1eI) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:09 |
 
-Snapshot ID: `Z8zaAAAAAAAiIvqiHTxvphATOMxuT8gS`
+Snapshot ID: `Z899AAAAAAB+yegklXnfp49TuEUlgA2/`

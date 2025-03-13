@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Yeule
 
-8,432 songs - 20 day 11 hr 39 min
+8,435 songs - 20 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7) | 6:44 | 2025-02-07 |  |
 | [Aries \(feat\. Peter Hook and Georgia\)](https://open.spotify.com/track/2haIfONRw1Bhi2zSp67MYU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peter Hook](https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Song Machine Episode 3](https://open.spotify.com/album/7z7ioOPs2FaEWB2uRWjfCE) | 4:13 | 2020-04-10 | 2020-05-15 |
 | [Ark of Bones](https://open.spotify.com/track/2RR5zUULwlj6v694HhCmNI) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Take Off from Mercy](https://open.spotify.com/album/53ZAlCMbgrdZ4SHhecdGP1) | 4:18 | 2024-11-01 | 2024-12-07 |
+| [Arm Candy](https://open.spotify.com/track/3CSqfRdSEatLd9BOkEmczX) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Heaven Is In You](https://open.spotify.com/album/2qYOyc7d7fVsClHMkZaN97) | 2:56 | 2025-03-12 |  |
 | [Arm fell asleep](https://open.spotify.com/track/1k8EbQ64geRSgIghSRfR9R) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Arm fell asleep](https://open.spotify.com/album/6BDf31jpGIBShiFXzUdJC3) | 4:48 | 2025-01-24 | 2025-03-01 |
 | [Arm's Length](https://open.spotify.com/track/4UaRFwdpv9JFBxOvW6Xr11) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Arm's Length](https://open.spotify.com/album/1VU9JM0ZkihXjpKgq32XOs) | 4:11 | 2021-05-08 | 2021-06-26 |
 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 | 2023-12-01 | 2024-01-27 |
@@ -3222,7 +3223,7 @@
 | [Hide](https://open.spotify.com/track/7zSfI35nYEU495xDQJwXbT) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hide](https://open.spotify.com/album/2UPpugf1BadQ2RKk5F7qT7) | 3:42 | 2022-05-06 | 2022-06-22 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-02-11 | 2022-04-16 |
 | [Hide Behind](https://open.spotify.com/track/0e0eg9m08uI1s8y8gWeWYR) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Hide Behind](https://open.spotify.com/album/4ESqcvNKgRsF25ObnmHoRJ) | 3:59 | 2023-03-31 | 2023-05-06 |
-| [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-14 |  |
+| [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-14 | 2025-03-13 |
 | [Hideous](https://open.spotify.com/track/4u2O3s1p5pWNx2CRFAynXX) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Hideous](https://open.spotify.com/album/6s5GbyGHzt8qXx0eb0IAN0) | 4:23 | 2022-05-27 | 2022-07-09 |
 | [Hiding](https://open.spotify.com/track/5God5Ud5xuvBLPTPKv27z1) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Hiding](https://open.spotify.com/album/3cKKKMID6Lu5Mc4lslZWNi) | 2:57 | 2023-07-21 | 2023-08-19 |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-02-17 | 2023-04-01 |
@@ -4133,6 +4134,7 @@
 | [Know Better](https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Know Better](https://open.spotify.com/album/091rITH4fXltYccZlmbrzw) | 3:11 | 2023-04-21 | 2023-05-13 |
 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 | 2024-03-15 | 2024-04-06 |
 | [Knuckleduster](https://open.spotify.com/track/4YeiHDndtDpD8NsPWPaNHI) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Knuckleduster](https://open.spotify.com/album/5JPoqDxCq2jbQtIB28MVAi) | 4:27 | 2020-05-29 | 2020-07-10 |
+| [Kokiri](https://open.spotify.com/track/3xkVY989NT6xF9JeFI0Ir2) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [All Worlds](https://open.spotify.com/album/0TQsFDYAoApv5HDz8lkSBm) | 4:37 | 2025-03-12 |  |
 | [Konami](https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Konami](https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB) | 2:48 | 2023-02-03 | 2023-03-04 |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-14 | 2022-12-03 |
 | [krillin](https://open.spotify.com/track/6kOT10pPFsgJEWQCW1X8FO) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h), [SUN ORGAN](https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp) | [krillin](https://open.spotify.com/album/15V7baihpBBfFTTtxxOmgB) | 2:15 | 2024-03-08 | 2024-04-13 |
@@ -5529,6 +5531,7 @@
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-01-15 | 2021-03-14 |
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-08 | 2022-08-20 |
 | [Parties](https://open.spotify.com/track/574KI6BPQ0IGyyXNxz3UBa) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Parties](https://open.spotify.com/album/3ZHHDkiKZNE983pRc8ZAeS) | 3:46 | 2019-10-04 | 2019-11-01 |
+| [Partly Get By](https://open.spotify.com/track/5u4C0rTo9aGye7kVMH02oL) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:56 | 2025-03-12 |  |
 | [Partly Sorry](https://open.spotify.com/track/50xwksSoSFTZyefKfIYSsx) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [Partly Sorry / Monaco](https://open.spotify.com/album/5eQqGXYRB3zUxzwjkOrs2B) | 3:07 | 2019-06-28 | 2019-08-13 |
 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-07-22 | 2022-09-10 |
 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-02-10 | 2023-03-25 |

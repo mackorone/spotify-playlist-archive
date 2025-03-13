@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (Jolin Tsai)",
-  "num_followers": 230722,
+  "num_followers": 230779,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u6797\u61b6\u84ee",
-        "url": "https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j"
-      },
-      "artists": [
-        {
-          "name": "Sandy Lam",
-          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "\u81f3\u5c11\u9084\u6709\u4f60",
-      "url": "https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl"
-    },
-    {
-      "added_at": "2025-03-07 16:00:07",
-      "album": {
         "name": "\u6211\u7b49\u4f60",
         "url": "https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B"
       },
@@ -431,18 +415,34 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u57ce\u5821",
-        "url": "https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV"
+        "name": "\u6797\u61b6\u84ee",
+        "url": "https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j"
       },
       "artists": [
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "Sandy Lam",
+          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
         }
       ],
-      "duration_ms": 266146,
-      "name": "\u5012\u5e36",
-      "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
+      "duration_ms": 274800,
+      "name": "\u81f3\u5c11\u9084\u6709\u4f60",
+      "url": "https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl"
+    },
+    {
+      "added_at": "2025-03-07 16:00:07",
+      "album": {
+        "name": "\u7121\u9650",
+        "url": "https://open.spotify.com/album/1qgcGkqyrWQdnrbepB9HEJ"
+      },
+      "artists": [
+        {
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "\u5343\u5e74\u4e4b\u6200",
+      "url": "https://open.spotify.com/track/6J3YmODloSi669U6cKbtTH"
     },
     {
       "added_at": "2025-03-07 16:00:07",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u7121\u9650",
-        "url": "https://open.spotify.com/album/1qgcGkqyrWQdnrbepB9HEJ"
+        "name": "\u57ce\u5821",
+        "url": "https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV"
       },
       "artists": [
         {
-          "name": "F.I.R.",
-          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 228173,
-      "name": "\u5343\u5e74\u4e4b\u6200",
-      "url": "https://open.spotify.com/track/6J3YmODloSi669U6cKbtTH"
+      "duration_ms": 266146,
+      "name": "\u5012\u5e36",
+      "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
     },
     {
       "added_at": "2025-03-07 16:00:07",
@@ -719,6 +719,26 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
+        "name": "\u611b\u611b\u611b",
+        "url": "https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        },
+        {
+          "name": "Fiona Sit",
+          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "\u56db\u4eba\u904a",
+      "url": "https://open.spotify.com/track/5gkZUgKtvnQtkdYEO9WKzD"
+    },
+    {
+      "added_at": "2025-03-07 16:00:07",
+      "album": {
         "name": "\u611b\u4f60",
         "url": "https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u611b\u611b\u611b",
-        "url": "https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        },
-        {
-          "name": "Fiona Sit",
-          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "\u56db\u4eba\u904a",
-      "url": "https://open.spotify.com/track/5gkZUgKtvnQtkdYEO9WKzD"
-    },
-    {
-      "added_at": "2025-03-07 16:00:07",
-      "album": {
         "name": "\u52c7\u6c23",
         "url": "https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u770b\u621172\u8b8a",
-        "url": "https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5"
-      },
-      "artists": [
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "\u8aaa\u611b\u4f60",
-      "url": "https://open.spotify.com/track/6u4QtlkKJ879ElNlgw0R7M"
-    },
-    {
-      "added_at": "2025-03-07 16:00:07",
-      "album": {
         "name": "\u60f3\u592a\u591a",
         "url": "https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 199444,
       "name": "\u570d\u7246",
       "url": "https://open.spotify.com/track/7mFemsen8hkEoC5a4qeD6C"
+    },
+    {
+      "added_at": "2025-03-07 16:00:07",
+      "album": {
+        "name": "\u770b\u621172\u8b8a",
+        "url": "https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5"
+      },
+      "artists": [
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "\u8aaa\u611b\u4f60",
+      "url": "https://open.spotify.com/track/6u4QtlkKJ879ElNlgw0R7M"
     }
   ],
   "unique_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",

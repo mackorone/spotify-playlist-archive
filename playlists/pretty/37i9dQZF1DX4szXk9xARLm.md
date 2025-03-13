@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,742 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,760 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 39 | [Ya Harema \( Moslsl Zahra Omri \)](https://open.spotify.com/track/1QcjJYJzOFtfO8HLiodEWW) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Ya Harema \( Moslsl Zahra Omri \)](https://open.spotify.com/album/6WRRi0pMCPGnYmYPNEALLJ) | 3:23 |
 | 40 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
 | 41 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 |
-| 42 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 |
-| 43 | [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 |
+| 42 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 |
+| 43 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 |
 | 44 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 |
-| 45 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 |
-| 46 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 |
-| 47 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 |
-| 48 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 |
-| 49 | [سر إلهي](https://open.spotify.com/track/0JH8L02a3ckNui2dz82yfl) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [سر إلهي](https://open.spotify.com/album/3CQ2kVBQ1i1fensGdPqTuI) | 3:54 |
-| 50 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 |
+| 45 | [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 |
+| 46 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 |
+| 47 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 |
+| 48 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 |
+| 49 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 |
+| 50 | [سر إلهي](https://open.spotify.com/track/0JH8L02a3ckNui2dz82yfl) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [سر إلهي](https://open.spotify.com/album/3CQ2kVBQ1i1fensGdPqTuI) | 3:54 |
 
-Snapshot ID: `Z86yOgAAAAAVlsR9u7z1ezBgNuI9+l1x`
+Snapshot ID: `Z9E4zwAAAAD0C6GR/qLSUky/5bquAGIT`

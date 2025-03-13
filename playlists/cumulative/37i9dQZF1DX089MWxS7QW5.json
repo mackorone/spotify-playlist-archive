@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: t024)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: \uc190\uc608\uc9c0(Son Yeji))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Back and forth",
+        "url": "https://open.spotify.com/album/1asKs3DCbn3dKd7RYcKnIY"
+      },
+      "artists": [
+        {
+          "name": "Kinn",
+          "url": "https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164213,
+      "name": "Back and forth",
+      "url": "https://open.spotify.com/track/7s6NmtSMMwoHDYCTgFsqD7"
+    },
+    {
+      "album": {
         "name": "Step to Dream",
         "url": "https://open.spotify.com/album/2mUVvRFw9QabFerpyCaKIf"
       },
@@ -948,7 +966,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 175571,
       "name": "Ballet Shoes",
       "url": "https://open.spotify.com/track/6PfSvKBzJVO87R4uyrM77h"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 229346,
       "name": "Call me more sometimes",
       "url": "https://open.spotify.com/track/4lKOkt7lH8lJyPP7tSBa0Y"
@@ -1656,6 +1674,24 @@
       "duration_ms": 199160,
       "name": "Chain (Feat. Claire Hau)",
       "url": "https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7"
+    },
+    {
+      "album": {
+        "name": "Chantepleure",
+        "url": "https://open.spotify.com/album/6Fx1xlTCQNFEoNfRExjrXt"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222037,
+      "name": "Chantepleure",
+      "url": "https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl"
     },
     {
       "album": {
@@ -1834,6 +1870,28 @@
       "duration_ms": 222964,
       "name": "City!",
       "url": "https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2dkVQHxDEujqrfrfJUlP06"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/0owSnuNM561WS2dSicHJxw"
     },
     {
       "album": {
@@ -2042,7 +2100,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 142614,
       "name": "Ctrl",
       "url": "https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ"
@@ -2489,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Do I?",
+        "url": "https://open.spotify.com/album/5jhPILTYGNnLhGCDWho3wX"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "Do I?",
+      "url": "https://open.spotify.com/track/7eT5goUS3XVK8VU3p0vXNW"
+    },
+    {
+      "album": {
         "name": "DOMINO",
         "url": "https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B"
       },
@@ -2695,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "drr",
+        "url": "https://open.spotify.com/album/5MUAbqUpXqyOQRd6U7dEeE"
+      },
+      "artists": [
+        {
+          "name": "roon",
+          "url": "https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195895,
+      "name": "drr",
+      "url": "https://open.spotify.com/track/1MFbFqpSYFYbpvafKihLfP"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/1MJwR5F0fNTPSocVylBL7s"
       },
@@ -2804,7 +2898,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 187160,
       "name": "F.I.T.Y (feat. SLOTH)",
       "url": "https://open.spotify.com/track/26vaDk8eELZZcDC5RilJyS"
@@ -3413,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Glow Stars",
+        "url": "https://open.spotify.com/album/6YIMzx1Hrag23hMqOVW5Nz"
+      },
+      "artists": [
+        {
+          "name": "\uc190\uc608\uc9c0",
+          "url": "https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Glow Stars",
+      "url": "https://open.spotify.com/track/2diKKn6SXjEUklvTVAdavi"
+    },
+    {
+      "album": {
         "name": "Goldfish (Feat. Blueny of OuiOui)",
         "url": "https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY"
       },
@@ -3734,7 +3846,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 199679,
       "name": "Happy Birthday To You (Feat. Robin)",
       "url": "https://open.spotify.com/track/6v2LZdfz7Z1xc2k1cstofm"
@@ -3800,6 +3912,24 @@
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
+    },
+    {
+      "album": {
+        "name": "heartache",
+        "url": "https://open.spotify.com/album/3K83Uwok7tqoyzwxuxE2ug"
+      },
+      "artists": [
+        {
+          "name": "SO HYUN",
+          "url": "https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164842,
+      "name": "heartache",
+      "url": "https://open.spotify.com/track/2W3eDfdnFboHHilObGYmJm"
     },
     {
       "album": {
@@ -4298,7 +4428,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 204361,
       "name": "If U..",
       "url": "https://open.spotify.com/track/3Mat6bBmLhxscI21M3uhw1"
@@ -4658,7 +4788,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 214000,
       "name": "Keep",
       "url": "https://open.spotify.com/track/6KipJW2V9Jqc45DhUTJoUF"
@@ -4924,7 +5054,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 209146,
       "name": "Light Shower",
       "url": "https://open.spotify.com/track/1AOLchfVKydXghmKWP0I1C"
@@ -4942,7 +5072,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 256247,
       "name": "LIKE A DREAM",
       "url": "https://open.spotify.com/track/6oFKhdrV0J4uuwMQYe7SO6"
@@ -5264,6 +5394,58 @@
       "duration_ms": 192000,
       "name": "Lotus (feat. bluetin)",
       "url": "https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc"
+    },
+    {
+      "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/26OpMHQv2ntd7B8GaR8gdV"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "HOON",
+          "url": "https://open.spotify.com/artist/1VTv19vFoeiKs28gOzntpL"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "LOVE AGAIN (Feat. Leellamarz, HOON)",
+      "url": "https://open.spotify.com/track/2NyYklpPwyGIIyklakqk9X"
+    },
+    {
+      "album": {
+        "name": "Love in Jakarta",
+        "url": "https://open.spotify.com/album/3qWlsiXkrnjpq3urqMDYVF"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215076,
+      "name": "Love in Jakarta (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/63DrKl1RLxew8hWfnjOjj2"
     },
     {
       "album": {
@@ -5615,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "My Dearest Nemesis OST Part.4",
+        "url": "https://open.spotify.com/album/0Js2J38m0fWQX7pAa6fu7G"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/4mcsKdjh66FHEWTsVUzZhJ"
+    },
+    {
+      "album": {
         "name": "More and More",
         "url": "https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h"
       },
@@ -5742,7 +5942,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
@@ -6905,6 +7105,32 @@
     },
     {
       "album": {
+        "name": "Same or Same (Feat. Kang Minkyung)",
+        "url": "https://open.spotify.com/album/1VKgow2htzXqcXg9HWJoIu"
+      },
+      "artists": [
+        {
+          "name": "Lee Kang Seung \uc774\uac15\uc2b9",
+          "url": "https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "KANG MINKYUNG",
+          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Same or Same (Feat. Kang Minkyung)",
+      "url": "https://open.spotify.com/track/7iyCOd3qcWF03OzOX7I8bC"
+    },
+    {
+      "album": {
         "name": "Same Season",
         "url": "https://open.spotify.com/album/2UCvSHH5pMFSqIIcTM0AE3"
       },
@@ -7010,7 +7236,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 206781,
       "name": "Secret of Ours",
       "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
@@ -7046,7 +7272,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 134724,
       "name": "Sentimental Love",
       "url": "https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd"
@@ -8015,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "Think About' Chu",
+        "url": "https://open.spotify.com/album/01apVprROg5zVfpRh8xDiG"
+      },
+      "artists": [
+        {
+          "name": "Horim",
+          "url": "https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235008,
+      "name": "Think About' Chu",
+      "url": "https://open.spotify.com/track/48A4FNfWYoOZq1R021ePMR"
+    },
+    {
+      "album": {
         "name": "H1-KEYnote #1 [Thinkin' About You]",
         "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
       },
@@ -8200,7 +8444,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 159193,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2"
@@ -8308,7 +8552,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 207405,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm"
@@ -8713,6 +8957,24 @@
     },
     {
       "album": {
+        "name": "What's Your Color?",
+        "url": "https://open.spotify.com/album/501oYQ0FUS81wLjDnYDih3"
+      },
+      "artists": [
+        {
+          "name": "PopBoy",
+          "url": "https://open.spotify.com/artist/6yZxYqaWY7cj7nPZ6OBlOq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "What's Your Color?",
+      "url": "https://open.spotify.com/track/5xfaVEIFflG6KhrAnbYQsW"
+    },
+    {
+      "album": {
         "name": "love ll",
         "url": "https://open.spotify.com/album/2J77Vi9sThWmB0kqR57jrP"
       },
@@ -8754,6 +9016,24 @@
       "duration_ms": 194000,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT"
+    },
+    {
+      "album": {
+        "name": "Where\u2032s my soul",
+        "url": "https://open.spotify.com/album/6xEyOe28RIZJgmpfhOiV8m"
+      },
+      "artists": [
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "Where\u2032s my soul",
+      "url": "https://open.spotify.com/track/4Xk6MCUuYXcKnbCDuB5LQT"
     },
     {
       "album": {

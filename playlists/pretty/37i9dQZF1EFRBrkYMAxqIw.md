@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 34 | [Masochistic](https://open.spotify.com/track/43jcYOGtdpeEWjfiH1HP8w) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/0zvq9DXtDBvBO37aazJGGZ) | 2:40 |
 | 35 | [Body Language](https://open.spotify.com/track/2WeCFWSiGDlGHmksFpLyLs) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:44 |
 | 36 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 |
-| 37 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
-| 38 | [TEN](https://open.spotify.com/track/1eS4LiGfU3kvjAcvF8jNii) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/2ockdJ9rBZfHNf36FU4JyH) | 2:09 |
+| 37 | [TEN](https://open.spotify.com/track/1eS4LiGfU3kvjAcvF8jNii) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/2ockdJ9rBZfHNf36FU4JyH) | 2:09 |
+| 38 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
 | 39 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
 | 40 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
 | 41 | [Escape](https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Escape](https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB) | 2:55 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 115 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 116 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AbrzKAAAAACM2rFNiVDbKJ4FpIydVR2w`
+Snapshot ID: `Abr4yAAAAADgD5xm0ruPSMs+K8aWtUpo`

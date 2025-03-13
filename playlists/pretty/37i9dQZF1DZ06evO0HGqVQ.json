@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 29309,
+  "num_followers": 29314,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAA8zsSdj496cJF/iad0dFS8",
+  "snapshot_id": "Z899AAAAAABEAYYmuUKTSbymU6qNNbYH",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297280,
-      "name": "Suave Brisa",
-      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 289826,
       "name": "Te Dar\u00e9 Mi Vida",
       "url": "https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297280,
+      "name": "Suave Brisa",
+      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inquietos por el Mundo",
-        "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 278053,
-      "name": "No Te Olvides de Mi",
-      "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 281386,
       "name": "Cuando Te Vayas",
       "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inquietos por el Mundo",
+        "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 278053,
+      "name": "No Te Olvides de Mi",
+      "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 255253,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW"
+      "duration_ms": 254133,
+      "name": "D\u00ed Que Si",
+      "url": "https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 254133,
-      "name": "D\u00ed Que Si",
-      "url": "https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o"
+      "duration_ms": 255253,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW"
     },
     {
       "added_at": null,

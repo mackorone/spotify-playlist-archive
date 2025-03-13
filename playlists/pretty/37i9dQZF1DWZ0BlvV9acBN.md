@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,913 likes - 70 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,931 likes - 70 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 38 | [Autor da Vida](https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Autor da Vida](https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn) | 4:28 |
 | 39 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
 | 40 | [Força](https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Força](https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc) | 4:00 |
-| 41 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 |
-| 42 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
-| 43 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
+| 41 | [O que o céu começa o céu termina \- Ao Vivo](https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [O que o céu começa o céu termina \(Ao Vivo\)](https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9) | 4:11 |
+| 42 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 |
+| 43 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 44 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 |
-| 45 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
+| 45 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 |
 | 46 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
 | 47 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 48 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
 | 49 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
-| 50 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
-| 51 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
+| 50 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
+| 51 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
 | 52 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 |
 | 53 | [No Princípio](https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI \(DELUXE\)](https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc) | 2:46 |
 | 54 | [Imerecido Amor](https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ) | [DANNIEL GOMES](https://open.spotify.com/artist/4Zj9qtiwRFwaMyejsvlctD), [Novo Eu](https://open.spotify.com/artist/6lpIp6l3aq3X5G4jsPl3Ci), [EURRITMIA](https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT) | [Imerecido Amor](https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E) | 3:10 |

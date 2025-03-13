@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48307,
+  "num_followers": 48313,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAB1qJV/GU9nB1o7oLQQ3pgs",
+  "snapshot_id": "Z899AAAAAAADO+KeGsgnpevprtYhs9L4",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 287853,
-      "name": "Killing Me Softly With His Song - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 201933,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 287853,
+      "name": "Killing Me Softly With His Song - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta Flack",
+        "url": "https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "If Ever I See You Again",
+      "url": "https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack",
-        "url": "https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "If Ever I See You Again",
-      "url": "https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 308240,
-      "name": "Tryin' Times",
-      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -359,42 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peculiar Situation",
-        "url": "https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Now and Again (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
+      "duration_ms": 308240,
+      "name": "Tryin' Times",
+      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
     },
     {
       "added_at": null,
@@ -415,6 +375,42 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "'Till the Morning Comes",
+      "url": "https://open.spotify.com/track/2X3UiNArfXY8ggFS0vDHpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peculiar Situation",
+        "url": "https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Now and Again (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84"
     },
     {
       "added_at": null,
@@ -458,11 +454,15 @@
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
         }
       ],
-      "duration_ms": 224733,
-      "name": "'Till the Morning Comes",
-      "url": "https://open.spotify.com/track/2X3UiNArfXY8ggFS0vDHpM"
+      "duration_ms": 319893,
+      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
     },
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 243466,
-      "name": "You're Lookin' Like Love To Me",
-      "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -539,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "You're Lookin' Like Love To Me",
+      "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet Fire",
         "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 436453,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roberta Flack & Donny Hathaway",
-        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -659,6 +659,74 @@
       "duration_ms": 369506,
       "name": "I Told Jesus",
       "url": "https://open.spotify.com/track/7bmtqJ0psGM3x27hkyAC8E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RENDEZVOUS (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
+      "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
     },
     {
       "added_at": null,
@@ -723,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RENDEZVOUS (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
-      },
-      "artists": [
-        {
-          "name": "Sadao Watanabe",
-          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 279920,
-      "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
-      "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -768,25 +800,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 303333,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
+      "duration_ms": 222906,
+      "name": "Conversation Love",
+      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 169693,
       "name": "I Wanted It Too",
       "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Conversation Love",
-      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
     },
     {
       "added_at": null,
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+      "duration_ms": 245706,
+      "name": "I'm the One",
+      "url": "https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q"
     }
   ],
   "unique_name": "This Is Roberta Flack",

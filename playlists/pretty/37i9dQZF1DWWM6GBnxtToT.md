@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,358 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,426 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 70 | [Smiling Face](https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx) | [Cinemagraph](https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP) | [Smiling Face](https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA) | 3:35 |
 | 71 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 |
 | 72 | [1969 \- Conrad](https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [1969 \- Conrad](https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V) | 2:38 |
-| 73 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
-| 74 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
-| 75 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |
+| 73 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |
+| 74 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
+| 75 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
 | 76 | [Wonderful Life](https://open.spotify.com/track/1x4KLJQkSp7Zukk4Xjx98q) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:19 |
 | 77 | [Power of Denial](https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Power of Denial](https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT) | 5:14 |
 | 78 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 84067,
+  "num_followers": 84078,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Y LLORO",
+      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Y LLORO",
-      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "CRAZY (Party Remixes 1)",
-        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 82508,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Unreal Unearth: Unaired",
         "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 166812,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Made by These Moments",
         "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 217240,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1111,26 +1131,6 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Star Chapter: SANCTUARY (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 157149,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/6ZpoRaO2cfXR1dti2N4TLs"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 192751,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "The Star Chapter: SANCTUARY (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 157149,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/6ZpoRaO2cfXR1dti2N4TLs"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Jesus Changed My Life",
         "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/18lQZaMVdNa4qwbi3tHPKP"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma",
+      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma",
-      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
     },
     {
       "added_at": "2024-11-25 16:13:36",

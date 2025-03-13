@@ -3265,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "What Was I Made For",
+        "url": "https://open.spotify.com/album/6DhjsbMIVWuKDfClatRT8H"
+      },
+      "artists": [
+        {
+          "name": "Iress",
+          "url": "https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220928,
+      "name": "What Was I Made For",
+      "url": "https://open.spotify.com/track/18pBu1WpO9z2UxEQrrJAfy"
+    },
+    {
+      "album": {
         "name": "When Doves Cry",
         "url": "https://open.spotify.com/album/0ws2cJaGcQUDvlN9oKok3o"
       },
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 253053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1dHklWqi0PRH51Xb7WiiYu"

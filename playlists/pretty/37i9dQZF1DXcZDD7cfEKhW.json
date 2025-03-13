@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Doja Cat, LISA, RAYE",
-  "num_followers": 4091032,
+  "num_followers": 4091012,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -925,54 +925,6 @@
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Seven (feat. Latto) (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Seven (David Guetta Remix)",
-      "url": "https://open.spotify.com/track/1JedlGqkzYvVUITKsvhbPh"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sunroof (Loud Luxury Remix)",
-        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "hey daisy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Sunroof - Loud Luxury Remix",
-      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
-    },
-    {
       "added_at": "2025-03-08 00:45:15",
       "album": {
         "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
@@ -999,6 +951,30 @@
       "duration_ms": 212880,
       "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sunroof (Loud Luxury Remix)",
+        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "hey daisy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Sunroof - Loud Luxury Remix",
+      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1047,6 +1023,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Seven (feat. Latto) (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Seven (David Guetta Remix)",
+      "url": "https://open.spotify.com/track/1JedlGqkzYvVUITKsvhbPh"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1063,26 +1063,6 @@
       "duration_ms": 187670,
       "name": "PROVENZA - REMIX",
       "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
-    },
-    {
-      "added_at": "2024-09-13 18:27:00",
-      "album": {
-        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
-      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2024-09-13 18:27:00",
+      "album": {
+        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1143,30 +1143,6 @@
       "duration_ms": 182508,
       "name": "exes - Regard Remix",
       "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Seven (feat. Latto) (Alesso Remix)",
-        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Seven (feat. Latto) (Alesso Remix)",
-      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1275,6 +1251,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Seven (feat. Latto) (Alesso Remix)",
+        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Seven (feat. Latto) (Alesso Remix)",
+      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Lose You (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lil Boo Thang (Galantis Remix)",
-        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 129631,
-      "name": "Lil Boo Thang - Galantis Remix",
-      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 222800,
       "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Lil Boo Thang (Galantis Remix)",
+        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 129631,
+      "name": "Lil Boo Thang - Galantis Remix",
+      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1587,22 +1587,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Skin and Bones (MEDUZA REMIX)",
-        "url": "https://open.spotify.com/album/1aeYa1dEoya8dCrS3vMNrV"
+        "name": "By The End Of The Night (southstar Remix)",
+        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Skin and Bones - MEDUZA REMIX",
-      "url": "https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO"
+      "duration_ms": 221906,
+      "name": "By The End Of The Night - southstar Remix",
+      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
     }
   ],
   "unique_name": "Pop Remix",

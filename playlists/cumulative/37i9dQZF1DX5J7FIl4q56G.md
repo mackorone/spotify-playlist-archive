@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Vana
 
-8,647 songs - 24 day 5 hr 12 min
+8,648 songs - 24 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Armageddon](https://open.spotify.com/track/7Cn0v7wlAVtbpUU74aC9L6) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Armageddon](https://open.spotify.com/album/0gwWF9vQcV1YdcAHVk5mML) | 3:07 | 2023-05-12 | 2023-05-20 |
 | [Armageddon](https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Armageddon](https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV) | 3:33 | 2023-05-19 | 2023-05-27 |
 | [Armor Down](https://open.spotify.com/track/4p6GNDCujNot9lrKiCquKu) | [Surrender The Crown](https://open.spotify.com/artist/4sJsIehq82zwyZXrE4ItMR) | [IV \- The Healing](https://open.spotify.com/album/6cKWw7FFuoCzrULwhYPoGm) | 4:01 | 2023-09-29 | 2023-10-07 |
+| [Armoured in Shadow](https://open.spotify.com/track/2VTbfGs35yeIXmbccS5gnf) | [Tribunal](https://open.spotify.com/artist/4XzAp08yh8r8sN30JjYnL2) | [Armoured in Shadow](https://open.spotify.com/album/1yFS0EpPJj0z6RwTiCYKAu) | 5:11 | 2025-03-12 |  |
 | [Armpits of Immortals](https://open.spotify.com/track/2eXdlbAwf7buHU66YUB6i1) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5), [Ross The Boss](https://open.spotify.com/artist/7iOaIkOG63D70TyWiqfn45) | [Armpits of Immortals](https://open.spotify.com/album/0dqQlSrlBp9J0OiCKfEFnX) | 4:11 | 2022-11-11 | 2022-11-19 |
 | [Army of Heaven \(2024\)](https://open.spotify.com/track/2zCGiUInpf753pXWBxQfE0) | [In Other Climes](https://open.spotify.com/artist/0ewQkOLkTajeUK6Irjpugt) | [Army Of Heaven \(2024\)](https://open.spotify.com/album/5h6Bd066WiZPQTonNU2RZK) | 3:22 | 2024-07-05 | 2024-07-13 |
 | [ARMY OF ME](https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [ARMY OF ME](https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV) | 3:10 | 2023-09-22 | 2023-09-30 |

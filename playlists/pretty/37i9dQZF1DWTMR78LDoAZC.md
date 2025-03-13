@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,568 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,592 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 22 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 23 | [Where Does the Good Go](https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:37 |
 | 24 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
-| 25 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
-| 26 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
+| 25 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
+| 26 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
 | 27 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
 | 28 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
 | 29 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 51 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 52 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 |
 | 53 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
-| 54 | [I Feel You](https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 |
-| 55 | [Crazy Again](https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 3:17 |
+| 54 | [Crazy Again](https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 3:17 |
+| 55 | [I Feel You](https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 |
 | 56 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
 | 57 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
 | 58 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |

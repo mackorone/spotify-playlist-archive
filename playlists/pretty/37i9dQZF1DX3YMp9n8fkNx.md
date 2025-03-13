@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,293 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,520 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 31 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 32 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
 | 33 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
-| 34 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
+| 34 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
 | 35 | [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 |
-| 36 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
+| 36 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 37 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 |
 | 38 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 39 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 74 | [Where It's At](https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp) | 5:30 |
 | 75 | [Hey Jealousy](https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Outside Looking In: The Best Of The Gin Blossoms](https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f) | 3:56 |
 | 76 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 77 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
-| 78 | [Standing Outside a Broken Phone Booth with Money in My Hand](https://open.spotify.com/track/5hcer4MP5GeHqtSjDYx5AC) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Rocket](https://open.spotify.com/album/0MomEpdhFU5YUXQxr47kxe) | 5:36 |
+| 77 | [Standing Outside a Broken Phone Booth with Money in My Hand](https://open.spotify.com/track/5hcer4MP5GeHqtSjDYx5AC) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Rocket](https://open.spotify.com/album/0MomEpdhFU5YUXQxr47kxe) | 5:36 |
+| 78 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
 | 79 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI) | 3:55 |
 | 80 | [Beautiful Girl](https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome to Wherever You Are](https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u) | 3:27 |
 | 81 | [Shimmer](https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [The Best of Fuel](https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq) | 3:34 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 93 | [Girlfriend](https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd) | [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Girlfriend \(Legacy Edition\)](https://open.spotify.com/album/0SZjTgnyODlELJWopuCt8w) | 3:40 |
 | 94 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
 | 95 | [Selling The Drama](https://open.spotify.com/track/7BG8BwW3Bhdq4PnZmjDBRm) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Awake The Best Of Live](https://open.spotify.com/album/4rSabzYGjgwZ04581fcBhV) | 3:25 |
-| 96 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 |
-| 97 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
+| 96 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
+| 97 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 |
 | 98 | [Radiation Vibe](https://open.spotify.com/track/3XApt3UvXtv8y9S6DrAxCL) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Fountains of Wayne](https://open.spotify.com/album/4I9PfbZ1ErduBZWTimzz2s) | 3:41 |
 | 99 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 100 | [Everything Falls Apart](https://open.spotify.com/track/4l1W5SkH8EJJ9RQEq6UFMW) | [Dog's Eye View](https://open.spotify.com/artist/0ymKv4fh2eBhPT9HLTu8yH) | [Happy Nowhere](https://open.spotify.com/album/1BsYAt63QqAQ5QDrmYHyDf) | 3:54 |

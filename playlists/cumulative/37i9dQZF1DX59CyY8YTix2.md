@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ん・フェニ
 
-1,835 songs - 4 day 17 hr 58 min
+1,836 songs - 4 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 | 2023-04-18 | 2023-05-27 |
 | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [くるま](https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf) | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq) | 3:09 | 2024-10-29 |  |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-03-15 |
-| [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 | 2024-06-18 |  |
+| [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 | 2024-06-18 | 2025-03-13 |
 | [good time](https://open.spotify.com/track/0tVG7UROkKBgW2YtYvAkst) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [good time](https://open.spotify.com/album/54bVETGL4E3SpCt2ZWJz5s) | 3:12 | 2024-01-09 | 2024-02-01 |
 | [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 | 2023-04-18 | 2023-06-14 |
 | [Goodbye Bad Memories](https://open.spotify.com/track/083a94VawpgOYQeOmlnGnU) | [MAZE](https://open.spotify.com/artist/4idXvBJHO6Jd54Pr0Ll9Rc) | [Goodbye Bad Memories](https://open.spotify.com/album/6iRDiyPjqdCuDk97ml5vId) | 3:40 | 2023-10-12 | 2023-10-18 |
@@ -569,6 +569,7 @@
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 | 2023-11-22 |
 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
+| [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 | 2025-03-11 |  |
 | [NO ONE](https://open.spotify.com/track/46LO6SaTmzRTMb1kT7rhca) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [NO ONE](https://open.spotify.com/album/0cwJsnwd9L0exe2yLurOm7) | 2:59 | 2023-08-30 | 2023-09-06 |
 | [NO ONE](https://open.spotify.com/track/4LCeYTwVJBfRZZ3NI8Y5O5) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [NO ONE](https://open.spotify.com/album/0M2MNl1E6z45Bain6PWjhh) | 2:59 | 2023-08-29 | 2023-08-31 |
 | [NO SMOKING](https://open.spotify.com/track/0FNeimJsFS79G3pW4LbDWj) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/676Jnrsbkb9Q2XGFWaZoHT) | 3:12 | 2023-04-04 | 2023-04-12 |
@@ -1632,7 +1633,7 @@
 | [正直な話](https://open.spotify.com/track/1VKvGWoscAp8V9c8Ij95bw) | [hello montesquieu](https://open.spotify.com/artist/4MLdET7CBGlPSXbqyKcwx4) | [正直な話](https://open.spotify.com/album/6nM2IHiqedhJBPGRtvLqq0) | 2:37 | 2022-11-01 | 2022-11-03 |
 | [気になっていく](https://open.spotify.com/track/4bY37i3bRo7ANjXB5EBmj1) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [気になっていく](https://open.spotify.com/album/1b4Q75MDJRgl0dLe6EDWnR) | 3:37 | 2022-06-27 | 2022-06-29 |
 | [水の底](https://open.spotify.com/track/7ifBSzzaHSGdnIoEBIcIUO) | [CuBerry](https://open.spotify.com/artist/4Bzc9zZE7eFanFRzyDkOjq) | [マーメイド](https://open.spotify.com/album/2RplDDyUDfDtESrL5TiCs0) | 3:57 | 2022-09-20 | 2022-09-28 |
-| [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 | 2024-10-15 | 2025-03-12 |
+| [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 | 2024-10-15 |  |
 | [氷星](https://open.spotify.com/track/45KBVE1PcsdRjkvw7rpPnS) | [あるくとーーふ](https://open.spotify.com/artist/5MWrOG9C4xK1wPeH6Wk36W) | [UPSIDE DOWNTOWN](https://open.spotify.com/album/3IuPZzwf6xUkcMFcpwvirz) | 3:14 | 2023-01-17 | 2023-01-25 |
 | [永遠が続くのは](https://open.spotify.com/track/3nRht8eUysxlKZbGJ1uF9B) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 5:00 | 2022-06-07 | 2022-06-15 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-02-28 | 2023-12-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,245 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,287 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,19 +57,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 47 | [Sharab Cheez Hi Aisi](https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:04 |
 | 48 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 |
 | 49 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
-| 50 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 |
-| 51 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
+| 50 | [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 |
+| 51 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 |
 | 52 | [Tose Lage Nain](https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Tose Lage Nain](https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj) | 5:54 |
 | 53 | [Nazar Mujhse](https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz) | [Ahmed Hussain](https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1), [Mohammed Hussain](https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0) | [The Great Ghazals](https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN) | 7:30 |
 | 54 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 |
 | 55 | [Dil Todne Wale](https://open.spotify.com/track/5VfIOKBXuOYhgxrx0t1oez) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H) | [Charlie Chopra And The Mystery of Solang Valley](https://open.spotify.com/album/4ug5MhYUma7sriDVktAmwm) | 3:58 |
 | 56 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
 | 57 | [Naam](https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 5:34 |
-| 58 | [Samandar](https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 5:39 |
+| 58 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 |
 | 59 | [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 |
-| 60 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 |
-| 61 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
-| 62 | [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 |
+| 60 | [Samandar](https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 5:39 |
+| 61 | [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 |
+| 62 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
 | 63 | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw) | [Meenal Jain](https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6) | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ) | 4:52 |
 | 64 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 |
 | 65 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 |

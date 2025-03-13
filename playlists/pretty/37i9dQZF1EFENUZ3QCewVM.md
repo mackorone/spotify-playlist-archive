@@ -11,7 +11,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 1 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 |
 | 2 | [Boyfriend](https://open.spotify.com/track/23eLvOQ3JxtdhRi9YyxRKQ) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:33 |
 | 3 | [Ruin My Life](https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:10 |
-| 4 | [Rockstar](https://open.spotify.com/track/2e26R02kxMvLSx7uvNYyGU) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:18 |
+| 4 | [Rockstar](https://open.spotify.com/track/65ZihkVQO3KqPj7ZKxmcev) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:18 |
 | 5 | [Dead](https://open.spotify.com/track/330CwDQh6mZ9yAWnJ1svDL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:14 |
 | 6 | [Without Me](https://open.spotify.com/track/7MhNCT34oaLIxwAsZlZd67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:48 |
 | 7 | [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 111 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 112 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbrzFAAAAACibUg79eFBHDf5HuJEd9s2`
+Snapshot ID: `Abr4oAAAAABE8lb8xPbbT03OGSBeC9Cu`

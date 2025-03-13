@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week \- Saya Gray!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,233 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,248 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

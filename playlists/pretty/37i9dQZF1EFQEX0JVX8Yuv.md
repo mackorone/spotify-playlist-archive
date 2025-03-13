@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 58 | [Broken](https://open.spotify.com/track/5qJwZIULLMrOl8BIcuRzs7) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:48 |
 | 59 | [Gag On It](https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:39 |
 | 60 | [i don't wanna die...](https://open.spotify.com/track/4xTqxX7Tcqwz8z8oDfNwd4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 2:06 |
-| 61 | [Bloody Valentine](https://open.spotify.com/track/7fAE6UnMoTfcrQCnrdwtBT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:41 |
-| 62 | [Your Wish Is My Command](https://open.spotify.com/track/64A9jdEvQIL5cZAaqapIFL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:54 |
+| 61 | [Your Wish Is My Command](https://open.spotify.com/track/64A9jdEvQIL5cZAaqapIFL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:54 |
+| 62 | [Bloody Valentine](https://open.spotify.com/track/7fAE6UnMoTfcrQCnrdwtBT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 2:41 |
 | 63 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 |
 | 64 | [Blow It All](https://open.spotify.com/track/3A88PZgZXXeacwWhwwtZdR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:58 |
 | 65 | [Feed The Beast](https://open.spotify.com/track/3qfovimS6NXaSKxskfkGX5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:30 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 113 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 | 114 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `AbrzFAAAAACWzq4bKRp4BQJdIO3ScTdk`
+Snapshot ID: `Abr4tAAAAACpedYPQsCCu5OFgenXqGsv`

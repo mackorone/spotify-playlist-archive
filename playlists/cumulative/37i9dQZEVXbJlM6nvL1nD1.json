@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254240,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "album": {
         "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
         "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
       },
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
@@ -6546,7 +6564,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 192053,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS"
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -7278,7 +7296,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 165178,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -10560,7 +10578,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 226400,
       "name": "Ll\u00e9vame Contigo",
       "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
@@ -10806,7 +10824,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4eLDmhsJW3JoZTXCAozHor"
@@ -15760,7 +15778,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"

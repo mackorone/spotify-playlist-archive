@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\. Kapak: Gülden
 
-129 songs - 6 hr 41 min
+130 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2024-12-05 |  |
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-07-02 | 2025-02-05 |
 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-07-02 | 2024-08-08 |
-| [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 | 2024-08-22 |  |
+| [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 | 2024-08-22 | 2025-03-13 |
 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-15 |  |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-07-02 |  |
 | [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-07-02 | 2025-01-15 |
@@ -88,6 +88,7 @@
 | [Leyla](https://open.spotify.com/track/1yNlQwfPdHQg1ynxfBbk2a) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Boygar](https://open.spotify.com/artist/4PJjx45YgWsvQ8srXC2Txe) | [Daha Derine](https://open.spotify.com/album/6gj3CjEPM2m4tWzLgVURTE) | 3:14 | 2024-07-03 | 2025-02-19 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-27 | 2024-12-20 |
 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 | 2025-01-14 |  |
+| [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:18 | 2025-03-12 |  |
 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 | 2025-02-20 |  |
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-07-03 | 2025-02-14 |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-27 |  |

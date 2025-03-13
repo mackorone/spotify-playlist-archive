@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,625 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,640 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 32 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
 | 33 | [Laços](https://open.spotify.com/track/1WrHBBRPokbuJSon8AGlA9) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Laços](https://open.spotify.com/album/51sijugqSA8tgMswbFjupX) | 4:00 |
 | 34 | [Cigana](https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Suricateando](https://open.spotify.com/album/7oVcPsDEOAMcuAferDjzTx) | 2:42 |
-| 35 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 35 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 |
 | 36 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
-| 37 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 |
+| 37 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 38 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
 | 39 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
 | 40 | [We Deserve To Dream](https://open.spotify.com/track/4uxap3PpnxFo7BeNcXtEnq) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [We Deserve To Dream](https://open.spotify.com/album/2J5kTcG1hkK1E1n1uS0ONx) | 5:17 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 52 | [A Coisa Mais Bonita](https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [A Coisa Mais Bonita](https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3) | 2:49 |
 | 53 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
 | 54 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 |
-| 55 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
-| 56 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
+| 55 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
+| 56 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
 | 57 | [CACHOEIRA](https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw) | [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [CACHOEIRA](https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3) | 3:40 |
-| 58 | [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 |
-| 59 | [Peito Aberto](https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Coisas de Viver](https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc) | 3:11 |
-| 60 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
+| 58 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
+| 59 | [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 |
+| 60 | [Peito Aberto](https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Coisas de Viver](https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc) | 3:11 |
 
 Snapshot ID: `Z7kW9QAAAABg/BxpZso+2eykVVbv8Qib`

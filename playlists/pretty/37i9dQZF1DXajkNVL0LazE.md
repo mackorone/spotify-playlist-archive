@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,618 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,641 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 16 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 17 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 18 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
-| 19 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
+| 19 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 20 | [Naked as We Came](https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 2:32 |
-| 21 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
+| 21 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 22 | [This Is The Thing](https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Distance and Time](https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br) | 4:32 |
 | 23 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 |
 | 24 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 27 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 28 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
 | 29 | [Jim Cain](https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 4:39 |
-| 30 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
+| 30 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
 | 31 | [Murder in the City](https://open.spotify.com/track/3h5AZDf5z7D18plaLtHTfi) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Second Gleam](https://open.spotify.com/album/4qnTzXaGBJnb11UMPAILO0) | 3:12 |
-| 32 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
+| 32 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 33 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
 | 34 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 35 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 79 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
 | 80 | [Since You've Been Around](https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [If Songs Could Be Held](https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i) | 3:18 |
 | 81 | [Lives Of Crime](https://open.spotify.com/track/4gRbjbr3ch96FgvojEjhCu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Spelled In Bones](https://open.spotify.com/album/1H6hPwBGxlYLzNwCW9P2CP) | 3:53 |
-| 82 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
-| 83 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
+| 82 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
+| 83 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
 | 84 | [The Swimming Song](https://open.spotify.com/track/6ulFhQ1pfkUNuCY1zxClmv) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Thing Of The Past](https://open.spotify.com/album/1c1QSSEh3Hv8FHoCQM4R7Y) | 2:42 |
 | 85 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
 | 86 | [Saturday Waits](https://open.spotify.com/track/2pprnAsYv3qvelEO4DG1vX) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Loney, Noir](https://open.spotify.com/album/1tJa3GN7NV5MT79PIVxDyq) | 3:39 |
@@ -99,11 +99,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 89 | [Cold and On My Mind](https://open.spotify.com/track/7KQ1WE9cUQcrUjorhP1hGK) | [Edith Frost](https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E) | [Shanti Project Collection 2](https://open.spotify.com/album/7CAuZdJ6sKPX4UUe6tHfCN) | 3:04 |
 | 90 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |
 | 91 | [Red Sea, Black Sea](https://open.spotify.com/track/2ouxMZsKhP2P32Qge1HdAX) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Palo Santo \(Expanded Edition\)](https://open.spotify.com/album/66u6ytOmJrm0APoya7mokt) | 3:09 |
-| 92 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 |
+| 92 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
 | 93 | [I Was Only Going Out](https://open.spotify.com/track/0Xe1rsTfcVgPf9PJPLX3gA) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Dear John](https://open.spotify.com/album/4vURCpWl7MDH9OrihML0c9) | 3:38 |
-| 94 | [Fake Palindromes](https://open.spotify.com/track/50woGYhAqV3KXvO1LG4zLg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 2:52 |
-| 95 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
-| 96 | [A New Binding](https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8) | [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [A Ways Away](https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw) | 3:35 |
+| 94 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
+| 95 | [A New Binding](https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8) | [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [A Ways Away](https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw) | 3:35 |
+| 96 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 |
 | 97 | [Handshake Drugs](https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 6:03 |
 | 98 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 | 99 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |

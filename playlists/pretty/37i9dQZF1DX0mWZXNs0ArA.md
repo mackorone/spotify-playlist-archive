@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,985,797 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985,713 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 74 | [Hell N Back \- Sped Up](https://open.spotify.com/track/2kjdWC3cn0xYJ3Hg8Wo6DR) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 2:44 |
 | 75 | [I Wouldn't Mind \- Sped Up](https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [I Wouldn't Mind \(Sped Up\)](https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y) | 2:49 |
 | 76 | [In The Stars \- Sped Up](https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Sped Up\)](https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu) | 2:50 |
-| 77 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
-| 78 | [Price Tag \- Sped Up](https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Price Tag \(Sped Up\)](https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx) | 3:17 |
+| 77 | [Price Tag \- Sped Up](https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Price Tag \(Sped Up\)](https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx) | 3:17 |
+| 78 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
 | 79 | [Wasted Summers \- Sped Up](https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers \(Sped Up\)](https://open.spotify.com/album/4P0oxvMiZmCAnbkb6iWxLx) | 1:58 |
 | 80 | [UNDERSTAND \- Sped Up](https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [UNDERSTAND \(Sped Up Version\)](https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC) | 2:05 |
 | 81 | [af1 \(sped up\)](https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1 \(sped up\)](https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B) | 1:58 |

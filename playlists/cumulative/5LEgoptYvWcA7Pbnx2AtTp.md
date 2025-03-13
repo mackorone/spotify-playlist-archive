@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-163 songs - 9 hr 12 min
+165 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Lovers \(Live A Little Longer\)](https://open.spotify.com/track/0mb5Q9w5GJKU7HClkEzHpy) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:30 | 2024-09-20 |  |
 | [Mad IQs](https://open.spotify.com/track/4dTM35eH5nmPRZcQ2ltlKr) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:02 | 2024-12-12 |  |
 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 | 2024-10-17 |  |
+| [Maya the Psychic](https://open.spotify.com/track/1tg5c5gVzzpSHUsIWbEl8v) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 3:01 | 2025-03-12 |  |
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
 | [Mii Music but It Makes You Uncomfortable](https://open.spotify.com/track/3yJrTG4tycsQ2Uu8KPOFcd) | [lukeitslukas](https://open.spotify.com/artist/6Ep0tsBeSVJhGGMry4bYG3) | [Mii Music but It Makes You Uncomfortable](https://open.spotify.com/album/2kz4djL6zENyQFuTzJ0I1e) | 1:01 | 2024-12-09 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:42 | 2024-12-12 |  |
@@ -170,6 +171,7 @@
 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 | 2024-09-17 |  |
 | [You're Mine](https://open.spotify.com/track/23F2WO6H1ERmRp8aCEQE9y) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [You're Mine](https://open.spotify.com/album/4Qu9kYMmcXNNRipi1E9QC6) | 2:50 | 2022-06-13 |  |
 | [Your Father's Son](https://open.spotify.com/track/7eANxDUhdoTt5Wfn4EFYAv) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:42 | 2023-03-23 |  |
+| [Zero Zero](https://open.spotify.com/track/4LayGZR6aW0VCoMlv828NM) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:49 | 2025-03-12 |  |
 | [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2023-05-22. Prior content cannot be recovered.

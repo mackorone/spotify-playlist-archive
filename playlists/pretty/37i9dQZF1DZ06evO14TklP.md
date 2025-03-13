@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,885 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,894 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 49 | [Important](https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [I.E.](https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Never Ghost](https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W) | 3:32 |
 | 50 | [Ooh La La](https://open.spotify.com/track/7Af9e3Z5yAzY2Jk3dKmFov) | [Wayne Marshall](https://open.spotify.com/artist/7z5vwJBduF4LhL0RSKpofj), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Censored](https://open.spotify.com/album/20d3VlfbgjWHIsNMqADNbO) | 4:01 |
 
-Snapshot ID: `Z8zaAAAAAADxLEJk5DRFvjAA6K/IBcoI`
+Snapshot ID: `Z899AAAAAADt+MyVRchdBEtRR5tfNZN1`

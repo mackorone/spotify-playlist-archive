@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 117481,
+  "num_followers": 117527,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Who\u2019s Gonna Save The World",
-        "url": "https://open.spotify.com/album/7u4eeiV7cPJnzsmkpWzMBg"
-      },
-      "artists": [
-        {
-          "name": "DJ Fudge",
-          "url": "https://open.spotify.com/artist/5SDOrz6Zieh0kqMhQHjxF0"
-        },
-        {
-          "name": "Chinua Hawk",
-          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
-        }
-      ],
-      "duration_ms": 247868,
-      "name": "Who\u2019s Gonna Save The World - Vocal Mix Edit",
-      "url": "https://open.spotify.com/track/0TGe9iJyIRz4tENo1I5Iqk"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Waiting For Your Love",
         "url": "https://open.spotify.com/album/5v6jSrVXvTp6FEiEUKW372"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 222148,
       "name": "Waiting For Your Love - Soulmekanikz Remix",
       "url": "https://open.spotify.com/track/2kXEbeveGtsrlBaSE1fQEc"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "Who\u2019s Gonna Save The World",
+        "url": "https://open.spotify.com/album/7u4eeiV7cPJnzsmkpWzMBg"
+      },
+      "artists": [
+        {
+          "name": "DJ Fudge",
+          "url": "https://open.spotify.com/artist/5SDOrz6Zieh0kqMhQHjxF0"
+        },
+        {
+          "name": "Chinua Hawk",
+          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
+        }
+      ],
+      "duration_ms": 247868,
+      "name": "Who\u2019s Gonna Save The World - Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/0TGe9iJyIRz4tENo1I5Iqk"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/0JxZ6RXBtU9Exb6pRekzsv"
-      },
-      "artists": [
-        {
-          "name": "Thommy Davis",
-          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
-        },
-        {
-          "name": "Tasha LaRae",
-          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
-        }
-      ],
-      "duration_ms": 448524,
-      "name": "The Real Thing - 12 Inch Vocal Mix",
-      "url": "https://open.spotify.com/track/0WhweXxoF4ZNtH2VQt8hu9"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "I Thank You",
         "url": "https://open.spotify.com/album/6nnLLH1JF1utW5SqtTcEF4"
       },
@@ -1283,6 +1263,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
+        "name": "Reach Up",
+        "url": "https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN"
+      },
+      "artists": [
+        {
+          "name": "Luis Radio",
+          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
+        }
+      ],
+      "duration_ms": 319060,
+      "name": "Reach Up - Original Mix",
+      "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
         "name": "With You (Reelsoul Remix)",
         "url": "https://open.spotify.com/album/3KKp3nTEymGNRRVvKFfOpQ"
       },
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Reach Up",
-        "url": "https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN"
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/0JxZ6RXBtU9Exb6pRekzsv"
       },
       "artists": [
         {
-          "name": "Luis Radio",
-          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
+          "name": "Thommy Davis",
+          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
+        },
+        {
+          "name": "Tasha LaRae",
+          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
         }
       ],
-      "duration_ms": 319060,
-      "name": "Reach Up - Original Mix",
-      "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
+      "duration_ms": 448524,
+      "name": "The Real Thing - 12 Inch Vocal Mix",
+      "url": "https://open.spotify.com/track/0WhweXxoF4ZNtH2VQt8hu9"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Never Stop Dancing (Kelly G. Shelter Dub)",
-        "url": "https://open.spotify.com/album/2vEj6hSjxWOBwiFwCyc47J"
-      },
-      "artists": [
-        {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
-        },
-        {
-          "name": "Aaron K. Gray",
-          "url": "https://open.spotify.com/artist/6TgzrtBwlDUTEcYLF8corT"
-        },
-        {
-          "name": "Kelly G",
-          "url": "https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz"
-        }
-      ],
-      "duration_ms": 203267,
-      "name": "Never Stop Dancing - Kelly G. Shelter Dub",
-      "url": "https://open.spotify.com/track/1zNCpcff5c6nzdUsG83Lzv"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "I Want You All Tonight (DJ Spen & Michele Chiavarini Radio Edit)",
         "url": "https://open.spotify.com/album/4ZW7ttigriDm9QadYCVbYN"
       },
@@ -1535,22 +1511,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "The Child In My Heart",
-        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
-      },
-      "artists": [
-        {
-          "name": "Dean Baker",
-          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Child In My Heart - Original Mix",
-      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM"
       },
@@ -1571,42 +1531,26 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Caged Bird",
-        "url": "https://open.spotify.com/album/13bwEpHK21z3HgizYgS9rA"
+        "name": "Never Stop Dancing (Kelly G. Shelter Dub)",
+        "url": "https://open.spotify.com/album/2vEj6hSjxWOBwiFwCyc47J"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
         },
         {
-          "name": "NAE (SA)",
-          "url": "https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs"
-        }
-      ],
-      "duration_ms": 483543,
-      "name": "Caged Bird - Full Vocal Media Mix",
-      "url": "https://open.spotify.com/track/7kBi4WKREPySvKSkfbTnqx"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
-        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
-        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+          "name": "Aaron K. Gray",
+          "url": "https://open.spotify.com/artist/6TgzrtBwlDUTEcYLF8corT"
         },
         {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+          "name": "Kelly G",
+          "url": "https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz"
         }
       ],
-      "duration_ms": 365395,
-      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
-      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+      "duration_ms": 203267,
+      "name": "Never Stop Dancing - Kelly G. Shelter Dub",
+      "url": "https://open.spotify.com/track/1zNCpcff5c6nzdUsG83Lzv"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1635,6 +1579,46 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
+        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
+        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 365395,
+      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
+      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "Caged Bird",
+        "url": "https://open.spotify.com/album/13bwEpHK21z3HgizYgS9rA"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "NAE (SA)",
+          "url": "https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs"
+        }
+      ],
+      "duration_ms": 483543,
+      "name": "Caged Bird - Full Vocal Media Mix",
+      "url": "https://open.spotify.com/track/7kBi4WKREPySvKSkfbTnqx"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/7K6bdQFhiJJRZIcAsmO0Id"
       },
@@ -1651,22 +1635,18 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Rekindled",
-        "url": "https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo"
+        "name": "The Child In My Heart",
+        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
       },
       "artists": [
         {
-          "name": "Kid Fonque",
-          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+          "name": "Dean Baker",
+          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
         }
       ],
-      "duration_ms": 245970,
-      "name": "Rekindled",
-      "url": "https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC"
+      "duration_ms": 377419,
+      "name": "Child In My Heart - Original Mix",
+      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1791,18 +1771,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
+        "name": "Rekindled",
+        "url": "https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo"
       },
       "artists": [
         {
-          "name": "Shazzi",
-          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
         }
       ],
-      "duration_ms": 252842,
-      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
+      "duration_ms": 245970,
+      "name": "Rekindled",
+      "url": "https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
+        "name": "Love Is All Around Me (The GeeW Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/62qrQesOiBCSyBE6YasSN1"
+      },
+      "artists": [
+        {
+          "name": "Shazzi",
+          "url": "https://open.spotify.com/artist/2EHRnADjom3QEdCxcmHnQZ"
+        }
+      ],
+      "duration_ms": 252842,
+      "name": "Love Is All Around Me - The GeeW Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/1C0AKHOGXVvJ3bzldZ1ljI"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
         "name": "U Got Me Dancing (DJ Spen & Reelsoul Radio Edit)",
         "url": "https://open.spotify.com/album/3SvgnfS05c2DlMp5rLM1WN"
       },
@@ -1863,30 +1863,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Warning (Radio Edit)",
-        "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
+        "name": "Keep on Stepping",
+        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
       },
       "artists": [
         {
-          "name": "Terry Hunter",
-          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
         },
         {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
-        },
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
         }
       ],
-      "duration_ms": 232258,
-      "name": "Warning - Radio Edit",
-      "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
+      "duration_ms": 202835,
+      "name": "Keep on Stepping",
+      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1911,22 +1903,30 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Keep on Stepping",
-        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
+        "name": "Warning (Radio Edit)",
+        "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
       },
       "artists": [
         {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
         },
         {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+          "name": "Reelsoul",
+          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
         }
       ],
-      "duration_ms": 202835,
-      "name": "Keep on Stepping",
-      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
+      "duration_ms": 232258,
+      "name": "Warning - Radio Edit",
+      "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "My Prayer (Micky More & Andy Tee Mixes)",
-        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
-      },
-      "artists": [
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        },
-        {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
-      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Love Bomb",
         "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 554754,
       "name": "Earl Montana",
       "url": "https://open.spotify.com/track/7LQljpknL37lW8ki3l5Ny2"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "My Prayer (Micky More & Andy Tee Mixes)",
+        "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
+      },
+      "artists": [
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "My Prayer - Micky More & Andy Tee Classic Edit",
+      "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2111,30 +2111,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "We Are One (feat. Bobby Pruitt) [Art of Tones Remix]",
-        "url": "https://open.spotify.com/album/78U1X2E8fCMyV0Lxvejpjo"
-      },
-      "artists": [
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
-        },
-        {
-          "name": "Bobby Pruitt",
-          "url": "https://open.spotify.com/artist/0Ac1kdJ9cdCHvc2AEilWLs"
-        },
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        }
-      ],
-      "duration_ms": 399090,
-      "name": "We Are One (feat. Bobby Pruitt) - Art of Tones Extended Remix",
-      "url": "https://open.spotify.com/track/0gtoJb9czS2v5pMEovREzk"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Good Inside",
         "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
       },
@@ -2175,26 +2151,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "The Universe Is Magic",
-        "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
-      },
-      "artists": [
-        {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Kid Sublime",
-          "url": "https://open.spotify.com/artist/18zi2twij4DU0Z3nm4tVUX"
-        }
-      ],
-      "duration_ms": 367436,
-      "name": "Drumz Of Love, Pt. 1",
-      "url": "https://open.spotify.com/track/1uZL8TxRz9o2bp6pAJxP18"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Defenders of Justice",
         "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
       },
@@ -2215,26 +2171,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/2N61YAPSGmGeVLv2WdjueA"
+        "name": "The Universe Is Magic",
+        "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
       },
       "artists": [
         {
-          "name": "Ruben Vidal",
-          "url": "https://open.spotify.com/artist/70fiKBQTJHcmF98tZamcmW"
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
         },
         {
-          "name": "Arnold Jarvis",
-          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
-        },
-        {
-          "name": "Stephanie Cooke",
-          "url": "https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2"
+          "name": "Kid Sublime",
+          "url": "https://open.spotify.com/artist/18zi2twij4DU0Z3nm4tVUX"
         }
       ],
-      "duration_ms": 418080,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0gKAbcsG3BZK8qZkrB39NB"
+      "duration_ms": 367436,
+      "name": "Drumz Of Love, Pt. 1",
+      "url": "https://open.spotify.com/track/1uZL8TxRz9o2bp6pAJxP18"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2299,6 +2251,54 @@
       "duration_ms": 368780,
       "name": "Playground - Groove Assassin Remix",
       "url": "https://open.spotify.com/track/2DcwtxmTJuYe83NIjLOrjz"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "We Are One (feat. Bobby Pruitt) [Art of Tones Remix]",
+        "url": "https://open.spotify.com/album/78U1X2E8fCMyV0Lxvejpjo"
+      },
+      "artists": [
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        },
+        {
+          "name": "Bobby Pruitt",
+          "url": "https://open.spotify.com/artist/0Ac1kdJ9cdCHvc2AEilWLs"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "duration_ms": 399090,
+      "name": "We Are One (feat. Bobby Pruitt) - Art of Tones Extended Remix",
+      "url": "https://open.spotify.com/track/0gtoJb9czS2v5pMEovREzk"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/2N61YAPSGmGeVLv2WdjueA"
+      },
+      "artists": [
+        {
+          "name": "Ruben Vidal",
+          "url": "https://open.spotify.com/artist/70fiKBQTJHcmF98tZamcmW"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+        },
+        {
+          "name": "Stephanie Cooke",
+          "url": "https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2"
+        }
+      ],
+      "duration_ms": 418080,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0gKAbcsG3BZK8qZkrB39NB"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2443,26 +2443,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Power Of One",
-        "url": "https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef"
-      },
-      "artists": [
-        {
-          "name": "Kelly G",
-          "url": "https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz"
-        },
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 239092,
-      "name": "Power Of One",
-      "url": "https://open.spotify.com/track/3UR5UresBbHljYFVOHm83m"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Shadows (Harry Romero Remix)",
         "url": "https://open.spotify.com/album/5YkuXQkkSMvQlXXvUDamjI"
       },
@@ -2523,6 +2503,26 @@
       "duration_ms": 264586,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7jokcgwenxH9rBm5s3CYfs"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "Power Of One",
+        "url": "https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef"
+      },
+      "artists": [
+        {
+          "name": "Kelly G",
+          "url": "https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz"
+        },
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 239092,
+      "name": "Power Of One",
+      "url": "https://open.spotify.com/track/3UR5UresBbHljYFVOHm83m"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2619,26 +2619,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
-      },
-      "artists": [
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        },
-        {
-          "name": "Lily McKenzie",
-          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Sensitive (feat. Lily McKenzie)",
-      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/6muhgHXi8PjHQ9TnBt0Kkt"
       },
@@ -2655,26 +2635,6 @@
       "duration_ms": 435714,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/7uVcj7Vdj5Z8nbanL6dS5j"
-      },
-      "artists": [
-        {
-          "name": "Wipe The Needle",
-          "url": "https://open.spotify.com/artist/6gEdcNCCqpeMDMX6Qldchw"
-        },
-        {
-          "name": "Syren Rivers",
-          "url": "https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T"
-        }
-      ],
-      "duration_ms": 423736,
-      "name": "The Way - RBL Edit",
-      "url": "https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2699,6 +2659,26 @@
       "duration_ms": 405301,
       "name": "BACK TO BASIC - Soul Clap groove remix",
       "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/7uVcj7Vdj5Z8nbanL6dS5j"
+      },
+      "artists": [
+        {
+          "name": "Wipe The Needle",
+          "url": "https://open.spotify.com/artist/6gEdcNCCqpeMDMX6Qldchw"
+        },
+        {
+          "name": "Syren Rivers",
+          "url": "https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T"
+        }
+      ],
+      "duration_ms": 423736,
+      "name": "The Way - RBL Edit",
+      "url": "https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2747,6 +2727,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
+        "name": "Power in Harmony",
+        "url": "https://open.spotify.com/album/76YijZwQb0pPfarXLibw3p"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Power in Harmony - Original Edit",
+      "url": "https://open.spotify.com/track/3tV6MB2SQR5Wbg8Ngn6OTi"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
         "name": "Without Your Love (The Teddy Douglas Love Break Mixes)",
         "url": "https://open.spotify.com/album/5SdbFHNTktPQeTvbckmIQP"
       },
@@ -2767,18 +2763,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Power in Harmony",
-        "url": "https://open.spotify.com/album/76YijZwQb0pPfarXLibw3p"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
       },
       "artists": [
         {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        },
+        {
+          "name": "Lily McKenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Power in Harmony - Original Edit",
-      "url": "https://open.spotify.com/track/3tV6MB2SQR5Wbg8Ngn6OTi"
+      "duration_ms": 220800,
+      "name": "Sensitive (feat. Lily McKenzie)",
+      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2803,26 +2803,6 @@
       "duration_ms": 280000,
       "name": "Rise - Black Sonix & Sean McCabe Radio Edit",
       "url": "https://open.spotify.com/track/5xR3h1iRZm6Vt4rS5slWOq"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
-        "name": "Free Me (Groove Assassin Remix)",
-        "url": "https://open.spotify.com/album/0xNn006mgw6WmaLIMB8ARp"
-      },
-      "artists": [
-        {
-          "name": "10th Street Assembly",
-          "url": "https://open.spotify.com/artist/4ZawuQwsrRF4sACSk3DkwT"
-        },
-        {
-          "name": "Groove Assassin",
-          "url": "https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG"
-        }
-      ],
-      "duration_ms": 232365,
-      "name": "Free Me - Groove Assassin Remix",
-      "url": "https://open.spotify.com/track/4eEYNJeaQNlKVVkJYtHxlO"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -2867,6 +2847,26 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
+        "name": "Free Me (Groove Assassin Remix)",
+        "url": "https://open.spotify.com/album/0xNn006mgw6WmaLIMB8ARp"
+      },
+      "artists": [
+        {
+          "name": "10th Street Assembly",
+          "url": "https://open.spotify.com/artist/4ZawuQwsrRF4sACSk3DkwT"
+        },
+        {
+          "name": "Groove Assassin",
+          "url": "https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG"
+        }
+      ],
+      "duration_ms": 232365,
+      "name": "Free Me - Groove Assassin Remix",
+      "url": "https://open.spotify.com/track/4eEYNJeaQNlKVVkJYtHxlO"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
         "name": "Believe In A Brighter Day (feat. P.Y. Anderson) [Micky More & Andy Tee Remix]",
         "url": "https://open.spotify.com/album/6Fcw8dfdH2Nzte7ij0hMUC"
       },
@@ -2907,26 +2907,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Breathe (Natasha Diggs Remix)",
-        "url": "https://open.spotify.com/album/4dlv3ovLZYjGwSHmsWPDTv"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Natasha Diggs",
-          "url": "https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt"
-        }
-      ],
-      "duration_ms": 234029,
-      "name": "Breathe - Natasha Diggs Remix",
-      "url": "https://open.spotify.com/track/0vEWGzPIOAnLBN6aVf5aWt"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "As If You Read My Mind",
         "url": "https://open.spotify.com/album/62NlX5Vx4ombKjQ9STzDg2"
       },
@@ -2947,6 +2927,26 @@
       "duration_ms": 271735,
       "name": "As If You Read My Mind - Spotify Radio Mix",
       "url": "https://open.spotify.com/track/75GaPDbeRWvPWhP0bMFXwN"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "Breathe (Natasha Diggs Remix)",
+        "url": "https://open.spotify.com/album/4dlv3ovLZYjGwSHmsWPDTv"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Natasha Diggs",
+          "url": "https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt"
+        }
+      ],
+      "duration_ms": 234029,
+      "name": "Breathe - Natasha Diggs Remix",
+      "url": "https://open.spotify.com/track/0vEWGzPIOAnLBN6aVf5aWt"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -3043,22 +3043,18 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Did You Pray Today? (feat. Annette Bowen)",
-        "url": "https://open.spotify.com/album/1qt65emuQCgvkuViFPuQOq"
+        "name": "Love Affair",
+        "url": "https://open.spotify.com/album/549Wblx6GfyuyVenZ2Ct7f"
       },
       "artists": [
         {
-          "name": "Melvo Baptiste",
-          "url": "https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6"
-        },
-        {
-          "name": "Annette Bowen",
-          "url": "https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6"
+          "name": "Doni Nicole",
+          "url": "https://open.spotify.com/artist/5PkfWR1CpRXnPVIXVQX1PR"
         }
       ],
-      "duration_ms": 251020,
-      "name": "Did You Pray Today? (feat. Annette Bowen)",
-      "url": "https://open.spotify.com/track/6jLZA4j6JlEmIOwt6snOUM"
+      "duration_ms": 595000,
+      "name": "Love Affair (Phunk Farmers Music Vocal Mix) [the Adlib]",
+      "url": "https://open.spotify.com/track/7gOS1uKFHNQnH0AAM8QPum"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -3099,22 +3095,6 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Love Affair",
-        "url": "https://open.spotify.com/album/549Wblx6GfyuyVenZ2Ct7f"
-      },
-      "artists": [
-        {
-          "name": "Doni Nicole",
-          "url": "https://open.spotify.com/artist/5PkfWR1CpRXnPVIXVQX1PR"
-        }
-      ],
-      "duration_ms": 595000,
-      "name": "Love Affair (Phunk Farmers Music Vocal Mix) [the Adlib]",
-      "url": "https://open.spotify.com/track/7gOS1uKFHNQnH0AAM8QPum"
-    },
-    {
-      "added_at": "2025-02-20 23:00:15",
-      "album": {
         "name": "Renegade (Frankie Feliciano Remix)",
         "url": "https://open.spotify.com/album/7ku8StLCZhXs8NguBDMlSS"
       },
@@ -3127,6 +3107,26 @@
       "duration_ms": 409756,
       "name": "Renegade (Feliciano Vocal Remix)",
       "url": "https://open.spotify.com/track/4l0ymPSrB7GFKUEKSUItoo"
+    },
+    {
+      "added_at": "2025-02-20 23:00:15",
+      "album": {
+        "name": "Did You Pray Today? (feat. Annette Bowen)",
+        "url": "https://open.spotify.com/album/1qt65emuQCgvkuViFPuQOq"
+      },
+      "artists": [
+        {
+          "name": "Melvo Baptiste",
+          "url": "https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6"
+        },
+        {
+          "name": "Annette Bowen",
+          "url": "https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6"
+        }
+      ],
+      "duration_ms": 251020,
+      "name": "Did You Pray Today? (feat. Annette Bowen)",
+      "url": "https://open.spotify.com/track/6jLZA4j6JlEmIOwt6snOUM"
     },
     {
       "added_at": "2025-02-20 23:00:15",
@@ -3155,22 +3155,22 @@
     {
       "added_at": "2025-02-20 23:00:15",
       "album": {
-        "name": "Give My Love",
-        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6ungcJVRqedJdY0VsAoNXf"
       },
       "artists": [
         {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+          "name": "Yooks",
+          "url": "https://open.spotify.com/artist/3nKX35cdnfzZGWN0KcPzXp"
         },
         {
-          "name": "Inaya Day",
-          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
+          "name": "Ed Ramsey",
+          "url": "https://open.spotify.com/artist/5Kjh35pEuh6zeJCdMd3DYf"
         }
       ],
-      "duration_ms": 379171,
-      "name": "Give My Love - Extended Mix",
-      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
+      "duration_ms": 493658,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4scBie3GmexE62QpfQ7cEY"
     }
   ],
   "unique_name": "Soulful House",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12269,
+  "num_followers": 12275,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADs6orfexOfKPLkld9ZFFqN",
+  "snapshot_id": "Z899AAAAAABossSDaf6PbeW6KxxJJD5c",
   "tracks": [
     {
       "added_at": null,
@@ -468,13 +468,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 267660,
-      "name": "Lucky (feat. Rudeboy)",
-      "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
     },
     {
       "added_at": null,
@@ -548,29 +548,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Strength Of A Woman (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+      "duration_ms": 267660,
+      "name": "Lucky (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
     },
     {
       "added_at": null,
@@ -591,6 +575,26 @@
       "duration_ms": 178573,
       "name": "Who Da Man",
       "url": "https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -639,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 247462,
       "name": "Original",
       "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
       "duration_ms": 225625,
       "name": "U Go Kill Me (feat. El)",
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -719,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
     },
     {
       "added_at": null,
@@ -779,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+      "duration_ms": 100362,
+      "name": "CONFETTI",
+      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
     },
     {
       "added_at": null,
@@ -819,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
         }
       ],
-      "duration_ms": 100362,
-      "name": "CONFETTI",
-      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -871,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 166800,
       "name": "Illuminati",
       "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -947,18 +927,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
         }
       ],
-      "duration_ms": 94838,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm"
+      "duration_ms": 35273,
+      "name": "Highest, Pt. 1 - Interlude",
+      "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -983,22 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Suli Breaks",
-          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
         }
       ],
-      "duration_ms": 35273,
-      "name": "Highest, Pt. 1 - Interlude",
-      "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
+      "duration_ms": 94838,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm"
     }
   ],
   "unique_name": "This Is Sarkodie",

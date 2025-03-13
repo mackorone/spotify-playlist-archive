@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,510 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,586 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 28 | [Let Me Be Sad](https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:34 |
 | 29 | [Otherside](https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication](https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD) | 4:15 |
 | 30 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
-| 31 | [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 |
-| 32 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
+| 31 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
+| 32 | [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 |
 | 33 | [last november](https://open.spotify.com/track/7AbpTqNbxpqWQjKcSOpYvq) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 2:54 |
 | 34 | [Dear Agony](https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:18 |
 | 35 | [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death \(feat\. Amy Lee\)](https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 4:03 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 39 | [Stay With Me](https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 3:14 |
 | 40 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |
 | 41 | [Without You](https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:16 |
-| 42 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
-| 43 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
-| 44 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
+| 42 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
+| 43 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 44 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
 | 45 | [Crooked Path](https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:41 |
 | 46 | [Brother](https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Sap](https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K) | 4:27 |
 | 47 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 69 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 |
 | 70 | [Only Love](https://open.spotify.com/track/1I7V7AZ9qTvmpTFf9Jdq2A) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:06 |
 | 71 | [Pretender](https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [XOXO: From Love & Anxiety In Real Time](https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz) | 3:05 |
-| 72 | [Bleed](https://open.spotify.com/track/7gpB1hNb9A1l3CuyABACeX) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6) | 3:43 |
-| 73 | [I'm Sorry](https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [Fall Better](https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD) | 3:35 |
+| 72 | [I'm Sorry](https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [Fall Better](https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD) | 3:35 |
+| 73 | [Bleed](https://open.spotify.com/track/7gpB1hNb9A1l3CuyABACeX) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6) | 3:43 |
 | 74 | [Biblical](https://open.spotify.com/track/2iA2pnDol3a471EFEBZf7h) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/4kSwfTpSCG4xVZcEn3OGrY) | 3:57 |
 | 75 | [One Of Us](https://open.spotify.com/track/5LcFvZSd8baqx1StsIitZ1) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [American Noir](https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg) | 3:23 |
 | 76 | [Heavy Eyes](https://open.spotify.com/track/40aG6bhBSLm7SCIlpQzgBT) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Heavy Eyes](https://open.spotify.com/album/1BITKMMemDAY9UFLpo3YgX) | 3:55 |
-| 77 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 |
-| 78 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
+| 77 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
+| 78 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 |
 | 79 | [Sunflower](https://open.spotify.com/track/6XNNzEOZP7bhxq5okbHqry) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 4:39 |
 | 80 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 |
 

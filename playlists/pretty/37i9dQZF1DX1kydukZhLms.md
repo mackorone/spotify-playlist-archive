@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,450,177 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,531 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 60 | [Please Don't Leave Me](https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Sin\-Decade](https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2) | 5:15 |
 | 61 | [Where the Wild Wolves Have Gone](https://open.spotify.com/track/0YrUDBOsnIiUNISpGOtwCA) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 4:13 |
 | 62 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
-| 63 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
-| 64 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
+| 63 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
+| 64 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
 | 65 | [Close My Eyes Forever](https://open.spotify.com/track/6JYU4r8D2EwW4eP7ZeUGPa) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Platinum & Gold Collection](https://open.spotify.com/album/0WFtnE2BmgSTsnbAaBXQ3o) | 4:42 |
 | 66 | [You Make Me Feel](https://open.spotify.com/track/2YHo1AiKXq1fMgWV2zxj8y) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [One Acoustic Night](https://open.spotify.com/album/625Xc0fF8BsYizGhetxlef) | 5:33 |
 | 67 | [Believe](https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Streets \- A Rock Opera \(2011 Edition\)](https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT) | 5:42 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 76 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
 | 77 | [I Still Love You](https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(Remastered Version\)](https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe) | 6:06 |
 | 78 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
-| 79 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
-| 80 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
+| 79 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
+| 80 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
 | 81 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
 | 82 | [Home Sweet Home](https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 4:00 |
 | 83 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 93 | [OHNE DICH](https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [REISE, REISE](https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4) | 4:31 |
 | 94 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
 | 95 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
-| 96 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 |
-| 97 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
-| 98 | [Miss You](https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [Golgotha](https://open.spotify.com/album/37VFmeMFl6GWm9ga1AvW3Q) | 7:41 |
-| 99 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
-| 100 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
+| 96 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
+| 97 | [Miss You](https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [Golgotha](https://open.spotify.com/album/37VFmeMFl6GWm9ga1AvW3Q) | 7:41 |
+| 98 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
+| 99 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 |
+| 100 | [You're All I Need](https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:35 |
 
 Snapshot ID: `ZmcjJwAAAAD0bUTKA4xM6bZjhyOhXVsQ`

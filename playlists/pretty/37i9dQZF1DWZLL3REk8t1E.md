@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,550 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,753 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 13 | [La Historia \(En Vivo\)](https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:00 |
 | 14 | [En Definitiva](https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:36 |
 | 15 | [EN DONDE ESTAS](https://open.spotify.com/track/6m4wCZvfc9QKiXmyTRmlNc) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [EN DONDE ESTAS](https://open.spotify.com/album/6BKDDrvvXoIgYIy2ZMnZnN) | 3:16 |
-| 16 | [Como Duele El Amor](https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 3:42 |
-| 17 | [Puño De Diamantes](https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Libre Por Naturaleza](https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK) | 3:12 |
+| 16 | [Puño De Diamantes](https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Libre Por Naturaleza](https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK) | 3:12 |
+| 17 | [Como Duele El Amor](https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 3:42 |
 | 18 | [El Intento](https://open.spotify.com/track/3MsbeHysHvLmBIAooru33d) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [El Intento](https://open.spotify.com/album/7AdN7W2HBFujq03z8DYpAR) | 2:20 |
 | 19 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 |
 | 20 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 |

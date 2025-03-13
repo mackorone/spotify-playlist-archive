@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,899 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,952 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 15 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
 | 16 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 17 | [Rosas en el Mar](https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:44 |
-| 18 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
-| 19 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:31 |
+| 18 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:31 |
+| 19 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
 | 20 | [La Novia de Mi Mejor Amigo \(The Girl of My Best Friend\)](https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [Antes del Fin del Mundo \- 60's en Español](https://open.spotify.com/album/25t6ChUwqdLVFgvkgmG1jw) | 2:23 |
 | 21 | [De Rodillas Ante Ti](https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ) | [Los Moonlights](https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH) | [15 De Los Moonlights](https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj) | 2:57 |
 | 22 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |

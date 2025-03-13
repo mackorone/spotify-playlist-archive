@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple! 📸 Chappell Roan is Lady Liberty
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,423 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,457 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 25 | [Jenny from the Block \(feat\. Jadakiss & Styles P.\) \- Track Masters Remix](https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [This Is Me...Then](https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2) | 3:07 |
 | 26 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 |
 | 27 | [Children's Story](https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:02 |
-| 28 | [Manhattan](https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:24 |
-| 29 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |
+| 28 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |
+| 29 | [Manhattan](https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:24 |
 | 30 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 |
 | 31 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 32 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |

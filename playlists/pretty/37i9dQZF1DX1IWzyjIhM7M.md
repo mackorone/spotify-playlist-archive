@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,818 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,825 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 22 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 |
 | 23 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
 | 24 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
-| 25 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
-| 26 | [Art House](https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua) | 2:57 |
+| 25 | [Art House](https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua) | 2:57 |
+| 26 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 |
 | 27 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 |
 | 28 | [Back To Your Place](https://open.spotify.com/track/5BzADVUCRuxiPz2ah64RLk) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Rebirth Of Marvin](https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo) | 3:22 |
 | 29 | [Since September](https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [No Substance Mixtape](https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72) | 3:02 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 73 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 |
 | 74 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
 | 75 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 |
-| 76 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
-| 77 | [Nobody](https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [Nobody](https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od) | 3:02 |
-| 78 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
+| 76 | [Nobody](https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [Nobody](https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od) | 3:02 |
+| 77 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
+| 78 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
 | 79 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
 | 80 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 81 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 96 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
 | 97 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
 | 98 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
-| 99 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
-| 100 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
+| 99 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
+| 100 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 |
 
 Snapshot ID: `ZZ7AiwAAAABk/46Gz3Kl+t6Miz5uzSc+`

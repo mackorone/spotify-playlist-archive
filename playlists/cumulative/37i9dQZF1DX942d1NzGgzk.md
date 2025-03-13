@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Mychelle
 
-366 songs - 19 hr 3 min
+367 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Million Ways](https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [A Million Ways](https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA) | 3:04 | 2024-09-20 | 2024-10-18 |
 | [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-26 | 2024-05-11 |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-15 | 2024-12-12 |
+| [Across My Mind](https://open.spotify.com/track/7bMsnDJea798RJJYDvfetA) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Across My Mind](https://open.spotify.com/album/47Oe13upqWE7y2V5DEP2S6) | 1:57 | 2025-03-11 |  |
 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 | 2022-07-17 | 2024-09-13 |
 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2023-09-14 | 2023-11-18 |
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-03-10 | 2023-11-25 |
@@ -65,7 +66,7 @@
 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 | 2024-12-06 |  |
 | [Celebrate](https://open.spotify.com/track/5ROXBkqR69eWzAZnptk2z3) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Celebrate](https://open.spotify.com/album/6OGetbdMvrLVufx7LoSBdv) | 3:21 | 2023-11-03 | 2023-11-18 |
 | [Chameleon](https://open.spotify.com/track/0UoXbt3i1BiUmtFn8KbDFE) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Chameleon](https://open.spotify.com/album/3ouEtmk7OjIapqVqmPLKeg) | 3:03 | 2024-04-19 | 2024-05-11 |
-| [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 |  |
+| [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 | 2025-03-13 |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-06 |  |
 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 | 2024-08-23 | 2024-10-10 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-05-15 | 2024-08-06 |

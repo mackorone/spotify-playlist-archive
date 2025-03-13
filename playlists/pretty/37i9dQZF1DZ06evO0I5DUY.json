@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 220512,
+  "num_followers": 220538,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAADU3muQLIcQBwylJjV1QIH5",
+  "snapshot_id": "Z899AAAAAABSQ+nSw50zaVp4FsWFGYqT",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 163746,
-      "name": "Mi Amigo",
-      "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 163746,
+      "name": "Mi Amigo",
+      "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Mandato Divino",
-      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspiraci\u00f3n Norte\u00f1a",
         "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 168746,
       "name": "Donde Estar\u00e1 Mi Caballo",
       "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Mandato Divino",
+      "url": "https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Que Seas Dichosa",
-      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 177293,
       "name": "Lucio Pena",
       "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 172746,
-      "name": "Cosas del Ayer",
-      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190466,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "Cosas del Ayer",
+      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
       "added_at": null,

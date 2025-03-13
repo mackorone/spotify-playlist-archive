@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,493 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,540 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 45 | [Where Have All The Flower](https://open.spotify.com/track/61DQO2hadGv2arlhbvhyAp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 4:31 |
 | 46 | [Wildwood Flower](https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:37 |
 | 47 | [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 |
-| 48 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 |
+| 48 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. 2](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 |
 | 49 | [Mary Hamilton](https://open.spotify.com/track/0fL5OGoccvYvgLxRtNO7JD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 5:55 |
 | 50 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
 
-Snapshot ID: `Z8zaAAAAAACvAubeNFXx/XbcntX/aKka`
+Snapshot ID: `Z899AAAAAACXGMEONA/fGCB8Vp0/uOqI`

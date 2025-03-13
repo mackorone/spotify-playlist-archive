@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 123517,
+  "num_followers": 123563,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 240600,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Hush Hush; Hush Hush",
-        "url": "https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Hush Hush; Hush Hush / I Will Survive - Medley",
-      "url": "https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Hush Hush; Hush Hush",
+        "url": "https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Hush Hush; Hush Hush / I Will Survive - Medley",
+      "url": "https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -859,8 +859,8 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -947,8 +947,8 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Daddy AF",
+        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Daddy AF",
+      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Cherry (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 152511,
       "name": "Cherry (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Daddy AF",
-        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Daddy AF",
-      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Move To This (Polydor Expanded Edition)",
-        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
-      },
-      "artists": [
-        {
-          "name": "Cathy Dennis",
-          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Touch Me (All Night Long) - 7\" Mix",
-      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "American Girl",
         "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 224106,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Move To This (Polydor Expanded Edition)",
+        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
+      },
+      "artists": [
+        {
+          "name": "Cathy Dennis",
+          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Touch Me (All Night Long) - 7\" Mix",
+      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
     },
     {
       "added_at": "2024-06-02 21:23:10",

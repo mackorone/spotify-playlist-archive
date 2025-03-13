@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Trueno, Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,418 likes - 180 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,498 likes - 180 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

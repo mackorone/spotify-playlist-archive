@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: Girl Group
 
-151 songs - 8 hr 58 min
+154 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,10 @@
 | [Leeches](https://open.spotify.com/track/1quJhosjIGze4W4bT3b5D3) | [Lip Filler](https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ) | [Leeches](https://open.spotify.com/album/0OerUibglMu1gZ1jrN0q45) | 3:03 | 2025-01-22 |  |
 | [Lightbulb Moment](https://open.spotify.com/track/3eCSG6GiW6ldZ9sCNApLBl) | [Adult Play](https://open.spotify.com/artist/0qAWgmNrJU4yfHMCMnEnOl) | [Deep Recess Dial Up Despair](https://open.spotify.com/album/3WeWOz5wpbGwK9YWqTAaNo) | 3:47 | 2024-06-14 | 2024-09-14 |
 | [Like Best Friends](https://open.spotify.com/track/0g95vn2Szj5apK4CIOcyAZ) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Like Best Friends / Fine For Now](https://open.spotify.com/album/469c6WV6LEt6AjZv4QqYxG) | 3:09 | 2024-06-14 | 2024-10-07 |
+| [Lil' Horse](https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50) | [Kissing on Camera](https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU) | [Lil' Horse](https://open.spotify.com/album/5YO2PLIdJCAFVaOYcKCHyJ) | 2:14 | 2025-03-12 |  |
 | [Loving Feeling](https://open.spotify.com/track/2LikCq4xT7CO3X3HTeTanh) | [PARTICLS](https://open.spotify.com/artist/2B7GYX6sOts4KNiI6ZLjrK) | [Loving Feeling/ Face To Face](https://open.spotify.com/album/5BaAm9TcA9UYTkdyFXbY4w) | 3:27 | 2025-01-22 |  |
 | [Man Of Ill Repute](https://open.spotify.com/track/5YUJszTDZObtNi9exv7eVm) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Man Of Ill Repute](https://open.spotify.com/album/5wqrQL1wdxlOrB5Sxuu8Tc) | 3:26 | 2024-11-08 |  |
+| [Massive Twenty One Pilots Tattoo](https://open.spotify.com/track/1CT0BPp8AlxmnT7L9rh12O) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Massive Twenty One Pilots Tattoo](https://open.spotify.com/album/2P5drzZjD0ZJku6XHtqSe5) | 5:01 | 2025-03-12 |  |
 | [Masterplan](https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Mill On The Hill](https://open.spotify.com/album/4tTefEgaW53zHYtrV9ZUHn) | 4:32 | 2025-03-07 |  |
 | [MEASURE ME](https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv), [Softlizard](https://open.spotify.com/artist/4pGYioOoAwTF2d44wFGTHM) | [MEASURE ME](https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU) | 4:08 | 2024-10-06 | 2024-11-09 |
 | [Meltdown](https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Meltdown](https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi) | 3:36 | 2024-12-13 |  |
@@ -116,6 +118,7 @@
 | [Resisting Resistance](https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Connla's Well](https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa) | 5:58 | 2024-06-14 | 2024-08-17 |
 | [rosie](https://open.spotify.com/track/00xit1IKzGivuMXn6FZNUw) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [rosie](https://open.spotify.com/album/3XvF6gVnLNIWPvImkgZb3G) | 3:08 | 2024-07-12 | 2024-08-17 |
 | [secondhand smoke](https://open.spotify.com/track/0XCwuw4uY2Yeq7ewt7REX1) | [Just Kids](https://open.spotify.com/artist/3VLhNXB2xLmwSHbrB8K8QN) | [secondhand smoke](https://open.spotify.com/album/1MqV48ZM6GVu3zBAKU9xmm) | 3:25 | 2024-06-14 | 2024-10-07 |
+| [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-03-12 |  |
 | [Selling Shovels](https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Selling Shovels](https://open.spotify.com/album/1YPMTEHiTJ4mj3ZB3ItXm9) | 4:22 | 2024-07-12 | 2024-12-13 |
 | [Shade in Me](https://open.spotify.com/track/5rjjofnmqtlooLAtWVOnrq) | [Slate](https://open.spotify.com/artist/2qf9rIU7fNJBZvqptGu863) | [Shade in Me](https://open.spotify.com/album/7cw97Zw99jHUtfv20KWz3u) | 3:59 | 2024-06-14 | 2024-10-07 |
 | [Sick Of Your Face](https://open.spotify.com/track/3IvB0KPG48VZ6m410fSKhX) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Sick Of Your Face](https://open.spotify.com/album/2Oh21qqBi70gsh6n4l2AxL) | 3:54 | 2024-06-14 | 2024-12-13 |

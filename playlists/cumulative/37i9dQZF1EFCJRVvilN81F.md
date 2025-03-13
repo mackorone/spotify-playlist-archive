@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 10 hr 26 min
+179 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:47 | 2024-12-11 |  |
 | [World Of Wonders](https://open.spotify.com/track/2RRI47A8yNZ94o56IRfRCQ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:22 | 2022-09-08 |  |
 | [Written In Stone](https://open.spotify.com/track/1DThFZ1wt6UQqApCofAKFb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:01 | 2022-09-08 |  |
-| [Xtasy](https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 2:58 | 2022-09-08 |  |
+| [Xtasy](https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 2:58 | 2022-09-08 | 2025-03-13 |
+| [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2025-03-12 |  |
 | [You And Me](https://open.spotify.com/track/6efwJ8S8qvGIJPCivsXcGX) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 4:38 | 2022-09-08 |  |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2022-09-08 | 2023-12-14 |
 | [YOU'RE THE ONE \(feat\. Syd\)](https://open.spotify.com/track/2kYf8lZWXI4Ajd7ZhVhKhu) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 3:47 | 2023-12-13 |  |

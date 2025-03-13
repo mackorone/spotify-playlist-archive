@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,027 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,067 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 8 | [We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 5:19 |
 | 9 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 10 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 |
-| 11 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
-| 12 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
-| 13 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 11 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
+| 12 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 13 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
 | 14 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
 | 15 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
 | 16 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |

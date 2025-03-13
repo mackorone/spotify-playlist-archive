@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=NO2OWkluRhe\_OoxLcWAfOA>Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,543 likes - 158 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,557 likes - 158 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 157 | [Fear Not](https://open.spotify.com/track/0nGDeb9XhFtUMOn003WDf6) | [Hannah Mapepeta](https://open.spotify.com/artist/1EAMWujIdiB6NTwc4BUUSH) | [Fear Not](https://open.spotify.com/album/0NeovbvhktlfH0wUSk4ULV) | 4:33 |
 | 158 | [Praise the Lord \(Live\)](https://open.spotify.com/track/7EcOXsTZr3WQHKTE6GgAKt) | [Purist Ogboi](https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE) | [Praise the Lord \(Live\)](https://open.spotify.com/album/2Pysy2VNvBClfQtFEYMybb) | 4:43 |
 
-Snapshot ID: `Z8p3kQAAAABJXTE4mChT9/HyxtQI95Dz`
+Snapshot ID: `Z9FXEAAAAACsZ3r1njwmtl5l336Jhbst`

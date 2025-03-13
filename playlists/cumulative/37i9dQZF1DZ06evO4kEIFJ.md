@@ -4,15 +4,17 @@
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 31 min
+36 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2023-07-28 |  |
+| [BIG DUMMY!](https://open.spotify.com/track/6w4jpzvJmPcggS03P0W261) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [BIG DUMMY!](https://open.spotify.com/album/44sc8iJj674H2FQ8Oy8jrI) | 2:05 | 2025-03-13 |  |
 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 | 2023-07-28 | 2024-12-29 |
 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 | 2023-07-28 |  |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2023-12-17 | 2024-07-21 |
 | [DONT WANT IT](https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:10 | 2023-07-28 |  |
+| [DREAMBOY](https://open.spotify.com/track/2lrqQ59IyZ9IDYxWeLd6rp) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [DREAMBOY](https://open.spotify.com/album/3iKDUwVktCzrLqgv2iKlU3) | 3:35 | 2025-03-13 |  |
 | [F9mily \(You & Me\)](https://open.spotify.com/track/1ABQT5SxlUTNapSbSzblGx) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:42 | 2023-08-10 | 2024-07-06 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/5TdrCQVt3l1uEz3pFdTgXC) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 3:01 | 2024-07-18 |  |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-12 | 2024-07-18 |

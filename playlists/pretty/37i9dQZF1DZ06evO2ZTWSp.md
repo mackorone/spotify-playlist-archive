@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,931 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,921 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 15 | [Boys](https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:52 |
 | 16 | [Tempo \(feat\. Missy Elliott\)](https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
 | 17 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
-| 18 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/1MfuskV4ODUp14C2dnyPgW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Blame It on Your Love](https://open.spotify.com/album/7taiT9oVLbid3rJ7KwM9jf) | 3:11 |
+| 18 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 19 | [Water Me](https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:05 |
 | 20 | [Like a Girl](https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:04 |
 | 21 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
-| 22 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
+| 22 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/1MfuskV4ODUp14C2dnyPgW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Blame It on Your Love](https://open.spotify.com/album/7taiT9oVLbid3rJ7KwM9jf) | 3:11 |
 | 23 | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL) | 3:17 |
 | 24 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
 | 25 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Everything Was So Much Simpler…](https://open.spotify.com/track/5JrEV1dM9byPkTjVhqTvGc) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 0:22 |
 | 50 | [New Eyes \(feat\. Lizzo\)](https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:46 |
 
-Snapshot ID: `Z8zaAAAAAADJMPFr5GWEPBqu0QIpUOxJ`
+Snapshot ID: `Z899AAAAAAA6mSW9rxLdRtFzVgA1zRge`

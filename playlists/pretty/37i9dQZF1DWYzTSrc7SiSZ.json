@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 902642,
+  "num_followers": 902645,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Chocomenta",
         "url": "https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr"
       },
@@ -675,18 +691,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
         }
       ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -707,26 +727,6 @@
       "duration_ms": 166310,
       "name": "Duele",
       "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Nahuel Barbero",
-          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
-      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Bolitas",
-        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Bolitas",
-      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 235102,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Bolitas",
+        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Bolitas",
+      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "OCIO",
-        "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
       },
       "artists": [
         {
-          "name": "FE7O",
-          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
-        },
-        {
-          "name": "ONTiNO!",
-          "url": "https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 205773,
-      "name": "MENTE TREN",
-      "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+        "name": "OCIO",
+        "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        },
+        {
+          "name": "ONTiNO!",
+          "url": "https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8"
         }
       ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
+      "duration_ms": 205773,
+      "name": "MENTE TREN",
+      "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "jap\u00f3n",
-      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Esc\u00e1pate",
         "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 214292,
+      "name": "jap\u00f3n",
+      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
       },
@@ -1615,42 +1615,6 @@
       "duration_ms": 165300,
       "name": "Siempre Tendr\u00e9 Mi Voz",
       "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 181443,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "NICA",
-        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "FOK YO",
-      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1691,38 +1655,38 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+        "name": "NICA",
+        "url": "https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 180320,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+      "duration_ms": 186186,
+      "name": "FOK YO",
+      "url": "https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX"
     },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "SOMOS JAVYPABLO",
-        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk"
       },
       "artists": [
         {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
         },
         {
-          "name": "Carlota Mad",
-          "url": "https://open.spotify.com/artist/6FE9wETRNdKBXsawwqmVVo"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 192599,
-      "name": "Flores Frescas",
-      "url": "https://open.spotify.com/track/7nuZO15vxH0T8MtThmfjLC"
+      "duration_ms": 181443,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1747,6 +1711,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Lucecita",
         "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
       },
@@ -1763,22 +1743,38 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "D\u00e9jame Decir Te Quiero",
-        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
+        "name": "SOMOS JAVYPABLO",
+        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
       "artists": [
         {
-          "name": "David Velasco",
-          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         },
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Carlota Mad",
+          "url": "https://open.spotify.com/artist/6FE9wETRNdKBXsawwqmVVo"
         }
       ],
-      "duration_ms": 185610,
-      "name": "D\u00e9jame Decir Te Quiero",
-      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
+      "duration_ms": 192599,
+      "name": "Flores Frescas",
+      "url": "https://open.spotify.com/track/7nuZO15vxH0T8MtThmfjLC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP"
+      },
+      "artists": [
+        {
+          "name": "Chill Akiles",
+          "url": "https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL"
+        }
+      ],
+      "duration_ms": 188176,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
     }
   ],
   "unique_name": "chill latino",

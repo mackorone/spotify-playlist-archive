@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 194788,
+  "num_followers": 194832,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Netzwerk",
+        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Sonnentanz - Sun Don't Shine",
+      "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Netzwerk",
-        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Will Heard",
-          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Sonnentanz - Sun Don't Shine",
-      "url": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 223869,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 223869,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
     },
     {
       "added_at": "2023-08-25 09:30:35",

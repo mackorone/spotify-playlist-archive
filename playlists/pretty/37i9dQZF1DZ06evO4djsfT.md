@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,459 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,472 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 3 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 |
 | 4 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
 | 5 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
-| 6 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 |
-| 7 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
+| 6 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
+| 7 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 |
 | 8 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:30 |
 | 9 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 |
 | 10 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 |
 | 50 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 |
 
-Snapshot ID: `Z8zaAAAAAABaMQ5MJjfyqpx6/mPdEAoA`
+Snapshot ID: `Z899AAAAAAD/c2ajx3NOZmpYT2U/uFZ3`

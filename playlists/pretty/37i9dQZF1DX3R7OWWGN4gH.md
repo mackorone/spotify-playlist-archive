@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,619 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,715 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 97 | [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 |
 | 98 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 99 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 |
-| 100 | [I Can't Decide](https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:46 |
+| 100 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 |
 
 Snapshot ID: `Z1u/WgAAAACDJLQokaBCwF5CGI/460+W`

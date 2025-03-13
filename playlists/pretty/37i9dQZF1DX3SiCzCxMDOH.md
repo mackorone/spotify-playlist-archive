@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,364 likes - 465 songs - 1 day 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,518 likes - 465 songs - 1 day 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -474,4 +474,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 464 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 |
 | 465 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 |
 
-Snapshot ID: `Z878FAAAAAAw0qN+YiegmjEIeGhFjfjG`
+Snapshot ID: `Z9GWswAAAAAsUDVZZFkerlJr1HGBZffm`

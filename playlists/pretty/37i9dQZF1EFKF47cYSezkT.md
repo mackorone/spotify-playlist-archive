@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 10 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 | 11 | [Golden](https://open.spotify.com/track/79q5dkBOLtbcMvaItRLUp7) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Golden](https://open.spotify.com/album/3wOSF1SdKLfYo0u5VB89UM) | 3:22 |
 | 12 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 |
-| 13 | [Tell My Momma](https://open.spotify.com/track/1LlDCKs0Ep6Gmc2HNa7WUI) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [Where To Now? \(Part.1 : Yellow Light\)](https://open.spotify.com/album/31YiGSZjVbycG39MBWVecK) | 3:35 |
-| 14 | [morning light](https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [morning light](https://open.spotify.com/album/4IjrwtBPzLPmTVmMcpZetX) | 3:39 |
+| 13 | [morning light](https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [morning light](https://open.spotify.com/album/4IjrwtBPzLPmTVmMcpZetX) | 3:39 |
+| 14 | [Tell My Momma](https://open.spotify.com/track/1LlDCKs0Ep6Gmc2HNa7WUI) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [Where To Now? \(Part.1 : Yellow Light\)](https://open.spotify.com/album/31YiGSZjVbycG39MBWVecK) | 3:35 |
 | 15 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
 | 16 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 |
 | 17 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 55 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 56 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `AbrzCgAAAAAsczo4R67QUR10Gc0vsfxN`
+Snapshot ID: `Abr4yAAAAAB5xIpK0ZfB5gdgUDrm0x8Q`

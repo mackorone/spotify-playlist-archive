@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-225 songs - 18 hr 14 min
+226 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Amoune talens zahri win w ana win](https://open.spotify.com/track/5CLJ2AUPt5FEehRBKlaP2I) | [Chiheb Records](https://open.spotify.com/artist/1BzNuIZWSLjzzSGdhrAVzE) | [Amoune talens zahri win w ana win](https://open.spotify.com/album/1lBG8SHriKycg8252UOGX3) | 3:05 | 2022-09-08 | 2022-09-20 |
 | [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 | 2022-08-28 | 2023-05-02 |
 | [Ana wiyak](https://open.spotify.com/track/4dw3HdccXL0pQQTgSwdRs6) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ana wiyak](https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk) | 3:03 | 2022-09-20 | 2023-07-19 |
+| [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 | 2025-03-12 |  |
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 | 2023-02-28 |
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Beaugossa](https://open.spotify.com/track/0WFx6LG7BUwHPAvhU30gTN) | [Cheb Youcef](https://open.spotify.com/artist/639JWxW2uEqbQQpgsb4TGz), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Beaugossa](https://open.spotify.com/album/7M68J9xTtkOp8owNzRmJr0) | 4:13 | 2025-02-25 |  |
@@ -197,7 +198,7 @@
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 | 2023-10-21 |
 | [Yakarhoni Gololi Limada](https://open.spotify.com/track/1IJKFOm451pPfkBKputTyo) | [Salim Louza](https://open.spotify.com/artist/5eUkzLuoz3r8bzu7Cg44Jj) | [Yakarhoni Gololi Limada](https://open.spotify.com/album/1tcn7HWpvgNAzL9iPLn0hD) | 6:24 | 2023-12-28 |  |
-| [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 | 2023-01-30 |  |
+| [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 | 2023-01-30 | 2025-03-13 |
 | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/track/2etuJU2aoEicf7wPSDpJAt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4tBGI5jacB10SSH7nCgDmf), [Amine La Colombe](https://open.spotify.com/artist/4G9Eqg2RdWdnOopLn2RQ6V) | [Ykhafou Dir Projet W Tanjah](https://open.spotify.com/album/0AJJwj5iD0wRVq9SmUKU2W) | 4:23 | 2023-10-19 |  |
 | [Yli9 Netséparou Ma3andna Mandirou \-](https://open.spotify.com/track/1WxuslOo4tRLqDOqJeMnpz) | [Cheb Amine Tigre](https://open.spotify.com/artist/0TlOtJhFxzROJ1AjbarC8y) | [Yli9 Netséparou Ma3andna Mandirou \-](https://open.spotify.com/album/01XkHwSe3JPpXebCZIQ5JK) | 14:04 | 2024-02-12 |  |
 | [Zadma w Sayi](https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Zadma w Sayi](https://open.spotify.com/album/5f73BUqCz6mZ1mysN4gSFo) | 6:35 | 2023-03-16 | 2024-03-17 |

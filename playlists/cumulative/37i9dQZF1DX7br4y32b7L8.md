@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-679 songs - 1 day 10 hr 32 min
+680 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Watching You \(feat\. Tory Lanez\)](https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 3:08 | 2023-05-24 | 2023-07-19 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-06 | 2023-09-14 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-01 | 2023-05-02 |
+| [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 | 2025-03-12 |  |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-18 | 2025-03-06 |
 | [Weekend](https://open.spotify.com/track/6vIdMFb41Jdej53GSNPlQs) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zin In De Zomer Man](https://open.spotify.com/album/6Gkcya6VzCPstK4IcPBoiv) | 1:57 | 2024-05-17 | 2024-11-28 |
 | [Weg Van Hier \(feat\. Masri\)](https://open.spotify.com/track/6f0c32QKMYYI9wZsHeGG8E) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg), [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Weg Van Hier \(feat\. Masri\)](https://open.spotify.com/album/6faJaISL9OPyKU689w7A4z) | 2:28 | 2023-09-14 | 2024-03-27 |

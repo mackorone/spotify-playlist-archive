@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 790929,
+  "num_followers": 791150,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8zaAAAAAAAkLnJgr7anMzykB7PiB1/I",
+  "snapshot_id": "Z899AAAAAACcUdzSqCz3JiwUIeG+ouMS",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 116455,
       "name": "Seca Tus Lagrimas",
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 165351,
-      "name": "Como Es Arriba Es Abajo",
-      "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Boss",
         "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 177583,
       "name": "Compa Bladi",
       "url": "https://open.spotify.com/track/6OXDTduxjhhvcuqhapshMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "duration_ms": 165351,
+      "name": "Como Es Arriba Es Abajo",
+      "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 150974,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -875,58 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 200050,
-      "name": "Ninguna Como Ella",
-      "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pacas Verdes (feat. Ovi)",
         "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
       },
@@ -956,9 +904,65 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 218594,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3dfU4Gby9MXckEQVa68TDC"
+      "duration_ms": 201750,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 200050,
+      "name": "Ninguna Como Ella",
+      "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 3 Torres",
+        "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 202579,
+      "name": "Pienso en Ella",
+      "url": "https://open.spotify.com/track/79fkYjEJlscHdgAtYWYfUO"
     }
   ],
   "unique_name": "This Is Natanael Cano",

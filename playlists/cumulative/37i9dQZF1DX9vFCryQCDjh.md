@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-185 songs - 11 hr 41 min
+186 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 | 2021-03-11 |  |
 | [날개 잃은 천사](https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 4:02 | 2021-03-11 |  |
 | [내 얘길 들어봐](https://open.spotify.com/track/6N4WEHW6yiudpF05o8cb1F) | [Papaya](https://open.spotify.com/artist/4y739qehPAFewYCj2YILWs) | [Papaya 1st](https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf) | 3:34 | 2024-04-04 |  |
-| [너 \- Bonus Track/Techno Version](https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:22 | 2024-04-04 |  |
+| [너 \- Bonus Track/Techno Version](https://open.spotify.com/track/7CAxCj3K1t3hQUOu4FQGNL) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:22 | 2024-04-04 | 2025-03-13 |
 | [너는 왜](https://open.spotify.com/track/1gfc6WeaZ8rabkRTIt4Hvm) | [Chuli & Miae](https://open.spotify.com/artist/3UYzCPJok6VAnaufYoNNqN) | [철이와 미애](https://open.spotify.com/album/57FVNi03fmv2COU5hz6dnL) | 3:47 | 2024-08-05 | 2024-12-31 |
 | [너를 사랑해](https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 3:36 | 2021-03-11 |  |
 | [너에게 원한건](https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja) | [Noise](https://open.spotify.com/artist/1ndo1he29FAeiehsdw5g0t) | [사랑만사](https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup) | 3:38 | 2021-03-11 | 2024-01-14 |
@@ -150,6 +150,7 @@
 | [백전무패 \(百戰無敗\)](https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 3](https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI) | 3:55 | 2021-03-11 | 2024-05-16 |
 | [불꽃](https://open.spotify.com/track/3CYMSmNYRnNz6CtGjbCW72) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [Koyote 6](https://open.spotify.com/album/3HgZymY2EH2guR8tAavAiy) | 3:53 | 2024-04-04 |  |
 | [붉은 노을](https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 Ⅱ 1981\~2002 \(Live\)](https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb) | 2:20 | 2021-03-11 | 2025-02-05 |
+| [비련](https://open.spotify.com/track/2saze3DWopH6ArRTxXN2nd) | [구피](https://open.spotify.com/artist/4kmE4cLvCDs9tBY18fwXs1) | [비련](https://open.spotify.com/album/5UugLklhrCgoXmaqVue8X1) | 3:55 | 2024-08-05 |  |
 | [비몽](https://open.spotify.com/track/5Tfrww1bUFKgE7HjZFw7OG) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [필립](https://open.spotify.com/album/43lqh3WdojwCeQXuMXB0CG) | 3:20 | 2024-04-04 |  |
 | [비밀은 없어](https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Roo\`ra Best Album](https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm) | 4:03 | 2021-03-11 |  |
 | [비상](https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX) | [KYT](https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9) | [비상](https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo) | 4:11 | 2024-04-04 |  |
