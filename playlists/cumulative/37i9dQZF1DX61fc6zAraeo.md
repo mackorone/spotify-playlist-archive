@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-209 songs - 9 hr 30 min
+210 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Pouring Rain](https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Pouring Rain](https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88) | 3:11 | 2024-03-06 | 2024-07-30 |
 | [Pretty Little Lies](https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Pretty Little Lies](https://open.spotify.com/album/3FoBg7SY8EkQ69NkSx3eAL) | 2:15 | 2024-02-07 | 2024-06-13 |
 | [Rapture](https://open.spotify.com/track/3xK9hax6AkCew9ZiFvoe61) | [Lost Prince](https://open.spotify.com/artist/23kzag3jmFxPLJbXO4g3VG), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Rapture](https://open.spotify.com/album/1z9rsEaIX1EYe1pCm1deI5) | 2:55 | 2024-12-03 | 2025-01-28 |
-| [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 | 2024-07-04 |  |
+| [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 | 2024-07-04 | 2025-03-14 |
 | [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2024-03-26 |  |
 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2024-02-07 | 2024-04-12 |
 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 | 2024-02-07 |  |
@@ -185,6 +185,7 @@
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2024-02-07 |  |
 | [Take Me Higher](https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Take Me Higher](https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg) | 2:22 | 2024-02-07 | 2024-12-04 |
 | [Talk To My Body](https://open.spotify.com/track/1PwN9ebjpov7iwTLHSov7V) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Talk To My Body](https://open.spotify.com/album/17GycKc0zIQqi7NJ8qraKn) | 2:27 | 2024-02-07 | 2024-09-19 |
+| [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2025-03-13 |  |
 | [TEN](https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/0iIC693yA29mHcT8j08osB) | 2:09 | 2025-01-27 |  |
 | [The Drop \- Öwnboss Remix](https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [The Drop \(Ownboss Remix\)](https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR) | 2:56 | 2024-02-07 | 2024-07-05 |
 | [The Garden](https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [The Garden](https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d) | 2:41 | 2024-02-07 | 2024-12-04 |

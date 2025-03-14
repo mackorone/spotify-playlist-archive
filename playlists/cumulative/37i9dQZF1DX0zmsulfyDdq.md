@@ -2,7 +2,7 @@
 
 ### [Disney Lullaby](https://open.spotify.com/playlist/37i9dQZF1DX0zmsulfyDdq)
 
-> Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
+> For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
 223 songs - 11 hr 12 min
 

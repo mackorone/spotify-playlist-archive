@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Liz Stringer",
+  "description": "These are the eclectic sounds of now. Cover: Maverick Sabre",
   "name": "Alt Here",
   "tracks": [
     {
@@ -844,6 +844,24 @@
       "duration_ms": 210000,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/29lBozGdEwtw8ZrUsAoOUs"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/5V8mpH3KV9P7O85KPPTycA"
+      },
+      "artists": [
+        {
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/6PXXyLYTDjKeTu5iWI2GA5"
     },
     {
       "album": {
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 262958,
       "name": "Diamond - On the Moon",
       "url": "https://open.spotify.com/track/0RUixX4VjVuTqEvxntbuim"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 243178,
       "name": "Do You",
       "url": "https://open.spotify.com/track/0Do7s3ndo6kBn8bBcoMf4Z"
@@ -2032,6 +2050,24 @@
       "duration_ms": 201496,
       "name": "Dollhouse",
       "url": "https://open.spotify.com/track/11abIlUngaaYA2H6GxXFwi"
+    },
+    {
+      "album": {
+        "name": "Don't Ask Don't Tell",
+        "url": "https://open.spotify.com/album/4RUiHP2Ja8j7IqDtsJrNsG"
+      },
+      "artists": [
+        {
+          "name": "Guy Blackman",
+          "url": "https://open.spotify.com/artist/76XsgVqbjHJXzJ0BY3Sr6w"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Don't Ask Don't Tell",
+      "url": "https://open.spotify.com/track/7idsXWhP1YcocKG3Vk6tP8"
     },
     {
       "album": {
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 201762,
       "name": "Ends Meet",
       "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
@@ -2370,7 +2406,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 282042,
       "name": "Ferry Lady",
       "url": "https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa"
@@ -2760,6 +2796,24 @@
       "duration_ms": 266306,
       "name": "Going to Live",
       "url": "https://open.spotify.com/track/6O7HYo86M5h7IuTfoJIrOk"
+    },
+    {
+      "album": {
+        "name": "Goji",
+        "url": "https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215904,
+      "name": "Goji",
+      "url": "https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs"
     },
     {
       "album": {
@@ -3511,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
+    },
+    {
+      "album": {
         "name": "If You Ever Need Me",
         "url": "https://open.spotify.com/album/6uAv39kcTknLxGMbZCyGad"
       },
@@ -3620,6 +3696,28 @@
       "duration_ms": 253977,
       "name": "In The Moon",
       "url": "https://open.spotify.com/track/7gQ59bDTYT54x7J1TqNgrH"
+    },
+    {
+      "album": {
+        "name": "Industrial Love Song / Bells",
+        "url": "https://open.spotify.com/album/0jMKVV7RHBC8Pr0kV8R397"
+      },
+      "artists": [
+        {
+          "name": "These New Puritans",
+          "url": "https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Industrial Love Song",
+      "url": "https://open.spotify.com/track/3089w7UmnSQboJ7wC3zchk"
     },
     {
       "album": {
@@ -3840,6 +3938,24 @@
       "duration_ms": 241379,
       "name": "Just A Western - Boy Harsher Remix",
       "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
+    },
+    {
+      "album": {
+        "name": "Just As Long As We're Together",
+        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194992,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
     },
     {
       "album": {
@@ -5108,7 +5224,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 262306,
       "name": "No One's Watching Me - feat. Olivia Dean",
       "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
@@ -5394,7 +5510,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 167516,
       "name": "Omorfo Mou",
       "url": "https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq"
@@ -5448,7 +5564,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
@@ -6063,6 +6179,24 @@
     },
     {
       "album": {
+        "name": "Burn The Right Things Down",
+        "url": "https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177932,
+      "name": "Roses Ether",
+      "url": "https://open.spotify.com/track/0FnMEZh2aBT1GGbjJVeBp8"
+    },
+    {
+      "album": {
         "name": "Roses Ether",
         "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
       },
@@ -6146,7 +6280,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 355145,
       "name": "S.N.C",
       "url": "https://open.spotify.com/track/335vJ5AwekBqjaj1XjmRnd"
@@ -7667,6 +7801,28 @@
     },
     {
       "album": {
+        "name": "This Conversation Is Missing Your Voice",
+        "url": "https://open.spotify.com/album/0TGh9rsH1I0Hhs1RBTqmjM"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234163,
+      "name": "This Conversation is Missing Your Voice",
+      "url": "https://open.spotify.com/track/2RdS9Z3WqmQnIOXDIzVfa5"
+    },
+    {
+      "album": {
         "name": "Three Piece Suit (feat. Azekel)",
         "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
@@ -7686,6 +7842,24 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "album": {
+        "name": "Til It's There",
+        "url": "https://open.spotify.com/album/1VADLrLc59ZBd6YbRUP5PF"
+      },
+      "artists": [
+        {
+          "name": "First Beige",
+          "url": "https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204889,
+      "name": "Til It's There",
+      "url": "https://open.spotify.com/track/2Z5tLeJIyVnhJ35Rc0NAgv"
     },
     {
       "album": {
@@ -8112,7 +8286,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 202415,
       "name": "Verrans Corner",
       "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"

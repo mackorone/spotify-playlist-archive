@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,208 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,313 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 56 | [home](https://open.spotify.com/track/5rHc5peKIYcuaWlilEy9ni) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [home](https://open.spotify.com/album/4dqOzDj2fe4nZdo48bN1Wc) | 1:10 |
 | 57 | [The Morning Star](https://open.spotify.com/track/12E6jng4MmOhp8hIFWplao) | [Sainte Terrer](https://open.spotify.com/artist/5RclbTDZlLn8jP2vV9WpCp) | [Without land, at Home.](https://open.spotify.com/album/5AtjOmAKuOna2nWNXaVULK) | 2:35 |
 | 58 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
-| 59 | [3 am walk](https://open.spotify.com/track/6mFsMkwQi9onAvRZNlWvhJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am empty](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:02 |
+| 59 | [3 am walk](https://open.spotify.com/track/6mFsMkwQi9onAvRZNlWvhJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:02 |
 | 60 | [dream wrld](https://open.spotify.com/track/0jwkSmVWpsNRE1vea6vc5r) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [dream wrld](https://open.spotify.com/album/2qHGIyWcMfqBQNLj77EKD3) | 2:05 |
 | 61 | [memories](https://open.spotify.com/track/2Vj1OMtjDCPlYIMmvak2Iq) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [memories](https://open.spotify.com/album/1FlMizTLU44bh37i6tAKh1) | 1:49 |
 | 62 | [azalea](https://open.spotify.com/track/17Rw0Ci6dhVOZWKlzuje7J) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS), [hallow](https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa) | [azalea](https://open.spotify.com/album/4LToIQdW53OgxwJjEx1YfE) | 2:12 |

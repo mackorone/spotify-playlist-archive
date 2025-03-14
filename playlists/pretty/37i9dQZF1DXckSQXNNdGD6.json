@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: MARLENA.",
-  "num_followers": 19769,
+  "num_followers": 19776,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-03-04 23:00:15",
       "album": {
+        "name": "De Resaca",
+        "url": "https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO"
+      },
+      "artists": [
+        {
+          "name": "Martta Sanz",
+          "url": "https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "De Resaca",
+      "url": "https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB"
+    },
+    {
+      "added_at": "2025-03-04 23:00:15",
+      "album": {
         "name": "Bossa triste",
         "url": "https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 210709,
       "name": "Bossa triste",
       "url": "https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2"
-    },
-    {
-      "added_at": "2025-03-04 23:00:15",
-      "album": {
-        "name": "De Resaca",
-        "url": "https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO"
-      },
-      "artists": [
-        {
-          "name": "Martta Sanz",
-          "url": "https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq"
-        }
-      ],
-      "duration_ms": 158837,
-      "name": "De Resaca",
-      "url": "https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB"
     },
     {
       "added_at": "2025-03-04 23:00:15",

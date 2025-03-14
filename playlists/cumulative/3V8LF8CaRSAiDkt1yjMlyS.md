@@ -4,7 +4,7 @@
 
 > 
 
-171 songs - 9 hr 13 min
+172 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2023-01-14 |  |
 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 | 2023-01-13 |  |
 | [Ebb and Flow](https://open.spotify.com/track/7j1jvvWrYSDFwXMMCAGWTL) | [MELON KALI](https://open.spotify.com/artist/7lOBs5NQnfFFPlgkjMmTo3) | [Ebb and Flow](https://open.spotify.com/album/5aIPl6WZIrQfH06rYtcxbE) | 3:24 | 2025-02-28 |  |
+| [Either Way](https://open.spotify.com/track/7oaggiKDvE3qjGYoUWECcY) | [Menout](https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r), [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Either Way](https://open.spotify.com/album/4LsmNvkjiYETzFCFfuShO6) | 2:08 | 2025-03-13 |  |
 | [Enemy](https://open.spotify.com/track/3hispsUR92mCNGJGIZZN3P) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:06 | 2023-05-26 |  |
 | [Escape](https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER) | [Lord Belphegor](https://open.spotify.com/artist/7Ihaz9qzDaF2OtnBkdpbll) | [Escape](https://open.spotify.com/album/2LjePrIEdfjjqQvxlxidUJ) | 4:37 | 2024-01-03 |  |
 | [F Song](https://open.spotify.com/track/4z9KVNX4hmk672SJfhtQNz) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song](https://open.spotify.com/album/5ZacQ1N3XCqVC1urIKTAWH) | 3:44 | 2023-09-21 |  |

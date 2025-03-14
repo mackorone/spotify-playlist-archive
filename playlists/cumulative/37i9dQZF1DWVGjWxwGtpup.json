@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Shakira",
+  "description": "Tous les hits latino du moment sont ici. Photo : MC Menor JP",
   "name": "Caliente",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 195100,
       "name": "Bachata B\u00e9lica",
       "url": "https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 294709,
       "name": "BADDIE",
       "url": "https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 141600,
       "name": "DESEO",
       "url": "https://open.spotify.com/track/6hpbRPCxfUG5oA0o2p39Ez"
@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Larissa (From Larissa: The Other Side Of Anitta)",
+        "url": "https://open.spotify.com/album/2SdPpzdOr4yv0HuvNNWFPc"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135231,
+      "name": "Larissa - From Larissa: The Other Side Of Anitta",
+      "url": "https://open.spotify.com/track/4eN4QEyIMKQasrQiUUQgq4"
+    },
+    {
+      "album": {
         "name": "LEJOS DEL CIELO",
         "url": "https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M"
       },
@@ -3034,6 +3052,24 @@
       "duration_ms": 194000,
       "name": "No Son Horas",
       "url": "https://open.spotify.com/track/4KbZnnwOk8rK6XGftJXyTI"
+    },
+    {
+      "album": {
+        "name": "No Vidente",
+        "url": "https://open.spotify.com/album/175BGHVGXilknQfpSYSkwh"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163972,
+      "name": "No Vidente",
+      "url": "https://open.spotify.com/track/0DTiI8rTrOlVaLQOaabmWL"
     },
     {
       "album": {
@@ -3824,6 +3860,28 @@
       "duration_ms": 190106,
       "name": "SE TE NOTA (feat. Peso Pluma)",
       "url": "https://open.spotify.com/track/1iIrqtbY2aogEHhQkmrV7w"
+    },
+    {
+      "album": {
+        "name": "SENTIMIENTO NATURAL",
+        "url": "https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193006,
+      "name": "SENTIMIENTO NATURAL",
+      "url": "https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG"
     },
     {
       "album": {

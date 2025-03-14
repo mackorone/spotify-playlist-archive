@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 511726,
+  "num_followers": 511785,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Haciendo Historia (Remasterizado)",
+        "url": "https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
+        }
+      ],
+      "duration_ms": 347153,
+      "name": "Mi M\u00fasica - Remasterizado",
+      "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Haciendo Historia (Remasterizado)",
-        "url": "https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 347153,
-      "name": "Mi M\u00fasica - Remasterizado",
-      "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "El Charanguero Mayor",
-        "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 392053,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "The Most From Beny More",
         "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 196933,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "El Charanguero Mayor",
+        "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 392053,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Pasaporte",
         "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Sin Escala",
         "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Laberinto de Pasiones",
-        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "El Esp\u00edritu de la Rumba",
         "url": "https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 407920,
       "name": "La Gozadera",
       "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Laberinto de Pasiones",
+        "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -835,22 +835,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Que No Me Controlen",
-        "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
+        "name": "Chambonea (feat. Gilbert Man)",
+        "url": "https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD"
       },
       "artists": [
         {
-          "name": "Juan Guillermo",
-          "url": "https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq"
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
         },
         {
-          "name": "Los Extraterrestres",
-          "url": "https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau"
+          "name": "Gilbert Man",
+          "url": "https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv"
         }
       ],
-      "duration_ms": 279173,
-      "name": "El Dueno del Party",
-      "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"
+      "duration_ms": 235247,
+      "name": "Chambonea",
+      "url": "https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT"
     }
   ],
   "unique_name": "Salsa Cubana",

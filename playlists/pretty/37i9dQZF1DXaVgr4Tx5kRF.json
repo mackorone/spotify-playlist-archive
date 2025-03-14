@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 657498,
+  "num_followers": 657529,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 215986,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Life Of Riley - The Lightning Seeds Collection",
-        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Tellin' Stories",
+        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "One To Another",
+      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "His 'N' Hers",
         "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Tellin' Stories",
-        "url": "https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "One To Another",
-      "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
     }
   ],
   "unique_name": "Britpop, Etc.",

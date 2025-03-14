@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-477 songs - 1 day 3 hr 17 min
+478 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/track/65TpoCFjxcKOqqeG8HmzPT) | [Nanthaa SRISKANTHARAJAH](https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR), [Sri Jeya Ragavan](https://open.spotify.com/artist/0Tkx7aPCt1tqlzzZZ2OHFW) | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/album/0QepAr4SimliR2x459D4k4) | 4:22 | 2024-02-16 | 2024-05-21 |
 | [Shy Boi](https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Shy Boi](https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2) | 2:37 | 2023-08-07 | 2023-11-07 |
 | [Sikkimukki](https://open.spotify.com/track/3NXtm9rA3z2342c0T1hXme) | [R Sanjay](https://open.spotify.com/artist/3oDLdMAslN8VJdvxjluulO), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn) | [Sikkimukki](https://open.spotify.com/album/02DJPscpaTrWz4i3yIZ0nH) | 3:26 | 2024-08-30 | 2024-12-06 |
-| [SILK CADBURY](https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [SILK CADBURY](https://open.spotify.com/album/5wQ4smkI6sPNA2EdwqfwY8) | 2:20 | 2024-12-03 |  |
+| [SILK CADBURY](https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [SILK CADBURY](https://open.spotify.com/album/5wQ4smkI6sPNA2EdwqfwY8) | 2:20 | 2024-12-03 | 2025-03-14 |
 | [Siragukal](https://open.spotify.com/track/75xH3TWSOfl5eNUreaGtin) | [Karthikayini](https://open.spotify.com/artist/2AzOAHcFQxHUp55v0RIr14), [Yazh](https://open.spotify.com/artist/7Glpc6v4vLqa8YqoV0GpeR) | [Siragukal](https://open.spotify.com/album/2938QEeQmOu68Eo0b3mMgf) | 3:46 | 2025-01-17 | 2025-02-15 |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |
 | [Story Rewrite](https://open.spotify.com/track/0bshpuYtyPBYkVUiJxzbtq) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/4SJTkS0FQtEsam4O81LXnx) | 2:59 | 2023-09-14 | 2024-02-16 |
@@ -398,6 +398,7 @@
 | [Thanimaye](https://open.spotify.com/track/5oPw3pV2RMM5MVvH8bqTI0) | [Adithya L](https://open.spotify.com/artist/1CHukNLdtUsorPxFfbtzIA) | [Thanimaye](https://open.spotify.com/album/3CWFCY5M20VINvnDQUyoHh) | 3:28 | 2023-09-01 | 2024-01-06 |
 | [Thappa Lucka](https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO) | [Noel\-Ryan](https://open.spotify.com/artist/7gPxhIED4vBdNzq22EZTav) | [Thappa Lucka](https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc) | 3:14 | 2024-09-13 | 2024-11-12 |
 | [THARUNANGAL](https://open.spotify.com/track/2DTN2mb7bsjJqk8mm4W8tJ) | [Rockzane](https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1), [PRAVEEN RESH](https://open.spotify.com/artist/5Q4n3cqMPqBfW5Bi3EHENV) | [THARUNANGAL](https://open.spotify.com/album/7BDM11wy6pmWryC4ZgOs9E) | 4:02 | 2023-03-21 | 2023-07-28 |
+| [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 | 2025-03-13 |  |
 | [Thathalithen](https://open.spotify.com/track/0tR9ONL0jexF09Z8FEAnc1) | [Sharath Narayan](https://open.spotify.com/artist/4U29BtbckXtWM7m9goeIKb), [Jay Unnithan](https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9), [Prabhu Muraleedharan](https://open.spotify.com/artist/1uzU8IyXE0m8m14Tf0m3Xd) | [Thathalithen](https://open.spotify.com/album/4JFFrzrrUZs5ez9ZSo4ae8) | 4:17 | 2023-04-26 | 2023-07-25 |
 | [Thavi Thavikudhu](https://open.spotify.com/track/6OgUmT7FKBscC9b0fSpOYS) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Thavi Thavikudhu](https://open.spotify.com/album/6bGtp2etuNLu7xxcGvJN4g) | 3:37 | 2024-03-22 | 2024-06-15 |
 | [The Gym](https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH), [Azim Ousman](https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r), [J Mic](https://open.spotify.com/artist/5uCiefzBc4ZLTVr0x1J1nj) | [The Gym](https://open.spotify.com/album/2ie6Opxa86GV3gXjONECb6) | 6:16 | 2023-09-26 | 2024-02-23 |

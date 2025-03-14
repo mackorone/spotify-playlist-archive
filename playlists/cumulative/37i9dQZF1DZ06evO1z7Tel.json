@@ -106,10 +106,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 141493,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141949,
+      "name": "Arboles de la Barranca",
+      "url": "https://open.spotify.com/track/6EIZf1bmYU08aBOH3dtzZW"
     },
     {
       "album": {
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 168320,
       "name": "El Jardin De Las Flores",
       "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 176280,
       "name": "El Vengador de Federales",
       "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
@@ -830,6 +848,24 @@
       "duration_ms": 176893,
       "name": "El Vengador de los Federales",
       "url": "https://open.spotify.com/track/2qolfM6jIjHcQ19oJTS1kB"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176953,
+      "name": "El Vengador de los Federales",
+      "url": "https://open.spotify.com/track/0eW4F1miVLHZD4d14nIBMZ"
     },
     {
       "album": {
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 233482,
       "name": "Jacinto el Tullido",
       "url": "https://open.spotify.com/track/3eKPWrgEf4r4i6XDtoUZrd"

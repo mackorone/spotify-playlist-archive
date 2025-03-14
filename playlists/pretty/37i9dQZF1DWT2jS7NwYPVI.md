@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Alien Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,076 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,115 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 69 | [BAD GUY](https://open.spotify.com/track/5s3FTdUcbj4tgDorkwHQBy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BAD GUY](https://open.spotify.com/album/3hCHdkTOHV5i3Wg7PRHkbM) | 3:36 |
 | 70 | [Silver and Black](https://open.spotify.com/track/6RlrQ2S0yoIRL3yJT8fqCA) | [Big Wheels](https://open.spotify.com/artist/0tSStztUA6Hkk2Z7tGLLtd) | [Silver and Black](https://open.spotify.com/album/4tIA1g5pW45xqyX9k1Nrfz) | 2:51 |
 | 71 | [Beheadal](https://open.spotify.com/track/5bUoBZ7LG0A2L9FOsTDjBe) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Beheadal](https://open.spotify.com/album/0q4DKYyoEF0mFREOkPsmbt) | 1:58 |
-| 72 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:33 |
+| 72 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:34 |
 | 73 | [Money Mullet](https://open.spotify.com/track/386QHAiPVLCFLfukpIECJP) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Money Mullet](https://open.spotify.com/album/3Ab3IkmXiMUF2ESg9GSsI7) | 2:40 |
 | 74 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 75 | [Funny Face](https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Funny Face](https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz) | 2:47 |

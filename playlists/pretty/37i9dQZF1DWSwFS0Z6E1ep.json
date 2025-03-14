@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 275930,
+  "num_followers": 275990,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Memories Never Grow Old / Good Lovin'",
-        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
-      },
-      "artists": [
-        {
-          "name": "Dickey Lee",
-          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
-        },
-        {
-          "name": "The Collegiates",
-          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
-        }
-      ],
-      "duration_ms": 172568,
-      "name": "Good Lovin'",
-      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "I Need a Man / No Matter Who's to Blame",
         "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 174003,
       "name": "Shoobie Oobie",
       "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Memories Never Grow Old / Good Lovin'",
+        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
+      },
+      "artists": [
+        {
+          "name": "Dickey Lee",
+          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
+        },
+        {
+          "name": "The Collegiates",
+          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
+        }
+      ],
+      "duration_ms": 172568,
+      "name": "Good Lovin'",
+      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
     },
     {
       "added_at": "2022-06-07 05:25:13",

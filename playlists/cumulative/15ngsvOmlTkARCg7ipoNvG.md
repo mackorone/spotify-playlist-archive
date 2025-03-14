@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,933 songs - 1 day 15 hr 20 min
+1,934 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [Following Your Path](https://open.spotify.com/track/3KZ2lBq9Cc4SbYRTw1OtOs) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:05 | 2022-02-24 | 2024-01-30 |
 | [Footsteps And Cello](https://open.spotify.com/track/07qq8H6a3s4nf9c9tflzil) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Footsteps](https://open.spotify.com/album/2ZLd8zUysnG7nePQOm23I1) | 1:01 | 2022-06-16 |  |
 | [Footsteps in My Dreams](https://open.spotify.com/track/0yVs31S92pf6NZwF5usKHo) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [By the Shore](https://open.spotify.com/album/1UKtBO6uCXhhM4pXRwwmSw) | 1:30 | 2022-01-20 | 2024-01-30 |
+| [For A Moment](https://open.spotify.com/track/53VLsE5OgFOiVsUYtEZhpe) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [For A Moment](https://open.spotify.com/album/6mr0TQ27UWXQkGq5Os6Ns0) | 1:00 | 2025-03-13 |  |
 | [For You](https://open.spotify.com/track/75F4T3m0cVOeg1WZb6ltzZ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Near](https://open.spotify.com/album/4gEyJJ0yLUrkTz0WAz1TkO) | 1:17 | 2022-01-12 |  |
 | [For You Arr\. For Cello And Piano](https://open.spotify.com/track/47lE1I4yD22NBs7cy47xhl) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [For You](https://open.spotify.com/album/57Va24GMEnkdkTNUijXeoR) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [For You Arr\. For Grand Piano](https://open.spotify.com/track/5TARt0FqbWNn4RyoVUyuCe) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [For You](https://open.spotify.com/album/57Va24GMEnkdkTNUijXeoR) | 1:00 | 2023-06-12 |  |

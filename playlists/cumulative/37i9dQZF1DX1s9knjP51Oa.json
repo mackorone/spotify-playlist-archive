@@ -5003,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Fractional",
+        "url": "https://open.spotify.com/album/70hvjsmDjISM7Jrzv3sVK5"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Fractional",
+      "url": "https://open.spotify.com/track/7Ey5cgV9rKbYosutZW5n1d"
+    },
+    {
+      "album": {
         "name": "Fracture",
         "url": "https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy"
       },
@@ -10654,6 +10672,24 @@
       "duration_ms": 123588,
       "name": "Rondel",
       "url": "https://open.spotify.com/track/5ltbjrXShDx3IxIDc0V9pR"
+    },
+    {
+      "album": {
+        "name": "ruisseau",
+        "url": "https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "ruisseau",
+      "url": "https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs"
     },
     {
       "album": {

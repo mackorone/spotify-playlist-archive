@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-110 songs - 5 hr 41 min
+111 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Athri Jawani](https://open.spotify.com/track/7j5hm8XrUcivvclVApLv13) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Guddiyan Patole](https://open.spotify.com/album/4mIGiAFULtqiznAA48NOfQ) | 3:12 | 2024-04-05 | 2025-01-09 |
 | [Athri Jawani \(From "Guddiyan Patole"\)](https://open.spotify.com/track/6FdabJ3GIPvyR7vmeEH2Wo) | [Ikwinder Singh](https://open.spotify.com/artist/0gv7hUkKAlpoDixKDJA2vs), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Athri Jawani \(From "Guddiyan Patole"\) \- Single](https://open.spotify.com/album/3OhzhLUHR9q0AOGwrm6bXK) | 3:12 | 2023-06-22 | 2024-04-19 |
 | [Baby Girl](https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Baby Girl](https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD) | 3:27 | 2025-01-08 |  |
-| [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 | 2023-06-22 |  |
+| [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 | 2023-06-22 | 2025-03-14 |
+| [BALLE BALLE](https://open.spotify.com/track/4v4aw9AOuiWsx9BwEMzKW1) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj) | [BALLE BALLE](https://open.spotify.com/album/7x8wLXXTxrb7rQVjKinM4C) | 3:46 | 2025-03-13 |  |
 | [Birminghamm](https://open.spotify.com/track/1Yl7emPuRqRHuhnPMxutKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm](https://open.spotify.com/album/2yVD5Ty0xKyFu1U748TaRP) | 2:22 | 2024-04-05 | 2025-01-09 |
 | [Birminghamm](https://open.spotify.com/track/1bWlYuEi1vuSEnanONnxKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm \- Single](https://open.spotify.com/album/6WPhYM5oCb0u0Ydg8TesoR) | 2:22 | 2023-06-22 | 2024-04-19 |
 | [Bison](https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Extent!](https://open.spotify.com/album/76AJlhZr2JTIZxt02gx6x2) | 2:12 | 2025-02-17 |  |

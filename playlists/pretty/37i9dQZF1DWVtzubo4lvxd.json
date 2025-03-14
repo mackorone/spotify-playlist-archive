@@ -1,6 +1,6 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111694,
+  "num_followers": 111696,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Zen Way",
-        "url": "https://open.spotify.com/album/38MgwKlLibLqCp341q38XE"
-      },
-      "artists": [
-        {
-          "name": "Soul Dojo",
-          "url": "https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Zen Way",
-      "url": "https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Stellar Journey",
         "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 187164,
       "name": "Stellar Journey",
       "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Zen Way",
+        "url": "https://open.spotify.com/album/38MgwKlLibLqCp341q38XE"
+      },
+      "artists": [
+        {
+          "name": "Soul Dojo",
+          "url": "https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Zen Way",
+      "url": "https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "chemistry",
-        "url": "https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp"
-      },
-      "artists": [
-        {
-          "name": "BTZ cult",
-          "url": "https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp"
-        }
-      ],
-      "duration_ms": 120035,
-      "name": "chemistry",
-      "url": "https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 111219,
       "name": "4AM",
       "url": "https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "chemistry",
+        "url": "https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp"
+      },
+      "artists": [
+        {
+          "name": "BTZ cult",
+          "url": "https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp"
+        }
+      ],
+      "duration_ms": 120035,
+      "name": "chemistry",
+      "url": "https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "some guitar thoughts",
-        "url": "https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a"
-      },
-      "artists": [
-        {
-          "name": "Home Cook",
-          "url": "https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
-        }
-      ],
-      "duration_ms": 134127,
-      "name": "some guitar thoughts",
-      "url": "https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 208192,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "some guitar thoughts",
+        "url": "https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a"
+      },
+      "artists": [
+        {
+          "name": "Home Cook",
+          "url": "https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
+        }
+      ],
+      "duration_ms": 134127,
+      "name": "some guitar thoughts",
+      "url": "https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Cherry Pie Jam",
-        "url": "https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl"
-      },
-      "artists": [
-        {
-          "name": "Hollow Clouds",
-          "url": "https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh"
-        }
-      ],
-      "duration_ms": 217096,
-      "name": "Cherry Pie Jam",
-      "url": "https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 119171,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Cherry Pie Jam",
+        "url": "https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl"
+      },
+      "artists": [
+        {
+          "name": "Hollow Clouds",
+          "url": "https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh"
+        }
+      ],
+      "duration_ms": 217096,
+      "name": "Cherry Pie Jam",
+      "url": "https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Imaginary",
-        "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
+        "name": "Froosh",
+        "url": "https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF"
       },
       "artists": [
         {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 126280,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV"
+      "duration_ms": 117577,
+      "name": "Froosh",
+      "url": "https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1"
     }
   ],
   "unique_name": "Sunset Chill",

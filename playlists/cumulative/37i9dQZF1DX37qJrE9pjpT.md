@@ -2,9 +2,9 @@
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 
-> The hottest rap anthems from Tanzania all in one playlist\. Cover: Msodoki Young Killer
+> The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-225 songs - 12 hr 38 min
+227 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Bondeni Freestyle](https://open.spotify.com/track/1wkRgjYqeFSvfF1wyrlPAk) | [Cde Hambagen](https://open.spotify.com/artist/0NypjULeiFikRCIeRZXj8U), [Aiter trey](https://open.spotify.com/artist/0ibxf81fncwFFt8QStuDlP) | [Bondeni Freestyle](https://open.spotify.com/album/3F13mNEa4t3MEZwq3xfwAW) | 2:16 | 2023-11-10 | 2024-04-19 |
 | [BONNIE & CLYDE](https://open.spotify.com/track/4pDLXiEr8ZMq7sVQm4RIqQ) | [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8), [Bry Bandz](https://open.spotify.com/artist/5ExT2UsOcCNFbNugKG48dO), [Arlene FL](https://open.spotify.com/artist/5d4IRbTht70XwurTJ1TjR7) | [50 SHADES, Pt\. 5](https://open.spotify.com/album/5KdaOAGYB1z48I6Q6zZWCS) | 2:58 | 2023-12-08 | 2024-06-28 |
 | [Booty Hummer](https://open.spotify.com/track/47U2je4BkDC340poDxTQV0) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [Booty Hummer](https://open.spotify.com/album/6X5SYBxLPtBaOx8N8qu9Xz) | 3:25 | 2024-11-28 |  |
-| [Bosskazi](https://open.spotify.com/track/56nBioAOrpubOPiHMcN7kQ) | [Jay Moe](https://open.spotify.com/artist/5406S7GwLPP57ul2qF8QyM) | [Bosskazi](https://open.spotify.com/album/0J4tVQ4c7EwfUJ8AM9PFY5) | 3:45 | 2024-07-25 |  |
+| [Bosskazi](https://open.spotify.com/track/56nBioAOrpubOPiHMcN7kQ) | [Jay Moe](https://open.spotify.com/artist/5406S7GwLPP57ul2qF8QyM) | [Bosskazi](https://open.spotify.com/album/0J4tVQ4c7EwfUJ8AM9PFY5) | 3:45 | 2024-07-25 | 2025-03-14 |
 | [Can't Get Enough](https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ) | [Ronald Mkiza](https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1) | [Can't Get Enough](https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR) | 3:48 | 2022-12-09 | 2023-10-27 |
+| [Cautious](https://open.spotify.com/track/3gor8zmqid6n4APo4IgpbF) | [Navyc Beats](https://open.spotify.com/artist/2NmHzGsvCdsIFh2N3JrZuP), [Junny Blvck](https://open.spotify.com/artist/3IySB7seMHNwldN3EClfLf), [M.T.F](https://open.spotify.com/artist/4PH5Ip2mIwepegwg8zIkY7), [QUANTASAGE](https://open.spotify.com/artist/6Ic5rv1vWtcCC9ZWv3CIHx) | [Cautious](https://open.spotify.com/album/01pdPlZsmXSl8eOeo4n9Fs) | 2:25 | 2025-03-14 |  |
 | [Champion](https://open.spotify.com/track/1CoGvdlhU6yoX27qt1572K) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK) | [Champion](https://open.spotify.com/album/02kQonHPOxEgq2a58uExZ3) | 1:55 | 2023-09-01 | 2024-05-25 |
 | [Cheers](https://open.spotify.com/track/5K9DKSXdqEQRFv9EYsJli4) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Colé Miss London](https://open.spotify.com/artist/4CDHcm60iAPewOpTNKlrml) | [TMA Swahili Rap](https://open.spotify.com/album/5QkjVw5itvxoEyeQ5uK4fR) | 3:56 | 2023-12-08 | 2024-10-04 |
 | [Confidence \(feat\. Shedy\)](https://open.spotify.com/track/2S795TGQ8bFnF3JyvGRIIg) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Shedy](https://open.spotify.com/artist/3ub6zdgQaWjBih5mxEKDzB) | [Confidence \(feat\. Shedy\)](https://open.spotify.com/album/4Lmet0AQ9PM6WldvPRB5O8) | 3:27 | 2024-01-19 | 2024-07-05 |
@@ -52,7 +53,7 @@
 | [Enjoy](https://open.spotify.com/track/2rmTN5WQoi1qVTgEpcunGO) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa) | [Enjoy](https://open.spotify.com/album/5CVH1q3LmJwUkczJ6mtBd6) | 2:16 | 2023-07-13 | 2023-11-17 |
 | [Everyday \(Energy\)](https://open.spotify.com/track/5DoeazOk3xqe01MWGbXd5a) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Everyday \(Energy\)](https://open.spotify.com/album/4XDefqXCDJVKEg9iq5Thxm) | 3:16 | 2024-06-20 |  |
 | [Ey Yooo](https://open.spotify.com/track/5a8JM4dampyrc0WfZezbOn) | [Young Emperor](https://open.spotify.com/artist/1XctFd8XGLbmL2cj54sQoC) | [Ey Yooo](https://open.spotify.com/album/5lh9wWVTkNng7ioX3hrola) | 3:04 | 2024-06-20 | 2024-07-12 |
-| [Fame](https://open.spotify.com/track/39taBsy2LkW0Qws6N1iHGm) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fame](https://open.spotify.com/album/68GDgr0EJlKyvEuQLbyOou) | 3:29 | 2024-06-20 |  |
+| [Fame](https://open.spotify.com/track/39taBsy2LkW0Qws6N1iHGm) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fame](https://open.spotify.com/album/68GDgr0EJlKyvEuQLbyOou) | 3:29 | 2024-06-20 | 2025-03-14 |
 | [Feelin](https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq) | [ni\_kisanga](https://open.spotify.com/artist/6zShZL47Da1WJHMcqGeRPp) | [Feelin](https://open.spotify.com/album/2AJ4eOhhY3hFRcUxVHSByN) | 2:53 | 2022-10-21 | 2023-08-29 |
 | [Find you a Place / Safehouse](https://open.spotify.com/track/3ofbT62Ef6nMtPRRhbnHkZ) | [Ynnek](https://open.spotify.com/artist/2wu6U4rf0z3MR6sIeWlghK), [EUGKEN](https://open.spotify.com/artist/5c3Bdw6ZfisVBsFavzFPHV) | [CHF on a Hollow Night](https://open.spotify.com/album/1VuGBhknDEQZjtf3KRgvL9) | 2:56 | 2023-10-20 | 2024-04-19 |
 | [FLEX](https://open.spotify.com/track/0CVLCHO8V6YAdGJ3vXWXEo) | [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [FLEX](https://open.spotify.com/album/2u2vEZK7u7AdEZIV9xSLco) | 2:44 | 2024-06-20 |  |
@@ -144,6 +145,7 @@
 | [Nesa Nesa](https://open.spotify.com/track/1lAx9q2mKqMHBUqQoSm5l0) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Nesa Nesa](https://open.spotify.com/album/0XeudDQ4NkZPijFWCVEybP) | 3:15 | 2022-03-28 | 2023-02-10 |
 | [New Material](https://open.spotify.com/track/3839CtDs1ySFB0VtgTw4Ep) | [Chemical](https://open.spotify.com/artist/0I7KLVHA1tXcQTJOrzcCv6) | [New Material](https://open.spotify.com/album/4HWu1KASNwCCp5FtyVotS7) | 3:21 | 2023-09-15 | 2024-05-25 |
 | [NEW SCHUL CYPHER vol.2](https://open.spotify.com/track/0vKS7xHRrFnyPl6fzPUJIX) | [Tee Zee Mdanta](https://open.spotify.com/artist/569W94WAoaVN6qGmcCYo2e), [Nillan Fatty](https://open.spotify.com/artist/7awtQd32kc8vbG7UedaDtn), [Mukhsin](https://open.spotify.com/artist/0PBBrPqjnQMlrk3vCil8L3), [Scater Rymes](https://open.spotify.com/artist/7fMRnx4KfrQ4sy8fOReFXa), [Triger Zabron](https://open.spotify.com/artist/4qxVZk4mMzP2re5mVIdBzQ) | [NEW SCHUL CYPHER vol.2](https://open.spotify.com/album/7CCDWngFxKnp2TpOLGBsCi) | 4:32 | 2024-05-16 | 2024-10-18 |
+| [Ni Uyo Mimi](https://open.spotify.com/track/3GSp57VwUujmnV92im3UaG) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Lil chaves](https://open.spotify.com/artist/4VwmRvdNyt8UgJCKOT5yRo) | [Ni Uyo Mimi](https://open.spotify.com/album/44tACytxoy9F15MBSvh4Sk) | 2:18 | 2025-03-14 |  |
 | [No Time \(feat\. Jux\)](https://open.spotify.com/track/3apTsLuYniqTYCr8cU51Gd) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [No Time \(feat\. Jux\)](https://open.spotify.com/album/4iEzTeOZTPuHmYAYd0Qftj) | 3:25 | 2024-03-07 | 2024-08-23 |
 | [Noma](https://open.spotify.com/track/5qNGorKpUoe3ZR9EKlsZ4q) | [Fido Vato](https://open.spotify.com/artist/7In4jyWZVcYypUhIFplOjC), [Banx](https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va) | [Noma](https://open.spotify.com/album/4KaXlTUAGyMRbDakGCpCnC) | 3:08 | 2023-08-28 | 2024-02-10 |
 | [Not A Hero](https://open.spotify.com/track/4uJgZVZzFbBTByC5Nih34o) | [Dizasta Vina](https://open.spotify.com/artist/1IC2bcgWHOl0i4YUndZLfI) | [Not A Hero](https://open.spotify.com/album/7it4TZqIGi1AiDAGHcksw8) | 5:44 | 2024-11-07 |  |

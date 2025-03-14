@@ -4,7 +4,7 @@
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-119 songs - 5 hr 30 min
+120 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Elvis In Hawaii](https://open.spotify.com/track/6UXn8SZa9GqhNVjiqkFzmt) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 0:57 | 2023-03-17 | 2024-08-11 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2024-09-10 |  |
 | [Enemy feat\. J.I.D\. \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4qXKkOZ691yYgQu4Lunrds) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:53 | 2024-08-10 | 2024-09-11 |
+| [Fantastic \(demo version\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6FWSbeXZ5EzDBVxTnJ0rf8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/1CxQei6YVHL6PaunOZzsum) | 2:30 | 2025-03-14 |  |
 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 | 2024-11-23 |  |
 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 | 2023-03-17 | 2024-08-11 |
 | [Golden Coins](https://open.spotify.com/track/3DNwXAqv9OI5BdmoAsdPWk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Harum Scarum](https://open.spotify.com/album/0DDokriMy7L6hseGI6Ju7C) | 1:54 | 2023-03-17 | 2024-08-11 |

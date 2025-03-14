@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  ©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,868 likes - 67 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,880 likes - 67 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Running In My Head](https://open.spotify.com/track/3xpd1Ha58kJlIlUwN0D6dg) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Running In My Head](https://open.spotify.com/album/1YtIkvh6EZlFyQcssxaSjd) | 4:00 |
+| 1 | [Running In My Head](https://open.spotify.com/track/3xpd1Ha58kJlIlUwN0D6dg) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Running In My Head](https://open.spotify.com/album/1YtIkvh6EZlFyQcssxaSjd) | 3:57 |
 | 2 | [Rozé \(Prod.TeddyLoid\)](https://open.spotify.com/track/0FKxYnUnph5WftH4l6SJ90) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [Rozé \(Prod.TeddyLoid\)](https://open.spotify.com/album/2LFqjLeIDPtuiS4Bnfwko6) | 3:41 |
 | 3 | [COLORS](https://open.spotify.com/track/7nhEKlLldF7AFxkeCwXIfz) | [フロウ](https://open.spotify.com/artist/6MfYt5ENS3ibojRVzdEP4g) | [COLORS](https://open.spotify.com/album/0YyiSMLotXIp6WlREBD4iU) | 3:41 |
 | 4 | [CODE GE4SS](https://open.spotify.com/track/5OPX3g6IIYtLQJe6GEcXsN) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:32 |

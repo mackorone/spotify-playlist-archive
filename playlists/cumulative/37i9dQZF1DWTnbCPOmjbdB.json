@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: MODELKI",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Igo",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186786,
+      "name": "Cud",
+      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
+    },
+    {
+      "album": {
         "name": "Cynamonka",
         "url": "https://open.spotify.com/album/4y9lKKeZacKyEM6tgXgAQ8"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 136170,
       "name": "Dam\u0105 by\u0107",
       "url": "https://open.spotify.com/track/23zuQy8kOY4rfnMKDor5GA"
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 169142,
       "name": "Falochrony",
       "url": "https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp"
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 216437,
       "name": "Idziesz",
       "url": "https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj"
@@ -4246,7 +4264,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184966,
       "name": "Nie ton\u0119",
       "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 199495,
       "name": "Nigdy Mi Nie Przejdzie",
       "url": "https://open.spotify.com/track/0ZlTcfREOWGOoATsXbWHIl"
@@ -4722,6 +4740,28 @@
       "duration_ms": 147522,
       "name": "Odpowied\u017a",
       "url": "https://open.spotify.com/track/1pR4TjI4X95ciHO5hqtk8f"
+    },
+    {
+      "album": {
+        "name": "Ofelia (M. Pawlikowska-Jasnorzewska)",
+        "url": "https://open.spotify.com/album/5HdAYwPyVW2wRYr76gL1m4"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208761,
+      "name": "Ofelia (M. Pawlikowska-Jasnorzewska)",
+      "url": "https://open.spotify.com/track/7sBP7vQcWySymKNWIj9rNp"
     },
     {
       "album": {
@@ -5419,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "P\u00f3jd\u0119 tam, gdzie zechc\u0119",
+        "url": "https://open.spotify.com/album/5hnJrQLRZUIssCFQdJ3ssZ"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156233,
+      "name": "P\u00f3jd\u0119 tam, gdzie zechc\u0119",
+      "url": "https://open.spotify.com/track/4zqVbsH9xeFi67g4upj3fb"
+    },
+    {
+      "album": {
         "name": "P\u00f3\u017ane Lato",
         "url": "https://open.spotify.com/album/21t6UxVWjqYpCmAFBVQecj"
       },
@@ -5678,7 +5736,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 137063,
       "name": "Spr\u00f3bujemy jeszcze raz",
       "url": "https://open.spotify.com/track/4f5m0DJ71GovPcwe09mDJo"
@@ -6022,7 +6080,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 174374,
       "name": "taki ma\u0142y ja",
       "url": "https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7"
@@ -6334,7 +6392,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 202784,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/1CN4xpeOZDn1Q1sdZjNHE6"
@@ -6586,6 +6644,24 @@
       "duration_ms": 243159,
       "name": "W Zakamarkach Serc",
       "url": "https://open.spotify.com/track/2RaSxKnTjd1YpVXNhiQPn7"
+    },
+    {
+      "album": {
+        "name": "Wariat",
+        "url": "https://open.spotify.com/album/5ngqM0hjmpT2Z7UWsN4hpj"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148398,
+      "name": "Wariat",
+      "url": "https://open.spotify.com/track/2Ak7u9iKwRpUYMkxbym86H"
     },
     {
       "album": {
@@ -6853,6 +6929,28 @@
     },
     {
       "album": {
+        "name": "Wracamy tam",
+        "url": "https://open.spotify.com/album/6dnXCHJBi3MUbGTzS5ESko"
+      },
+      "artists": [
+        {
+          "name": "Po prostu Damian",
+          "url": "https://open.spotify.com/artist/44uQfIFXxVRFJRZMcvZN4i"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Wracamy tam",
+      "url": "https://open.spotify.com/track/6kycUBi84I0up3zSJqgQPa"
+    },
+    {
+      "album": {
         "name": "Wr\u00f3c\u0119 wiosn\u0105",
         "url": "https://open.spotify.com/album/2nM3gXjeSHP8lS0ac98yT0"
       },
@@ -6872,6 +6970,28 @@
       "duration_ms": 158771,
       "name": "Wr\u00f3c\u0119 wiosn\u0105",
       "url": "https://open.spotify.com/track/5ugaN8m5QcpPjYWJQfE5PP"
+    },
+    {
+      "album": {
+        "name": "wszystkie noce s\u0105 samotne",
+        "url": "https://open.spotify.com/album/41o2ggAHblUdciDnLf8lUI"
+      },
+      "artists": [
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "wszystkie noce s\u0105 samotne",
+      "url": "https://open.spotify.com/track/5cVesBn7wWRxs6JlepA2A9"
     },
     {
       "album": {
@@ -7008,6 +7128,28 @@
       "duration_ms": 156004,
       "name": "Z TOB\u0104 BIEC",
       "url": "https://open.spotify.com/track/6a3WL3AOgvNX8RGTZPxuhG"
+    },
+    {
+      "album": {
+        "name": "Z TY\u0141U G\u0141OWY",
+        "url": "https://open.spotify.com/album/7kltacNYjn0LIkH6u8j0pJ"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Z TY\u0141U G\u0141OWY",
+      "url": "https://open.spotify.com/track/3HjRgJoHTUofNa4OJYSLur"
     },
     {
       "album": {
@@ -7324,6 +7466,28 @@
       "duration_ms": 160285,
       "name": "znowu sam",
       "url": "https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh"
+    },
+    {
+      "album": {
+        "name": "Harmonia",
+        "url": "https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        },
+        {
+          "name": "Ralph Kaminski",
+          "url": "https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215664,
+      "name": "Zobaczy\u0107 Ciebie",
+      "url": "https://open.spotify.com/track/6DlFqZsoRr7mypaQkMbRF4"
     },
     {
       "album": {

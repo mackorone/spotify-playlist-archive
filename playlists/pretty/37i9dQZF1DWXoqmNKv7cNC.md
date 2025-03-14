@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,119 likes - 57 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,480 likes - 57 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 17 | [Miedo A Las Alturas](https://open.spotify.com/track/01ERnlRUStFoZ98fwyENML) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Miedo A Las Alturas](https://open.spotify.com/album/7EAPl2jYCU667qkYrvkioc) | 3:02 |
 | 18 | [F1](https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5) | [VICKILICIOUS](https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ) | [F1](https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j) | 2:00 |
 | 19 | [PUCHI](https://open.spotify.com/track/7dIm7p3VoCQ2DoabBCgny5) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [PUCHI](https://open.spotify.com/album/4OEdq5LxzLkWvTD1NOSdDh) | 2:22 |
-| 20 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
-| 21 | [entre las piernas](https://open.spotify.com/track/3A3cmRnCQXUrCo6CHWdMHx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 3:31 |
+| 20 | [entre las piernas](https://open.spotify.com/track/3A3cmRnCQXUrCo6CHWdMHx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 3:31 |
+| 21 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
 | 22 | [Sicilia](https://open.spotify.com/track/42ojGwws4Xe69HvxanSGYW) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Sicilia](https://open.spotify.com/album/0McGTXdQofTziYO11rZXRJ) | 3:27 |
 | 23 | [BBTRUCOS](https://open.spotify.com/track/2FRMBN0FNaulDesgK1GIOp) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [BBTRUCOS](https://open.spotify.com/album/1S0qI6e4xbqhVSQhzS40x2) | 1:12 |
 | 24 | [Hablar de Más](https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hablar de Más](https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD) | 3:34 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 30 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 |
 | 31 | [Yo Pienso Todo el Tiempo](https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Yo Pienso Todo el Tiempo](https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM) | 3:02 |
 | 32 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
-| 33 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
-| 34 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 33 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
+| 34 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
 | 35 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 |
 | 36 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
 | 37 | [AYQUETONTA](https://open.spotify.com/track/7r0Nhs5qJWti5pRQwFA2F0) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [AYQUETONTA](https://open.spotify.com/album/1ewNp7rtQK0fEO8cjoyURb) | 3:07 |
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 48 | [Yugular](https://open.spotify.com/track/625BTeiei7heRnOqwwDysv) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Yugular](https://open.spotify.com/album/6ZM0mrJlNSnvDKe1MS7TRm) | 3:35 |
 | 49 | [BITCH3](https://open.spotify.com/track/4fcBVQPCjjAzS0gdJGXeiY) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 2:24 |
 | 50 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |
-| 51 | [Circo](https://open.spotify.com/track/7dWMsrAFKOzuluyKYgz6dG) | [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Circo](https://open.spotify.com/album/2SOUnVPONGuEtPVjRRhmsn) | 2:27 |
-| 52 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
+| 51 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/0boHL6Ep1Cb9IKFgpTqNE3) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/08DLF0UmsLw2Ex85Cm1CNq) | 3:57 |
+| 52 | [Circo](https://open.spotify.com/track/7dWMsrAFKOzuluyKYgz6dG) | [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Circo](https://open.spotify.com/album/2SOUnVPONGuEtPVjRRhmsn) | 2:27 |
 | 53 | [Qué Más Da](https://open.spotify.com/track/50Pc5KFPuVOTP3ME6bkshQ) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Temporadas](https://open.spotify.com/album/18bGucE5pro0qxUak7XZjA) | 3:33 |
-| 54 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
-| 55 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/0boHL6Ep1Cb9IKFgpTqNE3) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/08DLF0UmsLw2Ex85Cm1CNq) | 3:57 |
-| 56 | [Como Yo Te Quería](https://open.spotify.com/track/6V7bIXI7jLLGiUfNtr7E9a) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [EL VIAJE](https://open.spotify.com/album/1QdRZ2LRVYGWxhlZC50OUv) | 3:18 |
+| 54 | [Como Yo Te Quería](https://open.spotify.com/track/6V7bIXI7jLLGiUfNtr7E9a) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [EL VIAJE](https://open.spotify.com/album/1QdRZ2LRVYGWxhlZC50OUv) | 3:18 |
+| 55 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
+| 56 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
 | 57 | [La Saga](https://open.spotify.com/track/0ao7cGrjRmABcZOfRjNetB) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [La Cuervo](https://open.spotify.com/artist/2OZl4ZTJKKT7aSXfFGlEyZ), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX) | [La Saga](https://open.spotify.com/album/1IkNmSv4OaOKboGY6eIkXS) | 4:41 |
 
 Snapshot ID: `Z9B9+gAAAAA/07i8w6DRx+oSl9SKZ4o/`

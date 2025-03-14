@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Malcriada en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,967 likes - 105 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,973 likes - 105 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 17 | [Sad Dead](https://open.spotify.com/track/4b9frNsk0k9NMgtYSPnZLq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Hbrok3n](https://open.spotify.com/artist/1QGX5YJ9VvTBlFPXuhJSVp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sad Dead](https://open.spotify.com/album/4vQOgbpzxmZOfYJnk0l6MF) | 3:26 |
 | 18 | [AZUL 2.0](https://open.spotify.com/track/2E71Jn51AgidmfKy6B18nQ) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW), [kitsuhara](https://open.spotify.com/artist/7ojhyy7OrxPbccFXDOF3yX) | [2008!!! \(˃̣̣̥ᴖ˂̣̣̥\)](https://open.spotify.com/album/2RQDmzxv1XDLXpVpfxMU1c) | 1:57 |
 | 19 | [red eyes](https://open.spotify.com/track/1rZwZFYJ368YbP56r0jTWV) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [red eyes](https://open.spotify.com/album/4HAR5r080n6dJzQ7kLtVSw) | 1:58 |
-| 20 | [Nei](https://open.spotify.com/track/0eAY5c6Euq66UNU0WyCQGq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [unhappier](https://open.spotify.com/artist/6o5lVMrUbrSMhvqSxl8mPV), [kasper lindmark](https://open.spotify.com/artist/1OPzNEv3DrUkyXmJctSCmm) | [Spiritus](https://open.spotify.com/album/3okGCZIcJG1X9NLOu6VMlJ) | 2:36 |
+| 20 | [Nei](https://open.spotify.com/track/0eAY5c6Euq66UNU0WyCQGq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2) | [Spiritus](https://open.spotify.com/album/3okGCZIcJG1X9NLOu6VMlJ) | 2:36 |
 | 21 | [TA LIGADO!](https://open.spotify.com/track/0REVl7FVdMoKTuBHa72y9w) | [Nodslie](https://open.spotify.com/artist/0lm7DZmUwzmsCvRwEWpBbs) | [TA LIGADO!](https://open.spotify.com/album/4BHfnhc1TyicefVkeiarBs) | 1:17 |
 | 22 | [EXORCISTA ANTHEM](https://open.spotify.com/track/19e5mLKqf9LtgnI9EMSioy) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXORCISTA ANTHEM](https://open.spotify.com/album/0rY2L2sC2ug6QNUKWpnvfv) | 2:05 |
-| 23 | [Porke Me Dañas?](https://open.spotify.com/track/59RMxf016Ys59HbdCRNzvD) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Kekz](https://open.spotify.com/artist/4GYLS79lRQCB7tWvPYdYHg), [Danny Drum](https://open.spotify.com/artist/7u093qH5GMSolD790puVS5) | [Porke Me Dañas?](https://open.spotify.com/album/7DdNaZOMRK2rY7OWPkMFhr) | 3:27 |
+| 23 | [Porke Me Dañas?](https://open.spotify.com/track/59RMxf016Ys59HbdCRNzvD) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2) | [Porke Me Dañas?](https://open.spotify.com/album/7DdNaZOMRK2rY7OWPkMFhr) | 3:27 |
 | 24 | [FAMILY MART](https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV) | [FAMILY MART](https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA) | 1:58 |
 | 25 | [SI TU ME QUIERES](https://open.spotify.com/track/3NUSna8mXbOEgLuvEuSDF9) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Babyohikari](https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW) | [SI TU ME QUIERES](https://open.spotify.com/album/5nrXpK1c3RyvThdPictfsL) | 2:52 |
 | 26 | [ENTUUUUPIELX2](https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba) | [ENTUUUUPIELX2](https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY) | 2:22 |

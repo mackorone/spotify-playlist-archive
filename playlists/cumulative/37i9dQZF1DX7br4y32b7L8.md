@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-680 songs - 1 day 10 hr 36 min
+681 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Ze Willen Mee](https://open.spotify.com/track/2zW8y5ry4YudAPnLmagr1c) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Ze Willen Mee](https://open.spotify.com/album/4co7IlC064DlTfPGatPM7B) | 3:21 | 2024-09-17 |  |
 | [Zij Laat Me Praten](https://open.spotify.com/track/1o2rSW6lzJgAQjTRew74hR) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 3:11 | 2023-12-07 | 2023-12-30 |
 | [Zo Zomer](https://open.spotify.com/track/2Jw3whHJ2jDN9mAjopuSDJ) | [john de koning](https://open.spotify.com/artist/0OK5O3w1IfZTioCkgaqYkw) | [Zo Zomer](https://open.spotify.com/album/2GIVsBLU2J2YgEMZ74UcRl) | 3:16 | 2024-08-01 | 2024-09-12 |
+| [Zoveel Stress](https://open.spotify.com/track/68gkB9GBHeTotKGqtPMGUX) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Mixtape 2, Rap 'N Borie](https://open.spotify.com/album/5XtKjZcO6XO1OiCuONGyJS) | 4:22 | 2025-03-13 |  |
 | [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 | 2023-05-09 | 2023-10-03 |
 | [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 | 2024-04-22 | 2024-06-04 |
 

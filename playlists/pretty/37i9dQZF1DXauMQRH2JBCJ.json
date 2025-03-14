@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney songs wrapped up with love!",
-  "num_followers": 249683,
+  "num_followers": 249792,
   "original_name": "Disney Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8faVAAAAAB+f4FynZZ0yld8pi+gOHii",
+  "snapshot_id": "Z9N9bQAAAABlWZrDdg8bM4H+8Gx8ZrnV",
   "tracks": [
     {
       "added_at": "2025-03-05 05:00:04",
@@ -27,6 +27,22 @@
       "duration_ms": 291586,
       "name": "Waiting On A Wish - From \"Disney's Snow White\"",
       "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
+    },
+    {
+      "added_at": "2025-03-14 00:50:53",
+      "album": {
+        "name": "Toy Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
     },
     {
       "added_at": "2024-02-12 21:13:22",

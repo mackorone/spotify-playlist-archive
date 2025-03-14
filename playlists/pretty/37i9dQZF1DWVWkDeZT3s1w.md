@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,852 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,881 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 54 | [LA VIDA ES TAN DURA](https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [LA VIDA ES TAN DURA](https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP) | 2:40 |
 | 55 | [El Sueño](https://open.spotify.com/track/3HTFZZNZfFADiNdlElXXNS) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Dina Buendía](https://open.spotify.com/artist/7kW5Upycw8RiwrzFLAEgye), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [El Sueño](https://open.spotify.com/album/30P4JwoLpAo4ky9rHcgHsZ) | 3:13 |
 | 56 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
-| 57 | [Flow Leyenda](https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP) | [Flaco Flow y Melanina](https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2) | [Flow Leyenda](https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw) | 3:14 |
+| 57 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
 | 58 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 |
-| 59 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
+| 59 | [Flow Leyenda](https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP) | [Flaco Flow y Melanina](https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2) | [Flow Leyenda](https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw) | 3:14 |
 | 60 | [Plomo en el Aire](https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Plomo en el Aire](https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX) | 3:27 |
 | 61 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
 | 62 | [No Plastic](https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [No Plastic](https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL) | 3:45 |

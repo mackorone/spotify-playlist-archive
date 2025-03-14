@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Gala Nell.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -402,6 +402,24 @@
       "duration_ms": 206068,
       "name": "ALGO-RITMO",
       "url": "https://open.spotify.com/track/2n0GhbR961I6c20JUjQz1A"
+    },
+    {
+      "album": {
+        "name": "ALTAGAMA",
+        "url": "https://open.spotify.com/album/5CBhqqrQa4XTNQmo24XKrB"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "ALTAGAMA",
+      "url": "https://open.spotify.com/track/2OGXuOaxAEjSen6gz3w2lB"
     },
     {
       "album": {
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 116216,
       "name": "El paseo",
       "url": "https://open.spotify.com/track/2TSGkSDQbwEs7VM2GYUofz"
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 175594,
       "name": "ESTO QUE ME DAS",
       "url": "https://open.spotify.com/track/6oHtM5GvM2PgetC4LbXxT6"
@@ -3355,6 +3373,46 @@
     },
     {
       "album": {
+        "name": "La Pel\u00edcula En Mi Cabeza",
+        "url": "https://open.spotify.com/album/6q9QDgWYTfXbhDhl0kHwjJ"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        },
+        {
+          "name": "Alicia te quiero",
+          "url": "https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270019,
+      "name": "La Pel\u00edcula En Mi Cabeza",
+      "url": "https://open.spotify.com/track/3XnGxSB9uFrJCBkYMmzcqG"
+    },
+    {
+      "album": {
+        "name": "La Plaza del Carmen",
+        "url": "https://open.spotify.com/album/37TtAqZC3UPRSH0hDxxsaw"
+      },
+      "artists": [
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225863,
+      "name": "La Plaza del Carmen",
+      "url": "https://open.spotify.com/track/1KngaoX2kdZM5RnKZrQhpS"
+    },
+    {
+      "album": {
         "name": "la soledad",
         "url": "https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8"
       },
@@ -3518,7 +3576,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 181573,
       "name": "Life Is A Movie",
       "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
@@ -4375,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Murakami",
+        "url": "https://open.spotify.com/album/0JWFG9xvwbOIy8yjVzcoIF"
+      },
+      "artists": [
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164220,
+      "name": "Murakami",
+      "url": "https://open.spotify.com/track/4ep3HVihHoweqPBqvAZKEk"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Profundidad",
         "url": "https://open.spotify.com/album/1ez2SUyH6Ms2nPCw9mEZI1"
       },
@@ -4818,7 +4894,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 182267,
       "name": "Nocall",
       "url": "https://open.spotify.com/track/3l578xpO1qi4hCjdmhQVLv"
@@ -4930,7 +5006,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 145500,
       "name": "nuevo aroma",
       "url": "https://open.spotify.com/track/4XCVIL4ATB2quOR5aGLSX4"
@@ -5035,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Ojal\u00e1 Haber Estado Ah\u00ed",
+        "url": "https://open.spotify.com/album/5W4Ff5ONSVBGhTpRG4Tgee"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Ojal\u00e1 Haber Estado Ah\u00ed",
+      "url": "https://open.spotify.com/track/6cvpussFmgvf7lYb8mlz0R"
+    },
+    {
+      "album": {
         "name": "Danzas de Amor y Veneno",
         "url": "https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6"
       },
@@ -5050,6 +5144,24 @@
       "duration_ms": 156551,
       "name": "OJOS",
       "url": "https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6"
+    },
+    {
+      "album": {
+        "name": "Otro Chico +",
+        "url": "https://open.spotify.com/album/35E2Korz5jlpPNjqUyTLts"
+      },
+      "artists": [
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146632,
+      "name": "Otro Chico +",
+      "url": "https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln"
     },
     {
       "album": {
@@ -5194,6 +5306,24 @@
       "duration_ms": 192965,
       "name": "Pedindo perd\u00f3n",
       "url": "https://open.spotify.com/track/1KJMLbxJQ65vJExYxzHllV"
+    },
+    {
+      "album": {
+        "name": "Perder El Tiempo",
+        "url": "https://open.spotify.com/album/2WlXXi8sRbBHE3NTOzBJRg"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258069,
+      "name": "Perder El Tiempo",
+      "url": "https://open.spotify.com/track/2VGrr3Uch4p2nBsPinDqt4"
     },
     {
       "album": {
@@ -5812,7 +5942,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 268253,
       "name": "Siempre Vuelve",
       "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
@@ -6130,6 +6260,24 @@
       "duration_ms": 196084,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
+    },
+    {
+      "album": {
+        "name": "tiene que ser m\u00e1s f\u00e1cil",
+        "url": "https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230653,
+      "name": "tiene que ser m\u00e1s f\u00e1cil",
+      "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"
     },
     {
       "album": {
@@ -6764,7 +6912,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184760,
       "name": "Xorieri",
       "url": "https://open.spotify.com/track/6IUuX0l3RTSGMLRkojx6EZ"

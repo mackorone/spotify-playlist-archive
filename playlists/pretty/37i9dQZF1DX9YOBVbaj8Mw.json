@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 15225,
+  "num_followers": 15550,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
+        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Ch\u0142opcy",
+      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "Recut",
         "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
-        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Ch\u0142opcy",
-      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 283577,
       "name": "Warszawa Wschodnia",
       "url": "https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -723,22 +739,6 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Czekam na \u015bwit",
         "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191103,
       "name": "Podr\u00f3\u017c w czasie",
       "url": "https://open.spotify.com/track/48xVwl7mPJMYkppkf7zrqI"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "Ballada o Niej",
+        "url": "https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "duration_ms": 269937,
+      "name": "Ballada o Niej (Live, 92')",
+      "url": "https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "Lata",
         "url": "https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 192194,
       "name": "Lata",
       "url": "https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "Ballada o Niej",
-        "url": "https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        }
-      ],
-      "duration_ms": 269937,
-      "name": "Ballada o Niej (Live, 92')",
-      "url": "https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        },
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
-        }
-      ],
-      "duration_ms": 230489,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Sploty",
         "url": "https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 381843,
       "name": "Siwa zezulejko",
       "url": "https://open.spotify.com/track/7LyMeBM8btmryr8eSB6hYG"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        },
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "duration_ms": 230489,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "September Night",
-        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 380093,
-      "name": "Song for Sarah",
-      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "LIPSTICK ON THE GLASS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 152000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "September Night",
+        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 380093,
+      "name": "Song for Sarah",
+      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Come back...",
-        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
-      },
-      "artists": [
-        {
-          "name": "Henryk Miskiewicz",
-          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
-        },
-        {
-          "name": "Chopin University Big Band",
-          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
-        },
-        {
-          "name": "Piotr Kostrzewa",
-          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
-        }
-      ],
-      "duration_ms": 416128,
-      "name": "Kakaruka",
-      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Tradycyja",
         "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
       },
@@ -1255,6 +1231,30 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "Come back...",
+        "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
+      },
+      "artists": [
+        {
+          "name": "Henryk Miskiewicz",
+          "url": "https://open.spotify.com/artist/76vMiiQed2ErHD9VMnl6Ie"
+        },
+        {
+          "name": "Chopin University Big Band",
+          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
+        },
+        {
+          "name": "Piotr Kostrzewa",
+          "url": "https://open.spotify.com/artist/4Y6wgs2MdhYn22SQnsO4pB"
+        }
+      ],
+      "duration_ms": 416128,
+      "name": "Kakaruka",
+      "url": "https://open.spotify.com/track/2fb3RHwPrq85YYh9pl4wdN"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "Live 2021",
         "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 236493,
       "name": "Jestem g\u0142odny",
       "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
-      },
-      "artists": [
-        {
-          "name": "Pianohooligan",
-          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
-        },
-        {
-          "name": "Piotr Orzechowski",
-          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
-        }
-      ],
-      "duration_ms": 865922,
-      "name": "Critique of Swing in Two Parts, Pt. 1",
-      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1311,30 +1291,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
       },
       "artists": [
         {
-          "name": "Piotr Wyle\u017co\u0142",
-          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+          "name": "Pianohooligan",
+          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
         },
         {
-          "name": "Andy Middleton",
-          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
-        },
-        {
-          "name": "Ferenc Nemeth",
-          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
-        },
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+          "name": "Piotr Orzechowski",
+          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
         }
       ],
-      "duration_ms": 443446,
-      "name": "Tatras",
-      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
+      "duration_ms": 865922,
+      "name": "Critique of Swing in Two Parts, Pt. 1",
+      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1367,6 +1339,34 @@
       "duration_ms": 178960,
       "name": "Ko\u0142omyja",
       "url": "https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wyle\u017co\u0142",
+          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+        },
+        {
+          "name": "Andy Middleton",
+          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
+        },
+        {
+          "name": "Ferenc Nemeth",
+          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
+        },
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        }
+      ],
+      "duration_ms": 443446,
+      "name": "Tatras",
+      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
         "name": "Come back...",
         "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 363312,
       "name": "Boozing",
       "url": "https://open.spotify.com/track/2NZeUYUdcNljussjj0rkvZ"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-03-06 13:50:31",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-03-06 13:50:31",
       "album": {
+        "name": "No Soloing, Please",
+        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
+      },
+      "artists": [
+        {
+          "name": "Adam J\u0119drysik",
+          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
+        }
+      ],
+      "duration_ms": 125412,
+      "name": "the right place to be (dzieksa)",
+      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
+    },
+    {
+      "added_at": "2025-03-06 13:50:31",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 361016,
       "name": "F Jak Samolot",
       "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
-    },
-    {
-      "added_at": "2025-03-06 13:50:31",
-      "album": {
-        "name": "No Soloing, Please",
-        "url": "https://open.spotify.com/album/54eQWeBDLsC5mkI6mpu4oe"
-      },
-      "artists": [
-        {
-          "name": "Adam J\u0119drysik",
-          "url": "https://open.spotify.com/artist/4UB7oFDHh91VBCGpwOB9lV"
-        }
-      ],
-      "duration_ms": 125412,
-      "name": "the right place to be (dzieksa)",
-      "url": "https://open.spotify.com/track/2Ya7ynzASMMMKNdKoCDfKM"
     },
     {
       "added_at": "2025-03-06 13:50:31",

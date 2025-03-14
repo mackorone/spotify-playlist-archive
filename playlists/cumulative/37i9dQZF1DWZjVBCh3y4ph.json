@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Fanny J x Josey",
+  "description": "Les hits zouk du moment. Photo : MARVIN x L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 209000,
       "name": "A GOU A-W",
       "url": "https://open.spotify.com/track/4CsbuoqSMIlxMzquvFPxws"
+    },
+    {
+      "album": {
+        "name": "Mon R\u00eave",
+        "url": "https://open.spotify.com/album/0aAWgxB9EnN40ZjGprGnZC"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205633,
+      "name": "A mes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV"
     },
     {
       "album": {
@@ -526,7 +544,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 182000,
       "name": "Coll\u00e9",
       "url": "https://open.spotify.com/track/3Vdl4iclRWImLvre3nDY8G"
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 232586,
       "name": "Kitem Ale",
       "url": "https://open.spotify.com/track/5j7mEjt9YzWhE5hBQmKlkZ"
@@ -1854,6 +1872,28 @@
       "duration_ms": 155400,
       "name": "La Loupe",
       "url": "https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO"
+    },
+    {
+      "album": {
+        "name": "LANMOU TOXIC",
+        "url": "https://open.spotify.com/album/4fwY41o2uN6BKEIFwJe1i7"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250272,
+      "name": "LANMOU TOXIC",
+      "url": "https://open.spotify.com/track/5eK8op8qRBS5unsE5O0IGI"
     },
     {
       "album": {
@@ -3423,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "Si Tu Veux",
+        "url": "https://open.spotify.com/album/0ok2Xye0qGH2xEEiHK4Jgk"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185166,
+      "name": "Si Tu Veux",
+      "url": "https://open.spotify.com/track/7lA4SlMXFBT3OJVKrnNAvW"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8re",
         "url": "https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn"
       },
@@ -3628,7 +3686,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 247058,
       "name": "Succomber",
       "url": "https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z"

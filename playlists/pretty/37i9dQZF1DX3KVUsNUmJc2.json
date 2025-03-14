@@ -1,13 +1,37 @@
 {
   "description": "Every legend has a beginning. Listen to music from Arcane, now streaming on Netflix. ",
-  "num_followers": 688937,
+  "num_followers": 689919,
   "original_name": "Arcane Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z05EgwAAAAAjy/s+fs3lo4O7nR9pEUUj",
+  "snapshot_id": "Z9ODZAAAAABO7ubyHv4C54s9zNVAloDw",
   "tracks": [
+    {
+      "added_at": "2025-03-14 01:16:20",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 Original Soundtrack (Extended Edition)",
+        "url": "https://open.spotify.com/album/1CxQei6YVHL6PaunOZzsum"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 150478,
+      "name": "Fantastic (demo version) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6FWSbeXZ5EzDBVxTnJ0rf8"
+    },
     {
       "added_at": "2024-11-23 05:00:00",
       "album": {
@@ -31,6 +55,26 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "added_at": "2024-11-23 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
     },
     {
       "added_at": "2024-11-23 05:00:00",
@@ -75,46 +119,6 @@
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
-    },
-    {
-      "added_at": "2024-11-23 05:00:00",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
-    },
-    {
-      "added_at": "2024-11-23 05:00:00",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Wasteland (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
     },
     {
       "added_at": "2024-11-12 21:07:59",
@@ -168,13 +172,13 @@
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         },
         {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 161040,
-      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3p428gAKm9dBoMjBVOIvVu"
+      "duration_ms": 161133,
+      "name": "Wasteland (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
     },
     {
       "added_at": "2024-10-17 21:10:02",
@@ -199,6 +203,154 @@
       "duration_ms": 161666,
       "name": "Come Play (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1FnfyD5qFO7Q9ZHPpIcfcb"
+    },
+    {
+      "added_at": "2024-11-12 21:07:59",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Sucker (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/7dsO7sKTEdix1pe1t7SmP0"
+    },
+    {
+      "added_at": "2024-08-10 07:00:00",
+      "album": {
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Gizzle",
+          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
+        },
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Dynasties and Dystopia (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU"
+    },
+    {
+      "added_at": "2024-08-10 07:00:00",
+      "album": {
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 230525,
+      "name": "Playground (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5YTUCHSwfwJ4oHFDjFgpEe"
+    },
+    {
+      "added_at": "2024-11-23 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3p428gAKm9dBoMjBVOIvVu"
+    },
+    {
+      "added_at": "2024-09-10 18:57:24",
+      "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2024-11-12 21:07:59",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+      },
+      "artists": [
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3EV36iJa1lmFNutg3H7sUL"
+    },
+    {
+      "added_at": "2024-11-12 21:07:59",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
+        }
+      ],
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5YlMdOkIHnEGa7m2Ezh5uS"
     },
     {
       "added_at": "2024-11-23 05:00:00",
@@ -241,20 +393,20 @@
       "url": "https://open.spotify.com/track/3cG6423elE49gy76onK3VK"
     },
     {
-      "added_at": "2024-11-12 21:07:59",
+      "added_at": "2024-08-10 07:00:00",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Ramsey",
+          "url": "https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Sucker (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/7dsO7sKTEdix1pe1t7SmP0"
+      "duration_ms": 230985,
+      "name": "Goodbye (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/7hakBrWzzouKXpopdzq9DI"
     },
     {
       "added_at": "2024-11-12 21:07:59",
@@ -264,41 +416,33 @@
       },
       "artists": [
         {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 101533,
-      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5YlMdOkIHnEGa7m2Ezh5uS"
+      "duration_ms": 164773,
+      "name": "Hellfire (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3INAjmbsynUSIBUoqxrytc"
     },
     {
-      "added_at": "2024-11-12 21:07:59",
+      "added_at": "2024-08-10 07:00:00",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
       },
       "artists": [
         {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         },
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3EV36iJa1lmFNutg3H7sUL"
+      "duration_ms": 161376,
+      "name": "Snakes (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/7AEvaz0EOmlqN27o6zpt3k"
     },
     {
       "added_at": "2024-11-23 05:00:00",
@@ -352,218 +496,6 @@
       },
       "artists": [
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 230525,
-      "name": "Playground (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5YTUCHSwfwJ4oHFDjFgpEe"
-    },
-    {
-      "added_at": "2024-08-10 07:00:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Gizzle",
-          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
-        },
-        {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "Dynasties and Dystopia (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU"
-    },
-    {
-      "added_at": "2024-09-10 18:57:24",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2024-11-12 21:07:59",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 164773,
-      "name": "Hellfire (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3INAjmbsynUSIBUoqxrytc"
-    },
-    {
-      "added_at": "2024-11-23 05:00:00",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Djerv",
-          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Rebel Heart (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5xvjnyg8FHPGRSkbAhjJh6"
-    },
-    {
-      "added_at": "2024-11-12 21:07:59",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Lee Ralph",
-          "url": "https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4j3Eh20iXjQNLjrt1YS01E"
-    },
-    {
-      "added_at": "2024-08-10 07:00:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "Ramsey",
-          "url": "https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8"
-        }
-      ],
-      "duration_ms": 230985,
-      "name": "Goodbye (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/7hakBrWzzouKXpopdzq9DI"
-    },
-    {
-      "added_at": "2024-11-23 05:00:00",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Misha Mansoor",
-          "url": "https://open.spotify.com/artist/2RGaw1ZrhxGfoikLAk4wuZ"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "The Beast (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0Sa8RvLw4OnhXYAL9FfStJ"
-    },
-    {
-      "added_at": "2024-08-10 07:00:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 218248,
-      "name": "Our Love (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
-    },
-    {
-      "added_at": "2024-08-10 07:00:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "MIYAVI",
-          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
-        }
-      ],
-      "duration_ms": 161376,
-      "name": "Snakes (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/7AEvaz0EOmlqN27o6zpt3k"
-    },
-    {
-      "added_at": "2024-08-10 07:00:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
-          "name": "BONES UK",
-          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
-        }
-      ],
-      "duration_ms": 205188,
-      "name": "Dirty Little Animals (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3GAkqaCeVaT4CxHR06Eztc"
-    },
-    {
-      "added_at": "2024-08-10 07:00:00",
-      "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
-      },
-      "artists": [
-        {
           "name": "Woodkid",
           "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
         }
@@ -600,6 +532,38 @@
       },
       "artists": [
         {
+          "name": "BONES UK",
+          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
+        }
+      ],
+      "duration_ms": 205188,
+      "name": "Dirty Little Animals (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3GAkqaCeVaT4CxHR06Eztc"
+    },
+    {
+      "added_at": "2024-11-12 21:07:59",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Lee Ralph",
+          "url": "https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4j3Eh20iXjQNLjrt1YS01E"
+    },
+    {
+      "added_at": "2024-08-10 07:00:00",
+      "album": {
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
+      },
+      "artists": [
+        {
           "name": "Pusha T",
           "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         },
@@ -620,6 +584,46 @@
       },
       "artists": [
         {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 218248,
+      "name": "Our Love (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
+    },
+    {
+      "added_at": "2024-11-23 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Rebel Heart (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5xvjnyg8FHPGRSkbAhjJh6"
+    },
+    {
+      "added_at": "2024-08-10 07:00:00",
+      "album": {
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
+      },
+      "artists": [
+        {
           "name": "Fantastic Negrito",
           "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
@@ -627,6 +631,26 @@
       "duration_ms": 193095,
       "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq"
+    },
+    {
+      "added_at": "2024-11-23 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Misha Mansoor",
+          "url": "https://open.spotify.com/artist/2RGaw1ZrhxGfoikLAk4wuZ"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "The Beast (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0Sa8RvLw4OnhXYAL9FfStJ"
     }
   ],
   "unique_name": "Arcane Official Playlist",

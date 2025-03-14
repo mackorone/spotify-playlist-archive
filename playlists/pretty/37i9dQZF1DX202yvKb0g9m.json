@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 133933,
+  "num_followers": 133964,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Do I Do",
+        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
+      },
+      "artists": [
+        {
+          "name": "Maurice McGee",
+          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
+        }
+      ],
+      "duration_ms": 434999,
+      "name": "Do I Do - Extended Mix",
+      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "At Night (Remixes)",
         "url": "https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 431281,
       "name": "At Night - Peggy Gou's Acid Journey Remix",
       "url": "https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Do I Do",
-        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
-      },
-      "artists": [
-        {
-          "name": "Maurice McGee",
-          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
-        }
-      ],
-      "duration_ms": 434999,
-      "name": "Do I Do - Extended Mix",
-      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
     },
     {
       "added_at": "2024-07-10 08:16:23",

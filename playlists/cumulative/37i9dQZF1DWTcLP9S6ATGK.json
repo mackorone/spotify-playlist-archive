@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover:  Budi Doremi",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Ardhito Pramono",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -92,6 +92,42 @@
       "duration_ms": 232533,
       "name": "Aku Bukan Untukmu",
       "url": "https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl"
+    },
+    {
+      "album": {
+        "name": "Aku MerinduMu (Ya Allah)",
+        "url": "https://open.spotify.com/album/4MBXLlE2OsOsmjY4rvWHko"
+      },
+      "artists": [
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Aku MerinduMu (Ya Allah)",
+      "url": "https://open.spotify.com/track/3pyzX8lLQvN2iJSlAaIvlz"
+    },
+    {
+      "album": {
+        "name": "Aku Tak Sempurna",
+        "url": "https://open.spotify.com/album/58nWT7Q5WKB4KbxDm1WVgU"
+      },
+      "artists": [
+        {
+          "name": "Aidil Saputra",
+          "url": "https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "Aku Tak Sempurna",
+      "url": "https://open.spotify.com/track/0rn651LtkieAkq7AWlsWLx"
     },
     {
       "album": {
@@ -1359,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Bulan Ramadhan",
+        "url": "https://open.spotify.com/album/035D1XGzEbZ4Zqt0OUIJsx"
+      },
+      "artists": [
+        {
+          "name": "Luvia band",
+          "url": "https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184813,
+      "name": "Bulan Ramadhan",
+      "url": "https://open.spotify.com/track/3jquGJB8t8h25VyZFeUwqJ"
+    },
+    {
+      "album": {
         "name": "Bunga Jiwaku",
         "url": "https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF"
       },
@@ -1793,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Demi Masa (Original)",
+        "url": "https://open.spotify.com/album/4n10tgR9SBZQN5pd6SsY63"
+      },
+      "artists": [
+        {
+          "name": "Waode",
+          "url": "https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285200,
+      "name": "Demi Masa - Original",
+      "url": "https://open.spotify.com/track/75Mumvea7xvKUkMGcaOasj"
+    },
+    {
+      "album": {
         "name": "Denganmu",
         "url": "https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP"
       },
@@ -2224,6 +2296,24 @@
       "duration_ms": 229448,
       "name": "Hanya Lolongan",
       "url": "https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo"
+    },
+    {
+      "album": {
+        "name": "Hanya Sementara",
+        "url": "https://open.spotify.com/album/2VIIKPBAprILtqXYD99RaA"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304500,
+      "name": "Hanya Sementara",
+      "url": "https://open.spotify.com/track/2Vw6bJNZJ4tlfqtGHDa6Ip"
     },
     {
       "album": {
@@ -5531,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Sedihku Bahagiamu",
+        "url": "https://open.spotify.com/album/1TkWhA4CsWl0TVoiL8go09"
+      },
+      "artists": [
+        {
+          "name": "GITA",
+          "url": "https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229672,
+      "name": "Sedihku Bahagiamu",
+      "url": "https://open.spotify.com/track/2ul3AD4XozdTPUPujnWtzw"
+    },
+    {
+      "album": {
         "name": "Sejauh Dua Benua",
         "url": "https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY"
       },
@@ -5698,6 +5806,46 @@
       "duration_ms": 341408,
       "name": "Selamat Datang Di Realita",
       "url": "https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy"
+    },
+    {
+      "album": {
+        "name": "Selamat Datang Ramadhan",
+        "url": "https://open.spotify.com/album/6FL2Y1PJ9MOTU5tktZkFBi"
+      },
+      "artists": [
+        {
+          "name": "Radja",
+          "url": "https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "Selamat Datang Ramadhan",
+      "url": "https://open.spotify.com/track/1A8kTcqvjwC5XDyzQeukMt"
+    },
+    {
+      "album": {
+        "name": "Selamat Tinggal Cinta",
+        "url": "https://open.spotify.com/album/0k72hTSK1wLdbENlFTatfp"
+      },
+      "artists": [
+        {
+          "name": "Tya Subiakto",
+          "url": "https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo"
+        },
+        {
+          "name": "Ronald Dewa",
+          "url": "https://open.spotify.com/artist/2zrMuruIsDXrQIQHuLU0sj"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268380,
+      "name": "Selamat Tinggal Cinta",
+      "url": "https://open.spotify.com/track/7Lu0wB1mnDvyKa40QUduxj"
     },
     {
       "album": {
@@ -6186,6 +6334,28 @@
       "duration_ms": 210923,
       "name": "Silakan",
       "url": "https://open.spotify.com/track/4pzNeQGUwjiS62z253nHWQ"
+    },
+    {
+      "album": {
+        "name": "Sinarengan",
+        "url": "https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        },
+        {
+          "name": "Bella Bonita",
+          "url": "https://open.spotify.com/artist/3K6JJtWNTBwQudEUuKYLQI"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333734,
+      "name": "Sinarengan",
+      "url": "https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z"
     },
     {
       "album": {
@@ -6944,6 +7114,24 @@
       "duration_ms": 250563,
       "name": "Tergariskan",
       "url": "https://open.spotify.com/track/5ojHPGLl3ZjE6ikmUqoeHA"
+    },
+    {
+      "album": {
+        "name": "Terima Kasih",
+        "url": "https://open.spotify.com/album/1nzgz4O6aXtzBp3jzJyhAP"
+      },
+      "artists": [
+        {
+          "name": "Jayadi",
+          "url": "https://open.spotify.com/artist/194uu0APSHFHUiqegvNRvn"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243981,
+      "name": "Terima Kasih",
+      "url": "https://open.spotify.com/track/0OB3dQzzYUyHu3W9UPUoJ2"
     },
     {
       "album": {

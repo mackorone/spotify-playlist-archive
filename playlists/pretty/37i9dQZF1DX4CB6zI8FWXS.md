@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: 3House
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,456 likes - 79 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,457 likes - 79 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 27 | [Back and Forth](https://open.spotify.com/track/25TCMpyYN5FFaPxqtl9rWt) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Back and Forth](https://open.spotify.com/album/7ibaRhx6ot2BGp9PQKZjWH) | 2:04 |
 | 28 | [February ‘23](https://open.spotify.com/track/14NLz8LiXkKrJQ7LIIUMiq) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [February ‘23](https://open.spotify.com/album/69pJeRSwJtBkRpPd1TDaPm) | 2:20 |
 | 29 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 |
-| 30 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 |
+| 30 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/71oYGYgvAWdULjk3ffj1oy) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 |
 | 31 | [Survivor](https://open.spotify.com/track/4juj2vcoKlRyW2toW951Wg) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Survivor](https://open.spotify.com/album/5uaAvmMxqIOtqu2Vh3omBc) | 2:30 |
 | 32 | [Pattaya](https://open.spotify.com/track/24lUgoLY3qAdssYOyXbxOc) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [Pattaya](https://open.spotify.com/album/3X965kVOIf7cQsCxE2uFY1) | 2:28 |
 | 33 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |

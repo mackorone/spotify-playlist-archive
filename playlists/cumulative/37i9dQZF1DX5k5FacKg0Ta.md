@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-306 songs - 1 day 2 hr 24 min
+309 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Good Woman](https://open.spotify.com/track/0yjKisEQNn4guL4s8HpABJ) | [Mariam Sandhu](https://open.spotify.com/artist/72X05Gus2qymTZGujpkmmm) | [Good Woman](https://open.spotify.com/album/5O6bsK4isDbbcr6Sp7bTqD) | 3:07 | 2022-09-02 | 2023-11-24 |
 | [Gray Waves](https://open.spotify.com/track/6mEpTL0SBwnZv3FpA8vhRA) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I) | [Gray Waves](https://open.spotify.com/album/0TcxkBNIIGKD1FM1o8XgSe) | 4:51 | 2024-05-10 | 2024-08-23 |
 | [Green Model](https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Gravity](https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4) | 4:22 | 2025-01-31 |  |
+| [Grief](https://open.spotify.com/track/3m8EB23zOvQwpWOfT7vBg8) | [Pyry Peltonen](https://open.spotify.com/artist/5Qf9JXNQdlmAxphO8f7eo8) | [Grief](https://open.spotify.com/album/045NudgsLsVdzF1ajESWaY) | 6:49 | 2025-03-13 |  |
 | [Haunted](https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7) | [Selma Savolainen](https://open.spotify.com/artist/6TevDwYMUhsBwWNugUModU) | [Horror Vacui](https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC) | 3:36 | 2023-05-08 | 2024-03-23 |
 | [Heart Does What Heart Wants](https://open.spotify.com/track/7FGYLSVMROGgOWyvH9hSHq) | [Nikita Rafaelov](https://open.spotify.com/artist/6FSkI0aKXYxIjraeorloQv), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj) | [Heart Does What Heart Wants](https://open.spotify.com/album/0dIBGaoP12KpRzPf8Pr637) | 2:46 | 2024-10-11 |  |
 | [Hiljainen](https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8) | [Mikko Sarvanne Garden](https://open.spotify.com/artist/6BNkfqfvbnuPEVyBhANA39) | [Hiljainen](https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3) | 6:25 | 2022-09-22 | 2023-11-24 |
@@ -159,6 +160,7 @@
 | [Long Walk](https://open.spotify.com/track/0a2FbI03OXqueoEoVI5vdJ) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jukka Eskola](https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St) | [Long Walk](https://open.spotify.com/album/2Ho846LuSN0tiZagCKmBGS) | 4:31 | 2024-01-12 | 2024-02-24 |
 | [Lost in Marrakech Souk](https://open.spotify.com/track/5upMlh6OdTk0aG5x3OeYnA) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Lost in Marrakech Souk](https://open.spotify.com/album/4sCJR6VSHWfVD7nnwInL0B) | 6:23 | 2023-03-29 | 2023-04-29 |
 | [Love and Maladies](https://open.spotify.com/track/5kHdEAX0zIB3DV2Yg8AsSy) | [Alder Ego](https://open.spotify.com/artist/5lnac6VXp2oB9RSmUFV67V), [Joonas Leppänen](https://open.spotify.com/artist/7tssiqMSglLWZRKPMFW3Fg), [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [Jarno Tikka](https://open.spotify.com/artist/5xFUZqOD0dGWFwF7cDdIzL), [Nathan Francis](https://open.spotify.com/artist/5jf2gBULW0kRu9YXQ0L6oL) | [III](https://open.spotify.com/album/2GmTfaTiwX055jsxaiKPuE) | 8:16 | 2022-09-02 | 2022-09-23 |
+| [Love Is All We All Came Here For](https://open.spotify.com/track/0GwD9nfay44TWKFLepwTJ4) | [Siina Suutarinen](https://open.spotify.com/artist/0fyjfyZYoxUEsE4Zu70T98), [Casimir Ekman](https://open.spotify.com/artist/7KnCkEJGSk4lnNed1LOUt6), [Johannes Granroth](https://open.spotify.com/artist/0UCkImub9q7nMqkzegJFKm) | [Love Is All We All Came Here For](https://open.spotify.com/album/3wkMQX7LPGZ3Bb48i1znzt) | 5:38 | 2025-03-13 |  |
 | [Low Blow](https://open.spotify.com/track/3kIs4PmTQqFKH5bgMuB5Xv) | [Jaakonaho](https://open.spotify.com/artist/11IJGScId2eDGDsSABfY53), [Dana Colley](https://open.spotify.com/artist/5FvTk5OhsWCgs2eBY8p7yd) | [Build](https://open.spotify.com/album/3fEodFD3lNrljAmJFBitiv) | 4:52 | 2024-03-22 |  |
 | [Löyly](https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ) | [Teea Aarnio](https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM) | [Löyly](https://open.spotify.com/album/4rlRsxnaAZusRH6DtiLrQc) | 5:22 | 2023-03-29 | 2023-09-15 |
 | [Maa](https://open.spotify.com/track/3d9EeEFR1nMnzjZZpLKiwH) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Maa](https://open.spotify.com/album/7DkhE0ZX2WlFfJjUK4WDrA) | 5:00 | 2023-10-26 | 2025-01-03 |
@@ -285,6 +287,7 @@
 | [Turn Again Hourglass](https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6) | [Mama Longhorn](https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh) | [Turn Again Hourglass](https://open.spotify.com/album/5TNB6VrYqAFwWcIuez679C) | 5:47 | 2023-10-26 | 2024-04-27 |
 | [Two Kids A Day](https://open.spotify.com/track/0Y6ydDHos0BlEofX7AX93O) | [Joakim Berghäll](https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O), [Adele Sauros](https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3) | [Runoja rauhalle \(Poems for Peace\)](https://open.spotify.com/album/1xxwZokHP27IAA1y0EbvnK) | 3:49 | 2024-02-23 |  |
 | [Two Shadows of You](https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Two Shadows of You](https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W) | 7:29 | 2023-05-12 | 2025-01-03 |
+| [Tykytys](https://open.spotify.com/track/5HTcT6nBAlsCEsCPD6X3It) | [Kaisa's Machine](https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl) | [Moving Parts](https://open.spotify.com/album/2xxnewK5HJfCtKO7trOgrv) | 4:50 | 2025-03-13 |  |
 | [Unissain sua kaipaan](https://open.spotify.com/track/3V1SBm6eeZQwEa2wF8m48N) | [Helmi Antila](https://open.spotify.com/artist/4Co5CFq2qPw2P04NS3fs7u), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Unissain sua kaipaan](https://open.spotify.com/album/3pAJQwsOWGOtBMmWV75Qa4) | 3:55 | 2025-02-20 | 2025-03-07 |
 | [Utu](https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq) | [Melomatic Orchestra](https://open.spotify.com/artist/1gwwXyk6bfMPCEGaEMvPvp) | [Utu](https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif) | 5:31 | 2022-09-02 | 2023-05-13 |
 | [Valkoinen hevonen](https://open.spotify.com/track/7xkSKRKEjSBo306GBzhO8Y) | [Minsku Tammela](https://open.spotify.com/artist/6aREkURkJ8VvNZBh9sJKw5), [Joakim Berghäll](https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O) | [Valkoinen hevonen](https://open.spotify.com/album/3QYbmO7p0T1eIIHo2n6ZLP) | 3:54 | 2023-09-08 | 2025-01-03 |

@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-96 songs - 4 hr 59 min
+97 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/track/7mHB1qn2vxK3F2rEjI6pRs) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/album/5dcWi2kfONurAxDPTkB72V) | 2:24 | 2024-08-27 |  |
 | [Lost In Translation Beta \(64\-74hz\)](https://open.spotify.com/track/3Jl5YrehEmurX8z4tfbbuy) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Lost In Translation Beta](https://open.spotify.com/album/3EPAePiqH5B7VYUVBiHtCH) | 3:00 | 2024-07-12 |  |
 | [Memory \(98.7Hz \- 117.6Hz\)](https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:52 | 2022-09-06 | 2023-10-06 |
+| [Mind De\-Fog Beta \(60\-86hz\)](https://open.spotify.com/track/4ZBXBQXj6osE90oH4522b8) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Mind De\-Fog Beta \(60\-86hz\)](https://open.spotify.com/album/2zHTPvYwFmRavdW8nPzUy8) | 2:40 | 2025-03-13 |  |
 | [Porch Thoughts E Theta \(80\-84hz\)](https://open.spotify.com/track/11KGooXHkq7YhFrDsPtza7) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Settle Down Theta](https://open.spotify.com/album/0zMekCx6Gww7LJAv0A80VD) | 2:45 | 2024-01-24 | 2024-03-09 |
 | [Presence Beta Sinus 130 Hz \- 146 Hz](https://open.spotify.com/track/39NMPaHisCJGGODQDArsiN) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 2:56 | 2022-11-23 |  |
 | [Propelling Mind Bb Delta \(115\-119hz\)](https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thoughtless Eclipse Delta](https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU) | 2:36 | 2024-02-14 | 2024-03-09 |

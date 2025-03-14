@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-196 songs - 1 day 2 hr 0 min
+198 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cover Me & Doh Doh Doh \- Live](https://open.spotify.com/track/3AA6ogcyXezCkkFDQmaSny) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Cover Me & Doh Doh Doh \(Live\)](https://open.spotify.com/album/5KljWhYhiPR1IjQ2UWnbUp) | 5:12 | 2024-08-09 | 2024-12-20 |
 | [Dance Anyhow](https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Dance Anyhow](https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d) | 8:24 | 2024-07-12 |  |
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
+| [Dependable God \- Live from London](https://open.spotify.com/track/2OWowRrWrSP4v3R11eZVIh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Dependable God \(Live from London\)](https://open.spotify.com/album/23iBFmRGMwcc2BoZXnRuwO) | 5:07 | 2025-03-14 |  |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-23 |  |
 | [Done me well \- Live](https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3) | [Segun John](https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2) | [Done me well \(Live\)](https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3) | 8:42 | 2024-09-13 | 2024-12-20 |
 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 | 2024-02-23 | 2024-08-16 |
@@ -98,6 +99,7 @@
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2024-02-23 |  |
 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 | 2024-11-22 | 2025-01-17 |
 | [King Jesus \(Live in Bryanston, 2022\) \(feat\. Siphelele Vundla & Awethu Namba\-Satsha\)](https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b) | [The Fellowship](https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga), [Mthunzi Namba](https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv), [Siphelele Vundla](https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD), [Awethu Namba\-Satsha](https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH) | [Come to Jesus \(Live in Bryanston, 2022\)](https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499) | 5:37 | 2024-04-12 | 2024-08-16 |
+| [King of the Host \(Live\)](https://open.spotify.com/track/4Y1f8aq1DPk9EXsHQySpZ9) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [King of the Host \(Live\)](https://open.spotify.com/album/0wvcihCblE6rVUcjTwnCRL) | 8:13 | 2025-03-14 |  |
 | [Kingdom Come \- Live](https://open.spotify.com/track/3Q7oyCiwMOYyUlGhYfxU2i) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Hallel](https://open.spotify.com/artist/46UGxcEh5kqVkGG9O09U4S), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc), [CJ Nonso](https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F), [Favvy Sings](https://open.spotify.com/artist/7scyetePnpih3zaBZIZE8t) | [Kingdom Come \(Live\)](https://open.spotify.com/album/2qc2BQ2DpXKbChrvM02Djq) | 10:34 | 2024-11-08 | 2024-12-20 |
 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \(Live\)](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 | 2024-09-13 | 2024-11-01 |
 | [Let Them Know \- Live](https://open.spotify.com/track/0HqvZlBUawha81zBQ5wnFl) | [David Ekene](https://open.spotify.com/artist/5A7uVlEs5QcS92rQl9A2IJ) | [Let Them Know \(Live\)](https://open.spotify.com/album/5V9HkW2CNncaS6dI8K3WG9) | 9:07 | 2024-09-20 | 2024-11-15 |

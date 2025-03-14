@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 208986,
       "name": "Alice & June - Mix 2020",
       "url": "https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO"
@@ -1136,6 +1136,44 @@
       "duration_ms": 307440,
       "name": "Raisonne",
       "url": "https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev"
+    },
+    {
+      "album": {
+        "name": "De jour comme de nuit",
+        "url": "https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0"
+      },
+      "artists": [
+        {
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        },
+        {
+          "name": "Jean Baptiste Mory",
+          "url": "https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh"
+        },
+        {
+          "name": "Greg Baudrier",
+          "url": "https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR"
+        },
+        {
+          "name": "Emmanuel Baroux",
+          "url": "https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB"
+        },
+        {
+          "name": "Franck Pilant",
+          "url": "https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Franchitti",
+          "url": "https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Regarde-moi",
+      "url": "https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz"
     },
     {
       "album": {

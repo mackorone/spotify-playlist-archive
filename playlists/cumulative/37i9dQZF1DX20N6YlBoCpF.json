@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=-_YTdqB-SviFo5WYECAZ9A\">Franja Du Plessis</a> ",
+  "description": "Al die nuutste Afrikaanse musiek met Jo Black, Demi Lee Moore, MJ Nel, Mari Bosman en meer.",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 171084,
       "name": "'n Man en 'n Berg",
       "url": "https://open.spotify.com/track/2bQfct7EHkuyqSp2mHyg6n"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 170867,
       "name": "40 en 1",
       "url": "https://open.spotify.com/track/7nbZ0yIE0gk9QTQ4VjuYjw"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 218200,
       "name": "AHVJNLW2",
       "url": "https://open.spotify.com/track/7D7iJejaNKAWPxsnrqgBZ0"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 240707,
       "name": "Altyd Jonk",
       "url": "https://open.spotify.com/track/2dlvRhQMSMEtNYjhxAPc3u"
@@ -1412,6 +1412,24 @@
       "duration_ms": 226909,
       "name": "Annie Brand",
       "url": "https://open.spotify.com/track/0DYXzNajl8iRXBKJzGSlMe"
+    },
+    {
+      "album": {
+        "name": "Antoniem",
+        "url": "https://open.spotify.com/album/6eWjpZ4XO5wUTfwXK5ZaGb"
+      },
+      "artists": [
+        {
+          "name": "Dopamien",
+          "url": "https://open.spotify.com/artist/78xx5JukPHM0HTLLsFB4Dl"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169428,
+      "name": "Antoniem",
+      "url": "https://open.spotify.com/track/3yxx4d6VIV1UACaw9qLP1g"
     },
     {
       "album": {
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 230870,
       "name": "Besete",
       "url": "https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk"
@@ -2474,6 +2492,24 @@
       "duration_ms": 141523,
       "name": "Bettie Steyn",
       "url": "https://open.spotify.com/track/3ro14Kc1NPg72rQKQJTkbS"
+    },
+    {
+      "album": {
+        "name": "Bicycle Ry",
+        "url": "https://open.spotify.com/album/4qmFiJRJkHNrhVavZrF5pX"
+      },
+      "artists": [
+        {
+          "name": "Carma",
+          "url": "https://open.spotify.com/artist/3eoNK7024FiiwF99KkZ8z9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Bicycle Ry",
+      "url": "https://open.spotify.com/track/1HmlO9EyNQA4AkDyDowWUs"
     },
     {
       "album": {
@@ -2970,7 +3006,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 203676,
       "name": "Blou Flamink",
       "url": "https://open.spotify.com/track/1E82T4KkbrtaGqjQCSv7TN"
@@ -5230,7 +5266,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 155455,
       "name": "Die Braaibroodjie Re\u00ebl",
       "url": "https://open.spotify.com/track/0MVtpnmYKfNQAukHKp57Aa"
@@ -5490,7 +5526,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 269426,
       "name": "Die Hand",
       "url": "https://open.spotify.com/track/4TttTQFF9FLMf6ImxSlrTT"
@@ -5757,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Die Mooi In Jou",
+        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Die Mooi In Jou",
+      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
+    },
+    {
+      "album": {
         "name": "Die Musiek",
         "url": "https://open.spotify.com/album/4tBHVZC5OUrsznBkBATD03"
       },
@@ -5768,7 +5822,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 154000,
       "name": "Die Musiek",
       "url": "https://open.spotify.com/track/6YiHbxm860NZqTdlDYnX6s"
@@ -7244,7 +7298,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 232621,
       "name": "Einde Van Jou",
       "url": "https://open.spotify.com/track/5QRTRcU4d8td4QcNKHJDv3"
@@ -9213,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "Haar Naam Is Afrikaans",
+        "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Haar Naam Is Afrikaans",
+      "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
+    },
+    {
+      "album": {
         "name": "Haar Naam Was Somer",
         "url": "https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE"
       },
@@ -10987,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "Iets Goed",
+        "url": "https://open.spotify.com/album/6iDU3BfnoBRxAeq64mH7l3"
+      },
+      "artists": [
+        {
+          "name": "Mari Bosman",
+          "url": "https://open.spotify.com/artist/0fEMsngAB6I31d1akISvYX"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189261,
+      "name": "Iets Goed",
+      "url": "https://open.spotify.com/track/1p0UHsVASme8p6iK1MQWtT"
+    },
+    {
+      "album": {
         "name": "Ik Ben Een Afrikaander",
         "url": "https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0"
       },
@@ -12333,6 +12423,24 @@
     },
     {
       "album": {
+        "name": "Kalahari",
+        "url": "https://open.spotify.com/album/54xHT8gVk7WIuMXnrTHZyB"
+      },
+      "artists": [
+        {
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218566,
+      "name": "Kalahari",
+      "url": "https://open.spotify.com/track/1ua4CHr38fEXqJEOE5ESAF"
+    },
+    {
+      "album": {
         "name": "Kalahari Ferrari",
         "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
       },
@@ -13244,7 +13352,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 185625,
       "name": "Klomp Keer Lekker",
       "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
@@ -15447,6 +15555,24 @@
     },
     {
       "album": {
+        "name": "Liela",
+        "url": "https://open.spotify.com/album/1F1MB5qLgHUC2Alo0aBpl3"
+      },
+      "artists": [
+        {
+          "name": "Dani\u00ebl",
+          "url": "https://open.spotify.com/artist/5pyMihpJA1y3atdWxR9kHe"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "Liela",
+      "url": "https://open.spotify.com/track/78z5Ggt5gkNmNfwGtGlfCW"
+    },
+    {
+      "album": {
         "name": "Liewe Jinne!",
         "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
       },
@@ -15729,6 +15855,28 @@
     },
     {
       "album": {
+        "name": "Loopdop",
+        "url": "https://open.spotify.com/album/3JFCqg5ukbSwDetRqzIsmg"
+      },
+      "artists": [
+        {
+          "name": "MJ Nel",
+          "url": "https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A"
+        },
+        {
+          "name": "Ou Tekkies",
+          "url": "https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Loopdop",
+      "url": "https://open.spotify.com/track/3HBDVe4cy78xRREk0HMb6r"
+    },
+    {
+      "album": {
         "name": "Los My",
         "url": "https://open.spotify.com/album/6uc5ryW3seUi5tem6VHFJM"
       },
@@ -15776,7 +15924,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 220658,
       "name": "Los Net",
       "url": "https://open.spotify.com/track/2TLNgZaoH6DRAOZHKMd9XB"
@@ -16424,6 +16572,24 @@
       "duration_ms": 155625,
       "name": "Meisie",
       "url": "https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1"
+    },
+    {
+      "album": {
+        "name": "Meisie van die Stad (Remix)",
+        "url": "https://open.spotify.com/album/04LqqLhmwNePCOU1F0hV3B"
+      },
+      "artists": [
+        {
+          "name": "Righardt Rigter",
+          "url": "https://open.spotify.com/artist/2morcLyTNbn5LqIUgmZWvU"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188029,
+      "name": "Meisie van die Stad - Remix",
+      "url": "https://open.spotify.com/track/21qszv6R8xhZpMuitcJUGW"
     },
     {
       "album": {
@@ -17660,7 +17826,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 182504,
       "name": "net 'n kind",
       "url": "https://open.spotify.com/track/5XwH091TztNR0fj0ve8q6g"
@@ -20123,6 +20289,24 @@
     },
     {
       "album": {
+        "name": "Pinkie",
+        "url": "https://open.spotify.com/album/5v6SKuJdf81KyeWEg6KR8T"
+      },
+      "artists": [
+        {
+          "name": "Henri Alant",
+          "url": "https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183711,
+      "name": "Pinkie",
+      "url": "https://open.spotify.com/track/4N8DgQevsNW7Rdym28TVgi"
+    },
+    {
+      "album": {
         "name": "Pitte",
         "url": "https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq"
       },
@@ -21142,7 +21326,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 229565,
       "name": "Rooftog",
       "url": "https://open.spotify.com/track/6QYClAnSwpeHK28IWwOee5"
@@ -23157,6 +23341,24 @@
     },
     {
       "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "album": {
         "name": "Sonvanger",
         "url": "https://open.spotify.com/album/1RS22lQ9GoL8xsZH47LkWM"
       },
@@ -23907,6 +24109,24 @@
     },
     {
       "album": {
+        "name": "Sterie Sterie Stampie",
+        "url": "https://open.spotify.com/album/5VCHcbDExiJzKgS1hY6RiW"
+      },
+      "artists": [
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "Sterie Sterie Stampie",
+      "url": "https://open.spotify.com/track/1xJgv1rALVs3hwa6tcz8wU"
+    },
+    {
+      "album": {
         "name": "Sterre",
         "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
@@ -23998,7 +24218,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184077,
       "name": "Stilfontein",
       "url": "https://open.spotify.com/track/1M7t1bcsBJyS6DgBLNnzXq"
@@ -25404,7 +25624,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
@@ -27686,7 +27906,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 226875,
       "name": "V\u00ear Van Die Huis Af",
       "url": "https://open.spotify.com/track/5VgaegynEASH8aApn1fxS0"
@@ -28266,7 +28486,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 212688,
       "name": "Wees",
       "url": "https://open.spotify.com/track/2KOk9qzONoU3eznwFEWtNE"
@@ -28516,7 +28736,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 166182,
       "name": "Westenra",
       "url": "https://open.spotify.com/track/5sEruIuSr7v3YYw6g7VUCj"
@@ -28762,6 +28982,24 @@
       "duration_ms": 199732,
       "name": "Wildste Vreemdeling",
       "url": "https://open.spotify.com/track/4Hmk5EV45y0YKDvHr5qbuN"
+    },
+    {
+      "album": {
+        "name": "Wille Magrietjie",
+        "url": "https://open.spotify.com/album/6sWzTOeT7Rs3XEpOV2uAKw"
+      },
+      "artists": [
+        {
+          "name": "Suurstof",
+          "url": "https://open.spotify.com/artist/38lf0JnuAoMDQqT6VR5VJ3"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219599,
+      "name": "Wille Magrietjie",
+      "url": "https://open.spotify.com/track/3e5dePGb9Yyh4efjVywAhi"
     },
     {
       "album": {

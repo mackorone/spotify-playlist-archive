@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: BINI",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Cup of Joe",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "7th Sense",
+        "url": "https://open.spotify.com/album/6fLn0CW5g9nLSplYDfomyl"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355906,
+      "name": "Hanggang sa Magsawa",
+      "url": "https://open.spotify.com/track/3jqZKT0N9hEx0uwe6Sm8pS"
+    },
+    {
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a"
       },
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 375966,
       "name": "Magkasama",
       "url": "https://open.spotify.com/track/6BYfQMc0AOzjdJl3RjJ6v9"
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 234002,
       "name": "San Ka Na",
       "url": "https://open.spotify.com/track/06EgbrpVPxamQ0dl0aygNM"
@@ -4954,6 +4972,24 @@
       "duration_ms": 164419,
       "name": "Thug",
       "url": "https://open.spotify.com/track/0PTYkBpalg3l8p3ABlfVNE"
+    },
+    {
+      "album": {
+        "name": "Ang Mutya Ng Section E (A Viva One Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Tibok",
+      "url": "https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt"
     },
     {
       "album": {

@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "According To Brother Nwachukwu",
+        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237513,
+      "name": "Agaracha",
+      "url": "https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY"
+    },
+    {
+      "album": {
         "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
         "url": "https://open.spotify.com/album/0E0Nu2k6iUQhAQXYxDXs2B"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 133333,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q"
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 733135,
       "name": "Oba Awon Oba",
       "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
@@ -5406,6 +5424,28 @@
       "duration_ms": 148458,
       "name": "YHWH (Yahweh)",
       "url": "https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5yveYWC5QD8qO0fYR5MPS1"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "Spirit & Life Collective",
+          "url": "https://open.spotify.com/artist/0hplB8E1h8iFQvA949bI2q"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4jP9BprqNUmsG7xnb0tyHC"
     },
     {
       "album": {

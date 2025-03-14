@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Paola Pizzino in cover della playlist dell'R&B italiano \ud83c\udfa7",
+  "description": "ram\u00e9 in cover della playlist dell'R&B italiano \ud83c\udfa7",
   "name": "anima R&B",
   "tracks": [
     {
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 200720,
       "name": "Decidere non so",
       "url": "https://open.spotify.com/track/1pdlPlAQ0oAXLWB2acAxau"
@@ -5017,6 +5017,24 @@
     },
     {
       "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/4TmL8fxJfNdob6pNFkLMth"
+      },
+      "artists": [
+        {
+          "name": "LeUltimeParoleFamose",
+          "url": "https://open.spotify.com/artist/5oo7NgTzaaryCa35ZIEqg1"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/0InkzNwXNfqTacrKmQXoJm"
+    },
+    {
+      "album": {
         "name": "Goccia goccia",
         "url": "https://open.spotify.com/album/3cWxT57YUyi84lqR3oQzOZ"
       },
@@ -6326,6 +6344,24 @@
       "duration_ms": 193544,
       "name": "La versione migliore di me",
       "url": "https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS"
+    },
+    {
+      "album": {
+        "name": "La Vita Difficile",
+        "url": "https://open.spotify.com/album/2Fh2Vvhjv2gOrytV79zCts"
+      },
+      "artists": [
+        {
+          "name": "ARMA COD",
+          "url": "https://open.spotify.com/artist/6aAQzz66co4bsETGpKr9aC"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192137,
+      "name": "La Vita Difficile",
+      "url": "https://open.spotify.com/track/6CYwzseJAVTGZHatZj0pof"
     },
     {
       "album": {
@@ -9415,6 +9451,24 @@
     },
     {
       "album": {
+        "name": "UNRELEASED V.1",
+        "url": "https://open.spotify.com/album/4iEGJAoAugdUQpCv21HRnu"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194031,
+      "name": "OUTRO (PIANO SOLO)",
+      "url": "https://open.spotify.com/track/52TTewKAjeqWwP8j6Ax867"
+    },
+    {
+      "album": {
         "name": "Paloma",
         "url": "https://open.spotify.com/album/7051vm5XsmQ96gajI3qhcm"
       },
@@ -12484,6 +12538,28 @@
       "duration_ms": 140739,
       "name": "Stupida Martina",
       "url": "https://open.spotify.com/track/6Ut5ILQVSB8scoQo6Dzg2O"
+    },
+    {
+      "album": {
+        "name": "Stupido Amarti",
+        "url": "https://open.spotify.com/album/3dsmZ8wpJ3SHtuMu1dv5BH"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00e9",
+          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Stupido Amarti",
+      "url": "https://open.spotify.com/track/6DkSkXwJdc1jAVjQKDQhE5"
     },
     {
       "album": {

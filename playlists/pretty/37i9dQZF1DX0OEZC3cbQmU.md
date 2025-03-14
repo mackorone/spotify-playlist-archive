@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Vitor Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,232,409 likes - 70 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,233,089 likes - 70 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

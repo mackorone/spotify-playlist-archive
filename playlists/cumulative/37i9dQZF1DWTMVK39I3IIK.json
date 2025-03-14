@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   hun_sagde",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Augusta Schackinger",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Et Sted p\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
+      },
+      "artists": [
+        {
+          "name": "Augusta Schackinger",
+          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148521,
+      "name": "Et Sted p\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
+    },
+    {
+      "album": {
         "name": "Falder I",
         "url": "https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 171186,
       "name": "Gr\u00e5 Skyer",
       "url": "https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A"
@@ -2552,6 +2570,24 @@
       "duration_ms": 173450,
       "name": "Sol Gennem Regn",
       "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
+    },
+    {
+      "album": {
+        "name": "Forandring, please!?",
+        "url": "https://open.spotify.com/album/0o2CoLXWid9ZTCSVv4RNcs"
+      },
+      "artists": [
+        {
+          "name": "Kn\u00e6gt",
+          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "Solskam",
+      "url": "https://open.spotify.com/track/22VyCWyIDIV7TCEpzX6qtx"
     },
     {
       "album": {

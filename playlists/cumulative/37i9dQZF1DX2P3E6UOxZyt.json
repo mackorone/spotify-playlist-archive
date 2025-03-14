@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: Tyson Yoshi",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u9112\u5e8f (Hogan) ",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 136614,
       "name": "Alexis",
       "url": "https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 210000,
       "name": "another time",
       "url": "https://open.spotify.com/track/4vHvm27vjR1BoaokJS16XV"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 196535,
       "name": "Galaxy official",
       "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 195212,
       "name": "MY LOGO - Rerecorded Version",
       "url": "https://open.spotify.com/track/7MZLA5iAEMZIZcDTvgp6QG"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 203669,
       "name": "\u4f60\u7684\u8a08\u756b\u88e1\u6c92\u6709\u6211",
       "url": "https://open.spotify.com/track/7HOJQpG9gFPhIFSEiu5tFK"
@@ -5712,7 +5712,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 182981,
       "name": "\u4f60\u8b93\u6211",
       "url": "https://open.spotify.com/track/3JNMGo4GhXVFtqO2KNtxbm"
@@ -6742,7 +6742,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 252129,
       "name": "\u591c\u884c",
       "url": "https://open.spotify.com/track/6RwcqhDcAUPbz1CRu9Vmhf"
@@ -8503,6 +8503,28 @@
     },
     {
       "album": {
+        "name": "\u64b2\u706b",
+        "url": "https://open.spotify.com/album/6SdcmoRsFvG9jcTc2i8GBa"
+      },
+      "artists": [
+        {
+          "name": "God \u00d8ne",
+          "url": "https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL"
+        },
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225563,
+      "name": "\u64b2\u706b",
+      "url": "https://open.spotify.com/track/154QFdFsYVS57FOJWkgPXw"
+    },
+    {
+      "album": {
         "name": "\u64b2\u706b\u7684\u98db\u86fe",
         "url": "https://open.spotify.com/album/1KogpwW4KG2cthGJKVOkLE"
       },
@@ -8970,7 +8992,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 228631,
       "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
       "url": "https://open.spotify.com/track/6ltLMCBb8hrRNWt1ENzoeK"
@@ -9374,7 +9396,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 182407,
       "name": "\u6ce1\u6cab",
       "url": "https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h"
@@ -11248,7 +11270,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 135460,
       "name": "\u8d81\u96e8\u4e0b",
       "url": "https://open.spotify.com/track/0MMQdQYZ1njx8ZnciVobaI"

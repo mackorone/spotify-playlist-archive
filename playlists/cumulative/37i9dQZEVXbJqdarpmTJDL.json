@@ -5288,7 +5288,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -15899,6 +15899,24 @@
     },
     {
       "album": {
+        "name": "Ready To Shoot",
+        "url": "https://open.spotify.com/album/2JGMFAcOoxagidAecQkmN5"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "GOONS",
+      "url": "https://open.spotify.com/track/1iY2IET6B6Hiu4sxpnesIA"
+    },
+    {
+      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -19040,7 +19058,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 237241,
       "name": "KANATA",
       "url": "https://open.spotify.com/track/5epBCZqneh8lHt1zTKMzzk"
@@ -30650,7 +30668,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 178909,
       "name": "Petheno",
       "url": "https://open.spotify.com/track/5mIZDaHvWBSSFCOdQrlhEd"
@@ -30936,7 +30954,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 146165,
       "name": "PISSA",
       "url": "https://open.spotify.com/track/2G7lPxGsVuwaO8uzQmw1BL"
@@ -31090,7 +31108,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 160365,
       "name": "PLEIN",
       "url": "https://open.spotify.com/track/1UqsfSfADTuFvSAwiChUUE"
@@ -34992,7 +35010,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -40194,7 +40212,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 232285,
       "name": "TZOURES ME TO DAIMONA",
       "url": "https://open.spotify.com/track/76SoYLNRMickQ64ZrBWyGw"

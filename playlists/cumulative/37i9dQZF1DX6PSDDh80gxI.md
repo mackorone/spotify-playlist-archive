@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Anna Castiglia in cover della playlist con il meglio dell’indie italiano!
+> Giorgio Poi in cover della playlist con il meglio dell’indie italiano 👨🆚🪰
 
-219 songs - 11 hr 26 min
+225 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ascoltare gli alberi](https://open.spotify.com/track/0gQ7KxkgClrDXvD4MrfAQT) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S) | [Ascoltare gli alberi](https://open.spotify.com/album/5PkdD1nN3vygejhLOh4l4p) | 3:18 | 2024-10-24 | 2024-11-08 |
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-10-11 |
 | [BALLA](https://open.spotify.com/track/0mlZdAdXr19dGJ1tNHBvr7) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [BALLA COI LUPI NELLA STALLA](https://open.spotify.com/album/4mF8RZSmhTnNujFm3YUIVH) | 3:48 | 2024-10-17 | 2024-11-15 |
-| [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 | 2024-09-27 |  |
+| [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Cutuogno](https://open.spotify.com/artist/6MDp21oVbuyy53sp1wG1ss) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 | 2024-09-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-10-04 |
 | [Buio](https://open.spotify.com/track/2kEesaNMfP5aXEeVUl5jCZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Buio](https://open.spotify.com/album/3UdbcAYQCwWRIOX2ADdCk4) | 2:55 | 2025-03-06 |  |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-10-25 |
@@ -50,6 +50,7 @@
 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 |  |
 | [Come no](https://open.spotify.com/track/10H2O7Rg5GdMjDXVcuxHXP) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Come no](https://open.spotify.com/album/2PjLX5cv86MOlpx7pI56gX) | 2:33 | 2024-06-27 | 2024-10-04 |
 | [Coming back from Marte](https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS) | 2:14 | 2024-12-12 | 2025-02-12 |
+| [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/track/7dIdSjLWQDaRI9jAa5XcvK) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/album/7zKDDlYZ1VVOFXWfC8EEB1) | 8:19 | 2025-03-13 |  |
 | [Copricolori](https://open.spotify.com/track/57oyHJP3okJUJHXB1eDcH3) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Pezzi Della Sera](https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9) | 3:47 | 2025-02-03 |  |
 | [Corriamo senza futuro](https://open.spotify.com/track/2Fku8rTogu9G0xd6r1J5kh) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Corriamo senza futuro](https://open.spotify.com/album/3EnPF5Rdj1rd5dDPMi0lHY) | 2:50 | 2024-06-27 | 2024-10-04 |
 | [Cosa Faremo Da Grandi?](https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Cosa Faremo Da Grandi?](https://open.spotify.com/album/0lVUjh0JQVfpUlengR8PwQ) | 3:00 | 2025-02-20 |  |
@@ -80,6 +81,7 @@
 | [Gangsta Story](https://open.spotify.com/track/6LaTDXwti80gtqeHqfTsx7) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [Gangsta Story](https://open.spotify.com/album/0mmVqF87bpTP5PtZcwT7EX) | 3:13 | 2024-09-13 | 2024-10-11 |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-06-27 | 2024-11-29 |
 | [Gatti](https://open.spotify.com/track/6j0MdDXIfJBAwjX0FBeJdW) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [POTREBBE NON AVERE PESO](https://open.spotify.com/album/4UyGhPNZ1O32lLapKTzhwx) | 3:18 | 2024-11-07 | 2024-12-06 |
+| [Generazione Triste](https://open.spotify.com/track/3ozMmJmMGzESQMlsTa3e2D) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Generazione Triste](https://open.spotify.com/album/2IXEgbGFbPOKKQBzWssRGt) | 2:37 | 2025-03-13 |  |
 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 | 2024-09-26 |  |
 | [Giura](https://open.spotify.com/track/2R5t2eZcBd0HTuthZChjSN) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Long Story Short](https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL) | 3:00 | 2024-06-27 | 2024-07-05 |
 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-10-17 |  |
@@ -136,6 +138,7 @@
 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 | 2024-11-14 | 2025-02-28 |
 | [MYROMANTICA](https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [MYROMANTICA](https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f) | 3:17 | 2025-01-16 |  |
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-06-27 | 2025-01-24 |
+| [Nevermind](https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Questa casa è un albergo](https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz) | 3:09 | 2025-03-13 |  |
 | [Nightmares](https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nightmares](https://open.spotify.com/album/4sSMvLcF71IS3RfB4yP0PN) | 3:21 | 2024-06-27 | 2024-12-06 |
 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 | 2025-01-02 |  |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 |  |
@@ -180,8 +183,10 @@
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-13 |  |
 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 | 2024-06-27 |  |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-08-16 |
+| [Sarebbe bello ve'](https://open.spotify.com/track/2bPR1yKjYwbFPYefuSddBS) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Sarebbe bello ve'](https://open.spotify.com/album/22Ca29HbzkEzK6zp8QSrxK) | 3:06 | 2025-03-13 |  |
 | [Sconosciuti](https://open.spotify.com/track/7G5MGUEldnk7eixgIjaeaY) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Sconosciuti](https://open.spotify.com/album/7fW7qpPuLWgge3SpBUUTlm) | 3:37 | 2025-01-16 | 2025-02-12 |
 | [Sconosciuti](https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:46 | 2024-11-07 | 2025-01-03 |
+| [Segreto](https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Chi È Nicola Felpieri?](https://open.spotify.com/album/6MyXSqkTazI56OSkxJNR4X) | 3:42 | 2025-03-13 |  |
 | [Sembra per Sempre](https://open.spotify.com/track/73LkdQY7M5kMSDWPiWs0Q1) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 4:30 | 2024-12-19 | 2025-01-17 |
 | [Senza di me](https://open.spotify.com/track/71ogrXoA23rHJ1LVFoNOk7) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Senza di me](https://open.spotify.com/album/1M92MZmztvndDnorR9wTsU) | 2:31 | 2024-12-26 | 2025-01-17 |
 | [Senza Stelle](https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Senza Stelle](https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC) | 2:52 | 2024-09-19 | 2024-10-18 |
@@ -220,6 +225,7 @@
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 | 2024-10-11 |
 | [Una storia](https://open.spotify.com/track/4XjqghtOHPBDD3o2QDjdR7) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Una storia](https://open.spotify.com/album/0Usiwih4bBfNaPqtBWMoGI) | 3:27 | 2025-02-27 | 2025-03-13 |
 | [Una vita normale](https://open.spotify.com/track/7KXiNcodDshozttV90Ensd) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:26 | 2024-10-24 |  |
+| [uomini contro insetti](https://open.spotify.com/track/1nHCgvMscCKhQt5finJKaW) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [uomini contro insetti](https://open.spotify.com/album/1hWIJhQHmnJWB3rmpX9vpD) | 4:32 | 2025-03-13 |  |
 | [Veleno](https://open.spotify.com/track/4w9pKLXVOmKkI3UOiRvOGM) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Veleno](https://open.spotify.com/album/0kivI9DqD5PzKGeh26HycU) | 3:19 | 2024-12-05 | 2025-01-10 |
 | [Venere](https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Venere](https://open.spotify.com/album/7eCTsM1ZpUo8PRbkJ6jAjP) | 3:39 | 2024-11-14 | 2024-12-20 |
 | [Via Ricordi](https://open.spotify.com/track/4U468A5OhnjqYVXPow7xfy) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/3yqQhXmHd7SKnz4pBOjApa) | 3:15 | 2025-01-09 | 2025-02-12 |

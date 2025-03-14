@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlucjkX5Dv.md) - [plain]
 
 > The songs that inspired Ronaldinho in the 2000s\. Handpicked by the Brazilian and Barça legend himself!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,113 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,118 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

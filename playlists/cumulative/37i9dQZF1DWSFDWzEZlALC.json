@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 162626,
       "name": "Aus dem Nichts",
       "url": "https://open.spotify.com/track/233zgukbOI7quzjK124SfJ"
@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "B\u00fcrotage",
+        "url": "https://open.spotify.com/album/1G2umA1ulYrDwVa7Kc6mXE"
+      },
+      "artists": [
+        {
+          "name": "Die H\u00f6chste Eisenbahn",
+          "url": "https://open.spotify.com/artist/2NnrINoqFoPEteJ6m1TR72"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201335,
+      "name": "B\u00fcrotage",
+      "url": "https://open.spotify.com/track/3Uhtuf8aJhIGYcH8sATMpi"
+    },
+    {
+      "album": {
         "name": "Cabrio",
         "url": "https://open.spotify.com/album/6iR835M2sCOVJWOsIHhGoE"
       },
@@ -3534,6 +3552,24 @@
       "duration_ms": 184762,
       "name": "Das Ende der Welt",
       "url": "https://open.spotify.com/track/2AGBN8LFzvKs3LTFR7wiE9"
+    },
+    {
+      "album": {
+        "name": "Das h\u00e4tte ich nie gedacht",
+        "url": "https://open.spotify.com/album/1KMN8O9FzZAvRDxyalmh3Z"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148556,
+      "name": "Das h\u00e4tte ich nie gedacht",
+      "url": "https://open.spotify.com/track/3UYaW1kYpOtxecpMVkBVFv"
     },
     {
       "album": {
@@ -5213,6 +5249,46 @@
     },
     {
       "album": {
+        "name": "Energie",
+        "url": "https://open.spotify.com/album/0FkM5177ByNLldITOwcY1y"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131753,
+      "name": "Energie",
+      "url": "https://open.spotify.com/track/5JCINGbIQ097r6OnrzrgyW"
+    },
+    {
+      "album": {
+        "name": "Enge Freunde",
+        "url": "https://open.spotify.com/album/0OL2zon0mjpQ1F7A6qnrWd"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        },
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179363,
+      "name": "Enge Freunde",
+      "url": "https://open.spotify.com/track/25wkEq7vZBVeLc5iVOZnLL"
+    },
+    {
+      "album": {
         "name": "Enten & Schweine",
         "url": "https://open.spotify.com/album/6dywNStumsvdVM5WnNMWMQ"
       },
@@ -5285,6 +5361,28 @@
     },
     {
       "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i"
+    },
+    {
+      "album": {
         "name": "ersterplatz",
         "url": "https://open.spotify.com/album/48ZvOk3LIgBW5IE3yfvZFf"
       },
@@ -5314,7 +5412,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 162794,
       "name": "erstewahl",
       "url": "https://open.spotify.com/track/6BgNaRs4Cm5F5keHvCcRMo"
@@ -6044,7 +6142,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 182960,
       "name": "Filme",
       "url": "https://open.spotify.com/track/2fwj4LVwBYfWpIuy3BeTZu"
@@ -6669,6 +6767,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr dich sind alle gleich",
+        "url": "https://open.spotify.com/album/0RdZ8lkucn88rhl0ey0DNa"
+      },
+      "artists": [
+        {
+          "name": "NNELLA",
+          "url": "https://open.spotify.com/artist/1BxL57Hm6Vuo7tmkEfAvQi"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198728,
+      "name": "F\u00fcr dich sind alle gleich",
+      "url": "https://open.spotify.com/track/0Hcbgbhpy4jrJMrJmUyCBS"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer",
         "url": "https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR"
       },
@@ -7096,7 +7212,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 173380,
       "name": "Geschichte schreiben",
       "url": "https://open.spotify.com/track/7bOEI9RdEHplCo7K4hsruk"
@@ -7396,6 +7512,24 @@
       "duration_ms": 163137,
       "name": "Gro\u00dfstadt",
       "url": "https://open.spotify.com/track/5uUxjP4KTYbAoXUwWst7pc"
+    },
+    {
+      "album": {
+        "name": "gro\u00dfstadtherz",
+        "url": "https://open.spotify.com/album/4c0tCDGLcFUKLVaBZbWuF5"
+      },
+      "artists": [
+        {
+          "name": "Heavent",
+          "url": "https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129934,
+      "name": "gro\u00dfstadtherz",
+      "url": "https://open.spotify.com/track/4O4bnVhIh1OLPELRb5DTna"
     },
     {
       "album": {
@@ -8931,6 +9065,24 @@
     },
     {
       "album": {
+        "name": "In der Stille liegt der Fluch",
+        "url": "https://open.spotify.com/album/2vl5RW32jDpe577GikzQi6"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246729,
+      "name": "In der Stille liegt der Fluch",
+      "url": "https://open.spotify.com/track/0M7f8Nixi0anbefH2Wdpjw"
+    },
+    {
+      "album": {
         "name": "In Der Zeit Verlieren",
         "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
       },
@@ -9294,7 +9446,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 161379,
       "name": "Jana",
       "url": "https://open.spotify.com/track/0NJ8C0C3ZXldUELdBKloX5"
@@ -9912,7 +10064,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 229524,
       "name": "Keine Tr\u00e4nen",
       "url": "https://open.spotify.com/track/2LF0FwKo05vCvVjSEgAleK"
@@ -10911,6 +11063,24 @@
     },
     {
       "album": {
+        "name": "LFDY",
+        "url": "https://open.spotify.com/album/4qdMdmlZMeuBaqzI4UT061"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "LFDY",
+      "url": "https://open.spotify.com/track/1tj0MXra7Sb4fnuH2KIaxx"
+    },
+    {
+      "album": {
         "name": "Lichtblick",
         "url": "https://open.spotify.com/album/0xCORZARvmRRlbRbHCJeii"
       },
@@ -11570,7 +11740,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184440,
       "name": "Mama, Papa",
       "url": "https://open.spotify.com/track/4DizO8xW9kqkPhbvt5Qf4k"
@@ -11646,7 +11816,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 179541,
       "name": "Manchmal",
       "url": "https://open.spotify.com/track/40ryzlNGOC0uFY9UoUeRsj"
@@ -11664,7 +11834,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 117055,
       "name": "Manchmal so, Manchmal so",
       "url": "https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g"
@@ -11820,6 +11990,28 @@
       "duration_ms": 140804,
       "name": "Maschinenmensch",
       "url": "https://open.spotify.com/track/6mnVuD8vAXH0hGPURlnJKF"
+    },
+    {
+      "album": {
+        "name": "Mauern",
+        "url": "https://open.spotify.com/album/3nrwpHVMJwsbFCmDYRZaJ0"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        },
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173852,
+      "name": "Mauern",
+      "url": "https://open.spotify.com/track/276Pdag6WBuYiXomxF53yO"
     },
     {
       "album": {
@@ -13050,7 +13242,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 146999,
       "name": "niemand",
       "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
@@ -13708,7 +13900,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 143132,
       "name": "parf\u00fcm",
       "url": "https://open.spotify.com/track/6WNFJfFbl3wteFQaoCORQu"
@@ -15049,6 +15241,24 @@
     },
     {
       "album": {
+        "name": "LEVIN LIAM LEAKS 2025",
+        "url": "https://open.spotify.com/album/4EM21MaOPc7LwPZPWUfEwv"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131315,
+      "name": "Sanduhr",
+      "url": "https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L"
+    },
+    {
+      "album": {
         "name": "Sch**\u00df Stadt",
         "url": "https://open.spotify.com/album/6TEsZ0v9ETwAFSDPLHoKDs"
       },
@@ -15220,6 +15430,24 @@
       "duration_ms": 168845,
       "name": "Schlaflied (feat. MELLER)",
       "url": "https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO"
+    },
+    {
+      "album": {
+        "name": "Schmetterling",
+        "url": "https://open.spotify.com/album/5VCEB0r7icAg0HMrglAAwT"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162529,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/4OAcROIqeWHDAf4y7JWZeT"
     },
     {
       "album": {
@@ -15744,7 +15972,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 133593,
       "name": "SEV",
       "url": "https://open.spotify.com/track/2tAS95Xdx1OtB3I1XlcZ0s"
@@ -16500,7 +16728,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 160621,
       "name": "sonnenbrand",
       "url": "https://open.spotify.com/track/60odu1d4jqMAw7kMpvpVV4"
@@ -17856,7 +18084,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 247560,
       "name": "Tr\u00e4um von dir",
       "url": "https://open.spotify.com/track/0fXqthbZNv9drezTvlJNpa"
@@ -20071,6 +20299,24 @@
     },
     {
       "album": {
+        "name": "wundersch\u00f6n",
+        "url": "https://open.spotify.com/album/4S6wMQKfcUq1hCj1wt7FVV"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164487,
+      "name": "wundersch\u00f6n",
+      "url": "https://open.spotify.com/track/2Bi7IhhjS7ZgzSe7FMaHs1"
+    },
+    {
+      "album": {
         "name": "Noema",
         "url": "https://open.spotify.com/album/1tYbdbaAvuoNszkC5FnDY8"
       },
@@ -20630,6 +20876,24 @@
       "duration_ms": 166389,
       "name": "zwischendrin verliebt",
       "url": "https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT"
+    },
+    {
+      "album": {
+        "name": "Zwischenphase",
+        "url": "https://open.spotify.com/album/191TZlivZyXydwrNA3vl04"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150217,
+      "name": "Zwischenphase",
+      "url": "https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T"
     },
     {
       "album": {

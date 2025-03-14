@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: Song Ga In(\uc1a1\uac00\uc778) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: Maijin(\ub9c8\uc774\uc9c4) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
   "tracks": [
     {
@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 234253,
       "name": "Float the Boat",
       "url": "https://open.spotify.com/track/06PX6EkFZ4xvr5KI6WGo9R"
@@ -5565,6 +5565,28 @@
     },
     {
       "album": {
+        "name": "THE GIFT OF DADDY-LONG-LEGS",
+        "url": "https://open.spotify.com/album/7gOlkt75QvX0rl1EkTalfm"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "Heung! (Feat. HAON)",
+      "url": "https://open.spotify.com/track/4VzQkVeV9vv65B4EZ1LYbU"
+    },
+    {
+      "album": {
         "name": "Kkondae Intern OST Part 6",
         "url": "https://open.spotify.com/album/2u0JMKwjFfjoNhszlSxpaG"
       },
@@ -6694,7 +6716,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 242093,
       "name": "If",
       "url": "https://open.spotify.com/track/2NY6OfNRMIeicSFMcMsiOL"
@@ -9154,7 +9176,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 186069,
       "name": "Man Who Left Me",
       "url": "https://open.spotify.com/track/2nVHBxjrX1euCiVq7zNIFg"
@@ -11636,6 +11658,24 @@
       "duration_ms": 215546,
       "name": "Real dandy",
       "url": "https://open.spotify.com/track/6vxDBzXSRekbK48PanHyF7"
+    },
+    {
+      "album": {
+        "name": "Recall of love",
+        "url": "https://open.spotify.com/album/2SO78fDXPOJbZi5rdADPkj"
+      },
+      "artists": [
+        {
+          "name": "Maijin",
+          "url": "https://open.spotify.com/artist/480TEjRCNTQTciI4zwu2Ov"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Recall of love",
+      "url": "https://open.spotify.com/track/7sSCxYrR80nc9J9xrASX2m"
     },
     {
       "album": {
@@ -15596,7 +15636,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 238413,
       "name": "Why Are You Crying",
       "url": "https://open.spotify.com/track/4L0R2975PAIs44c0CzEIiF"

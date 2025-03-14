@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Miguel Luz",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Filipe Karlsson",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -222,6 +222,24 @@
       "duration_ms": 309896,
       "name": "Any Way (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
+    },
+    {
+      "album": {
+        "name": "Festival da Can\u00e7\u00e3o 2025",
+        "url": "https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu"
+      },
+      "artists": [
+        {
+          "name": "bombazine",
+          "url": "https://open.spotify.com/artist/5u1k62yUtsOIqf1U4wIQ8N"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "Apago tudo",
+      "url": "https://open.spotify.com/track/0PV4jz1JE8gpqP3ZnkIOeG"
     },
     {
       "album": {
@@ -1694,10 +1712,32 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 163874,
       "name": "i wish i could",
       "url": "https://open.spotify.com/track/0gV38ZHVWVVNcyZzezQnV2"
+    },
+    {
+      "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
     },
     {
       "album": {
@@ -2100,7 +2140,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 309381,
       "name": "LIE DOWN..",
       "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
@@ -2144,6 +2184,24 @@
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
+    },
+    {
+      "album": {
+        "name": "Festival da Can\u00e7\u00e3o 2025",
+        "url": "https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu"
+      },
+      "artists": [
+        {
+          "name": "Capital da Bulg\u00e1ria",
+          "url": "https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/2fCWEwZoRdx3YhiiAlj4xp"
     },
     {
       "album": {
@@ -2462,7 +2520,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 196000,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/7w2LSq81dBqo6HACzV3odM"
@@ -2570,7 +2628,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 175120,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa"
@@ -2747,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "O Assunto",
+        "url": "https://open.spotify.com/album/5AdcDTBYy991LIdD7XurYh"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia",
+          "url": "https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "O Assunto",
+      "url": "https://open.spotify.com/track/3lxoADUhrYN6T2Ah7MdFtZ"
+    },
+    {
+      "album": {
         "name": "Off Guard",
         "url": "https://open.spotify.com/album/4osiR8Cp4GfsUfnPmSzvXX"
       },
@@ -2802,7 +2878,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
@@ -2838,7 +2914,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 145093,
       "name": "Orlando in Love",
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
@@ -2993,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Festival da Can\u00e7\u00e3o 2025",
+        "url": "https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas Marques Lucas",
+          "url": "https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178304,
+      "name": "Quantos Queres",
+      "url": "https://open.spotify.com/track/1hsZPuDq8uFjG8XrrEbRUi"
+    },
+    {
+      "album": {
         "name": "Que Fossem Flores",
         "url": "https://open.spotify.com/album/0JJ7Kh07P3wTT53XSp3IEh"
       },
@@ -3008,6 +3102,28 @@
       "duration_ms": 197267,
       "name": "Que Fossem Flores",
       "url": "https://open.spotify.com/track/7vLd3JDOS122fkiQQUQg41"
+    },
+    {
+      "album": {
+        "name": "Quem Foi? (Piano Version)",
+        "url": "https://open.spotify.com/album/67olLWuZZ0LJescxFjk2QF"
+      },
+      "artists": [
+        {
+          "name": "Luca Argel",
+          "url": "https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt"
+        },
+        {
+          "name": "Pri Azevedo",
+          "url": "https://open.spotify.com/artist/72PykpqsbT3XmUwPSpDg1u"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161242,
+      "name": "Quem Foi? - Piano Version",
+      "url": "https://open.spotify.com/track/6yd88iSGI2JwU1nsAD5bgI"
     },
     {
       "album": {
@@ -3048,6 +3164,24 @@
       "duration_ms": 195426,
       "name": "Quero Ficar",
       "url": "https://open.spotify.com/track/6D6L8OTG8uJOS22rAmHvlZ"
+    },
+    {
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
     },
     {
       "album": {
@@ -3697,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "album": {
         "name": "Fourteen Forty-Five",
         "url": "https://open.spotify.com/album/7bB3QRooFFLUhUSQSB4D1t"
       },
@@ -3798,7 +3950,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 200589,
       "name": "THINGS BEHIND THINGS BEHIND THINGS",
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
@@ -3976,7 +4128,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 255936,
       "name": "Um (outro) adeus portugu\u00eas",
       "url": "https://open.spotify.com/track/4W1IdwVeDxHvBAGnlSAQTb"
@@ -4012,7 +4164,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 198500,
       "name": "Um Lugar na Mouraria - G\u00e9mea Anal\u00f3gica",
       "url": "https://open.spotify.com/track/3Vro2KGZpxVvfaJrkQYdnk"
@@ -4042,6 +4194,24 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
+    },
+    {
+      "album": {
+        "name": "L\u00e1 Vem o Sol",
+        "url": "https://open.spotify.com/album/65cxxKUyvNlgzgDnH7dECm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Karlsson",
+          "url": "https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190390,
+      "name": "Vai e Vem",
+      "url": "https://open.spotify.com/track/05lq6K55VhJAFqjit5voto"
     },
     {
       "album": {

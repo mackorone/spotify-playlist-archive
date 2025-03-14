@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1077458,
+  "num_followers": 1077478,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Fuera de m\u00ed",
-      "url": "https://open.spotify.com/track/5XH286garUg3tcciTKR50O"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 261973,
       "name": "You Learn - Live / Unplugged",
       "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Fuera de m\u00ed",
+      "url": "https://open.spotify.com/track/5XH286garUg3tcciTKR50O"
     },
     {
       "added_at": "2021-02-10 21:16:07",

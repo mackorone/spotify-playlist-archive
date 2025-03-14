@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 12601,
+  "num_followers": 12619,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z899AAAAAAC+dvWO56AoGyru6Yd1ZU4a",
+  "snapshot_id": "Z9DOgAAAAADMFGBaVh8ttWqlhE2h+0jd",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta el Dia de Hoy",
+        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Hasta el Dia de Hoy",
+      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Tiempos Cambian",
         "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 186983,
       "name": "Escuela 4 Letras",
       "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta el Dia de Hoy",
-        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Hasta el Dia de Hoy",
-      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
     },
     {
       "added_at": null,

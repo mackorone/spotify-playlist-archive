@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 1722,
+  "num_followers": 1728,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z899AAAAAAD/Bpw6rxY+Pqq0TrZazr4/",
+  "snapshot_id": "Z9DOgAAAAAA38yVM4Z6v+l48R45uocPc",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Absent Minded",
-      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hind / Aska (Harpa Sessions)",
         "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 98000,
       "name": "Hind - Voiceless - Harpa Sessions",
       "url": "https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Absent Minded",
+      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
     },
     {
       "added_at": null,
@@ -430,11 +430,15 @@
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 212415,
-      "name": "Draumheimar",
-      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
+      "duration_ms": 120783,
+      "name": "Eldur",
+      "url": "https://open.spotify.com/track/4mhxSUqgONepu6dQ7gQR0p"
     },
     {
       "added_at": null,
@@ -464,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 84853,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
+      "duration_ms": 80085,
+      "name": "Flatey",
+      "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
     },
     {
       "added_at": null,
@@ -494,15 +498,11 @@
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 120783,
-      "name": "Eldur",
-      "url": "https://open.spotify.com/track/4mhxSUqgONepu6dQ7gQR0p"
+      "duration_ms": 212415,
+      "name": "Draumheimar",
+      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 80085,
-      "name": "Flatey",
-      "url": "https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r"
+      "duration_ms": 84853,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 173730,
-      "name": "S\u00e1lmur",
-      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
+      "duration_ms": 183240,
+      "name": "V\u00edsa",
+      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 183240,
-      "name": "V\u00edsa",
-      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
+      "duration_ms": 173730,
+      "name": "S\u00e1lmur",
+      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
     },
     {
       "added_at": null,

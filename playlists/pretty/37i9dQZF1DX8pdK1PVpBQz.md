@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,712 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,715 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 7 | [Smoke Signals](https://open.spotify.com/track/3VJgAKnUIjGsWsA9EXRwZ3) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Smoke Signals](https://open.spotify.com/album/3qR6kih8hlL4Zkb8XPb2Ks) | 5:20 |
 | 8 | [Safe in Body](https://open.spotify.com/track/1zVKzqW9W4VTjGyM674Nhn) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Safe In Body](https://open.spotify.com/album/6DQNi6muyTvrJCsguUFrit) | 3:19 |
 | 9 | [Successful Bisexual](https://open.spotify.com/track/7E77hZ0K5aN8B4jawllvlU) | [Tamara & the Dreams](https://open.spotify.com/artist/4QvGoRaJ9pQe1bO54477bt) | [Successful Bisexual](https://open.spotify.com/album/5jWJbylYRywHVdNrotX8vI) | 3:52 |
-| 10 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:33 |
+| 10 | [Margo](https://open.spotify.com/track/7ksb4APLjTOykHiRzPerRo) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Margo](https://open.spotify.com/album/5PcwxJr53UiLWEpMwNWFv5) | 2:34 |
 | 11 | [Drifting](https://open.spotify.com/track/0mD1fmYcIN3wupDtvBrKwY) | [Phoebe Rings](https://open.spotify.com/artist/6bU6vdMpAqDEoWsj8iUNEf) | [Drifting / Aseurai](https://open.spotify.com/album/6z3yq291VVHdPWiqSqoi5h) | 3:52 |
 | 12 | [Past Life](https://open.spotify.com/track/4xltSVuW1oEBr7jMiI4VLH) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Past Life](https://open.spotify.com/album/7IUV92EYofObhq0GMPAFVr) | 3:42 |
 | 13 | [Swimmers](https://open.spotify.com/track/5YloQyJnFt6KgntE3hbHZw) | [Casual Fan](https://open.spotify.com/artist/1ivH8IH6j1U7lCgkuYxoUa) | [Swimmers](https://open.spotify.com/album/5z0VYWhf2a73XGug8maapA) | 3:12 |

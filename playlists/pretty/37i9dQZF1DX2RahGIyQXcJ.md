@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover:  KR$NA
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,011 likes - 102 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,073 likes - 102 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 19 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
 | 20 | [AMSTERDAM](https://open.spotify.com/track/0l4J0ItMJu5RViPqZFthLm) | [Jamesy](https://open.spotify.com/artist/3Z3yPo3SbczpDs4FpY9ixA) | [RISKTAPE](https://open.spotify.com/album/58tPbamRoUkTyNFWLb9N7Q) | 3:00 |
 | 21 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |
-| 22 | [Floating \- Feat\. Future](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/2AIX0SAuoq693soUQY5i95), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
+| 22 | [Floating \- Feat\. Future](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
 | 23 | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/track/2pxr4j23Gwvjm6TQbyYU5O) | [Nio Endo](https://open.spotify.com/artist/4pEqatZJxCL2Lxb1wNhglR), [FIREBOY](https://open.spotify.com/artist/7vJedHr307srzF8IeAKWML) | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/album/3UNkctOEXdX2Rak9u8e6ed) | 2:39 |
 | 24 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 |
 | 25 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |

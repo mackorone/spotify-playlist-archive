@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/4LsmNvkjiYETzFCFfuShO6"
+      },
+      "artists": [
+        {
+          "name": "Menout",
+          "url": "https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r"
+        },
+        {
+          "name": "Deny Hanz",
+          "url": "https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128159,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/7oaggiKDvE3qjGYoUWECcY"
+    },
+    {
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },

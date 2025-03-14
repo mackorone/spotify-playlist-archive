@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-1,832 songs - 3 day 16 hr 4 min
+1,836 songs - 3 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Death n' Taxes](https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Death n' Taxes](https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE) | 2:31 | 2022-05-03 | 2022-07-19 |
 | [Deer in Headlights](https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Deer in Headlights](https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp) | 3:29 | 2023-11-07 | 2024-01-10 |
 | [Defame Moi](https://open.spotify.com/track/15zbdT98jFyZO2MFg1rbqD) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 1:45 | 2023-04-29 | 2023-06-24 |
+| [desktop](https://open.spotify.com/track/7dKJ93JA57oFlFk0yWnc4p) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:32 | 2025-03-13 |  |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-14 | 2024-10-05 |
 | [Devilish](https://open.spotify.com/track/1LHQzcIzi0tKdfzYdkT2JY) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Devilish](https://open.spotify.com/album/3NXbeM5YvGITtvY6CTSxFt) | 3:22 | 2020-10-23 | 2021-05-03 |
 | [Didn't Have To](https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Didn't Have To](https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg) | 2:20 | 2024-07-12 |  |
@@ -420,6 +421,7 @@
 | [Disbeliever](https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL) | 1:55 | 2022-07-22 | 2022-11-10 |
 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-02-27 | 2022-11-17 |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2023-02-25 |
+| [Divorce](https://open.spotify.com/track/2m0M2WKieMv9w4RP7R4P8v) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Divorce](https://open.spotify.com/album/62bSghYpxgNPzSVD9gUfNL) | 3:31 | 2025-03-13 |  |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 | 2022-05-10 |
 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 | 2023-03-24 | 2023-10-21 |
 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 | 2023-04-26 | 2023-07-22 |
@@ -895,6 +897,7 @@
 | [Lately,](https://open.spotify.com/track/08Ivl0uOeI7Eaf7Nwk6Vtw) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Lately,](https://open.spotify.com/album/3D9OAJ5avQ7pig7qEbSrgR) | 2:46 | 2022-03-03 | 2022-04-10 |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-09-14 | 2022-02-12 |
 | [Lavender Town](https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Lavender Town](https://open.spotify.com/album/4brjWTy34iHnVEmiDk8bUc) | 3:00 | 2024-07-31 | 2024-10-05 |
+| [Lay Lo](https://open.spotify.com/track/2zttOF7t7fHcXS9vt3q7dD) | [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Lay Lo](https://open.spotify.com/album/1VPGc2NpfAweVCxTwD2t0X) | 3:05 | 2025-03-13 |  |
 | [LAZLO](https://open.spotify.com/track/1ioQB7MPbC4JmBWGdluV9N) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [LAZLO](https://open.spotify.com/album/7dqc9XrM9gZfUYIJpTos3C) | 3:00 | 2021-10-05 | 2022-03-01 |
 | [LAZLO](https://open.spotify.com/track/7rzilYGHOALcoBYllOmOYx) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [RACEWAY: THE WISDOM OF INSECURITY](https://open.spotify.com/album/23QeslK3ZYpvMRUhddZfzB) | 3:00 | 2022-02-28 | 2022-11-09 |
 | [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 | 2023-01-27 | 2024-06-01 |
@@ -1152,7 +1155,7 @@
 | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN) | 2:41 | 2022-04-15 | 2022-05-24 |
 | [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Opaul](https://open.spotify.com/album/7GkpKBGqHwo8SgHtIUhhHv) | 2:20 | 2020-10-13\* | 2020-11-03 |
 | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW) | 4:06 | 2022-10-14 | 2023-06-07 |
-| [Open Up!](https://open.spotify.com/track/7gP1Jb8a2GfnrOWnAlvP8Q) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Open Up!](https://open.spotify.com/album/5BNodmT6yNYY9A5YUa3hd2) | 4:46 | 2024-06-28 |  |
+| [Open Up!](https://open.spotify.com/track/7gP1Jb8a2GfnrOWnAlvP8Q) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Open Up!](https://open.spotify.com/album/5BNodmT6yNYY9A5YUa3hd2) | 4:46 | 2024-06-28 | 2025-03-14 |
 | [options](https://open.spotify.com/track/25OHd4BcTuhkeDCxKuCFAm) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [options](https://open.spotify.com/album/5oMug9PYFxLqmj5wstpWgc) | 2:29 | 2020-11-13 | 2021-10-13 |
 | [Otherside](https://open.spotify.com/track/4j2NqbXSEc7AUdHwxYx2XZ) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [Otherside](https://open.spotify.com/album/0bh1Merk5blDsVVSSvTRZw) | 2:35 | 2021-11-19 | 2022-03-04 |
 | [OTT](https://open.spotify.com/track/6g33zvMOjqKjbVLQ6bKdSA) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [OTT](https://open.spotify.com/album/2Nc2elxVPXWGzv0kgzXFhI) | 2:40 | 2020-10-13\* | 2020-11-03 |
@@ -1207,6 +1210,7 @@
 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 | 2023-03-17 | 2024-06-15 |
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-03-02 |
 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 | 2022-01-21 | 2022-03-03 |
+| [Piece Of Cake](https://open.spotify.com/track/2bV5gCcpUl5HkRaQOz6pik) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles](https://open.spotify.com/album/2KGxa1nak2X1o3l5bqYmCA) | 3:16 | 2025-03-13 |  |
 | [PILOT](https://open.spotify.com/track/6p2RUPU8EUHfdNq4hnGX0B) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [JUST MY LUCK](https://open.spotify.com/album/71PRKOPWHQpHkIZim7bE99) | 3:51 | 2022-06-24 | 2022-11-09 |
 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2022-11-30 | 2023-03-02 |
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-06 | 2021-10-13 |

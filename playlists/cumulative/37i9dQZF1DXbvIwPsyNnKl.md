@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Dreycruz, Bert Symoun
 
-237 songs - 13 hr 25 min
+238 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [BAI NA BAI](https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV) | [Jae Bourgeoisie](https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na), [Izey Bleu](https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t) | [BAI NA BAI](https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD) | 2:35 | 2023-11-08 | 2024-02-29 |
 | [Bakante](https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT) | [Omar Baliw](https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K), [Rhyne](https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4) | [Bakante](https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO) | 4:04 | 2024-10-15 | 2024-12-26 |
 | [Balagbag](https://open.spotify.com/track/3s1BMSp0yxKDbTo6MDeueq) | [Don Pao](https://open.spotify.com/artist/7HnBKbjSa10sPCoX3HMp8Z), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Martial Lao](https://open.spotify.com/album/2NU7PW7QQdrrGDwDIUZxk6) | 4:47 | 2024-10-17 | 2025-01-02 |
+| [BINI MALOI](https://open.spotify.com/track/2Ia1oPvRunyLOdMXEZtro0) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [BINI MALOI](https://open.spotify.com/album/0dqdAUibDaGocFnCWBhlgb) | 2:01 | 2025-03-13 |  |
 | [Binibini](https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Binibini](https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp) | 2:34 | 2024-06-12 | 2024-08-15 |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 | 2024-02-22 |
 | [BLKN](https://open.spotify.com/track/2Hz7cjuVTYAaydpHg60g9H) | [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [BLKN](https://open.spotify.com/album/09hU9mWpc5dbEGvegmRKzL) | 3:21 | 2025-01-22 | 2025-02-20 |
@@ -190,7 +191,7 @@
 | [Sagana o Salat](https://open.spotify.com/track/4aXOIE1x8ZjHuiA1g6dTyz) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm) | [Propesiya EP](https://open.spotify.com/album/3xllKLisyhUZhpzGThJ8x0) | 4:09 | 2024-03-13 | 2024-04-24 |
 | [Sakin ka](https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [Sakin ka](https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r) | 4:29 | 2024-10-02 |  |
 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-04 | 2025-01-30 |
-| [SAPATOS KO](https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [SAPATOS KO](https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS) | 3:09 | 2024-12-18 |  |
+| [SAPATOS KO](https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [SAPATOS KO](https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS) | 3:09 | 2024-12-18 | 2025-03-14 |
 | [Section Y](https://open.spotify.com/track/5W6KCJ0pUFQgFyMrBYqKbw) | [NPS](https://open.spotify.com/artist/4xvIpBKhlz4aKtZvSc2Rc2), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [Section Y](https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb) | 6:57 | 2024-02-28 | 2024-06-13 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-09-20 | 2023-10-19 |
 | [SHAKE](https://open.spotify.com/track/4NnmCGyfZYE50geEwOUoo7) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [SHAKE](https://open.spotify.com/album/57kIwmgt1i3V2KpC1dKtTY) | 2:01 | 2025-01-01 |  |

@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "arches",
+        "url": "https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183916,
+      "name": "arches",
+      "url": "https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5"
+    },
+    {
+      "album": {
         "name": "Are You Out There",
         "url": "https://open.spotify.com/album/01uIomsf3OpfVR0KiikG29"
       },
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"

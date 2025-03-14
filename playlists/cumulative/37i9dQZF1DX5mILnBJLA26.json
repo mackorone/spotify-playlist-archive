@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/43u6aZHgPYfR36lpHCrkdb?si=G_O9VVXCRf2L_A2fILvjGQ\">Ggoldie</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=aUM1xzotQaK5EbROiXS9fQ\">Cyfred</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -3169,6 +3169,64 @@
     },
     {
       "album": {
+        "name": "Ba Rata Monate (feat. Shebeshxt, Scotts Maphuma, Tyler ICU, Tebogo G Mashego, Matute Boy, De Soul, Sello Sebotsane & Ceeka RSA)",
+        "url": "https://open.spotify.com/album/5hlUgikkLdXVHliL42Zaxd"
+      },
+      "artists": [
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Naqua SA",
+          "url": "https://open.spotify.com/artist/4ZBGTuegA9imRSv755wQVe"
+        },
+        {
+          "name": "Caltonic SA",
+          "url": "https://open.spotify.com/artist/17GosBGcjmcVVy4M6NBwQ9"
+        },
+        {
+          "name": "Shebeshxt",
+          "url": "https://open.spotify.com/artist/4bDFUYafgZILBp9Yv71mCS"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Tebogo G Mashego",
+          "url": "https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM"
+        },
+        {
+          "name": "Matute Boy",
+          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
+        },
+        {
+          "name": "De Soul",
+          "url": "https://open.spotify.com/artist/7MC6QpkwcMnPCBfyaF1vBW"
+        },
+        {
+          "name": "Sello Sebotsane",
+          "url": "https://open.spotify.com/artist/3bJTytUTc4hdHSCfqTs88O"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368582,
+      "name": "Ba Rata Monate (feat. Shebeshxt, Scotts Maphuma, Tyler ICU, Tebogo G Mashego, Matute Boy, De Soul, Sello Sebotsane & Ceeka RSA)",
+      "url": "https://open.spotify.com/track/4FWOGP7oWP2OQpzv0z3pyQ"
+    },
+    {
+      "album": {
         "name": "Ba Straata",
         "url": "https://open.spotify.com/album/2kTW8SQzsbrQwoLkctS8ze"
       },
@@ -3652,7 +3710,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 351478,
       "name": "Balimele",
       "url": "https://open.spotify.com/track/4oAuqjuAV5OiJv4aI8B6CL"
@@ -18700,7 +18758,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 454503,
       "name": "MaDlamini (feat. Mellow & Sleazy)",
       "url": "https://open.spotify.com/track/0X5qaCnHN98ELiqincjJwg"
@@ -19564,6 +19622,36 @@
       "duration_ms": 364729,
       "name": "Mapakisha",
       "url": "https://open.spotify.com/track/7pJTZZvLgtcJUdpaKWzyUq"
+    },
+    {
+      "album": {
+        "name": "Maqondana (feat. Zeenhle)",
+        "url": "https://open.spotify.com/album/47HxbT72ZrOz5GKjI8BxCz"
+      },
+      "artists": [
+        {
+          "name": "Cyfred",
+          "url": "https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4"
+        },
+        {
+          "name": "Sayfar",
+          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Zeenhle",
+          "url": "https://open.spotify.com/artist/00g1AgWeVmHaFLLMghMfwE"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359264,
+      "name": "Maqondana (feat. Zeenhle)",
+      "url": "https://open.spotify.com/track/1WqkkJlR44KA6uwJnbAQEu"
     },
     {
       "album": {

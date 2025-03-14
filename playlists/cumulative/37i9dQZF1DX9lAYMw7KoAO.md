@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn?si=zjUvrifvSVysFqZUimgxnQ>Nathaniel Bassey</a> and <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=\-ojC\_HqsTYaUE4cvVJYQHQ>Moses Bliss</a>
 
-448 songs - 1 day 15 hr 17 min
+449 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [KAZI YA MIKONO YAKO](https://open.spotify.com/track/1nDx1zxdIOAV5FcX1FqFAv) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [ALBUM 17](https://open.spotify.com/album/4WoahTaBd4IJWTWcpW0bNw) | 4:23 | 2023-03-31 | 2023-04-28 |
 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-30 | 2023-08-18 |
 | [Kontolola](https://open.spotify.com/track/2dYmyML3ddn1hjFMpBVA4o) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Bwana](https://open.spotify.com/album/7Evf9VZScUSWGooJH5WXiZ) | 4:55 | 2023-03-31 | 2023-05-05 |
-| [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2023-06-23 |  |
+| [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2023-06-23 | 2025-03-14 |
 | [Koseunti](https://open.spotify.com/track/6IKW8iElgDeWsiFr0yD0rI) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/2ydA7cM5XeT7OWkJzgsQjZ) | 4:23 | 2024-12-04 | 2024-12-20 |
 | [Kulu Down](https://open.spotify.com/track/27O2ebDiwX3Xo265b795eD) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Kulu Down](https://open.spotify.com/album/6H1OrJt1M8dbHrhj2jVFA8) | 2:37 | 2023-08-25 | 2023-09-01 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-06-23 |  |
@@ -448,6 +448,7 @@
 | [You love me](https://open.spotify.com/track/4AJFre4XBXr8VxLVNtKIvB) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [You love me](https://open.spotify.com/album/580YbKDKOnMFXYjLn6RSrU) | 4:06 | 2023-04-14 | 2023-06-23 |
 | [You Make Us Whole \- The Gathering Of Worshippers / Live At Loftus Stadium](https://open.spotify.com/track/3xeFcJt2THRyLTsk5uJLeH) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Make Us Whole \(The Gathering Of Worshippers / Live At Loftus Stadium\)](https://open.spotify.com/album/6oy0EXRb3vpMDfonoCY2yz) | 8:20 | 2020-01-31 | 2023-04-14 |
 | [You Won't Let Go](https://open.spotify.com/track/24xD6bOm52s91STHDkoaPU) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [ISRAEL MBONYI Deluxe](https://open.spotify.com/album/0uzd2og0hgUlrpa79gaaIk) | 13:13 | 2023-03-31 | 2023-05-26 |
+| [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 | 2025-03-14 |  |
 | [Your Love](https://open.spotify.com/track/0ltMnxhyBcM098XxNSoWIA) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Your Love](https://open.spotify.com/album/7E80pfo8z86qIedJCbe2i1) | 3:21 | 2023-08-25 | 2023-09-01 |
 | [Your Love](https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP) | [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Your Love](https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU) | 3:01 | 2023-05-05 | 2023-05-19 |
 | [Your Majesty](https://open.spotify.com/track/1cNwtKvurBgKUzO4fqJRBR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 3:27 | 2023-12-31 | 2024-01-04 |

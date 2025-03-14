@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1997168,
+  "num_followers": 1997327,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
       },
       "artists": [
         {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+          "name": "Gabriel Morais Jr",
+          "url": "https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb"
+        },
+        {
+          "name": "Ayla Nova",
+          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
         }
       ],
-      "duration_ms": 182254,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR"
+      "duration_ms": 151525,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -451,22 +455,18 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd"
       },
       "artists": [
         {
-          "name": "Gabriel Morais Jr",
-          "url": "https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb"
-        },
-        {
-          "name": "Ayla Nova",
-          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
         }
       ],
-      "duration_ms": 151525,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
+      "duration_ms": 182254,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
+        "name": "Barracudas EP",
+        "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 253098,
+      "name": "Barracudas",
+      "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
-        "name": "Barracudas EP",
-        "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 253098,
-      "name": "Barracudas",
-      "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
-      },
-      "artists": [
-        {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
-        }
-      ],
-      "duration_ms": 207549,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
         "name": "No Stress in Cres",
         "url": "https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef"
       },
@@ -967,8 +951,24 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "duration_ms": 207549,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
+      "duration_ms": 148020,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
         }
       ],
-      "duration_ms": 148020,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA"
+      "duration_ms": 148000,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Waiting For",
-        "url": "https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji"
-      },
-      "artists": [
-        {
-          "name": "Eijk",
-          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
-        },
-        {
-          "name": "CLOVER",
-          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
         "name": "In Deep",
         "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 167576,
       "name": "listen love",
       "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "Waiting For",
+        "url": "https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji"
+      },
+      "artists": [
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "duration_ms": 144915,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "The right mood",
-        "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
-      },
-      "artists": [
-        {
-          "name": "Alan Devale",
-          "url": "https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "The right mood",
-      "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
         "name": "Beau",
         "url": "https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 152618,
       "name": "Beau",
       "url": "https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "The right mood",
+        "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
+      },
+      "artists": [
+        {
+          "name": "Alan Devale",
+          "url": "https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "The right mood",
+      "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
-      },
-      "artists": [
-        {
-          "name": "Sunmoon",
-          "url": "https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
         "name": "Curvature",
         "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 153027,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
+      },
+      "artists": [
+        {
+          "name": "Sunmoon",
+          "url": "https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
-      },
-      "artists": [
-        {
-          "name": "N\u00e4ver",
-          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
         "name": "The Screen",
         "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 197113,
       "name": "The Screen",
       "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4ver",
+          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Looking For the Answer",
-        "url": "https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4"
-      },
-      "artists": [
-        {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
-        }
-      ],
-      "duration_ms": 302939,
-      "name": "Looking For the Answer",
-      "url": "https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32"
-    },
-    {
-      "added_at": "2025-02-07 05:00:21",
-      "album": {
         "name": "Alike / Surface",
         "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 182267,
       "name": "Gekk\u014d",
       "url": "https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "Looking For the Answer",
+        "url": "https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        }
+      ],
+      "duration_ms": 302939,
+      "name": "Looking For the Answer",
+      "url": "https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2025-02-07 05:00:21",
       "album": {
-        "name": "Unhappy Alien",
-        "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
+        "name": "Mukiwa",
+        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
       },
       "artists": [
         {
-          "name": "Not Tudor",
-          "url": "https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Unhappy Alien",
-      "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
+      "duration_ms": 258124,
+      "name": "Mukiwa",
+      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
     }
   ],
   "unique_name": "Chillout Lounge",

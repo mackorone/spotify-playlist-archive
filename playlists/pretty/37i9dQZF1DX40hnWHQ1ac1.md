@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,138 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,203 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain]
 | 2 | [Pandora's Box](https://open.spotify.com/track/5OcucU4xdFb8nhoSS7Gj8f) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 2:36 |
 | 3 | [방화 \(Arson\)](https://open.spotify.com/track/54R0aKDvKRwciGanyJRS1Q) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 2:39 |
 | 4 | [STOP \(세상에 나쁜 사람은 없다\)](https://open.spotify.com/track/6oh1ZPr1XSVoRq7F2zyDGv) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 2:02 |
-| 5 | [message from j\-hope 1](https://open.spotify.com/track/3cPPHC8D5RazZyDxCqACvt) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 2:09 |
+| 5 | [message from j\-hope 1](https://open.spotify.com/track/3cPPHC8D5RazZyDxCqACvt) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 5:27 |
 | 6 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 |
 | 7 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
 | 8 | [lock / unlock \(with benny blanco & Nile Rodgers\)](https://open.spotify.com/track/3aKXtIPNRoD73KLpsNnNoK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:01 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40hnWHQ1ac1.md) - [plain]
 | 24 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 |
 | 25 | [message from j\-hope 4](https://open.spotify.com/track/5hD6VGZn6Ez7eLhngrwx3P) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 7:49 |
 | 26 | [Hope World](https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:24 |
-| 27 | [= \(Equal Sign\)](https://open.spotify.com/track/1aj2QjvasLKgRU9WBGHfS5) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 1:54 |
-| 28 | [message from j\-hope 5](https://open.spotify.com/track/7FHoj8UQYH5RPzG9bBuqqH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 2:31 |
+| 27 | [message from j\-hope 5](https://open.spotify.com/track/7FHoj8UQYH5RPzG9bBuqqH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 2:31 |
+| 28 | [= \(Equal Sign\)](https://open.spotify.com/track/1aj2QjvasLKgRU9WBGHfS5) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 1:54 |
 | 29 | [Future](https://open.spotify.com/track/5DMjG8KWIgDpROLAunoVic) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 2:19 |
 | 30 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 |
 
-Snapshot ID: `Z9FVKQAAAAC7MGqQBizP4nTvxumWwxbE`
+Snapshot ID: `Z9JxewAAAAAyhOj41u998JJvPmT/YqzY`

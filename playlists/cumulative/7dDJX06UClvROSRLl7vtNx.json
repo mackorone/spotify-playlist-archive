@@ -10791,6 +10791,32 @@
     },
     {
       "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4sLn7l3YLpwxfTpAB6wvBF"
+      },
+      "artists": [
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125283,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX"
+    },
+    {
+      "album": {
         "name": "Ocean Away",
         "url": "https://open.spotify.com/album/6luPWN2S06fb7Af18Hybrw"
       },

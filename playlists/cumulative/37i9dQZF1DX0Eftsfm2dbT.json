@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "7+1=\u221e",
+        "url": "https://open.spotify.com/album/11geLDd15YIn0agekmVeul"
+      },
+      "artists": [
+        {
+          "name": "Kojoe",
+          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102352,
+      "name": "7+1=\u221e",
+      "url": "https://open.spotify.com/track/3dzbttIKNyY0EZBRe0YFzK"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/4SZS9RZ90ANoMUCMUcuICm"
       },
@@ -27914,7 +27932,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 199998,
       "name": "Urban Freestyle",
       "url": "https://open.spotify.com/track/33C0s3VSn2VisEN2zBbdiK"
@@ -28338,6 +28356,24 @@
       "duration_ms": 123103,
       "name": "Vocal effect (feat. Dumbperson)",
       "url": "https://open.spotify.com/track/1spz8SyXv1IdzeQT0vlEiN"
+    },
+    {
+      "album": {
+        "name": "PARAVOX -Original Soundtrack-",
+        "url": "https://open.spotify.com/album/3oF0RgyvgqVX3QxID3H2rQ"
+      },
+      "artists": [
+        {
+          "name": "COE Choppa Capone",
+          "url": "https://open.spotify.com/artist/5HRfZ3oZtnwaaYSt5hge5S"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113360,
+      "name": "Voxers",
+      "url": "https://open.spotify.com/track/7iyCCy5g5NgEcyyN2gCkiz"
     },
     {
       "album": {
@@ -30534,7 +30570,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 186136,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044vibe",
       "url": "https://open.spotify.com/track/7LHlOQQhanxVLYor7azO7z"
@@ -31231,6 +31267,44 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
+        "url": "https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186835,
+      "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
+      "url": "https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30ea\u30b1\u30f3",
         "url": "https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db"
       },
@@ -31410,7 +31484,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 176987,
       "name": "\u30de\u30eb\u30fc\u30f3\u30ec\u30c3\u30c9\u96fb\u8eca",
       "url": "https://open.spotify.com/track/7dMw9aBZwrs7llmwPOxrjj"

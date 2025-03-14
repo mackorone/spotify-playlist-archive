@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1205665,
+  "num_followers": 1205814,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Singles 1965-1967",
+        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 275840,
+      "name": "We Love You - Stereo Version",
+      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Born To Be Wild (Best Of....)",
         "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 348560,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Alone Again Or",
-      "url": "https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb"
     }
   ],
   "unique_name": "Psychedelic Rock",

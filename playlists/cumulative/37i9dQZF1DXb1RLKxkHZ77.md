@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Tenxi, Jemsii, Naykilla
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadeera
 
 651 songs - 1 day 16 hr 46 min
 

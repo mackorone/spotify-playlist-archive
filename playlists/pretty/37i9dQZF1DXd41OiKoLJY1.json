@@ -1,13 +1,465 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Ben Figueroa Artwork: Isu Kim\n",
-  "num_followers": 64695,
+  "description": "Fresh releases from your future favorite artists. Cover: hannah Artwork: Isu Kim\n",
+  "num_followers": 64729,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8nGpgAAAAD048oXzdgcNlJRY9ta04gl",
+  "snapshot_id": "Z9MBDwAAAADsizPekLIINudo0+wVtIW2",
   "tracks": [
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0yyfM5OpLTqufjhW8uRX1o"
+      },
+      "artists": [
+        {
+          "name": "Erin Galadriel",
+          "url": "https://open.spotify.com/artist/2Vdh38tMMIVNRhnOFO2BGt"
+        }
+      ],
+      "duration_ms": 247682,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/1LCdBn1kyMHqmZem7THoec"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Larawan",
+        "url": "https://open.spotify.com/album/3XARO9hODVmLRGVGX5w1gC"
+      },
+      "artists": [
+        {
+          "name": "Rangel",
+          "url": "https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi"
+        }
+      ],
+      "duration_ms": 202944,
+      "name": "Larawan",
+      "url": "https://open.spotify.com/track/7KGw4emQ399EbF331j3b6d"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "most of my days",
+        "url": "https://open.spotify.com/album/5brDa5qd7oWK1ToftFYQW8"
+      },
+      "artists": [
+        {
+          "name": "hannah",
+          "url": "https://open.spotify.com/artist/1z8xpMytTRVaNqDKJ3AAk2"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "most of my days",
+      "url": "https://open.spotify.com/track/1it2w6r5rqq1NcNUg695Mz"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Manika",
+        "url": "https://open.spotify.com/album/4Kx3tlFc6XUq3PWZsqiGOs"
+      },
+      "artists": [
+        {
+          "name": "Ode To Mars",
+          "url": "https://open.spotify.com/artist/6etJcEI2w59O6B0PDsMS8U"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Manika",
+      "url": "https://open.spotify.com/track/1KYLo4qh5v5MdGMQRx8lmq"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Pangarap",
+        "url": "https://open.spotify.com/album/2zI5RpXKhse2c21Ivj2GNI"
+      },
+      "artists": [
+        {
+          "name": "Telling Mi' Mismo",
+          "url": "https://open.spotify.com/artist/19JMTYIPIGz6d1aBKeCKeY"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "duration_ms": 275541,
+      "name": "Pangarap",
+      "url": "https://open.spotify.com/track/7ruRNCC0QX2cozuY3j2ueu"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/6YLbUJWQWPoEwBInDro61c"
+      },
+      "artists": [
+        {
+          "name": "Soy",
+          "url": "https://open.spotify.com/artist/5yx0yIITSCGPXfk01piLHr"
+        },
+        {
+          "name": "OLUV",
+          "url": "https://open.spotify.com/artist/2VI6rqipzrNh4heDfDCO7C"
+        },
+        {
+          "name": "Klow",
+          "url": "https://open.spotify.com/artist/7bDdxAA8Dy0CZ1WyDDInJE"
+        }
+      ],
+      "duration_ms": 220155,
+      "name": "Kung Alam Mo Lang",
+      "url": "https://open.spotify.com/track/32a03rKHEQ2KRULdrQ3e39"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Sarili",
+        "url": "https://open.spotify.com/album/5hqvf8sZmj2Vsbes1ScCqg"
+      },
+      "artists": [
+        {
+          "name": "Fitz Shioda",
+          "url": "https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj"
+        }
+      ],
+      "duration_ms": 271304,
+      "name": "Sarili",
+      "url": "https://open.spotify.com/track/4oYQ7p3V7vVeGTp923Iubb"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Wala Na Bang Pag-Ibig",
+        "url": "https://open.spotify.com/album/54nv5S60r2dH7txwFVuNhR"
+      },
+      "artists": [
+        {
+          "name": "Nyx Nasal",
+          "url": "https://open.spotify.com/artist/0brNUm2buprvbW4nuo9FwV"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Wala Na Bang Pag-Ibig",
+      "url": "https://open.spotify.com/track/41ctiRPr6BZnZF1noPHimB"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Sa Mundong Malamig",
+        "url": "https://open.spotify.com/album/1gSLVyixIJoJFhonhH7JXh"
+      },
+      "artists": [
+        {
+          "name": "JAVES",
+          "url": "https://open.spotify.com/artist/7Cmszjpa8qNjTsYt9hlUUM"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Sa Mundong Malamig",
+      "url": "https://open.spotify.com/track/17sdtENqySqMPgaMbvwXDn"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "SISIG + RICE",
+        "url": "https://open.spotify.com/album/6BkyCCOJwlmb7C6x7qyrBD"
+      },
+      "artists": [
+        {
+          "name": "grd mln",
+          "url": "https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY"
+        }
+      ],
+      "duration_ms": 99016,
+      "name": "SISIG + RICE",
+      "url": "https://open.spotify.com/track/67zTF5t87DmLG2PS52QF3N"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "brand new",
+        "url": "https://open.spotify.com/album/1K7ubdIBgj0BxPJexy6iwt"
+      },
+      "artists": [
+        {
+          "name": "deyo",
+          "url": "https://open.spotify.com/artist/5bF9hgr4Q88TwENK5D32Vq"
+        },
+        {
+          "name": "YNGVIE",
+          "url": "https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "brand new",
+      "url": "https://open.spotify.com/track/6TB7WE7rOnposS3q2UT1cg"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Tanong Pt. 2",
+        "url": "https://open.spotify.com/album/4xdZtfvNtL3nWkZMO8QAxL"
+      },
+      "artists": [
+        {
+          "name": "Carish",
+          "url": "https://open.spotify.com/artist/3OeiqjQLg0Nnm1xLVpmydn"
+        }
+      ],
+      "duration_ms": 273177,
+      "name": "Tanong Pt. 2",
+      "url": "https://open.spotify.com/track/5lSSthqEtaVC3ZVGYvpSMs"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Sinaryo",
+        "url": "https://open.spotify.com/album/2IwPHvwjXfJLtXqmxp6kFW"
+      },
+      "artists": [
+        {
+          "name": "Sinaryo",
+          "url": "https://open.spotify.com/artist/5vvGMq0NltruioZQDGD3la"
+        }
+      ],
+      "duration_ms": 316899,
+      "name": "Irish",
+      "url": "https://open.spotify.com/track/614VvdVh7nQ9g5JPXo2rc2"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "In the Mood",
+        "url": "https://open.spotify.com/album/6iP69zlfim6PKYkPinAIzM"
+      },
+      "artists": [
+        {
+          "name": "Nicolah Lim",
+          "url": "https://open.spotify.com/artist/43ywpLSwNUAoeckDAuBdhF"
+        },
+        {
+          "name": "Opera Belles",
+          "url": "https://open.spotify.com/artist/1zbfgoxkM7wnRsQVeTPV1o"
+        }
+      ],
+      "duration_ms": 170377,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/5j6wG6X1w09ISbVFIw7Ooi"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/3IidmNGjk37GbGxUeOK2Dt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Quiroz",
+          "url": "https://open.spotify.com/artist/3JHUaCkHkPsWR0T5QpgafS"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/2NaGfqQTBz9FMyIOgjPuVo"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Worcestershire Sauce",
+        "url": "https://open.spotify.com/album/7uSnTg4hjRLgQlHI8lR8ay"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "J-High",
+          "url": "https://open.spotify.com/artist/1LeJipaNrP1vJ0Ru45fvlP"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "Worcestershire Sauce",
+      "url": "https://open.spotify.com/track/1pAxXG4lHNlXw1mGobJc2A"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "SLIDE THRU",
+        "url": "https://open.spotify.com/album/2KPlSUh2Cr77XUbd3AzlG5"
+      },
+      "artists": [
+        {
+          "name": "CoassideLazy",
+          "url": "https://open.spotify.com/artist/6YCE8Cccbdqk1dmI3DjT2m"
+        },
+        {
+          "name": "OG Presko",
+          "url": "https://open.spotify.com/artist/3JfCT6OJ0gBsOw0VbKKOJd"
+        }
+      ],
+      "duration_ms": 252056,
+      "name": "SLIDE THRU",
+      "url": "https://open.spotify.com/track/6T7Pdk1iHsGDbJyYsvOzg7"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/6MAtVYVDdXHtxglARgLkrW"
+      },
+      "artists": [
+        {
+          "name": "Outlaw",
+          "url": "https://open.spotify.com/artist/0jNrRdYjohMhGATDefAdGM"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/6y4ntiQXFoQfX4mknRCQbb"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Panahon Now",
+        "url": "https://open.spotify.com/album/3NrSXPkJoC66HMwOcYGopB"
+      },
+      "artists": [
+        {
+          "name": "Narda",
+          "url": "https://open.spotify.com/artist/2vFv0PmWbguvDUOEdEHr0f"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Panahon Now",
+      "url": "https://open.spotify.com/track/6vCZTWcBYStm35Q1UDPife"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Sige Sayaw",
+        "url": "https://open.spotify.com/album/7F8F6f4vaDbSeQU7Sy2b1R"
+      },
+      "artists": [
+        {
+          "name": "Karilyo",
+          "url": "https://open.spotify.com/artist/2fBkutcY7ngRZYc6AV6aiz"
+        }
+      ],
+      "duration_ms": 194608,
+      "name": "Sige Sayaw",
+      "url": "https://open.spotify.com/track/0UE7A4eNVRJ71MJkw9B8tA"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Bedroom Party",
+        "url": "https://open.spotify.com/album/1pDzBWJavljjPlQLAWbYsI"
+      },
+      "artists": [
+        {
+          "name": "D.Vaughn",
+          "url": "https://open.spotify.com/artist/72NyT9DftCiklzvlKN6lIO"
+        }
+      ],
+      "duration_ms": 190029,
+      "name": "Bedroom Party",
+      "url": "https://open.spotify.com/track/2HAFTqVPNRMh3utPaJOw4Z"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/1gxK5KOvlhFZSNWk1lMvVz"
+      },
+      "artists": [
+        {
+          "name": "Malena Leonard",
+          "url": "https://open.spotify.com/artist/0lPMwxyqfgMx585GQpJ09A"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7Jo0O6UwsT3CbarNQaM9xN"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/7mjDMXsyiEpiHoWUai2YtN"
+      },
+      "artists": [
+        {
+          "name": "JY",
+          "url": "https://open.spotify.com/artist/3QCJGwp2dI1HbJFPktaYHu"
+        },
+        {
+          "name": "Maro Ignacio",
+          "url": "https://open.spotify.com/artist/6jE4xHJbmYMz6uqY8b15xk"
+        }
+      ],
+      "duration_ms": 267762,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6TN15RFvfavKdkeADFAZfs"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/3S3mNFrGgNAvWfFkLGNoZ7"
+      },
+      "artists": [
+        {
+          "name": "KREY",
+          "url": "https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy"
+        }
+      ],
+      "duration_ms": 227875,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/6q10bmTD8bI5dS1mdpx18o"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "BAKIT HINDI PA NGAYON?",
+        "url": "https://open.spotify.com/album/0etzCEaCzlJs0EFIRrk5U5"
+      },
+      "artists": [
+        {
+          "name": "JYN",
+          "url": "https://open.spotify.com/artist/6PU5tCDqS56iAy8eEDumNR"
+        },
+        {
+          "name": "NICOLO MENDOZA",
+          "url": "https://open.spotify.com/artist/0gJwVdFaiT5w0pUVBQM6tq"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "BAKIT HINDI PA NGAYON?",
+      "url": "https://open.spotify.com/track/3zjGbASTjZpgswcbuiALdy"
+    },
+    {
+      "added_at": "2025-03-13 16:00:15",
+      "album": {
+        "name": "(Life in Parenthesis)",
+        "url": "https://open.spotify.com/album/3r9HrEIROYMknOZ56XWSw4"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Zubiri",
+          "url": "https://open.spotify.com/artist/7hYTGQTPWe83vCza935TDi"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "(Life in Parenthesis)",
+      "url": "https://open.spotify.com/track/0T85vwx6wCLth3TO21uCXw"
+    },
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {

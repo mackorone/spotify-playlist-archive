@@ -4,12 +4,13 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=JStfUNLrT5uP8CVC\_Twf5A>Ebuka Songs</a>
 
-476 songs - 1 day 21 hr 52 min
+477 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ADN Du Très Haut](https://open.spotify.com/track/5GC90DIyNa10RJADEyOKaP) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Allégeance](https://open.spotify.com/album/6zlphDHcJp4Qen4eZ8qxHW) | 2:42 | 2025-02-07 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-12-05 | 2023-12-11 |
+| [Agaracha](https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:57 | 2025-03-07 |  |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 | 2025-01-01 |
 | [Ajakola](https://open.spotify.com/track/3mFTP1OpdAA3bgz3pTcISP) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Justine Nabbosa](https://open.spotify.com/artist/3ajkMpWlRRf2j3XkFJYZfu) | [Ajakola](https://open.spotify.com/album/44CUHBYHKwT05ixgwPjDRM) | 4:25 | 2024-05-08 | 2024-05-10 |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-08-26 |
@@ -324,7 +325,7 @@
 | [Omemma \- Live, Bonus Track](https://open.spotify.com/track/6jvWoirlwA4ombS2SQavCe) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Live at Easter](https://open.spotify.com/album/6uq1EUA0TbYLSWqe1uHjqV) | 6:41 | 2023-12-05 | 2023-12-11 |
 | [Omeriwo \- Live](https://open.spotify.com/track/5yUtkRKz11EYRYipfxh3dz) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Joy Uche\-Ogbonna](https://open.spotify.com/artist/60T9Ke2E4PbgxNxbNClPTz), [Lilian Collins](https://open.spotify.com/artist/6RGhZFa3dJuQVqpYVVslt4) | [Omeriwo \(Live\)](https://open.spotify.com/album/7zvHicIdn5XBO2sHl2evPz) | 5:55 | 2023-12-05 | 2023-12-11 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-10-14 | 2022-11-05 |
-| [Omo Ologo](https://open.spotify.com/track/4UUmFTIQ85NLmpE4zY6cZV) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Omo Ologo](https://open.spotify.com/album/3wPlAUxRz6GmuPOst8JhHw) | 2:14 | 2025-02-07 |  |
+| [Omo Ologo](https://open.spotify.com/track/4UUmFTIQ85NLmpE4zY6cZV) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Omo Ologo](https://open.spotify.com/album/3wPlAUxRz6GmuPOst8JhHw) | 2:14 | 2025-02-07 | 2025-03-14 |
 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 | 2023-06-16 |
 | [On my way](https://open.spotify.com/track/4YuvSP7S31IQuUwcBWgskb) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:48 | 2024-05-03 | 2024-07-05 |
 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-26 | 2024-07-27 |

@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 152913,
+  "num_followers": 152920,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
+        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -135,22 +151,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
-        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "De P\u00e9 No Ch\u00e3o",
         "url": "https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6"
       },
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "O Canto da Cidade",
-        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "O Canto da Cidade",
-      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Tribal Bahia",
-        "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
-      },
-      "artists": [
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Margarida Perfumada (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "A M\u00fasica do Olodum",
         "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
       },
@@ -283,18 +263,38 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+        "name": "Tribal Bahia",
+        "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
+      "duration_ms": 307880,
+      "name": "Margarida Perfumada (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "L\u00e1 Vem O Guarda",
+        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
+      },
+      "artists": [
+        {
+          "name": "Luiz Caldas",
+          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
+        }
+      ],
+      "duration_ms": 215065,
+      "name": "Haja Amor",
+      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "L\u00e1 Vem O Guarda",
-        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
-      },
-      "artists": [
-        {
-          "name": "Luiz Caldas",
-          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
-        }
-      ],
-      "duration_ms": 215065,
-      "name": "Haja Amor",
-      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Pra Abalar",
         "url": "https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 242226,
       "name": "Alo Paixao",
       "url": "https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Swing da Cor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Rapunzel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "A M\u00fasica do Olodum",
         "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
       },
@@ -455,22 +439,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Gera\u00e7\u00e3o Pop",
-        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Eu tamb\u00e9m quero beijar",
-      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
       },
@@ -487,6 +455,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Gera\u00e7\u00e3o Pop",
+        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Eu tamb\u00e9m quero beijar",
+      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Minha Historia",
         "url": "https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 222693,
       "name": "Meia Lua Inteira",
       "url": "https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Rapunzel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "A M\u00fasica Do Olodum - 20 Anos",
+        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Balanc\u00ea",
-      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+      "duration_ms": 183333,
+      "name": "Nossa Gente (Avisa L\u00e1)",
+      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Balanc\u00ea",
+      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Nightingale",
         "url": "https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 264306,
       "name": "Maracatu At\u00f4mico",
       "url": "https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "A M\u00fasica Do Olodum - 20 Anos",
-        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Nossa Gente (Avisa L\u00e1)",
-      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
     },
     {
       "added_at": "2023-03-06 22:48:04",

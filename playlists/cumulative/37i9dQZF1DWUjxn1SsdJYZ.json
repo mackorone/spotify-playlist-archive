@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: YNG Martyr",
+  "description": "The best new AUS & NZ Rap. Cover: That Kid Kearve",
   "name": "Local Hype",
   "tracks": [
     {
@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/0VV0blZFLGT5LoOJ0dByDt"
+      },
+      "artists": [
+        {
+          "name": "Manu Crooks",
+          "url": "https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/2xi8fPr6hzHRJhZr1CCAAh"
+    },
+    {
+      "album": {
         "name": "All I wanna do is rock",
         "url": "https://open.spotify.com/album/2cdQKOiFM9gxo6Ud2HdXZH"
       },
@@ -1134,6 +1152,24 @@
       "duration_ms": 144000,
       "name": "ARMY OF DEAD",
       "url": "https://open.spotify.com/track/1GOvffkotVFfzv8wlo4UDq"
+    },
+    {
+      "album": {
+        "name": "Ashtray",
+        "url": "https://open.spotify.com/album/2EqTIsXXlpQmIGw5rBpfAr"
+      },
+      "artists": [
+        {
+          "name": "Faceless 1-7",
+          "url": "https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69951,
+      "name": "Ashtray",
+      "url": "https://open.spotify.com/track/0yiObfZwoyauC7nRI0giO2"
     },
     {
       "album": {
@@ -2258,7 +2294,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 183092,
       "name": "BL@CKBOX Freestyle",
       "url": "https://open.spotify.com/track/6lX4y72wLIGY1lGOQ5pwvk"
@@ -2674,7 +2710,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 157168,
       "name": "BOSSIN'",
       "url": "https://open.spotify.com/track/27jnzUW6AKDSFfM2p7eZ6v"
@@ -4018,7 +4054,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 140468,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/7uf24GQ7ZkbIWF9tj4YZf5"
@@ -8138,7 +8174,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 180923,
       "name": "Hasta Luego",
       "url": "https://open.spotify.com/track/1SPrtadIGOE7PtaLeRMVsF"
@@ -10167,6 +10203,24 @@
     },
     {
       "album": {
+        "name": "KILOMETRES",
+        "url": "https://open.spotify.com/album/2dmrYUFfKRtXqLw5NmBGL1"
+      },
+      "artists": [
+        {
+          "name": "Lavez",
+          "url": "https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151856,
+      "name": "KILOMETRES",
+      "url": "https://open.spotify.com/track/69fl0MPm3xy9KaxOd88uxf"
+    },
+    {
+      "album": {
         "name": "King Brown",
         "url": "https://open.spotify.com/album/0aSL47w8GTdd6Sx5rjYE0t"
       },
@@ -10886,6 +10940,24 @@
       "duration_ms": 124878,
       "name": "LIED TO MY FACE",
       "url": "https://open.spotify.com/track/2V7vvwuyjat8IchV9EbxcD"
+    },
+    {
+      "album": {
+        "name": "life is lifing",
+        "url": "https://open.spotify.com/album/6FV9Mf8u37VtQ53SU0X7AO"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "life is lifing",
+      "url": "https://open.spotify.com/track/4f8LUMm8uhYDZa8yFHTit3"
     },
     {
       "album": {
@@ -14300,7 +14372,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 139380,
       "name": "osiris",
       "url": "https://open.spotify.com/track/2pO2stWzOokgwrVgXF1MCn"
@@ -14605,6 +14677,42 @@
     },
     {
       "album": {
+        "name": "PAIN",
+        "url": "https://open.spotify.com/album/4yOvBzuJdZrUWWAjZY4DAm"
+      },
+      "artists": [
+        {
+          "name": "BLESSED",
+          "url": "https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "PAIN",
+      "url": "https://open.spotify.com/track/6DNXpJ8xCIGcvMApIJp4xr"
+    },
+    {
+      "album": {
+        "name": "Palm Demon",
+        "url": "https://open.spotify.com/album/3ebHl2wLnScrMve74zEAiV"
+      },
+      "artists": [
+        {
+          "name": "Stt Laurentt",
+          "url": "https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "Palm Demon",
+      "url": "https://open.spotify.com/track/2lHO3E1kuD52zSqzczZ1m7"
+    },
+    {
+      "album": {
         "name": "Pandora's Box",
         "url": "https://open.spotify.com/album/5weOitquNRodNh9k9kacsM"
       },
@@ -14754,6 +14862,24 @@
       "duration_ms": 192000,
       "name": "Payday",
       "url": "https://open.spotify.com/track/30DwyjRdWbvFlIR2TvdXcs"
+    },
+    {
+      "album": {
+        "name": "PEACEKEEPER",
+        "url": "https://open.spotify.com/album/6RS7Kc866a8vDGngEISwYT"
+      },
+      "artists": [
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177578,
+      "name": "PEACEKEEPER",
+      "url": "https://open.spotify.com/track/3FkW4IK2pJAo88d2Dzbjg7"
     },
     {
       "album": {
@@ -15328,7 +15454,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 145822,
       "name": "Prosper",
       "url": "https://open.spotify.com/track/2USl0tpvAqqqpjqqfpFJXs"
@@ -16216,7 +16342,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 127883,
       "name": "Risk It",
       "url": "https://open.spotify.com/track/3AvMZvajDQ9TOdxxdDthkB"
@@ -16494,6 +16620,28 @@
       "duration_ms": 203125,
       "name": "RUMOURS",
       "url": "https://open.spotify.com/track/7nMKFLHD6PrCFkOzz2uaxv"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4I65GU6VDolGzbv9E8NeQn"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        },
+        {
+          "name": "Lui Mill",
+          "url": "https://open.spotify.com/artist/0nn83CEnoSAKJrX9z2xPQj"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3OcRJhiDOT0SmM5LDj5xOi"
     },
     {
       "album": {
@@ -17558,7 +17706,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 125889,
       "name": "small circle big checks!",
       "url": "https://open.spotify.com/track/6lSojAEcaDlp9IbVXRzAA5"
@@ -18710,6 +18858,24 @@
       "duration_ms": 208455,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0smjjXdyFwV9P2Qu53zkUn"
+    },
+    {
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/3KBFCAEvRQpKDDoVpCg16K"
+      },
+      "artists": [
+        {
+          "name": "Bliss n Eso",
+          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212338,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/3P9jZNvTay6BIePiRhXj7L"
     },
     {
       "album": {

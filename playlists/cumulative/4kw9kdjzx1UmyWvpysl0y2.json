@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221720,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv"
+    },
+    {
+      "album": {
         "name": "AGONIZE",
         "url": "https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx"
       },

@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297130,
+  "num_followers": 297131,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
     {
       "added_at": "2025-03-12 23:00:10",
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+    },
+    {
+      "added_at": "2025-03-12 23:00:10",
+      "album": {
         "name": "Fuck A Friendzone 2",
         "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
       },
@@ -235,22 +255,18 @@
     {
       "added_at": "2025-03-12 23:00:10",
       "album": {
-        "name": "JADED",
-        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+        "name": "Need U To Need Me",
+        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 166954,
-      "name": "I Do (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
+      "duration_ms": 167000,
+      "name": "Need U To Need Me",
+      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
     },
     {
       "added_at": "2025-03-12 23:00:10",
@@ -275,22 +291,6 @@
       "duration_ms": 191503,
       "name": "Soft (feat. Chl\u00f6e & Halle) [Unlocked]",
       "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
-    },
-    {
-      "added_at": "2025-03-12 23:00:10",
-      "album": {
-        "name": "Need U To Need Me",
-        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Need U To Need Me",
-      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
     },
     {
       "added_at": "2025-03-12 23:00:10",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-03-12 23:00:10",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "AAA",
-      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
-    },
-    {
-      "added_at": "2025-03-12 23:00:10",
-      "album": {
         "name": "HIGHER",
         "url": "https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 181066,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/1PqvFkb8ui6dkMFXUky8Sv"
+    },
+    {
+      "added_at": "2025-03-12 23:00:10",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
     },
     {
       "added_at": "2025-03-12 23:00:10",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-03-12 23:00:10",
       "album": {
-        "name": "Waiting On You",
-        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Waiting On You",
-      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
-    },
-    {
-      "added_at": "2025-03-12 23:00:10",
-      "album": {
         "name": "BACK ON MY FEET",
         "url": "https://open.spotify.com/album/0xYw6xQVrBXEVQ3Hg0HqWC"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 139200,
       "name": "BACK ON MY FEET",
       "url": "https://open.spotify.com/track/7cM96RpP6SZ7Vm5TLUEsRP"
+    },
+    {
+      "added_at": "2025-03-12 23:00:10",
+      "album": {
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
     },
     {
       "added_at": "2025-03-12 23:00:10",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-03-12 23:00:10",
       "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
+    },
+    {
+      "added_at": "2025-03-12 23:00:10",
+      "album": {
         "name": "Happier Song",
         "url": "https://open.spotify.com/album/0Xvx3N7EyvkQCdo41XVk7w"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 144628,
       "name": "Happier Song",
       "url": "https://open.spotify.com/track/176QZKsUDHCf2Vp8wUZeI9"
-    },
-    {
-      "added_at": "2025-03-12 23:00:10",
-      "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
     },
     {
       "added_at": "2025-03-12 23:00:10",

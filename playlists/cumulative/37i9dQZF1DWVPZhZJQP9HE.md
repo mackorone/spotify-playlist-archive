@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-648 songs - 1 day 14 hr 11 min
+649 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Maagamaaga Nee](https://open.spotify.com/track/31RulhRU3qYzKdYUja9JHj) | [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Maagamaaga Nee](https://open.spotify.com/album/1fVDFKq7iKsghZKx9tK6CT) | 4:25 | 2023-10-10 | 2024-04-19 |
 | [Maaran Ambu](https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Sindhuja Ganapathy](https://open.spotify.com/artist/05bCSt2cfm7afEvkoWKqdM), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 2:54 | 2022-05-06 | 2022-08-12 |
 | [Maaratha](https://open.spotify.com/track/4P925v6rzm2z44dvO3PfFA) | [Joseph Selvam Jabin](https://open.spotify.com/artist/6py2Rlpssqme51MNtCe0LY) | [Maaratha](https://open.spotify.com/album/5k9uhn6PZjW02bnYfUZhrb) | 3:47 | 2022-08-23 | 2022-11-17 |
-| [Maari](https://open.spotify.com/track/43rxUTHmw64fS0vZ5msssH) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Mesbah Ghamsari](https://open.spotify.com/artist/4JGAKcI3rKaMJTZmZNbtPd) | [Maari](https://open.spotify.com/album/5KJ758pypwNH7bnHlZ61q9) | 3:00 | 2025-02-07 |  |
+| [Maari](https://open.spotify.com/track/43rxUTHmw64fS0vZ5msssH) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Mesbah Ghamsari](https://open.spotify.com/artist/4JGAKcI3rKaMJTZmZNbtPd) | [Maari](https://open.spotify.com/album/5KJ758pypwNH7bnHlZ61q9) | 3:00 | 2025-02-07 | 2025-03-14 |
 | [Maaya Arivai \- Remix](https://open.spotify.com/track/1AXcnHTuFnoanimGHrSroC) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01) | [Maaya Arivai \(Remix\)](https://open.spotify.com/album/3R0rrxE7ZltdYSiBhprJv8) | 1:37 | 2022-08-05 | 2023-02-07 |
 | [Maaya Manam \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/2lolmZqq2TfxCcT9zrLzXK) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js) | [Maaya Manam \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/2t4wxicl1HaL9OG8Q06b8s) | 3:26 | 2023-07-14 | 2024-08-13 |
 | [Maayam Seithaai Poovae \- From "Think Indie"](https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Maayam Seithaai Poovae \(From "Think Indie"\)](https://open.spotify.com/album/6yjQ1vNDcwSsXp1VFKpezr) | 4:04 | 2022-05-05 | 2022-10-11 |
@@ -526,6 +526,7 @@
 | [She](https://open.spotify.com/track/58HUT7xifgToUC45ol5YsI) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Lost In Your Love](https://open.spotify.com/album/5XeSjQGfJiI8kJ9jjvO1Gl) | 3:00 | 2023-02-09 | 2023-08-03 |
 | [Sila Naalai](https://open.spotify.com/track/0mqRWtlpot25AjLWpTrz5h) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sila Naalai](https://open.spotify.com/album/6f275rNLlNviCg4DfstYpS) | 4:32 | 2023-10-20 | 2024-04-19 |
 | [Sila Naalai](https://open.spotify.com/track/5shrA3OgSbbvpyiIKA174Y) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sila Naalai](https://open.spotify.com/album/4zQvSjEKARV2R8qiG0Gcac) | 4:32 | 2023-10-20 |  |
+| [SILK CADBURY](https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [SILK CADBURY](https://open.spotify.com/album/5wQ4smkI6sPNA2EdwqfwY8) | 2:20 | 2025-03-13 |  |
 | [Siragu](https://open.spotify.com/track/12g1n6nQSnIjf8UNq7nwnc) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Siragu](https://open.spotify.com/album/7F5bScEtT8WzIcnng6d85U) | 3:12 | 2023-06-16 | 2024-08-13 |
 | [Siragukal](https://open.spotify.com/track/71JsLclzOWuItFYo6qbI6Z) | [ML Sudharsun](https://open.spotify.com/artist/7qShjZOQN4jHHdkXamhLhC), [Sanjay Romauld](https://open.spotify.com/artist/06LNABO6f8L8bO9gWCrjoq) | [Siragukal](https://open.spotify.com/album/5lVz8dbskvLAdpHdD34MWX) | 3:57 | 2023-01-20 | 2023-04-04 |
 | [Sirikkiriye \- From "Azhagi"](https://open.spotify.com/track/0yZgCSrAQ2TF06H31LJLdB) | [Praveen Ram](https://open.spotify.com/artist/6HyAuuOnTQuz48aHvCAAa7), [Praveen Gunendran](https://open.spotify.com/artist/1AXchzqueZFYKft4uSMMzC) | [Sirikkiriye \(From "Azhagi"\)](https://open.spotify.com/album/7kHdcZPNjizrptjbl31GSo) | 3:42 | 2022-09-12 | 2023-02-07 |

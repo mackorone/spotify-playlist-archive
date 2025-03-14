@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Chimbita",
+        "url": "https://open.spotify.com/album/43eryQivpY07mW42LUkJu1"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130766,
+      "name": "Chimbita",
+      "url": "https://open.spotify.com/track/1YNEfc1XUXKoR12dsHL1OI"
+    },
+    {
+      "album": {
         "name": "COCO",
         "url": "https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r"
       },

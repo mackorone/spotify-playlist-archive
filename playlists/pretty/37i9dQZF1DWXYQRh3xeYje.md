@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,372 likes - 64 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,437 likes - 64 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
-| 2 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 |
+| 1 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 |
+| 2 | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 3 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 | 4 | [怪獣の花唄](https://open.spotify.com/track/5vsHrZWigs6aoWKjFZx3AL) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:44 |
 | 5 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 | 63 | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/episode/03yf6TTvBy8kCWPag62ri6) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/show/1sDdqqD0Jmj1OHNs6gzjmd) | [Vaundy \- 泣き地蔵 \(NakiJizo\) \- Go Stream Live ver.](https://open.spotify.com/album/1sDdqqD0Jmj1OHNs6gzjmd) | 2:31 |
 | 64 | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/episode/2iuqnb0rniyc3s6esNvt8I) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/show/0zJicfToSO1vQvsr0n5mmI) | [Vaundy \- 不可幸力 \(Fukakoryoku\) \- Go Stream Live ver.](https://open.spotify.com/album/0zJicfToSO1vQvsr0n5mmI) | 3:20 |
 
-Snapshot ID: `Z8kZFgAAAACUQH9Tjb/9XVGqy2fSFGpj`
+Snapshot ID: `Z9K9OQAAAAAMunnyO0cmIgd2M10Z2okt`

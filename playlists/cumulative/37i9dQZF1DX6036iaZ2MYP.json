@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Joeboy",
+  "description": "Tracks popping off in the Afro scene. Cover:  Ruger",
   "name": "Afro Station",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 213593,
       "name": "2 Paranoid (feat. Ronisia)",
       "url": "https://open.spotify.com/track/4JGhu3crxX4NUdOmvzyhR3"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 181600,
       "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
       "url": "https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6"
@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/0fWgG7vdLxWOOJZSKGKARN"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155555,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/5CfdyTuRzNFQyURSWFRBJZ"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/2HWVA1WrbftVD71PPy4WwG"
       },
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 167933,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1dSWxiAta2Khk71alwiI68"
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 196595,
       "name": "C'est confirm\u00e9",
       "url": "https://open.spotify.com/track/24i7GLlRxXdnyFoYKIPodd"
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 159294,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
@@ -5140,7 +5158,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 158400,
       "name": "Gear",
       "url": "https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU"
@@ -5754,6 +5772,28 @@
       "duration_ms": 136948,
       "name": "I FEEL FOR YA",
       "url": "https://open.spotify.com/track/1pPphDvF5z2BeUyAD1qgxn"
+    },
+    {
+      "album": {
+        "name": "i think i love you 2",
+        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
+      },
+      "artists": [
+        {
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "i think i love you 2",
+      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
     },
     {
       "album": {
@@ -7077,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Lib\u00e9rer",
+        "url": "https://open.spotify.com/album/2MvX5t6t9uKOVf9uZ03iUY"
+      },
+      "artists": [
+        {
+          "name": "Kurtys",
+          "url": "https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Lib\u00e9rer",
+      "url": "https://open.spotify.com/track/1DZpgpWAzUZ9BuL0si2qSb"
+    },
+    {
+      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -7136,6 +7194,24 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
+    },
+    {
+      "album": {
+        "name": "Like Home (feat. Teni)",
+        "url": "https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198414,
+      "name": "Like Home (feat. Teni)",
+      "url": "https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT"
     },
     {
       "album": {
@@ -7930,7 +8006,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 136981,
       "name": "Many Many",
       "url": "https://open.spotify.com/track/0ou5JIjvsztWUEPnsB2Pyy"
@@ -9229,6 +9305,28 @@
     },
     {
       "album": {
+        "name": "Juste un Vendredi",
+        "url": "https://open.spotify.com/album/4PEmo8y2wO77HbJniDoAk0"
+      },
+      "artists": [
+        {
+          "name": "Diane Dddd",
+          "url": "https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193001,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/1vGvRiSzARAfvfVVcQ4JhX"
+    },
+    {
+      "album": {
         "name": "NO PLASTIC",
         "url": "https://open.spotify.com/album/0N9BQ259WqvW6ZX0aEY9q3"
       },
@@ -9346,6 +9444,28 @@
       "duration_ms": 139473,
       "name": "Nouveau Dossier",
       "url": "https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF"
+    },
+    {
+      "album": {
+        "name": "Nyash",
+        "url": "https://open.spotify.com/album/0AC6NOg0zsesoxhWnTUhHh"
+      },
+      "artists": [
+        {
+          "name": "DJ P2N",
+          "url": "https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN"
+        },
+        {
+          "name": "The Gucci",
+          "url": "https://open.spotify.com/artist/3O1lIvIcDzKIooiGxGf565"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222955,
+      "name": "Nyash",
+      "url": "https://open.spotify.com/track/5ODAaPhmmLTzNV6uVMg09X"
     },
     {
       "album": {
@@ -9760,7 +9880,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 142973,
       "name": "Only U",
       "url": "https://open.spotify.com/track/69dbq3SQ9bHDK0qxD2mWUz"
@@ -10138,7 +10258,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 155435,
       "name": "Pas sommeil",
       "url": "https://open.spotify.com/track/39Zgz37I1hgEQ9pZ6itNJh"
@@ -12323,6 +12443,24 @@
     },
     {
       "album": {
+        "name": "It'll All Make Sense Later (Deluxe)",
+        "url": "https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150576,
+      "name": "Taste of Ya",
+      "url": "https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC"
+    },
+    {
+      "album": {
         "name": "Taxi Driver",
         "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
       },
@@ -12724,6 +12862,24 @@
       "duration_ms": 148273,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/6IAPVBbwl09PPHLWMJ9vuk"
+    },
+    {
+      "album": {
+        "name": "Toro - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194436,
+      "name": "Toro - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
     },
     {
       "album": {
@@ -13408,6 +13564,32 @@
       "duration_ms": 164827,
       "name": "Warning!",
       "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
+    },
+    {
+      "album": {
+        "name": "Was I Not The Man",
+        "url": "https://open.spotify.com/album/6FyFOP9E1j5yrjZScRBaeG"
+      },
+      "artists": [
+        {
+          "name": "IRIE SESSIONS",
+          "url": "https://open.spotify.com/artist/2GGYWtloD2KYh0Ha6cAjsJ"
+        },
+        {
+          "name": "Niels",
+          "url": "https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg"
+        },
+        {
+          "name": "Chopstix",
+          "url": "https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190997,
+      "name": "Was I Not The Man",
+      "url": "https://open.spotify.com/track/7EoCbKG6YVd2Zez4ERoHf1"
     },
     {
       "album": {

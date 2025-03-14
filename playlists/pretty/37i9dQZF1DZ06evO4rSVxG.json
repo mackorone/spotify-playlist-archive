@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 13020,
+  "num_followers": 13371,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z899AAAAAABdfM5+JkeVroMolmtkkGuX",
+  "snapshot_id": "Z9DOgAAAAAAymE4GEnuTfo4jBAjGjcaL",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "Sky's The Limit",
+      "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 346066,
       "name": "Annie May",
       "url": "https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
-      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 278706,
-      "name": "Sky's The Limit",
-      "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
+      "duration_ms": 255133,
+      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
+      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thump's Hottest Party Hits",
-        "url": "https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S"
-      },
-      "artists": [
-        {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
-        },
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Whatever U Want",
-      "url": "https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 177454,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thump's Hottest Party Hits",
+        "url": "https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S"
+      },
+      "artists": [
+        {
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Whatever U Want",
+      "url": "https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv"
     },
     {
       "added_at": null,

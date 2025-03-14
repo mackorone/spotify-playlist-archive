@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Richy Mitch & The Coal Miners
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,094 likes - 114 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,138 likes - 114 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

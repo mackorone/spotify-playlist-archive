@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "description": "The best French indie tracks right now. Cover : TheFrenchKris",
   "name": "Made in France",
   "tracks": [
     {
@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Citron",
+        "url": "https://open.spotify.com/album/1asKuOHTA7Ps1PRLfMjS6I"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205566,
+      "name": "Citron",
+      "url": "https://open.spotify.com/track/0S8xh81souCXhlkILDEkUk"
+    },
+    {
+      "album": {
         "name": "Club de c\u0153ur",
         "url": "https://open.spotify.com/album/4iuZaYn8392UjS5rTcPZIY"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 149130,
       "name": "Destruction",
       "url": "https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 198000,
       "name": "Echo",
       "url": "https://open.spotify.com/track/7aQfuGKbdDyTK1JCYzK4NJ"
@@ -4223,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "Human Race",
+        "url": "https://open.spotify.com/album/4KDVtCo3HqL1QHrSmx4uH0"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127138,
+      "name": "Human Race",
+      "url": "https://open.spotify.com/track/0kqLwnIhgshbOHgT4ni8sf"
+    },
+    {
+      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj"
       },
@@ -4438,6 +4474,24 @@
       "duration_ms": 157293,
       "name": "Insomnie",
       "url": "https://open.spotify.com/track/0T9wtwG6ZJNgeqBBiGrwGK"
+    },
+    {
+      "album": {
+        "name": "BLABLABLA",
+        "url": "https://open.spotify.com/album/01ht1SDPr9znFswq69J66Y"
+      },
+      "artists": [
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Instant magique",
+      "url": "https://open.spotify.com/track/4Rq211xDDfyUGgNDnTBDzr"
     },
     {
       "album": {
@@ -5204,7 +5258,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 230178,
       "name": "La f\u00eate",
       "url": "https://open.spotify.com/track/13Udap16ZU0xiUfP0lQJ9z"
@@ -5620,6 +5674,24 @@
       "duration_ms": 224270,
       "name": "Le plus beau spectacle",
       "url": "https://open.spotify.com/track/6haDeFzU2VjvjR8XRLln1F"
+    },
+    {
+      "album": {
+        "name": "Le roi Soleil",
+        "url": "https://open.spotify.com/album/2vdlNxxtxH7gB1xlCOCAJz"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178067,
+      "name": "Le roi Soleil",
+      "url": "https://open.spotify.com/track/2g7Cd0qBGSnk0cLIfVgBYu"
     },
     {
       "album": {
@@ -7794,7 +7866,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 231413,
       "name": "Pas lents dans la neige",
       "url": "https://open.spotify.com/track/5EjVhjs1QvVPFy73wMDfIZ"

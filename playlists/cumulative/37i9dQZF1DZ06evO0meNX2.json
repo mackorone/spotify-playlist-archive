@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 166440,
       "name": "Chavo F\u00e9lix",
       "url": "https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 245076,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/5rHHjCMAWQbTsM9T4b98I0"
@@ -518,6 +518,24 @@
     {
       "album": {
         "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221911,
+      "name": "Golpes De La Vida",
+      "url": "https://open.spotify.com/track/6GMSmRAi8t2uQySgwy2P6F"
+    },
+    {
+      "album": {
+        "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
       },
       "artists": [
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 223186,
       "name": "Golpes De La Vida",
       "url": "https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72"

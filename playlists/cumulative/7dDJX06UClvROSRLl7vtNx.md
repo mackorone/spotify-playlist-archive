@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-763 songs - 1 day 9 hr 7 min
+764 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Nothing Compares](https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Joey Busse](https://open.spotify.com/artist/6ctUI0LDXR8CatDPqGzXYB) | [Nothing Compares](https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m) | 1:59 | 2024-01-07 | 2024-05-13 |
 | [Now I'm Gone](https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [Now I'm Gone](https://open.spotify.com/album/1rCZsToVVv9nP1nuHOqpMd) | 2:30 | 2024-06-07 | 2024-07-14 |
 | [Nowhere To Go](https://open.spotify.com/track/4xSQow8DRpIJZCjqyvXKDM) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [Nowhere To Go](https://open.spotify.com/album/64xMBNeyIilz6sU5GGFhwr) | 2:34 | 2024-07-13 | 2024-07-29 |
+| [Obsession](https://open.spotify.com/track/6SmkZfOvzbF3nWMZZSOAhX) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y) | [Obsession](https://open.spotify.com/album/4sLn7l3YLpwxfTpAB6wvBF) | 2:05 | 2025-03-13 |  |
 | [Ocean Away](https://open.spotify.com/track/2cJZc5TVzwTEkmdGAiMrEL) | [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Ocean Away](https://open.spotify.com/album/6luPWN2S06fb7Af18Hybrw) | 3:02 | 2025-02-20 |  |
 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 | 2023-09-22 |  |
 | [Off Limits](https://open.spotify.com/track/1XpRZiCQrNGLwFJBpiNIz0) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz), [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [BABY TITA](https://open.spotify.com/artist/2kSD4xS1VDJHVe7wVynqT7) | [Off Limits](https://open.spotify.com/album/7eirDTfq1w5AAuJvVlLaOP) | 3:02 | 2024-09-20 | 2025-02-15 |

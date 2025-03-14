@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-271 songs - 17 hr 3 min
+272 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Hornet](https://open.spotify.com/track/2GKeGRGRGto4KIL2LyObfd) | [Chokez](https://open.spotify.com/artist/2WIUV9Yg8pVjB4odHkZ1La) | [ENV030](https://open.spotify.com/album/3EsWk9DTxXOn8n6rCXoM40) | 3:17 | 2022-09-17 | 2022-10-17 |
 | [How We Do](https://open.spotify.com/track/49mjlStzVFobTqAfBGfKYX) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Paradigms](https://open.spotify.com/album/4jtQBEo7Bw3jnxQoFlxPbA) | 2:44 | 2021-10-15 | 2022-01-22 |
 | [I Ain't Home \- Maddy O'Neal Remix](https://open.spotify.com/track/6vo6eCrfQM09D79URlLl9F) | [The Floozies](https://open.spotify.com/artist/5czcqWtwZb5btfWWvWTmgZ), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF) | [I Ain't Home \(Maddy O'Neal Remix\)](https://open.spotify.com/album/3yuaoHod7ZpkhRRp1lFT3c) | 4:00 | 2021-10-23 | 2022-01-22 |
+| [I Am Awake](https://open.spotify.com/track/7ayNEj5TaxOSkdZUV2Nj7W) | [The Invisible People](https://open.spotify.com/artist/6nJrWpWiBalba5QgdG1aFr), [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Am Awake](https://open.spotify.com/album/1stXco6VZ0Qv4oE8STSD7y) | 2:20 | 2025-03-13 |  |
 | [I Am the Universe Exploding](https://open.spotify.com/track/0yvXhTAvRjijsphTcbQaS8) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Shadow Society](https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY) | [I Am The Universe Exploding](https://open.spotify.com/album/6uIcJaRQGTxGLUWWAyy4dJ) | 3:58 | 2024-10-11 | 2025-02-15 |
 | [I Am Tiger](https://open.spotify.com/track/5BBbXALudSXzfwRy4aEChM) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Am Tiger](https://open.spotify.com/album/0Wlb29T2xQGR0pgFVrQHKd) | 3:15 | 2023-02-23 | 2024-10-12 |
 | [I'm A Warrior](https://open.spotify.com/track/7hxQid9ZYmkZbqmyJtTtJ0) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I'm A Warrior](https://open.spotify.com/album/1MJUwXbIMpEsxVVLNlaaqC) | 2:53 | 2023-01-17 | 2023-05-28 |

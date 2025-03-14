@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-10",
-  "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
+  "description": "Colourful songs to kickstart your Holi party! Cover - Vishal Mishra & Malini Awasthi",
   "name": "Holi Party",
   "tracks": [
     {
@@ -144,6 +144,28 @@
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
+    },
+    {
+      "album": {
+        "name": "AANKH",
+        "url": "https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188256,
+      "name": "AANKH",
+      "url": "https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx"
     },
     {
       "album": {
@@ -338,10 +360,6 @@
         {
           "name": "Dev Negi",
           "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
         },
         {
           "name": "Sameer Anjaan",
@@ -866,7 +884,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 218596,
       "name": "Daaru Peeke Dance",
       "url": "https://open.spotify.com/track/0aJo7AY5yhtmNCmKUfSTPm"

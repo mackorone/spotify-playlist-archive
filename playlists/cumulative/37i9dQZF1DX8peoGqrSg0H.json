@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  Sugar 'N Spice",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  PERSES, PiXXiE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2398,6 +2398,24 @@
       "duration_ms": 207127,
       "name": "R U OK?",
       "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
+    },
+    {
+      "album": {
+        "name": "Red Flag (\u0e25\u0e2d\u0e07\u0e14\u0e39\u0e21\u0e31\u0e49\u0e22?)",
+        "url": "https://open.spotify.com/album/0BKb7o742eRcFdH8nIwNLY"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212601,
+      "name": "Red Flag (\u0e25\u0e2d\u0e07\u0e14\u0e39\u0e21\u0e31\u0e49\u0e22?)",
+      "url": "https://open.spotify.com/track/3nZf9a9SsqFwuHZBI522qq"
     },
     {
       "album": {
@@ -5726,7 +5744,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 176877,
       "name": "\u0e15\u0e37\u0e48\u0e19 (Wake Up Call) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C"
@@ -7384,7 +7402,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184320,
       "name": "\u0e22\u0e34\u0e48\u0e07\u0e14\u0e38\u0e22\u0e34\u0e48\u0e07\u0e0a\u0e2d\u0e1a",
       "url": "https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX"
@@ -12458,6 +12476,24 @@
       "duration_ms": 240500,
       "name": "\u0e44\u0e2b\u0e19\u0e27\u0e30",
       "url": "https://open.spotify.com/track/59yg0a52VmCOWwEvRv191r"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e2b\u0e19\u0e27\u0e48\u0e32\u0e08\u0e30\u0e44\u0e21\u0e48\u0e44\u0e1b (No Promises)",
+        "url": "https://open.spotify.com/album/2OIZeEcjPKHa1nCny6faMf"
+      },
+      "artists": [
+        {
+          "name": "Diamond Narakorn",
+          "url": "https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230484,
+      "name": "\u0e44\u0e2b\u0e19\u0e27\u0e48\u0e32\u0e08\u0e30\u0e44\u0e21\u0e48\u0e44\u0e1b (No Promises)",
+      "url": "https://open.spotify.com/track/2pF233ImGxKDMZeS2iqowP"
     },
     {
       "album": {

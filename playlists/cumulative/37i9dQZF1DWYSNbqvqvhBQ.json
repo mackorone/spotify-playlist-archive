@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De mooiste liedjes van het moment. Cover: Kensington",
+  "description": "De mooiste liedjes van het moment. Cover: Mumford & Sons",
   "name": "Blijf Luisteren",
   "tracks": [
     {
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -7740,7 +7740,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 257803,
       "name": "She's the One (From Better Man: Original Motion Picture Soundtrack) (feat. Adam Tucker & Kayleigh McKnight)",
       "url": "https://open.spotify.com/track/4F9fv546vGr8cxEwbsiYxB"
@@ -7824,6 +7824,28 @@
       "duration_ms": 179733,
       "name": "Sleep When I'm With You",
       "url": "https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk"
+    },
+    {
+      "album": {
+        "name": "Slowdown",
+        "url": "https://open.spotify.com/album/0dwNJ0jDiJuHbMrwzJwxwm"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247817,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/47B6p4D2mzd0WJbtmy9QjW"
     },
     {
       "album": {
@@ -8308,6 +8330,24 @@
       "duration_ms": 165113,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4TDGFWcs0ueT9XC56OzHZg"
+    },
+    {
+      "album": {
+        "name": "Stevie & Sly",
+        "url": "https://open.spotify.com/album/6Jr0SS676UqNsVRxwpPdpM"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Stevie & Sly",
+      "url": "https://open.spotify.com/track/3Qd2Xupp6z5UeBKbczux2h"
     },
     {
       "album": {
@@ -9192,7 +9232,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 240097,
       "name": "The Shadow",
       "url": "https://open.spotify.com/track/3dk0ven4SGbWhQ5cGnwBRQ"
@@ -9387,6 +9427,24 @@
     },
     {
       "album": {
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "album": {
         "name": "This Isn\u2019t Really Love",
         "url": "https://open.spotify.com/album/3hZ4C5FqLTM9yvSxWuTTby"
       },
@@ -9522,6 +9580,24 @@
       "duration_ms": 166680,
       "name": "Time Flies - 2023 Remaster",
       "url": "https://open.spotify.com/track/64Q73VKSbFLDsmYfhEjOIN"
+    },
+    {
+      "album": {
+        "name": "Time Waited",
+        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Time Waited",
+      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The Finest In Jazz Since 1939
 
-131 songs - 14 hr 2 min
+132 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dat Dere \- Remastered 2005](https://open.spotify.com/track/0fYXEHGIJqfimplx8Y4683) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 8:47 | 2023-01-06 |  |
 | [De\-Dah \- Remastered](https://open.spotify.com/track/6WWkfAJdWLvJcUs9wq33Ou) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 4:51 | 2023-01-06 |  |
 | [Defiant, Tender Warrior](https://open.spotify.com/track/2KCuOB6Kqn0bt72iC7wh40) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [The Sky Will Still Be There Tomorrow](https://open.spotify.com/album/2OGx1jpcmEF8vJoTaEyAh9) | 4:16 | 2024-12-18 |  |
-| [Despedida: Del Mar](https://open.spotify.com/track/6Xrte3QOVHTnws5CykRgQl) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | […dreaming in lions…](https://open.spotify.com/album/0pkU2fBus3YM1SgsaXcpj3) | 5:42 | 2023-01-06 |  |
+| [Despedida: Del Mar](https://open.spotify.com/track/6Xrte3QOVHTnws5CykRgQl) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | […dreaming in lions…](https://open.spotify.com/album/0pkU2fBus3YM1SgsaXcpj3) | 5:42 | 2023-01-06 | 2025-03-14 |
 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 | 2023-01-06 |  |
 | [Do Like Eddie](https://open.spotify.com/track/0QyvQaZam7ZmVM50Y5Y6QC) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Hand Jive](https://open.spotify.com/album/01MeOXVO3prEBCy8Pa5KJd) | 8:10 | 2023-01-06 |  |
 | [Dominoes](https://open.spotify.com/track/3s8Anp8dKObIw8Zy8uGgYC) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Places And Spaces](https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh) | 4:33 | 2023-01-06 |  |
@@ -69,6 +69,7 @@
 | [It Never Entered My Mind \- Remastered](https://open.spotify.com/track/47zglRNpxJfxadAe3C6xQe) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 4:03 | 2023-01-06 |  |
 | [It's A Wonderful Time For Love](https://open.spotify.com/track/5oPWYCHejJF8Jwj3hiaTeh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:53 | 2023-01-06 |  |
 | [Joshua Fit De Battle Of Jericho \- Remastered 2004](https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Feelin' The Spirit \(Remastered\)](https://open.spotify.com/album/1yejkU8avlKZK3PuH3sjHC) | 8:02 | 2024-01-04 |  |
+| [Komorebi](https://open.spotify.com/track/7chLPFV0knLtIS29UJzAbj) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARBORESQUE](https://open.spotify.com/album/00LZu5if6qbDOrC1SBKx1s) | 5:41 | 2025-03-13 |  |
 | [La Sitiera \(The Small Farm\)](https://open.spotify.com/track/0FW1cOOwaMhFUvOOCXfmRw) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Bele Bele En La Habana](https://open.spotify.com/album/3UtyPH5DFdBW0FzxaOOnHw) | 8:44 | 2023-01-06 |  |
 | [lamplight](https://open.spotify.com/track/0rRtkc4eUbH2v6qBtw00l4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 3:37 | 2023-04-07 |  |
 | [Limbo \- Live At Montreux Jazz Festival / 1986](https://open.spotify.com/track/065aXD9TzhPmwlfSIQnp1T) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Power Of Three](https://open.spotify.com/album/3SDdp0ZtJvnfCyozg19kvt) | 8:07 | 2023-01-06 |  |
@@ -121,7 +122,7 @@
 | [The Duke](https://open.spotify.com/track/6RQBoUXjtB1YmUjtPb9WbA) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:45 | 2023-01-06 |  |
 | [The High Priest \- Remastered](https://open.spotify.com/track/1QVX2tIgB5zS7WrMbWtTqj) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Tender Moments \(Remastered\)](https://open.spotify.com/album/47T9Kj8G4Pmt4K8wSXk32P) | 6:05 | 2023-01-06 |  |
 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 | 2023-01-06 |  |
-| [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 | 2023-01-06 |  |
+| [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 | 2023-01-06 | 2025-03-14 |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2023-01-06 |  |
 | [The Solitary Seeker](https://open.spotify.com/track/0L2naOS6D4kKI3DiNhmru5) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Echoes Of The Inner Prophet](https://open.spotify.com/album/3nJsyrcJShA6wyjSPvAwEg) | 6:08 | 2024-04-05 |  |
 | [The Solitary Seeker](https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [The Solitary Seeker](https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN) | 6:08 | 2024-02-16 | 2024-04-06 |

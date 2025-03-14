@@ -1,13 +1,29 @@
 {
   "description": "Listen to the music from Invincible, streaming only on Prime Video. ",
-  "num_followers": 83768,
+  "num_followers": 85868,
   "original_name": "Invincible Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8lWHQAAAABiIZ6RxXX4dO+S3xR9deYR",
+  "snapshot_id": "Z9KCkQAAAAD/vai8wQzqKs0MnwehQU5/",
   "tracks": [
+    {
+      "added_at": "2025-03-13 07:00:33",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
+    },
     {
       "added_at": "2025-03-06 08:00:29",
       "album": {

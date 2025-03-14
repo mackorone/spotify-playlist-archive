@@ -685,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Chambonea (feat. Gilbert Man)",
+        "url": "https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD"
+      },
+      "artists": [
+        {
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+        },
+        {
+          "name": "Gilbert Man",
+          "url": "https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235247,
+      "name": "Chambonea",
+      "url": "https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT"
+    },
+    {
+      "album": {
         "name": "Made in Habana",
         "url": "https://open.spotify.com/album/74QZy4tcjEtvSkXnBxZo78"
       },
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 279173,
       "name": "El Dueno del Party",
       "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"

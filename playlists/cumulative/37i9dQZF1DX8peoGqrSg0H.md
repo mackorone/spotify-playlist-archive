@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  Sugar 'N Spice
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  PERSES, PiXXiE
 
-664 songs - 1 day 15 hr 14 min
+666 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Pom Pom](https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Pom Pom](https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo) | 2:56 | 2023-01-26 | 2023-02-03 |
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK? \- Single](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-02-02 | 2023-11-03 |
+| [Red Flag \(ลองดูมั้ย?\)](https://open.spotify.com/track/3nZf9a9SsqFwuHZBI522qq) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Red Flag \(ลองดูมั้ย?\)](https://open.spotify.com/album/0BKb7o742eRcFdH8nIwNLY) | 3:32 | 2025-03-13 |  |
 | [Red Zone](https://open.spotify.com/track/5UdZNJ9Gzd71CVEyM0MLM2) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [Red Zone](https://open.spotify.com/album/25fGFqBeRGLkjdi2HZGG9i) | 3:38 | 2024-08-15 | 2024-08-17 |
 | [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [Third](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 | 2024-08-08 | 2024-08-16 |
 | [ROSÈE](https://open.spotify.com/track/4yYbrzNN5vVuTUXWuVK9wm) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [THI\-O 1st Mini Album](https://open.spotify.com/album/4JayThE37cKd5m1fbVwZii) | 3:18 | 2024-11-21 | 2024-11-29 |
@@ -311,7 +312,7 @@
 | [ติดฝน](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-07 | 2024-10-04 |
 | [ติดเธอได้ไหมในฐานะไฟแดงก็ได้](https://open.spotify.com/track/6hvciRAtzlJ4Hl1LYCbC3J) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ติดเธอได้ไหมในฐานะไฟแดงก็ได้](https://open.spotify.com/album/39jDTqIYGuJxebUn3Lr147) | 3:49 | 2024-10-17 | 2024-11-01 |
 | [ติดแก\(ลม\) \[Glamour Girl\]](https://open.spotify.com/track/5P4gPTCSX4h7eLbRW6QG5S) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [MUKTA](https://open.spotify.com/artist/6qhHW3pFQd2uAUbW2InXQ4) | [ติดแก\(ลม\) \[Glamour Girl\]](https://open.spotify.com/album/528ZGuFgT6cLxRhIG6ZuHb) | 3:22 | 2024-12-05 | 2024-12-20 |
-| [ตื่น \(Wake Up Call\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [ตื่น \(Wake Up Call\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj) | 2:56 | 2025-02-27 |  |
+| [ตื่น \(Wake Up Call\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/0NMI7LTU8dMUucl3aWLj5C) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [ตื่น \(Wake Up Call\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/3u2hERsTzUgGpbe5rx9rlj) | 2:56 | 2025-02-27 | 2025-03-14 |
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 | 2022-05-26 | 2022-11-12 |
 | [ต่อให้เธอจะไปรักใคร \- Even If](https://open.spotify.com/track/4op6zNw2RRdnNyXMNZ5i8g) | [Wine](https://open.spotify.com/artist/3LuQ3nUOUPjoCsrIBT14vs) | [ต่อให้เธอจะไปรักใคร \(Even If\)](https://open.spotify.com/album/6gNdGROAbKCQhZQC73SudF) | 3:30 | 2022-06-09 | 2022-06-24 |
 | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo) | [OABNITHI](https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv) | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/album/6xglF99e8jnj5hfzpV2IQW) | 3:24 | 2023-02-23 | 2023-03-03 |
@@ -398,7 +399,7 @@
 | [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 | 2024-07-18 |  |
 | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q) | [ATK](https://open.spotify.com/artist/5QKuqbXQ3cujnmrGOh4Qx1) | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX) | 3:53 | 2023-09-15 | 2023-09-23 |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
-| [ยิ่งดุยิ่งชอบ](https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH) | 3:04 | 2024-12-12 |  |
+| [ยิ่งดุยิ่งชอบ](https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH) | 3:04 | 2024-12-12 | 2025-03-14 |
 | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS) | 4:10 | 2022-09-15 | 2022-10-13 |
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-09 | 2024-08-30 |
 | [ยิ้มลา \(jasmine\)](https://open.spotify.com/track/42kVAXHScwppQdPPGsygb2) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มลา \(jasmine\)](https://open.spotify.com/album/1pOKF7lYqJeNdpe5AcQH7s) | 3:42 | 2024-09-26 | 2024-11-01 |
@@ -670,6 +671,7 @@
 | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\)](https://open.spotify.com/track/75PNvxakeoKFP7dxdGDWLb) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [ไม่ได้ทันได้บอกเธอ \(TOO LATE\) \- Single](https://open.spotify.com/album/0GCaqJpZqxcszozlequwGC) | 3:18 | 2023-11-09 | 2023-12-08 |
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2022-05-26 | 2022-06-17 |
 | [ไหนวะ](https://open.spotify.com/track/59yg0a52VmCOWwEvRv191r) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [ไหนวะ](https://open.spotify.com/album/1v0FXYuDwVKLKexIiQcIrf) | 4:00 | 2022-08-11 | 2022-08-26 |
+| [ไหนว่าจะไม่ไป \(No Promises\)](https://open.spotify.com/track/2pF233ImGxKDMZeS2iqowP) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [ไหนว่าจะไม่ไป \(No Promises\)](https://open.spotify.com/album/2OIZeEcjPKHa1nCny6faMf) | 3:50 | 2025-03-13 |  |
 | [ไหล่เธอ \(You’ve Got Ma Back\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/55tvHtkqTwGaQtN44CFLV6) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO), [Ford Arun](https://open.spotify.com/artist/5JpHIeQ1qqASVEv1OJiMCe), [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv), [Winny Thanawin](https://open.spotify.com/artist/1TTINBa1uQSwPxqYpbBK43) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/5sg51NEe1ZVhYZDGcqWUd9) | 3:19 | 2023-02-23 | 2023-03-03 |
 | [ไอ้บ้า \(Gu ja Crazy\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/655CsNqED6kK98nHtWRnhv) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w) | [ไอ้บ้า \(Gu ja Crazy\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/4UFs7Wc8RMHp2sgEZgha34) | 3:31 | 2025-03-06 |  |
 

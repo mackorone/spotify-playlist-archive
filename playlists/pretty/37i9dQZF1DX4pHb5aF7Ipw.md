@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover : Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,642 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,660 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 43 | [Rees](https://open.spotify.com/track/6ydmx4RScFmURG6mYpZ3LD) | [ANANT GILL](https://open.spotify.com/artist/6M8SGIlU2RG0fcdYzQgZIM), [GGM GANG](https://open.spotify.com/artist/3XMLifxTiitsrjCqRdp2zm) | [SHA\-RAP](https://open.spotify.com/album/46UV3yVBeZGXtEtqL99WdW) | 2:49 |
 | 44 | [Sher Bachiye](https://open.spotify.com/track/4Yif4Gcc243cz92Kl3WQ1h) | [Ray Z](https://open.spotify.com/artist/0Ym0kFA89Lf2D2Rsm50obR) | [Sher Bachiye](https://open.spotify.com/album/4lHiacIkg5efKy7WhAYkTf) | 2:04 |
 | 45 | [Scan](https://open.spotify.com/track/3yxoB7T6HHGirQnktkIXb9) | [Cheema](https://open.spotify.com/artist/2Q5bNdXbSQLSdLqMCNTJfR), [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp) | [Scan](https://open.spotify.com/album/6BYc1dffEZklrKiZc1REFF) | 2:23 |
-| 46 | [Bhau Hood](https://open.spotify.com/track/5vWxAKJYe240lWEuVLSIeP) | [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux), [Raas](https://open.spotify.com/artist/3szxrtt3CYePoAUbLlb4K3), [Space](https://open.spotify.com/artist/3kzjHExUNVeq1mtY9E2rZO) | [Bhau Hood](https://open.spotify.com/album/60Cab7ZW7uDeMbrCt3KQHc) | 3:01 |
+| 46 | [Bhau Hood](https://open.spotify.com/track/5vWxAKJYe240lWEuVLSIeP) | [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK), [Space](https://open.spotify.com/artist/3kzjHExUNVeq1mtY9E2rZO) | [Bhau Hood](https://open.spotify.com/album/60Cab7ZW7uDeMbrCt3KQHc) | 3:01 |
 | 47 | [Aura Jatt Da](https://open.spotify.com/track/1CirVTLXTUdZKnabJCc611) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [Aura Jatt Da](https://open.spotify.com/album/0AsG4YqUQMLiDHB2e54ihR) | 3:22 |
 | 48 | [Take Notes](https://open.spotify.com/track/5efskZFM1q5dOYrnXRsW4F) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Take Notes](https://open.spotify.com/album/7GuRYgr68KDBHH3qkyDKJz) | 2:21 |
 | 49 | [Addiction](https://open.spotify.com/track/6TYZu7oyO4cVHaYP9QJyAt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Addiction](https://open.spotify.com/album/6IAcOAoiDp8x5qUdr0YyqU) | 2:07 |

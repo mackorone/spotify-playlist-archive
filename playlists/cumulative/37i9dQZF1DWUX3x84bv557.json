@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: LUNA",
+  "description": "De nieuwste Nederlandse pop! Cover: Roxy & Koen",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 153882,
       "name": "1 Minuut",
       "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
+    },
+    {
+      "album": {
+        "name": "Mama I Made It",
+        "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Koen",
+          "url": "https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133236,
+      "name": "1 Nacht",
+      "url": "https://open.spotify.com/track/2dUJ0xW4XC89CC6gD7mjwi"
     },
     {
       "album": {
@@ -306,7 +328,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 131261,
       "name": "25",
       "url": "https://open.spotify.com/track/6PBphKhLXuAMBW6yWUNXby"
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 190232,
       "name": "Altijd Iets Nieuws",
       "url": "https://open.spotify.com/track/4XCBdhCFFkwhEryfsbKRGs"
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 201750,
       "name": "Daarboven",
       "url": "https://open.spotify.com/track/16LnFe5k54hGXBdOA2mwN3"
@@ -3224,6 +3246,24 @@
       "duration_ms": 198225,
       "name": "Dat Je Danst",
       "url": "https://open.spotify.com/track/6qv1dNAkOxfxL7G3sCGoDc"
+    },
+    {
+      "album": {
+        "name": "Dat Je Me Ziet",
+        "url": "https://open.spotify.com/album/4COjs2FyTJ6iVL4oDUwU76"
+      },
+      "artists": [
+        {
+          "name": "AISHA",
+          "url": "https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149482,
+      "name": "Dat Je Me Ziet",
+      "url": "https://open.spotify.com/track/23WexujOx2dwRM2DUDmZAY"
     },
     {
       "album": {
@@ -5165,6 +5205,28 @@
     },
     {
       "album": {
+        "name": "Gevarenzone",
+        "url": "https://open.spotify.com/album/5ibi7YmLHo5BdVa8vwCJuX"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216322,
+      "name": "Gevarenzone",
+      "url": "https://open.spotify.com/track/1hIu3c6cuhQ36H7iRqllCT"
+    },
+    {
+      "album": {
         "name": "Gewoon",
         "url": "https://open.spotify.com/album/0n92DDS6QU5acQJ08ztYRP"
       },
@@ -5490,6 +5552,24 @@
       "duration_ms": 134576,
       "name": "Had Zo Moeten Zijn",
       "url": "https://open.spotify.com/track/4RlFVnopFHn3ixsPo9TIqD"
+    },
+    {
+      "album": {
+        "name": "Half Open",
+        "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
+      },
+      "artists": [
+        {
+          "name": "Jasmijn Torrico",
+          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149470,
+      "name": "Half Open",
+      "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
     },
     {
       "album": {
@@ -6344,7 +6424,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 159709,
       "name": "Hoogtevrees",
       "url": "https://open.spotify.com/track/7G5Wad9RvRKetR3icB6SOD"
@@ -6790,6 +6870,24 @@
       "duration_ms": 165493,
       "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
       "url": "https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv"
+    },
+    {
+      "album": {
+        "name": "Iedereen Verandert",
+        "url": "https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc"
+      },
+      "artists": [
+        {
+          "name": "Lola Ced\u00e8s",
+          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "Iedereen Verandert",
+      "url": "https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao"
     },
     {
       "album": {
@@ -7683,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "Joanne",
+        "url": "https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Joanne",
+      "url": "https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj"
+    },
+    {
+      "album": {
         "name": "Jonge Zelf",
         "url": "https://open.spotify.com/album/4xMbpM9TTBrEXkLmRA9Ywd"
       },
@@ -8488,7 +8604,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 196994,
       "name": "Laat los",
       "url": "https://open.spotify.com/track/6VHD653hMV6l5so33kX5fK"
@@ -10519,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "Leven In De Leegte",
+        "url": "https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211343,
+      "name": "Niets Meer",
+      "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
+    },
+    {
+      "album": {
         "name": "NIEUWE DRUGGA ZELFDE FEESTJE",
         "url": "https://open.spotify.com/album/7fOiA2Oc066hKPOIPWbySc"
       },
@@ -11478,7 +11612,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 180375,
       "name": "Perfect Voor Mij",
       "url": "https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6"
@@ -11514,7 +11648,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 150000,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/6cZNZFoP6zlMdqpOjyt15N"
@@ -13075,6 +13209,24 @@
     },
     {
       "album": {
+        "name": "Stoplicht",
+        "url": "https://open.spotify.com/album/0hF991hapjy8Z6qY87qqrX"
+      },
+      "artists": [
+        {
+          "name": "Matheu",
+          "url": "https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137096,
+      "name": "Stoplicht",
+      "url": "https://open.spotify.com/track/0a32yTqzSdyKGqtNktoOkp"
+    },
+    {
+      "album": {
         "name": "Struikelen",
         "url": "https://open.spotify.com/album/5kfTrFYrZ4oKWRDJ8tt5lF"
       },
@@ -13324,6 +13476,28 @@
       "duration_ms": 163786,
       "name": "Tegen Beter Weten In",
       "url": "https://open.spotify.com/track/6pYrY75o2iVJVlX2n5d59c"
+    },
+    {
+      "album": {
+        "name": "Tempo Giusto",
+        "url": "https://open.spotify.com/album/16md54d8y1FGKBZvHZCljR"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "Skiggy Rapz",
+          "url": "https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216635,
+      "name": "Tempo Giusto",
+      "url": "https://open.spotify.com/track/3trHXv2ZvlordsObGvSqk2"
     },
     {
       "album": {
@@ -15882,7 +16056,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184258,
       "name": "Zieke Wereld",
       "url": "https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC"
@@ -15954,7 +16128,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 181249,
       "name": "Zo Dichtbij",
       "url": "https://open.spotify.com/track/2j1as6rFD5wD6VGDoW01Ho"
@@ -16174,7 +16348,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 168000,
       "name": "Zolang morgen maar beter is",
       "url": "https://open.spotify.com/track/7naoVtjM7o7pUJpMBhlecM"

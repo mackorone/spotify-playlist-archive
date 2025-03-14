@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,027 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,044 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 46 | [يرد الروح](https://open.spotify.com/track/5579TUnu8gaeE19Gv6A1Jx) | [عبدالله الصخابرة](https://open.spotify.com/artist/25X99KPCcqOuOC8FaBtTwV) | [يرد الروح](https://open.spotify.com/album/6OLXCf1A1LmbGJWM4R7eWC) | 3:55 |
 | 47 | [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 |
 | 48 | [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 |
-| 49 | [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs), [Sultan Ben Mreea](https://open.spotify.com/artist/0vmJ2z07MzXKYFAPEgQkcJ) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 |
+| 49 | [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber And Sultan Ben Mreea](https://open.spotify.com/artist/0fizJMgT4QeasTXjDWDF7g) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 |
 | 50 | [غلطة الشاطر](https://open.spotify.com/track/6El5OexIsYjjFVk7Y3PvGr) | [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [غلطة الشاطر](https://open.spotify.com/album/3BzAVIxiI5R6I3IzKgOtra) | 3:02 |
 
 Snapshot ID: `Z6y2ZQAAAAAVuocVuYcSKatTgqanv7xE`

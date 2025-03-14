@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Paradise, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,508 likes - 104 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,505 likes - 104 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

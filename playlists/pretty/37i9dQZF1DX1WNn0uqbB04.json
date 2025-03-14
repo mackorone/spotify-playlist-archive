@@ -703,6 +703,22 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
         "name": "Traje Unos Tangos/ Irresponsables/ Balada para un Loco (Medley Premios Gardel)",
         "url": "https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 211301,
       "name": "Traje Unos Tangos/ Irresponsables/ Balada para un Loco - Medley Premios Gardel",
       "url": "https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
     },
     {
       "added_at": "2024-11-04 16:33:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
-        "name": "Amor de Madrugada",
-        "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "Amor de Madrugada",
-      "url": "https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
         "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
         "url": "https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 216993,
       "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
       "url": "https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
+        "name": "Amor de Madrugada",
+        "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Amor de Madrugada",
+      "url": "https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD"
     },
     {
       "added_at": "2024-11-04 16:33:26",

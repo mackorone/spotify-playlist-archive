@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,620 likes - 60 songs - 3 hr 17 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,621 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 42 | [I Don't Wanna Know](https://open.spotify.com/track/7xU8n2EtWKtWFD9tJ9KApV) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/6EE0Hx3aBQOVm29SxTPZ6h) | 3:27 |
 | 43 | [Foxes in the Snow](https://open.spotify.com/track/1FcszdiVwu3WcMAQAPnCgJ) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Foxes in the Snow](https://open.spotify.com/album/68ZJ05Jh9Gw1nCcioGScpr) | 3:20 |
 | 44 | [Please Don't Go](https://open.spotify.com/track/03Xiyla77qLyJuacJq9m8y) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Please Don't Go](https://open.spotify.com/album/47a69vW8kSJY58WWWLAYTA) | 2:26 |
-| 45 | [Blame Everything on Me](https://open.spotify.com/track/6IHLvhlBOttVWLtZkockT5) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Songs For Sienna \(Deluxe Edition\)](https://open.spotify.com/album/7qkGONOmCwBCnVzf3bDYlJ) | 5:02 |
+| 45 | [Blame Everything on Me \- Live](https://open.spotify.com/track/6IHLvhlBOttVWLtZkockT5) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Songs For Sienna \(Deluxe Edition\)](https://open.spotify.com/album/7qkGONOmCwBCnVzf3bDYlJ) | 5:02 |
 | 46 | [The Bullfighter](https://open.spotify.com/track/1HgKUjJRScAcZD5WPhlACo) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [The Bullfighter](https://open.spotify.com/album/5OfwLDZVVkjuBFQFBKid9p) | 3:18 |
 | 47 | [accident](https://open.spotify.com/track/1qech0w48BKRUMg45mHIzb) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [accident](https://open.spotify.com/album/5koU1niRxLx4zQMNGBvST3) | 3:01 |
 | 48 | [infinyte](https://open.spotify.com/track/5tgPxqKIlvDxTCQxhjTrCO) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [They Left Me With The Sword](https://open.spotify.com/album/5UUUoyYmeB0M157u9MfHXg) | 2:11 |

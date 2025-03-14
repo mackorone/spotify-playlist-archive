@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-392 songs - 23 hr 5 min
+393 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [B with U\(《隔離後見個面,好嗎?》片頭曲\)](https://open.spotify.com/track/4kgb0sJneRMjRPMWHqIBEO) | [Zing](https://open.spotify.com/artist/3nd2krSPtjMBeEbkpzHloW) | [Zing A Song](https://open.spotify.com/album/03MLJrBD85VgFeW5GdvgJf) | 3:09 | 2022-06-06 | 2022-07-09 |
 | [Baby I Love You](https://open.spotify.com/track/7Cq5fL4HxgcOKIA7P2z64C) | [Yuta Hashimoto](https://open.spotify.com/artist/2agdXEyDwXcPYUklzmGV0l), [劉人語](https://open.spotify.com/artist/4Azl1sNQoUntardC0dI9xN) | [Baby I Love You](https://open.spotify.com/album/6dpEEIjoYDAbANMkFT984J) | 4:40 | 2022-06-06 | 2022-07-21 |
 | [Back To You](https://open.spotify.com/track/54vjqSoR0cfO7nGKNvZS5o) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [WANNA BE WITH YOU](https://open.spotify.com/album/1Fz3IuaEUglZrDfh7Ylwpm) | 3:12 | 2023-10-16 | 2023-10-24 |
-| [Call me bae](https://open.spotify.com/track/0axuBJII4kOrI958dT5djA) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB) | [Call me bae](https://open.spotify.com/album/7mRQ5QMXXvdvpdg8Mb2NBo) | 3:36 | 2024-10-31 |  |
+| [Call me bae](https://open.spotify.com/track/0axuBJII4kOrI958dT5djA) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB) | [Call me bae](https://open.spotify.com/album/7mRQ5QMXXvdvpdg8Mb2NBo) | 3:36 | 2024-10-31 | 2025-03-14 |
 | [Cappuccino](https://open.spotify.com/track/7dXdcK5hFBKDITomqjW3U2) | [PINK FUN](https://open.spotify.com/artist/00cxLg9WhGOmZKMNI7fnnW) | [Cappuccino](https://open.spotify.com/album/5GSFZurxEZUNSQZ0clSvil) | 3:16 | 2022-12-13 | 2022-12-20 |
 | [Crush on You](https://open.spotify.com/track/1Px6GqkS5SvAiVtx902av5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [還原](https://open.spotify.com/album/7DxCILyrU4E6TabC9Bt4lI) | 3:07 | 2022-06-27 | 2022-07-26 |
 | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/track/7bZjpW7r2Bf2QLXyeUFaen) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Vera Chai](https://open.spotify.com/artist/5kVplRVD7ap9f1dpWln6Mf) | [Dadi \(feat\. Vera Chai\)](https://open.spotify.com/album/7zDsEOFLq0SJ3CmNadx2ps) | 2:44 | 2022-06-06 | 2022-07-27 |
@@ -204,6 +204,7 @@
 | [幸福摩天輪](https://open.spotify.com/track/5ayE9R8ctpX7UGOWXCRk14) | [ALL\-RANGE](https://open.spotify.com/artist/7aRvHV5UR0tqnuWfJQy4f8) | [初次見面](https://open.spotify.com/album/6FKYBWEpQgfNvmmTfses7q) | 4:06 | 2022-06-06 | 2022-06-10 |
 | [幸福是被你需要](https://open.spotify.com/track/0KNnNIaWABM2kum1ZdCYVO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [慢慢懂](https://open.spotify.com/album/31K53QT3eo47WrUAVGzS6O) | 3:54 | 2022-06-13 | 2022-06-21 |
 | [幸福註解](https://open.spotify.com/track/7cE5qr9la6gVadtsWjoBNX) | [鄭茵聲](https://open.spotify.com/artist/6klZsIEZ1oB4RvXnDz1grL) | [幸福註解](https://open.spotify.com/album/6Tg7lriSym4owkw42AtaeZ) | 3:36 | 2022-06-20 | 2022-07-23 |
+| [幸福蹺蹺板](https://open.spotify.com/track/4Mh0pO4UsiCygaaZ3q3SAI) | [李唯楓](https://open.spotify.com/artist/4I6CD3b2KblXRnARGKESwk), [魏廷芸](https://open.spotify.com/artist/1fJ20jT9o20wlIycLXKuL2) | [幸福蹺蹺板](https://open.spotify.com/album/0piPXYfj1kpFGH6896E9Zd) | 3:49 | 2025-03-13 |  |
 | [很想很想你 \(電視劇《月裡青山淡如畫》插曲\)](https://open.spotify.com/track/65IeKSN4N5Df5uJR856Wjg) | [yihuik苡慧](https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e), [曹楊Young](https://open.spotify.com/artist/5JOUHQFT7pdj2vkhUIrkrk) | [很想很想你 \(電視劇《月裡青山淡如畫》插曲\)](https://open.spotify.com/album/5WSMqB9fHeEDZ3jQbtHkkG) | 3:22 | 2022-12-27 | 2023-03-12 |
 | [從此過著幸福快樂的日子 \(feat\. J.Sheon\)](https://open.spotify.com/track/2eoTwXiLMuu3ROZxJO7Gt9) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [從此過著幸福快樂的日子 \(feat\. J.Sheon\)](https://open.spotify.com/album/4p2yGZSWtSFjmO3RBddpkr) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [微波Love \- 《微波爐男孩的假期》插曲](https://open.spotify.com/track/0ZnSZRMqLEAbawvvZatbQD) | [邵羽](https://open.spotify.com/artist/7ybjv0mFpYBAUbTk6UiThE), [辛樂兒](https://open.spotify.com/artist/4UnxKtDx3oJXcFVEpsV89v) | [微波Love \- 《微波爐男孩的假期》插曲](https://open.spotify.com/album/2DdZTarsZD3M88rY6Q9HNY) | 3:04 | 2022-07-04 | 2022-07-07 |

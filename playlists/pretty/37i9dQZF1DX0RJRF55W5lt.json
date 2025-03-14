@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 589152,
+  "num_followers": 589306,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Western End (Birmingham Crew) Remix",
-        "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
-      },
-      "artists": [
-        {
-          "name": "B15 Project",
-          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
-        },
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 320173,
-      "name": "Western End (Birmingham Crew) - Remix",
-      "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Bills 2 Pay",
         "url": "https://open.spotify.com/album/5MjPumbBqd6C5BCO8Kvbdu"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 327573,
       "name": "Taboo (feat. Shola Ama) - MJ Cole Full Vocal Mix",
       "url": "https://open.spotify.com/track/4B5svMhrwXaCPl242LnYXN"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Western End (Birmingham Crew) Remix",
+        "url": "https://open.spotify.com/album/6GKoCNWIUhuhC5qrreWw7x"
+      },
+      "artists": [
+        {
+          "name": "B15 Project",
+          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
+        },
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 320173,
+      "name": "Western End (Birmingham Crew) - Remix",
+      "url": "https://open.spotify.com/track/5142HCfH9wINV6AhO47RGF"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "God Made Me Phunky",
-        "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
-      },
-      "artists": [
-        {
-          "name": "MD X-Spress",
-          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
-        }
-      ],
-      "duration_ms": 376626,
-      "name": "God Made Me Phunky (Extended Mix)",
-      "url": "https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "4X4, Vol. 1",
         "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+        "name": "God Made Me Phunky",
+        "url": "https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc"
       },
       "artists": [
         {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+          "name": "MD X-Spress",
+          "url": "https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS"
         }
       ],
-      "duration_ms": 328243,
-      "name": "Down On Me",
-      "url": "https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4"
+      "duration_ms": 376626,
+      "name": "God Made Me Phunky (Extended Mix)",
+      "url": "https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 328243,
+      "name": "Down On Me",
+      "url": "https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "UK Garage Beats V2",
         "url": "https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 309105,
       "name": "Triplets",
       "url": "https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 403006,
-      "name": "Pick Me Up - Licenced Mix",
-      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Deep Inside (Remixes)",
-        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 145940,
-      "name": "Deep Inside - Shadow Child Remix Edit",
-      "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
       },
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 403006,
+      "name": "Pick Me Up - Licenced Mix",
+      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Double 99 Double Pack",
         "url": "https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 324096,
       "name": "Jump to It",
       "url": "https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Deep Inside (Remixes)",
+        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 145940,
+      "name": "Deep Inside - Shadow Child Remix Edit",
+      "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
     },
     {
       "added_at": "2024-10-06 08:09:55",

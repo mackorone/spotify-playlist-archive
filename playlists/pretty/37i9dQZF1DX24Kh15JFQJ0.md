@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,193 likes - 221 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,197 likes - 221 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

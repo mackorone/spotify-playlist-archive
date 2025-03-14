@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop\. cover: Brandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,260 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,680 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 39 | [Smile](https://open.spotify.com/track/2hzKxuc2LwqMnkoVRMkV0B) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 3:38 |
 | 40 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 41 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
-| 42 | [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 |
+| 42 | [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Puff Daddy](https://open.spotify.com/artist/18WzSVxhKR3EcfIAB3Vp7c), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 |
 | 43 | [4 Ever](https://open.spotify.com/track/64IrqnZBUoCFmF8BXGOHnK) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 3:42 |
 | 44 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
 | 45 | [Ride wit U \(feat\. G\-Unit\)](https://open.spotify.com/track/6EhWEvgOrOfqMcnuwIkbiL) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [And Then...](https://open.spotify.com/album/32jhKaGCt2obnOK6H6E4wD) | 4:11 |

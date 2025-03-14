@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10895,
+  "num_followers": 10900,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "tu liga del pelo",
+        "url": "https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "tu liga del pelo",
+      "url": "https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "tu liga del pelo",
-        "url": "https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "tu liga del pelo",
-      "url": "https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 123835,
-      "name": "no estamos bien",
-      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 123835,
+      "name": "no estamos bien",
+      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Ya No Es Lo Mismo",
         "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "ni\u00f1o azul",
-        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "ni\u00f1o azul",
-      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "ni\u00f1o azul",
+        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "ni\u00f1o azul",
+      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
     },
     {
       "added_at": "2024-06-07 12:38:26",

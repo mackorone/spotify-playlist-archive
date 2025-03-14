@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Ninajirachi",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring DJ Carpenter & MASAKA",
   "name": "creamy",
   "tracks": [
     {
@@ -948,7 +948,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 161860,
       "name": "Anntower",
       "url": "https://open.spotify.com/track/3PjDpfizr7FYy56XHje5w2"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 163770,
       "name": "Call My Phone",
       "url": "https://open.spotify.com/track/4l1Z3ocLNGegBMlAuNRKMf"
@@ -5767,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2cm6nf2zFbIS0qvzxF1E5Y"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145371,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5UImj5JUImGIBK3lKW5g9E"
+    },
+    {
+      "album": {
         "name": "feel something real",
         "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
       },
@@ -8154,6 +8172,28 @@
       "duration_ms": 323000,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF"
+    },
+    {
+      "album": {
+        "name": "How Love",
+        "url": "https://open.spotify.com/album/2eMky3gQRCdzRTlcII78XX"
+      },
+      "artists": [
+        {
+          "name": "MOL\u00d8",
+          "url": "https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg"
+        },
+        {
+          "name": "Slackin Beats",
+          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348013,
+      "name": "How Love",
+      "url": "https://open.spotify.com/track/7ig7cs7MdbwP33Q28sBejx"
     },
     {
       "album": {
@@ -12538,7 +12578,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 129108,
       "name": "OUTTAHISMIND",
       "url": "https://open.spotify.com/track/65fPnec9ZIWi4YSMYOQXRm"
@@ -15136,6 +15176,28 @@
       "duration_ms": 246420,
       "name": "SHINE (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/6InxYUzTX1kZFzBPipw3dH"
+    },
+    {
+      "album": {
+        "name": "Shitty DJ's",
+        "url": "https://open.spotify.com/album/1W5K3XoVIirdRnzQkv8KoB"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "MASAKA",
+          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195872,
+      "name": "Shitty DJ's",
+      "url": "https://open.spotify.com/track/5CqVs6HwWyWF98ZeXS6SFh"
     },
     {
       "album": {

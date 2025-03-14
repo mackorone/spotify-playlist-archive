@@ -7243,6 +7243,32 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/6iguOPqXcNx3qOm8BuelPE"
+      },
+      "artists": [
+        {
+          "name": "JJD",
+          "url": "https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q"
+        },
+        {
+          "name": "Azertion",
+          "url": "https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G"
+        },
+        {
+          "name": "PhiloSofie",
+          "url": "https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177324,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/1MFnrx6HSx4whenAmvJtna"
+    },
+    {
+      "album": {
         "name": "Like A Stone",
         "url": "https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6"
       },

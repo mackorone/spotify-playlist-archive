@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Blue Lagoon",
+        "url": "https://open.spotify.com/album/4gZF5KNFfWKzeOPZrhGkDi"
+      },
+      "artists": [
+        {
+          "name": "Stevans",
+          "url": "https://open.spotify.com/artist/2Svj1vIED1AA2ZuHbe3aeX"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176549,
+      "name": "Blue Lagoon",
+      "url": "https://open.spotify.com/track/0yd5mCa3xMkCTwHt9PnY3r"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg"
       },
@@ -1050,6 +1068,28 @@
       "duration_ms": 210582,
       "name": "Enough",
       "url": "https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R"
+    },
+    {
+      "album": {
+        "name": "Baby Tape V2",
+        "url": "https://open.spotify.com/album/4IJokeTG49W36VJ4WtksXw"
+      },
+      "artists": [
+        {
+          "name": "LieVin",
+          "url": "https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU"
+        },
+        {
+          "name": "Mc Hero",
+          "url": "https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203021,
+      "name": "Euphoria (feat. Mc Hero)",
+      "url": "https://open.spotify.com/track/4FhBT5uVKfoNbcHPy9Qg5B"
     },
     {
       "album": {
@@ -3068,7 +3108,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 177317,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
@@ -3482,7 +3522,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"

@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "AppleBottomCigarets",
+        "url": "https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146312,
+      "name": "AppleBottomCigarets",
+      "url": "https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC"
+    },
+    {
+      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -7210,7 +7228,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 224260,
       "name": "Salt In The Wound",
       "url": "https://open.spotify.com/track/09IgqPIUJ4ZXimGri7Lfss"

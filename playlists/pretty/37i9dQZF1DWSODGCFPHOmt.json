@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Deorro\n",
-  "num_followers": 12115,
+  "num_followers": 12114,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
+        "name": "Los Ultimos Exitos De Rigo Tovar",
+        "url": "https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 381706,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 156499,
       "name": "Amarga navidad (Ranchera)",
       "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
-        "name": "Los Ultimos Exitos De Rigo Tovar",
-        "url": "https://open.spotify.com/album/0QXfEvC4wzO6uj8ftQcPY8"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 381706,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/2PsYNKGoDGJ3gRXuHICdRv"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1200,13 +1200,13 @@
       },
       "artists": [
         {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 258973,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP"
+      "duration_ms": 240906,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1216,13 +1216,13 @@
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
         }
       ],
-      "duration_ms": 240906,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
+      "duration_ms": 258973,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Ya Viene Nochebuena",
-        "url": "https://open.spotify.com/album/1KEpAUR80Z4bzoCkSaElJq"
-      },
-      "artists": [
-        {
-          "name": "La Reunion Nortena",
-          "url": "https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Ya Viene Nochebuena",
-      "url": "https://open.spotify.com/track/1LoZWjMW8UmuZ9tQTWSi0F"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Una Noche Especial",
         "url": "https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 169773,
       "name": "Una Noche Especial",
       "url": "https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Ya Viene Nochebuena",
+        "url": "https://open.spotify.com/album/1KEpAUR80Z4bzoCkSaElJq"
+      },
+      "artists": [
+        {
+          "name": "La Reunion Nortena",
+          "url": "https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Ya Viene Nochebuena",
+      "url": "https://open.spotify.com/track/1LoZWjMW8UmuZ9tQTWSi0F"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Santa Llegara",
-        "url": "https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 170469,
-      "name": "Santa Llegara",
-      "url": "https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Unidos En Navidad",
         "url": "https://open.spotify.com/album/1ThpEAdltcrkn3V68mb1iU"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 225280,
       "name": "Unidos En Navidad",
       "url": "https://open.spotify.com/track/120fyL4fR64MjBNqGvj5hv"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Santa Llegara",
+        "url": "https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 170469,
+      "name": "Santa Llegara",
+      "url": "https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1599,6 +1599,78 @@
       "duration_ms": 151029,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/3sXg5EsvBtERP2Dq1IW7rr"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Lleg\u00f3 Navidad",
+        "url": "https://open.spotify.com/album/1xF1Z0gC69q1fSYXPBO3gR"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte De Arturo Buenrostro",
+          "url": "https://open.spotify.com/artist/369DgLEdifFiRIfXMYaFFI"
+        },
+        {
+          "name": "Joe Lopez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xcx85w0ByWnWlf5GKf8iQ"
+        },
+        {
+          "name": "Sangre Felina",
+          "url": "https://open.spotify.com/artist/2PrBdIj2KxOVejt2oZiIVm"
+        },
+        {
+          "name": "Fievre Looka",
+          "url": "https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd"
+        },
+        {
+          "name": "El Pega Pega de Emilio Reyna",
+          "url": "https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630"
+        },
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        },
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        },
+        {
+          "name": "Los Chikos RK Ritmo Kumbiero",
+          "url": "https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt"
+        },
+        {
+          "name": "FABIAN Murillo",
+          "url": "https://open.spotify.com/artist/4i73eoFGJR41wLSYeu9s9E"
+        },
+        {
+          "name": "Grupo Lega2",
+          "url": "https://open.spotify.com/artist/7bcqkDEfp87vVefVVutfLJ"
+        },
+        {
+          "name": "La Decision Vallenata",
+          "url": "https://open.spotify.com/artist/66wbpZEgeQEqvaUw3FkXFM"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Lleg\u00f3 Navidad",
+      "url": "https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO"
+    },
+    {
+      "added_at": "2024-12-10 00:44:14",
+      "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
     },
     {
       "added_at": "2024-12-10 00:44:14",
@@ -1679,62 +1751,6 @@
     {
       "added_at": "2024-12-10 00:44:14",
       "album": {
-        "name": "Lleg\u00f3 Navidad",
-        "url": "https://open.spotify.com/album/1xF1Z0gC69q1fSYXPBO3gR"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte De Arturo Buenrostro",
-          "url": "https://open.spotify.com/artist/369DgLEdifFiRIfXMYaFFI"
-        },
-        {
-          "name": "Joe Lopez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xcx85w0ByWnWlf5GKf8iQ"
-        },
-        {
-          "name": "Sangre Felina",
-          "url": "https://open.spotify.com/artist/2PrBdIj2KxOVejt2oZiIVm"
-        },
-        {
-          "name": "Fievre Looka",
-          "url": "https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd"
-        },
-        {
-          "name": "El Pega Pega de Emilio Reyna",
-          "url": "https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630"
-        },
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        },
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        },
-        {
-          "name": "Los Chikos RK Ritmo Kumbiero",
-          "url": "https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt"
-        },
-        {
-          "name": "FABIAN Murillo",
-          "url": "https://open.spotify.com/artist/4i73eoFGJR41wLSYeu9s9E"
-        },
-        {
-          "name": "Grupo Lega2",
-          "url": "https://open.spotify.com/artist/7bcqkDEfp87vVefVVutfLJ"
-        },
-        {
-          "name": "La Decision Vallenata",
-          "url": "https://open.spotify.com/artist/66wbpZEgeQEqvaUw3FkXFM"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Lleg\u00f3 Navidad",
-      "url": "https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 175126,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/4x6shdvIGflnHe8DXfycjU"
-    },
-    {
-      "added_at": "2024-12-10 00:44:14",
-      "album": {
-        "name": "Navidad Para Ti",
-        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
     }
   ],
   "unique_name": "La Posada",

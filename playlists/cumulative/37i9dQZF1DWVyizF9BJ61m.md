@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-89 songs - 7 hr 22 min
+90 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-02-03 |  |
 | [This Hustling World](https://open.spotify.com/track/2qWDv8zJ4xRQWMT6BSjCNk) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Simigwa](https://open.spotify.com/album/72batX8m52vXaZwCTXkunL) | 4:18 | 2019-03-22 |  |
 | [Tire Loma da Nigbehin](https://open.spotify.com/track/1106NpuH96tUmf53qlKsoA) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Tire Loma Da Nigbehin](https://open.spotify.com/album/1wmnnD0JYdybQhfmis8CxK) | 4:48 | 2019-03-22 |  |
+| [Toko Lemba Te](https://open.spotify.com/track/3SzWz0CVFOSK9TPI7t6bjz) | [Kin'Gongolo Kiniata](https://open.spotify.com/artist/7zfl0DQa6Ds6AsB1OQBM54) | [Toko Lemba Te](https://open.spotify.com/album/4ZkY0knAmcWEXoXU9Zwytx) | 4:59 | 2025-03-14 |  |
 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 | 2019-03-22 | 2023-02-04 |
 | [Toumast Tincha](https://open.spotify.com/track/0Etl0p4Z6doS0xFxqdhrOn) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/3mBVW4xMIksTDGtYbjrpee) | 4:20 | 2019-03-22 | 2022-07-29 |
 | [Untitled \- Duma Remix](https://open.spotify.com/track/2MHZNa4P0tV42M0GqsiB77) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [Duma](https://open.spotify.com/artist/3jxgKGDgWk2Z6tV3xRc7qz) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 3:39 | 2022-04-22 |  |

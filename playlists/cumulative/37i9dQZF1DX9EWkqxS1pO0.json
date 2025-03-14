@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Emanetin",
+        "url": "https://open.spotify.com/album/30X5rlphMz3TskCYeJU5Jj"
+      },
+      "artists": [
+        {
+          "name": "Cem Pilevneli",
+          "url": "https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB"
+        }
+      ],
+      "date_added": "2025-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232989,
+      "name": "Emanetin",
+      "url": "https://open.spotify.com/track/2wpmIIWBRI7XfgeNMiLRXR"
+    },
+    {
+      "album": {
         "name": "Enfus",
         "url": "https://open.spotify.com/album/2VnweK6Od0fDlJFAnqIRbO"
       },
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 192818,
       "name": "Yalan",
       "url": "https://open.spotify.com/track/4V98Bxo13Dp12xfCsLDtkv"

@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "SWISH",
+        "url": "https://open.spotify.com/album/0yIBwiuxmH7yAtIYBZFGbS"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221665,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/3yFGk28PqlcjYu7dxA2fTY"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 42514,
+  "num_followers": 42570,
   "original_name": "When depression hits hard",
   "owner": {
     "name": "ada",
     "url": "https://open.spotify.com/user/adadoro"
   },
-  "snapshot_id": "AAABFBpt/QAy4JAt7yrXzbFiXrzEXROY",
+  "snapshot_id": "AAABF+CLs7r5ylFBOFd8N1vgsDB1KgEX",
   "tracks": [
     {
       "added_at": "2023-01-13 09:23:19",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2024-12-10 01:47:07",
+      "added_at": "2025-03-13 21:03:50",
       "album": {
-        "name": "Back to Myself",
-        "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/4LsmNvkjiYETzFCFfuShO6"
       },
       "artists": [
         {
-          "name": "Ben Thal",
-          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+          "name": "Menout",
+          "url": "https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r"
+        },
+        {
+          "name": "Deny Hanz",
+          "url": "https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh"
         }
       ],
-      "duration_ms": 180799,
-      "name": "Back to Myself",
-      "url": "https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu"
+      "duration_ms": 128159,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/7oaggiKDvE3qjGYoUWECcY"
     },
     {
       "added_at": "2023-01-13 09:24:34",
@@ -139,6 +143,22 @@
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "added_at": "2024-12-10 01:47:07",
+      "album": {
+        "name": "Back to Myself",
+        "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
+      },
+      "artists": [
+        {
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        }
+      ],
+      "duration_ms": 180799,
+      "name": "Back to Myself",
+      "url": "https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu"
     },
     {
       "added_at": "2023-01-13 09:47:28",

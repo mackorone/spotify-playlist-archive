@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 50490,
+  "num_followers": 50497,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
+        "name": "Rolfs Kinderfr\u00fchling",
+        "url": "https://open.spotify.com/album/60hOaInymmfKbZXFARP70V"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Der Mai, der Mai, der lustige Mai",
+      "url": "https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy"
+    },
+    {
+      "added_at": "2025-03-06 00:01:38",
+      "album": {
         "name": "Giraffenaffen 2",
         "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 187946,
       "name": "Probiers mal mit Gem\u00fctlichkeit",
       "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
-    },
-    {
-      "added_at": "2025-03-06 00:01:38",
-      "album": {
-        "name": "Rolfs Kinderfr\u00fchling",
-        "url": "https://open.spotify.com/album/60hOaInymmfKbZXFARP70V"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Der Mai, der Mai, der lustige Mai",
-      "url": "https://open.spotify.com/track/1FzrqPhsuTzoPNw0cVhtuy"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -559,18 +559,18 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
       },
       "artists": [
         {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
         }
       ],
-      "duration_ms": 108293,
-      "name": "Alle V\u00f6gel sind schon da",
-      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
+      "duration_ms": 183920,
+      "name": "Jetzt kommt die Biene Maja",
+      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -591,22 +591,18 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
-        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
+        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
+        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
       "artists": [
         {
-          "name": "Jasmin Wagner",
-          "url": "https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 148560,
-      "name": "Vogelhochzeit",
-      "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
+      "duration_ms": 108293,
+      "name": "Alle V\u00f6gel sind schon da",
+      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
     },
     {
       "added_at": "2025-03-06 00:01:38",
@@ -635,18 +631,22 @@
     {
       "added_at": "2025-03-06 00:01:38",
       "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
+        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "Jasmin Wagner",
+          "url": "https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
+      "duration_ms": 148560,
+      "name": "Vogelhochzeit",
+      "url": "https://open.spotify.com/track/5DNeogMzMBjMerArPIpKaG"
     },
     {
       "added_at": "2025-03-06 00:01:38",

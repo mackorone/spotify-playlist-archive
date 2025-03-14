@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: Taylor Tripodi \| Artwork: Ki Alexis
+> The best new music from independent faith\-based artists every Wednesday! Cover: Ki Alexis \| Artwork: Laina Deene
 
 425 songs - 1 day 1 hr 18 min
 

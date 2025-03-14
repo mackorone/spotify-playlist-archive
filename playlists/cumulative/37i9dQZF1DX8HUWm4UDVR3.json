@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Iliona",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Helena",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Dans le noir",
+        "url": "https://open.spotify.com/album/4nFrqweUIJydT8TfD9rgsk"
+      },
+      "artists": [
+        {
+          "name": "Julia Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/2HM3C5oR1s6JbdySoPQGoA"
+    },
+    {
+      "album": {
         "name": "Dans mon coeur, tu reviens",
         "url": "https://open.spotify.com/album/4jB21HxVGQORLHD7sqXQLX"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 216939,
       "name": "H24",
       "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 144667,
       "name": "Hyperactive",
       "url": "https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 123750,
       "name": "JSR",
       "url": "https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj"
@@ -2755,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Les lumi\u00e8res de la ville",
+        "url": "https://open.spotify.com/album/1oPxElWlM9tJrHAdbhzyZI"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192987,
+      "name": "Les lumi\u00e8res de la ville",
+      "url": "https://open.spotify.com/track/4Gkv8uXBAmjxvof04huAMu"
+    },
+    {
+      "album": {
         "name": "Et alors ?",
         "url": "https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw"
       },
@@ -2863,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Lunatique",
+        "url": "https://open.spotify.com/album/0UdpCslSIArXKqsY2Is3W9"
+      },
+      "artists": [
+        {
+          "name": "Petit Nuage",
+          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "Lunatique",
+      "url": "https://open.spotify.com/track/02PAzPg2ByMkWwkZYR75zJ"
+    },
+    {
+      "album": {
         "name": "L\u00e2che-moi la main",
         "url": "https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR"
       },
@@ -2943,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "Malabar Princess",
+        "url": "https://open.spotify.com/album/4aGgC83kLA8JW6rnTzCp3v"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Malabar Princess",
+      "url": "https://open.spotify.com/track/1IDXNg3gfcSsriLY3seMNB"
+    },
+    {
+      "album": {
         "name": "Mauvais Gar\u00e7on",
         "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
       },
@@ -2954,7 +3026,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 162706,
       "name": "Mauvais Gar\u00e7on",
       "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
@@ -3204,6 +3276,24 @@
       "duration_ms": 221846,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/3Ndb2yAdF5B5mLocz7iIyf"
+    },
+    {
+      "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "M\u00e9latonine",
+      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
     },
     {
       "album": {
@@ -4548,7 +4638,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 149080,
       "name": "T'es pas sexy",
       "url": "https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF"
@@ -4639,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "What if I break up with u ?",
+        "url": "https://open.spotify.com/album/7LxUCbMeIYevtmkQUymwnm"
+      },
+      "artists": [
+        {
+          "name": "Iliona",
+          "url": "https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "Text Back",
+      "url": "https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V"
+    },
+    {
+      "album": {
         "name": "Tirer la nuit sur les \u00e9toiles (Yan Wagner Remix)",
         "url": "https://open.spotify.com/album/0Je8ec42W3n68qOlKAZtEh"
       },
@@ -4712,7 +4820,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 165986,
       "name": "TOUT PERDU",
       "url": "https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql"

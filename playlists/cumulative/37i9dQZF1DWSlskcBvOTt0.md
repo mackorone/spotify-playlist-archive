@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-869 songs - 3 day 3 hr 45 min
+870 songs - 3 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Brisa](https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Brisa](https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q) | 5:33 | 2023-11-17 | 2024-10-26 |
 | [BroCode](https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [BroCode](https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B) | 4:59 | 2024-01-12 | 2024-04-19 |
 | [Broken Glass \- Edit](https://open.spotify.com/track/6uwbzJi0VR7IiHyOCILJpn) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Broken Glass \(Edit\)](https://open.spotify.com/album/1RAYsaN6abWtkeHRxHP7qY) | 3:08 | 2025-03-07 |  |
+| [Burn The Night](https://open.spotify.com/track/2qIAl1Pzgf2xT6cL2jwGMu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [Burn The Night](https://open.spotify.com/album/1bKCKiIuGPMfmu7tWFcTjS) | 3:36 | 2025-03-07 |  |
 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 | 2025-03-07 |  |
 | [Báilame](https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Báilame](https://open.spotify.com/album/3IVUOxF3fzVUdkeAIyo0a0) | 5:43 | 2024-12-20 | 2025-03-10 |
 | [Bécane \- Kimotion x Quentro & Tuna Remix](https://open.spotify.com/track/2u5u9JBOCUf8jE3pUwMbhb) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup) | [Bécane \(Kimotion x Quentro & Tuna Remix\)](https://open.spotify.com/album/2qU1STlRzIGGZ1f4oEGPiO) | 3:33 | 2024-07-05 | 2024-09-07 |
@@ -313,7 +314,7 @@
 | [Home \- Boys Noize Remix](https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nobody Is Not Loved, Remixes, Pt\. 4](https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4) | 6:17 | 2022-07-08 | 2023-01-27 |
 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-05-06 | 2024-03-27 |
 | [Honest \- Beije Remix](https://open.spotify.com/track/2hRIX5atyidrLfBuRyyMsm) | [Vidno](https://open.spotify.com/artist/2uBgJ4hDGwZM5r9MbLNZwy), [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Protoplasta \(Remixes\)](https://open.spotify.com/album/6jtCT81CDZSx38Q0c4lvr7) | 8:31 | 2021-07-02 | 2022-07-27 |
-| [Hora](https://open.spotify.com/track/7LgqCZKYZsMwT5EJssYJ7D) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Hora](https://open.spotify.com/album/3Pt08Ktn21fKD0IQLfO8RD) | 3:42 | 2024-06-28 |  |
+| [Hora](https://open.spotify.com/track/7LgqCZKYZsMwT5EJssYJ7D) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Hora](https://open.spotify.com/album/3Pt08Ktn21fKD0IQLfO8RD) | 3:42 | 2024-06-28 | 2025-03-14 |
 | [Horizon](https://open.spotify.com/track/7AntWY2dWqjQXFCKLqDomR) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [Horizon](https://open.spotify.com/album/72ZrMLaF4S1iUUCwXRuPWX) | 7:32 | 2021-05-26 | 2022-07-29 |
 | [Horizon Red](https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb) | 4:19 | 2023-02-24 | 2023-11-05 |
 | [Horizon Red](https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc) | 4:19 | 2023-11-03 | 2024-04-13 |

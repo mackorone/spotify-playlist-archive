@@ -2,7 +2,7 @@
 
 ### [Best of Indie 2015](https://open.spotify.com/playlist/37i9dQZF1DX6B9HH2fw0SO)
 
-> 2015 highlights from the home of indie music.
+> The Indie highlights of 2015\. Cover: Tame Impala
 
 184 songs - 12 hr 14 min
 

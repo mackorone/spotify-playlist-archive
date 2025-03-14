@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z899AAAAAADoRgXbDoGYsKIWzohMfDo5",
+  "snapshot_id": "Z9DOgAAAAABa0bhKuZ4Gdtsc5tTwFFfg",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Infectado",
-      "url": "https://open.spotify.com/track/28SWifFVWke3sC0ubxnYqC"
+      "duration_ms": 239000,
+      "name": "Entre Tus LLamas (El Tunche)",
+      "url": "https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Entre Tus LLamas (El Tunche)",
-      "url": "https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu"
+      "duration_ms": 198146,
+      "name": "Infectado",
+      "url": "https://open.spotify.com/track/28SWifFVWke3sC0ubxnYqC"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Simplemente",
-      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infectado",
         "url": "https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 179000,
       "name": "Ahora Volar\u00e9",
       "url": "https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rutas",
         "url": "https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Simplemente",
+      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 283374,
       "name": "2020",
       "url": "https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 244869,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0TELUUtorjfY4gvlaVuiTu"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 244869,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0TELUUtorjfY4gvlaVuiTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Es",
         "url": "https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 195758,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "A Nadie Le Importa",
+      "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "A Nadie Le Importa",
-      "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 138337,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 187539,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 187539,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Haz el Amor",
-      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 250920,
       "name": "Dilo por M\u00ed",
       "url": "https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Haz el Amor",
+      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
     },
     {
       "added_at": null,

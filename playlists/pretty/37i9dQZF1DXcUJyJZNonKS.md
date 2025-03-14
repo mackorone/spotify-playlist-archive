@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,418 likes - 76 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,454 likes - 76 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 37 | [Unite up!](https://open.spotify.com/track/6zsE5fWY4onqiKUvOOSMfj) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo) | [Unite up!](https://open.spotify.com/album/5CHZGDeflVkbgsAAOdp2Nf) | 3:59 |
 | 38 | [inclusion](https://open.spotify.com/track/7dUcO2oaPo43YX3f9TtNTQ) | [Arika](https://open.spotify.com/artist/11vy8Mhrk3WUPzr8ZuS2vT) | [inclusion](https://open.spotify.com/album/5rPO6b7kogp7vUTC3axSjc) | 4:30 |
 | 39 | [Unsung ballad](https://open.spotify.com/track/1NhztrYvI1JxVdW412qz2i) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Unsung ballad](https://open.spotify.com/album/2dLxY2Ziedc8gqT6vHHWv3) | 3:50 |
-| 40 | [煌めき](https://open.spotify.com/track/6xM1Ad2AvUs2cngcBvgPK8) | [TenTwenty](https://open.spotify.com/artist/2sjb6E1LPVdikOfSHnawJM) | [煌めき](https://open.spotify.com/album/1sbMFUGGgwNgz4eexdNOEM) | 3:37 |
+| 40 | [煌めき](https://open.spotify.com/track/6xM1Ad2AvUs2cngcBvgPK8) | [TenTwenty](https://open.spotify.com/artist/3RNu8rbQ2lnxmJb1SkkTS5) | [煌めき](https://open.spotify.com/album/1sbMFUGGgwNgz4eexdNOEM) | 3:37 |
 | 41 | [Wonderlust!!](https://open.spotify.com/track/1eFE2MInED6mRGWbdfqetL) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [Wonderlust!!](https://open.spotify.com/album/7oRJQBs0pkRE0NHwBlud2Q) | 3:34 |
 | 42 | [ライフ イズ ビューティフル](https://open.spotify.com/track/1SRJVcxArjAIkFtCNIMfVw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ライフ イズ ビューティフル](https://open.spotify.com/album/746QUwPqyePL3oPmE9IMDi) | 4:17 |
 | 43 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 |

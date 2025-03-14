@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Context",
+        "url": "https://open.spotify.com/album/0dKVmAfWPz7JOoxuTXv83O"
+      },
+      "artists": [
+        {
+          "name": "Nelcon",
+          "url": "https://open.spotify.com/artist/61xqUrJF99VPEWL442d7R9"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142151,
+      "name": "Alles goed?",
+      "url": "https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG"
+    },
+    {
+      "album": {
         "name": "Als Ik Verdwaal",
         "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 180146,
       "name": "Blijf Maar Zitten",
       "url": "https://open.spotify.com/track/2Im5y148VhyId6QP2Theig"
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 192755,
       "name": "Heilige Nacht",
       "url": "https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi"
@@ -1398,6 +1416,24 @@
       "duration_ms": 153831,
       "name": "Je Geeft Me Niets",
       "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
+    },
+    {
+      "album": {
+        "name": "Joanne",
+        "url": "https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Joanne",
+      "url": "https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj"
     },
     {
       "album": {
@@ -2069,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Opslaan",
+        "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
+      },
+      "artists": [
+        {
+          "name": "Hiltje",
+          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Opslaan",
+      "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
+    },
+    {
+      "album": {
         "name": "Perfect voor een Ander",
         "url": "https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX"
       },
@@ -2536,7 +2590,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 121293,
       "name": "TWIJFELS",
       "url": "https://open.spotify.com/track/64b003qjzmQcod0AKscKVw"

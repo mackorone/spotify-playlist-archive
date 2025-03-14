@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Bamby",
+  "description": "Les hits dancehall du moment. Photo : DJ Kawest",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -976,6 +976,24 @@
       "duration_ms": 185000,
       "name": "BAT'",
       "url": "https://open.spotify.com/track/0dZJhAam3Cj9vueFfYU1FS"
+    },
+    {
+      "album": {
+        "name": "Batch\u00e9 a bo'y",
+        "url": "https://open.spotify.com/album/22mUkVsT9qqWoVmrh6pTn5"
+      },
+      "artists": [
+        {
+          "name": "Kryssy",
+          "url": "https://open.spotify.com/artist/0aFrpBv0tkmDm9qFlXK2Gc"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109792,
+      "name": "Batch\u00e9 a bo'y",
+      "url": "https://open.spotify.com/track/4sDXudO7gpCFqsxFUuMb7E"
     },
     {
       "album": {
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 144915,
       "name": "Cvni",
       "url": "https://open.spotify.com/track/2m0S0wcHghSpdCHmg8YBX7"
@@ -3539,6 +3557,28 @@
     },
     {
       "album": {
+        "name": "Firewall (Issu du film Zion)",
+        "url": "https://open.spotify.com/album/7l9aVQJWkRMsnMIHypLfyA"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Gyzmo",
+          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120130,
+      "name": "Firewall - Issu du film Zion",
+      "url": "https://open.spotify.com/track/2711cFB8hwR3Jy7Kaz1z7K"
+    },
+    {
+      "album": {
         "name": "New Motion",
         "url": "https://open.spotify.com/album/5tL7qwPbH3xoAXcLdPaHsf"
       },
@@ -3939,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "Breakfast JD",
+        "url": "https://open.spotify.com/album/5XOTg4mAGyRhWDIvt6MaPE"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "JD",
+          "url": "https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122448,
+      "name": "Girl like you",
+      "url": "https://open.spotify.com/track/7bq72dPA7RvpZ2j9mTQ7IA"
+    },
+    {
+      "album": {
         "name": "God a Bless Me",
         "url": "https://open.spotify.com/album/4pfrKQTJSpdJJqCcaUAefs"
       },
@@ -4092,7 +4154,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 117627,
       "name": "Gunman",
       "url": "https://open.spotify.com/track/0ba0O7H3njLImm5DnsQHa1"
@@ -5106,7 +5168,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 153077,
       "name": "Jumanji",
       "url": "https://open.spotify.com/track/0eXooFEiS5060vL0fbNjGi"
@@ -5486,6 +5548,32 @@
       "duration_ms": 222120,
       "name": "La La (feat. Suarez)",
       "url": "https://open.spotify.com/track/7GlOrQ7xu2KbxWQKXQKcQA"
+    },
+    {
+      "album": {
+        "name": "La piraterie",
+        "url": "https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy"
+      },
+      "artists": [
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        },
+        {
+          "name": "BIGDA",
+          "url": "https://open.spotify.com/artist/7zVRNjTpd96uUDsDbRr879"
+        },
+        {
+          "name": "Loeil",
+          "url": "https://open.spotify.com/artist/4AOjG0hai0eDiUdy1TEuaN"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170135,
+      "name": "La piraterie",
+      "url": "https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C"
     },
     {
       "album": {
@@ -6662,7 +6750,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 170684,
       "name": "Montoya Freestyle",
       "url": "https://open.spotify.com/track/7xPM1v262uR06tH4VbLn5U"
@@ -6838,6 +6926,36 @@
       "duration_ms": 145000,
       "name": "M\u00e9t\u00e9 Kow",
       "url": "https://open.spotify.com/track/7BwfjietX7YEXECGi49z5M"
+    },
+    {
+      "album": {
+        "name": "Narcos",
+        "url": "https://open.spotify.com/album/2bRRFf3Q4ZA9ji74oCIDf6"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "Foxii",
+          "url": "https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv"
+        },
+        {
+          "name": "Travon John",
+          "url": "https://open.spotify.com/artist/2VM6HZlcBPRoyj8O2N233m"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129593,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/310uX0CtnHdFhbTAjADKBs"
     },
     {
       "album": {
@@ -7828,7 +7946,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 151128,
       "name": "PKM",
       "url": "https://open.spotify.com/track/3C05UuZ8PvWCsYczM7L62l"

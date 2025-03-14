@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-197 songs - 14 hr 53 min
+198 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 | 2022-09-08 |  |
 | [Hear Say \(O\. W\. Hearsay\)](https://open.spotify.com/track/5HD5H3atbtdQITgejlPRCr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 4:58 | 2022-09-08 |  |
 | [Hey Buddy Bolden \- 2004 Remaster](https://open.spotify.com/track/2TZkPrgr5iflrNaLPN6S4f) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:27 | 2022-09-08 |  |
-| [I Don't Mind \(2012 \- Remaster\)](https://open.spotify.com/track/3gugvstMwcUIvducPkcAQJ) | [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH) | [Devil May Care](https://open.spotify.com/album/7dZ56h74DtqqliVi8I8zpA) | 2:55 | 2023-12-13 |  |
+| [I Don't Mind](https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [I Don’t Mind](https://open.spotify.com/album/6QbmGqAoE5zgRf0SXcpu0d) | 4:12 | 2025-03-13 |  |
+| [I Don't Mind \(2012 \- Remaster\)](https://open.spotify.com/track/3gugvstMwcUIvducPkcAQJ) | [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH) | [Devil May Care](https://open.spotify.com/album/7dZ56h74DtqqliVi8I8zpA) | 2:55 | 2023-12-13 | 2025-03-14 |
 | [I Don't Mind \- 2012 Remastered Version](https://open.spotify.com/track/0GTMhiWe40NyyUvVn3HPDn) | [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH) | [Devil May Care](https://open.spotify.com/album/2O30JvLNM3CMExr1IHmtql) | 2:55 | 2022-09-08 | 2023-12-14 |
 | [I'm Checkin' Out, Goom'bye](https://open.spotify.com/track/73bqQYYWmLKa84O0io4E99) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Matt Munisteri](https://open.spotify.com/artist/2vQcS9cDI4xWJqbqGzch7M), [Mark Shane](https://open.spotify.com/artist/7jJRTFVSa3AEiLLQOWRBgG), [Lee Hudson](https://open.spotify.com/artist/7gcEfARxzB32rfJmwyCvA4) | [Strictly Romancin'](https://open.spotify.com/album/0oyu5Vuai0HPO8zR9X0s36) | 2:25 | 2022-09-08 |  |
 | [Imagine My Frustration](https://open.spotify.com/track/1xyeSKAwSndIk52wwkRPms) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella At Duke's Place](https://open.spotify.com/album/1pznhTLv7PV8Lx9lqMJJ5I) | 4:51 | 2022-09-08 |  |

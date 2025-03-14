@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: YungFLX
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,226 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,229 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 30 | [No Follow \(feat\. DADA\)](https://open.spotify.com/track/4DBZjUJJIvvtPCA4Msg7ff) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Aurora](https://open.spotify.com/album/135Vc6lX1BUhxMdTBTtSxM) | 2:59 |
 | 31 | [CHA CHA 愛](https://open.spotify.com/track/0xUlzv4pnxwaecooxhIhHJ) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [CHA CHA 愛](https://open.spotify.com/album/5fbcRlQBjheUPCLfbK0FXk) | 4:06 |
 | 32 | [Vroom](https://open.spotify.com/track/5yOvoKSWK5gpMbaKY0KQqH) | [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl) | [Skill Tapes Vol.1](https://open.spotify.com/album/6Fxm2zCarpeY7SAHKpCncv) | 2:15 |
-| 33 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/6USsKcAGvRZJwoKdvMznWr) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 |
+| 33 | [SPEND MY TIME](https://open.spotify.com/track/3F9VGQmXajdFHOLOJ4eHHs) | [AMY McFLY](https://open.spotify.com/artist/1Op0Eo5nrQPh7uMedJUiEG), [Y2](https://open.spotify.com/artist/71oYGYgvAWdULjk3ffj1oy) | [SPEND MY TIME](https://open.spotify.com/album/5kahTU9HMIBriBysTGKZtG) | 2:37 |
 | 34 | [Welcome To TOKYO SEKAI](https://open.spotify.com/track/77CNoHj00Fgrd7vP5Zl79r) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Welcome To TOKYO SEKAI](https://open.spotify.com/album/65DWTvguJFh62qVbheYYEl) | 3:12 |
 | 35 | [Chandelier \(feat\. Hideyoshi, DALU & OSAMI\)](https://open.spotify.com/track/4JzNVvkFyZ9WFAoZOqy4jO) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [Tokyo Young Vision](https://open.spotify.com/album/2au1F39Khj54T7HJqd1Aal) | 3:37 |
 | 36 | [Girls Don't Cry](https://open.spotify.com/track/0ElITOt1EJo4yc6bZvS0PI) | [SENA](https://open.spotify.com/artist/594nTuyRvGYcEoCWNGGfhc), [Aroma\-T](https://open.spotify.com/artist/45WPZ8R8tmuMGv2PIj8m9k), [Awkisonic](https://open.spotify.com/artist/0pp7Inzv8t7mpInEHqrMNn) | [Girls Don't Cry](https://open.spotify.com/album/2dbpqsXvODf3vqrz1ld1zB) | 2:15 |

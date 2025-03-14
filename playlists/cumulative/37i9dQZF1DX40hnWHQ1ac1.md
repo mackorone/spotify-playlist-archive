@@ -4,7 +4,7 @@
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-52 songs - 2 hr 38 min
+52 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Intro: Boy Meets Evil](https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 2:01 | 2025-02-21 | 2025-03-13 |
 | [lock / unlock \(with benny blanco & Nile Rodgers\)](https://open.spotify.com/track/3aKXtIPNRoD73KLpsNnNoK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:01 | 2025-02-21 |  |
 | [MAMA](https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:32 | 2025-02-21 | 2025-03-13 |
-| [message from j\-hope 1](https://open.spotify.com/track/3cPPHC8D5RazZyDxCqACvt) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 2:09 | 2025-03-12 |  |
+| [message from j\-hope 1](https://open.spotify.com/track/3cPPHC8D5RazZyDxCqACvt) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 5:27 | 2025-03-12 |  |
 | [message from j\-hope 2](https://open.spotify.com/track/30Zo4COas3X7JBDpH9VHIq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 4:54 | 2025-03-12 |  |
 | [message from j\-hope 3](https://open.spotify.com/track/0CIAnNBUwLHTj8J9r16s1i) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 4:51 | 2025-03-12 |  |
 | [message from j\-hope 4](https://open.spotify.com/track/5hD6VGZn6Ez7eLhngrwx3P) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 7:49 | 2025-03-12 |  |

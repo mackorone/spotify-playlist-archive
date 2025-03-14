@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Chiderah",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Oscar Farrell",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2660,6 +2660,24 @@
       "duration_ms": 202000,
       "name": "Leave",
       "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
+    },
+    {
+      "album": {
+        "name": "Like You Are For Me",
+        "url": "https://open.spotify.com/album/4KD1vLTfYjEEa6QbI1pnsd"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Like You Are For Me",
+      "url": "https://open.spotify.com/track/46kq5YIZR735eci0ZerNly"
     },
     {
       "album": {

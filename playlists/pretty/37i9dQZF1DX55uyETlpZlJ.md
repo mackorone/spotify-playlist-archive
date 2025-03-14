@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,499 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,498 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 20 | [Preethiso Hudugane](https://open.spotify.com/track/3esWWiqywedcWEYdEP2vaI) | [Dharini KS](https://open.spotify.com/artist/0x4mGzwdNn1xtc0nRYBI7k), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3) | [Preethiso Hudugane](https://open.spotify.com/album/6DHNy6yTHjHAIBSQQPjjVZ) | 4:07 |
 | 21 | [For Those to fall in Love](https://open.spotify.com/track/6DXSOpsDZljIwPBLpSmYEU) | [Venugopal](https://open.spotify.com/artist/0V0ufIK3fWHgWIftcg6zVA) | [For Those to fall in Love](https://open.spotify.com/album/3zQtTnau9we6vwRyLTyjmK) | 3:08 |
 | 22 | [YETHAKE](https://open.spotify.com/track/3WLAXeHYLcmsIQrS9EUOXR) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [YETHAKE](https://open.spotify.com/album/1osvJxXuOInCyOKbBJuH2C) | 3:07 |
-| 23 | [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 |
+| 23 | [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Pacific](https://open.spotify.com/artist/3pALV1fSZ5E1tFNcTy68nG) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 |
 | 24 | [Bhavanegalu](https://open.spotify.com/track/4I2VkfH3rFx6amyICzBmP2) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/1qk0d5mYA3z9QIRzDvxlug) | 2:32 |
 | 25 | [Badalaagide](https://open.spotify.com/track/0bGRYvjZLBAhxU3wJh6tg6) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Rashmi Chandur](https://open.spotify.com/artist/6ecDw2oSDtKNo4JsjRgNSl), [Mandara Battalahalli](https://open.spotify.com/artist/6xSItRD3bqfh2SzHD8FfSd), [Trupthi Venkatesh](https://open.spotify.com/artist/463qw2xFuiT18yR7eeWc9X) | [Badalaagide](https://open.spotify.com/album/1FN1cREO6FUjwfTJ0yzaiQ) | 1:28 |
 | 26 | [New Year Party](https://open.spotify.com/track/0CLeumt8dQq1FA7oZjnwet) | [Lokesh](https://open.spotify.com/artist/1pt6sORY72y0gAnBQTCU67), [Sagar](https://open.spotify.com/artist/4uABnNRBR5deOEFP4L9pbV) | [New Year Party](https://open.spotify.com/album/5lPHdXPoERuYwERbxwg7YV) | 3:22 |

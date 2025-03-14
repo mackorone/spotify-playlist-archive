@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: MIHYANG MOON\(문미향\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-242 songs - 17 hr 14 min
+243 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 | 2023-03-31 | 2024-11-07 |
 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 | 2023-07-19 | 2024-08-11 |
 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 | 2022-05-18 | 2024-09-20 |
-| [Escape](https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD) | [Ellie Lee](https://open.spotify.com/artist/4tjf3R0z1fqvExRMTz5ZnC) | [Escape](https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb) | 5:52 | 2024-06-07 |  |
+| [Escape](https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD) | [Ellie Lee](https://open.spotify.com/artist/4tjf3R0z1fqvExRMTz5ZnC) | [Escape](https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb) | 5:52 | 2024-06-07 | 2025-03-14 |
 | [Escape from the city](https://open.spotify.com/track/1FGtv4md7PpOofoNF8V6pl) | [DOPEY](https://open.spotify.com/artist/1CXyr1fzlKCTjAVfvNGJgM) | [Escape from the city](https://open.spotify.com/album/6SfNyrW3v25cRcdDm7GLks) | 3:57 | 2022-11-11 | 2024-09-20 |
 | [Estate \(feat\. Koh Sangji\)](https://open.spotify.com/track/1c2UAjB8uv6oAYYwjcoFcG) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD), [Koh Sangji](https://open.spotify.com/artist/6aLJ3PPQ6P81K2eh5RIvIB) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 5:45 | 2025-02-18 |  |
 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 | 2023-12-12 | 2024-11-07 |
@@ -152,6 +152,7 @@
 | [Perfume](https://open.spotify.com/track/02xYtlVTLBZXxXIP2kec41) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Perfume](https://open.spotify.com/album/2HwZWaK4Sp3fnrbgfIz5Vq) | 3:12 | 2022-05-03 | 2023-02-08 |
 | [Petrichor \(Nature\)](https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y) | [Ham Moon](https://open.spotify.com/artist/0dtGNROSjYX3vMQO0eAKCV) | [Petrichor \(Nature\)](https://open.spotify.com/album/4CGwxkmRPClHlBhiinoLOy) | 4:15 | 2022-11-11 | 2024-09-20 |
 | [Pleasant Picnic](https://open.spotify.com/track/0E8wShlzhdYlk6rsjPVp8y) | [Gold Groove](https://open.spotify.com/artist/58wAApDuSJLljGr3IIgdlQ) | [Pleasant Picnic](https://open.spotify.com/album/1baRvDw2Ez8iq02DuFIOJo) | 2:28 | 2022-11-11 | 2023-02-08 |
+| [Please Send Me Someone to Love](https://open.spotify.com/track/6acyUDWS5vViRb2iC9oJ8K) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Please Send Me Someone to Love](https://open.spotify.com/album/0eO8FMPDHkQGzfGrtQ6FWt) | 5:25 | 2025-03-13 |  |
 | [Pray On A Rope](https://open.spotify.com/track/2JPJlvi9ARshM4U6dwmHF2) | [Phil Yoon](https://open.spotify.com/artist/73EDYkCTptRHqBov4HEnX3) | [Pray On A Rope](https://open.spotify.com/album/0rpDRzu9q0XRYVUOJQ2k14) | 8:54 | 2022-05-03 | 2023-10-05 |
 | [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 | 2023-04-10 | 2024-11-07 |
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 | 2024-10-10 |

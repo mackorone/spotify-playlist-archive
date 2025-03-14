@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Melly",
-  "num_followers": 371858,
+  "num_followers": 371846,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Raio X - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
         "name": "At\u00e9 o Pr\u00f3ximo Carnaval Vol.2",
         "url": "https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 137738,
       "name": "S\u00f3zin",
       "url": "https://open.spotify.com/track/0QRnYbGiAwdpe9jfA6YF6o"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Raio X - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -427,18 +427,26 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "Manifesta\u00e7\u00e3o do Amor",
-        "url": "https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR"
+        "name": "Acr\u00f4nico",
+        "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
       },
       "artists": [
         {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 162321,
-      "name": "Manifesta\u00e7\u00e3o do Amor",
-      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF"
+      "duration_ms": 235610,
+      "name": "Nocaute",
+      "url": "https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -463,26 +471,18 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "Acr\u00f4nico",
-        "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
+        "name": "Manifesta\u00e7\u00e3o do Amor",
+        "url": "https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR"
       },
       "artists": [
         {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
         }
       ],
-      "duration_ms": 235610,
-      "name": "Nocaute",
-      "url": "https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC"
+      "duration_ms": 162321,
+      "name": "Manifesta\u00e7\u00e3o do Amor",
+      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "Como Posso Amar Assim?",
-        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 193905,
-      "name": "Como Posso Amar Assim?",
-      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
         "name": "Reca\u00edda",
         "url": "https://open.spotify.com/album/2e5eqvR4bgZoPEuJzS2w02"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 148692,
       "name": "Reca\u00edda",
       "url": "https://open.spotify.com/track/75XqGeWAYcC0Z69T04zDYM"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
+        "name": "Como Posso Amar Assim?",
+        "url": "https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 193905,
+      "name": "Como Posso Amar Assim?",
+      "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "BiKE (blv)",
-        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "BiKE (blv)",
-      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
         "name": "Te espero ou fujo?",
         "url": "https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 134161,
       "name": "Te espero ou fujo?",
       "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
+        "name": "BiKE (blv)",
+        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "BiKE (blv)",
+      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
+        "name": "Megalomania",
+        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 159637,
+      "name": "Pelo Avesso",
+      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
         "name": "solto (hist\u00f3rias de amor)",
         "url": "https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 190834,
       "name": "solto (hist\u00f3rias de amor)",
       "url": "https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
-        "name": "Megalomania",
-        "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Pelo Avesso",
-      "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "N\u00e3o Posso",
-        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147015,
-      "name": "N\u00e3o Posso",
-      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 186223,
       "name": "CHUVA DE VER\u00c3O",
       "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
+        "name": "N\u00e3o Posso",
+        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147015,
+      "name": "N\u00e3o Posso",
+      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/5wZF0pmiCMH1VBtgKKRDBt"
+      },
+      "artists": [
+        {
+          "name": "Mia Wicthoff",
+          "url": "https://open.spotify.com/artist/0CSCklDDhib5bXwhRiJtiX"
+        }
+      ],
+      "duration_ms": 162393,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4pXEUOMdsICjRobdpXsZgV"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
         "name": "BAILA",
         "url": "https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/5wZF0pmiCMH1VBtgKKRDBt"
-      },
-      "artists": [
-        {
-          "name": "Mia Wicthoff",
-          "url": "https://open.spotify.com/artist/0CSCklDDhib5bXwhRiJtiX"
-        }
-      ],
-      "duration_ms": 162393,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/4pXEUOMdsICjRobdpXsZgV"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
         "name": "SALVE-SE!",
         "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
+        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 244827,
+      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 148037,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
-        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 244827,
-      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
+        "name": "TEORIA DO CAOS",
+        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "A GENTE SE FERRA JUNTO",
+      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 127433,
       "name": "Nem Me Convidou",
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
-        "name": "TEORIA DO CAOS",
-        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "A GENTE SE FERRA JUNTO",
-      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
     },
     {
       "added_at": "2025-03-07 03:00:33",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-03-07 03:00:33",
       "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
-    },
-    {
-      "added_at": "2025-03-07 03:00:33",
-      "album": {
         "name": "Fanfic de Ver\u00e3o",
         "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 160000,
       "name": "Fanfic de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
+    },
+    {
+      "added_at": "2025-03-07 03:00:33",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
     },
     {
       "added_at": "2025-03-07 03:00:33",

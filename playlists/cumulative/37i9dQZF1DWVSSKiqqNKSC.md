@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-222 songs - 18 hr 4 min
+223 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Castigala](https://open.spotify.com/track/5X2uPHvhiKoR4YNRMdh3N6) | [Maraca](https://open.spotify.com/artist/6oF5lC04WNCwxLzLxbbH0d) | [Tremenda Rumba!](https://open.spotify.com/album/7g0XzXIwcd8C1De5aNDf39) | 3:54 | 2020-08-25 | 2022-07-29 |
 | [Castigo](https://open.spotify.com/track/2ROuadDh7V4jTxsx57CwZN) | [Leslie Guzmán](https://open.spotify.com/artist/1G04jUqD6Vmz62WvomSTgK), [Los Yakuza](https://open.spotify.com/artist/5TpLSxUPvubzVZZP2TMvO3) | [Castigo](https://open.spotify.com/album/3rpJ20BsOxNSj8SWa9iQrc) | 3:35 | 2020-08-25 | 2022-07-28 |
 | [Chaca Chaca](https://open.spotify.com/track/0qNtH66LPPsndQtypId11G) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Chaca Chaca](https://open.spotify.com/album/5gu8x2EvnAMd6fEAjxsJJm) | 3:56 | 2020-08-25 | 2022-07-28 |
+| [Chambonea](https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm), [Gilbert Man](https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv) | [Chambonea \(feat\. Gilbert Man\)](https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD) | 3:55 | 2025-03-07 |  |
 | [Comentarios](https://open.spotify.com/track/5DybOfZIp6isaVnUCSmqcB) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Made in Habana](https://open.spotify.com/album/74QZy4tcjEtvSkXnBxZo78) | 4:24 | 2020-08-25 | 2022-07-16 |
 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 | 2020-08-25 |  |
 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 | 2020-08-25 | 2024-04-19 |
@@ -65,7 +66,7 @@
 | [El Cuchi Cuchi](https://open.spotify.com/track/4zWXW9mUa0L0v9vxNmsJ0T) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [Mayimbe Full](https://open.spotify.com/album/38iX3I9Fltkp1vk2YVVMW4) | 5:02 | 2020-08-25 | 2022-10-05 |
 | [El Cuchi Cuchi](https://open.spotify.com/track/6mXA7FAAsnSCHfk4gQx3U4) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [De La Habana a Perú](https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0) | 5:02 | 2020-08-25 | 2023-03-31 |
 | [El Cuchi Cuchi](https://open.spotify.com/track/6wH6KePkBihLwj6R82d2FL) | [Barbaro Fines y su Mayimbe](https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43) | [De la Habana a Perú](https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0) | 5:02 | 2022-12-30 | 2024-04-19 |
-| [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 | 2020-08-25 |  |
+| [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 | 2020-08-25 | 2025-03-14 |
 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 | 2020-08-25 |  |
 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 | 2020-08-25 |  |
 | [El penal](https://open.spotify.com/track/0j8PJyGPOaLJZyWIxw5MjN) | [Barbaro Fines y su Mayimbe](https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43) | [La frontera](https://open.spotify.com/album/65qGuBMtiluzmMpHS9V9p6) | 6:00 | 2020-08-25 | 2022-07-06 |

@@ -8515,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "cotton candy",
+        "url": "https://open.spotify.com/album/2aXArhYwAzZIgKVceLDwkX"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142600,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/3W6IeQYR29rUpVQ2xE2FO5"
+    },
+    {
+      "album": {
         "name": "Organic Human",
         "url": "https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2"
       },
@@ -23378,7 +23396,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 200333,
       "name": "Magenta",
       "url": "https://open.spotify.com/track/07Agqdd4SD83JRgN19OjdW"
@@ -24776,7 +24794,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -38464,7 +38482,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 170833,
       "name": "Statement",
       "url": "https://open.spotify.com/track/2HYzFav2bZZTEDkryvhYqW"

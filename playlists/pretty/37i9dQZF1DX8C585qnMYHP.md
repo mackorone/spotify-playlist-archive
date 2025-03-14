@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,649 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,672 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 40 | [Bearded Fireworm](https://open.spotify.com/track/5BcRJWAjXxxhdpwEo4wW06) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
 | 41 | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/album/5P7A3lqcPyjge2jR5p376p) | 3:25 |
 | 42 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
-| 43 | [Interstellar](https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:37 |
+| 43 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
 | 44 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 45 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
 | 46 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 |
-| 47 | [the mould](https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 2:21 |
-| 48 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
-| 49 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
+| 47 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
+| 48 | [Interstellar](https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:37 |
+| 49 | [the mould](https://open.spotify.com/track/5boRy13YbOA3MRR5aI5M11) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for](https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7) | 2:21 |
 | 50 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
-| 51 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
-| 52 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 |
+| 51 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 |
+| 52 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
 | 53 | [Distance Learner](https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Meridians](https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy) | 4:17 |
 | 54 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
 | 55 | [O Bicho Anda Por Aí](https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [O Bicho Anda Por Aí](https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya) | 2:32 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 81 | [Me she said](https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC) | [toechter](https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL) | [Epic Wonder](https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl) | 2:56 |
 | 82 | [Forest Drone](https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Forest Drone](https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45) | 4:47 |
 | 83 | [LA](https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV) | [Amor Muere](https://open.spotify.com/artist/6nrwVCgpbdrOfGiu8A0tVh), [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R), [Concepción Huerta](https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa), [Gibrana Cervantes](https://open.spotify.com/artist/3ckZktRMn9jidQuRarXJ7T), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [A time to love, a time to die](https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW) | 5:12 |
-| 84 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
-| 85 | [Awhile](https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Awhile](https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a) | 2:57 |
+| 84 | [Awhile](https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Awhile](https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a) | 2:57 |
+| 85 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
 | 86 | [EVER](https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [THE QUANTA SERIES](https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29) | 6:29 |
 | 87 | [Nowhere](https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Nowhere](https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh) | 3:49 |
 | 88 | [Echo Drift](https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:19 |

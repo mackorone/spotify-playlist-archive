@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > 「<a href="https://eva\-x\-expo.exhibit.jp/">エヴァンゲリオン大博覧会―東京凱旋</a>」9/13\~10/22まで六本木ミュージアムで開催！期間限定エヴァ博ver.でプレイリスト公開！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,884 likes - 125 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,943 likes - 125 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

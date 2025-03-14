@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 159813,
       "name": "Call Of",
       "url": "https://open.spotify.com/track/1MbnWmMVrMZZdXtJu5Aepb"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 164200,
       "name": "Chichi",
       "url": "https://open.spotify.com/track/4JjHKSKZvTRhDbhlI7H36Y"
@@ -2890,6 +2890,28 @@
       "duration_ms": 164470,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB"
+    },
+    {
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/0Li1phOnY4yKMjMMcjzxrN"
+      },
+      "artists": [
+        {
+          "name": "Le Rain-T",
+          "url": "https://open.spotify.com/artist/436LYXLKpr9NVSiKZHeU3k"
+        },
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2pPS7gfzafAiB8Txsi8Kn3"
     },
     {
       "album": {
@@ -4749,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Mauvaise id\u00e9e (Au pays des Merveilles)",
+        "url": "https://open.spotify.com/album/4IeHU1yMrCPJ09yoLn7thf"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135790,
+      "name": "Mauvaise id\u00e9e - Au pays des Merveilles",
+      "url": "https://open.spotify.com/track/2VF9CftZC0nOKYiN7lJ6ks"
+    },
+    {
+      "album": {
         "name": "Maux de t\u00eate",
         "url": "https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y"
       },
@@ -5318,6 +5358,28 @@
       "duration_ms": 221050,
       "name": "Nous deux",
       "url": "https://open.spotify.com/track/7eB8T5wFiukyKGw3gtWyJJ"
+    },
+    {
+      "album": {
+        "name": "N\u00b01",
+        "url": "https://open.spotify.com/album/3vo1DGBT0rnIMoEmlzy1jq"
+      },
+      "artists": [
+        {
+          "name": "Booska-P",
+          "url": "https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh"
+        },
+        {
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61951,
+      "name": "N\u00b01",
+      "url": "https://open.spotify.com/track/4MO9FQjvq19aQYHzwPS0EK"
     },
     {
       "album": {
@@ -6892,7 +6954,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 215581,
       "name": "Sans limites",
       "url": "https://open.spotify.com/track/2gkshQ8u25t77sNqlPrOuj"

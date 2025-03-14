@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Elodie in cover
+> I brani italiani che abbiamo on repeat 🔁 Bresh in cover
 
-208 songs - 10 hr 52 min
+211 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,8 +69,9 @@
 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 | 2024-09-19 | 2024-10-18 |
 | [Festa Totale](https://open.spotify.com/track/4iNEQbRbTupwcg6rq7GuuU) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Festa Totale](https://open.spotify.com/album/1pFeLYpEpwFbseYoQwA7QT) | 2:31 | 2024-07-01 | 2024-09-13 |
 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-05 | 2025-01-01 |
+| [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/track/7GGNubArnL3x9nCxUKdgIq) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/album/4yVlbRV12SRiBbpsCZSyhe) | 2:25 | 2025-03-13 |  |
 | [Fino al Blackout](https://open.spotify.com/track/3wcwQwRNqdSmQwmgXYFFQb) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Fino al Blackout](https://open.spotify.com/album/07IMbmQoLqaTH4zgLi4Fof) | 2:40 | 2024-07-01 | 2024-07-05 |
-| [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/track/4RV9fq4QKnW346GRdZRIje) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/album/4f2kBU9QkpvEh5RpRwkCg2) | 3:20 | 2025-02-20 |  |
+| [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/track/4RV9fq4QKnW346GRdZRIje) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/album/4f2kBU9QkpvEh5RpRwkCg2) | 3:20 | 2025-02-20 | 2025-03-14 |
 | [FUOCO DI PAGLIA ঌ \(con Marco Mengoni, Frah Quintale, Gemitaiz\)](https://open.spotify.com/track/3ybXr8SkOEVUhtKFb8lYwe) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:24 | 2024-07-01 | 2024-09-03 |
 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 | 2025-02-12 |  |
 | [Fuorionda](https://open.spotify.com/track/67Vto9p46Nk6I0kwi4ZwKu) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Fuorionda](https://open.spotify.com/album/5dZWhLmCP7e6aVeP52tRUR) | 3:50 | 2025-01-09 | 2025-02-26 |
@@ -116,19 +117,21 @@
 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 | 2025-01-16 |  |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-07-01 | 2024-10-04 |
 | [MALE DA VENDERE](https://open.spotify.com/track/0upKqTnhLIUUafluo1Hdm4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:06 | 2024-09-19 | 2024-12-13 |
-| [Maledetta Milano](https://open.spotify.com/track/2ULpVjBQ6JiicPxgKNDFOW) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Maledetta Milano](https://open.spotify.com/album/0w491XgukKEcfYdK6ERhVi) | 2:34 | 2025-01-16 |  |
+| [Maledetta Milano](https://open.spotify.com/track/2ULpVjBQ6JiicPxgKNDFOW) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Maledetta Milano](https://open.spotify.com/album/0w491XgukKEcfYdK6ERhVi) | 2:34 | 2025-01-16 | 2025-03-14 |
 | [MAMMAMÌ](https://open.spotify.com/track/0Q81Qb9ruKqHpz7e67MZDK) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/53YWreunB2TxyqSFbI8Uqc) | 3:05 | 2024-07-01 | 2024-09-20 |
-| [ManDarE TuTto All'aRIA](https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [ManDarE TuTto All'aRIA](https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv) | 2:49 | 2024-11-28 |  |
+| [ManDarE TuTto All'aRIA](https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [ManDarE TuTto All'aRIA](https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv) | 2:49 | 2024-11-28 | 2025-03-14 |
 | [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 | 2024-07-01 | 2024-09-13 |
 | [Marziani](https://open.spotify.com/track/333snPErLohYVTHPI5BT3k) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Marziani](https://open.spotify.com/album/7K9JAOo3NYuRep8omW7rM6) | 3:11 | 2024-11-07 | 2024-11-22 |
 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 | 2025-01-23 | 2025-02-12 |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-07-01 | 2024-11-20 |
 | [Menomale che c'è il mare](https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:53 | 2024-08-15 | 2024-12-06 |
+| [MEZZANOTTE](https://open.spotify.com/track/6jkimv6uOyQoMYJyjR9xUc) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MEZZANOTTE](https://open.spotify.com/album/7crRZ8PZ1yTQMJlpFxY8Ek) | 2:54 | 2025-03-13 |  |
 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-01 | 2024-11-29 |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-07-01 | 2024-09-20 |
 | [Milano](https://open.spotify.com/track/553jvkYRVqqgzuPRLOcZCG) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Milano](https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO) | 3:27 | 2025-03-06 |  |
 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-08-01 | 2024-12-06 |
 | [MILLE VOTE ANCORA](https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [MILLE VOTE ANCORA](https://open.spotify.com/album/2p5SxGXydxUaria6k51asC) | 3:12 | 2025-02-12 |  |
+| [millionaire](https://open.spotify.com/track/0CzO56ZwtIHnZyIiX3EzJ0) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [radio vega](https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ) | 2:29 | 2025-03-13 |  |
 | [MMH \(feat\. Rose Villain\)](https://open.spotify.com/track/49mN8ph1LK58r7TMYW1Srb) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [MMH \(feat\. Rose Villain\)](https://open.spotify.com/album/5JUg1RbqXhroV8e4nfxSMy) | 3:07 | 2024-10-17 |  |
 | [Molto amore](https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Molto amore](https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK) | 2:55 | 2024-07-01 | 2024-07-12 |
 | [Montecristo](https://open.spotify.com/track/5Mug8werT9EigkfO7dr5ld) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Montecristo](https://open.spotify.com/album/0FhHrmeDZA5RpNtxBP15hM) | 3:56 | 2024-11-21 | 2025-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPGyzbqYrKl.md) - [plain]
 
 > De la savane à la toundra, des steppes aux rizières, 100 berceuses pour faire le tour du monde
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388 likes - 100 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 100 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPGyzbqYrKl.md) - [plain]
 | 83 | [Dododilaé](https://open.spotify.com/track/04hOoSJl3i5sEJIv02yUUV) | [Yela](https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1) | [Île de La Réunion: Rondes, comptines et berceuses](https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3) | 2:03 |
 | 84 | [Dodo la minette](https://open.spotify.com/track/2G7SasY9e9zmDppeCiRBsW) | [Yela](https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1) | [Île de La Réunion: Rondes, comptines et berceuses](https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3) | 1:16 |
 | 85 | [La rivir Tanié instrumental](https://open.spotify.com/track/3e9ZdURSbsl5tjqlioDDfs) | [Yela](https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1) | [Île de La Réunion: Rondes, comptines et berceuses](https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3) | 1:56 |
-| 86 | [Spiat Oustalye Igrouchki](https://open.spotify.com/track/6VKsXdrFuBZyb7yd0FgVn0) | [Mamouchka](https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI) | [Russie: Rondes, Comptines Et Berceuses](https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv) | 2:23 |
-| 87 | [Spi Moi Roussky Medvejionok](https://open.spotify.com/track/6Mtxc7Lexbhp5s5WQ68zWq) | [Mamouchka](https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI) | [Russie: Rondes, Comptines Et Berceuses](https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv) | 2:43 |
-| 88 | [Vyrastala Iolka](https://open.spotify.com/track/4X65zsoXlYNqpIv12BVhf9) | [Mamouchka](https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI) | [Russie: Rondes, Comptines Et Berceuses](https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv) | 2:13 |
+| 86 | [Spiat oustalye igrouchki](https://open.spotify.com/track/6VKsXdrFuBZyb7yd0FgVn0) | [Mamouchka](https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI) | [Russie: Rondes, comptines et berceuses](https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv) | 2:23 |
+| 87 | [Spi moi roussky medvejionok](https://open.spotify.com/track/6Mtxc7Lexbhp5s5WQ68zWq) | [Mamouchka](https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI) | [Russie: Rondes, comptines et berceuses](https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv) | 2:43 |
+| 88 | [Vyrastala iolka](https://open.spotify.com/track/4X65zsoXlYNqpIv12BVhf9) | [Mamouchka](https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI) | [Russie: Rondes, comptines et berceuses](https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv) | 2:13 |
 | 89 | [Käuner du lotta, min vän](https://open.spotify.com/track/51zIAMeCk0t5lgmbyEH44D) | [Asa Junesjo](https://open.spotify.com/artist/0tPzu2qFGeNLJTv5pkq4lq) | [Scandinavie: Rondes, comptines et berceuses](https://open.spotify.com/album/4r2m242FpXi6YVVRqqzx5i) | 1:07 |
 | 90 | [Vem kan segla](https://open.spotify.com/track/0UjbLYOe7o3RdKlwxrlHAr) | [Asa Junesjo](https://open.spotify.com/artist/0tPzu2qFGeNLJTv5pkq4lq) | [Scandinavie: Rondes, comptines et berceuses](https://open.spotify.com/album/4r2m242FpXi6YVVRqqzx5i) | 2:16 |
 | 91 | [Dodo pitite a manman](https://open.spotify.com/track/0YI4SZg2Mj3N2sYQ9jIksK) | [Magguy](https://open.spotify.com/artist/7l69UQCHPmiRC2ivxIhYYH) | [La Guadeloupe: Rondes, comptines et berceuses](https://open.spotify.com/album/5NfvABuCZeNtasTrnXigM1) | 1:16 |

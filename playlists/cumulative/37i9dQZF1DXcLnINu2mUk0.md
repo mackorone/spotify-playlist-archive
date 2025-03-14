@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão
 
-702 songs - 1 day 13 hr 19 min
+704 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 | 2022-07-07 | 2024-02-16 |
 | [1 Coríntios 13](https://open.spotify.com/track/2FmiCpiXBdFR46rfpxz16h) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [1 Coríntios 13](https://open.spotify.com/album/0kyr08hzAoBL00bs9z3e3y) | 2:01 | 2024-01-19 | 2024-02-09 |
 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 | 2023-07-27 | 2023-09-08 |
-| [100 Por Dentro](https://open.spotify.com/track/0mbwsHKXSjnEUC9IkiQ7gz) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [100 Por Dentro](https://open.spotify.com/album/4LqmbSxVRP1q3yBOS2slOQ) | 2:54 | 2025-02-28 |  |
+| [100 Por Dentro](https://open.spotify.com/track/0mbwsHKXSjnEUC9IkiQ7gz) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [100 Por Dentro](https://open.spotify.com/album/4LqmbSxVRP1q3yBOS2slOQ) | 2:54 | 2025-02-28 | 2025-03-14 |
 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 | 2024-02-16 |  |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-07 | 2024-02-16 |
 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 | 2023-04-13 | 2024-03-15 |
@@ -43,6 +43,7 @@
 | [Aleluia](https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Aleluia](https://open.spotify.com/album/6kXdYalPHFucKRbnK0KzTD) | 3:31 | 2023-04-20 | 2023-05-26 |
 | [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 | 2024-07-25 | 2025-02-07 |
 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 | 2023-07-27 | 2023-08-18 |
+| [AMANHÃ](https://open.spotify.com/track/68OXpLEwLxY65PMQDi5hxb) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Shattz](https://open.spotify.com/artist/7o3EDG0MKrg2b2Z6uhFhfx), [Dicarlos](https://open.spotify.com/artist/3VGSDJwOzFBJCQVIDuwuvF) | [AMANHÃ](https://open.spotify.com/album/7GRaZwU2Wu73itDkHyf4Zn) | 3:04 | 2025-03-14 |  |
 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 | 2023-07-27 |  |
 | [Amar De Novo](https://open.spotify.com/track/2sDhRWH2VrOYdYwmmUciAo) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5), [Nelson Nhachungue](https://open.spotify.com/artist/3vDKB1JXTy4KJteAUoh4yZ) | [Amar De Novo](https://open.spotify.com/album/0aIYlO8e2HHdye8mHIBLMA) | 3:04 | 2023-04-20 | 2023-05-12 |
 | [ameio](https://open.spotify.com/track/0Ou5tT3nO5PuBRu3jFoIel) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9), [Icaro](https://open.spotify.com/artist/7qQEuTCea0daGR9iutPPNS) | [ameio](https://open.spotify.com/album/2qRVirO04WlAI2qoK6Hzdf) | 3:36 | 2023-03-01 | 2023-03-25 |
@@ -440,7 +441,7 @@
 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 | 2022-08-04 | 2022-09-02 |
 | [Nunca Vou Deixar](https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Nunca Vou Deixar](https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0) | 2:52 | 2023-06-22 | 2023-07-21 |
 | [Nuvem](https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ) | [YVNG CIRIUS](https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA) | [11](https://open.spotify.com/album/17i647lAXr88FRR46cWxJQ) | 2:51 | 2022-11-18 | 2022-12-24 |
-| [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 | 2025-02-07 |  |
+| [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 | 2025-02-07 | 2025-03-14 |
 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 | 2023-06-29 | 2023-07-21 |
 | [Não Consigo](https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l) | [Kamuya](https://open.spotify.com/artist/3rv2srJPEeA1vW8vhjE2U7), [sheluvsHUGO](https://open.spotify.com/artist/4fkojJvVGvyu6oh5cutj2g) | [Não Consigo](https://open.spotify.com/album/73wkFM58mY6OoFB2hg8ve1) | 3:33 | 2023-07-06 | 2023-07-28 |
 | [Não Dá](https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Não Dá](https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW) | 2:40 | 2024-02-02 | 2024-04-19 |
@@ -562,6 +563,7 @@
 | [Saudades](https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Saudades](https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7) | 3:32 | 2023-09-07 | 2023-09-22 |
 | [Say It](https://open.spotify.com/track/6b1aciAJJR9pwStI0jTaoe) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Say It](https://open.spotify.com/album/1DovFjeVIHEDrr4TSgeqHQ) | 3:07 | 2024-05-30 | 2024-08-23 |
 | [Say Now](https://open.spotify.com/track/6GQ3ZjpAvzlBKH0eSrgSim) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Say Now](https://open.spotify.com/album/2fq8Q2fhkLWyB6FK6agP4l) | 4:42 | 2023-11-17 | 2023-12-15 |
+| [Say Something](https://open.spotify.com/track/58XjOiqlTBkjphq9LvQZjb) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Say Something](https://open.spotify.com/album/5SsymrDivUY3SJhNdbFpyp) | 2:54 | 2025-03-14 |  |
 | [Say Yeah](https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Say Yeah](https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid) | 2:50 | 2022-08-04 | 2022-09-17 |
 | [Scroll](https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Scroll](https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ) | 2:37 | 2022-07-07 | 2023-04-28 |
 | [Se Solta](https://open.spotify.com/track/1ChK1yPWB25WNNVeKkCJLA) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB), [Southline Studios](https://open.spotify.com/artist/5a9DXAq1JDZQAW9TdE943b) | [Até que vc volte](https://open.spotify.com/album/7kFbTOktJv8c6PlTXUboEz) | 2:21 | 2023-11-10 | 2023-11-18 |

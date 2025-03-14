@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "date_added": "2025-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "album": {
         "name": "Sincerely yours (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/02bhP9otK5sM8f3fPcxE17"
       },
@@ -2886,7 +2904,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 239000,
       "name": "Wall",
       "url": "https://open.spotify.com/track/7wSb2eRkdEyRmyxFIduPPj"

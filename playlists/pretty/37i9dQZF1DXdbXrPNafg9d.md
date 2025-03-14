@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,449 likes - 175 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,511 likes - 175 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

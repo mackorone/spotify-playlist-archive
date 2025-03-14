@@ -4,7 +4,7 @@
 
 > Papillon entra na zona.
 
-737 songs - 1 day 14 hr 59 min
+738 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Dona do Love](https://open.spotify.com/track/0yJDSlfiupPOhmBFFZaWrQ) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD) | [Dona do Love](https://open.spotify.com/album/5n6ndgfRieqDfbQ6vJhI7U) | 3:27 | 2024-08-08 | 2025-02-21 |
 | [DONDE](https://open.spotify.com/track/4EiZlZ37Q8EnQIU7e2aD2y) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [DONDE](https://open.spotify.com/album/1YR6A1jw2N2B9WlvqIMjfu) | 3:31 | 2022-12-02 | 2023-10-01 |
 | [Dormi No Carro](https://open.spotify.com/track/45v2Tp3itHwoAD5CoCErgc) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Dormi No Carro](https://open.spotify.com/album/0jiBatlpuclG0BU2C1Ancy) | 2:41 | 2022-12-09 | 2023-01-13 |
+| [Doutros Tempos](https://open.spotify.com/track/68tOsrDRmVLWqXT5UnfEBi) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I) | [Doutros Tempos](https://open.spotify.com/album/37Pg6LLOUvYeYgB5dSukTR) | 3:30 | 2025-03-14 |  |
 | [Drill Clássico](https://open.spotify.com/track/0kDR6qXUeXyYqeIVdZDVmI) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV) | 2:24 | 2023-07-13 | 2023-07-28 |
 | [Drill Clássico](https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:24 | 2023-07-13 | 2023-07-17 |
 | [Drill Clássico](https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:24 | 2023-07-06 | 2023-07-14 |

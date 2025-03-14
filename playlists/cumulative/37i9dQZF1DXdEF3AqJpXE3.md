@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: JENNIE, Doechii
+> The best tracks from the world of music\. Cover: LBI利比
 
 401 songs - 21 hr 37 min
 

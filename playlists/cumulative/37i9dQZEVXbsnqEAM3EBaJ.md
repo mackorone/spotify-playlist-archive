@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,339 songs - 6 day 16 hr 20 min
+2,340 songs - 6 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,7 @@
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-03-03 | 2023-03-11 |
 | [Death Smiles](https://open.spotify.com/track/3RqoNA5WD78DPHLNHolEve) | [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Death Smiles](https://open.spotify.com/album/1n707PSUo802nfoorSP0j5) | 2:39 | 2023-09-22 | 2023-10-15 |
 | [Death's Forgotten Children](https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr), [Tom Barber](https://open.spotify.com/artist/4tDJ7Ft27GE2DF3vHPHVjB) | [Death's Forgotten Children](https://open.spotify.com/album/5CG4JdGFTYxBXfdJM7MUEK) | 4:10 | 2023-08-25 | 2023-09-12 |
-| [Debo Aterrizar](https://open.spotify.com/track/4MQEsa25Jc6mfLaFYmYhIo) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 4:44 | 2025-03-07 |  |
+| [Debo Aterrizar](https://open.spotify.com/track/4MQEsa25Jc6mfLaFYmYhIo) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 4:44 | 2025-03-07 | 2025-03-14 |
 | [Deja Vu](https://open.spotify.com/track/6TSNKoF2jWWIiFfK4g8SFI) | [Mike Froudarakis](https://open.spotify.com/artist/3gGBjO6ke4rl7eFJ2XFpFg), [Alexander Leeming Froudakis](https://open.spotify.com/artist/6h94vIxQQmEQL26ver8Vt8) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 2:20 | 2023-05-12 | 2023-05-20 |
 | [Delirium](https://open.spotify.com/track/2sXmwKdAO4WiwhoV5EqcgG) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [1977](https://open.spotify.com/album/6mcf4AWNm0DG0vR0RAWkNN) | 4:02 | 2023-06-23 | 2023-06-25 |
 | [Demon Prince Regent](https://open.spotify.com/track/2HYhuvHTNQh5Ise5Aclcjl) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Trouble and Their Double Lives](https://open.spotify.com/album/51yy7fZaOrnD33sRlDxY4U) | 5:33 | 2023-04-28 | 2023-05-27 |
@@ -493,6 +493,7 @@
 | [Digging In The Dirt](https://open.spotify.com/track/3ZbWD4SYQB2MQBVkadiUBQ) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 5:24 | 2024-03-29 | 2024-04-07 |
 | [Digging In The Dirt](https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Digging In The Dirt](https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL) | 5:24 | 2024-03-08 | 2024-03-30 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-08 | 2024-02-17 |
+| [Dime Quién](https://open.spotify.com/track/7CRodV5Cwy7IyKbP9rYTOx) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Antología](https://open.spotify.com/album/08miYSY2Iw8dWN6zX7KnBH) | 3:32 | 2025-03-07 |  |
 | [Disappear \- Morales 12" Mix](https://open.spotify.com/track/4LdfjHLN9QmDXIL3SM1Z6l) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Disappear \(Morales 12" Remix\)](https://open.spotify.com/album/07spIwEwfzUs73ATX4FNF7) | 6:35 | 2025-01-10 | 2025-01-18 |
 | [Disco Inferno \- 7” Edit](https://open.spotify.com/track/0KlrGXNr2OriHrZwXI7jHT) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak), [The Beatmasters](https://open.spotify.com/artist/1mPzbhI5OxkyJnTeuKeD8q) | [What's Love Got to Do with It \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0LqFtawEnmutBvNiV6Ngq7) | 3:50 | 2024-05-17 | 2024-05-26 |
 | [Disease](https://open.spotify.com/track/59UJiPmDhdEILOKgrJ6WP3) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Disease](https://open.spotify.com/album/4uDU83M7EkDXDb2iHahVIr) | 3:46 | 2025-01-31 | 2025-02-23 |

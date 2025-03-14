@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Een Filosofie Van Het Riool",
+        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326653,
+      "name": "Een Filosofie Van Het Riool",
+      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
+    },
+    {
+      "album": {
         "name": "La Boh\u00e8me",
         "url": "https://open.spotify.com/album/2XvjwHk3WFT1fiVnmttQbD"
       },
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 136522,
       "name": "Heel misschien",
       "url": "https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 193758,
       "name": "Hou Van Mij",
       "url": "https://open.spotify.com/track/0p8NKK6n6wrvgPf0AUho6h"
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 210453,
       "name": "Jouw Ogen",
       "url": "https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw"
@@ -1814,6 +1832,24 @@
       "duration_ms": 230826,
       "name": "Kom Terug",
       "url": "https://open.spotify.com/track/4ovxUTMs3Mi7ntZS2tJojk"
+    },
+    {
+      "album": {
+        "name": "Koortsdroom",
+        "url": "https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG"
+      },
+      "artists": [
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162039,
+      "name": "Koortsdroom (Nooit Spijt)",
+      "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
     },
     {
       "album": {
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 206382,
       "name": "Mag Ik Alsjeblieft (In Het Wiel II)",
       "url": "https://open.spotify.com/track/7De0CL6kj5lJ2xFtwIBoin"
@@ -3010,7 +3046,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 177500,
       "name": "Traag Naar De Hemel",
       "url": "https://open.spotify.com/track/2M1OBzpqNliMeYOI47LOWK"
@@ -3646,7 +3682,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 200617,
       "name": "Zomer",
       "url": "https://open.spotify.com/track/2vbFcIIVaftdr2ZgnVa3rQ"

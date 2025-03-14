@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,253 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,255 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 29 | [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 |
 | 30 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |
 | 31 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/2OmmOXE9y2XeMP8EaLcn8v) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [The Penguin \(Soundtrack from the HBO® Original Series\) \[Expanded Edition\]](https://open.spotify.com/album/3Iqpj3lrnfMLOwL0FuxXaM) | 3:14 |
-| 32 | [MacArthur Park \- Single Version](https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:55 |
-| 33 | [Memoir of a Snail](https://open.spotify.com/track/6JLSDSyBfFWP1QWLBNB9kz) | [Australian Chamber Orchestra](https://open.spotify.com/artist/694yYA2tOpl9qHCdzwkISn), [Jane Sheldon](https://open.spotify.com/artist/1DL5xJ97sRiNgi90l8FHGq), [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk) | [Memoir of a Snail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1H8bD3MLvHXILLndloghYL) | 1:30 |
+| 32 | [Memoir of a Snail](https://open.spotify.com/track/6JLSDSyBfFWP1QWLBNB9kz) | [Australian Chamber Orchestra](https://open.spotify.com/artist/694yYA2tOpl9qHCdzwkISn), [Jane Sheldon](https://open.spotify.com/artist/1DL5xJ97sRiNgi90l8FHGq), [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk) | [Memoir of a Snail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1H8bD3MLvHXILLndloghYL) | 1:30 |
+| 33 | [MacArthur Park \- Single Version](https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:55 |
 | 34 | [No Use](https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj) | [John Hawkes](https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J) | [True Detective: Night Country \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL) | 2:30 |
 | 35 | [Leaving Darrien](https://open.spotify.com/track/5Ebf43ulRIpMHSaWzSIIZL) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Baby Reindeer \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1mO7Kknfl075sdQfCQ4ixh) | 2:43 |
 | 36 | [The Chrysalis](https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt) | 2:38 |

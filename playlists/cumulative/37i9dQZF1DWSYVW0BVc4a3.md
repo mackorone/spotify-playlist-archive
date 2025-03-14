@@ -4,7 +4,7 @@
 
 > IC & Virji <3
 
-1,185 songs - 3 day 16 hr 59 min
+1,188 songs - 3 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-11 |  |
 | [GET TUSSI \- CLUB MIX](https://open.spotify.com/track/69b9Gd41v8EwhltyaIYz8R) | [GOLFOS](https://open.spotify.com/artist/5MfCvmoakBhPyPpI7vPqwW) | [GET TUSSI](https://open.spotify.com/album/656I2UvrA69BgrM19LPwa9) | 5:27 | 2023-11-23 |  |
 | [Get Up](https://open.spotify.com/track/07K4JzMfVOsHvPW9PZ9lYM) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Trick, Pt\. 2](https://open.spotify.com/album/32EQU8Pm0tHEoKtasPVIkk) | 7:29 | 2022-12-08 | 2023-03-10 |
+| [Get Up](https://open.spotify.com/track/2M3a7PGk8OTLHdW5NiftJ4) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Get Up](https://open.spotify.com/album/6y9plS2pNJ9OJ1OIduAffr) | 2:59 | 2025-03-13 |  |
 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 | 2024-10-03 |  |
 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 | 2024-04-11 |  |
 | [ghost \(feat\. HUMAN\) \- Alex Wann Remix](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [ghost \(feat\. HUMAN\) \[Alex Wann Remix\]](https://open.spotify.com/album/72cnTA7svTEtPEVa081Ccf) | 3:52 | 2023-10-05 |  |
@@ -389,6 +390,7 @@
 | [Go Down \- Radio Edit](https://open.spotify.com/track/2NqUYJZVWmoGCwLgtG8l1d) | [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI) | [Veneno](https://open.spotify.com/album/592z69I0rGTgPotWgEXe9b) | 3:07 | 2023-08-31 | 2023-10-06 |
 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 | 2025-01-16 |  |
 | [Go The Distance](https://open.spotify.com/track/59S4EEFLfs9XdLWA3RaayU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:16 | 2023-07-14 | 2023-11-17 |
+| [Going Higher](https://open.spotify.com/track/5z846rGy88Ci59M82v4oyO) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb), [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Going Higher \(Azzecca Remix\)](https://open.spotify.com/album/5udUxdbrOT11GefmroqEhs) | 3:48 | 2025-03-13 |  |
 | [Going in Circles](https://open.spotify.com/track/1Qs5NlNCYCFndmydOy8CXw) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Watergate 20 Years \(Pt\. 7/8\)](https://open.spotify.com/album/3PHKzKiRwzgFoGdbbdLsET) | 6:33 | 2022-11-24 | 2023-01-27 |
 | [Good Time](https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj) | [Good Time / So High \(You Get Me\)](https://open.spotify.com/album/0uhxOD0lit7bsUE1BQFwey) | 4:27 | 2024-03-07 | 2024-04-05 |
 | [Goodbye \- DJ Seinfeld Remix](https://open.spotify.com/track/1G6yMiZEf1A3HzpjekA6RZ) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Goodbye \(DJ Seinfeld Remix\)](https://open.spotify.com/album/1d4OoBwqA4Ll4lKlO9kYdq) | 3:27 | 2023-11-30 |  |
@@ -510,6 +512,7 @@
 | [Io](https://open.spotify.com/track/5fFbgdPYMQR0mGrBUBN8eT) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Io](https://open.spotify.com/album/4ixBSm1M7HT8EdDWXN8Qoa) | 4:05 | 2023-04-06 | 2023-04-28 |
 | [Is This Trance?](https://open.spotify.com/track/7MKWQvnlQ313OC5dmn1rYW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Is This Trance?](https://open.spotify.com/album/4kt0nA6zxPblHRty9hYLqr) | 4:49 | 2022-12-27 | 2023-01-02 |
 | [Island Letters](https://open.spotify.com/track/1jbZ1XWoHv3ji2dNUdQNJZ) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [Island Letters](https://open.spotify.com/album/2xmRROXpdmu9vUECAsL4pc) | 5:39 | 2022-12-27 | 2023-01-02 |
+| [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 | 2025-03-13 |  |
 | [It's Alright](https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Focus \- EP](https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79) | 5:47 | 2024-03-21 | 2024-04-05 |
 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 | 2022-08-18 | 2022-08-20 |
 | [Jade](https://open.spotify.com/track/0x3ZlVGcLzNIjyDPmvhVCi) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Florilegia II](https://open.spotify.com/album/1R3HlVU8Ch92aq9hzWEojs) | 3:06 | 2025-02-20 |  |

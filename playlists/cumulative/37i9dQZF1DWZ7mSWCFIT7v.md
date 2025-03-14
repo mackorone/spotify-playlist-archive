@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-370 songs - 1 day 5 hr 48 min
+371 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [CHIAROSCURO](https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 7:56 | 2021-10-06 | 2022-07-27 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-15 | 2023-04-26 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 | 2023-04-15 | 2024-04-19 |
-| [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-08-17 |  |
+| [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-08-17 | 2025-03-14 |
 | [Climate Flu](https://open.spotify.com/track/6RyTgXg86oSjqQFIdZQa1Z) | [Duckett](https://open.spotify.com/artist/2F1Xapfmt9HXopbgBuAfvC), [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [The Climate Flu EP](https://open.spotify.com/album/4DGpoqInR89VMUTzrrRBhs) | 6:41 | 2021-10-06 | 2022-07-22 |
 | [Climbing Up](https://open.spotify.com/track/5ohckOzltNPpAnD0NRZvI0) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Climbing Up](https://open.spotify.com/album/3XTJoBHsc1J6kgVM294lgW) | 4:19 | 2021-10-06 | 2022-07-17 |
 | [Cloud Cover \- Andrew Weatherall Remix](https://open.spotify.com/track/5MUjW4dKNA5EHnFZ0vQDxH) | [Glok](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [The Citadel EP](https://open.spotify.com/album/0aWvSmTezkoPwXmCp9uctn) | 6:27 | 2021-10-06 | 2022-07-29 |
@@ -221,6 +221,7 @@
 | [Nymphaea Crystals](https://open.spotify.com/track/4AsBd0fnVy2nz0qZYgo2gu) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Nymphaea Crystals](https://open.spotify.com/album/4qYBjbfpvpSQUCDDt8HgfF) | 2:16 | 2021-10-06 | 2022-07-28 |
 | [O=0](https://open.spotify.com/track/3CJhhMbFRpsogjQIOisYvo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:52 | 2021-10-06 | 2022-04-21 |
 | [Obligation Reminder](https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv) | [Client\_03](https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt) | [Panic Multiplier](https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D) | 5:32 | 2023-11-08 | 2024-05-15 |
+| [October](https://open.spotify.com/track/6aQLJ8U7YS5Go0VrTcIkjC) | [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w) | [Electronic Music Improvisations, Vol\. 2](https://open.spotify.com/album/160qMU7F3MgzozYnHnx5It) | 6:05 | 2025-02-21 |  |
 | [October](https://open.spotify.com/track/1c8GaCiIZ8ffgF9Ix8Dyeo) | [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Electronic Music Improvisations Vol\. 2](https://open.spotify.com/album/3nJqywirkGTmHgGah18jgg) | 6:05 | 2023-03-31 | 2023-04-16 |
 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 | 2022-08-31 |  |
 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 | 2022-09-27 |  |

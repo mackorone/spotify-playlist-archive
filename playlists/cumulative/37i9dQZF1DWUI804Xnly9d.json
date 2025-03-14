@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Kaisi Paheli Hai",
+        "url": "https://open.spotify.com/album/0ahcJDHn6Wf2JMVv1z5G5z"
+      },
+      "artists": [
+        {
+          "name": "Harsh Aviral",
+          "url": "https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Kaisi Paheli Hai",
+      "url": "https://open.spotify.com/track/3FATescVmj7FwpMBFuxiTi"
+    },
+    {
+      "album": {
         "name": "Madari",
         "url": "https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8"
       },
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 168896,
       "name": "Tu Hai Pari",
       "url": "https://open.spotify.com/track/3CmrGupyMWv8nPmvi82l29"

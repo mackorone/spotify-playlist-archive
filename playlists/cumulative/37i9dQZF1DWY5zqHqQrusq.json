@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Love Letters III",
+        "url": "https://open.spotify.com/album/6u35zLK6Y8h4KDRYZMDaDi"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "so far away",
+      "url": "https://open.spotify.com/track/7N06cWKVYr5N7t1RcIWACn"
+    },
+    {
+      "album": {
         "name": "So Tired",
         "url": "https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR"
       },
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 195555,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/67CQz7IH16hlEQf7AszkY8"

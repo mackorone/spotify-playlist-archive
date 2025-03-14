@@ -213,6 +213,36 @@
     },
     {
       "album": {
+        "name": "100 MIDIA",
+        "url": "https://open.spotify.com/album/4CriKXvXhTCdxFur2OqEiW"
+      },
+      "artists": [
+        {
+          "name": "Mc Rose da Treta",
+          "url": "https://open.spotify.com/artist/4RNE8Ro4jtQIn1wb3apo4L"
+        },
+        {
+          "name": "Eduxrdo.7",
+          "url": "https://open.spotify.com/artist/3wQS1zsfDkoFdf3xUsiAqh"
+        },
+        {
+          "name": "KOODAz",
+          "url": "https://open.spotify.com/artist/2Lz9VNMK4E005a2vyqVl1W"
+        },
+        {
+          "name": "gkbeats",
+          "url": "https://open.spotify.com/artist/41fL7Hj6cQDmvCh4I6uavV"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95250,
+      "name": "100 MIDIA",
+      "url": "https://open.spotify.com/track/7e2WCQLxkbCVlrVSQh7ifh"
+    },
+    {
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
       },
@@ -20826,7 +20856,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 128903,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
@@ -29361,6 +29391,24 @@
     },
     {
       "album": {
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Insista Em Mim",
+      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
+    },
+    {
+      "album": {
         "name": "Instinto (Ao Vivo)",
         "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
       },
@@ -31558,7 +31606,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 367919,
       "name": "La\u00edla de Todos os Santos, La\u00edla de Todos os Sambas",
       "url": "https://open.spotify.com/track/5R43tAl5G6Vxm2dXZmCtDd"
@@ -40403,6 +40451,28 @@
     },
     {
       "album": {
+        "name": "MTG Perna Bamba X Piranhas do Helipa",
+        "url": "https://open.spotify.com/album/2P4AoEPzMnw2OummgOopE0"
+      },
+      "artists": [
+        {
+          "name": "Detagaz",
+          "url": "https://open.spotify.com/artist/1ZzvFAjHtIjUr5CDZKKZf7"
+        },
+        {
+          "name": "MC Guh SR",
+          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "MTG Perna Bamba X Piranhas do Helipa",
+      "url": "https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k"
+    },
+    {
+      "album": {
         "name": "MTG Puxo seu cabelinho",
         "url": "https://open.spotify.com/album/4xADGh2E1U5hUCaBjWG7us"
       },
@@ -45842,7 +45912,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -50754,7 +50824,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 165888,
       "name": "Proibido Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/7shkORZD3NNi6waqw7eIqT"
@@ -54454,7 +54524,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 162593,
       "name": "Santo",
       "url": "https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT"

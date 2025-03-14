@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Paola Pizzino in cover della playlist dell'R&B italiano 🎧
+> ramé in cover della playlist dell'R&B italiano 🎧
 
-731 songs - 1 day 12 hr 14 min
+735 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Da lei](https://open.spotify.com/track/0ysrugVo3KFwOXLYkonGE7) | [MaRie](https://open.spotify.com/artist/3nm9CmFDy9avfS3zXHFANC) | [Da Lei](https://open.spotify.com/album/5Bvf20lnuAlnynMnQibDaT) | 2:40 | 2023-03-23 | 2023-06-16 |
 | [DARK DRAGONITE \(feat\. Missey\)](https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:48 | 2022-06-30 | 2022-12-02 |
 | [Dazzled Prince](https://open.spotify.com/track/27T3eU2RWpAWu0SdR8jbTz) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu), [Caio's Hub](https://open.spotify.com/artist/1uEw0nvBRqjakUzj77qH0n) | [Dazzled Prince](https://open.spotify.com/album/7IUOY2xHSaUQj51XbtO4UK) | 4:41 | 2024-10-24 |  |
-| [Decidere non so](https://open.spotify.com/track/1pdlPlAQ0oAXLWB2acAxau) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Decidere non so](https://open.spotify.com/album/7H8VWlGlfTpcjtwh4jF7HE) | 3:20 | 2024-04-15 | 2024-07-19 |
+| [Decidere non so](https://open.spotify.com/track/1pdlPlAQ0oAXLWB2acAxau) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Decidere non so](https://open.spotify.com/album/7H8VWlGlfTpcjtwh4jF7HE) | 3:20 | 2024-04-15 |  |
 | [Decidere non so](https://open.spotify.com/track/6rc32OHe3Wv0SbZoRRwm4P) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Decidere non so](https://open.spotify.com/album/79TXfRYQUMRcUqwwuj5nYk) | 3:20 | 2023-01-26 | 2023-03-10 |
 | [Demone](https://open.spotify.com/track/1iQKy7EU6imwiFez0SBrB8) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Essere Uomo](https://open.spotify.com/album/2aEOb5jk0T8mi1PzbdnzHh) | 3:01 | 2024-04-15 | 2024-09-27 |
 | [Demone](https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Demone](https://open.spotify.com/album/6kIx9gfpHm1NI2TDo9FLU4) | 3:03 | 2023-07-06 | 2023-09-29 |
@@ -262,6 +262,7 @@
 | [Giovani](https://open.spotify.com/track/4r5AWNZpuNmAqMxFZ2cLCM) | [LocoLab](https://open.spotify.com/artist/0Z0q0SK9yVrufu1rAY3iOw), [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW), [Il III](https://open.spotify.com/artist/4gOxU8ykTDVpC7ErTI1Cv3) | [Giovani](https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5) | 3:20 | 2022-09-08 | 2022-10-14 |
 | [Giovani Plotwist](https://open.spotify.com/track/09JELXAE3NriN7BUGRUvJj) | [Deja Lu](https://open.spotify.com/artist/0GThiaw9jp4vKNTM2iBqjC) | [Giovani Plotwist](https://open.spotify.com/album/5STTLRxPcphFt35BQSL96G) | 2:33 | 2025-02-20 |  |
 | [Giù](https://open.spotify.com/track/2mlWZvyGBg6sJmCZsT1ars) | [Ludovica Caniglia](https://open.spotify.com/artist/6TT6vgXfMLov8l1gUqgRhe) | [Giù](https://open.spotify.com/album/1LM2Wobdj0swarAmiPkhBf) | 2:52 | 2025-02-20 |  |
+| [Glitch](https://open.spotify.com/track/0InkzNwXNfqTacrKmQXoJm) | [LeUltimeParoleFamose](https://open.spotify.com/artist/5oo7NgTzaaryCa35ZIEqg1) | [Glitch](https://open.spotify.com/album/4TmL8fxJfNdob6pNFkLMth) | 2:12 | 2025-03-13 |  |
 | [Goccia goccia](https://open.spotify.com/track/031szRldfCkNk6QR83QG1s) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Goccia goccia](https://open.spotify.com/album/3cWxT57YUyi84lqR3oQzOZ) | 3:35 | 2024-04-12 | 2024-04-16 |
 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 | 2023-11-30 | 2024-02-02 |
 | [Goodbye](https://open.spotify.com/track/6h0LjT9ypFfN2d9NqRfIAw) | [ARMA COD](https://open.spotify.com/artist/6aAQzz66co4bsETGpKr9aC) | [Goodbye](https://open.spotify.com/album/7CGkaB5on41wR5G2UTzTsB) | 3:27 | 2025-02-06 |  |
@@ -328,6 +329,7 @@
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [LA TIGRE \(feat\. GELO\)](https://open.spotify.com/track/1WOcVg5uTpw0KdmY3yO2lI) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [COME TE](https://open.spotify.com/album/5JitUbks61rKLb3lkg7SPZ) | 2:39 | 2023-05-18 | 2023-06-09 |
 | [La versione migliore di me](https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Alter Echo](https://open.spotify.com/album/1Fi6Swlb8LCsTk7E5szO1Z) | 3:13 | 2024-05-23 | 2024-10-11 |
+| [La Vita Difficile](https://open.spotify.com/track/6CYwzseJAVTGZHatZj0pof) | [ARMA COD](https://open.spotify.com/artist/6aAQzz66co4bsETGpKr9aC) | [La Vita Difficile](https://open.spotify.com/album/2Fh2Vvhjv2gOrytV79zCts) | 3:12 | 2025-03-13 |  |
 | [Labirinto](https://open.spotify.com/track/1558E3L8hQXfsFGwEz8e1N) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940), [Pellerito](https://open.spotify.com/artist/7l6pS28UBNcLASGW2LsKC5) | [Elisir](https://open.spotify.com/album/4JWKkR4KvAB4LrrOetczfj) | 2:48 | 2024-01-18 | 2024-02-23 |
 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 | 2025-01-16 |  |
 | [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 | 2022-06-09 | 2023-12-22 |
@@ -483,6 +485,7 @@
 | [Ormai \(feat\. Nico Kyni\)](https://open.spotify.com/track/46w5z88efX5KqYt6C8JfVN) | [Esa Abrate](https://open.spotify.com/artist/3NgxOxH2jpNzkyOOU5W2hD), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Ormai \(feat\. Nico Kyni\)](https://open.spotify.com/album/6Lt0209HACUMQr5WQcBLdd) | 2:03 | 2022-07-28 | 2023-03-03 |
 | [oscur](https://open.spotify.com/track/77QEGyMs6TGJeYu5lkkxwG) | [FEM](https://open.spotify.com/artist/0cgIiW8HxDNLBiV8FPwdrB) | [oscur](https://open.spotify.com/album/5rP9ENehowwLjOK3mNGday) | 2:32 | 2025-01-09 |  |
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 | 2022-08-12 |
+| [OUTRO \(PIANO SOLO\)](https://open.spotify.com/track/52TTewKAjeqWwP8j6Ax867) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [UNRELEASED V.1](https://open.spotify.com/album/4iEGJAoAugdUQpCv21HRnu) | 3:14 | 2025-03-13 |  |
 | [Paloma](https://open.spotify.com/track/3HKKh1DDcgRxOFAFFd0sAi) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Paloma](https://open.spotify.com/album/7051vm5XsmQ96gajI3qhcm) | 2:26 | 2022-10-13 | 2023-04-14 |
 | [Panamá](https://open.spotify.com/track/5p2R1pakFNPPE5wIjaXUk9) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Panamá](https://open.spotify.com/album/5u0LW7WxogeeSuXtSh0W7d) | 3:39 | 2024-01-25 | 2024-05-17 |
 | [Paradiso](https://open.spotify.com/track/1C6llxLuSiq6DMTLV4sMdB) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Paradiso](https://open.spotify.com/album/4DTwNCS6X0QaAM1xcG9gjI) | 2:33 | 2025-02-06 |  |
@@ -641,6 +644,7 @@
 | [strade perdute](https://open.spotify.com/track/6knoZxetfIRRoXvTsl1Z1Q) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [strade perdute](https://open.spotify.com/album/7s6T7i3a69rjBuyg9ym3og) | 3:45 | 2022-12-01 | 2023-01-13 |
 | [Strange night](https://open.spotify.com/track/7K6YUG2laOdXF8Oc4ljVX1) | [Synn](https://open.spotify.com/artist/0efwId12M4gpPKZdDQpAZo) | [Strange night](https://open.spotify.com/album/6QVxfq62EtdUsKHcLGOziq) | 2:19 | 2022-11-10 | 2023-01-27 |
 | [Stupida Martina](https://open.spotify.com/track/6Ut5ILQVSB8scoQo6Dzg2O) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Stupida Martina](https://open.spotify.com/album/1OgHSe2ka7O9UnGge7dTOS) | 2:20 | 2023-06-29 | 2023-10-06 |
+| [Stupido Amarti](https://open.spotify.com/track/6DkSkXwJdc1jAVjQKDQhE5) | [Revé](https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Stupido Amarti](https://open.spotify.com/album/3dsmZ8wpJ3SHtuMu1dv5BH) | 3:00 | 2025-03-13 |  |
 | [STYLISH](https://open.spotify.com/track/7Jm08pyyaIGe3JQKzLWrom) | [BENNA](https://open.spotify.com/artist/3Bbppi5cEGJnyhl6aYyUA1) | [STYLISH](https://open.spotify.com/album/1jYygMEgvgOC6ssXdi1M5B) | 2:59 | 2024-11-07 | 2025-01-10 |
 | [Sugar Rush](https://open.spotify.com/track/3zB53lzbPCY8GVcTwn39ag) | [lowe](https://open.spotify.com/artist/0ASFVsyFHBICfm61Gb4KLU), [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Sugar Rush](https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr) | 2:46 | 2022-10-13 | 2023-02-03 |
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 | 2022-09-09 |

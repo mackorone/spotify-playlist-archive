@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Sena \u015eahin",
+  "description": "Popun sevilen isimleri. Kapak: I\u015f\u0131l Ayman",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -452,6 +452,24 @@
       "duration_ms": 177890,
       "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
       "url": "https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry"
+    },
+    {
+      "album": {
+        "name": "a\u011fla g\u00fczelim",
+        "url": "https://open.spotify.com/album/21Wv7Up90usEUO94F1QxnF"
+      },
+      "artists": [
+        {
+          "name": "I\u015f\u0131l Ayman",
+          "url": "https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210833,
+      "name": "a\u011fla g\u00fczelim",
+      "url": "https://open.spotify.com/track/1SqKjDGRkgi8zeUCyolyhx"
     },
     {
       "album": {
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 110691,
       "name": "pi\u015fman...",
       "url": "https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA"
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 172346,
       "name": "Yang\u0131n",
       "url": "https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3"
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 189545,
       "name": "Zehir",
       "url": "https://open.spotify.com/track/6YivIuIiz8YMWmqQUj2t8z"

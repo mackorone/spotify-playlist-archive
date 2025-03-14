@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 292466,
       "name": "Di passaggio",
       "url": "https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 414738,
       "name": "Retta",
       "url": "https://open.spotify.com/track/6qITKTzGwoOE5BeRmsesvT"
@@ -2286,6 +2286,24 @@
       "duration_ms": 343169,
       "name": "SABBIA",
       "url": "https://open.spotify.com/track/7GJpnJs4sEzrEaCWQY90Hs"
+    },
+    {
+      "album": {
+        "name": "Forse 2",
+        "url": "https://open.spotify.com/album/4JmAAKEYbMySw38RGe6apo"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501000,
+      "name": "Salta",
+      "url": "https://open.spotify.com/track/0zP8odHf53yIN7COECefuK"
     },
     {
       "album": {

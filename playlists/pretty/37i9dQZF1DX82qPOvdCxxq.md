@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: Taylor Tripodi \| Artwork: Ki Alexis
+> The best new music from independent faith\-based artists every Wednesday! Cover: Ki Alexis \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,163 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,174 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [Through Your Eyes](https://open.spotify.com/track/0Zg1GzfriNiu4Dp5scH9V9) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Through Your Eyes](https://open.spotify.com/album/6cSNsSHKupdShSAb17KlaL) | 3:36 |
 | 100 | [Always Thank You](https://open.spotify.com/track/11lIYYbMiKHwMuNaFIED6p) | [RIVERS](https://open.spotify.com/artist/3jMVVq9mJJn2anR1yqpzMW), [Anchored Music](https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB), [Katie Rios](https://open.spotify.com/artist/0hLRTUumZ11OLGBqL2PP3R), [Hailey Hibbard](https://open.spotify.com/artist/0ESMvOE8xepPgfkYXhCgVU) | [Always Thank You](https://open.spotify.com/album/3tQ3BKywz8KXW3WUI4m7N2) | 6:31 |
 
-Snapshot ID: `Z9EyiAAAAAAysz8IbvZMgCMQZFsumqMo`
+Snapshot ID: `Z9JyNwAAAABVHsvcMXszmksIsIU8V8f0`

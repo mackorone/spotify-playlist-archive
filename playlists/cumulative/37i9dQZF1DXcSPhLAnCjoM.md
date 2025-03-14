@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Je pense à vous" de Linh est le Grand Hit de la semaine.
+> "Ma faute" de Marine est le Grand Hit de la semaine.
 
 236 songs - 12 hr 7 min
 

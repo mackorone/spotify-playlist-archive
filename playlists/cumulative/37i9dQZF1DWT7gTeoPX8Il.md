@@ -4,7 +4,7 @@
 
 > layan je
 
-280 songs - 18 hr 28 min
+281 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Jangan Mati Rasa Itu](https://open.spotify.com/track/2Gylos7ElhD3bFsw7vt6gt) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Jangan Mati Rasa Itu](https://open.spotify.com/album/4IjHQwUjvEYogpdBSmPdVq) | 5:05 | 2024-01-18 | 2024-01-26 |
 | [Jangan Pergi](https://open.spotify.com/track/2faSHQDkP2AMv637Khx29U) | [One Avenue Band](https://open.spotify.com/artist/01YmHxZRGiIYkpie1oyB5b) | [Jangan Pergi](https://open.spotify.com/album/6tmZE1EJbITNUaTMns4eak) | 5:43 | 2024-06-20 | 2024-06-28 |
 | [Jangan Pernah Berubah](https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Jangan Pernah Berubah](https://open.spotify.com/album/5cKCBveEH9NA3svYUb7h0Y) | 3:58 | 2024-06-27 | 2024-07-27 |
-| [Jangan Pernah Berubah](https://open.spotify.com/track/1oVEttWIOMh2bHHbmzLL4O) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf) | [P.U.S.P.A.](https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE) | 4:03 | 2025-03-06 |  |
+| [Jangan Pernah Berubah](https://open.spotify.com/track/1oVEttWIOMh2bHHbmzLL4O) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf) | [P.U.S.P.A.](https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE) | 4:03 | 2025-03-06 | 2025-03-14 |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2024-06-07 | 2024-06-21 |
 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 | 2024-06-20 | 2024-06-28 |
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2024-06-27 | 2024-07-27 |
@@ -161,6 +161,7 @@
 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 | 2024-12-12 | 2025-01-17 |
 | [Luka Ini](https://open.spotify.com/track/0QGSp7NwxBAkNrKQgcwNLL) | [Apex Tajudin](https://open.spotify.com/artist/2XJ2ePxUF5CnYf2VRPo6la) | [Luka Ini](https://open.spotify.com/album/1eJ3N1DvQ57WVh6VVlQUrj) | 3:45 | 2024-06-07 | 2024-06-21 |
 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 | 2024-09-27 | 2024-10-18 |
+| [Lumrah Cinta](https://open.spotify.com/track/73s6H3dbBU9cAYdLhiDXD3) | [PUTERI KHAREEZA](https://open.spotify.com/artist/17Cl089Yw28vjfKElTVFp7) | [Lumrah Cinta](https://open.spotify.com/album/0roclBSIpwkNP1WAGSOCu0) | 3:44 | 2025-03-13 |  |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 | 2024-06-07 |
 | [Makna Cintamu](https://open.spotify.com/track/6F1IbZ1FLEvcB6SgwsjXEE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Makna Cintamu](https://open.spotify.com/album/4brON09cjQSouC6PUfRcFW) | 2:49 | 2024-06-07 | 2024-06-21 |
 | [Masa Lalu](https://open.spotify.com/track/3VgPPdCVUKW1Sf67qeHxaC) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Masa Lalu](https://open.spotify.com/album/1M7qOVd97il4l6vpmBnJAm) | 3:23 | 2024-06-07 | 2024-06-21 |

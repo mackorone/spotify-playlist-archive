@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,079 songs - 2 day 10 hr 45 min
+1,080 songs - 2 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-12-16 |
 | [can't live without you](https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [can't live without you](https://open.spotify.com/album/32gnVGc44UuwB6VzKdCdp4) | 3:47 | 2023-12-15 | 2024-01-13 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-29 | 2022-07-20 |
-| [CANDYRELLA](https://open.spotify.com/track/2cSoKxktx83MxhkAoaTOyc) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:04 | 2024-07-12 |  |
+| [CANDYRELLA](https://open.spotify.com/track/2cSoKxktx83MxhkAoaTOyc) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:04 | 2024-07-12 | 2025-03-14 |
 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 | 2023-08-25 | 2023-09-02 |
 | [Caught](https://open.spotify.com/track/0wtjenBotY72j1CBlLnICb) | [localboi](https://open.spotify.com/artist/0pi1QAel05fXg9QfnTI40Q) | [Caught](https://open.spotify.com/album/02tBi99vsXntAIk5Z9wJQz) | 2:17 | 2022-03-11 | 2022-04-21 |
 | [CELLPHONE](https://open.spotify.com/track/4thTlSjApw2uQuRPTg0K0H) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [CELLPHONE](https://open.spotify.com/album/6MfgECQn7x50bmxz8vc9LH) | 2:47 | 2022-04-15 | 2022-06-10 |
@@ -192,6 +192,7 @@
 | [cool](https://open.spotify.com/track/59XuPhDOT636SJ5z17mIUU) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [cool](https://open.spotify.com/album/3m84nUucwMjD3n0OpuhLFW) | 3:25 | 2023-05-18 | 2023-06-09 |
 | [COSMIC ANOMALY](https://open.spotify.com/track/2RYdurfQ9Rki8qtRVRjr1D) | [Nahtan](https://open.spotify.com/artist/7MVfnZqBCCMtY3ZN40hoX7) | [COSMIC ANOMALY](https://open.spotify.com/album/2cICgXPKh2TvVZ4pvy358b) | 4:48 | 2022-03-29 | 2022-04-15 |
 | [Could I Be Somebody](https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Could I Be Somebody](https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn) | 3:51 | 2022-04-24 | 2022-07-18 |
+| [Counting On You](https://open.spotify.com/track/71QYfjdrXsFMBcAlMvRbMW) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih), [lelz](https://open.spotify.com/artist/4qWGNGcWWCQxMOYCkPZWnx) | [Counting On You](https://open.spotify.com/album/1kZ8nPUaDb91xWHEbtqxgs) | 4:35 | 2025-02-28 |  |
 | [Cozy](https://open.spotify.com/track/7z7WXNfGMvXbNKGITuQknR) | [Caragan](https://open.spotify.com/artist/7bheSdXKW3xuWtlMkzpCKn) | [Cozy](https://open.spotify.com/album/6QxALLyfzccqWtbTmfrakN) | 4:01 | 2022-01-28 | 2022-06-04 |
 | [Crash & Burn](https://open.spotify.com/track/3XxnocsLBHFAA25FBoFksq) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/1YMBzeurg2ACj8eBvardFi) | 2:41 | 2022-11-10 | 2022-12-29 |
 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 | 2022-07-22 | 2024-04-19 |
@@ -234,7 +235,7 @@
 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 | 2024-07-12 | 2024-07-27 |
 | [Divine](https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Divine](https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31) | 3:01 | 2024-06-12 | 2024-07-13 |
 | [Diving](https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Diving](https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr) | 3:28 | 2025-02-21 |  |
-| [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 | 2024-12-13 |  |
+| [Do Better](https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Do Better](https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8) | 2:58 | 2024-12-13 | 2025-03-14 |
 | [Do I Care Too Much](https://open.spotify.com/track/7eSo5rcuv7zeoBkbJ4lJRL) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do I Care Too Much](https://open.spotify.com/album/0prwA9DdZkDMec5T5aLcEk) | 4:04 | 2024-05-31 | 2024-06-13 |
 | [Do Me Right](https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 3:25 | 2022-12-15 | 2023-01-06 |
 | [Do Over](https://open.spotify.com/track/1GG0HmgAbXrjTZN7RvEjU1) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Do Over](https://open.spotify.com/album/2L7uxbiwKCGm6kLnFacrJ5) | 3:32 | 2023-10-06 | 2023-10-14 |
@@ -354,7 +355,7 @@
 | [GOODLUCK](https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 4:38 | 2024-01-12 | 2024-02-17 |
 | [goodnight kiss \(in December\)](https://open.spotify.com/track/7JZALv6y1RztMTmD0nh30G) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [goodnight kiss \(in December\)](https://open.spotify.com/album/0d4HdBRpuUchAPFk7EADbw) | 3:10 | 2023-12-15 | 2024-01-13 |
 | [goodnight, don’t wait](https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree](https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH) | 3:23 | 2024-06-12 | 2024-07-13 |
-| [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-01-28 | 2023-01-06 |
+| [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-01-28 |  |
 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 | 2023-02-17 |  |
 | [ground zero](https://open.spotify.com/track/2CZOoc9wPOPVmxutXjkKIC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ground zero](https://open.spotify.com/album/6FNIsL7WujpVXF975ZC6ri) | 2:43 | 2023-01-26 | 2023-02-03 |
 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 | 2022-01-28 | 2022-07-28 |

@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Fem p\u00e5",
+        "url": "https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe"
+      },
+      "artists": [
+        {
+          "name": "Nossan",
+          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127578,
+      "name": "Fem p\u00e5",
+      "url": "https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt"
+    },
+    {
+      "album": {
         "name": "Fiende p\u00e5 hotell",
         "url": "https://open.spotify.com/album/0IeHOhjegTHDgm8GMQnLqj"
       },
@@ -4340,7 +4358,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 184583,
       "name": "Put 'Em Up",
       "url": "https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH"
@@ -4768,7 +4786,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
@@ -5418,6 +5436,32 @@
       "duration_ms": 156269,
       "name": "Til Toppen",
       "url": "https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo"
+    },
+    {
+      "album": {
+        "name": "Tipp Topp Hum\u00f8r",
+        "url": "https://open.spotify.com/album/0DDszi5SJ6ooRqrKbRBxpf"
+      },
+      "artists": [
+        {
+          "name": "OnklP",
+          "url": "https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Joddski",
+          "url": "https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Tipp Topp Hum\u00f8r",
+      "url": "https://open.spotify.com/track/4jdqbnHs8xNf4NpkT2TT2r"
     },
     {
       "album": {

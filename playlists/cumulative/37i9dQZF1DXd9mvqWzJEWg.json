@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=rBufI7v1QgSOIThE1xhDIw\">DJ Tira</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT?si=62_gAMRWRnGgH45cIcnQXQ\">Dr Dope</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1233,6 +1233,36 @@
     },
     {
       "album": {
+        "name": "Dali Wami",
+        "url": "https://open.spotify.com/album/2SYglf9KnlHz7pdIWHBGbd"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        },
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        },
+        {
+          "name": "Coocky",
+          "url": "https://open.spotify.com/artist/1sjYQfSF2jcZ6yTrQKOSRi"
+        },
+        {
+          "name": "Atchaar",
+          "url": "https://open.spotify.com/artist/5v0qhJo8dSZKn0erBY2lFQ"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Dali Wami",
+      "url": "https://open.spotify.com/track/7rxqC7YEwHCEOV66tb6XoH"
+    },
+    {
+      "album": {
         "name": "Dana",
         "url": "https://open.spotify.com/album/74ZTUz0CKWuF3AKwi3vr9b"
       },
@@ -2220,7 +2250,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 159893,
       "name": "GQOM FREESTYLE",
       "url": "https://open.spotify.com/track/7ijLDRaUp7G3e7fYx5EmgN"
@@ -4711,6 +4741,40 @@
     },
     {
       "album": {
+        "name": "Ngyamthand Udali",
+        "url": "https://open.spotify.com/album/7xfIAhKNkIdcIVtkzGDrlm"
+      },
+      "artists": [
+        {
+          "name": "Dr Dope",
+          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/4u0H6zYPISoiJF4QemBxEn"
+        },
+        {
+          "name": "Mandourh",
+          "url": "https://open.spotify.com/artist/46Lx5RQvhnXQRckaISPiDD"
+        },
+        {
+          "name": "Kitso Nave",
+          "url": "https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl"
+        },
+        {
+          "name": "Mzwilili",
+          "url": "https://open.spotify.com/artist/7dyBz3Bf85NrfB9WjBLIAs"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Ngyamthand Udali",
+      "url": "https://open.spotify.com/track/4FxxHDglKIQNi2xGWvLB96"
+    },
+    {
+      "album": {
         "name": "Nkosi Sihlangulule",
         "url": "https://open.spotify.com/album/3rqUrxtvNItvX2SLn1d47k"
       },
@@ -6002,6 +6066,28 @@
       "duration_ms": 317583,
       "name": "Siyaphothula",
       "url": "https://open.spotify.com/track/752swgNyiiofEka5MhCS3L"
+    },
+    {
+      "album": {
+        "name": "Skelem",
+        "url": "https://open.spotify.com/album/0KUELaxURzFvbDYZwzPEIG"
+      },
+      "artists": [
+        {
+          "name": "DjTroyEL",
+          "url": "https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC"
+        },
+        {
+          "name": "Unastor",
+          "url": "https://open.spotify.com/artist/22cH59xmywm8MLoQwyMhPK"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390582,
+      "name": "Skelem",
+      "url": "https://open.spotify.com/track/2GZL0lMVyHXvZY56E7srcN"
     },
     {
       "album": {

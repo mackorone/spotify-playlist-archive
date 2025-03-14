@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 78865,
+  "num_followers": 78882,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 125615,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 125615,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Bandi2 (feat. Blow Music)",
-        "url": "https://open.spotify.com/album/21bqfUpKQel0X411vIMsPq"
-      },
-      "artists": [
-        {
-          "name": "Cris Sour",
-          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
-        },
-        {
-          "name": "Leo Torrez",
-          "url": "https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH"
-        },
-        {
-          "name": "Blow Music",
-          "url": "https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW"
-        }
-      ],
-      "duration_ms": 148078,
-      "name": "Bandi2 (feat. Blow Music)",
-      "url": "https://open.spotify.com/track/1bgpWAyQKYO7BEymQ0vyjQ"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Pal' Otro A\u00f1o",
         "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 182421,
       "name": "Traje Tusi",
       "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "Bandi2 (feat. Blow Music)",
+        "url": "https://open.spotify.com/album/21bqfUpKQel0X411vIMsPq"
+      },
+      "artists": [
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "Leo Torrez",
+          "url": "https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH"
+        },
+        {
+          "name": "Blow Music",
+          "url": "https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW"
+        }
+      ],
+      "duration_ms": 148078,
+      "name": "Bandi2 (feat. Blow Music)",
+      "url": "https://open.spotify.com/track/1bgpWAyQKYO7BEymQ0vyjQ"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

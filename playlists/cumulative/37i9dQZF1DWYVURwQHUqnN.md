@@ -4,7 +4,7 @@
 
 > Photo : GIMS
 
-247 songs - 11 hr 51 min
+248 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-07-19 |
 | [Totopika](https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 2:19 | 2025-02-13 |  |
 | [Tour du Monde](https://open.spotify.com/track/7Mk0whTW3cBo3dLgCACZsf) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Tour du Monde](https://open.spotify.com/album/7de883jdeEEshL3nkpjWRy) | 2:45 | 2025-01-16 | 2025-02-14 |
+| [Tourner en Rond](https://open.spotify.com/track/3k6NWLQIVNPsLo6RT7JAdU) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tourner en Rond](https://open.spotify.com/album/5WLDM7GfwZnU3WmaU5ynEH) | 3:25 | 2025-03-13 |  |
 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-05-30 | 2024-11-15 |
 | [Toute la Noché](https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Longue Vie à Nous](https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF) | 2:54 | 2025-02-06 | 2025-02-12 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Styleto",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Clara Luciani",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -1175,6 +1175,96 @@
     },
     {
       "album": {
+        "name": "Grand Soleil",
+        "url": "https://open.spotify.com/album/7EBt9Vr2e0aHJcJNcgkrPC"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Sidaction",
+          "url": "https://open.spotify.com/artist/2KAxbtaQ2BNrCFEat7eAbD"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        },
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/6xbCPcRLdVjJFfeX1gFeK5"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        },
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        },
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Lucky Love",
+          "url": "https://open.spotify.com/artist/4OR9kEKyQJ5nkhPM2xUDty"
+        },
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/1BoEwjMurwYEQLgx9ocuf1"
+        },
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Grand Soleil",
+      "url": "https://open.spotify.com/track/6YotM3HuAgdM5UgSz2zikV"
+    },
+    {
+      "album": {
         "name": "Gu\u00e9rir de toi",
         "url": "https://open.spotify.com/album/1eskZf0xi1gWLZBGiVOJZT"
       },
@@ -1764,7 +1854,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 183626,
       "name": "Last in Line - 2024 Edit",
       "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
@@ -2736,7 +2826,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 161213,
       "name": "Petit Fr\u00e8re",
       "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
@@ -3444,6 +3534,24 @@
       "duration_ms": 151973,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
+    },
+    {
+      "album": {
+        "name": "CARDIO DRAME",
+        "url": "https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY"
+      },
+      "artists": [
+        {
+          "name": "Philippine",
+          "url": "https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Tourne Tourne",
+      "url": "https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz"
     },
     {
       "album": {

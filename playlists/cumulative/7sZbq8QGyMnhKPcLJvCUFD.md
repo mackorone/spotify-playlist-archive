@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-680 songs - 1 day 10 hr 30 min
+681 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Light](https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Light](https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP) | 4:13 | 2023-01-20 | 2024-01-04 |
 | [Light It Up](https://open.spotify.com/track/6ibayfvVOby1NSKJFohtZp) | [Robin Hustin](https://open.spotify.com/artist/6FPDULwgllPquFdqdzj5gi), [TobiMorrow](https://open.spotify.com/artist/7CSAJPH9eLCOvPc9jn1I6e), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Light It Up](https://open.spotify.com/album/4GbTZ3H4jqJPAZGjKiu8xS) | 3:05 | 2023-08-08 | 2024-01-27 |
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 | 2023-04-28 |
+| [Lighthouse](https://open.spotify.com/track/1MFnrx6HSx4whenAmvJtna) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Lighthouse](https://open.spotify.com/album/6iguOPqXcNx3qOm8BuelPE) | 2:57 | 2025-03-13 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 | 2023-04-28 |
 | [Like Rain](https://open.spotify.com/track/5CAhPF67F9jxoNsASa48Lq) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Like Rain](https://open.spotify.com/album/6NLgMBrfFOymoRQr560dmy) | 3:25 | 2024-09-23 |  |
 | [Like That](https://open.spotify.com/track/1V5we6zZDShUGnSUXZLqPf) | [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql), [Cherry Morello](https://open.spotify.com/artist/0ysLduzyfjHOMhyiqfIXTz) | [Like That](https://open.spotify.com/album/41KC2hIP2zQ3Ngel4aUziq) | 3:18 | 2024-12-04 |  |

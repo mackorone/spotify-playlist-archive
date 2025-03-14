@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-613 songs - 1 day 12 hr 51 min
+614 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Ocean Blue](https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH) | [Moniker](https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW) | [Hunt for the Wilderpeople \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg) | 2:25 | 2024-04-10 |  |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-25 | 2023-09-20 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-26 | 2023-07-28 |
+| [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 | 2025-03-11 |  |
 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-12-21 | 2024-04-19 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-12-16 | 2024-02-14 |
 | [Oh Boredom \(Schmaltz City, USA\)](https://open.spotify.com/track/79084mepy4vAEG416uZxO7) | [Star Parks](https://open.spotify.com/artist/0yRum3Q7Dqnt8kl4MdO7TH) | [The New Sounds of Late Capitalism](https://open.spotify.com/album/1FvsGwOIqTWvoXHo5wleVE) | 3:42 | 2021-12-30 | 2022-07-29 |
@@ -409,7 +410,7 @@
 | [Palladium](https://open.spotify.com/track/3j3vtKJrih52kOC88jfOkB) | [Ronesh](https://open.spotify.com/artist/7xtZSl7LM8fNiUir2UZiPK) | [Stone Groove](https://open.spotify.com/album/2usKtboTSPUPsHztdWAlfm) | 1:42 | 2021-12-16 | 2022-07-29 |
 | [Paradise \- Boehm Remix](https://open.spotify.com/track/5VUl17rW74R67xbxOppPl8) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [Paradise \(Boehm Remix\)](https://open.spotify.com/album/1pNKxOEbz4mHqoiHV4Lr7Y) | 3:17 | 2022-03-30 | 2022-04-21 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-12-16 | 2024-12-10 |
-| [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 | 2024-05-20 |  |
+| [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 | 2024-05-20 | 2025-03-14 |
 | [Perfect Day](https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Perfect Day](https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H) | 4:01 | 2023-08-29 | 2024-08-23 |
 | [Periodically Double or Triple](https://open.spotify.com/track/58PkblZg918Ll5jYYllHIn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Popular Songs](https://open.spotify.com/album/20od2Wb9d393Pnp9cScsML) | 3:53 | 2022-03-30 | 2022-04-20 |
 | [Permis b bébé](https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:09 | 2024-12-06 |  |

@@ -12154,7 +12154,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 111546,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr"
@@ -18918,7 +18918,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 117750,
       "name": "Keeps Me Wondering Why",
       "url": "https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI"
@@ -21706,6 +21706,24 @@
       "duration_ms": 132263,
       "name": "lucid air",
       "url": "https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj"
+    },
+    {
+      "album": {
+        "name": "lucky charms",
+        "url": "https://open.spotify.com/album/04zMzCmGyAhMlziRYcd0MA"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139362,
+      "name": "lucky charms",
+      "url": "https://open.spotify.com/track/4JnGvG2qXVDwAArJkZvZwJ"
     },
     {
       "album": {
@@ -37200,7 +37218,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 152763,
       "name": "That's My Jam",
       "url": "https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg"
