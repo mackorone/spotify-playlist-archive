@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best Dance and EDM tracks right now! Cover: Zeds Dead",
+  "description": "The best Dance and EDM tracks right now! Cover: Fedde Le Grand",
   "name": "New Dance Hits 2025",
   "tracks": [
     {
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 200970,
       "name": "Heavenly Hell (ft. Ne-Yo)",
       "url": "https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 145332,
       "name": "It's All On You",
       "url": "https://open.spotify.com/track/2ugMmpncnUU5BlufHZcq7m"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
@@ -4627,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "album": {
         "name": "Round & Round",
         "url": "https://open.spotify.com/album/0ugkNBZda30aOm1Hel2ShP"
       },
@@ -4642,6 +4664,24 @@
       "duration_ms": 219405,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/6aUk3zMedZd18Axi3ZO8lN"
+    },
+    {
+      "album": {
+        "name": "Rude Boy",
+        "url": "https://open.spotify.com/album/3kFUYHhoHoqUktWdIkbPjR"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/7KKm5B4pEibw2uhCgix5h9"
     },
     {
       "album": {
@@ -4782,6 +4822,28 @@
       "duration_ms": 215238,
       "name": "Saving Me",
       "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
+    },
+    {
+      "album": {
+        "name": "Say It Right (Rinzen Remix)",
+        "url": "https://open.spotify.com/album/25FbkkzMDapAUDr5CnqTfq"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221330,
+      "name": "Say It Right - Rinzen Remix",
+      "url": "https://open.spotify.com/track/6EUfZGFToR6jPqyzAoH8WY"
     },
     {
       "album": {
@@ -6008,6 +6070,28 @@
       "duration_ms": 158013,
       "name": "Whitney - Emily Nash Remix",
       "url": "https://open.spotify.com/track/1ARUNV349pMTDbFKA3ZpFc"
+    },
+    {
+      "album": {
+        "name": "Digital Notes",
+        "url": "https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146659,
+      "name": "WIFI",
+      "url": "https://open.spotify.com/track/6gYTsbzxbuqHAFopB5tCrQ"
     },
     {
       "album": {

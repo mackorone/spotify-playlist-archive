@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,794 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,795 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 72 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
 | 73 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
 | 74 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 8:04 |
-| 75 | [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 |
-| 76 | [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 |
-| 77 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
+| 75 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
+| 76 | [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 |
+| 77 | [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 |
 | 78 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:09 |
 | 79 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
 | 80 | [Inner City Blues \(Make Me Wanna Holler\) \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 3:55 |

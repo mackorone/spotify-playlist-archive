@@ -1,13 +1,45 @@
 {
-  "description": "the best indie dance tracks of the moment \ud83d\ude34 with Passion Pit & Sofi Tukker",
-  "num_followers": 889913,
+  "description": "the best indie dance tracks of the moment \ud83c\udf89 with Myd",
+  "num_followers": 889938,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9eQAAAABTpqSlWJgWMtLUV+f4vMd2",
+  "snapshot_id": "Z9OrCwAAAAC1N2r4gfu2Xwn0qbfYoWfl",
   "tracks": [
+    {
+      "added_at": "2025-03-14 04:05:31",
+      "album": {
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-02-21 05:00:44",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
+    },
     {
       "added_at": "2025-03-07 05:00:41",
       "album": {
@@ -29,22 +61,6 @@
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
-      "added_at": "2025-02-28 05:17:47",
-      "album": {
-        "name": "All I Am",
-        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
-    },
-    {
       "added_at": "2025-01-24 05:00:49",
       "album": {
         "name": "Shaking Things Up",
@@ -59,6 +75,22 @@
       "duration_ms": 216480,
       "name": "Shaking Things Up",
       "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "added_at": "2025-03-14 04:05:31",
+      "album": {
+        "name": "Pura",
+        "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Pura",
+      "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
     },
     {
       "added_at": "2025-03-07 05:00:41",
@@ -81,22 +113,6 @@
       "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
     },
     {
-      "added_at": "2025-02-21 05:00:44",
-      "album": {
-        "name": "The Mirror",
-        "url": "https://open.spotify.com/album/0tlHGgceJBa5z3PrHOatgO"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "The Mirror",
-      "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"
-    },
-    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "Do You Wrong",
@@ -111,6 +127,38 @@
       "duration_ms": 226086,
       "name": "Do You Wrong",
       "url": "https://open.spotify.com/track/1fVMPkM0jXEZQj9s9GXWzw"
+    },
+    {
+      "added_at": "2025-03-14 04:05:31",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6"
+    },
+    {
+      "added_at": "2025-02-28 05:17:47",
+      "album": {
+        "name": "All I Am",
+        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
     },
     {
       "added_at": "2025-02-14 05:00:42",
@@ -129,44 +177,36 @@
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
-      "added_at": "2025-02-28 05:17:47",
+      "added_at": "2025-03-14 04:05:31",
       "album": {
-        "name": "Something More",
-        "url": "https://open.spotify.com/album/2YRte9je2KhE4Qvuzt00ht"
+        "name": "need u",
+        "url": "https://open.spotify.com/album/5vffloTZAolNTHSiYW0VzK"
       },
       "artists": [
         {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/7uvy5O6RwchnhIr8B8L07y"
+      "duration_ms": 136916,
+      "name": "need u",
+      "url": "https://open.spotify.com/track/1PRzCxGlUtTRVdEFKhRDek"
     },
     {
-      "added_at": "2025-03-07 05:00:41",
+      "added_at": "2025-02-14 05:00:42",
       "album": {
-        "name": "FLORA (DELUXE)",
-        "url": "https://open.spotify.com/album/5E02cxwlkT5o4lFRlIN2Xf"
+        "name": "W U",
+        "url": "https://open.spotify.com/album/00Pn5CSnnnEDffAo4GGLBN"
       },
       "artists": [
         {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
         }
       ],
-      "duration_ms": 160645,
-      "name": "BAGMAN",
-      "url": "https://open.spotify.com/track/3oNSoCG3w4Ygbair48mNF6"
+      "duration_ms": 181384,
+      "name": "W U",
+      "url": "https://open.spotify.com/track/5zJ9hHu54TZu9NdLMSBd11"
     },
     {
       "added_at": "2025-02-21 05:00:44",
@@ -229,6 +269,42 @@
       "url": "https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc"
     },
     {
+      "added_at": "2025-02-28 05:17:47",
+      "album": {
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/2YRte9je2KhE4Qvuzt00ht"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/7uvy5O6RwchnhIr8B8L07y"
+    },
+    {
+      "added_at": "2025-03-14 04:05:31",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/15xoGEuoi7Lwln98RGS2A5"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 158919,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2uMHu7mcgGDbdCI2Fyhff1"
+    },
+    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "scs",
@@ -269,20 +345,24 @@
       "url": "https://open.spotify.com/track/42S1WpFOHoxxijKfDuNHSu"
     },
     {
-      "added_at": "2025-02-28 05:17:47",
+      "added_at": "2025-03-14 04:05:31",
       "album": {
-        "name": "Fun Times",
-        "url": "https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL"
       },
       "artists": [
         {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Kiinjo",
+          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
         }
       ],
-      "duration_ms": 253573,
-      "name": "Fun Times",
-      "url": "https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2"
+      "duration_ms": 177487,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -327,6 +407,22 @@
       "duration_ms": 173658,
       "name": "Who Knows (feat. Jono McCleery)",
       "url": "https://open.spotify.com/track/6MHbwz15gcLPg5Ok7qUtod"
+    },
+    {
+      "added_at": "2025-02-28 05:17:47",
+      "album": {
+        "name": "Fun Times",
+        "url": "https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Fun Times",
+      "url": "https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2"
     },
     {
       "added_at": "2025-02-21 05:00:44",
@@ -381,20 +477,24 @@
       "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
     },
     {
-      "added_at": "2025-02-14 05:00:42",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "free mode",
-        "url": "https://open.spotify.com/album/3hkOFNPOZKDoyIWkGZvyEU"
+        "name": "DANCER",
+        "url": "https://open.spotify.com/album/6LhQnJpChveHTCsvuARF8s"
       },
       "artists": [
         {
-          "name": "wes mills",
-          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
         }
       ],
-      "duration_ms": 160989,
-      "name": "free mode",
-      "url": "https://open.spotify.com/track/1daSFGsI7u2YIRjoSQ05iY"
+      "duration_ms": 225389,
+      "name": "DANCER",
+      "url": "https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz"
     },
     {
       "added_at": "2025-02-28 05:17:47",
@@ -413,26 +513,6 @@
       "url": "https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh"
     },
     {
-      "added_at": "2025-01-31 05:00:38",
-      "album": {
-        "name": "Revelation",
-        "url": "https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253862,
-      "name": "Revelation",
-      "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
-    },
-    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "Object Permanence (Deluxe Edition)",
@@ -447,6 +527,26 @@
       "duration_ms": 203093,
       "name": "I'll Take It",
       "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+    },
+    {
+      "added_at": "2025-03-07 05:00:41",
+      "album": {
+        "name": "FLORA (DELUXE)",
+        "url": "https://open.spotify.com/album/5E02cxwlkT5o4lFRlIN2Xf"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "BAGMAN",
+      "url": "https://open.spotify.com/track/3oNSoCG3w4Ygbair48mNF6"
     },
     {
       "added_at": "2025-02-21 05:00:44",
@@ -479,22 +579,6 @@
       "duration_ms": 146960,
       "name": "Distractions - Edit",
       "url": "https://open.spotify.com/track/6FDnxADtwOPmBXk4P3jGid"
-    },
-    {
-      "added_at": "2025-01-31 05:00:38",
-      "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/4j4Wny0imbaZ6lEuJ0PQu8"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/1EZ3OFYIJrKNY5N2ZHw39l"
     },
     {
       "added_at": "2025-02-07 05:00:44",
@@ -577,38 +661,6 @@
       "url": "https://open.spotify.com/track/41wVbCiHzdFJ02oJKsKOUi"
     },
     {
-      "added_at": "2025-02-14 05:00:42",
-      "album": {
-        "name": "W U",
-        "url": "https://open.spotify.com/album/00Pn5CSnnnEDffAo4GGLBN"
-      },
-      "artists": [
-        {
-          "name": "JEV",
-          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "W U",
-      "url": "https://open.spotify.com/track/5zJ9hHu54TZu9NdLMSBd11"
-    },
-    {
-      "added_at": "2025-02-21 05:00:44",
-      "album": {
-        "name": "Gut",
-        "url": "https://open.spotify.com/album/4gL8LEGXuVQG71wHDtaMzW"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 305825,
-      "name": "Governed",
-      "url": "https://open.spotify.com/track/227fgTNG6wrenOkB1aIHzJ"
-    },
-    {
       "added_at": "2025-03-07 05:00:41",
       "album": {
         "name": "In My Head",
@@ -623,26 +675,6 @@
       "duration_ms": 200655,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6OBwnj9YQmobXnwfLMlIrr"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "DANCER",
-        "url": "https://open.spotify.com/album/6LhQnJpChveHTCsvuARF8s"
-      },
-      "artists": [
-        {
-          "name": "POOLCLVB",
-          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
-        },
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
-        }
-      ],
-      "duration_ms": 225389,
-      "name": "DANCER",
-      "url": "https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz"
     },
     {
       "added_at": "2025-01-10 05:00:33",
@@ -1157,22 +1189,6 @@
       "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
     },
     {
-      "added_at": "2025-02-07 05:00:44",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/2PSo3TfdQA0OKZFI5313du"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/5Xzkkyf6cI9oPYhS7CHnaU"
-    },
-    {
       "added_at": "2025-01-17 05:00:46",
       "album": {
         "name": "Keep Me Satisfied",
@@ -1567,22 +1583,6 @@
       "duration_ms": 187500,
       "name": "Driving Fast",
       "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "choke enough",
-        "url": "https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "choke enough",
-      "url": "https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 46 | [I Hate YoungBoy](https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Hate YoungBoy](https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao) | 4:21 |
 | 47 | [No Long Talk](https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 2:29 |
 | 48 | [P.I.M.P\. \- Snoop Dogg Remix](https://open.spotify.com/track/7D8gRgQ161fqXNOkcanJfa) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 4:46 |
-| 49 | [Fuck It](https://open.spotify.com/track/50lOvJmUACTRJDxU62o5f6) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [King of Memphis](https://open.spotify.com/album/3HnNyOdm1T23RfhXl78CLt) | 3:30 |
-| 50 | [Pimpin Ain't Eazy](https://open.spotify.com/track/5FxKZ4IajYIRDjAWAboiB4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pimpin' Ain't Eazy](https://open.spotify.com/album/5kltcGxaQ7kpkDx05qJlZ0) | 2:57 |
+| 49 | [Pimpin Ain't Eazy](https://open.spotify.com/track/5FxKZ4IajYIRDjAWAboiB4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pimpin' Ain't Eazy](https://open.spotify.com/album/5kltcGxaQ7kpkDx05qJlZ0) | 2:57 |
+| 50 | [Fuck It](https://open.spotify.com/track/50lOvJmUACTRJDxU62o5f6) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [King of Memphis](https://open.spotify.com/album/3HnNyOdm1T23RfhXl78CLt) | 3:30 |
 
 Snapshot ID: `ZIsSZAAAAAAYkUaLRkysmC39qAtxmo7T`

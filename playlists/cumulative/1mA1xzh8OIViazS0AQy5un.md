@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-688 songs - 1 day 14 hr 59 min
+690 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [I Just Wanna Shine](https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:27 | 2023-04-19 |  |
 | [I Like Giants](https://open.spotify.com/track/1UJfNzt4cNgwDmCRmKMY30) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/1XfqNDOsMsShg6AKbPMdXZ) | 2:38 | 2024-11-10 |  |
 | [I Love Play Rehearsal](https://open.spotify.com/track/1UnZMZfHHJM3sBsMUkiPP1) | [Stephanie Hsu](https://open.spotify.com/artist/4TNy7lKgnA9WB8VNEfgvqn) | [Be More Chill \(Original Cast Recording\)](https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM) | 2:55 | 2023-04-19 |  |
+| [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 | 2025-03-14 |  |
 | [I See You](https://open.spotify.com/track/5UIR8dRPP1GtdxYHYPwKN5) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [The Darker The Weather // The Better The Man](https://open.spotify.com/album/1lxOTjnDs6u4UHn2fzMNxu) | 3:48 | 2023-04-25 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-04-29 |  |
 | [I Want To Be Human](https://open.spotify.com/track/0EERQaWITBTHajK9fjoGRN) | [Jimmy Urine](https://open.spotify.com/artist/6eKPGZXPzhW8SOu8RoAQKl) | [The Secret Cinematic Sounds of Jimmy Urine](https://open.spotify.com/album/1gYdxyLAluTcXqckE8YEsT) | 4:01 | 2023-05-13 |  |
@@ -674,6 +675,7 @@
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2023-04-27 |  |
 | [Wild Side \(From "Beastars"\)](https://open.spotify.com/track/6QdP0hszMjRE3viB0F0GgD) | [CyYu](https://open.spotify.com/artist/25b5QFnCedG5cvOrX3dOiN) | [Wild Side \(From "Beastars"\)](https://open.spotify.com/album/0uBOYmGCMn4aUvAFwoUkEx) | 2:35 | 2023-04-19 |  |
 | [Wild Slide](https://open.spotify.com/track/5doEbu0OO4YLpW7T3Vo2fr) | [Jules Gaia](https://open.spotify.com/artist/7GXiq6QQjWFEgHjd3TRaCt) | [Tuppence](https://open.spotify.com/album/7AmUm7lWIJohCUOpOrDaeN) | 2:51 | 2023-04-19 |  |
+| [Wires Crossed](https://open.spotify.com/track/0dI23ZVQTJq9wlx8Wm3nre) | [Dom Fera](https://open.spotify.com/artist/2qmjAtWVjMPWHHDdWilU6a) | [Wires Crossed](https://open.spotify.com/album/0wDqCohxL8ao0ilO0XUykz) | 3:02 | 2025-03-14 |  |
 | [Woke Up New](https://open.spotify.com/track/7usk7zdSDyBKeEF0THDKoK) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:57 | 2024-12-05 |  |
 | [Wolf in Sheep's Clothing](https://open.spotify.com/track/55Fpeuuc2sbQiy74eA1gTt) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [William Beckett](https://open.spotify.com/artist/7CtuVv4AQbupHTsr3E4d9p) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:07 | 2023-04-25 |  |
 | [Wonderland](https://open.spotify.com/track/6yhbb3lXkf9kUHARsnOsst) | [Sounds Like Harmony](https://open.spotify.com/artist/4caM8ZuwqkO5Zt0ZNHYTod) | [Wonderland](https://open.spotify.com/album/4BKmzfVmDDUw4rpcOk0hmg) | 2:55 | 2023-04-19 |  |

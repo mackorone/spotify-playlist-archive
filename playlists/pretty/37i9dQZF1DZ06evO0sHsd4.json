@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 12619,
+  "num_followers": 12641,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADMFGBaVh8ttWqlhE2h+0jd",
+  "snapshot_id": "Z9IgAAAAAACv38rhHeRqznJhhj4G1Aiw",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta el Dia de Hoy",
-        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Hasta el Dia de Hoy",
-      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos Cambian",
         "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 186983,
       "name": "Escuela 4 Letras",
       "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta el Dia de Hoy",
+        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Hasta el Dia de Hoy",
+      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo (Para Siempre)",
-        "url": "https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 227454,
-      "name": "Te Amo (Para Siempre)",
-      "url": "https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Siento Nada",
         "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 146812,
       "name": "Ya No Siento Nada",
       "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Amo (Para Siempre)",
+        "url": "https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 227454,
+      "name": "Te Amo (Para Siempre)",
+      "url": "https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA"
     },
     {
       "added_at": null,

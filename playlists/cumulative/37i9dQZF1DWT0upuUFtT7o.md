@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Cdubz
 
-3,085 songs - 7 day 2 hr 26 min
+3,086 songs - 7 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,6 +1099,7 @@
 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 | 2023-03-15 | 2024-01-11 |
 | [Guts](https://open.spotify.com/track/3cJ0d47ciEYZY7VGCjzpaT) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Guts](https://open.spotify.com/album/22Gau97nAYxmUWsgn3YZcg) | 3:49 | 2023-06-07 | 2023-07-12 |
 | [Gutter](https://open.spotify.com/track/46nsKwn4BUGu9IazWMNU5Q) | [Trout](https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy) | [Gutter](https://open.spotify.com/album/33mi2Mz6QznWUy3m005Qqi) | 2:38 | 2023-05-24 | 2023-06-15 |
+| [H+H](https://open.spotify.com/track/3N0jaNfm4tH6EKw5lIwCOX) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [H+H](https://open.spotify.com/album/19qzl6ksm4J9cbWJZ5QhFm) | 1:52 | 2025-03-14 |  |
 | [H2HAVEYOU](https://open.spotify.com/track/4rvB3VKlc5jdOPHLCaD5Uo) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [H2HAVEYOU](https://open.spotify.com/album/5i3veOpv6jwfwY7slYYlEM) | 3:26 | 2024-01-31 | 2024-03-07 |
 | [Habits](https://open.spotify.com/track/42p0WZN8y8bqx29WXYA52U) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Habits](https://open.spotify.com/album/10OBztaOJGy5eDO5gOzfly) | 4:00 | 2023-07-19 | 2023-08-24 |
 | [Habitual](https://open.spotify.com/track/1CK6BGIVMgf1NrPzRTGW4o) | [Phantom Sugar](https://open.spotify.com/artist/4r75bJsAkat7raE5mplgKR) | [Habitual](https://open.spotify.com/album/5wXbropKuzIviTEUJS1RGz) | 2:57 | 2024-03-06 | 2024-05-02 |

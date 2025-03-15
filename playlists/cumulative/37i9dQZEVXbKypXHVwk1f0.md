@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,506 songs - 3 day 12 hr 38 min
+1,507 songs - 3 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [BELLY DANZA](https://open.spotify.com/track/71HmhuXU02SZspNrUuhGvp) | [Rafa Carter](https://open.spotify.com/artist/6BccdczPdDAWMzyuXHAT6F) | [BELLY DANZA](https://open.spotify.com/album/2nbhVKi9IreqMDcwMf7Q2v) | 2:03 | 2024-10-09 | 2024-10-18 |
 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 | 2024-01-20 | 2024-02-01 |
 | [Bendita Nota](https://open.spotify.com/track/2nogvCAks6RgjxubNXOPMH) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Bendita Nota](https://open.spotify.com/album/13dmU1iu11URAFbmYZz7i3) | 2:47 | 2022-08-04 | 2022-08-12 |
-| [Benjamin](https://open.spotify.com/track/5rfL02uMO6NpMLMCkkNdpR) | [El Boys C](https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [Benjamin](https://open.spotify.com/album/1Tk3BiUx7hOVfO0689MDuY) | 4:10 | 2025-03-05 |  |
+| [Benjamin](https://open.spotify.com/track/49MGvf2N9WkcZV2bwUj3XO) | [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [The Boys C](https://open.spotify.com/artist/7hpjP1bD7QrBqYtZ4leZIz) | [Benjamin](https://open.spotify.com/album/6S2XNtbYSd8aAIXJja8Emb) | 4:11 | 2025-03-14 |  |
+| [Benjamin](https://open.spotify.com/track/5rfL02uMO6NpMLMCkkNdpR) | [El Boys C](https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [Benjamin](https://open.spotify.com/album/1Tk3BiUx7hOVfO0689MDuY) | 4:10 | 2025-03-05 | 2025-03-15 |
 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 | 2024-04-24 | 2024-05-02 |
 | [Besitos](https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Besitos](https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj) | 5:01 | 2023-12-01 | 2024-09-03 |
 | [BESITOS](https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [BESITOS](https://open.spotify.com/album/0RktZ73zFuP7yTfkI3yJxX) | 2:28 | 2024-07-12 | 2025-02-10 |

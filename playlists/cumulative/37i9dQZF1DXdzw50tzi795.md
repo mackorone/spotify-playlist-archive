@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: F.HERO, ก้านตอง ทุ่งเงิน, Saran
 
-140 songs - 9 hr 8 min
+141 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-01-26 | 2024-03-15 |
 | [ถ้าไม่มีฉัน \(Lost\)](https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:59 | 2024-01-26 | 2024-02-22 |
 | [ที่ฉันเสียใจ](https://open.spotify.com/track/5FjWcmMlwbY6SCGdfuercf) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ที่ฉันเสียใจ](https://open.spotify.com/album/5wXOS5IhaPXjhOtOBhiszo) | 5:18 | 2024-05-30 | 2024-06-15 |
-| [ที่รักใจเย็น](https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Williams](https://open.spotify.com/artist/0rnxDMQvlw7WzIofQuaXmT) | [URDAWG](https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh) | 3:23 | 2024-03-14 |  |
+| [ที่รักใจเย็น](https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Williams](https://open.spotify.com/artist/0rnxDMQvlw7WzIofQuaXmT) | [URDAWG](https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh) | 3:23 | 2024-03-14 | 2025-03-15 |
 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 | 2024-04-11 | 2024-06-28 |
 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 | 2024-09-26 |  |
 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 | 2024-12-06 |  |
@@ -109,6 +109,7 @@
 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 | 2024-11-22 |  |
 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 | 2024-03-27 | 2024-07-19 |
 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 | 2025-02-08 |  |
+| [สัมภเวซี้ \(GFF Ghost Friend Forever\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad) | 3:22 | 2025-03-14 |  |
 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 | 2024-09-19 |  |
 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 | 2024-12-06 | 2025-01-10 |
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-26 |  |

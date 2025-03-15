@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ghost.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,866 likes - 353 songs - 21 hr 17 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,867 likes - 359 songs - 21 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -361,5 +361,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 351 | [Button Eyes](https://open.spotify.com/track/2DOUn2VHfSfUIyyZLE9Ig9) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Button Eyes](https://open.spotify.com/album/1Ea8ce1wPV4CthoUAEkbtL) | 3:38 |
 | 352 | [Black Rainbow](https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:24 |
 | 353 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
+| 354 | [Into The Suffer](https://open.spotify.com/track/5UlTbTL3VLHmIaHipuXF0X) | [Melting](https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF) | [Into The Suffer](https://open.spotify.com/album/0REm2wCgnfI2FqZ24RBkMS) | 3:19 |
+| 355 | [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 |
+| 356 | [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 |
+| 357 | [Marathon](https://open.spotify.com/track/0XJFH48sUsztR2ke1xbMlV) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Marathon](https://open.spotify.com/album/4ykex0OfWMkK5oSaKcWBSm) | 3:09 |
+| 358 | [Devil Left Me On Read](https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Devil Left Me On Read](https://open.spotify.com/album/4CxKGc6sptru8aY1MVshGg) | 2:38 |
+| 359 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 |
 
-Snapshot ID: `AAANtmJqQ8p3wm8n2B1CPk7pMxh1QYXp`
+Snapshot ID: `AAANvexq4bMCg7FVzBmHfrUEy3XoW4+0`

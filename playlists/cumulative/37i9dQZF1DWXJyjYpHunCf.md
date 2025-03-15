@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Jonah Kagen
 
-487 songs - 1 day 3 hr 38 min
+490 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 | 2024-04-12 | 2024-10-12 |
 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-08-19 | 2023-11-08 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-05-31 |  |
-| [all I know](https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [all I know](https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa) | 3:14 | 2024-10-18 |  |
+| [all I know](https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [all I know](https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa) | 3:14 | 2024-10-18 | 2025-03-15 |
 | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx) | 2:59 | 2023-03-24 | 2023-04-09 |
 | [All the Time in the World](https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Talk](https://open.spotify.com/album/0FO0CHC3r7HQJXWSXE3F3l) | 3:44 | 2021-11-12 | 2022-07-19 |
 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 | 2021-11-12 | 2024-07-13 |
@@ -342,7 +342,7 @@
 | [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-04-19 |  |
 | [Pure Desire](https://open.spotify.com/track/7aYYqWsMiZaKOlvIj3KxY8) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Pure Desire / Loosen Up](https://open.spotify.com/album/3J95vIMwdAUouqR2vekhJ0) | 3:26 | 2021-11-12 | 2022-07-28 |
 | [Puzzle Peace](https://open.spotify.com/track/6RNx2PvcKDBJSvFMW6SqES) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Puzzle Peace](https://open.spotify.com/album/7vKsNksBLfF9WRExodr9DF) | 3:54 | 2021-11-12 | 2022-07-29 |
-| [radio tower](https://open.spotify.com/track/1rIrGL2KRBhIE4FEX2IawH) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [san marino](https://open.spotify.com/album/64FhCcwZeQHckx4Dug0Et4) | 3:08 | 2024-11-22 |  |
+| [radio tower](https://open.spotify.com/track/1rIrGL2KRBhIE4FEX2IawH) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [san marino](https://open.spotify.com/album/64FhCcwZeQHckx4Dug0Et4) | 3:08 | 2024-11-22 | 2025-03-15 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 |  |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 |  |
 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-03-29 | 2024-04-19 |
@@ -402,6 +402,7 @@
 | [Sword from the Stone](https://open.spotify.com/track/1EGqBPvJRNtBNTuwO3wT3S) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/47uaVUQDYHtEKt6zQpzulP) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-03-12 | 2024-03-30 |
 | [Sword from the Stone](https://open.spotify.com/track/5v6Ymyfe9zPlwqzJQzpa5T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/0egB2HPIM6cjBA6ustouKs) | 3:21 | 2022-10-14 | 2022-11-14 |
+| [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 | 2025-03-14 |  |
 | [Take Me Back](https://open.spotify.com/track/20CsvBiCnAAa6cKmnjCsUN) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Take Me Back](https://open.spotify.com/album/6xN9RBL6ihLkXnfVdhejzX) | 2:53 | 2024-06-28 |  |
 | [Ten Steps Back](https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:27 | 2022-03-12 | 2022-10-15 |
 | [Ten Steps Back](https://open.spotify.com/track/2lBi4wDhV3TQZOWIcHfq62) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:27 | 2021-11-12 | 2022-07-29 |
@@ -409,6 +410,7 @@
 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 | 2024-12-13 |  |
 | [The Future of an End](https://open.spotify.com/track/3aGkfDKhQBWj5KYJraBI8c) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/3VClaRmW4RzpKst551M1Bk) | 4:10 | 2021-11-12 | 2022-07-29 |
 | [The Ghost In Your Smile](https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost In Your Smile // Seventeen](https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T) | 3:47 | 2022-03-12 | 2022-04-25 |
+| [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 |  |
 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-11-12 | 2024-02-07 |
 | [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 | 2024-04-12 | 2025-02-01 |
 | [The Only Thing Left](https://open.spotify.com/track/5rOkv636e3XHJmjLHvjLPT) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Versions of Uncertainty](https://open.spotify.com/album/3s0BEYs9blTh9wpgsSH3wm) | 3:27 | 2024-07-19 |  |
@@ -434,6 +436,7 @@
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 | 2023-09-22 | 2024-03-30 |
 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 | 2021-11-12 | 2023-08-26 |
 | [Time Stand Still](https://open.spotify.com/track/6DblObtQQRnyqx9z6KVGFy) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/58dF8ETOhaFmNwngKEX1e7) | 4:39 | 2021-11-12 | 2022-07-29 |
+| [time zones](https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [retrograde rodeo](https://open.spotify.com/album/5662DUUWrUnbd5rMa11ker) | 3:59 | 2025-03-14 |  |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 |  |
 | [trees talk](https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [trees talk](https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO) | 3:04 | 2024-02-23 |  |
 | [Turn out fine](https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Turn out fine](https://open.spotify.com/album/4LPDuEPmWtMfOj8argxDrI) | 2:27 | 2023-10-27 | 2024-03-30 |
@@ -457,7 +460,7 @@
 | [Waterfall](https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Waterfall](https://open.spotify.com/album/2pOfoFlDHQ7YO9YorMzeLF) | 3:32 | 2022-02-21 | 2022-07-29 |
 | [Waterfall](https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:32 | 2022-03-12 | 2023-11-23 |
 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 | 2022-08-19 | 2024-03-29 |
-| [Way back](https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Way back](https://open.spotify.com/album/4cPUhTixpDCnoTsxQjDU8O) | 2:39 | 2024-06-07 |  |
+| [Way back](https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Way back](https://open.spotify.com/album/4cPUhTixpDCnoTsxQjDU8O) | 2:39 | 2024-06-07 | 2025-03-15 |
 | [We Were Young](https://open.spotify.com/track/7jvbxB4On47Hl33C0qA88B) | [RIVVRS](https://open.spotify.com/artist/5T3N5ks9c3L7D4aXw54DVs) | [We Were Young](https://open.spotify.com/album/6AATZIM9hLK5zcTCVHHf7M) | 3:24 | 2021-11-12 | 2022-07-27 |
 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-11-12 | 2023-07-25 |
 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 | 2024-05-10 | 2024-07-19 |

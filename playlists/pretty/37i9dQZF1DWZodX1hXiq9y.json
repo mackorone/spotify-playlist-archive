@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 123838,
+  "num_followers": 123872,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Today And Now",
         "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 252173,
       "name": "Love Song From \"Apache\"",
       "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 381346,
-      "name": "Lester Leaps In",
-      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 390666,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 381346,
+      "name": "Lester Leaps In",
+      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 504866,
-      "name": "Hat And Beard",
-      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 308960,
       "name": "The Good Life - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 504866,
+      "name": "Hat And Beard",
+      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 242560,
       "name": "Caroline, No",
       "url": "https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
+        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
+      },
+      "artists": [
+        {
+          "name": "Roland Kirk Quartet",
+          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Out There (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 389466,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3UwGl9KiFX1XuonK1btQbQ"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
-        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
-      },
-      "artists": [
-        {
-          "name": "Roland Kirk Quartet",
-          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Quartets",
-        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 444840,
-      "name": "Haghia Sophia",
-      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1899,22 +1883,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Rhythm In Mind (The Carnegie Project)",
-        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
-      },
-      "artists": [
-        {
-          "name": "Steve Coleman",
-          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
-        }
-      ],
-      "duration_ms": 549520,
-      "name": "Zec",
-      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Analog Man",
         "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 605013,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Quartets",
+        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 444840,
+      "name": "Haghia Sophia",
+      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Rhythm In Mind (The Carnegie Project)",
+        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
+      },
+      "artists": [
+        {
+          "name": "Steve Coleman",
+          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
+        }
+      ],
+      "duration_ms": 549520,
+      "name": "Zec",
+      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Pushing the World Away",
-        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "A Side Order of Hijiki",
-      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Escaping Shadows",
         "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 329200,
       "name": "New Days",
       "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Pushing the World Away",
+        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "A Side Order of Hijiki",
+      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Contemporary Jazz",
-        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        }
-      ],
-      "duration_ms": 962320,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 368053,
       "name": "Eco - Remastered",
       "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Contemporary Jazz",
+        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        }
+      ],
+      "duration_ms": 962320,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
     },
     {
       "added_at": "2024-07-17 12:24:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 172761,
+  "num_followers": 172767,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACY1SyEUNtWZKqICr3o3/6m",
+  "snapshot_id": "Z9IgAAAAAAAb5gvZ91v7Bz/J/uKU41Ti",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "About That Time",
-      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kidz Bop 26",
         "url": "https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 190173,
       "name": "Timber",
       "url": "https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "About That Time",
+      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Super POP!",
-        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 167714,
-      "name": "abc",
-      "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 50",
         "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 150695,
       "name": "Certified BOP",
       "url": "https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 167714,
+      "name": "abc",
+      "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Gotta Feeling - Redo Version",
-      "url": "https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Megapop",
         "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205506,
       "name": "Rumour Has It",
       "url": "https://open.spotify.com/track/1pl6PjgoyVuI5v553XO112"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Gotta Feeling - Redo Version",
+      "url": "https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Party In The USA - Redo Version",
-      "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Megapop",
         "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 198333,
       "name": "That's Not My Name",
       "url": "https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Party In The USA - Redo Version",
+      "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
     },
     {
       "added_at": null,

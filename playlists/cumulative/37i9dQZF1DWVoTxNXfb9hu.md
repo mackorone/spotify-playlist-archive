@@ -2,7 +2,7 @@
 
 ### [Holi Party](https://open.spotify.com/playlist/37i9dQZF1DWVoTxNXfb9hu)
 
-> Colourful songs to kickstart your Holi party! Cover \- Vishal Mishra & Malini Awasthi
+> Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
 130 songs - 7 hr 41 min
 

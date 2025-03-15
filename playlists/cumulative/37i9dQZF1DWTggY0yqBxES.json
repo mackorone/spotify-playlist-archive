@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "NO HOLDS BARRED",
+        "url": "https://open.spotify.com/album/6mUNb43ZbYgQHtQzXxwGiB"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "ALMIGHTY SIAH",
+      "url": "https://open.spotify.com/track/5gxB0KOp99K0uxXyjl1gqH"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/7uPLrsZsjZuXA4janiL0WK"
       },
@@ -1528,6 +1546,24 @@
       "duration_ms": 165818,
       "name": "Another Cigarette",
       "url": "https://open.spotify.com/track/6qY6JbOPh0hfLh5xsa1UFA"
+    },
+    {
+      "album": {
+        "name": "ANTHEM",
+        "url": "https://open.spotify.com/album/2hFe5KmSatXBfNrxSz9VJF"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198651,
+      "name": "ANTHEM",
+      "url": "https://open.spotify.com/track/6U3ZV7wWDLSCU5lWNDTymt"
     },
     {
       "album": {
@@ -2716,7 +2752,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 202162,
       "name": "Birds",
       "url": "https://open.spotify.com/track/4NKCtKcL7oGSwJ2EfOBU8N"
@@ -3400,7 +3436,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 115231,
       "name": "Boxes In My Basement",
       "url": "https://open.spotify.com/track/2qOkS7pYuHHlSIgjXorhmh"
@@ -5644,7 +5680,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 182052,
       "name": "Dear Fren",
       "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
@@ -6981,6 +7017,28 @@
     },
     {
       "album": {
+        "name": "EN ROUTE",
+        "url": "https://open.spotify.com/album/6ENaii2JqCkkkatXu1ddf1"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        },
+        {
+          "name": "Sol ChYld",
+          "url": "https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156374,
+      "name": "EN ROUTE",
+      "url": "https://open.spotify.com/track/2e90aho4ucKvIx2CguwkqN"
+    },
+    {
+      "album": {
         "name": "01 LOVE.",
         "url": "https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49"
       },
@@ -7359,6 +7417,24 @@
     },
     {
       "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
+    },
+    {
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -7396,6 +7472,24 @@
       "duration_ms": 115884,
       "name": "FAMOUS.",
       "url": "https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt"
+    },
+    {
+      "album": {
+        "name": "father",
+        "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105977,
+      "name": "father",
+      "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
     },
     {
       "album": {
@@ -7978,7 +8072,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
@@ -9974,7 +10068,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 129403,
       "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
       "url": "https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib"
@@ -13861,6 +13955,24 @@
     },
     {
       "album": {
+        "name": "Mindset",
+        "url": "https://open.spotify.com/album/1U4jMi9HEC1pQepg4QTVjl"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117144,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/7EhKdsMxBUwYIYpMrIsHtf"
+    },
+    {
+      "album": {
         "name": "Bad As I Wanna Be",
         "url": "https://open.spotify.com/album/6ss5K7Z1VPQqzkt2tBVISg"
       },
@@ -15343,6 +15455,24 @@
     },
     {
       "album": {
+        "name": "NOTHING TO LOSE",
+        "url": "https://open.spotify.com/album/5HsPCy9M0pJy9B3mZpZhbL"
+      },
+      "artists": [
+        {
+          "name": "Bishop Nehru",
+          "url": "https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "NOTHING TO LOSE",
+      "url": "https://open.spotify.com/track/36MPiHMvvjhVTHBcSww6rp"
+    },
+    {
+      "album": {
         "name": "Nothing's Changed",
         "url": "https://open.spotify.com/album/4jW8tj4GeD08qgifbyLsNB"
       },
@@ -15756,7 +15886,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 140006,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/4uk1qNZ5in96pEqdIlilOt"
@@ -16980,6 +17110,28 @@
       "duration_ms": 196576,
       "name": "Pop (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL"
+    },
+    {
+      "album": {
+        "name": "Pop n Olive",
+        "url": "https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180878,
+      "name": "Pop n Olive",
+      "url": "https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam"
     },
     {
       "album": {
@@ -18528,6 +18680,24 @@
       "duration_ms": 199871,
       "name": "Run Home",
       "url": "https://open.spotify.com/track/0X3rHWaJJyM5AvVwjfPOzx"
+    },
+    {
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173502,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
     },
     {
       "album": {
@@ -20616,6 +20786,24 @@
       "duration_ms": 135400,
       "name": "Summer",
       "url": "https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS"
+    },
+    {
+      "album": {
+        "name": "Super Giant",
+        "url": "https://open.spotify.com/album/0VsAs0bHeD1zOrGxmOgblA"
+      },
+      "artists": [
+        {
+          "name": "Cleotrapa",
+          "url": "https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146470,
+      "name": "Super Giant",
+      "url": "https://open.spotify.com/track/0gXHySGhcljMgSoIcTyBSl"
     },
     {
       "album": {

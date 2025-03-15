@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 > Pa' toda la raza pesada\. Los Originales de San Juan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,499 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,594 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

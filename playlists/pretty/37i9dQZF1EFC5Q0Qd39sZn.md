@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,533 likes - 572 songs - 1 day 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,540 likes - 572 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,10 +311,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 301 | [Numb \- 2017 Remaster](https://open.spotify.com/track/5bpFQj1Ceojaba0btoDTFw) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Fundamental: Further Listening 2005 \- 2007 \(2017 Remaster\)](https://open.spotify.com/album/4ZFuSmSto4VKVZ4glzep3j) | 4:43 |
 | 302 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
 | 303 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
-| 304 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
-| 305 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
-| 306 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 |
-| 307 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 |
+| 304 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
+| 305 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
+| 306 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 |
+| 307 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 |
 | 308 | [Do You Dream About Me?](https://open.spotify.com/track/4hRHtPFwj1bNpwO4zr8R2X) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Cinematography](https://open.spotify.com/album/2dm2ziYU0BUDcEzS4GJkJ2) | 3:55 |
 | 309 | [Where Do I Go From You](https://open.spotify.com/track/6Z4z8B5DQiDJSB9iWOi1G0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:25 |
 | 310 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 |
@@ -445,9 +445,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 435 | [Fatal Distraction](https://open.spotify.com/track/74mzeu6A1lTjgYRZEW8kcG) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [IF YOU DARE VOL\. 1](https://open.spotify.com/album/4bqo5KzYrGTaiehKdyRJ3S) | 3:22 |
 | 436 | [Sheltered Heart](https://open.spotify.com/track/7vs9x1UUlXQkBIyaV7KcVP) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/2E5SRcJqYXGXyJTAZOgmnB) | 4:44 |
 | 437 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
-| 438 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 |
-| 439 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
-| 440 | [Don't Want To Live Without Your Love](https://open.spotify.com/track/185mYjhMPzy5gu6ODIkccu) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Israel's King](https://open.spotify.com/album/0FUOLix414SaW34JbJMpJN) | 3:47 |
+| 438 | [Don't Want To Live Without Your Love](https://open.spotify.com/track/185mYjhMPzy5gu6ODIkccu) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Israel's King](https://open.spotify.com/album/0FUOLix414SaW34JbJMpJN) | 3:47 |
+| 439 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 |
+| 440 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
 | 441 | [Fistibal \- Festival](https://open.spotify.com/track/4BgyQHLsjTIf7R3z4RmlP3) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Tuge](https://open.spotify.com/artist/2mE1cHocWbynDUIJFcruHT) | [Creole 101 \- Welcome To Haiti](https://open.spotify.com/album/274HvIfpOTSegdX30cCuOL) | 4:28 |
 | 442 | [To Get Here](https://open.spotify.com/track/549Sv1sewmEpAai5QaZCTd) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Last Movie Star Original Motion Picture Soundtrack](https://open.spotify.com/album/0jmKUjTFXhaf7Eialk8efy) | 3:38 |
 | 443 | [Quitte\-moi](https://open.spotify.com/track/0KSuovcivqc10FWHWFUURH) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 4:03 |
@@ -581,4 +581,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 572 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Abr+VAAAAADNfFYBOd1CurShQY8VRaiQ`
+Snapshot ID: `AbsD9AAAAAAaB5GyKyajUtOLObEbxLZH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Low\-Red in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,298 likes - 74 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,391 likes - 74 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 73 | [PRETTY MF](https://open.spotify.com/track/5zCvnWc3l0lZ5J0zMMT0hS) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [PRETTY MF](https://open.spotify.com/album/5ReCaOauMC6cxk4B7AuabY) | 2:55 |
 | 74 | [Sesto Senso](https://open.spotify.com/track/35dQ0wfWSl226pneTkYU0n) | [Taizal](https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT), [Exynos](https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s) | [Sensi di Colpa](https://open.spotify.com/album/3OA1p76vxcMVKMCaVkji7D) | 2:50 |
 
-Snapshot ID: `Z9NjuQAAAAC4UDdJ1qHbX/rFW/Py6Lk6`
+Snapshot ID: `Z9P/pQAAAABOzAWk3XwA4nX8e23SucPq`

@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Broken & Beautiful",
         "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 218948,
       "name": "Broken & Beautiful",
       "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -867,6 +867,30 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Love To Go",
+        "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        },
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Love To Go",
+      "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 231192,
       "name": "go with u",
       "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Love To Go",
-        "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        },
-        {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Love To Go",
-      "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1443,26 +1443,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "R.I.P. (feat. Rita Ora & Anitta)",
-        "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 187200,
-      "name": "R.I.P. (feat. Rita Ora & Anitta)",
-      "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
+      "duration_ms": 211040,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1483,22 +1479,26 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
+        "name": "R.I.P. (feat. Rita Ora & Anitta)",
+        "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
       },
       "artists": [
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
+      "duration_ms": 187200,
+      "name": "R.I.P. (feat. Rita Ora & Anitta)",
+      "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Y U Gotta B Like That",
-        "url": "https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 154456,
-      "name": "Y U Gotta B Like That",
-      "url": "https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Mind The Moon",
         "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 177986,
       "name": "Scarlet Paintings",
       "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Y U Gotta B Like That",
+        "url": "https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 154456,
+      "name": "Y U Gotta B Like That",
+      "url": "https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM"
     },
     {
       "added_at": "2024-07-03 14:32:39",

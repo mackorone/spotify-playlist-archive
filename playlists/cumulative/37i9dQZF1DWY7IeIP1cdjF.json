@@ -1099,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
+    },
+    {
+      "album": {
         "name": "BEACHY",
         "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
@@ -1674,7 +1696,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 163979,
       "name": "CASI ALGO",
       "url": "https://open.spotify.com/track/6tuLAQURf4P97dD750iTaJ"
@@ -8093,6 +8115,32 @@
     },
     {
       "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178224,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
+    },
+    {
+      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
       },
@@ -11956,7 +12004,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 121200,
       "name": "TU TA RICA",
       "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"

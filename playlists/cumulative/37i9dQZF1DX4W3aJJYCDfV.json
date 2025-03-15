@@ -51413,6 +51413,24 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137178,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
+    },
+    {
+      "album": {
         "name": "come over",
         "url": "https://open.spotify.com/album/1CqyGJGeJalpbnuXreQiZX"
       },
@@ -102442,6 +102460,24 @@
       "duration_ms": 254693,
       "name": "Good Books",
       "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
       "album": {

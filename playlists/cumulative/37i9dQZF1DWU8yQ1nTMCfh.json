@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Karamanduka",
+        "url": "https://open.spotify.com/album/60flsDJF2kLE5vwUMLEQBt"
+      },
+      "artists": [
+        {
+          "name": "Los Outsaiders",
+          "url": "https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139081,
+      "name": "Karamanduka",
+      "url": "https://open.spotify.com/track/5vro5fQlVcklzry0BsfjVM"
+    },
+    {
+      "album": {
         "name": "La Bas(e)",
         "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
       },
@@ -3504,7 +3522,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 183441,
       "name": "Qu\u00e9date un Momento",
       "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"
@@ -6050,6 +6068,24 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+    },
+    {
+      "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Sunday Service Choir, Joshua Rogers, Jordan G. Welch and more",
+  "description": "With Sunday Service Choir, Jessica Reedy, Donald Lawrence & Company and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 255546,
       "name": "23rd Psalm - Feat. Michelle Jordan",
       "url": "https://open.spotify.com/track/2k2lsjEr1pP43ItYoD2Ut4"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/57iQXTRzaKvQnaIJXiDFlO"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 399506,
       "name": "Acappella Praise (Even Me) (feat. New Generation Singers Reunion Choir)",
       "url": "https://open.spotify.com/track/0aJIA0IfcrIS1KOLwS2j6z"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 303746,
       "name": "Adoration (So Amazing)",
       "url": "https://open.spotify.com/track/4a4JpMiIt0xFyWqfs8LsQk"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 304093,
       "name": "Beautifully Made",
       "url": "https://open.spotify.com/track/2rMBzz9ZQdHJHUVzgWTb7n"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 272226,
       "name": "Blue God",
       "url": "https://open.spotify.com/track/7EBBFmfDrDAvGRX4ZBoz48"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 230940,
       "name": "Contentment",
       "url": "https://open.spotify.com/track/6eg94YMPJ8lgLIV11oelLu"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 287066,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/5hJztFVEllZgNO1y1iD7vC"
@@ -6010,7 +6010,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 185786,
       "name": "Fix Me, Jesus",
       "url": "https://open.spotify.com/track/6uXa7nhaT3oTfWrQDd7tZn"
@@ -8222,7 +8222,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 232941,
       "name": "Grace",
       "url": "https://open.spotify.com/track/72EK42Ep26a2gKatarINO0"
@@ -8598,7 +8598,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 299920,
       "name": "Happy Being Me",
       "url": "https://open.spotify.com/track/1ZJv519hszftsuPAjhP159"
@@ -8830,7 +8830,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 314240,
       "name": "He Has Done Marvelous Things",
       "url": "https://open.spotify.com/track/2RRX2qjCMKsoZ4zI3UNcQo"
@@ -9088,7 +9088,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 190106,
       "name": "He Wants It All - Acoustic Version",
       "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
@@ -9452,7 +9452,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 312076,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/5FsssFEGbSTDHRT1RC6A1R"
@@ -11021,6 +11021,24 @@
     },
     {
       "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/5l6wDu0nuNw6cp3IkBKMZ5"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr & The Kurt Carr Singers",
+          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518666,
+      "name": "I Am The One (Luke 17:11) (featuring Nikki Potts & Pastor Destry Bell)",
+      "url": "https://open.spotify.com/track/2DYqRXMNbGJaxjgnJXj9fZ"
+    },
+    {
+      "album": {
         "name": "Feels Like Home, Vol. 2",
         "url": "https://open.spotify.com/album/0lK9s3Mt3B2iDuUBmSl7EE"
       },
@@ -11090,7 +11108,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 273013,
       "name": "I Belong Here",
       "url": "https://open.spotify.com/track/22tu08CfFWq1nkJiOBp0xa"
@@ -11564,7 +11582,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 172227,
       "name": "I Give It All - From \u201cStar\u201d Season 3",
       "url": "https://open.spotify.com/track/7piehEtMJon6TIokbuDvAe"
@@ -12390,7 +12408,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 316066,
       "name": "I Stepped Out",
       "url": "https://open.spotify.com/track/5XBWPJnBGkz7ZEN5uC65cN"
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 289500,
       "name": "I Threw in the Towel - Radio Edit",
       "url": "https://open.spotify.com/track/3zdaL9qdMNcGi0kCRE4WlD"
@@ -12742,7 +12760,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 311640,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5ALPne4FwgXQSsbeZcmtUZ"
@@ -13020,7 +13038,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 288586,
       "name": "I Won't Complain",
       "url": "https://open.spotify.com/track/0Z40ksWbWS2Hpmu99XxDV9"
@@ -13628,7 +13646,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "I'm Over It Now",
       "url": "https://open.spotify.com/track/6Nh4CD6t3vAla4YvH09mvL"
@@ -14052,7 +14070,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 268979,
       "name": "If My People",
       "url": "https://open.spotify.com/track/1aFQRba6ZsmNCQzkd0MV9j"
@@ -14434,7 +14452,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 141306,
       "name": "Is There Any Way",
       "url": "https://open.spotify.com/track/1roYWS66ozExsfnrSuuFcH"
@@ -15876,7 +15894,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 242160,
       "name": "Johnny & Donna",
       "url": "https://open.spotify.com/track/7gThA2feOdNSazklM0ze9Y"
@@ -16542,7 +16560,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "King Jesus Is Listening",
       "url": "https://open.spotify.com/track/0M8MpedMeWHvSnVQJEY7zT"
@@ -17768,7 +17786,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 325826,
       "name": "Lord Do It",
       "url": "https://open.spotify.com/track/5HeEJbaS7V9Ft7gfq8uRGi"
@@ -18680,7 +18698,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 371106,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/0myqyN0uGi1fNaSYBtdAbe"
@@ -19586,7 +19604,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 391666,
       "name": "My Father Knows",
       "url": "https://open.spotify.com/track/2nwnnLsNhPdil9itwE7Mqm"
@@ -19724,7 +19742,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 232706,
       "name": "My Heart Says Yes",
       "url": "https://open.spotify.com/track/2BSfoIKfQHePiCayPk9iHR"
@@ -22088,7 +22106,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 230240,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/3lz1UzQwodhesZi6lBVvJh"
@@ -23184,7 +23202,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 201691,
       "name": "Rain Down (Angie Stone, Eddie Levert) - Live",
       "url": "https://open.spotify.com/track/45K5Gq6l61RJwvQHeJfotc"
@@ -23904,7 +23922,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 208472,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/3aqTs1agcNKsBo6verQzus"
@@ -24128,7 +24146,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 202592,
       "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
       "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
@@ -25632,7 +25650,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 396453,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/264DuAk6ypux2fHZFoUSKD"
@@ -27440,7 +27458,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 328520,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/131CaypTe4DEHe5SXpjxwN"

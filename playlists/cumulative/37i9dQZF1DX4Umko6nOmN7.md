@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-163 songs - 8 hr 44 min
+164 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 | 2024-11-21 | 2024-12-30 |
 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2024-06-27 | 2024-08-30 |
 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 | 2024-10-24 | 2025-01-28 |
-| [Awful Liar](https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2) | [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Awful Liar](https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg) | 3:02 | 2024-06-27 |  |
+| [Awful Liar](https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2) | [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Awful Liar](https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg) | 3:02 | 2024-06-27 | 2025-03-15 |
 | [Back To My Roots \- Acoustic Version](https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Back To My Roots](https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz) | 3:22 | 2024-08-15 | 2024-11-28 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2024-06-27 |  |
 | [Beautiful](https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Beautiful](https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2) | 4:10 | 2024-06-27 | 2024-08-11 |
@@ -156,6 +156,7 @@
 | [The Healing](https://open.spotify.com/track/7pDWvRIbO3fDbLMpFjuEtP) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:10 | 2024-06-27 | 2024-09-28 |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-06-27 |  |
 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 | 2024-06-27 |  |
+| [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-06 |  |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2024-06-27 |  |
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2024-06-27 |  |
 | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI) | 3:24 | 2024-06-27 |  |

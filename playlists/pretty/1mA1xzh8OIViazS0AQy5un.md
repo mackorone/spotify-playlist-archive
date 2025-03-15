@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 250 likes - 698 songs - 1 day 15 hr 38 min
+[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 250 likes - 700 songs - 1 day 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -706,5 +706,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 | 696 | [Virtute the Cat Explains Her Departure](https://open.spotify.com/track/5bil0D8WSuxyGSDLA4LxZK) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:08 |
 | 697 | [Kiss Me Again \- Radio Edit](https://open.spotify.com/track/6wlH6Ebu3Ssa4a04zCxDJB) | [Roy Bee](https://open.spotify.com/artist/7HTzhX7y1EPL4MUPI6kFkh) | [Kiss Me Again](https://open.spotify.com/album/74hcYgwg4PrOulvUWDlVQk) | 2:44 |
 | 698 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 |
+| 699 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
+| 700 | [Wires Crossed](https://open.spotify.com/track/0dI23ZVQTJq9wlx8Wm3nre) | [Dom Fera](https://open.spotify.com/artist/2qmjAtWVjMPWHHDdWilU6a) | [Wires Crossed](https://open.spotify.com/album/0wDqCohxL8ao0ilO0XUykz) | 3:02 |
 
-Snapshot ID: `AAACzegscNbkCbIcOgV3DSQ4UrsYQYzt`
+Snapshot ID: `AAACz0aYdzyyhCDDWdxVfKf4KrPE055P`

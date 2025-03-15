@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Day 許軼
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,718 likes - 461 songs - 1 day 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,722 likes - 461 songs - 1 day 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

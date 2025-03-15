@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: JENNIE\(제니\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-758 songs - 1 day 16 hr 50 min
+759 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [90's Love](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:33 | 2022-01-03 | 2023-05-10 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-28 | 2023-03-02 |
 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 | 2021-12-29 | 2022-06-22 |
-| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
+| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 | 2025-03-15 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 |  |
 | [After We Ride](https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [After ‘We Ride’](https://open.spotify.com/album/2W8nXNoRaD7zm1IljosJAa) | 3:22 | 2021-12-29 | 2022-07-28 |
 | [Akrapovic](https://open.spotify.com/track/38EPMcH5cD7xk5dMYWt5kO) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [Akrapovic](https://open.spotify.com/album/3g5s2HBBeCetAqU3H1WyGv) | 2:11 | 2023-05-01 | 2023-05-10 |
@@ -330,6 +330,7 @@
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-16 | 2022-04-22 |
 | [Honey or Spice](https://open.spotify.com/track/1HHUeCHpCsZc64LNHzKPNA) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Honey or Spice](https://open.spotify.com/album/6hitia8vt8qpcodlQ17S0G) | 3:02 | 2024-03-15 | 2024-05-10 |
 | [Hop in \(Feat\. Hwa Sa, DPR LIVE\)](https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Hop in](https://open.spotify.com/album/3H7SegvbrluL787hau5gQB) | 3:40 | 2022-03-31 | 2022-04-17 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-27 | 2024-10-21 |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2022-01-03 | 2022-07-19 |
 | [House Party](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 4:01 | 2022-03-29 | 2022-04-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,120 likes - 131 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,181 likes - 131 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

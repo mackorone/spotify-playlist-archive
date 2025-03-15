@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,306 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,315 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 39 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
 | 40 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
 | 41 | [Mais Um Dia](https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Mais Um Dia](https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil) | 5:17 |
-| 42 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 |
-| 43 | [Ele Não Muda \- Ao Vivo](https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Ele Não Muda \(Ao Vivo\)](https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK) | 8:07 |
+| 42 | [Ele Não Muda \- Ao Vivo](https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Ele Não Muda \(Ao Vivo\)](https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK) | 8:07 |
+| 43 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 |
 | 44 | [Irresistível Glória](https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Irresistível Glória](https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw) | 4:35 |
 | 45 | [Quando o Vento Soprar \(Legado\)](https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9) | [Beno César](https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Quando o Vento Soprar \(Legado\)](https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY) | 4:22 |
 | 46 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
 | 47 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
 | 48 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
-| 49 | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/track/2wcrkFGIDMyHJlcxh5ShXy) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/album/0d10hWdSyBQ3JGCd822QNH) | 9:41 |
-| 50 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
+| 49 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
+| 50 | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/track/2wcrkFGIDMyHJlcxh5ShXy) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/album/0d10hWdSyBQ3JGCd822QNH) | 9:41 |
 
-Snapshot ID: `Z9DOgAAAAABesFPK8pNDoOba6tz+KckS`
+Snapshot ID: `Z9IgAAAAAAA+rqwGVBF0uqf90VNYLFol`

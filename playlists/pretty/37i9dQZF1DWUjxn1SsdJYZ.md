@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: That Kid Kearve
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,564 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,616 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

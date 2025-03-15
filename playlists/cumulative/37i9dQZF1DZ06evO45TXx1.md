@@ -4,7 +4,7 @@
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 22 min
+90 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [99 Problemas](https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:10 | 2024-08-03 |  |
 | [A Paz Que Eu Busco](https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Correia](https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 4:21 | 2024-07-08 |  |
 | [Abismo](https://open.spotify.com/track/7ptPCmSQieWgksqU1DSVKg) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Abismo](https://open.spotify.com/album/1KuI1btBtMULYp09Pg0GLA) | 2:54 | 2023-12-30 | 2024-03-15 |
+| [Afirma Freestyle](https://open.spotify.com/track/1v5mxZ26QrXoDIcCOyRvCF) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Afirma Freestyle](https://open.spotify.com/album/2qUEuvra3mR08zFfls6VDR) | 2:45 | 2025-03-15 |  |
 | [AGILIDADE](https://open.spotify.com/track/7aTSVvdzV8GRiWNX7lgkrC) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [AGILIDADE](https://open.spotify.com/album/0WViaVdGPXcK3RwXPuMA4c) | 2:27 | 2023-12-30 | 2024-01-29 |
 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 | 2024-04-08 |  |
 | [Ainda Sinto Muito](https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:52 | 2024-10-20 |  |

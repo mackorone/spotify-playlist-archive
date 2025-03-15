@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Karen Jonz",
+  "description": "M\u00fasica brasileira fora da curva. Foto: terraplana",
   "name": "alt BR",
   "tracks": [
     {
@@ -4421,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "Entretenimento",
+        "url": "https://open.spotify.com/album/4SOEQ6rWFHy2BmZQUjluT8"
+      },
+      "artists": [
+        {
+          "name": "A Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Entretenimento",
+      "url": "https://open.spotify.com/track/6cQRPykiP3e5WfDuwFrHkB"
+    },
+    {
+      "album": {
         "name": "O Para\u00edso",
         "url": "https://open.spotify.com/album/1D4MVmHzpqIF7OApaXpFTt"
       },
@@ -6460,6 +6478,28 @@
       "duration_ms": 126309,
       "name": "J\u00e1 Sei Bem",
       "url": "https://open.spotify.com/track/3kDmLxXVt51zY3tIBT23Hj"
+    },
+    {
+      "album": {
+        "name": "Lado a Lado",
+        "url": "https://open.spotify.com/album/6zK1tzUF2M2QmwZUcu8wf6"
+      },
+      "artists": [
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        },
+        {
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Lado a Lado",
+      "url": "https://open.spotify.com/track/1S1BCou6QaSG5aYOgKxhsy"
     },
     {
       "album": {
@@ -9506,7 +9546,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 128375,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB"
@@ -11622,7 +11662,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 165000,
       "name": "Seco Seu Gelo",
       "url": "https://open.spotify.com/track/1h9OBPHQ1j0E3OolaQAK84"
@@ -12604,7 +12644,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 482632,
       "name": "Te Estranho",
       "url": "https://open.spotify.com/track/4sJgM57DxwyiaU5SPyhIhG"
@@ -13042,6 +13082,24 @@
       "duration_ms": 257432,
       "name": "Todacor",
       "url": "https://open.spotify.com/track/1TDkr2o27LFZXU9pYzGCz2"
+    },
+    {
+      "album": {
+        "name": "natural",
+        "url": "https://open.spotify.com/album/3JZZxtRlX16JGi8y1V2Ffu"
+      },
+      "artists": [
+        {
+          "name": "terraplana",
+          "url": "https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "todo dia",
+      "url": "https://open.spotify.com/track/7bsUJaVCGb4JpBji9gpbB8"
     },
     {
       "album": {

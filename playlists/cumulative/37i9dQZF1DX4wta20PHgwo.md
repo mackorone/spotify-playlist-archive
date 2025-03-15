@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-505 songs - 1 day 21 hr 39 min
+506 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Gary's Theme \- 2003 Remastered Version](https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring](https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX) | 4:17 | 2020-05-04 | 2022-07-29 |
 | [Gary's Theme \- Remastered](https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:17 | 2022-07-21 | 2023-11-16 |
 | [Get Out of Town](https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 4:12 | 2021-09-20 |  |
-| [Gilado](https://open.spotify.com/track/1O1n29nn1XVj7IMb0LpoyU) | [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Zohar Fresco](https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN) | [Gilado](https://open.spotify.com/album/0ilhBIWc5aTMRmdjNYZuoW) | 3:53 | 2025-03-07 |  |
+| [Gilado](https://open.spotify.com/track/1O1n29nn1XVj7IMb0LpoyU) | [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Zohar Fresco](https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN) | [Gilado](https://open.spotify.com/album/0ilhBIWc5aTMRmdjNYZuoW) | 3:53 | 2025-03-07 | 2025-03-15 |
 | [Glimmer Of Hope](https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Glimmer Of Hope](https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu) | 8:33 | 2020-05-14 |  |
 | [Gnostic](https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Gnostic](https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis) | 3:36 | 2023-07-19 |  |
 | [Gnostic](https://open.spotify.com/track/3B0ErO4rLLJZ8kqUeAMEN7) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Alpaca](https://open.spotify.com/album/2uf5lN2IVEQgBSlJV8rwvz) | 3:36 | 2024-03-08 | 2024-04-19 |
@@ -471,6 +471,7 @@
 | [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2022-09-06 |  |
 | [Udsigten](https://open.spotify.com/track/7qnYrlmytfCizfhAB8cbkd) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Superkilen](https://open.spotify.com/album/4yITNJlltc0Tiu679pnWu7) | 3:05 | 2024-10-18 |  |
 | [Ugly Beauty](https://open.spotify.com/track/4gfzPJUS6z8SkyhyUnooSa) | [Cornelia Nilsson](https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c), [Daniel Franck](https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt), [Gábor Bolla](https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z) | [Ugly Beauty](https://open.spotify.com/album/4yu3nVYm8FQQJRTQulC6gD) | 3:25 | 2024-03-29 |  |
+| [Up in the Sky](https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Up in the Sky](https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL) | 4:33 | 2025-03-14 |  |
 | [Vashkar](https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Vashkar](https://open.spotify.com/album/6xaaKnsxxQJkubxtUAesZ5) | 5:56 | 2020-05-08 | 2023-08-19 |
 | [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 | 2022-04-28 |  |
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Tigapagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,171 likes - 119 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,173 likes - 119 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

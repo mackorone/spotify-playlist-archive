@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover:  五月天 \(Mayday\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,403 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,513 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |
-| 2 | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 |
+| 2 | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 |
 | 3 | [誰知愛是什麼](https://open.spotify.com/track/1hEF27Nixp4uv8K33e2Q7z) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:02 |
 | 4 | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/track/3mMLVZHJg20OTzZ9SoJ38j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [醒來發現你不在\(電影《平行青春的我們》中文主題曲\)](https://open.spotify.com/album/430GKv9cMlBrv51jdPmqub) | 3:28 |
 | 5 | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 |

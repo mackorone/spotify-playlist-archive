@@ -4,7 +4,7 @@
 
 > Brand new music from Chappell Roan, Calvin Harris, HAIM and more!
 
-15,190 songs - 34 day 4 hr 9 min
+15,192 songs - 34 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2632,6 +2632,7 @@
 | [Come On Outside](https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Come On Outside](https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1) | 2:58 | 2024-10-03 | 2024-10-11 |
 | [COME OUTSIDE](https://open.spotify.com/track/1QniXlbTBov33SAobGAQSM) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [DEAR JAZ](https://open.spotify.com/album/3NZi3twMJ46CVPOyCpLDKy) | 3:27 | 2022-11-18 | 2022-11-25 |
 | [Come Outside](https://open.spotify.com/track/6gbIqtJCCkG6xeYjEtcClw) | [Turner](https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Come Outside](https://open.spotify.com/album/3IItpFO5HBoWe5gBn4HQFP) | 2:46 | 2022-12-09 | 2022-12-16 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-14 |  |
 | [come over](https://open.spotify.com/track/7MhavnOcmFYUUqSMu23bep) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [come over](https://open.spotify.com/album/1CqyGJGeJalpbnuXreQiZX) | 2:03 | 2023-05-25 | 2023-06-02 |
 | [come so far](https://open.spotify.com/track/0qY0A7PoppSjSRwQDzoiaf) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/1wHD0DjKRZMOccQmcPDq0l) | 2:45 | 2023-12-15 | 2023-12-16 |
 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 | 2023-12-15 | 2023-12-22 |
@@ -5232,6 +5233,7 @@
 | [Good Bi](https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Good Bi](https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo) | 3:14 | 2024-05-30 | 2024-06-07 |
 | [Good Blood Mexico City](https://open.spotify.com/track/597BaADV43whITrSBCvE6Y) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Good Blood Mexico City](https://open.spotify.com/album/0U5n8JHEsW8XRTuT8tetFb) | 2:52 | 2024-03-15 | 2024-03-22 |
 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 | 2024-06-20 | 2024-06-28 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 | 2023-03-30 | 2023-04-07 |
 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 | 2023-08-10 | 2023-08-18 |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-23 | 2023-01-06 |

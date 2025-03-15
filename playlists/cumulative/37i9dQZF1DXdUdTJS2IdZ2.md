@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: OHMYMEITING
 
-567 songs - 1 day 6 hr 52 min
+568 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [KEEP UP](https://open.spotify.com/track/2HlIy1LtfJZA5Kzm9K6geV) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [KEEP UP](https://open.spotify.com/album/5m9fw0qCeYWJRal4VyhPH8) | 2:30 | 2024-09-26 | 2024-11-01 |
 | [KEKASIH LAMA](https://open.spotify.com/track/1LPUve3yxwExjwKZ7KUu48) | [ahmadjohnson69](https://open.spotify.com/artist/1iGbKHye8DCbsfP8Yg29Lr) | [KEKASIH LAMA](https://open.spotify.com/album/4ct3MeTOKV3PkPWux3Eqh1) | 2:48 | 2025-02-13 |  |
 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 | 2024-07-25 | 2024-12-13 |
+| [Kesedihan Di Hari Raya](https://open.spotify.com/track/7ymrHPykVmw0UIrXZgrT5f) | [ZEAF](https://open.spotify.com/artist/3yBuHr8NBnZSpboHPDL02A) | [Kesedihan Di Hari Raya](https://open.spotify.com/album/2veonPkGV5Coi0CM0iJGHy) | 3:34 | 2025-03-13 |  |
 | [kill 4 u](https://open.spotify.com/track/2zUsiUNnxmAdCkVwO6hl31) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [kill 4 u](https://open.spotify.com/album/1JCQfFzdszboDmvtrhzc0L) | 2:19 | 2024-10-10 | 2024-11-22 |
 | [Kill Me Slow](https://open.spotify.com/track/1lUmOXKK9OU4WSgj5Fdh2Z) | [Kyotoh Gloom](https://open.spotify.com/artist/11fIKa1fUZ3hGm6nDJbivx) | [Kill Me Slow](https://open.spotify.com/album/2hoPLa7h0JO2LagZPn1HrK) | 1:56 | 2024-12-12 | 2025-01-17 |
 | [kiss u there](https://open.spotify.com/track/7AkDyHuvur7ARUmH4bWfTS) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [kiss u there](https://open.spotify.com/album/76AWwrWk7GU3zdlvxyDTIJ) | 2:56 | 2024-09-12 | 2024-11-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 222277,
+  "num_followers": 222348,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
+        "name": "IceWeed-Man",
+        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Desvielados",
+      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 162617,
       "name": "El Gabacho",
       "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
-        "name": "IceWeed-Man",
-        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "BeeJay",
-          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Desvielados",
-      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
+        "name": "Viaje Sin Equipaje",
+        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Yosie Locote",
+          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
+        }
+      ],
+      "duration_ms": 255843,
+      "name": "Entrada Sin Salida",
+      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+    },
+    {
+      "added_at": "2025-02-21 06:00:05",
+      "album": {
         "name": "100% Mayo",
         "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 214655,
       "name": "100% Mayo",
       "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
-    },
-    {
-      "added_at": "2025-02-21 06:00:05",
-      "album": {
-        "name": "Viaje Sin Equipaje",
-        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
-      },
-      "artists": [
-        {
-          "name": "Mr. Yosie Locote",
-          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
-        }
-      ],
-      "duration_ms": 255843,
-      "name": "Entrada Sin Salida",
-      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1807,8 +1807,8 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+        "name": "Humo en la Trampa 2",
+        "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
       },
       "artists": [
         {
@@ -1816,13 +1816,25 @@
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Lolita Ayala",
-          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "Yoga Fire",
+          "url": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
         }
       ],
-      "duration_ms": 108266,
-      "name": "Tocando Tierra",
-      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
+      "duration_ms": 250052,
+      "name": "Humo en la Trampa 2",
+      "url": "https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh"
     },
     {
       "added_at": "2025-02-21 06:00:05",
@@ -1979,8 +1991,8 @@
     {
       "added_at": "2025-02-21 06:00:05",
       "album": {
-        "name": "Humo en la Trampa 2",
-        "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
       "artists": [
         {
@@ -1988,25 +2000,13 @@
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Dee",
-          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "name": "Yoga Fire",
-          "url": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          "name": "Lolita Ayala",
+          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
         }
       ],
-      "duration_ms": 250052,
-      "name": "Humo en la Trampa 2",
-      "url": "https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh"
+      "duration_ms": 108266,
+      "name": "Tocando Tierra",
+      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
     },
     {
       "added_at": "2025-02-21 06:00:05",

@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Terno Rei
 
-522 songs - 1 day 5 hr 6 min
+525 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Esse Vazio Ocupa Tanto Espaço](https://open.spotify.com/track/4Ch840cQWjDI9pCkcT0lfh) | [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [BLLT](https://open.spotify.com/album/4ZkwNCKbpIgOt2PduF60SU) | 4:00 | 2022-05-06 | 2022-05-14 |
 | [Esse Vazio Ocupa Tanto Espaço \- Ao Vivo](https://open.spotify.com/track/7ojumLN40e3ScVMrxVE5hQ) | [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [BLLT \(Ao Vivo\)](https://open.spotify.com/album/4wS7z1JWcQQb2kt2a70tu2) | 4:06 | 2023-04-14 | 2023-08-19 |
 | [Estandarte](https://open.spotify.com/track/2M4rpqM5daq5Kg5uuvvBMx) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Ascensão](https://open.spotify.com/album/00xxJ5lYaAnxL0gt79UeBA) | 3:55 | 2022-03-11 | 2022-04-09 |
-| [Estaremos Lá](https://open.spotify.com/track/7dconKFCaOUIKJhiQ5dsqL) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Estaremos Lá](https://open.spotify.com/album/701LjWJkxof72pjCJh0q2C) | 2:41 | 2023-12-08 |  |
+| [Estaremos Lá](https://open.spotify.com/track/7dconKFCaOUIKJhiQ5dsqL) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Estaremos Lá](https://open.spotify.com/album/701LjWJkxof72pjCJh0q2C) | 2:41 | 2023-12-08 | 2025-03-15 |
 | [EU E MINHAS PARANOIAS](https://open.spotify.com/track/53ylj8tXCrgUMeaYH1Pqwb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [EU E MINHAS PARANOIAS](https://open.spotify.com/album/6whjB8ocTRso6tuTNdhDtc) | 2:54 | 2022-01-14 | 2022-02-19 |
 | [Eu Faria Tudo Outra Vez](https://open.spotify.com/track/1qdKNLMA0gXKLlwnxYLia9) | [Betto Zanchi](https://open.spotify.com/artist/0lmuib0DqIGQjRKZYlUgKg) | [Eu Faria Tudo Outra Vez](https://open.spotify.com/album/1DE06AGFxzs8XlvvgFRX4c) | 3:00 | 2022-09-23 | 2023-04-15 |
 | [Eu Gosto de Rock And Roll](https://open.spotify.com/track/6oqWo4Ee1SjF1vxGhZfzMd) | [Violúdico](https://open.spotify.com/artist/5ma4JYFEJuYk7jp1XwJIF7) | [Eu Gosto de Rock And Roll](https://open.spotify.com/album/4Q0S08HoIFK30C3pGCB0jr) | 3:40 | 2022-04-15 | 2022-04-29 |
@@ -200,7 +200,7 @@
 | [Fronteiras](https://open.spotify.com/track/3oNyz8pbv5MAcbzbSwKqoW) | [kamposcomk](https://open.spotify.com/artist/5v7FspAp61fDlTWCdbdWmE) | [Fronteiras](https://open.spotify.com/album/3OACLk5MGQ5p6l07zLrCBL) | 3:34 | 2024-01-26 | 2024-03-02 |
 | [Fábula de uma Granada](https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Fábula de uma Granada](https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK) | 3:49 | 2022-01-14 | 2023-04-15 |
 | [Fátima Bernardes Experiência](https://open.spotify.com/track/16WKRMVfYCq9gHMPrXLcQt) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Fátima Bernardes Experiência](https://open.spotify.com/album/7LsGmCQ8BEk7UB398pa7fS) | 4:51 | 2023-03-10 |  |
-| [Gangorra](https://open.spotify.com/track/2Ww0mvlmvWjSz3vhpBoQNw) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Gangorra](https://open.spotify.com/album/71xr0LGACAo2Xsm3DihPaT) | 3:19 | 2023-04-28 |  |
+| [Gangorra](https://open.spotify.com/track/2Ww0mvlmvWjSz3vhpBoQNw) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Gangorra](https://open.spotify.com/album/71xr0LGACAo2Xsm3DihPaT) | 3:19 | 2023-04-28 | 2025-03-15 |
 | [Gari](https://open.spotify.com/track/4FlFD7EK0tBMEp5Ac1w9ZX) | [Diogo Defante](https://open.spotify.com/artist/7bvcRZF7XTQzPi0T8jMAyg) | [Gari](https://open.spotify.com/album/62xPwKWp3s1BFkSN8LP9RR) | 4:07 | 2024-06-28 | 2024-10-05 |
 | [Garotas Ambiciosas](https://open.spotify.com/track/336yuYWWCzS6x4xSzynNCx) | [Kelly Clube](https://open.spotify.com/artist/3jw11GBeoNQCmpD4rr831J), [Mister Lawa](https://open.spotify.com/artist/4Zdg9COu8Fori3B3DPIcCh), [Clube Dezenove](https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT), [Jai Rec.](https://open.spotify.com/artist/3hUS1AFJKY1l95TtY4na1N) | [Garotas Ambiciosas](https://open.spotify.com/album/2iEt9aI4g0l1wUFaudsBV2) | 3:12 | 2024-01-12 | 2024-04-27 |
 | [Gentrificação](https://open.spotify.com/track/3EJj7xV5GiO8O0ZXoxxttG) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Gentrificação](https://open.spotify.com/album/6S6dBEwv7ovsCUBBCxbxUw) | 3:24 | 2023-07-07 | 2023-08-12 |
@@ -265,7 +265,7 @@
 | [Manifesto!](https://open.spotify.com/track/22avKr5ZtQYEmW12bpY2Zf) | [Banda Go Home](https://open.spotify.com/artist/55xvUppAG19F1CErLfAvZI), [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl) | [Manifesto!](https://open.spotify.com/album/0uct3MaZximvUmUiEtqU0h) | 3:51 | 2022-04-15 | 2022-05-14 |
 | [Maremotos \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/6PuDWQvcwl55r3yVJRjgMF) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Maremotos \(Ao Vivo Quando A Terra Era Redonda\)](https://open.spotify.com/album/4iK4k80Au5YG4NIEHPZs43) | 3:28 | 2022-01-14 | 2022-02-05 |
 | [Maria Bonita](https://open.spotify.com/track/3ladrTlwblEkzdn5CUcU0U) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Maria Bonita](https://open.spotify.com/album/1ZD6tVGWTAoG2wJblWiMhY) | 2:35 | 2024-11-08 |  |
-| [Marte](https://open.spotify.com/track/7vt1i1MX517hwX58FRJ34c) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Marte](https://open.spotify.com/album/7LsdId0PlRzRoA1QeDBvTg) | 2:40 | 2024-05-17 |  |
+| [Marte](https://open.spotify.com/track/7vt1i1MX517hwX58FRJ34c) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Marte](https://open.spotify.com/album/7LsdId0PlRzRoA1QeDBvTg) | 2:40 | 2024-05-17 | 2025-03-15 |
 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 | 2022-02-18 | 2023-07-01 |
 | [Me Acostumei](https://open.spotify.com/track/35ygjxl5CfGGK1mwLeoavC) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [IMUNE](https://open.spotify.com/artist/6w4ghJ9ppw3VdusbNWsSmc) | [Me Acostumei](https://open.spotify.com/album/5zRgNpF0eJ0J4hQ2Mwfa3n) | 4:05 | 2023-02-24 | 2023-07-22 |
 | [Me Ajude a Viver](https://open.spotify.com/track/7L6QuFxG9TlYxHpPHuMQ8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Invencível](https://open.spotify.com/album/189MgpvZ73UEJ7jHxtIYRM) | 3:36 | 2023-09-29 | 2024-04-06 |
@@ -396,9 +396,12 @@
 | [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 | 2024-10-18 | 2025-03-01 |
 | [Prova](https://open.spotify.com/track/5VLsC6rl5IYGs0ZnEk1Cv8) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Prova](https://open.spotify.com/album/6RmjVpt4iAIBOh8apPlENU) | 2:32 | 2022-09-02 | 2022-10-29 |
 | [PROVÉRBIOS](https://open.spotify.com/track/3GngykYM9zXXxcGnRiPVMG) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PROVÉRBIOS](https://open.spotify.com/album/4saG213AiMINBA9x87HViB) | 3:45 | 2024-04-26 |  |
+| [PROVÉRBIOS \- Ao vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/track/6eM6SoD46IaCXEVqmn6DUS) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Black Pantera: Ao Vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/album/6qYxd1toC2OvJw1MXUxwEt) | 3:39 | 2025-03-14 |  |
+| [Próxima Parada](https://open.spotify.com/track/42bFwHGyQYqQ4mH8xRwpev) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Próxima Parada](https://open.spotify.com/album/0befpqVNcB4LbMwhKmR2Uc) | 2:51 | 2025-03-14 |  |
 | [PURGATÓRIO](https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 2:37 | 2023-11-17 | 2024-06-22 |
 | [Q se foda](https://open.spotify.com/track/1zfcWivDFiTAEax2eXjIZE) | [Indigans](https://open.spotify.com/artist/1USySFkPtuL0cdVtROagEJ) | [Q se foda](https://open.spotify.com/album/1IiPtCpPr5lSV65rXfkhnL) | 2:30 | 2025-03-07 |  |
 | [Quando a Cidade Te Engolir](https://open.spotify.com/track/4IrPMbWD7dMCPMERokpwmd) | [Disaster Cities](https://open.spotify.com/artist/3vKjfCsDtpVTKvUdU08O1M) | [Erasing Karma](https://open.spotify.com/album/1dZz30rUJ6za0cBguk9J5S) | 4:09 | 2023-04-07 | 2023-08-05 |
+| [Quando Eu Me Encontrar](https://open.spotify.com/track/3eE4G1WkVlXvzzOMoMPFVV) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S), [Vivendo do Ócio](https://open.spotify.com/artist/3oZozYd18SKf2a7Dg9Cd2V) | [Quando Eu Me Encontrar](https://open.spotify.com/album/6DOIy83U18iVSgyOdDBtnU) | 3:37 | 2025-03-14 |  |
 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 | 2022-01-14 | 2023-03-11 |
 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 | 2022-01-14 | 2022-09-18 |
 | [QUANDO VOCÊ VEM](https://open.spotify.com/track/4Lkp0oRReZbhWMHE9WpglU) | [RANCORE](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [QUANDO VOCÊ VEM](https://open.spotify.com/album/2KqTK4RL12QjgBKNevDA6l) | 2:38 | 2024-10-04 | 2025-02-15 |

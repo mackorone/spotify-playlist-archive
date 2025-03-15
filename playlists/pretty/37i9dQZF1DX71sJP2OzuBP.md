@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,361 likes - 120 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,365 likes - 120 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 101 | [致明天](https://open.spotify.com/track/2gCbgWeEK9FHktRHNLU4QY) | [SNH48](https://open.spotify.com/artist/6zhHLETk07jF7nAGIPWE6E) | [致明天](https://open.spotify.com/album/6XdZ8d0fxayY4BtaVZxWbE) | 3:57 |
 | 102 | [永远不会再去的那一个地方](https://open.spotify.com/track/6ljjGzjawAqVpT7eGA06bB) | [照片送到店里那天](https://open.spotify.com/artist/3raktoH5luAkdPYrc64VTi) | [如果要把小狗送到太空里](https://open.spotify.com/album/5CQjkENqrUIkIz9n5EjEU8) | 4:57 |
 | 103 | [我知道你也不是那麼快樂](https://open.spotify.com/track/43dXQ2NZFd6ifeQMAlaRkQ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [我知道你也不是那麼快樂](https://open.spotify.com/album/7r1vUFrQLCu17TVppUiXmr) | 3:19 |
-| 104 | [愛你的心事 \- 《爱你》影视剧情意延绵曲](https://open.spotify.com/track/4DPB9ZXqD5PeQQ2j0FJyqI) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [愛你的心事](https://open.spotify.com/album/27mGAiLzx0Cfg3kNq7XG3A) | 4:13 |
+| 104 | [愛你的心事（《愛你》影視劇情意延綿曲）](https://open.spotify.com/track/2UcRMdeniTKZJ9RWNdyNwg) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [愛你的心事（《愛你》影視劇情意延綿曲）](https://open.spotify.com/album/4CUUcQd1Y4KFoGjg2NKVAI) | 4:13 |
 | 105 | [初冬的秘密](https://open.spotify.com/track/1Hu2ezDz4cHIDpI0xnKaWX) | [小蓝背心](https://open.spotify.com/artist/7BigRJ5hTHHqFW6TbsR8xl), [小藍背心](https://open.spotify.com/artist/3QwXFnA7MMbeqy8HsdWQum) | [初冬的秘密](https://open.spotify.com/album/0MRvi3wlWhA9MHVBeWXvda) | 3:17 |
 | 106 | [背面是我](https://open.spotify.com/track/5opdJTQnzGKwfyl09wri2q) | [Dean Ting](https://open.spotify.com/artist/6dUdiLuCRuJ7FiuIntTPEJ) | [背面是我](https://open.spotify.com/album/4zRk1YQOWrMamLp5O7dcbF) | 3:15 |
 | 107 | [彼得潘](https://open.spotify.com/track/6I4iTmuBWBeRcs9RICgCYi) | [小球\(莊鵑瑛\)](https://open.spotify.com/artist/5r0Fhn5JfkbhPG8wXRu0iY) | [彼得潘](https://open.spotify.com/album/0ItbCnGDcGy4mDNOjLNCCi) | 4:58 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 116 | [忘记你的拥抱](https://open.spotify.com/track/2Iyci0LdY0b3vedK6tkcSR) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8), [蘇星婕](https://open.spotify.com/artist/6Zvbpsc3EUnLm2rfHi47V5) | [忘记你的拥抱](https://open.spotify.com/album/7HVztg3wjmnOCf4C1qA4pU) | 2:13 |
 | 117 | [藉口 \(feat\. 李權哲\)](https://open.spotify.com/track/2z72mu0J98K6ryl15nvBbW) | [SMY](https://open.spotify.com/artist/5bysmCOhvkQFNDDX9hpLJU), [Jerry Li](https://open.spotify.com/artist/0PSG0vJNGf6Nc0Vu0S1yFW) | [夜錄](https://open.spotify.com/album/4DxRtwpJpZs3uftiByVUg0) | 3:06 |
 | 118 | [沒有人會為了我改變 \(電影《夜校女生》主題曲\)](https://open.spotify.com/track/4MF3LAE3RNK19S9w5Y8M6a) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [沒有人會為了我改變](https://open.spotify.com/album/0pMtn6FSzOhvPaIrFFhWL4) | 5:11 |
-| 119 | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 |
+| 119 | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 |
 | 120 | [Silent Angel](https://open.spotify.com/track/149HyhgmTTcUbcLpZfouli) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [Silent Angel](https://open.spotify.com/album/3H9mX9AEeegmiKy97dwU2g) | 5:01 |
 
-Snapshot ID: `Z86rCQAAAADXDSyQllBW+G+8mi2OrAqD`
+Snapshot ID: `Z9THXQAAAABUnWpYI3KSiiZ4A2Kb1z55`

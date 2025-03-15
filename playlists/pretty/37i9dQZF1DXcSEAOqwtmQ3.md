@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,145 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,187 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 2 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
 | 3 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
-| 4 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
-| 5 | [Ara](https://open.spotify.com/track/4WS3bhnGgDjxwtAUWaPyNW) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [\#TheSonOfaKapenta](https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU) | 4:13 |
+| 4 | [Ara](https://open.spotify.com/track/4WS3bhnGgDjxwtAUWaPyNW) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [\#TheSonOfaKapenta](https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU) | 4:13 |
+| 5 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
 | 6 | [Osondi Owendi](https://open.spotify.com/track/1n21ku53K1pMOU9ib6bEdL) | [Chief Stephen Osita Osadebe](https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn) | [Kedu America](https://open.spotify.com/album/3weszYT2MGBxRomdYb7QDB) | 7:51 |
 | 7 | [Cool Temper](https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:25 |
 | 8 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |

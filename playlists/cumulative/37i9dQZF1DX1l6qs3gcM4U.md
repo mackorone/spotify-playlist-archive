@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dynamo
 
-488 songs - 1 day 4 hr 28 min
+489 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Magia](https://open.spotify.com/track/7ISGcym2XbHCaIMAfN3OSl) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Magia](https://open.spotify.com/album/46hdoSNACICzcXfEOsfFqi) | 3:22 | 2021-12-10 | 2022-02-19 |
 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 | 2021-12-10 |  |
 | [Magui](https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Magui](https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf) | 3:37 | 2023-03-03 |  |
-| [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 | 2023-01-27 |  |
+| [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 | 2023-01-27 | 2025-03-15 |
 | [Malembe Malembe](https://open.spotify.com/track/5u2FrLHKEoKjUMguaffQ0t) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Vanda May](https://open.spotify.com/artist/1bNarEsCgTgkC04nAi8I7J), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [African Prince](https://open.spotify.com/album/7K0p3XgUd0ZlcJ7kjMu8Rf) | 4:04 | 2021-12-10 | 2022-02-09 |
 | [Maluco](https://open.spotify.com/track/62MFlcVghmm0TzTNAlYN0j) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Do Jeito Que Eu Sou \(Part.2\)](https://open.spotify.com/album/3z89VRMwfVNZebtOrDfao9) | 4:22 | 2021-12-10 | 2022-07-21 |
 | [Mamã](https://open.spotify.com/track/4tcQPnO1jwLxJTNPnj6s9t) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj), [Crazy B](https://open.spotify.com/artist/3Z99aP1ne2L3vkPkXnYicW), [Chuk](https://open.spotify.com/artist/33f0HoDKufdA3vuAMlIv3r), [Giga DMT](https://open.spotify.com/artist/3FnfevzVYfrSQfEP7zDg85) | [Mamã](https://open.spotify.com/album/0qpsd5IVXoPA1LWjSv1XwL) | 3:14 | 2024-11-15 | 2024-12-06 |
@@ -440,6 +440,7 @@
 | [Toquei](https://open.spotify.com/track/3OuhLAiyqxCeDj4FRsioIt) | [Kenny André](https://open.spotify.com/artist/5cYWf1PB3aglJRprDIcTWP) | [Toquei](https://open.spotify.com/album/7awa6wm7eSKfIdWSbErMEM) | 3:42 | 2022-03-25 | 2022-04-17 |
 | [Tou Aqui](https://open.spotify.com/track/1juQ6EniKzxIFuElkRPFi3) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Elements](https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm) | 2:56 | 2024-05-16 | 2025-03-11 |
 | [Tou Nem Aí](https://open.spotify.com/track/5i9rk1inbBQiTU112UoLcv) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Dreya](https://open.spotify.com/artist/4h2KoRtVUQKaWfa8E2dPPW) | [Tou Nem Aí](https://open.spotify.com/album/7CRh6bwRZjVeEnwcKXLwlG) | 3:39 | 2022-06-06 | 2022-06-17 |
+| [Toxic](https://open.spotify.com/track/5fnZWbuASOpMTDOdG59PZo) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Afro Connexion](https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD) | [Toxic](https://open.spotify.com/album/6So9yasFDpP0wc8pTHAX3d) | 3:33 | 2025-03-14 |  |
 | [Toxic](https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID) | [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7) | [Toxic](https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h) | 3:26 | 2023-08-31 | 2023-09-15 |
 | [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 | 2022-12-16 | 2023-07-21 |
 | [Tratar Bem](https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu) | 3:09 | 2023-07-13 | 2024-04-19 |

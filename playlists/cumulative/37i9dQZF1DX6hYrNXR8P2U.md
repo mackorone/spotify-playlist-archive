@@ -4,7 +4,7 @@
 
 > Acá no importan el género.<br/>📷 CA7RIEL  & Paco Amoroso.
 
-434 songs - 22 hr 55 min
+435 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Snobs](https://open.spotify.com/track/7bp6TPhLJx0SXrdTA8tDyf) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Snobs](https://open.spotify.com/album/1xKo8vFagzsXGfOkaS0Q9s) | 3:33 | 2024-11-22 | 2025-01-11 |
 | [Sole](https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Sole](https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR) | 4:03 | 2024-02-16 | 2024-05-03 |
 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 | 2024-03-08 |  |
+| [Soñar Despierto](https://open.spotify.com/track/4AWOJAaPmeFkmAfPGPbLLG) | [Posty](https://open.spotify.com/artist/7pw17MBGWJ91GV5ooORSQK), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [Soñar Despierto](https://open.spotify.com/album/7vGeGnorMKBWaoFH0vPB21) | 3:22 | 2025-03-14 |  |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 5:03 | 2024-09-13 | 2025-02-22 |
 | [SUBTE LÍNEA B REWORK](https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [SUBTE LÍNEA B REWORK](https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s) | 4:03 | 2024-03-08 | 2024-04-27 |
 | [Sudaka](https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Sudaka](https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe) | 3:22 | 2023-10-13 | 2023-12-16 |
@@ -367,7 +368,7 @@
 | [Tanya Loca](https://open.spotify.com/track/3czd1OJ74I5QGwGsKVmcH3) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Tanya Loca](https://open.spotify.com/album/1qWXTvAbEThGH5LZ7JfaP8) | 3:25 | 2024-08-23 | 2024-09-28 |
 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-08 | 2024-11-09 |
 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 | 2024-08-16 |  |
-| [tatetiii](https://open.spotify.com/track/51Nm5uWx6W7wdPh0recZfy) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [tatetiii](https://open.spotify.com/album/1wHWs2Vneb9h1vUVntX0X4) | 1:54 | 2024-11-08 |  |
+| [tatetiii](https://open.spotify.com/track/51Nm5uWx6W7wdPh0recZfy) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [tatetiii](https://open.spotify.com/album/1wHWs2Vneb9h1vUVntX0X4) | 1:54 | 2024-11-08 | 2025-03-15 |
 | [TAYLOR](https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [TAYLOR](https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee) | 3:42 | 2024-07-05 | 2024-09-14 |
 | [Te amo](https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Verano en Capital](https://open.spotify.com/album/4YVyoJ9fhJ1r39NSstEa2O) | 2:47 | 2024-03-22 | 2024-09-28 |
 | [Te Daría](https://open.spotify.com/track/2GpuUbDSKrQrHvAzUDAhPR) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Te Daría](https://open.spotify.com/album/3Rf5L1Bkl20ITNJG196z5p) | 2:42 | 2023-10-13 | 2024-12-07 |

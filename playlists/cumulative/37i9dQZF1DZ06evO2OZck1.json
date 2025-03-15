@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "One Heart",
+      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },

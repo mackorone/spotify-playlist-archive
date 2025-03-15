@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY?si=zJpi9U1BT5CrvL3Mpga3\-g"> Girlfriend</a>\. Updates every Wednesday.
 
-3,028 songs - 6 day 9 hr 28 min
+3,029 songs - 6 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [Divide Us](https://open.spotify.com/track/0ejOKBQomQ4vxKCfRSJoB2) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Divide Us](https://open.spotify.com/album/6LlfbvBSQ6Xu4JiINMyMHy) | 3:04 | 2024-10-26 | 2024-12-05 |
 | [DNA](https://open.spotify.com/track/628ux8IsdBn0aOj0CnvP0F) | [Taylor Belle](https://open.spotify.com/artist/4DlcO17DIjKaimlXMBqEp2) | [DNA](https://open.spotify.com/album/3rpdjw6GkLp05L3EZqYget) | 2:51 | 2022-01-12 | 2022-02-10 |
 | [DNA \- Live](https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [DNA \(Live\)](https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN) | 3:48 | 2022-08-19 | 2022-08-27 |
+| [DND](https://open.spotify.com/track/59X3CiTwsVyEpTfVNghHG4) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DND](https://open.spotify.com/album/0Ovj6EvLPcUdythgf3NULU) | 2:53 | 2025-03-14 |  |
 | [DND](https://open.spotify.com/track/6b7BnSlPpZQWXWRXhLwAVM) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Rudy Ray Kwaku](https://open.spotify.com/artist/6celkcGUgLTrca3EwBdgZN) | [DND](https://open.spotify.com/album/6t2EK8ZgoEFRbBosBVQ4tt) | 3:03 | 2024-09-27 | 2025-01-18 |
 | [DnL](https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [DnL](https://open.spotify.com/album/3j5LN7ajbXLwYIFWKcH4lM) | 4:00 | 2024-04-10 | 2024-06-20 |
 | [DNTGETUSE2ME](https://open.spotify.com/track/6sBP5mCqT7IF5hPKQdxWKZ) | [Eleeza Silva](https://open.spotify.com/artist/6lLQzVzgrUNFwmTWPyDXcR) | [DNTGETUSE2ME](https://open.spotify.com/album/4Gb60GTCm4exQeYpwNBkBu) | 3:07 | 2021-12-01 | 2022-01-13 |

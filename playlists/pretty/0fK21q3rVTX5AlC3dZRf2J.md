@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fK21q3rVTX5AlC3dZRf2J.md) - [plain]
 
 > my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! \[does not include instrumentals\]
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 689 likes - 101 songs - 3 hr 6 min
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 690 likes - 101 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

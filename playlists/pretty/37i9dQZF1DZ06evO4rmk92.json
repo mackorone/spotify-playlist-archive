@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 119931,
+  "num_followers": 119951,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACtUvyfxDrd2pTyGFVfgaLR",
+  "snapshot_id": "Z9IgAAAAAABA5S7jeuz6O80cKceacBXI",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Nat King Cole",
-        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
-      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis Amigos",
         "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 133066,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Nat King Cole",
+        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
+      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
     },
     {
       "added_at": null,

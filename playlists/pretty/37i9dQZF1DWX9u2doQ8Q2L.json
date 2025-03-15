@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 391178,
+  "num_followers": 391180,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 230524,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 242920,
       "name": "\u6708\u9762\u7740\u9678\u8a08\u753b",
       "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 230524,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
-      },
-      "artists": [
-        {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
-        }
-      ],
-      "duration_ms": 174095,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 174095,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "Under Blue",
-        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "lazy cat",
-      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
         "name": "Stay With Me (feat. Hikaru Utada)",
         "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 303716,
       "name": "50%",
       "url": "https://open.spotify.com/track/4ghCcQcictNxObRdRmmk6S"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "lazy cat",
+      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
-      "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
         "name": "Electricity (Arca Remix)",
         "url": "https://open.spotify.com/album/38xD3ZibRtmc2bwV1cGvdS"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
+        "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
+      "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
         "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
         "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 169620,
       "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
+        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 197904,
+      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
+        "name": "SCIENCE FICTION",
+        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 197904,
-      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
+      "duration_ms": 308695,
+      "name": "traveling - Re-Recording",
+      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -1343,22 +1359,6 @@
       "duration_ms": 215315,
       "name": "\u5305\u5e2f",
       "url": "https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
-        "name": "SCIENCE FICTION",
-        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 308695,
-      "name": "traveling - Re-Recording",
-      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "\u4eca\u591c\u306f\u541b\u3068",
-        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 232134,
-      "name": "\u4eca\u591c\u306f\u541b\u3068",
-      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
-        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 243177,
-      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
       },
@@ -1463,6 +1431,22 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
+        "name": "\u4eca\u591c\u306f\u541b\u3068",
+        "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 232134,
+      "name": "\u4eca\u591c\u306f\u541b\u3068",
+      "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
         "name": "KJ SEASON2",
         "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 157026,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
+        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 243177,
+      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
     },
     {
       "added_at": "2025-03-11 22:43:13",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-03-11 22:43:13",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/66azqlrT0IYzfh3621YClv"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 267401,
-      "name": "Get Back To \u4eba\u751f",
-      "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
-    },
-    {
-      "added_at": "2025-03-11 22:43:13",
-      "album": {
         "name": "JUNK TAPE",
         "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 144230,
       "name": "Osanpo",
       "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
+    },
+    {
+      "added_at": "2025-03-11 22:43:13",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/66azqlrT0IYzfh3621YClv"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 267401,
+      "name": "Get Back To \u4eba\u751f",
+      "url": "https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX"
     }
   ],
   "unique_name": "Tokyo Rising",

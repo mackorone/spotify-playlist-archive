@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "AMPM",
+        "url": "https://open.spotify.com/album/36QJpbcTU7gQEHahNOsWNp"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195307,
+      "name": "AMPM",
+      "url": "https://open.spotify.com/track/4muJmX05wAtOwHFZyKr52r"
+    },
+    {
+      "album": {
         "name": "Forever, Yours",
         "url": "https://open.spotify.com/album/1C0W8PjTLe9ouWkkzeNbMG"
       },
@@ -2350,6 +2368,24 @@
       "duration_ms": 186585,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/3Yw1sQIaJvUZjS4QNt4qrl"
+    },
+    {
+      "album": {
+        "name": "Bestfriend",
+        "url": "https://open.spotify.com/album/2sL8b7lugJA3GFAz4qABl6"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162127,
+      "name": "Bestfriend",
+      "url": "https://open.spotify.com/track/0QRShAjIvOssk4zJrT6EZ6"
     },
     {
       "album": {
@@ -8420,7 +8456,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 194173,
       "name": "Halfway Broken",
       "url": "https://open.spotify.com/track/5U9WcuBcbcI4mIXvv175On"
@@ -12699,6 +12735,28 @@
     },
     {
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/4BaZmWPlMZiOLGTy3UlUQp"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        },
+        {
+          "name": "Jack Page",
+          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219761,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/5xB6db6Pcso3MzWv7p1g0L"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/2xiJUf2K19Z26khLMFa5JR"
       },
@@ -14604,7 +14662,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 164494,
       "name": "No Makeup",
       "url": "https://open.spotify.com/track/3UCh9fDwvdkBJAeIKDA3Uh"
@@ -16046,7 +16104,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 295216,
       "name": "Over Under",
       "url": "https://open.spotify.com/track/6jD2kNGAZYzpbm06NBCox6"
@@ -19765,6 +19823,28 @@
     },
     {
       "album": {
+        "name": "Something Over Nothing",
+        "url": "https://open.spotify.com/album/6avVFLrUE06U1uDZLjGIww"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195518,
+      "name": "Something Over Nothing",
+      "url": "https://open.spotify.com/track/7jWbNFfemzCd2icPYnNZEP"
+    },
+    {
+      "album": {
         "name": "Something's Up With My Head",
         "url": "https://open.spotify.com/album/4bn1b75f78VS3t8XaeOPFW"
       },
@@ -22976,7 +23056,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 128537,
       "name": "U I Want",
       "url": "https://open.spotify.com/track/0Zf87fv0qih56Wg1wjtLlN"

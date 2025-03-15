@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Inez on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,060 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,084 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 77 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
 | 78 | [Ya zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Ya zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
 | 79 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
-| 80 | [JNTP](https://open.spotify.com/track/5PRJiN6g7yEpvN9E01K9Cj) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:40 |
+| 80 | [Ma Beauté](https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Ma Beauté](https://open.spotify.com/album/20ADCU0OoQzdlPylKnGepx) | 3:01 |
 
 Snapshot ID: `Z8CZHAAAAABFNY5ThqbWQ4DLLFeVY21o`

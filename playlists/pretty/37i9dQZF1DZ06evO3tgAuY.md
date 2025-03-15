@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,200 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,200 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 30 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
 | 31 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 |
 | 32 | [No Te He Podido Olvidar](https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Clave A](https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu) | [No Te He Podido Olvidar](https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv) | 3:38 |
-| 33 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
-| 34 | [El Vago](https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Vago](https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd) | 2:57 |
+| 33 | [El Vago](https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Vago](https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd) | 2:57 |
+| 34 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
 | 35 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
 | 36 | [El Dragon](https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jordin Sandoval](https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:25 |
 | 37 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 45 | [Empecé De Abajo \- En Vivo](https://open.spotify.com/track/55wYSAADl63qjatMruo31p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Charly Barraza](https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:43 |
 | 46 | [Pa Que Hablen De Verdad](https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 3:03 |
 | 47 | [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 |
-| 48 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
-| 49 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
-| 50 | [This Is The End \- En Vivo](https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [This Is The End \(En Vivo\)](https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU) | 3:16 |
+| 48 | [This Is The End \- En Vivo](https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [This Is The End \(En Vivo\)](https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU) | 3:16 |
+| 49 | [Botecitos Destapando \- En Vivo](https://open.spotify.com/track/7j2U6s8PNveSUBwDJfFz5v) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Meño Leon](https://open.spotify.com/artist/0D6qB7uGf9am07RDPCzeZ8) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
+| 50 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
 
-Snapshot ID: `Z9DOgAAAAADClERYOu7oNv9iP2V20fFJ`
+Snapshot ID: `Z9IgAAAAAAA5R1oLNH8ye7EmAUMBI+mn`

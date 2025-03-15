@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: TobyMac
 
-539 songs - 1 day 9 hr 15 min
+541 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [God Did It](https://open.spotify.com/track/2dFiX90LHhRw8XVixqOcKD) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Did It](https://open.spotify.com/album/0dF6LIQolKm7tA25QEuZTV) | 2:49 | 2025-01-17 |  |
 | [God Did It](https://open.spotify.com/track/4qRjzfGWDeEVwfZ066GI3s) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [God Did It](https://open.spotify.com/album/7qBsxgbh9WxBobhLyVnuiU) | 3:33 | 2025-01-17 |  |
 | [God Is Good](https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [God Is Good](https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0) | 3:17 | 2022-02-25 | 2023-10-07 |
+| [God Is In This House](https://open.spotify.com/track/5USopmCCwpf54f4G2sbbXu) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [God Is In This House](https://open.spotify.com/album/7uLL5vT8nblJSszzwf7KdZ) | 3:02 | 2025-03-14 |  |
 | [God Is In This Story](https://open.spotify.com/track/33aQwepAntQvwsIk8rFiB4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:27 | 2022-10-01 | 2023-10-07 |
 | [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2022-06-10 | 2023-03-03 |
 | [God Really Loves Us](https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 4:23 | 2023-03-10 | 2024-06-08 |
@@ -212,7 +213,8 @@
 | [How Far](https://open.spotify.com/track/1gIFVl1aHTD5A3TPKtOTVC) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:07 | 2022-05-28 | 2023-02-19 |
 | [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 | 2022-10-01 | 2023-10-07 |
 | [How Great Thou Art](https://open.spotify.com/track/71sLjRnlC27zrIqwI9uGUr) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [How Great Thou Art](https://open.spotify.com/album/1HC5HuqzBNYKYA90KUZq0J) | 4:39 | 2024-12-11 | 2025-02-01 |
-| [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 | 2024-07-19 |  |
+| [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 | 2024-07-19 | 2025-03-15 |
+| [How Many Times \(oh how You love me\)](https://open.spotify.com/track/5dc0HWu0cc0voNz32RSiR1) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [How Many Times \(oh how You love me\)](https://open.spotify.com/album/3noiFOBNrnM85LaH7aBO9r) | 3:11 | 2025-03-14 |  |
 | [How You Love Me](https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:03 | 2022-02-25 | 2023-10-07 |
 | [Hurt Is](https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Hurt Is](https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b) | 3:03 | 2023-03-10 | 2024-06-08 |
 | [I Am Yours \(Acoustic\)](https://open.spotify.com/track/1UVTNCocUvpEH68QRh30Bu) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [I Am Yours \(Acoustic\)](https://open.spotify.com/album/4TBo79eud1BYeXuOCRiSeK) | 4:27 | 2022-02-25 | 2022-06-25 |
@@ -533,7 +535,7 @@
 | [Worthy One](https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR) | [CLINE](https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Worthy One](https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R) | 3:56 | 2023-10-06 | 2024-06-08 |
 | [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 | 2023-10-06 | 2024-03-21 |
 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 | 2022-02-25 | 2022-03-26 |
-| [Yes I Will \- feat\. Azlyn Howard](https://open.spotify.com/track/3Tm3NWC1xcl20KjMSGEQsj) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [Yes I Will](https://open.spotify.com/album/2Eql4gLEoYdvYLKrhBr540) | 3:52 | 2025-01-17 |  |
+| [Yes I Will \- feat\. Azlyn Howard](https://open.spotify.com/track/3Tm3NWC1xcl20KjMSGEQsj) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [Yes I Will](https://open.spotify.com/album/2Eql4gLEoYdvYLKrhBr540) | 3:52 | 2025-01-17 | 2025-03-15 |
 | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 | 2023-03-10 | 2024-04-19 |
 | [Yesterday, Today, & Tomorrow](https://open.spotify.com/track/1LJsJnjyc4TvEhNNzfS5Vb) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Yesterday, Today, & Tomorrow](https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP) | 3:22 | 2024-10-04 |  |
 | [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-26 | 2023-10-07 |

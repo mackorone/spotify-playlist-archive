@@ -1,13 +1,29 @@
 {
-  "description": "Music from shows and movies you love including Paradise, now streaming on Hulu.",
-  "num_followers": 216505,
+  "description": "Music from shows and movies you love including O'DESSA, now streaming on Hulu.",
+  "num_followers": 216511,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8u04gAAAAD6NG0FHBsgPwDnQii7vnOu",
+  "snapshot_id": "Z9SsLwAAAAArnOce93y4f5lUgoVH3gFe",
   "tracks": [
+    {
+      "added_at": "2025-03-14 22:22:39",
+      "album": {
+        "name": "O'DESSA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i"
+      },
+      "artists": [
+        {
+          "name": "Sadie Sink",
+          "url": "https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "The Song (Love Is All)",
+      "url": "https://open.spotify.com/track/3f1CazASWJpY8tBOlIEAQM"
+    },
     {
       "added_at": "2025-03-08 03:09:22",
       "album": {

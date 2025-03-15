@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Işıl Ayman
 
-235 songs - 11 hr 45 min
+236 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Ciğerime](https://open.spotify.com/track/2O3ysWkXe7ehFsGOsDP2jm) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [Ciğerime](https://open.spotify.com/album/4ccL83QgnBIb1Y6g4qQSSu) | 3:32 | 2025-01-21 | 2025-02-07 |
 | [Cümlenin Sonu](https://open.spotify.com/track/6EmI2OLfK6Q1rFOMLtt75T) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Cümlenin Sonu](https://open.spotify.com/album/5WXqwMNjpZPqgz0NTH5JX9) | 2:24 | 2024-12-12 |  |
 | [Daha Kötü Ne Olabilir Ki](https://open.spotify.com/track/7ySv3opHwbZNSvehYIVkwN) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Daha Kötü Ne Olabilir Ki](https://open.spotify.com/album/4CeYzfOsE9OQi39hQV5f0i) | 2:53 | 2024-06-27 | 2024-09-09 |
-| [Daha Nasıl Sevebilirim](https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Daha Nasıl Sevebilirim](https://open.spotify.com/album/5g0lJUG38dwHss5odOP2aV) | 3:23 | 2024-06-27 |  |
+| [Daha Nasıl Sevebilirim](https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Daha Nasıl Sevebilirim](https://open.spotify.com/album/5g0lJUG38dwHss5odOP2aV) | 3:23 | 2024-06-27 | 2025-03-15 |
 | [Dayanamam](https://open.spotify.com/track/3POxcfIStVIT4mU4IZldO6) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Dayanamam](https://open.spotify.com/album/73bU2e31seQS19wOtTcv96) | 2:20 | 2024-06-27 | 2024-07-09 |
 | [Dağıldım Sonunda](https://open.spotify.com/track/6WgtaLyJKnnNtfbATAt4q3) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Dağıldım Sonunda](https://open.spotify.com/album/7KmXxrr26HVzrHRw7SOhUv) | 3:45 | 2025-02-06 |  |
 | [Dedi Doktorum](https://open.spotify.com/track/7GV3ugDCiKfqBp7aV7MYvW) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Dedi Doktorum](https://open.spotify.com/album/7s6rCp5g4x9ZaeGmqgyexR) | 3:25 | 2024-06-27 | 2024-07-12 |
@@ -196,6 +196,7 @@
 | [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 | 2025-01-13 |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-08-01 | 2024-12-26 |
 | [Uyan](https://open.spotify.com/track/7r9ER5egyBidPbaMJlShd0) | [Sokrat St](https://open.spotify.com/artist/7ouCgJkxRBIJljUiQVJK65), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Uyan](https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3) | 3:20 | 2024-09-26 | 2024-11-16 |
+| [Uyku Tutmadı](https://open.spotify.com/track/4mOQHgIFAcVlUGg0AGA8uC) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Uyku Tutmadı](https://open.spotify.com/album/5M5tXuytQD7ExX5P2k9kRL) | 4:23 | 2025-03-13 |  |
 | [Uzun Lafın Kısası](https://open.spotify.com/track/4HJPlJMtvDUeaQ7LCNczLW) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC) | 3:39 | 2024-06-27 |  |
 | [Vakitsiz Geldin](https://open.spotify.com/track/4sXE51Fg8kmWLzoi9cXvun) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Aşığım Hâlâ](https://open.spotify.com/album/26zTtSG5cpSRvIS7ibxG0O) | 3:41 | 2024-06-27 | 2024-11-11 |
 | [Yakacak Belli](https://open.spotify.com/track/5Ra1k4mBQjP2NPk5NX5Pbq) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT), [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Yakacak Belli](https://open.spotify.com/album/3ZWj5U8qZf8RNvsSUkI76x) | 2:48 | 2024-06-27 | 2024-07-25 |

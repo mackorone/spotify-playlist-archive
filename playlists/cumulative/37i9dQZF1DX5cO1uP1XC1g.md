@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Tamer Ashour
 
-411 songs - 1 day 0 hr 49 min
+414 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amoot Ana](https://open.spotify.com/track/0y3Rbo2bkvCMinQkjdaG0O) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Amoot Ana](https://open.spotify.com/album/2I0r0p4ri7aCkei8SgeEwQ) | 2:55 | 2022-11-04 | 2023-07-08 |
 | [Ana Lahale](https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 2:59 | 2021-12-12 | 2022-01-15 |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2021-12-12 | 2022-08-26 |
+| [Ana Mesh 3ayez Gherak \- انا مش عايز غيرك](https://open.spotify.com/track/35ErTAE6w3dY8Jx7iy7FGE) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Inertia](https://open.spotify.com/artist/2iZzPbR0SCME3xci8qaKji) | [Ana Mesh 3ayez Gherak \- انا مش عايز غيرك](https://open.spotify.com/album/4vJa8xgu038qpxONiKivUA) | 3:28 | 2025-03-14 |  |
 | [Ana Nejri W Zman Yejri](https://open.spotify.com/track/4jjQIXVANytMf4SSaZmv2r) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Ana Nejri W Zman Yejri](https://open.spotify.com/album/3JEjb5G1C9EidKp6OxuLci) | 3:12 | 2021-12-12 | 2022-02-08 |
 | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2023-04-23 | 2023-05-18 |
 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 | 2021-12-12 | 2022-01-04 |
@@ -88,7 +89,7 @@
 | [Di Mochkila](https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Di Mochkila](https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK) | 2:25 | 2024-01-10 |  |
 | [Diplomacy](https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL) | 3:22 | 2021-12-12 | 2022-10-05 |
 | [Doctor](https://open.spotify.com/track/0qIsAN3bvWiwp8e7Rf0LQF) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Doctor](https://open.spotify.com/album/5vw2zkJ3vFvLWsMZP1syuT) | 3:37 | 2025-01-16 |  |
-| [Dwali](https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Dwali](https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9) | 2:54 | 2024-10-12 |  |
+| [Dwali](https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Dwali](https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9) | 2:54 | 2024-10-12 | 2025-03-15 |
 | [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 | 2022-02-15 | 2022-11-02 |
 | [Eish'ha B Afia](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-09-18 | 2023-05-15 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2021-12-12 | 2023-06-21 |
@@ -281,6 +282,7 @@
 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-02-01 | 2023-06-21 |
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-07 | 2023-02-10 |
 | [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 | 2023-04-19 | 2024-01-25 |
+| [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 | 2025-03-14 |  |
 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 | 2022-07-05 | 2022-11-02 |
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-14 |  |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-22 | 2022-12-27 |
@@ -379,6 +381,7 @@
 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 | 2023-04-01 | 2023-06-02 |
 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-14 | 2022-07-29 |
 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 | 2024-05-15 |  |
+| [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-03-14 |  |
 | [قدام الكل](https://open.spotify.com/track/29nkUuQAqOUUQPkcA21g74) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/49SBjUtuUUPV6AIAQk6lyL) | 2:56 | 2022-02-15 | 2022-07-29 |
 | [قدام الكل](https://open.spotify.com/track/2KTUVGrszTvLJa6zgWLmyL) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/2wJA7q1P2mraW3kA51V2Rn) | 3:04 | 2022-07-22 | 2022-11-02 |
 | [قلبي يا محتاس](https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [قلبي يا محتاس](https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596) | 2:54 | 2024-05-01 |  |

@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 49 min
+92 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,12 +85,13 @@
 | [The Lord Will Make a Way](https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:40 | 2023-05-12 |  |
 | [The Stone](https://open.spotify.com/track/2byQq9uYgH0otzE0NXICBu) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Fighting Temptations \(Music From The Motion Picture\)](https://open.spotify.com/album/3w4b3oRDOCFaig5HfSLRmq) | 1:53 | 2024-05-03 | 2024-05-27 |
 | [The World Didn't Give It to Me](https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 5:06 | 2023-05-12 |  |
-| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 |  |
+| [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 | 2023-09-25 | 2025-03-15 |
 | [This Is My Prayer](https://open.spotify.com/track/4MCGM8Symn7QTUi51R7OAY) | [Charles Jenkins & Fellowship Chicago](https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Praise Party, Volume 1](https://open.spotify.com/album/1oBDxwqNSZM3G2PLdQvSyC) | 4:23 | 2024-04-19 | 2024-11-01 |
 | [Tithes and Offerings \- Live](https://open.spotify.com/track/2s2SNAPBxC4TnxTVt60xIC) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:24 | 2023-06-02 | 2023-06-16 |
 | [U Name It Holiday Anthem](https://open.spotify.com/track/2uNoV93jYDQgOmYP8VS92M) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [U Name It Holiday Anthem](https://open.spotify.com/album/3DffNWg9Aoc3ACYxCbpf7X) | 2:51 | 2023-12-20 | 2025-01-23 |
 | [We Praise You Lord](https://open.spotify.com/track/1NH4kZZ0Phfa949Ewga9qx) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:00 | 2024-11-09 | 2024-11-14 |
 | [What A Friend We Have In Jesus \(You Are My Friend\) \[Ult Version\]](https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Ultimate Collection](https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg) | 4:10 | 2023-05-12 |  |
+| [When You Pray God Answers](https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 6:40 | 2025-03-15 |  |
 | [Worship Him](https://open.spotify.com/track/380MtcBJp0UhQyu9yNgngb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 7:46 | 2024-11-11 | 2024-12-14 |
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 | 2024-11-17 |

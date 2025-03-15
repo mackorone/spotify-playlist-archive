@@ -4,7 +4,7 @@
 
 > Fatma Turgut ve haftanın en iyi çıkışları!
 
-388 songs - 19 hr 34 min
+390 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-03-07 |
 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 | 2025-02-20 | 2025-02-28 |
 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-27 | 2025-03-07 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-13 |  |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-27 | 2025-03-07 |
 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-27 | 2025-03-07 |
 | [DALGALAR](https://open.spotify.com/track/6p30GP1x7XBTVCK6USpOCR) | [Parla](https://open.spotify.com/artist/0ELB2APjrcxE6zO75MWpBN), [Mili B](https://open.spotify.com/artist/7y2FO59lrnN6jNoiHoEhE9) | [DALGALAR](https://open.spotify.com/album/65F9P95EjPhEiAlST0ZFXp) | 2:36 | 2025-02-27 | 2025-03-07 |
@@ -137,6 +138,7 @@
 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 | 2025-03-06 | 2025-03-14 |
 | [Gitmeliyim Bu Yerden](https://open.spotify.com/track/39GhYXTxZkxS1MMXN9GWug) | [Çetin Dilsiz](https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs) | [Gitmeliyim Bu Yerden](https://open.spotify.com/album/1A4NY5c6t39cxSUSVYWgnx) | 3:07 | 2025-03-06 | 2025-03-14 |
 | [gitmem lazım artık](https://open.spotify.com/track/6cQmvq068Dcoy5z0UysOgV) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui) | [gitmem lazım artık](https://open.spotify.com/album/46sZhfXwKQh0LbKKjpCRHq) | 3:00 | 2025-03-13 |  |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Gökyüzü Hala Mavi](https://open.spotify.com/track/414cMFPrHQ7Mu4o0q5q0sU) | [Mine Özgüle](https://open.spotify.com/artist/15QctPiHcedop0WX3zhRqR) | [Gökyüzü Hala Mavi](https://open.spotify.com/album/3B44tha96EQEMvgqNR8sv9) | 2:46 | 2025-03-13 |  |
 | [Gör Şu Halimi](https://open.spotify.com/track/4mlMmbnxr5AsRDR9ysI3LX) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Gör Şu Halimi](https://open.spotify.com/album/5YoHw6HPiT7Y7TlttB4WhG) | 3:36 | 2025-02-20 | 2025-02-28 |
 | [Görgü Tanığı](https://open.spotify.com/track/5KYHPpGMcy0n7tygR09iLS) | [Niran Ünsal](https://open.spotify.com/artist/1BvyGRrehtERIWjXKsgzWo) | [Görgü Tanığı](https://open.spotify.com/album/1Ue4al0eEJdIEflb0onR3Q) | 3:20 | 2025-02-27 | 2025-03-07 |
@@ -256,7 +258,7 @@
 | [Nereye Gitsem](https://open.spotify.com/track/1FiGjBbOEdQ3uQCvZX8gfw) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Nereye Gitsem](https://open.spotify.com/album/1jVC6qrULcT7wm0k7tmlUo) | 2:44 | 2025-03-06 | 2025-03-14 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2025-03-07 |
 | [NMAX](https://open.spotify.com/track/2blhy7IXu8Uk9xcuoenQMq) | [BRITE34](https://open.spotify.com/artist/7CKPU6G4M94AGU7eTPC8fE), [Gado](https://open.spotify.com/artist/5GCTrnC7Z0VaScVMy7FYwU), [Ocean](https://open.spotify.com/artist/5KTdGzdx68HWOnDAhNSvhs) | [NMAX](https://open.spotify.com/album/7B8FovFmWFotgxS5OB4gHH) | 2:00 | 2025-03-06 | 2025-03-14 |
-| [Nonstop](https://open.spotify.com/track/3CyqqJBQxL6omFCMeRss7V) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [INFLOWENCER](https://open.spotify.com/album/39cYNsh4HDNB0wtFQAaF29) | 2:49 | 2025-03-13 |  |
+| [Nonstop](https://open.spotify.com/track/3CyqqJBQxL6omFCMeRss7V) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [INFLOWENCER](https://open.spotify.com/album/39cYNsh4HDNB0wtFQAaF29) | 2:49 | 2025-03-13 | 2025-03-15 |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 | 2025-03-07 |
 | [O Yollar Seni Üzer](https://open.spotify.com/track/1qxa9RoGmYUcmjA3ueUbDq) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [O Yollar Seni Üzer](https://open.spotify.com/album/1y4mONQkKk9FnUy6fsNh7X) | 2:51 | 2025-02-20 | 2025-02-28 |
 | [Odam Dağınık](https://open.spotify.com/track/7uH4F3ysvKX4ovw5e5bC8J) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Odam Dağınık](https://open.spotify.com/album/3kGWG8lCbM71J9PyEAIxYG) | 2:29 | 2025-02-20 | 2025-02-28 |

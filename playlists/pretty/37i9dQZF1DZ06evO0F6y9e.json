@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1024996,
+  "num_followers": 1025175,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAjQwWlvqMgXfd/8Ufm5fmU",
+  "snapshot_id": "Z9IgAAAAAAD83np/sLvUayNDP+XjwcLo",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 235221,
       "name": "Gracias (En Vivo)",
       "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 241536,
-      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Servicio (En Vivo)",
         "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio (En Vivo)",
       "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 241536,
+      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
     },
     {
       "added_at": null,

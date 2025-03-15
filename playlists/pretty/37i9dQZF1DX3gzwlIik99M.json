@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 206303,
+  "num_followers": 206306,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Nuevo Orden Mundial",
         "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 231426,
       "name": "Nuevo Orden Mundial",
       "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
-      },
-      "artists": [
-        {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Plan Mundial Para La Destrucci\u00f3n",
         "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 257773,
       "name": "Darse Cuenta",
       "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+      },
+      "artists": [
+        {
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2023-04-28 03:00:00",

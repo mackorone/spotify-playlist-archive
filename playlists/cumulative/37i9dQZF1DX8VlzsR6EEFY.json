@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 166500,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/5suRLk68ZCsr7K8MO0X7uX"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 195851,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/06uBDOgQwcKcrKWXHoF2zv"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 143306,
       "name": "La Caminera",
       "url": "https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r"
@@ -2416,6 +2416,28 @@
       "duration_ms": 210960,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
+    },
+    {
+      "album": {
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168514,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
     },
     {
       "album": {
@@ -2869,6 +2891,28 @@
     },
     {
       "album": {
+        "name": "Lo Bueno Viene Llegando",
+        "url": "https://open.spotify.com/album/6wdwWOsFLMLGW6dOKhnuzz"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "Grupo Medalla de Honor",
+          "url": "https://open.spotify.com/artist/4e4S3KthTLVsFDAh33P8hL"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115440,
+      "name": "Lo Bueno Viene Llegando",
+      "url": "https://open.spotify.com/track/7Gf4ZMg57gdSCofRYwLx2Y"
+    },
+    {
+      "album": {
         "name": "Lo Dejar\u00eda Todo",
         "url": "https://open.spotify.com/album/50cfhfrNgotJpIy0tQPy38"
       },
@@ -3176,6 +3220,50 @@
       "duration_ms": 167827,
       "name": "Me Gana el Sentimiento",
       "url": "https://open.spotify.com/track/0NcONqc4jhioyKur5pvPc3"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Mi Vida",
+        "url": "https://open.spotify.com/album/33DrJ1pDwmuJ4ek8u6Fl4y"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323723,
+      "name": "Me Gusta Mi Vida",
+      "url": "https://open.spotify.com/track/3bEgv6KLByMNlFNLmC8of2"
+    },
+    {
+      "album": {
+        "name": "Me Mata, Me Salva",
+        "url": "https://open.spotify.com/album/01kq3jiMH4tzdBz1AtiSMP"
+      },
+      "artists": [
+        {
+          "name": "Siete Veces Adi\u00f3s",
+          "url": "https://open.spotify.com/artist/04KPrs5Pf4H7BEFcdyiP3A"
+        },
+        {
+          "name": "Jannette Chao",
+          "url": "https://open.spotify.com/artist/49xEbqPQALFf9rzEwO924T"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209085,
+      "name": "Me Mata, Me Salva",
+      "url": "https://open.spotify.com/track/03WxIlAuyGQRBoD2VXuqGx"
     },
     {
       "album": {
@@ -3993,6 +4081,28 @@
     },
     {
       "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
+    },
+    {
+      "album": {
         "name": "Pasa Tips",
         "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
       },
@@ -4266,7 +4376,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 151875,
       "name": "QuesoXte",
       "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
@@ -4368,6 +4478,28 @@
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
+    },
+    {
+      "album": {
+        "name": "ROSITA FRESITA",
+        "url": "https://open.spotify.com/album/43tTDsDlbgAWMoQMrwODdh"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180216,
+      "name": "ROSITA FRESITA",
+      "url": "https://open.spotify.com/track/6JUUP8MdQXxqZTVbR9CQH8"
     },
     {
       "album": {
@@ -4716,7 +4848,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 193153,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"

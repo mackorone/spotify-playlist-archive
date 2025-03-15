@@ -2,9 +2,9 @@
 
 ### [Best of Indie 2010](https://open.spotify.com/playlist/37i9dQZF1DWULq23fLWDsl)
 
-> 2010 highlights from the home of indie music\. Cover: Gorillaz.
+> The Indie highlights of 2010\. Cover: Gorillaz
 
-187 songs - 12 hr 52 min
+188 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 | 2021-10-05 |  |
 | [Baptism](https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 4:11 | 2021-10-05 | 2023-05-13 |
 | [Baptism](https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 4:11 | 2021-10-05 | 2024-04-19 |
-| [Baptism](https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l) | 4:12 | 2024-03-18 |  |
+| [Baptism](https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l) | 4:12 | 2024-03-18 | 2025-03-15 |
 | [Big Jet Plane](https://open.spotify.com/track/7k7lT4K4hTJc3eEAX7euuk) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 3:59 | 2024-03-18 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2021-10-05 | 2024-04-19 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2021-10-05 |  |
@@ -29,7 +29,7 @@
 | [Brother Sparrow](https://open.spotify.com/track/6VkeSWmjyB3wN5SOnISK5S) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:58 | 2021-10-05 | 2024-04-19 |
 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 | 2024-03-18 |  |
 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 | 2021-10-05 | 2024-04-19 |
-| [Call Your Girlfriend](https://open.spotify.com/track/0BfySEp4LJTvZfxxlfaaOU) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/18yDzTr0dsuw268dHopO43) | 3:47 | 2024-03-18 |  |
+| [Call Your Girlfriend](https://open.spotify.com/track/0BfySEp4LJTvZfxxlfaaOU) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/18yDzTr0dsuw268dHopO43) | 3:47 | 2024-03-18 | 2025-03-15 |
 | [Cigarettes in the Theatre](https://open.spotify.com/track/7iGAkO3j525uGPyrd93VX0) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:33 | 2024-03-18 |  |
 | [Cigarettes In the Theatre](https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:34 | 2021-10-05 | 2024-04-19 |
 | [Cigarettes In the Theatre](https://open.spotify.com/track/2Vfbf60Ujpom3Bcljzw7Dd) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:34 | 2021-10-05 | 2022-11-02 |
@@ -89,7 +89,7 @@
 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 | 2021-10-05 |  |
 | [Journal of Ardency](https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw) | 3:45 | 2021-10-05 |  |
 | [Journal of Ardency](https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG) | 3:45 | 2021-10-05 | 2024-04-19 |
-| [King Of Spain](https://open.spotify.com/track/52EIhoKvVv4VsMqjvqq0do) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 3:26 | 2024-03-18 | 2025-03-10 |
+| [King Of Spain](https://open.spotify.com/track/52EIhoKvVv4VsMqjvqq0do) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 3:26 | 2024-03-18 |  |
 | [King of Spain](https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 3:26 | 2021-10-05 | 2024-04-19 |
 | [King of Spain](https://open.spotify.com/track/3wTFSdatTjW8VmYNPtIiHk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [King of Spain](https://open.spotify.com/album/0OMR85nZdzXwU5v5v225kC) | 3:27 | 2021-10-05 | 2022-11-13 |
 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 | 2021-10-05 | 2024-03-19 |
@@ -128,6 +128,7 @@
 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 | 2021-10-05 |  |
 | [Real Love](https://open.spotify.com/track/6SAtB7zpZ209gCDxU4i9oG) | [Delorean](https://open.spotify.com/artist/4llqCChMq4zPzCB84OrTck) | [Subiza](https://open.spotify.com/album/6jhoK83VIkt8Yr5L3Hcnsi) | 6:06 | 2021-10-05 | 2022-11-14 |
 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 | 2021-10-05 |  |
+| [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 | 2025-03-14 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-10-05 |  |
 | [Rill Rill](https://open.spotify.com/track/0DG2104AFWwy8mkJFwO5fk) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [10 Years of Mom+Pop](https://open.spotify.com/album/2xd8agIjiL0SNqZvkKyv1B) | 3:49 | 2021-10-05 | 2022-11-13 |
 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 | 2021-10-05 | 2024-04-19 |

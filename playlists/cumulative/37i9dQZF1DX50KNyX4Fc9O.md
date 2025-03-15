@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Indy
 
-1,715 songs - 3 day 16 hr 30 min
+1,716 songs - 3 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [cold medicine](https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine](https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz) | 3:27 | 2024-06-13 | 2024-07-19 |
 | [collide](https://open.spotify.com/track/5MDjnOt0WLXp4GD56V1FUK) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [collide](https://open.spotify.com/album/5wGOOWVGtpcZrL4SuCLtQd) | 2:51 | 2024-10-03 | 2024-11-22 |
 | [Come On Home](https://open.spotify.com/track/43ztgjIjYzPWJlu3E9jDo0) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Elements of Aroha](https://open.spotify.com/album/7EmOeUPJC7yTokftNG6YuM) | 3:07 | 2023-10-26 | 2023-12-08 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-13 |  |
 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 | 2024-06-13 | 2024-07-19 |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-08 | 2024-03-29 |
 | [Communicate](https://open.spotify.com/track/0uxfML7g9nqTWtPKMsn58v) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/6QCtMIjOqpcM4zPYPRsYlU) | 3:06 | 2024-05-16 | 2024-06-28 |

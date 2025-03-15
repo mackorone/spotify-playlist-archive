@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
+    },
+    {
+      "album": {
         "name": "Barby Bellaka",
         "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
@@ -4788,7 +4810,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 127819,
       "name": "LA ARGENTINA",
       "url": "https://open.spotify.com/track/5NI13kE0LM2I6THfd3hWjW"
@@ -6154,7 +6176,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
@@ -7249,6 +7271,32 @@
     },
     {
       "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178224,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
+    },
+    {
+      "album": {
         "name": "Nutela",
         "url": "https://open.spotify.com/album/4vCZfIaRnhL33uum4byhkn"
       },
@@ -8328,7 +8376,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
@@ -9940,7 +9988,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 172173,
       "name": "Sin Gps",
       "url": "https://open.spotify.com/track/3pIPpQpw4ytCo8LOy4pozN"
@@ -11820,7 +11868,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 161570,
       "name": "WIFEY MATERIAL",
       "url": "https://open.spotify.com/track/1ADPfWFFv1HTJzLOM0Vlg2"

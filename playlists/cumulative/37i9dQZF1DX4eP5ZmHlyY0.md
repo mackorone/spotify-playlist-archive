@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: HOSHI x WOOZI \(SEVENTEEN\)
 
-475 songs - 1 day 2 hr 53 min
+476 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [N.E.X.T.](https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [N.E.X.T.](https://open.spotify.com/album/3oF9aJrGYphxIZ2JYa6cHa) | 4:47 | 2023-12-26 | 2024-02-01 |
 | [NALLINA](https://open.spotify.com/track/2vgppmFop52JSbIr7N07SM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [NALLINA](https://open.spotify.com/album/1qrqShmhuHKGgm17rKNOA0) | 2:42 | 2024-11-19 |  |
 | [NANAKORO!](https://open.spotify.com/track/2gdcsqjx4y0ioJmu4o9B15) | [BMK](https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6) | [NANAKORO! \(B.M.K Special Edition\)](https://open.spotify.com/album/37JfmhJs4VEsMyKICUkTBQ) | 3:32 | 2023-11-23 | 2023-12-20 |
+| [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-13 |  |
 | [New Chapter](https://open.spotify.com/track/7tEBfxyJTAfs5quf75O2aA) | [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [TYOISM Vol.1](https://open.spotify.com/album/4hWOZIFKOzW43g2FW2fZh6) | 5:10 | 2025-03-06 | 2025-03-10 |
 | [NEW KIDZ](https://open.spotify.com/track/2aMr20hmw6g8dbvNtzpbot) | [Ennui Boys Club](https://open.spotify.com/artist/0OPl3KW0woHv7jrxHIGkbG) | [VOL ONE](https://open.spotify.com/album/3c4NWHoiWcJLNBYJCnZKPB) | 3:37 | 2023-12-12 | 2024-02-01 |
 | [New Rise](https://open.spotify.com/track/3QIulC05FpuCzWEuKnHR5L) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [New Rise](https://open.spotify.com/album/3HBPh1FjEWBGezQo6C5eej) | 3:17 | 2024-02-13 | 2024-03-06 |
@@ -411,7 +412,7 @@
 | [Wonder Woman](https://open.spotify.com/track/63Z1plOzb8d2Ke0ypFkz2g) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Wonder Woman](https://open.spotify.com/album/4HPznSYTy5MTam9Ug4dHoS) | 2:38 | 2025-02-18 |  |
 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 | 2024-10-01 | 2025-03-07 |
 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 | 2024-01-19 | 2024-03-17 |
-| [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [PLEASURE](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 |  |
+| [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 |  |
 | [YG](https://open.spotify.com/track/69DgzXRvRI0YHz6UBv6vjK) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [YG](https://open.spotify.com/album/2UjkJVkg3KwglkkzGvRMWo) | 3:52 | 2024-06-12 | 2024-06-19 |
 | [YIN YANG](https://open.spotify.com/track/6Pyq7yHGdS2irt6PMVm1Ml) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [YIN YANG](https://open.spotify.com/album/1gwgMM45BC0DLxTwwLm5pW) | 3:09 | 2024-07-09 | 2024-07-31 |
 | [YO MA SUNSHINE](https://open.spotify.com/track/5B70iJSr2BaCm1WJvBo2fS) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [YO MA SUNSHINE](https://open.spotify.com/album/4hBZeFNtTuGX89VFdsHevj) | 3:20 | 2024-02-09 | 2024-02-21 |

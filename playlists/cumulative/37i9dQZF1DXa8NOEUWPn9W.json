@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Westend.",
+  "description": "House music lives here. United under one roof, featuring Azzecca & Cole Knight",
   "name": "Housewerk",
   "tracks": [
     {
@@ -4028,7 +4028,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 181000,
       "name": "Closer (feat. Bantu)",
       "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 215813,
       "name": "Control Yourself - Radio Edit",
       "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
@@ -7900,7 +7900,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 163871,
       "name": "GETAWAY",
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
@@ -8342,6 +8342,28 @@
       "duration_ms": 324400,
       "name": "Godspeed (feat. DJ E-Clyps)",
       "url": "https://open.spotify.com/track/6PADTtmPxErC0MsgZx3Udr"
+    },
+    {
+      "album": {
+        "name": "Going Higher (Azzecca Remix)",
+        "url": "https://open.spotify.com/album/5udUxdbrOT11GefmroqEhs"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        },
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228316,
+      "name": "Going Higher",
+      "url": "https://open.spotify.com/track/5z846rGy88Ci59M82v4oyO"
     },
     {
       "album": {
@@ -9134,7 +9156,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 160609,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3xWOfgZzCg1jdEpEfM4oKi"
@@ -9228,7 +9250,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 225071,
       "name": "Holding Back",
       "url": "https://open.spotify.com/track/3PY4LMTRDGzg9wXq4tB9cE"
@@ -9774,6 +9796,24 @@
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "album": {
+        "name": "I Know You Want To",
+        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "I Know You Want To",
+      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
     },
     {
       "album": {
@@ -10936,7 +10976,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 174659,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7wyAHcp9fxfTKZhHNoABRp"
@@ -15103,6 +15143,24 @@
     },
     {
       "album": {
+        "name": "Nothing Better Than Music",
+        "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155097,
+      "name": "Nothing Better Than Music",
+      "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
+    },
+    {
+      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy"
       },
@@ -15770,7 +15828,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 203636,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/0YsqM8QeilX8nxC2uUhsK4"
@@ -16412,7 +16470,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
@@ -22906,6 +22964,24 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6nhrzrJr7FaAAYPs922vQv"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152522,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/37PgEAho2vXKJbHyDFSdol"
     },
     {
       "album": {

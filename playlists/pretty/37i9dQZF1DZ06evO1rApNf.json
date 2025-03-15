@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 125172,
+  "num_followers": 125169,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACt2SYAxD5VcYO/MW0Iy0Tr",
+  "snapshot_id": "Z9IgAAAAAAAU/4GXG/rLLDO0UOyJDKRP",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 228533,
       "name": "Sin Querer Queriendo (feat. Mau y Ricky)",
       "url": "https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAP\u00c1S",
-        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "PAP\u00c1S",
-      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bota Fuego (con Nicky Jam)",
         "url": "https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 223186,
       "name": "Bota Fuego - con Nicky Jam",
       "url": "https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAP\u00c1S",
+        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "PAP\u00c1S",
+      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
     },
     {
       "added_at": null,

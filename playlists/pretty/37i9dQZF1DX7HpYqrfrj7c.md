@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,840 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,951 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 67 | [Made Man \- Instrumental](https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [NY's Finest \(Instrumentals\)](https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr) | 4:12 |
 | 68 | [Alley Cats](https://open.spotify.com/track/1IZ9MPYWU7MhZvo6NOq79Q) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Straight From the Source](https://open.spotify.com/album/2XkAsmlShB6JNy7JmdXMHI) | 3:22 |
 | 69 | [It's A Party \(Instrumental\)](https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko) | 4:40 |
-| 70 | [Climax \- Instrumental Mix](https://open.spotify.com/track/6phS0dmak9yAw1vhYJAj9T) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:22 |
+| 70 | [Climax \(Instrumental Mix\)](https://open.spotify.com/track/6phS0dmak9yAw1vhYJAj9T) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:22 |
 | 71 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 |
 | 72 | [blow for blow.](https://open.spotify.com/track/0ejflAxFckJQrUKxiT1LP8) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [white night.](https://open.spotify.com/album/3aaNpWGGAwZUE0Y1lzqbV1) | 1:56 |
-| 73 | [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
+| 73 | [Fall In Love \(Instrumental\)](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
 | 74 | [Family and Loyalty \- Instrumental](https://open.spotify.com/track/0ffXklHorIux1lxo3QdPaA) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 4:34 |
 | 75 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 |
 | 76 | [Cyan Depts](https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Cyan Depts](https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg) | 2:08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lull your little ones with piano music.",
+  "description": "Lull your little ones to sleep with piano music.",
   "name": "Lullaby Baby",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 71822,
       "name": "A Sunny Trip",
       "url": "https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs"
+    },
+    {
+      "album": {
+        "name": "A Teddy Tale",
+        "url": "https://open.spotify.com/album/6hGKxzwBDe5BjrA2D2iVQX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Fry",
+          "url": "https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110904,
+      "name": "A Teddy Tale",
+      "url": "https://open.spotify.com/track/3KqmBFnuQafY4kfVB9tCne"
     },
     {
       "album": {
@@ -7065,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "My Favourite Lullaby",
+        "url": "https://open.spotify.com/album/36USCT1gnJvu0VrZdbp4cI"
+      },
+      "artists": [
+        {
+          "name": "Oscar Z",
+          "url": "https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119466,
+      "name": "My Favourite Lullaby",
+      "url": "https://open.spotify.com/track/4xnbJtpHrRhC4Nsiv267uV"
+    },
+    {
+      "album": {
         "name": "My First Tooth",
         "url": "https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q"
       },
@@ -7206,6 +7242,24 @@
       "duration_ms": 155568,
       "name": "My Little Superhero",
       "url": "https://open.spotify.com/track/2BpOILC6eTzpMDoFEx89Tb"
+    },
+    {
+      "album": {
+        "name": "My little Toy Parade",
+        "url": "https://open.spotify.com/album/57f65VnrCanB0TBOtxMXVa"
+      },
+      "artists": [
+        {
+          "name": "John Rabbit",
+          "url": "https://open.spotify.com/artist/0LrylHkTR2Qau5QFM1fnbi"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72351,
+      "name": "My little Toy Parade",
+      "url": "https://open.spotify.com/track/2Opgd3H9ZksUnpqiSX10me"
     },
     {
       "album": {

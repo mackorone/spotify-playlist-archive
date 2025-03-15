@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Ghost
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Coheed and Cambria
 
-1,416 songs - 3 day 12 hr 25 min
+1,418 songs - 3 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Cemetery](https://open.spotify.com/track/1VDfaG22cCv0ZvuIMMua2u) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Cemetery](https://open.spotify.com/album/5pklsNbfylZ8O9ZDJ9XAdL) | 2:44 | 2021-10-15 | 2022-03-18 |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2021-02-09 | 2022-03-05 |
 | [Chains \(The Tower\)](https://open.spotify.com/track/158lKbSQmYwxDU9rQpN11R) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Death Card](https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S) | 3:14 | 2024-10-04 | 2024-12-07 |
-| [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 | 2025-01-31 |  |
+| [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 | 2025-01-31 | 2025-03-15 |
 | [Change the Waters](https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters](https://open.spotify.com/album/4Xp8qrp6IPU1obR7a8E6m0) | 3:48 | 2021-07-23 | 2022-02-05 |
 | [Changes Are Coming](https://open.spotify.com/track/3SSflpFdIv5r6x2fOcQvrH) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Dearly Beloved](https://open.spotify.com/album/2jVZ3Iqj1wSQE8d8khM9Pi) | 3:41 | 2021-09-17 | 2022-07-23 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-02-25 | 2022-04-23 |
@@ -397,6 +397,7 @@
 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 | 2022-07-22 | 2022-07-30 |
 | [Echolocate Your Love](https://open.spotify.com/track/5P37xjNwr4ZgXG4JbsiXqT) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Echolocate Your Love](https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu) | 3:24 | 2022-09-09 | 2022-11-05 |
 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-09-30 | 2023-02-04 |
+| [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-14 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-12 | 2023-07-15 |
 | [Empires](https://open.spotify.com/track/5uKFAmmnnJ4qkQtyFFTYuE) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:10 | 2023-06-02 | 2023-07-15 |
 | [Empires](https://open.spotify.com/track/6W2PWC5H7FSG3fdWc70EgZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I & II](https://open.spotify.com/album/2ZagNJdDOXRHe3W5f4ov4W) | 3:10 | 2023-02-03 | 2023-02-25 |
@@ -1086,7 +1087,8 @@
 | [SOLD OUT](https://open.spotify.com/track/4D4d3N9nuPnvNg3ZAICWTN) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:22 | 2023-09-15 | 2024-01-13 |
 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-06-28 | 2024-10-05 |
 | [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 | 2022-10-28 | 2022-11-26 |
-| [Someone Who Can](https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Someone Who Can](https://open.spotify.com/album/7t914q200AnbbeomCdJU9L) | 3:45 | 2025-01-17 |  |
+| [Someone Who Can](https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Someone Who Can](https://open.spotify.com/album/7t914q200AnbbeomCdJU9L) | 3:45 | 2025-01-17 | 2025-03-15 |
+| [Someone Who Can](https://open.spotify.com/track/5Rqn1re29PkFLJBzNEcy0v) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe](https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH) | 3:45 | 2025-03-14 |  |
 | [Someone You Don't Know](https://open.spotify.com/track/4UOd2lvPt4bUfpIwht4Guk) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Someone You Don't Know](https://open.spotify.com/album/5RfREhxulZxtMRlLsreWMx) | 3:03 | 2023-06-16 | 2023-07-29 |
 | [sorry i'm not dead](https://open.spotify.com/track/6GF1LMFAQpWpKNMJ5LYrrF) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [sorry i'm not dead](https://open.spotify.com/album/5YW6ucfSb6mgmYhodmYtqo) | 3:40 | 2021-11-19 | 2022-07-23 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-14 | 2023-09-23 |

@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224467,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD"
+    },
+    {
+      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/6wkTf1uj9mHedCLQJdmnHF"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6775,
+  "num_followers": 6777,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA266Sd+SCbiIpQcmsdvUKw",
+  "snapshot_id": "Z9IgAAAAAACkGiFwHCk9vlPp8QpDfZct",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 254506,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+      "duration_ms": 172466,
+      "name": "Ah'w Baby",
+      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
     },
     {
       "added_at": null,
@@ -383,22 +375,6 @@
       "duration_ms": 169786,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2AfLquO3aQ4xiQ53k5fkAY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Ah'w Baby",
-      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
     },
     {
       "added_at": null,
@@ -439,6 +415,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saga Blues: Blowing With a Feeling",
         "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 172666,
       "name": "One More Chance With You",
       "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 368706,
       "name": "I Just Want To Make Love To You",
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
     },
     {
       "added_at": null,

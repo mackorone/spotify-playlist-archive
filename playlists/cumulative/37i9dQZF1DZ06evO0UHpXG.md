@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-119 songs - 7 hr 10 min
+120 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [No Class](https://open.spotify.com/track/2iBtKDOBYvIMcGvsbmyYn5) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:38 | 2023-12-13 |  |
 | [No Class](https://open.spotify.com/track/7tcjO6ihGhcKi5mRu0jXZy) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 2:38 | 2022-12-30 | 2023-12-14 |
 | [On Your Feet or On Your Knees \(Live at Sala Aqualung, Madrid, 1st June 1995\)](https://open.spotify.com/track/1o0jKmFRtDvCkHoJjUih0S) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes \- The Collection \(Vol\. 1\-5\)](https://open.spotify.com/album/4HxP17nKQuzZpzIVq0wu3L) | 2:44 | 2024-03-01 | 2024-03-12 |
+| [One More Fucking Time](https://open.spotify.com/track/6SUarxODjZG2Ke0Fwm1Br8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 6:46 | 2025-03-15 |  |
 | [One Track Mind \- Live at Hull City Hall, 22/6/1983](https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [One Track Mind \(Live at Hull City Hall, 22/6/1983\)](https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ) | 4:05 | 2023-11-10 | 2023-12-14 |
 | [Orgasmatron](https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX) | 5:23 | 2022-12-30 | 2023-12-14 |
 | [Orgasmatron](https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 5:24 | 2023-12-13 |  |
@@ -123,7 +124,7 @@
 | [Victory Or Die](https://open.spotify.com/track/2CiA531WXraGbovitMCPM1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:08 | 2022-12-30 |  |
 | [We Are Motörhead](https://open.spotify.com/track/29o3PAov4DX7xGSJT2tCdh) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/2sqUz4v6XuHJL8k6R1WztI) | 2:21 | 2022-12-30 | 2023-12-14 |
 | [We Are Motörhead](https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 2:21 | 2023-12-13 |  |
-| [When The Sky Comes Looking For You](https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 2:58 | 2023-07-23 |  |
+| [When The Sky Comes Looking For You](https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 2:58 | 2023-07-23 | 2025-03-15 |
 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 | 2022-12-31 |  |
 | [Whorehouse Blues](https://open.spotify.com/track/29ppgTZrKMFw6bAZmGU4AW) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 3:52 | 2023-12-13 |  |
 | [Whorehouse Blues](https://open.spotify.com/track/6DzNf5yqXpAAtie15t3MVx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:52 | 2022-12-30 | 2023-12-14 |

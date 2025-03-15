@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 36343,
+  "num_followers": 36393,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACo04M9i2kJtgDw+byrD9g3",
+  "snapshot_id": "Z9IgAAAAAABS150N3o2RZnyB/UKjN/tI",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267300,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 221160,
       "name": "Olv\u00eddame T\u00fa",
       "url": "https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni\u00f1o De Oro",
+        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 177704,
+      "name": "Relojito Adiamantado",
+      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habemus Conciliaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 151875,
       "name": "QuesoXte",
       "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni\u00f1o De Oro",
-        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 177704,
-      "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
     },
     {
       "added_at": null,
@@ -575,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163225,
+      "name": "Hablen",
+      "url": "https://open.spotify.com/track/6g5tBAygpCM1RSF4igf5j9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flotando En El Aire",
+        "url": "https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 184192,
+      "name": "Flotando En El Aire",
+      "url": "https://open.spotify.com/track/5C20Df5lKns5u5CxBrHel2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Notas Musicales",
         "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
       },
@@ -587,22 +619,6 @@
       "duration_ms": 250991,
       "name": "Notas Musicales",
       "url": "https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flotando En El Aire",
-        "url": "https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Flotando En El Aire",
-      "url": "https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK"
     },
     {
       "added_at": null,
@@ -660,17 +676,21 @@
       "added_at": null,
       "album": {
         "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
       "artists": [
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Hablen",
-      "url": "https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB"
+      "duration_ms": 246671,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
     },
     {
       "added_at": null,
@@ -746,15 +766,11 @@
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 246671,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
+      "duration_ms": 210968,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 227004,
       "name": "El General",
       "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp"
     },
     {
       "added_at": null,

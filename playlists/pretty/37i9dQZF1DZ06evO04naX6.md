@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,441 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,461 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Bonita \- Remix](https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Bonita \(Remix\)](https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA) | 5:22 |
 | 50 | [La Ocasión Perfecta](https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:42 |
 
-Snapshot ID: `Z9DOgAAAAABq7fBkRpYH6/0/l+pdlXT4`
+Snapshot ID: `Z9IgAAAAAADamnHpmgnyh3S+5dXNBPLI`

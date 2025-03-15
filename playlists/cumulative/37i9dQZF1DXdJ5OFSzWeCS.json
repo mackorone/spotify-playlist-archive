@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 94250,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/7JYP1qkUvm7pq3Mb3UxSk3"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 109639,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/3YiWDSlOLIcWV9qnGnyy1B"
@@ -4948,7 +4948,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 112229,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/3L9IOSq0Z5bNMGhvFPoCmx"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 125400,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/34gr5irWhnjBbagt7o1HOy"
@@ -6953,6 +6953,24 @@
     },
     {
       "album": {
+        "name": "Manx Lullaby",
+        "url": "https://open.spotify.com/album/4Q1h7NTRcjAXMZVpksUDYn"
+      },
+      "artists": [
+        {
+          "name": "Cael Everly",
+          "url": "https://open.spotify.com/artist/49Vs0LXPVMb2dMzke4prbd"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83969,
+      "name": "Manx Lullaby",
+      "url": "https://open.spotify.com/track/7iqdqpdAXjxYWnznHWkC9I"
+    },
+    {
+      "album": {
         "name": "Many moons ago",
         "url": "https://open.spotify.com/album/5o9afqrXLp2iDaQfwK9qbv"
       },
@@ -7738,7 +7756,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 131211,
       "name": "My Kitty Cat",
       "url": "https://open.spotify.com/track/4Ov2GX8yJaP8goeCLN6F79"
@@ -8195,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Nightingales",
+        "url": "https://open.spotify.com/album/7gOBRAV2KjPCDCz146QZBD"
+      },
+      "artists": [
+        {
+          "name": "Caprice Henry",
+          "url": "https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "Nightingales",
+      "url": "https://open.spotify.com/track/6XAaEIck50dvq916jorgDQ"
+    },
+    {
+      "album": {
         "name": "Nightingales Are Singing",
         "url": "https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc"
       },
@@ -8462,6 +8498,24 @@
       "duration_ms": 87000,
       "name": "On a rainy day",
       "url": "https://open.spotify.com/track/4jgCNXV4ZoQcQc8yz1Kc0O"
+    },
+    {
+      "album": {
+        "name": "On the bridge of Avignon",
+        "url": "https://open.spotify.com/album/4pv6fAPFwe8rXR6zRYjQ1S"
+      },
+      "artists": [
+        {
+          "name": "Pete Morton",
+          "url": "https://open.spotify.com/artist/4ZPuSOZorbyFg7JrwV1rxz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61374,
+      "name": "On the bridge of Avignon",
+      "url": "https://open.spotify.com/track/1Er4WgzhppOWFlmflkbwUL"
     },
     {
       "album": {
@@ -9412,7 +9466,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 129623,
       "name": "Rock-a-Bye Baby",
       "url": "https://open.spotify.com/track/5KbuqVa2VtPRhcSuwME3zC"
@@ -10712,6 +10766,24 @@
       "duration_ms": 115077,
       "name": "Stories from the Day",
       "url": "https://open.spotify.com/track/39RU3TfHJ6fPv52ZdJLvup"
+    },
+    {
+      "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/1ewCIxf8ghLFrC7OEFB6wT"
+      },
+      "artists": [
+        {
+          "name": "Milo Creek",
+          "url": "https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115848,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/62NApR4m3AoNBWt5ib2QKR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-88 songs - 4 hr 10 min
+90 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [852 Hz Pilgrimage of the Soul](https://open.spotify.com/track/1hUBmbVTFkyo8Ap2QtEfvB) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [852 Hz Pilgrimage of the Soul](https://open.spotify.com/album/4pEbRUr1EG3qqMVSVPzUHe) | 2:52 | 2024-06-11 |  |
 | [852 Hz Prismatic Pathways](https://open.spotify.com/track/1QL3c88UYwTWKVsxsw2k0l) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [852 Hz Prismatic Pathways](https://open.spotify.com/album/5CzZUkRV4KBju9hH5HQcL5) | 2:42 | 2023-11-30 |  |
 | [852 Hz Quantum Healing](https://open.spotify.com/track/6baWSwcYW5FHWClLyU9qfH) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Quantum Healing](https://open.spotify.com/album/52iSwVNPIJN7sMOJ82xfcT) | 3:11 | 2024-05-11 |  |
+| [852 Hz Quiet Your Brain](https://open.spotify.com/track/4EVU7XGaZHUCM77W9vm6U9) | [Feed Your Soul](https://open.spotify.com/artist/4yca7AgUltNWawVm2IwMnQ) | [852 Hz Calm Your Mind](https://open.spotify.com/album/3yJ6mDzv8XP3DPsNRtGs9Q) | 2:12 | 2025-03-14 |  |
 | [852 Hz Reconnection](https://open.spotify.com/track/58zKGcuLXoHbDHQVy4sci5) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [852 Hz Reconnection](https://open.spotify.com/album/1Vg5ZoxB8INXLiEbMaQh1S) | 2:23 | 2024-06-11 |  |
 | [852 Hz Regeneration](https://open.spotify.com/track/0JtEglAAtgmEN7UMTZDBED) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [852 Hz Regeneration](https://open.spotify.com/album/2WnlkqIZ9HNb3GmFRrDDbf) | 3:01 | 2024-11-07 |  |
 | [852 Hz Release](https://open.spotify.com/track/7hL171cw6hPhXsHdXWRiyC) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
@@ -52,6 +53,7 @@
 | [Borders 852 Hz](https://open.spotify.com/track/7z8XqddZ2pvWKhEdmUbn5l) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:38 | 2023-03-10 |  |
 | [Circling Air](https://open.spotify.com/track/4eGV3x6oFODltbqTKOjzP3) | [Three Jewels](https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA) | [Circling Air](https://open.spotify.com/album/09FSu0e52Cf4O8BxAnHWrp) | 2:24 | 2023-03-10 |  |
 | [Connected \(Solfeggio 852 Hz\)](https://open.spotify.com/track/4xiHh4PVG2dG11LssCnTCV) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [World Wide Vision](https://open.spotify.com/album/1Ew4ZwpGBeGRkgBrOVRP4t) | 3:08 | 2023-08-07 |  |
+| [Cosmic Alignment 852Hz](https://open.spotify.com/track/0YR5Qs8rge1Z48dOb3UczT) | [Leah Lorelai](https://open.spotify.com/artist/2aCoXIhqQla0dzRU84PI6c) | [Cosmic Alignment 852Hz](https://open.spotify.com/album/7Brf1eU1RVvSxSIY7LmZ5x) | 3:20 | 2025-03-14 |  |
 | [Cynosure](https://open.spotify.com/track/032YBrJJLqZyXxutvSGSkC) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:37 | 2023-03-10 |  |
 | [Expand Horizons](https://open.spotify.com/track/7mThdU8Fe7B8BXVyzKjrhg) | [Quietmind](https://open.spotify.com/artist/47OpVUkgg3v5Il1hY3UpG6) | [Expand Horizons](https://open.spotify.com/album/1PaHi5DwQcvzVAB0p2keCh) | 1:25 | 2023-03-10 | 2023-08-08 |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2023-03-10 |  |

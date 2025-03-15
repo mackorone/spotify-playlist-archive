@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 38477,
+  "num_followers": 38493,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA88WCyqBlMpmLvzxWPLp/k",
+  "snapshot_id": "Z9IgAAAAAAD3jBbkZx611Z9OT8HTOWy5",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lyric and Coloratura Arias",
+        "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 292600,
+      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+      "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/7jJ69AFSMTAQavq64DxYll"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 185346,
       "name": "Puccini: Tosca, Act 2: \"Vissi d'arte, vissi d'amore\" (Tosca)",
       "url": "https://open.spotify.com/track/4WU1XFFx74qQIEbty9Z77X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lyric and Coloratura Arias",
-        "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 292600,
-      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
-      "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
     },
     {
       "added_at": null,
@@ -695,34 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
-        "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Arturo Basile",
-          "url": "https://open.spotify.com/artist/1J0Clrl4D0cAbGmRKn9X5q"
-        },
-        {
-          "name": "Orchestra Sinfonica Di Torino Della Rai",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
-        }
-      ],
-      "duration_ms": 71506,
-      "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
-      "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -747,6 +719,34 @@
       "duration_ms": 230280,
       "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
       "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
+        "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Arturo Basile",
+          "url": "https://open.spotify.com/artist/1J0Clrl4D0cAbGmRKn9X5q"
+        },
+        {
+          "name": "Orchestra Sinfonica Di Torino Della Rai",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+        }
+      ],
+      "duration_ms": 71506,
+      "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
+      "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
     },
     {
       "added_at": null,
@@ -887,6 +887,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra of the San Carlos Opera House, Lisbon",
+          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
+      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 242586,
       "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra of the San Carlos Opera House, Lisbon",
-          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
-      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     },
     {
       "added_at": null,
@@ -991,34 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ponchielli: La Gioconda, Op. 9",
         "url": "https://open.spotify.com/album/3psVD4zIuKCJw8hVFr5oY3"
       },
@@ -1047,6 +1019,34 @@
       "duration_ms": 90133,
       "name": "Ponchielli: La Gioconda, Op. 9, Act 3: \"Prodigio! Incanto!\" (Coro)",
       "url": "https://open.spotify.com/track/2YNHKWPuAJiSCHkiSgr8w0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,
@@ -1103,34 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas at La Scala - Callas Remastered",
-        "url": "https://open.spotify.com/album/1zeY15OCHd9zCb7fraGFHo"
-      },
-      "artists": [
-        {
-          "name": "Gaspare Spontini",
-          "url": "https://open.spotify.com/artist/7yxeJll1absl3LxWoIrBj5"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 151760,
-      "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
-      "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verdi: La traviata",
         "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
       },
@@ -1163,6 +1135,34 @@
       "duration_ms": 191013,
       "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
       "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas at La Scala - Callas Remastered",
+        "url": "https://open.spotify.com/album/1zeY15OCHd9zCb7fraGFHo"
+      },
+      "artists": [
+        {
+          "name": "Gaspare Spontini",
+          "url": "https://open.spotify.com/artist/7yxeJll1absl3LxWoIrBj5"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
+      "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
     },
     {
       "added_at": null,
@@ -1255,46 +1255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bizet: Carmen",
-        "url": "https://open.spotify.com/album/22ANFMPm2FcKbNsshKSefi"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Orchestre de l'Op\u00e9ra National de Paris",
-          "url": "https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "Orchestre du Th\u00e9\u00e2tre National de l'Op\u00e9ra Paris",
-          "url": "https://open.spotify.com/artist/6A2Cwaoe4zRqUda8qPyqOh"
-        },
-        {
-          "name": "Paris Opera Orchestra",
-          "url": "https://open.spotify.com/artist/3IBSdicCqV2ZZNgoOh5vR9"
-        }
-      ],
-      "duration_ms": 55693,
-      "name": "Bizet: Carmen, Act 1: \"Quels regardes! Quelle effronterie!\" (Carmen, Jos\u00e9)",
-      "url": "https://open.spotify.com/track/0q0r8JVp4dPZBbmBUsqsgO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -1359,6 +1319,46 @@
       "duration_ms": 280226,
       "name": "Puccini: La boh\u00e8me, Act 2: \"Quando me'n vo soletta\" (Musetta/Marcellop/Alcindoro/Mim\u00ec/Rodolfo/Schaunard/Colline)",
       "url": "https://open.spotify.com/track/3udHAti4qpoKGnMymuNZZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/22ANFMPm2FcKbNsshKSefi"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Orchestre de l'Op\u00e9ra National de Paris",
+          "url": "https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "Orchestre du Th\u00e9\u00e2tre National de l'Op\u00e9ra Paris",
+          "url": "https://open.spotify.com/artist/6A2Cwaoe4zRqUda8qPyqOh"
+        },
+        {
+          "name": "Paris Opera Orchestra",
+          "url": "https://open.spotify.com/artist/3IBSdicCqV2ZZNgoOh5vR9"
+        }
+      ],
+      "duration_ms": 55693,
+      "name": "Bizet: Carmen, Act 1: \"Quels regardes! Quelle effronterie!\" (Carmen, Jos\u00e9)",
+      "url": "https://open.spotify.com/track/0q0r8JVp4dPZBbmBUsqsgO"
     },
     {
       "added_at": null,

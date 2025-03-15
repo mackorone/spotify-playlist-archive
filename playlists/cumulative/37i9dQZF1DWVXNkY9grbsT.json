@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Whatever the Weather II",
+        "url": "https://open.spotify.com/album/6c2tadUprT8mxXulNmZ1dc"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255477,
+      "name": "8\u00b0C",
+      "url": "https://open.spotify.com/track/1dnSI8xGpjtD5vLzUEIIHd"
+    },
+    {
+      "album": {
         "name": "9\u00b0C",
         "url": "https://open.spotify.com/album/6Kn9w4RocAMB81C1m7LmYy"
       },
@@ -2479,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Daze",
+        "url": "https://open.spotify.com/album/0g3fRlZjgYil54x0iWo798"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316362,
+      "name": "Daze",
+      "url": "https://open.spotify.com/track/2tyRXA96lFPp4OmNM28j2c"
+    },
+    {
+      "album": {
         "name": "Decay Time (Extended Mix)",
         "url": "https://open.spotify.com/album/5qHAzo402psMmFfOfvLL0W"
       },
@@ -3528,7 +3564,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 253587,
       "name": "Geist",
       "url": "https://open.spotify.com/track/7nrNnm2eb1cv14RoLz2E9r"
@@ -5636,7 +5672,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 210520,
       "name": "Our Wretched Fantasy",
       "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
@@ -6364,6 +6400,24 @@
       "duration_ms": 340045,
       "name": "Reciprocal capture (ft. Speaker Music)",
       "url": "https://open.spotify.com/track/736tmPjGGT8MG6DcD15UoB"
+    },
+    {
+      "album": {
+        "name": "Joy Paradox (Reimagined)",
+        "url": "https://open.spotify.com/album/4L0ugCc2D3eFwuSV7nPonU"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313641,
+      "name": "Recompose - In Nature",
+      "url": "https://open.spotify.com/track/3WdNEYkSo7d6E9EKJLIaSe"
     },
     {
       "album": {
@@ -7162,7 +7216,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 231637,
       "name": "Sony 7IV",
       "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"

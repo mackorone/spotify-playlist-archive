@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Joyas del Underground",
+        "url": "https://open.spotify.com/album/2ZS9MDcx1df7pckFZnDLGJ"
+      },
+      "artists": [
+        {
+          "name": "PNO",
+          "url": "https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222773,
+      "name": "Estado Mental",
+      "url": "https://open.spotify.com/track/2MdCEO1ghH4VHGDouv2huM"
+    },
+    {
+      "album": {
         "name": "Estilo Libre",
         "url": "https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ"
       },
@@ -2940,7 +2958,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 210361,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/2WzGc3rGEXcu7TkDn4b9kh"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAByYjy0+2XntNGu/XNltgv4",
+  "snapshot_id": "Z9IgAAAAAADXue3KIqXS4DrvESGR0vdB",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LVR",
-        "url": "https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd"
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
       "artists": [
-        {
-          "name": "Tyan G",
-          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
-        },
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 172319,
-      "name": "LVR",
-      "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
+      "duration_ms": 145160,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
     },
     {
       "added_at": null,
@@ -499,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL SUBE Y BAJA (En Vivo)",
         "url": "https://open.spotify.com/album/6J4oo3VvSrs8OsNwS0Tp9E"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 167061,
       "name": "EL SUBE Y BAJA - En Vivo",
       "url": "https://open.spotify.com/track/1x8Fw4vwlxsupmVUDEK6hl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LVR",
+        "url": "https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        },
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "LVR",
+      "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMIGOS CON DERECHO",
+        "url": "https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "AMIGOS CON DERECHO",
+      "url": "https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
       },
@@ -727,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Tumbado",
-        "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Mariachi Tumbado",
-      "url": "https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trato De Muerte (En Vivo)",
         "url": "https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu"
       },
@@ -767,38 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMIGOS CON DERECHO",
-        "url": "https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk"
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "AMIGOS CON DERECHO",
-      "url": "https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rival",
-        "url": "https://open.spotify.com/album/1MafQQzWNKUr7iTQ7SWE4O"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
         },
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 189453,
-      "name": "El Rival",
-      "url": "https://open.spotify.com/track/1m2ryoXIICvX9pRXNZb3D6"
+      "duration_ms": 168720,
+      "name": "Mariachi Tumbado",
+      "url": "https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 231125,
       "name": "YO NO SOY CELOSO - En Vivo",
       "url": "https://open.spotify.com/track/7nzpSyN3g8VLoKiBOIxtiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rival",
+        "url": "https://open.spotify.com/album/1MafQQzWNKUr7iTQ7SWE4O"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "El Rival",
+      "url": "https://open.spotify.com/track/1m2ryoXIICvX9pRXNZb3D6"
     },
     {
       "added_at": null,

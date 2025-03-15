@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,780 likes - 274 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,805 likes - 274 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 155 | [Blood on the Tracks](https://open.spotify.com/track/43IeRAT5dVou9QAjVqsGCM) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:58 |
 | 156 | [Can't Fool With Me](https://open.spotify.com/track/5VQe4YIBhwcs7XsiHond9O) | [The Spaceshits](https://open.spotify.com/artist/3syYIJ8mAG9T477ItqEOGA) | [Misbehavin'](https://open.spotify.com/album/6lBeOZuJYpZLOY7fGwZJ7k) | 2:53 |
 | 157 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
-| 158 | [Young Lovers Do](https://open.spotify.com/track/7fx1Uu6Y7HHVK4qmnUtYlu) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:54 |
+| 158 | [Young Lovers Do](https://open.spotify.com/track/7fx1Uu6Y7HHVK4qmnUtYlu) | [Tilly Vickers Willis](https://open.spotify.com/artist/5VCQRLfsqlAtVJlP0eJxOy) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:54 |
 | 159 | [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 |
 | 160 | [Heaven on the Beach With You](https://open.spotify.com/track/1aYDZpNwbkWa2ci01qbReB) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/7be9L5bnrienOBoWnPt1lz) | 2:02 |
 | 161 | [Work Until I Die](https://open.spotify.com/track/1QfJXCHZvjA5b5p8JA9KFK) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 6:32 |

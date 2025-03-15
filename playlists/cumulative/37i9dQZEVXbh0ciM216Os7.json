@@ -2583,6 +2583,50 @@
     },
     {
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363619,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
+    },
+    {
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
       },
@@ -5101,6 +5145,28 @@
     },
     {
       "album": {
+        "name": "Bleed (feat. Omar Apollo)",
+        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+    },
+    {
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/1RzEe2SHJlPOIRQv6BFVSe"
       },
@@ -6706,7 +6772,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 186612,
       "name": "Busy Woman",
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
@@ -7740,7 +7806,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 122037,
       "name": "check",
       "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
@@ -8538,7 +8604,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 289315,
       "name": "Cold Train",
       "url": "https://open.spotify.com/track/1wQ7fLaQ5Fz0RcrSCsqKDU"
@@ -10502,7 +10568,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -13452,7 +13518,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 255555,
       "name": "EXECUTION",
       "url": "https://open.spotify.com/track/0VwObah0e0BsvzMHLbFWsy"
@@ -13976,6 +14042,24 @@
       "duration_ms": 262229,
       "name": "False Idols (with Lil Baby, Suzanna Son)",
       "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
+    },
+    {
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
     },
     {
       "album": {
@@ -15754,7 +15838,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 289568,
       "name": "Free Hit",
       "url": "https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd"
@@ -17256,7 +17340,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 165882,
       "name": "Glacial",
       "url": "https://open.spotify.com/track/7AlqI7EB0YMaNoPXPQgRei"
@@ -18774,7 +18858,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 134321,
       "name": "Heart Around Sleeve",
       "url": "https://open.spotify.com/track/1ApCG0o7wZfa4mUppC3IPj"
@@ -23262,6 +23346,28 @@
       "duration_ms": 195623,
       "name": "Kali Love (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
+    },
+    {
+      "album": {
+        "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
+        "url": "https://open.spotify.com/album/7L9SGRLWcvS9BdWs2fRPE7"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121844,
+      "name": "Kansas City Theme x FIFA World Cup 26\u2122\ufe0f by Tech N9ne",
+      "url": "https://open.spotify.com/track/1QiTUbglKQeJvOsOqvigHY"
     },
     {
       "album": {
@@ -30828,7 +30934,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -32694,6 +32800,24 @@
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
+    },
+    {
+      "album": {
+        "name": "OXYGENE (from \"ASH\" Soundtrack)",
+        "url": "https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93973,
+      "name": "OXYGENE (from \"ASH\" Soundtrack)",
+      "url": "https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl"
     },
     {
       "album": {
@@ -36543,6 +36667,28 @@
     },
     {
       "album": {
+        "name": "Russet",
+        "url": "https://open.spotify.com/album/0ESaOBsQ7tYvw9fxRV9vhM"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Russet",
+      "url": "https://open.spotify.com/track/086A8ohGpcyU7oHD8dySb3"
+    },
+    {
+      "album": {
         "name": "Russian Roullete",
         "url": "https://open.spotify.com/album/6AF14z3DzSV0s8O37I1VMP"
       },
@@ -38693,6 +38839,32 @@
     },
     {
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225289,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R"
       },
@@ -39052,6 +39224,40 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
+        "name": "Soul Survivorz",
+        "url": "https://open.spotify.com/album/3MXI2R044MrBGFvvQvkmoF"
+      },
+      "artists": [
+        {
+          "name": "Natethoven",
+          "url": "https://open.spotify.com/artist/1Jsx15C8czIFyjj1Af3zgg"
+        },
+        {
+          "name": "Dj Goadman",
+          "url": "https://open.spotify.com/artist/6NPwUjy7W8MUmuKIHFEX73"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Soul Survivorz",
+      "url": "https://open.spotify.com/track/0yGk99GrwfKrdDlER3qBij"
     },
     {
       "album": {
@@ -40870,7 +41076,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 155500,
       "name": "Sweet Bliss",
       "url": "https://open.spotify.com/track/3xlq8X2AJWamVya6Cic9nB"
@@ -41582,7 +41788,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 186219,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/72RjC359lcwhf1cON9ppls"
@@ -42371,6 +42577,24 @@
     },
     {
       "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "The Big One",
+      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
+    },
+    {
+      "album": {
         "name": "Wax (Live at Sugarshack Sessions)",
         "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
       },
@@ -43094,7 +43318,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 229697,
       "name": "The Ice Rain - V2 Tamuz Funk",
       "url": "https://open.spotify.com/track/3txOFgQFAKPTIGYn9RA6Vn"

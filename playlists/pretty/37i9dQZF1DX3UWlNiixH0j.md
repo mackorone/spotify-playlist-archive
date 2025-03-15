@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Julia Takada
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,097 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,127 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 34 | [本棚](https://open.spotify.com/track/4BwcjQwQk9LrkE5JruB86P) | [D.W.ニコルズ](https://open.spotify.com/artist/2NFrTF6OpuFJZQqVIWmM8Q) | [本棚](https://open.spotify.com/album/6GWbaEa0MzZHa1rrSZeRkE) | 3:05 |
 | 35 | [Passing](https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Passing](https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu) | 2:53 |
 | 36 | [光の波間で息継ぎして \- ウ山あまね × 諭吉佳作/menRemix](https://open.spotify.com/track/2be0yGGkQ2xYAA65l3eziP) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa), [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [光の波間で息継ぎして \(ウ山あまね × 諭吉佳作/menRemix\)](https://open.spotify.com/album/6Kapvx7yI48fqkffvLf7p1) | 2:35 |
-| 37 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
+| 37 | [プラットフォーム \| platform](https://open.spotify.com/track/3Pzl2ZLXlfcdytRfXuQPFZ) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [合歓る \- walls](https://open.spotify.com/album/0tkktCcSWh0qpzrfqmR1Ye) | 5:18 |
 | 38 | [tenshi no toorimichi](https://open.spotify.com/track/4Ja2ydCwPOMACJqoyjjaSX) | [THE LOVE NINGEN](https://open.spotify.com/artist/5fJn0h6ZtPjwNZQcjCbdBI) | [Heart no core](https://open.spotify.com/album/56Hll9SDY4v9ABf28JnP2Y) | 3:07 |
-| 39 | [プラットフォーム \| platform](https://open.spotify.com/track/3Pzl2ZLXlfcdytRfXuQPFZ) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [合歓る \- walls](https://open.spotify.com/album/0tkktCcSWh0qpzrfqmR1Ye) | 5:18 |
+| 39 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
 | 40 | [浮遊](https://open.spotify.com/track/7F8cFwIIjRW5WivEfGg3QO) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [浮遊](https://open.spotify.com/album/7rA9psx346ItRjZ16jtL7y) | 2:13 |
 | 41 | [やめるなら今だ](https://open.spotify.com/track/24moPNcVQ1zpt4vCMIi7ZQ) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [やめるなら今だ](https://open.spotify.com/album/1FxYYHAFvn8HxkUJYDTeTi) | 4:21 |
 | 42 | [やめたらもう負け](https://open.spotify.com/track/0XNlMyPME5wnpggbnFORom) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [やめたらもう負け](https://open.spotify.com/album/16dA2kem4AFJWsI9JwyT5C) | 3:16 |
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 54 | [今日までそして明日から](https://open.spotify.com/track/4HdtGSxSd6KEMfDkl2v9BA) | [ひなね](https://open.spotify.com/artist/3Ou1XHVrX8isZzdRhvqaST) | [一等星のブルース](https://open.spotify.com/album/4Pk1eJfBeQGngWvIsyHjjz) | 3:00 |
 | 55 | [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 |
 | 56 | [End of the Night](https://open.spotify.com/track/28IYrf18em8JY2M4aFLmFl) | [Chim Chap](https://open.spotify.com/artist/4NRUN1TVYv8HAXY0jsCvM9) | [End of the Night](https://open.spotify.com/album/7gOH1S4XRK6ypePbCUilmh) | 4:11 |
-| 57 | [カフネ](https://open.spotify.com/track/2Xt6SqslX1L4fAYPtBtPJT) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [愛はいつもひとりきり \- EP](https://open.spotify.com/album/2JudOERiszdEJUoUquMezd) | 4:32 |
+| 57 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
 | 58 | [farmroad2](https://open.spotify.com/track/1uLUwSMcpVf29G3oG8ZQ0T) | [Tokiyo Ooto](https://open.spotify.com/artist/65fZrEvjGMFSaJ2S8s5DAk) | [farmroad2](https://open.spotify.com/album/4IIas2WY4hfuMGWDRT7fUX) | 4:39 |
-| 59 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 59 | [カフネ](https://open.spotify.com/track/2Xt6SqslX1L4fAYPtBtPJT) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [愛はいつもひとりきり \- EP](https://open.spotify.com/album/2JudOERiszdEJUoUquMezd) | 4:32 |
 | 60 | [Operetta](https://open.spotify.com/track/3wqdGRCT1NYz3h3DnLQRXZ) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn) | [Operetta EP](https://open.spotify.com/album/67reuFuilBfZMwpKKpWIZN) | 6:18 |
-| 61 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 |
+| 61 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
 | 62 | [Pitch Pop](https://open.spotify.com/track/0WyiTgEr6T7fA4bUAT8EEb) | [Tapeworms](https://open.spotify.com/artist/4g7cKubwimQPEEg9AgBMZr) | [Pitch Pop](https://open.spotify.com/album/5ILcl95yDozdFLFyYOAAHz) | 3:48 |
 | 63 | [Lover](https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [Lover](https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy) | 6:34 |
 | 64 | [SAVON](https://open.spotify.com/track/3lO2iS2GKMvsEwxvdFpFIN) | [MelloDramatico](https://open.spotify.com/artist/71dGmuigFlBI9ps4bXdQnu) | [SAVON](https://open.spotify.com/album/6dMxVw5N6PBSVdj0g57VXc) | 3:38 |
-| 65 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 65 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 |
 | 66 | [Whenever, Whatever](https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [In Your Languages](https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE) | 4:56 |
 | 67 | [Alone](https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [Alone](https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE) | 3:45 |
 | 68 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 |
 | 69 | [WANI Remix \(feat\. BANNY BUGS, Skaai\)](https://open.spotify.com/track/30deyVHXDYgUDjhnu9j6Nn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WANI EP](https://open.spotify.com/album/3EUOQSlZQxnqCMS2xVBl92) | 2:22 |
 | 70 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
 | 71 | [Karakara](https://open.spotify.com/track/04zteh0RRRlTsTp54sId8I) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Karakara](https://open.spotify.com/album/0z6RxvvDXIz33aQhLtyFcH) | 2:17 |
-| 72 | [Just Another Day](https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Just Another Day](https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl) | 2:51 |
-| 73 | [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 |
+| 72 | [Malam Suci](https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Malam Suci](https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff) | 4:19 |
+| 73 | [Just Another Day](https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Just Another Day](https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl) | 2:51 |
 | 74 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 |
-| 75 | [あいしてる](https://open.spotify.com/track/6trUP516D5vXLLBrNgyn2Y) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [あいしてる](https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4) | 5:39 |
+| 75 | [Blue Train](https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [Lemuria](https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo) | 3:44 |
 
 Snapshot ID: `Z9BfaQAAAAB3YJgXtKB/FdkfRjsB3sXb`

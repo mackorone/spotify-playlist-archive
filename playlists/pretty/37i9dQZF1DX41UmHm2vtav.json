@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 482772,
+  "num_followers": 482855,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2025-03-07 03:01:17",
+      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 186680,
       "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
       "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
-    },
-    {
-      "added_at": "2025-03-07 03:01:17",
-      "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2025-03-07 03:01:17",
@@ -435,26 +435,22 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
-        "name": "Purple Hat (Adam Sellouk & Doriann Remix)",
-        "url": "https://open.spotify.com/album/6IQ5cZ5HzasMrfmyYPCN6A"
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
         },
         {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        },
-        {
-          "name": "Doriann",
-          "url": "https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Purple Hat - Adam Sellouk & Doriann Remix",
-      "url": "https://open.spotify.com/track/22cKiNgK6V3nenOrBxRhr6"
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2025-03-07 03:01:17",
@@ -483,22 +479,26 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
+        "name": "Purple Hat (Adam Sellouk & Doriann Remix)",
+        "url": "https://open.spotify.com/album/6IQ5cZ5HzasMrfmyYPCN6A"
       },
       "artists": [
         {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Doriann",
+          "url": "https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq"
         }
       ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
+      "duration_ms": 225600,
+      "name": "Purple Hat - Adam Sellouk & Doriann Remix",
+      "url": "https://open.spotify.com/track/22cKiNgK6V3nenOrBxRhr6"
     },
     {
       "added_at": "2025-03-07 03:01:17",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2025-03-07 03:01:17",
+      "album": {
         "name": "E Depois (Que Sorte A Minha)",
         "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 220125,
       "name": "E Depois (Que Sorte A Minha)",
       "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
-    },
-    {
-      "added_at": "2025-03-07 03:01:17",
-      "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2025-03-07 03:01:17",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
+        "name": "O Cajado",
+        "url": "https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Aycond",
+          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "O Cajado",
+      "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
+    },
+    {
+      "added_at": "2025-03-07 03:01:17",
+      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 187741,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
-    },
-    {
-      "added_at": "2025-03-07 03:01:17",
-      "album": {
-        "name": "O Cajado",
-        "url": "https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Aycond",
-          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "O Cajado",
-      "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
     },
     {
       "added_at": "2025-03-07 03:01:17",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
+        "name": "Colours & Lights",
+        "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "Colours & Lights",
+      "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
+    },
+    {
+      "added_at": "2025-03-07 03:01:17",
+      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
-    },
-    {
-      "added_at": "2025-03-07 03:01:17",
-      "album": {
-        "name": "Colours & Lights",
-        "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "Colours & Lights",
-      "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
     },
     {
       "added_at": "2025-03-07 03:01:17",
@@ -1499,6 +1499,34 @@
     {
       "added_at": "2025-03-07 03:01:17",
       "album": {
+        "name": "Samba de Janeiro (Carnaval Mix)",
+        "url": "https://open.spotify.com/album/0dMAx4XTT7n3idEx0ohlm0"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        },
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "duration_ms": 144094,
+      "name": "Samba de Janeiro - Carnaval Mix",
+      "url": "https://open.spotify.com/track/3pNwxSZI5aMN0EGvXCerAc"
+    },
+    {
+      "added_at": "2025-03-07 03:01:17",
+      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1519,30 +1547,6 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
-    },
-    {
-      "added_at": "2025-03-07 03:01:17",
-      "album": {
-        "name": "Olhos Coloridos (Rap Singulares)",
-        "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "MarVixx",
-          "url": "https://open.spotify.com/artist/5h7OgMvN5PirPgx7s3qV9N"
-        },
-        {
-          "name": "Simone Malafaia",
-          "url": "https://open.spotify.com/artist/0AhL1pfsSVTA86MOvDuS7M"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Olhos Coloridos (Rap Singulares)",
-      "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
     }
   ],
   "unique_name": "Festa na Praia",

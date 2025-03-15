@@ -4,7 +4,7 @@
 
 > Uutta musiikkia HUGOlta & Sexmanelta, Evelinalta, Chappell Roanilta ja JVG:ltä.
 
-4,957 songs - 10 day 22 hr 14 min
+4,958 songs - 10 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4033,6 +4033,7 @@
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
 | [Surreal Life](https://open.spotify.com/track/1IPF9V9Z3TXghBqNivjRbh) | [Sätilä](https://open.spotify.com/artist/7C64gqcTl8N3ethokcN5KD) | [Connection](https://open.spotify.com/album/0LhxjgOnRUPclhMwHfA5RQ) | 3:48 | 2024-06-27 | 2024-07-05 |
 | [Suru teki taas kodin sun sisään](https://open.spotify.com/track/4AneHJl1W8rz50YC4BUjbB) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Suru teki taas kodin sun sisään](https://open.spotify.com/album/4DMXyY7zWkK2odiCoxFmeS) | 2:52 | 2024-11-28 | 2024-12-06 |
+| [Surulliset laulut \(Karhupuisto\)](https://open.spotify.com/track/1MxU3sn0OZKUggbNg6HZH4) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Surulliset laulut \(Karhupuisto\)](https://open.spotify.com/album/1TrgLVyH6J69Ne3S4vm0w5) | 2:55 | 2025-03-14 |  |
 | [Surutuuli](https://open.spotify.com/track/29PQiQvlMX5cgK3EavJRYw) | [Johanna Iivanainen](https://open.spotify.com/artist/6JLhQyUs3ACecvseS1YaK3), [Mikko Iivanainen](https://open.spotify.com/artist/6UibpPVpf8NqFsgNKXbcHL) | [Surutuuli](https://open.spotify.com/album/3lxV4mreRcfMn0ZtuFDLvY) | 3:33 | 2025-01-30 | 2025-02-07 |
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-05-30 | 2024-06-07 |
 | [Susirajalla](https://open.spotify.com/track/7Iz3KbHERnVmWmClLIU9kU) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/7FgkdH84TLye1KvbQyjTJo) | 4:18 | 2024-06-06 | 2024-06-14 |

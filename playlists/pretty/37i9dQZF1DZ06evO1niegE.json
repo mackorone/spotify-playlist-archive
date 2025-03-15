@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8143,
+  "num_followers": 8148,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAWqs5MMfV3QTBeSao+usSx",
+  "snapshot_id": "Z9IgAAAAAAACKDkYN9ni0G0dsLo84pWY",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockea Bien Duro",
-        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "A\u00fan Hay Algo",
-      "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 176000,
       "name": "VHS",
       "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockea Bien Duro",
+        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "A\u00fan Hay Algo",
+      "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
     },
     {
       "added_at": null,

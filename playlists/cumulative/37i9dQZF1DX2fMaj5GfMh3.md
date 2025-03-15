@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Chappell Roan
 
-887 songs - 1 day 21 hr 7 min
+888 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Shy Boy](https://open.spotify.com/track/2diHObxEyYlftJ2pPIB3eG) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 3:29 | 2023-08-10 | 2023-09-21 |
 | [Shy Boy](https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Shy Boy](https://open.spotify.com/album/5SfL9du7O2pG1q14UsegkA) | 3:29 | 2023-06-22 | 2023-08-14 |
 | [Silence Me \(To Death\)](https://open.spotify.com/track/15f6dnQCldwEyP9cHZnVnJ) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Silence Me \(To Death\)](https://open.spotify.com/album/7FKxWyMczQQVF1bs9tIrd0) | 2:20 | 2023-08-25 | 2023-11-17 |
+| [Silverline \(lean on me\)](https://open.spotify.com/track/2j7ex6Rt50bJJw2ei7KOO1) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2), [Anna Winkin](https://open.spotify.com/artist/19wbJkKeRqpnf1ibyz1tVI) | [Silverline \(lean on me\)](https://open.spotify.com/album/6oUIMVSaRi6UycUXpDA3oj) | 3:04 | 2025-03-13 |  |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-10-03 | 2024-11-15 |
 | [Sinatra](https://open.spotify.com/track/4J5TEKLKS3hXWlPv0HDe5n) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Sinatra](https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL) | 3:14 | 2025-02-13 |  |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 | 2023-12-08 |

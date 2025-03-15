@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/0sPH0TbOls2beJIup89VMG"
+      },
+      "artists": [
+        {
+          "name": "Sine Hats",
+          "url": "https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124135,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7JsIXtcklPHb2og8t7aj3E"
+    },
+    {
+      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/4VTTfTngOcdfVVnlCDhY6f"
       },

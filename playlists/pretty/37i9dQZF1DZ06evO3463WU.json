@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 151770,
+  "num_followers": 151803,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAzQfPNAnBUq1TDKlb3I0yu",
+  "snapshot_id": "Z9IgAAAAAAAoKKUIw4+i+xnNuIzSiFPR",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cien Por Ciento Sincero",
         "url": "https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pero La Recuerdo",
-        "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
       },
       "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 225653,
-      "name": "Pero La Recuerdo",
-      "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 179520,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pero La Recuerdo",
+        "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "Pero La Recuerdo",
+      "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
     },
     {
       "added_at": null,

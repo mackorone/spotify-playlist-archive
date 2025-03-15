@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lagum
 
-793 songs - 1 day 15 hr 35 min
+795 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 | 2023-11-06 | 2024-05-18 |
 | [Até Me Perder](https://open.spotify.com/track/3a7zehPFF57tDwSO47BYQ4) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh), [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Imago Mundi](https://open.spotify.com/album/27XSp4YrzfU3x57kxGpcQI) | 3:24 | 2025-02-07 |  |
 | [Até o Topo do Mundo](https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:45 | 2024-08-02 | 2024-09-21 |
-| [Até Que Eu Gostei](https://open.spotify.com/track/6cH27jbd3Dy3HlTAlfIeKV) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Até Que Eu Gostei](https://open.spotify.com/album/1V3wO2cbHUDQf0dCgzaCWI) | 2:10 | 2025-01-24 |  |
+| [Até Que Eu Gostei](https://open.spotify.com/track/6cH27jbd3Dy3HlTAlfIeKV) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Até Que Eu Gostei](https://open.spotify.com/album/1V3wO2cbHUDQf0dCgzaCWI) | 2:10 | 2025-01-24 | 2025-03-15 |
 | [Autoescola](https://open.spotify.com/track/38RdJm43LRcoWuGCnccbjy) | [DFONNSO](https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Autoescola](https://open.spotify.com/album/1tNR1h6w1J8fHcjQRjZvSS) | 2:33 | 2022-05-13 | 2022-06-04 |
 | [Azul](https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Azul](https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu) | 3:27 | 2024-03-08 | 2024-07-06 |
 | [Azul \- Ao Vivo](https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Melly No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK) | 3:03 | 2023-01-27 | 2023-02-04 |
@@ -139,7 +139,7 @@
 | [Ceará](https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Ceará](https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx) | 2:12 | 2023-07-28 | 2024-07-06 |
 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 | 2022-06-14 | 2022-07-02 |
 | [cedo pra dizer](https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [cedo pra dizer](https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR) | 3:06 | 2023-02-03 | 2023-08-05 |
-| [Chega Pra Cá](https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Sigo de Volta](https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav) | 2:59 | 2024-11-15 |  |
+| [Chega Pra Cá](https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Sigo de Volta](https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav) | 2:59 | 2024-11-15 | 2025-03-15 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-01 | 2023-09-27 |
 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-01 | 2023-09-08 |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-04-13 |
@@ -577,6 +577,7 @@
 | [Que Fase](https://open.spotify.com/track/5pANifhuNQKbBK7KNvJ509) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/2IIbtH3HSK9ZySaSApVyZR) | 2:14 | 2022-07-01 | 2022-08-02 |
 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 | 2023-10-06 | 2024-09-29 |
 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 | 2023-08-22 | 2024-05-07 |
+| [Que Seja de Alegria](https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Que Seja de Alegria](https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma) | 2:54 | 2025-03-14 |  |
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-08-17 |
 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 | 2024-11-22 | 2024-12-24 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 |  |
@@ -643,6 +644,7 @@
 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 | 2024-12-13 | 2025-02-22 |
 | [Sintomas de Saudade](https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Sintomas de Saudade](https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt) | 3:14 | 2023-10-27 | 2024-05-18 |
 | [Sobre mim \(talvez\) sobre você \- Acústico](https://open.spotify.com/track/7ue4EOA2MHousF3b3RxDFE) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Sobre mim \(talvez\) sobre você](https://open.spotify.com/album/6l5JLJLY1tTGwzNUYu77IZ) | 2:46 | 2022-05-13 | 2022-06-15 |
+| [sofrer por você](https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [sofrer por você](https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i) | 2:54 | 2025-03-14 |  |
 | [SOL DE ABRIL](https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [P.A](https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV) | 2:31 | 2024-11-08 | 2025-02-22 |
 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 | 2024-06-14 |  |
 | [Solar](https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Solar](https://open.spotify.com/album/05ZhiHl1TZIpishuIxN8HK) | 2:50 | 2022-06-03 | 2022-07-02 |

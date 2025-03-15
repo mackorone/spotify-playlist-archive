@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Key Glock
 
-1,098 songs - 2 day 7 hr 38 min
+1,099 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-03-16 | 2023-04-21 |
 | [GOLD](https://open.spotify.com/track/1aRK7uJ0nfAvf1JJOfxCYm) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [GOLD](https://open.spotify.com/album/5CDTXUjAbPSpilcIrELCB2) | 3:20 | 2024-11-07 | 2025-02-14 |
 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 | 2024-07-25 | 2024-08-24 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-07 | 2024-11-30 |
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-19 |  |
 | [Got It All](https://open.spotify.com/track/0LBF4FXw7C35fcZhnvlayW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/5GJenZiYogiWEcpzSWu0Vp) | 2:31 | 2024-02-08 | 2024-05-08 |
@@ -1023,7 +1024,7 @@
 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 | 2024-03-15 | 2024-04-12 |
 | [Uneasy \(feat\. Lil Wayne\)](https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:21 | 2023-08-17 | 2023-11-11 |
 | [Until I’m Gone](https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Let Us Pray: Chapter X](https://open.spotify.com/album/4Uwc1AZZlUPPjq5tifmpug) | 4:01 | 2024-12-12 | 2025-01-31 |
-| [UNTITLED](https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTITLED](https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va) | 3:40 | 2024-12-26 |  |
+| [UNTITLED](https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTITLED](https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va) | 3:40 | 2024-12-26 | 2025-03-15 |
 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-03-28 | 2024-06-07 |
 | [Van Cleef Island](https://open.spotify.com/track/6XpOsw4d970xooR27nqHiJ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Saint Michael](https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw) | 2:31 | 2023-11-09 | 2024-01-13 |
 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 | 2024-02-15 | 2024-05-24 |

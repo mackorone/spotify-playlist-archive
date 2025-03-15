@@ -4,7 +4,7 @@
 
 > Éxitos del trap latino con Paulo Londra.
 
-516 songs - 1 day 4 hr 58 min
+517 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Oro](https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu) | [Dehilan](https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Oro](https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty) | 5:20 | 2023-06-16 | 2023-10-04 |
 | [ORO MACIZO](https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ORO MACIZO](https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr) | 2:41 | 2024-06-07 | 2024-09-28 |
 | [Otro De Esos Días](https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Otro De Esos Días](https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4) | 3:13 | 2022-08-19 | 2022-12-10 |
+| [OTRO SISTEMA](https://open.spotify.com/track/6Z3FEo2Q2rF6CwWXl3iCAJ) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [OTRO SISTEMA](https://open.spotify.com/album/3CXBq0m4ywCu5JS5I9vlL0) | 2:24 | 2025-03-14 |  |
 | [Pa' Cualquiera \(Remix\)](https://open.spotify.com/track/0QGhBcj9YjBcUDUhQN31cF) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Pa' Cualquiera \(Remix\)](https://open.spotify.com/album/0HzhMvehxo0CGoVAl3oDXM) | 4:00 | 2021-12-06 | 2022-03-26 |
 | [Pa' ganá](https://open.spotify.com/track/5gJ3lOJPUrbX5MsQxUAgaK) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Pa' ganá](https://open.spotify.com/album/01pnaYwlDIVi7EEyxX1Jm3) | 3:06 | 2023-03-31 | 2023-08-05 |
 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 | 2024-11-29 |  |

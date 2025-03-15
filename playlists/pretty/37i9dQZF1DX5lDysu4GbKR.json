@@ -1,13 +1,29 @@
 {
-  "description": "Stripped back vibes. Cover: Nao",
+  "description": "Stripped back vibes. Cover: Alex Isley",
   "num_followers": 609791,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gnMAAAAACP5YLswssm3jv15eoASDbE",
+  "snapshot_id": "Z9PI6gAAAADLTjIDlP7lsJMJJoyaZjck",
   "tracks": [
+    {
+      "added_at": "2025-03-14 06:12:58",
+      "album": {
+        "name": "Hands (Stripped Down)",
+        "url": "https://open.spotify.com/album/3tyjzGvJeVzlOG5ZbJx6cL"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 205705,
+      "name": "Hands - Stripped Down",
+      "url": "https://open.spotify.com/track/2Uh7QNCwZ4AmasA7LoYAML"
+    },
     {
       "added_at": "2025-02-21 07:11:44",
       "album": {

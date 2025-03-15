@@ -2413,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+    },
+    {
+      "album": {
         "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
       },
@@ -4034,6 +4052,24 @@
       "duration_ms": 150491,
       "name": "No Handoutz (feat. Yeat)",
       "url": "https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH"
+    },
+    {
+      "album": {
+        "name": "No Sweat",
+        "url": "https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155754,
+      "name": "No Sweat",
+      "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
     },
     {
       "album": {

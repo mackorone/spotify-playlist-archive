@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ghost.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token.
 
-933 songs - 2 day 10 hr 28 min
+939 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Desert Carnage](https://open.spotify.com/track/09ndVy44UKGyXHe5c0NjEQ) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Desert Carnage](https://open.spotify.com/album/4oLWb1iJuQx5qPRWmn5rQ6) | 3:59 | 2023-09-22 | 2024-02-03 |
 | [Desire](https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Desire](https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj) | 5:01 | 2022-04-22 | 2023-07-15 |
 | [Desolation's Flower](https://open.spotify.com/track/7gX1NBorrOZqpLYBlRIW3F) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/3AmTVBNLadBMNE4OlVro6S) | 8:29 | 2023-08-04 | 2024-02-03 |
+| [Devil Left Me On Read](https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Devil Left Me On Read](https://open.spotify.com/album/4CxKGc6sptru8aY1MVshGg) | 2:38 | 2025-03-14 |  |
 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 | 2022-01-07 | 2023-07-15 |
 | [Diablito](https://open.spotify.com/track/7svucHt4ksp8mEojgXR6Vi) | [Will Haven](https://open.spotify.com/artist/6oHhpIAHJlyqi70DdfWeJX) | [Diablito](https://open.spotify.com/album/781QPxep3hunbFWM1pfR4e) | 3:29 | 2023-06-09 | 2024-02-03 |
 | [Dimensional Bleed](https://open.spotify.com/track/5n53nDdWK0IYXmqfsSG8nS) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1x4xTsdwHVjMmUE5J9fipk) | 2:39 | 2022-07-15 | 2023-07-15 |
@@ -245,6 +246,7 @@
 | [El Camino Car Crash](https://open.spotify.com/track/6D7OXwvAH5dMBIlQo933Ui) | [Deaf Club](https://open.spotify.com/artist/1GHsH4VNAKT2b7lBnppmFx) | [El Camino Car Crash](https://open.spotify.com/album/0XLyF4iYImRVm5klB2rwPC) | 1:40 | 2024-12-13 |  |
 | [Elements Of Sin](https://open.spotify.com/track/5xfAlFJ33JakfGDeM4UyNe) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Elements Of Sin](https://open.spotify.com/album/5YT581a2QIS1aPmI6ploqW) | 3:47 | 2023-09-29 | 2024-02-03 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-24 |  |
+| [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-14 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-12 | 2024-02-03 |
 | [Encased In Crystalline](https://open.spotify.com/track/7Hj2Nzojz0mTMKjzaNQh0y) | [A Mourning Star](https://open.spotify.com/artist/6liRUYkXvRcAJPlSrmGftP) | [Encased In Crystalline](https://open.spotify.com/album/46TMR31huoshkMzZKEN4Sg) | 2:44 | 2023-08-11 | 2024-02-03 |
 | [ENDLESS](https://open.spotify.com/track/4Hl1JJxdzEjhvXi3L3SFE8) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [ENDLESS](https://open.spotify.com/album/7aByOZkdJqsGvIplvnNrq1) | 4:23 | 2024-06-18 |  |
@@ -408,6 +410,7 @@
 | [Instill](https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Instill](https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt) | 4:41 | 2023-06-09 | 2024-02-03 |
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 | 2024-02-03 |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-07-15 |
+| [Into The Suffer](https://open.spotify.com/track/5UlTbTL3VLHmIaHipuXF0X) | [Melting](https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF) | [Into The Suffer](https://open.spotify.com/album/0REm2wCgnfI2FqZ24RBkMS) | 3:19 | 2025-03-14 |  |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 | 2024-02-03 |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
 | [It's All Over \(For You\)](https://open.spotify.com/track/33ybzOrdCkudB1fGloubQ8) | [Neon Nightmare](https://open.spotify.com/artist/0lMcJVE9KZzlfnomZIC7HF) | [Faded Dream](https://open.spotify.com/album/6Ab6OuwGKo4KazGhv7vmWR) | 5:38 | 2024-11-01 |  |
@@ -465,6 +468,7 @@
 | [Man Without Fear](https://open.spotify.com/track/6F5ludZs5W93BB4JBsGIPQ) | [bulletsbetweentongues](https://open.spotify.com/artist/0EWT2MtvWeCf1yvvLf2EeG) | [Man Without Fear](https://open.spotify.com/album/6ZAUIdWYngfvh3qLWXv1wy) | 3:34 | 2024-01-19 |  |
 | [Mandatory Malevolence](https://open.spotify.com/track/7JzHzguxd5yaK66LX17dol) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Mandatory Malevolence](https://open.spotify.com/album/6YxRaWPGIa2CNk6TgLDh3K) | 4:04 | 2022-06-03 | 2023-07-15 |
 | [Many Opps Terminated](https://open.spotify.com/track/4IGmkTpW8b2WJreZPXI4OP) | [Moment of Truth](https://open.spotify.com/artist/7m1PAkhUGJqjCmJbZS8uHv) | [M.O.T\. Promo 2024](https://open.spotify.com/album/3WZaa8PS31cw3P20rqMCKS) | 2:30 | 2024-01-26 |  |
+| [Marathon](https://open.spotify.com/track/0XJFH48sUsztR2ke1xbMlV) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Marathon](https://open.spotify.com/album/4ykex0OfWMkK5oSaKcWBSm) | 3:09 | 2025-03-14 |  |
 | [Mark of the Beast](https://open.spotify.com/track/2H7S1nfwOMiorqcxIngVdx) | [Jarhead Fertilizer](https://open.spotify.com/artist/58NoEzpin3N6OEtvVZwOtj) | [Mark of the Beast](https://open.spotify.com/album/5HxfVHLTw5GbJ6sPxxEITk) | 3:11 | 2023-12-01 | 2024-02-03 |
 | [Martyr](https://open.spotify.com/track/2wtCQ4hMGsPQrQ45Kq98qJ) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:36 | 2024-08-16 |  |
 | [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 | 2024-08-23 |  |
@@ -587,6 +591,7 @@
 | [Poison Flowers](https://open.spotify.com/track/11O2WpROGfGmVrvIjVWzjV) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Poison Flowers](https://open.spotify.com/album/52l1ZY3fbJ6SlIgDcyrnT6) | 5:32 | 2022-03-04 | 2023-07-15 |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-07-05 |  |
 | [Pray](https://open.spotify.com/track/4weKyrqLqUmsCST8e6g4ww) | [Vosh](https://open.spotify.com/artist/0bh5RSxIUP58Gvd5nLaCPs) | [Pray](https://open.spotify.com/album/1RjQFy4E02oX3RBq8oSFet) | 3:01 | 2023-02-03 | 2024-02-03 |
+| [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-03-14 |  |
 | [Predatory Savior](https://open.spotify.com/track/7sXYOblxpZmMfWOji020Q5) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Predatory Savior](https://open.spotify.com/album/6nswezZB2rXRS1aGz5Phnh) | 2:58 | 2022-06-17 | 2023-07-15 |
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 | 2023-07-15 |
 | [Pressure Cooker](https://open.spotify.com/track/07w72qT4WkRcJ3uTvBRoD2) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Pressure Cooker](https://open.spotify.com/album/02y74a73M3k5WchfJRIi26) | 2:50 | 2022-03-18 | 2023-07-15 |
@@ -737,6 +742,7 @@
 | [Survival Is Vengeance](https://open.spotify.com/track/5p61JWK78nkyZO9JLUhhDf) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Survival Is Vengeance](https://open.spotify.com/album/6N1U0MdbQfOx98lWV3Xjgh) | 1:45 | 2022-07-22 | 2023-07-15 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-07-15 |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 | 2023-07-15 |
+| [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-14 |  |
 | [Symptoms of Survival](https://open.spotify.com/track/5PkH7Lk5kzdPANVtXbJCzE) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Symptoms of Survival](https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le) | 3:31 | 2023-11-03 | 2024-02-03 |
 | [SYNDICATE](https://open.spotify.com/track/4kVfdUnLtghRoSGLe9iTmB) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [SYNDICATE](https://open.spotify.com/album/6RZKpDh8JWuq1vKtltxgs0) | 2:29 | 2024-05-10 |  |
 | [Tail Wags Dog](https://open.spotify.com/track/6tfhn8hVVb9XC4O8Sz07MD) | [Rabbit](https://open.spotify.com/artist/1Lblv1KOAqW5tnh00cscWy) | [BARDO](https://open.spotify.com/album/7qtzAcIhb1cAN497UF6DY7) | 2:35 | 2023-07-28 | 2024-02-03 |

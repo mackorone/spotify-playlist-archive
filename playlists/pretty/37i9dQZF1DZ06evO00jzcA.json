@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 472351,
+  "num_followers": 472408,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADH5UDEw7g0nS/2jUnMKW/7",
+  "snapshot_id": "Z9IgAAAAAABvbzsm4Jz7pANuE895w8RO",
   "tracks": [
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 202266,
-      "name": "100,000 Years",
-      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+      "duration_ms": 198466,
+      "name": "Turn On The Night",
+      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Turn On The Night",
-      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
+      "duration_ms": 202266,
+      "name": "100,000 Years",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
       "duration_ms": 274573,
       "name": "All Hell's Breakin' Loose",
       "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 242293,
       "name": "Who Wants To Be Lonely",
       "url": "https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
     },
     {
       "added_at": null,

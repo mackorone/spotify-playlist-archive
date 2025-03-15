@@ -2,9 +2,9 @@
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック  Chappell Roan, Lizzo, Lil Nas X, Calvin Harris, and more!
+> 洋楽を中心に今週の新曲をチェック  Chappell Roan, Playboi Carti, Lizzo, Lil Nas X, Calvin Harris, and more!
 
-8,787 songs - 20 day 11 hr 15 min
+8,790 songs - 20 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,6 +984,7 @@
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Bored](https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 2:55 | 2024-02-16 | 2024-02-23 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-06 | 2025-02-14 |
+| [Born Fire](https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:16 | 2025-03-14 |  |
 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 | 2023-09-14 | 2023-09-22 |
 | [Born Leader](https://open.spotify.com/track/6tgW4WT1IUnKKbUATVcZfm) | [Stig da Artist](https://open.spotify.com/artist/7sEmKnf9Wp6NPOpMniFYpD), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Davido](https://open.spotify.com/artist/1ALSdJg7rTlST5DIOjDO8b) | [Born Leader](https://open.spotify.com/album/6K8Gng28hRABEDohP2TkRw) | 4:07 | 2023-04-20 | 2023-04-28 |
 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 | 2024-10-03 | 2024-10-11 |
@@ -2787,6 +2788,7 @@
 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 | 2024-06-21 | 2024-06-28 |
 | [Good Bye](https://open.spotify.com/track/1rpiNePakpelGxsKFzNVBP) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Good Bye](https://open.spotify.com/album/6qdTJTp6Lya9Aias2YnPpG) | 4:10 | 2023-06-08 | 2023-06-16 |
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-29 | 2023-02-03 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-12 | 2024-07-19 |
 | [Good Day feat\. Max Jenmana](https://open.spotify.com/track/0RA6TYjEqbBfOuxs8UeW7G) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx) | [Good Day feat\. Max Jenmana](https://open.spotify.com/album/68SQJeCkwI0tGKfiDXRKB3) | 3:06 | 2024-12-12 | 2024-12-20 |
 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 | 2023-03-31 | 2023-04-07 |
@@ -4838,6 +4840,7 @@
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Never Letting Go](https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Never Letting Go \(feat\. Julia Church\)](https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9) | 2:02 | 2024-10-10 | 2024-10-18 |
 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 | 2024-03-14 | 2024-03-22 |
+| [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-14 |  |
 | [Never miss](https://open.spotify.com/track/1tzpJoZoI3FIo4kuVcDPR3) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py) | [Never miss](https://open.spotify.com/album/2shsmraH5ZQ1Rb7EhQkTYs) | 3:41 | 2024-12-19 | 2024-12-27 |
 | [Never Not](https://open.spotify.com/track/3puLrG1rPAjC9SmTaJyaA2) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Never Not](https://open.spotify.com/album/6smxm51Ys22ULtICU8Oth8) | 3:01 | 2023-05-25 | 2023-06-02 |
 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 | 2024-10-03 | 2024-10-11 |

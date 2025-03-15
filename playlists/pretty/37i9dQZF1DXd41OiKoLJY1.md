@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: hannah Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,729 likes - 126 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,764 likes - 126 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 6 | [Kung Alam Mo Lang](https://open.spotify.com/track/32a03rKHEQ2KRULdrQ3e39) | [Soy](https://open.spotify.com/artist/5yx0yIITSCGPXfk01piLHr), [OLUV](https://open.spotify.com/artist/2VI6rqipzrNh4heDfDCO7C), [Klow](https://open.spotify.com/artist/7bDdxAA8Dy0CZ1WyDDInJE) | [Kung Alam Mo Lang](https://open.spotify.com/album/6YLbUJWQWPoEwBInDro61c) | 3:40 |
 | 7 | [Sarili](https://open.spotify.com/track/4oYQ7p3V7vVeGTp923Iubb) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [Sarili](https://open.spotify.com/album/5hqvf8sZmj2Vsbes1ScCqg) | 4:31 |
 | 8 | [Wala Na Bang Pag\-Ibig](https://open.spotify.com/track/41ctiRPr6BZnZF1noPHimB) | [Nyx Nasal](https://open.spotify.com/artist/0brNUm2buprvbW4nuo9FwV) | [Wala Na Bang Pag\-Ibig](https://open.spotify.com/album/54nv5S60r2dH7txwFVuNhR) | 3:46 |
-| 9 | [Sa Mundong Malamig](https://open.spotify.com/track/17sdtENqySqMPgaMbvwXDn) | [JAVES](https://open.spotify.com/artist/7Cmszjpa8qNjTsYt9hlUUM) | [Sa Mundong Malamig](https://open.spotify.com/album/1gSLVyixIJoJFhonhH7JXh) | 3:34 |
+| 9 | [Sa Mundong Malamig](https://open.spotify.com/track/17sdtENqySqMPgaMbvwXDn) | [JAVES](https://open.spotify.com/artist/7n7LVXQA36C8xXlqce8nx7) | [Sa Mundong Malamig](https://open.spotify.com/album/1gSLVyixIJoJFhonhH7JXh) | 3:34 |
 | 10 | [SISIG + RICE](https://open.spotify.com/track/67zTF5t87DmLG2PS52QF3N) | [grd mln](https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY) | [SISIG + RICE](https://open.spotify.com/album/6BkyCCOJwlmb7C6x7qyrBD) | 1:39 |
 | 11 | [brand new](https://open.spotify.com/track/6TB7WE7rOnposS3q2UT1cg) | [deyo](https://open.spotify.com/artist/5bF9hgr4Q88TwENK5D32Vq), [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK) | [brand new](https://open.spotify.com/album/1K7ubdIBgj0BxPJexy6iwt) | 3:12 |
 | 12 | [Tanong Pt\. 2](https://open.spotify.com/track/5lSSthqEtaVC3ZVGYvpSMs) | [Carish](https://open.spotify.com/artist/3OeiqjQLg0Nnm1xLVpmydn) | [Tanong Pt\. 2](https://open.spotify.com/album/4xdZtfvNtL3nWkZMO8QAxL) | 4:33 |

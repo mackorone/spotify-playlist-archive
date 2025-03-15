@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Yanga Chief, Gigi Lamayne, Riky Rick and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,184 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,188 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 64 | [Year 24](https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Year 24](https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3) | 3:16 |
 | 65 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 |
 
-Snapshot ID: `Z9N05gAAAACORFoiUC/up4IAN/SZFNu4`
+Snapshot ID: `Z9PjUgAAAABe3pAzYjRejqBashlEchPc`

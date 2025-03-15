@@ -4,7 +4,7 @@
 
 > Helena au top des nouveautés de la semaine !
 
-3,873 songs - 8 day 9 hr 36 min
+3,874 songs - 8 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-02-07 | 2025-02-14 |
 | [En tas](https://open.spotify.com/track/311ssPqcNd2wVwT1tj6QsE) | [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [En tas](https://open.spotify.com/album/4kH0PIZSyDbUC4Iyj5ZcoT) | 2:34 | 2024-04-25 | 2024-05-03 |
 | [En vrai](https://open.spotify.com/track/2aAYsxF5yduOVldQzknCpO) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [En vrai](https://open.spotify.com/album/6dmXR1JeDIw2M1unYt7fQZ) | 4:22 | 2024-10-31 | 2024-11-08 |
+| [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 | 2025-03-14 |  |
 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 | 2024-09-26 | 2024-10-04 |
 | [Encore](https://open.spotify.com/track/0kEJMP9Dtn4BV6oBQt2STI) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [ENCORE](https://open.spotify.com/album/1EK3ArOlQEaQCqBOlx59V0) | 1:57 | 2025-03-13 |  |
 | [Encore](https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [adrénaline](https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4) | 4:02 | 2024-05-30 | 2024-06-07 |
@@ -3501,7 +3502,7 @@
 | [Torii](https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Torii](https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx) | 3:36 | 2024-05-30 | 2024-06-07 |
 | [Tornado Boy](https://open.spotify.com/track/7d619CJNlAhf7JBfFRgYKb) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Tornado Boy](https://open.spotify.com/album/2VuPHy3jdZYR3D1w2GMx1D) | 3:34 | 2025-01-02 | 2025-01-10 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-09 | 2024-05-17 |
-| [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 | 2025-03-13 |  |
+| [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 | 2025-03-13 |  |
 | [Tortuga](https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Tortuga](https://open.spotify.com/album/11dazu57AoABvNCgktwEoP) | 2:45 | 2024-07-11 | 2024-07-19 |
 | [TOTALLY SPIES](https://open.spotify.com/track/7bSOOhJ6Sv8D4U67DTw0Kv) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [TOTALLY SPIES](https://open.spotify.com/album/01tJ9lE3uoOI0nN7jkl29L) | 2:37 | 2024-07-25 | 2024-08-02 |
 | [Totopika](https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 2:19 | 2025-02-13 | 2025-02-21 |

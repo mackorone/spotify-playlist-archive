@@ -2,9 +2,9 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Jelly Roll and Brandon Lake
+> The country way of testifying.
 
-268 songs - 16 hr 21 min
+270 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Back Pew](https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 | 2024-05-10 |  |
 | [Back To Jesus](https://open.spotify.com/track/3W9LnzNx3RPgIJqUrbFHVM) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Back To Jesus](https://open.spotify.com/album/65QXI5NEq8bjTjzbdET0gK) | 3:14 | 2023-06-23 |  |
 | [Back to You](https://open.spotify.com/track/5k9omCR4ATUBmm2ZYtuXlh) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Back to You](https://open.spotify.com/album/3yQurpLao3IeGaFAeNwFSL) | 3:50 | 2024-05-13 |  |
+| [Bar Named Jesus \(ft\. Thomas Rhett\)](https://open.spotify.com/track/2aJCCSHjZOSCC3ySOWPgto) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Bar Named Jesus \(ft\. Thomas Rhett\)](https://open.spotify.com/album/5BqGAm8Cn3GTv2n6QdKKSl) | 2:55 | 2025-03-14 |  |
 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 | 2021-12-10 |  |
 | [Beat Up Bible](https://open.spotify.com/track/5R7TAOPx2H0ImjCkdb4PXR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:35 | 2021-12-10 |  |
 | [Because He Lives](https://open.spotify.com/track/4dvtl2lwkAvRF58oDzHCjZ) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Because He Lives](https://open.spotify.com/album/5le9OqZy28NXnXNlpalXJ4) | 4:13 | 2023-12-15 |  |
@@ -144,6 +145,7 @@
 | [Just A Little Talk With Jesus](https://open.spotify.com/track/0MkNMxOegU2NmXqRfnlRvi) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Just A Little Talk With Jesus](https://open.spotify.com/album/0TQSFgv6jCpA3PKVdOdnuE) | 2:55 | 2023-07-14 |  |
 | [Last Page of The Bible \(feat\. Anne Wilson\)](https://open.spotify.com/track/0GY7zDv4ny3kDY8mtbkNEM) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Last Page of The Bible](https://open.spotify.com/album/3HC1pc0lS8duludyrFFTbu) | 3:11 | 2024-09-06 |  |
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
+| [Let Him In Anyway](https://open.spotify.com/track/0Inv68QN5D9ir2Z2vYAMY1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Let Him In Anyway](https://open.spotify.com/album/0GwqVaf3VTFjDdq8bIw0lv) | 3:17 | 2025-03-14 |  |
 | [Let My Heart Be Moved](https://open.spotify.com/track/2pESp2B7x0b0sAIJGoxZS9) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Brett Taylor](https://open.spotify.com/artist/1qw1LjONRwzcP0oFHuuPJy) | [November Songs](https://open.spotify.com/album/1GRwT3QAIDEAmAUwmpv1TG) | 3:44 | 2022-10-07 |  |
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |
 | [Like The Father Loves His Son](https://open.spotify.com/track/3dyVOChV1GFrJE3MEVcipH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Like The Father Loves His Son](https://open.spotify.com/album/74ddOaszG42h8A1I83efzu) | 4:37 | 2023-08-18 |  |

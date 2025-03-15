@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Kunto Aji, Armand Maulana
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,738 likes - 64 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,796 likes - 64 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 47 | [Sakura Abadi](https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Sakura Abadi](https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB) | 6:45 |
 | 48 | [Waking Up Together With You \- Live](https://open.spotify.com/track/6J6mlw6HcctswDHkz1hq6r) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip \(Live\)](https://open.spotify.com/album/1Z5jq2dspoyfjtzq1Dm5x0) | 3:36 |
 | 49 | [Apa Itu Konsep Bahagia?](https://open.spotify.com/track/2lJW88pg9jJSCjlhC7DCF7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Apa Itu Konsep Bahagia?](https://open.spotify.com/album/7fZz26PcaW4LcELEPPnxpM) | 3:36 |
-| 50 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
+| 50 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \(From "Tabayyun"\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
 | 51 | [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 |
 | 52 | [Iya Lagi](https://open.spotify.com/track/2Mi1SY9Meu5kOBUbO8q3bk) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Iya Lagi](https://open.spotify.com/album/7s4N4WQgAh6XriikwXlJg1) | 3:01 |
 | 53 | [Semoga Sembuh \(Dinyanyikan di Atas Awan\)](https://open.spotify.com/track/5s4kPcLfaqchd4N48cMtiH) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh \(Dinyanyikan di Atas Awan\)](https://open.spotify.com/album/2hwqGp0ORcEYpCVWaQeVxr) | 4:03 |

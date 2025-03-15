@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: JENNIE\(제니\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-550 songs - 1 day 5 hr 37 min
+552 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,10 @@
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2021-12-20 | 2022-07-29 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 |  |
-| [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-20 |  |
+| [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-20 | 2025-03-15 |
 | [After We Ride](https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [After ‘We Ride’](https://open.spotify.com/album/2W8nXNoRaD7zm1IljosJAa) | 3:22 | 2021-12-20 | 2022-07-28 |
 | [Ah puh](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:20 | 2021-12-20 | 2022-12-02 |
+| [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 | 2025-03-14 |  |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2021-12-20 |  |
 | [ALIVE](https://open.spotify.com/track/4zzzZIHr6AHXsivUku2WwU) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [ALIVE](https://open.spotify.com/album/24lTLXt5W0ZVtsqJhAfUPZ) | 3:28 | 2021-12-20 | 2022-07-29 |
 | [ALIVE](https://open.spotify.com/track/5maLccpDyplx47e5qwO5c3) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Alive Part.2 \- Im Yun Taek](https://open.spotify.com/album/24S8Rd9c3bYWoVju544nbP) | 3:27 | 2022-03-03 | 2022-07-29 |
@@ -142,7 +143,7 @@
 | [EMPIRE \- DJ SODA Remix](https://open.spotify.com/track/16xaH0SITy9R8nOT13pg6J) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [EMPIRE REMIXES](https://open.spotify.com/album/2faf1Ybp0M3FniNBhjD9VH) | 2:45 | 2022-02-23 | 2022-04-29 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-21 | 2025-03-01 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-31 | 2023-04-11 |
-| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-07 |  |
+| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-07 | 2025-03-15 |
 | [EVERYDAY \(REMIX\)](https://open.spotify.com/track/7hGOGkxcAojrklrol5kkU0) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 3:20 | 2022-03-22 | 2022-04-11 |
 | [Everywhere \(feat\. Sojung\)](https://open.spotify.com/track/6ZXE8tjsYMewC160pFbs6s) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [Sojung](https://open.spotify.com/artist/2H8ECVLR3q013YhJezQ1o7) | [Everywhere](https://open.spotify.com/album/2Sy2nTlBd6b89z1OqbUYRy) | 3:36 | 2022-07-19 | 2022-07-28 |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-03-11 |  |
@@ -205,6 +206,7 @@
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-08-19 |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-26 |  |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-20 | 2022-07-20 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-20 | 2024-11-22 |
 | [How Can I Do](https://open.spotify.com/track/2YQQqmo7gqJXi5TAO5Jq0r) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [Jinho](https://open.spotify.com/artist/181zIaSqvjAgUXxn7DkM3e), [Wooseok](https://open.spotify.com/artist/23lipZqoHp4iu9gg27QfdB) | [Welcome To Waikiki 2 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0IIXaHrTZWWDqMTZiZni5q) | 3:22 | 2022-03-08 | 2022-04-11 |

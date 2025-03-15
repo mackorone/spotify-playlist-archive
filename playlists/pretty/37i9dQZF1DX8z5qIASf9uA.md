@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Recordando al Rey de Corazones a 10 años de su partida 🕊️✨💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,272 likes - 58 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,386 likes - 58 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 31 | [El Árbol del Mayo](https://open.spotify.com/track/0ldNVLEuo2wv2SWlctOGk0) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:10 |
 | 32 | [Tu Sabes Que](https://open.spotify.com/track/3Uvf2kCx2vmlBtihvo23Cg) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:58 |
 | 33 | [Reflejos del Viejo](https://open.spotify.com/track/4EdBqWuZoP0z0WZ0maZDgg) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:39 |
-| 34 | [Arrodillate](https://open.spotify.com/track/2V7ZSirRp9SFxvA6XxskKz) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:20 |
-| 35 | [Amarga Derrota](https://open.spotify.com/track/1RiGZT9qAIV8JsftE15KaU) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:32 |
+| 34 | [Amarga Derrota](https://open.spotify.com/track/1RiGZT9qAIV8JsftE15KaU) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:32 |
+| 35 | [Arrodillate](https://open.spotify.com/track/2V7ZSirRp9SFxvA6XxskKz) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:20 |
 | 36 | [El Corrido del Dorian](https://open.spotify.com/track/7CN0vEUkzLg4AYUL8AK38M) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 5:01 |
 | 37 | [Vida Truncada](https://open.spotify.com/track/2pihSodDPCeERbGbmDFdXx) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:01 |
 | 38 | [Los Talibanes del Prieto](https://open.spotify.com/track/7CD9AsdwliT2VIFqarC79V) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:46 |

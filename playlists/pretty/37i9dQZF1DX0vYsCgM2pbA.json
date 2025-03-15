@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 142359,
+  "num_followers": 142374,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,34 @@
     {
       "added_at": "2025-03-04 13:01:32",
       "album": {
+        "name": "Dafodil",
+        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 212339,
+      "name": "Dafodil",
+      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
+    },
+    {
+      "added_at": "2025-03-04 13:01:32",
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 228688,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
-    },
-    {
-      "added_at": "2025-03-04 13:01:32",
-      "album": {
-        "name": "Dafodil",
-        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        }
-      ],
-      "duration_ms": 212339,
-      "name": "Dafodil",
-      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
     },
     {
       "added_at": "2025-03-04 13:01:32",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-03-04 13:01:32",
       "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+        "name": "Suzuka",
+        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
         }
       ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
+      "duration_ms": 236919,
+      "name": "Suzuka",
+      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
     },
     {
       "added_at": "2025-03-04 13:01:32",
@@ -971,6 +971,22 @@
       "duration_ms": 192160,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+    },
+    {
+      "added_at": "2025-03-04 13:01:32",
+      "album": {
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
     },
     {
       "added_at": "2025-03-04 13:01:32",
@@ -1007,22 +1023,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2025-03-04 13:01:32",
-      "album": {
-        "name": "Suzuka",
-        "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "Suzuka",
-      "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
     },
     {
       "added_at": "2025-03-04 13:01:32",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2025-03-04 13:01:32",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+        "name": "Morning Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN"
       },
       "artists": [
         {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
         },
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
         }
       ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
+      "duration_ms": 203806,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
     },
     {
       "added_at": "2025-03-04 13:01:32",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2025-03-04 13:01:32",
       "album": {
-        "name": "Blue Desert",
-        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
       },
       "artists": [
         {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 182869,
-      "name": "Wrong Again",
-      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     }
   ],
   "unique_name": "Sunday Sessions",

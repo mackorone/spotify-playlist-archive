@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-477 songs - 20 hr 16 min
+478 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Finally Ours](https://open.spotify.com/track/790LoJy9GwWsIjtu8PZEos) | [Derick Carson](https://open.spotify.com/artist/0CaZ6x330PQergmF3mEpuY) | [Finally Ours](https://open.spotify.com/album/0I5M2jJZ6mHnUa5AwRHImg) | 2:28 | 2022-04-04 |  |
 | [Find The Light Behind The Clouds](https://open.spotify.com/track/6lO855y2athPU69GEgmFnV) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Find The Light Behind The Clouds](https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq) | 2:19 | 2024-03-19 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-04-04 | 2024-03-20 |
+| [First Light](https://open.spotify.com/track/7JsIXtcklPHb2og8t7aj3E) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [First Light](https://open.spotify.com/album/0sPH0TbOls2beJIup89VMG) | 2:04 | 2025-03-14 |  |
 | [Folklore](https://open.spotify.com/track/0ZbDS3webX8T8c8FCV4T1l) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Folklore](https://open.spotify.com/album/4VTTfTngOcdfVVnlCDhY6f) | 2:09 | 2022-04-04 | 2024-08-13 |
 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 | 2024-07-16 |  |
 | [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 | 2023-04-18 | 2023-07-19 |

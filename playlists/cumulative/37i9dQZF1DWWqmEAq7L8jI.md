@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe\. Foto: Miranda! & Conociendo Rusia.
 
-319 songs - 17 hr 30 min
+321 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 | 2023-08-11 |  |
 | [Amor](https://open.spotify.com/track/45v5rMeDnY1wHTkhaDgNxi) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Amor](https://open.spotify.com/album/6FwDN1bjkhQGnDEfHDALTY) | 3:20 | 2023-08-25 | 2023-09-23 |
 | [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 | 2023-10-04 |  |
-| [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 | 2023-08-11 |  |
+| [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 | 2023-08-11 | 2025-03-15 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2023-03-17 | 2023-08-12 |
 | [ANTAGONISTA](https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [ANTAGONISTA](https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ) | 2:12 | 2023-08-11 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-03-17 | 2023-08-12 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2023-03-27 | 2023-06-28 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-03-17 | 2023-08-12 |
+| [Aspen](https://open.spotify.com/track/4xZvIeZII0rJRGLXqTw8Fz) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [Aspen](https://open.spotify.com/album/25qBHnq3RjDTtHjVpEP3Qv) | 2:10 | 2025-03-14 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2023-08-11 |  |
 | [Autosabotaje](https://open.spotify.com/track/63pR6hi3E29x3vYJQUuvzS) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK) | [Autosabotaje](https://open.spotify.com/album/4GL1IKDrxBAWApsFW0Hqoi) | 3:12 | 2023-07-14 | 2023-08-19 |
 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 | 2023-10-04 |  |
@@ -215,6 +216,7 @@
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-05-31 |  |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-10-09 | 2024-09-07 |
 | [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2023-08-18 | 2023-10-14 |
+| [No es amor](https://open.spotify.com/track/7HJSDNbNLUVENQjWKwBvW2) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos](https://open.spotify.com/album/6q9JxhDsrcwQqTk79bqRR8) | 3:13 | 2025-03-14 |  |
 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 | 2023-08-11 |  |
 | [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2023-08-11 |  |
 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 | 2023-08-25 | 2023-09-23 |
@@ -289,7 +291,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2023-03-17 | 2023-08-12 |
 | [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-08-25 | 2023-09-23 |
-| [Te recuerdo](https://open.spotify.com/track/3jmBXzJH5X6vVv8wuXxUK4) | [CAE](https://open.spotify.com/artist/1GC9IVqOiXNuWi7UYgPLgC) | [Bravo 3.0](https://open.spotify.com/album/5MbiCyKaJUmw2sc731hgnF) | 4:26 | 2024-10-14 |  |
+| [Te recuerdo](https://open.spotify.com/track/3jmBXzJH5X6vVv8wuXxUK4) | [CAE](https://open.spotify.com/artist/1GC9IVqOiXNuWi7UYgPLgC) | [Bravo 3.0](https://open.spotify.com/album/5MbiCyKaJUmw2sc731hgnF) | 4:26 | 2024-10-14 | 2025-03-15 |
 | [TE VAS](https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TE VAS](https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6) | 2:47 | 2025-02-28 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-08-11 | 2023-10-05 |
 | [That's Hilarious](https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 2:24 | 2023-03-17 | 2023-10-05 |

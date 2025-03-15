@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Chiderah
 
-470 songs - 1 day 0 hr 10 min
+471 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 | 2022-10-23 | 2023-05-16 |
 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 | 2024-10-21 |  |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2022-07-17 | 2024-09-25 |
-| [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 | 2025-03-07 |  |
+| [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 | 2025-03-07 | 2025-03-15 |
 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 | 2024-06-27 | 2025-01-18 |
 | [avery](https://open.spotify.com/track/6eGEc1s8krSYpJdvyFR2TY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [avery](https://open.spotify.com/album/0KgMudHwHfZcI2E9NFjHXK) | 2:30 | 2022-06-24 | 2022-07-25 |
 | [Back It Up](https://open.spotify.com/track/4zYVvRX0i7fbyu78AsNPNH) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Back It Up](https://open.spotify.com/album/1f0P6RYU2zRhB4OLQspm5k) | 1:59 | 2023-11-24 | 2024-10-30 |
@@ -477,6 +477,7 @@
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2022-08-22 | 2023-04-14 |
 | [You Know](https://open.spotify.com/track/2juQKYR7TFwBbRlFbEke7z) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [You Know](https://open.spotify.com/album/5Ojgg4O0Hdley9R3Pvr12P) | 2:22 | 2022-07-17 | 2022-07-22 |
 | [Young, Wild & Ruthless](https://open.spotify.com/track/5tJFoFr4dRLubMg4BMXxwO) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Young, Wild & Ruthless](https://open.spotify.com/album/726BErmbrgUxxJ7nguLWpm) | 4:45 | 2022-07-17 | 2022-07-20 |
+| [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 | 2025-03-14 |  |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-17 | 2023-01-29 |
 
 \*This playlist was first scraped on 2022-07-10. Prior content cannot be recovered.

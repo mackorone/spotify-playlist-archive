@@ -2669,6 +2669,28 @@
     },
     {
       "album": {
+        "name": "Going Nowhere",
+        "url": "https://open.spotify.com/album/6k3UcaaEVihWwLoItNA8qH"
+      },
+      "artists": [
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        },
+        {
+          "name": "Corey Holmes",
+          "url": "https://open.spotify.com/artist/5nHH9d9UcjjJ56GfKE6XoS"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443921,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/6gxCItsJhHpmucspvOhwAP"
+    },
+    {
+      "album": {
         "name": "Good Inside",
         "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
       },

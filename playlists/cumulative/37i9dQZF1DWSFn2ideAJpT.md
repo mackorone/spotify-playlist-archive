@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-76 songs - 3 hr 49 min
+78 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Awakening 963Hz](https://open.spotify.com/track/3esXbDq3DkYOrguFP0TXxd) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Awakening 963Hz](https://open.spotify.com/album/69JaKptJXvQ0n2HIKohN20) | 2:23 | 2023-11-30 |  |
 | [Awakenings 963 Hz](https://open.spotify.com/track/5P6uUeAbSHo0R9bK70EkTF) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Awakenings 936 & 432 Hz](https://open.spotify.com/album/3YhHDGqFGh26adfwhwmjTT) | 3:26 | 2023-07-13 |  |
 | [B \(Crown Chakra\)](https://open.spotify.com/track/02ileubP6RE16EKbkS4Lxk) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Singing Bowls \(Zen Tones for Meditation, Acupuncture, Reiki, Qi\-Gong, Sound Therapy and Metaphysical Healers\)](https://open.spotify.com/album/3nUjK5dYNgtQxol98A9HMU) | 1:00 | 2023-07-13 | 2023-12-01 |
-| [Blue Sky \- 963 Hz](https://open.spotify.com/track/4CwkaRpzuBA0Vdq9x3cU6r) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Blue Sky \- 963 Hz](https://open.spotify.com/album/1TVerLmogv9w6kM1VhwaeE) | 2:06 | 2024-11-07 |  |
+| [Blue Sky \- 963 Hz](https://open.spotify.com/track/4CwkaRpzuBA0Vdq9x3cU6r) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Blue Sky \- 963 Hz](https://open.spotify.com/album/1TVerLmogv9w6kM1VhwaeE) | 2:06 | 2024-11-07 | 2025-03-15 |
+| [Centering exercise \- 963Hz](https://open.spotify.com/track/7hm1Ke9BbUipfI2pYuGzm3) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Centering exercise \- 963Hz](https://open.spotify.com/album/1nnNbTYiyDrz5PZ9upXiTV) | 2:32 | 2025-03-14 |  |
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 |  |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-07-13 | 2023-12-01 |
 | [Clear Thoughts 963 Hz](https://open.spotify.com/track/6U6bqFochoIv5csr5r98Gk) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Clear Thoughts 963 Hz](https://open.spotify.com/album/4N2Sj7ptvj0cuKxaarrFXk) | 2:30 | 2023-07-13 |  |
@@ -63,8 +64,9 @@
 | [Love Without Judgement](https://open.spotify.com/track/3DGqfaVcobXCuWdCw8p0Sq) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 1:19 | 2023-07-13 | 2024-03-14 |
 | [Miracles 963 Hz](https://open.spotify.com/track/2nPdV0GQD5RZoCRdHRLvKE) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Miracles 963 Hz](https://open.spotify.com/album/7LXqzXuY3fzG7cY0gOYEQJ) | 2:45 | 2023-07-13 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2023-07-13 |  |
-| [oneness 963 Hz](https://open.spotify.com/track/7E2SLBUBKXxlaDfLgjfGVC) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:44 | 2023-07-13 |  |
+| [oneness 963 Hz](https://open.spotify.com/track/7E2SLBUBKXxlaDfLgjfGVC) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:44 | 2023-07-13 | 2025-03-15 |
 | [Orange Waves 963 hz](https://open.spotify.com/track/7puC3J72XiYjIrlAPsg4YP) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:40 | 2023-07-13 |  |
+| [Osos \- 963Hz](https://open.spotify.com/track/7xobiiGVQBLvFA2vszDN0U) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Osos \- 963Hz](https://open.spotify.com/album/5QsOY1NIujDb5OWOSvQTqZ) | 2:47 | 2025-03-14 |  |
 | [Point Cabrillo](https://open.spotify.com/track/7BMhMh3hJl6zbduaOg963j) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Point Cabrillo](https://open.spotify.com/album/7JBETB6yPPZKETdNJZi3dy) | 3:10 | 2023-07-13 |  |
 | [Sahasrara](https://open.spotify.com/track/4J3thqtdcMUAjF2jCeaVfu) | [Antonio Jesús Asiáin Sanz](https://open.spotify.com/artist/2y3iKYGjPiNtNyONKlFseo) | [Música para Sumergirse Dentro \(Un Viaje Hacia la Calma y las Emociones\)](https://open.spotify.com/album/34ka7Jysmq09w8RrnmmyeP) | 3:48 | 2023-07-13 | 2025-01-10 |
 | [Sahasrara](https://open.spotify.com/track/3LQ5r6MRxZExt0yPNlrE1X) | [Fred Westra](https://open.spotify.com/artist/3xoBnkqEXHqY8Kl6s2oWHG) | [Your Inner Truth](https://open.spotify.com/album/03t6k8klrxcAPZeRcZl9hK) | 4:23 | 2023-07-13 |  |
@@ -74,8 +76,8 @@
 | [Seven Dimensions \- 963Hz](https://open.spotify.com/track/7hNQgBNm55Ot40FuRA0KRZ) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Seven Dimensions \- 963Hz](https://open.spotify.com/album/4iuAqV1cfUjjoxCG9HZspl) | 2:50 | 2025-01-09 |  |
 | [Solar Waves](https://open.spotify.com/track/6BFqFROUN0ZSAwqT6HIODe) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Waves](https://open.spotify.com/album/46PDkEIZsT8l84S8YKj23H) | 3:36 | 2023-07-13 |  |
 | [Solfeggio Frequencies 963 Hz](https://open.spotify.com/track/2gHFh7SkAwBy3ORnk3TCqv) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [963 Hz Returning to Oneness](https://open.spotify.com/album/4sOv6RfJastljQWgYeLFzW) | 2:38 | 2023-07-13 |  |
-| [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 | 2024-05-11 |  |
-| [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2023-07-13 |  |
+| [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 | 2024-05-11 | 2025-03-15 |
+| [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2023-07-13 | 2025-03-15 |
 | [Taking Time \- 963 Hz](https://open.spotify.com/track/2evSXLOTpNdEAPIYKthWny) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Taking Time \- 963 Hz](https://open.spotify.com/album/6gWgxZt7OpnflNuI9wRDko) | 2:46 | 2024-05-11 |  |
 | [The Sun Rises 963 Hz](https://open.spotify.com/track/17PJlpabKuibnvTzwaku34) | [Tina Cirdan](https://open.spotify.com/artist/2Z6i464SdZrhdL6jUtjW6p) | [The Sun Rises 963 Hz](https://open.spotify.com/album/2yW0YdtOgYfI6Rar2lMzRc) | 2:48 | 2023-07-13 | 2023-12-01 |
 | [Unburdened Mind 963 Hz](https://open.spotify.com/track/5FNporQDCglKMUeQZEvGVm) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Unburdened Mind 963 Hz](https://open.spotify.com/album/3vGdOe2dqcsJuUpZPCnuVy) | 2:40 | 2024-05-11 |  |

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-518 songs - 1 day 5 hr 18 min
+519 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-01-07 | 2022-07-08 |
 | [Modo Avión](https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Modo Avión](https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp) | 2:40 | 2022-01-07 | 2023-03-03 |
 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 | 2022-01-28 | 2022-07-25 |
+| [Muchas veces](https://open.spotify.com/track/4wOCmDbwBSKH65HSvceUsI) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Muchas veces](https://open.spotify.com/album/4z1ncEkEnKanqW3Bumih9H) | 2:29 | 2025-03-14 |  |
 | [Máquinas de hacer todo al mismo tiempo](https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [NUNCA DA IGUAL](https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu) | 3:39 | 2023-10-05 |  |
 | [Nada](https://open.spotify.com/track/56FFpn2u7ZGgPU3dS29G6y) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Garzøn](https://open.spotify.com/artist/25jgvOUY4AVTfxKjwckFFa) | [Nada](https://open.spotify.com/album/6s9oZCm9YYvKojeLPpSFWe) | 4:15 | 2022-05-09 | 2022-07-18 |
 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-07-28 |  |
@@ -402,7 +403,7 @@
 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 | 2022-01-07 |  |
 | [Remar una Canción](https://open.spotify.com/track/1f0Bo5En0SdihJiZZwcE3y) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Remar una Canción](https://open.spotify.com/album/2TFN0dlPZwNbDJsNu8ajhm) | 2:44 | 2022-01-07 | 2022-07-21 |
 | [Repatriarme](https://open.spotify.com/track/31HBKlN8njiPCtcdzPykvv) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Repatriarme](https://open.spotify.com/album/7wT4xq4YjTPNanajHpbxJY) | 4:08 | 2023-08-04 | 2023-08-18 |
-| [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 | 2022-01-07 |  |
+| [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 | 2022-01-07 | 2025-03-15 |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2022-07-15 | 2024-04-19 |
 | [Rihanna](https://open.spotify.com/track/7GXeenPdpC7bOP5z25kn9w) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 2:12 | 2022-04-01 | 2022-04-14 |
 | [Roberto](https://open.spotify.com/track/4SSs1ohUHZk8RNAOdzr85M) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Roberto](https://open.spotify.com/album/0K4ErZkCIFIz0L6Jtvp2a5) | 2:47 | 2022-04-01 | 2022-07-06 |

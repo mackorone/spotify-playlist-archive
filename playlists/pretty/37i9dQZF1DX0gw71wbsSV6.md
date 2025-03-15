@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,186 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,197 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silk Sheets](https://open.spotify.com/track/6g0lOAWi9nSIqmzb4Fh26O) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:41 |
 | 2 | [Eureka](https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/3MEn72g7bS4CB7zd4ficcI) | 3:31 |
-| 3 | [burn](https://open.spotify.com/track/1Z54BGp8zlty1aWIRnaUKD) | [タロ](https://open.spotify.com/artist/2GpcRTzYjIDHraZaTcFGgt) | [taro](https://open.spotify.com/album/39Q2MonulMGW0v6JGIiM0C) | 4:29 |
+| 3 | [burn](https://open.spotify.com/track/1Z54BGp8zlty1aWIRnaUKD) | [タロ](https://open.spotify.com/artist/2GpcRTzYjIDHraZaTcFGgt), [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec), [エマーソン北村](https://open.spotify.com/artist/09EJ4x2nllPxzPHz4x1qhp), [mmm with エマーソン北村](https://open.spotify.com/artist/14sTc6KmqZoZxqG9IsLkVu) | [taro](https://open.spotify.com/album/39Q2MonulMGW0v6JGIiM0C) | 4:29 |
 | 4 | [Shiranami](https://open.spotify.com/track/1v9EGHnP7Uh0i4oakrtqei) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:30 |
 | 5 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 6 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |

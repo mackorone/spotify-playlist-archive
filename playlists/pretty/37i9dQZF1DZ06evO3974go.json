@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19894,
+  "num_followers": 19898,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAVV1vrXav08xZQ1g39cP4Z",
+  "snapshot_id": "Z9IgAAAAAABnk76VD1qHaO82G7WBs5Tj",
   "tracks": [
     {
       "added_at": null,
@@ -710,15 +710,11 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Ah'chi",
-      "url": "https://open.spotify.com/track/5sGsxrtnw9Z725OC5KOTkJ"
+      "duration_ms": 252693,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
     },
     {
       "added_at": null,
@@ -786,11 +782,15 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
+      "duration_ms": 221200,
+      "name": "Ah'chi",
+      "url": "https://open.spotify.com/track/5sGsxrtnw9Z725OC5KOTkJ"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 162246,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MF Boss (feat. Rich Homie Quan)",
         "url": "https://open.spotify.com/album/20fzeoh4EnQ1rndANRSPba"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 154002,
       "name": "MF Boss - feat. Rich Homie Quan",
       "url": "https://open.spotify.com/track/2yaYhL85vQBstNn9a6yZPH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 162246,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
     },
     {
       "added_at": null,

@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Playful Wind",
+        "url": "https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125900,
+      "name": "Playful Wind",
+      "url": "https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o"
+    },
+    {
+      "album": {
         "name": "Proposals",
         "url": "https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0"
       },

@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "dance?",
+        "url": "https://open.spotify.com/album/3BLhRfnMCmruUGqYI4W6eO"
+      },
+      "artists": [
+        {
+          "name": "SVRD",
+          "url": "https://open.spotify.com/artist/4pIMOpPSlzohGNTW8O6A9y"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185895,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6iVW6m4beUfsuIK6AO0aSs"
+    },
+    {
+      "album": {
         "name": "Fooled By Love",
         "url": "https://open.spotify.com/album/1AHuOEH0p4LYeuDRLNkRqP"
       },

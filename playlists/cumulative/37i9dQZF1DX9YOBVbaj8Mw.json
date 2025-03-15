@@ -2527,6 +2527,44 @@
     },
     {
       "album": {
+        "name": "A statek p\u0142ynie",
+        "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
+      },
+      "artists": [
+        {
+          "name": "Teatr Muzyczny Capitol",
+          "url": "https://open.spotify.com/artist/7gjxnDfYKbNzgqZkr5PM0A"
+        },
+        {
+          "name": "Micha\u0142 J. Bajor",
+          "url": "https://open.spotify.com/artist/6ty7zyJoZllSUbzm8rzg63"
+        },
+        {
+          "name": "Zofia Banasik",
+          "url": "https://open.spotify.com/artist/31WHrYc00gd1K4QdGyrLvJ"
+        },
+        {
+          "name": "Wiktoria \u0141ukowicz",
+          "url": "https://open.spotify.com/artist/3fBCVI2pZfQ8KKk59encqN"
+        },
+        {
+          "name": "Justyna Wo\u017aniak",
+          "url": "https://open.spotify.com/artist/44apJcbit2kkogE1kipEU8"
+        },
+        {
+          "name": "Jan Kowalewski",
+          "url": "https://open.spotify.com/artist/5t8kMVIUklWWHjdOMdM4AX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188187,
+      "name": "Serbowie",
+      "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
+    },
+    {
+      "album": {
         "name": "Frukstrakt",
         "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
       },

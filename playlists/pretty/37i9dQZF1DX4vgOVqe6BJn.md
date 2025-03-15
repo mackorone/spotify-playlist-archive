@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,474 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,485 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 71 | [T.T.Y.N.](https://open.spotify.com/track/6qhrjDnGgfSsVOLaRBWn3v) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [T.T.Y.N.](https://open.spotify.com/album/3uulBOCnvOz8ZhYyvx2cis) | 3:06 |
 | 72 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 | 73 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
-| 74 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
-| 75 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
+| 74 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
+| 75 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
 | 76 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
 | 77 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 | 78 | [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419 likes - 315 songs - 18 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 315 songs - 18 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,10 +214,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 204 | [\#1](https://open.spotify.com/track/3QVIpLqfwgGhJAs5enPfFT) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:31 |
 | 205 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
 | 206 | [Keep On Lookin'](https://open.spotify.com/track/6J254v0NfP9dw2Uzg7U0Ow) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:17 |
-| 207 | [Live by the Gun \(feat\. Akon\)](https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:42 |
-| 208 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 |
-| 209 | [Pretty Bitches in the Trap](https://open.spotify.com/track/22TSP0snNLPUkyhqcm93BM) | [Summerella](https://open.spotify.com/artist/4ttsE1dWJ0G68xMezQ0NRL) | [First Day of Summer](https://open.spotify.com/album/5B799EjFSqxAEUVF0LdGwF) | 3:54 |
-| 210 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
+| 207 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
+| 208 | [Live by the Gun \(feat\. Akon\)](https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:42 |
+| 209 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 |
+| 210 | [Pretty Bitches in the Trap](https://open.spotify.com/track/22TSP0snNLPUkyhqcm93BM) | [Summerella](https://open.spotify.com/artist/4ttsE1dWJ0G68xMezQ0NRL) | [First Day of Summer](https://open.spotify.com/album/5B799EjFSqxAEUVF0LdGwF) | 3:54 |
 | 211 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
 | 212 | [Pretty Mouth Magick](https://open.spotify.com/track/4P3DPgZFLIHeKOEyJLTC2t) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Closer to Mars](https://open.spotify.com/album/0GNt35HfNV0XbFXPbYNZbu) | 2:56 |
 | 213 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 |
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 240 | [Suicide Down \(feat\. Lil Gotit\)](https://open.spotify.com/track/3NdtBTPJ3rLb4DWiUYQOSQ) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Suicide Down \(feat\. Lil Gotit\)](https://open.spotify.com/album/5WCc1foNLZjV4DTP00HwVw) | 2:36 |
 | 241 | [Losin' It](https://open.spotify.com/track/5pWcgT7W9pJOh6viBmehTm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Losin' It](https://open.spotify.com/album/62vzwQLiTzoVPwpG6ShQxG) | 3:56 |
 | 242 | [Change](https://open.spotify.com/track/25wUMe5Y8edc6XHLFdHnJT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:38 |
-| 243 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
-| 244 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
+| 243 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
+| 244 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
 | 245 | [TRAPPIN 4 A LIVIN](https://open.spotify.com/track/7IJaFyGv5V9FWsI8HBSzfH) | [Baby E](https://open.spotify.com/artist/3AhRH2q3GOnk8r1ZPHBnRM) | [TRAPPIN 4 A LIVIN](https://open.spotify.com/album/3DkRrvR3gqK3Ntq04aMcnI) | 2:55 |
 | 246 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
 | 247 | [King](https://open.spotify.com/track/7iezOg5ENMqIpq0HVVZqgz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:07 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 314 | [Big Big](https://open.spotify.com/track/4wsNgpWYdQjQZjP0eiCT3P) | [Timo Makaveli](https://open.spotify.com/artist/68nIghWoFPxGpj5aHIyznz), [Deli Banger](https://open.spotify.com/artist/3SEStgS4TnJvgUjqGPvt5b), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Right On Time](https://open.spotify.com/album/5MFK2qG2EJRgpEibwM823C) | 2:54 |
 | 315 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Abr+VAAAAACkCYGnRiXDpVsGRqTN7Ga8`
+Snapshot ID: `AbsD9AAAAACh0DdQVCxV9FdEzTq/5Gof`

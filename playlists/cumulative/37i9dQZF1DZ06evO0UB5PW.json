@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317720,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP"
+    },
+    {
+      "album": {
         "name": "Crack the Skye",
         "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
       },

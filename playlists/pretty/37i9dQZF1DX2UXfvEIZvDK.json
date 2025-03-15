@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 889826,
+  "num_followers": 890790,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Best Buds",
-        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 239597,
-      "name": "Scott Pilgrim vs. My GPA",
-      "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 195200,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Best Buds",
+        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 239597,
+      "name": "Scott Pilgrim vs. My GPA",
+      "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
     },
     {
       "added_at": "2025-01-24 20:55:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211520,
       "name": "The Longest Wave",
       "url": "https://open.spotify.com/track/0pjCkLjbgSLn5c0Ilwuv8z"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/7tWx2oRcvpaXVDfvjtgr77"
+        "name": "Nothing But Thieves (Track by Track)",
+        "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
       },
       "artists": [
         {
-          "name": "Nada Surf",
-          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Inside of Love",
-      "url": "https://open.spotify.com/track/37oU0liybMY8aI9u6QMVM9"
+      "duration_ms": 206573,
+      "name": "If I Get High",
+      "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Nothing But Thieves (Track by Track)",
-        "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/7tWx2oRcvpaXVDfvjtgr77"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
         }
       ],
-      "duration_ms": 206573,
-      "name": "If I Get High",
-      "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
+      "duration_ms": 298533,
+      "name": "Inside of Love",
+      "url": "https://open.spotify.com/track/37oU0liybMY8aI9u6QMVM9"
     },
     {
       "added_at": "2024-12-02 16:32:42",

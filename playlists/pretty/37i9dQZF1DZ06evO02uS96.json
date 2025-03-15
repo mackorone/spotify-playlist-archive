@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 166554,
+  "num_followers": 166572,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA9Z+HN0kUbRSjWn0+v+ayf",
+  "snapshot_id": "Z9IgAAAAAABVSZkLLwGPzK5dr4sd4xs2",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "I beg you",
-      "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 215490,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "I beg you",
+      "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "s-AVE",
+      "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u3044\u3064\u306e\u307e\u306b",
         "url": "https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "o1",
-        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
-      },
-      "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "s-AVE",
-      "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 350933,
-      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9065\u304b / 800 / End of All / Ref:rain -3 nuits ver.-",
         "url": "https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 219066,
       "name": "End of All",
       "url": "https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 350933,
+      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
     },
     {
       "added_at": null,

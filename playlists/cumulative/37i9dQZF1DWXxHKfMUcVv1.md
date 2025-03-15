@@ -4,7 +4,7 @@
 
 > Música refrescante, para vencer el calor.
 
-89 songs - 5 hr 9 min
+90 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,13 @@
 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 | 2024-04-05 |  |
 | [No Me Importa](https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Verdades Que Duelen](https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA) | 2:53 | 2023-11-24 |  |
 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:00 | 2023-11-24 | 2024-04-19 |
+| [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 | 2025-03-14 |  |
 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 | 2023-11-24 |  |
 | [Pense Que Te Olvide](https://open.spotify.com/track/6mcKcKUigHBg8z2tz7AKOR) | [Lalo Monte](https://open.spotify.com/artist/3SB8njtBUMJOVsNZ37xB53) | [Pense Que Te Olvide](https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE) | 3:39 | 2024-04-05 |  |
 | [Pense Que Te Olvide \(feat\. 8 Corazones\)](https://open.spotify.com/track/39gWip1Y0ihun0akUpA270) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3), [8 Corazones](https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma) | [Pense Que Te Olvide \(feat\. 8 Corazones\)](https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp) | 3:02 | 2023-11-24 | 2024-04-19 |
 | [Perdi mi amor](https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx) | [Andy El Unico](https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla) | [Loco](https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp) | 3:43 | 2023-11-24 | 2024-04-19 |
 | [Pobre De Mis Ojos](https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:18 | 2023-11-24 | 2024-04-19 |
-| [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 | 2024-06-13 |  |
+| [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 | 2024-06-13 | 2025-03-15 |
 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 | 2023-11-24 |  |
 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/0RvwiHVv0BAFFw9jeNzHGL) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 | 2023-11-24 |  |
 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 | 2023-11-24 |  |

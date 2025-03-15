@@ -4,7 +4,7 @@
 
 > Posłuchaj nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-168 songs - 11 hr 44 min
+169 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [RAP](https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:36 | 2025-03-06 |  |
 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2025-03-06 |  |
 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 | 2025-03-06 |  |
+| [Serbowie](https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc) | [Teatr Muzyczny Capitol](https://open.spotify.com/artist/7gjxnDfYKbNzgqZkr5PM0A), [Michał J\. Bajor](https://open.spotify.com/artist/6ty7zyJoZllSUbzm8rzg63), [Zofia Banasik](https://open.spotify.com/artist/31WHrYc00gd1K4QdGyrLvJ), [Wiktoria Łukowicz](https://open.spotify.com/artist/3fBCVI2pZfQ8KKk59encqN), [Justyna Woźniak](https://open.spotify.com/artist/44apJcbit2kkogE1kipEU8), [Jan Kowalewski](https://open.spotify.com/artist/5t8kMVIUklWWHjdOMdM4AX) | [A statek płynie](https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj) | 3:08 | 2025-03-14 |  |
 | [Serce Otwarte Na Pół](https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX) | [Michał Aftyka Quintet](https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT) | [Frukstrakt](https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn) | 3:31 | 2024-03-25 | 2025-03-07 |
 | [SEXTAPE](https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:13 | 2025-03-06 |  |
 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 | 2025-03-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164432,
+  "num_followers": 164435,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABDf2NImOlY9OpfvrB+hYMP",
+  "snapshot_id": "Z9IgAAAAAABJmgCEIDYCzTRKjOZRPO0I",
   "tracks": [
     {
       "added_at": null,
@@ -635,62 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEIL\u00c3O",
-        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 198304,
-      "name": "SOBREVIVI",
-      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "085 RMX",
-        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163102,
-      "name": "085 RMX",
-      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
       },
@@ -715,6 +659,62 @@
       "duration_ms": 198620,
       "name": "Capric\u00f3rnio",
       "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 198304,
+      "name": "SOBREVIVI",
+      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEIL\u00c3O",
+        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "085 RMX",
+        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163102,
+      "name": "085 RMX",
+      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
     },
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "fome",
-        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
+        "name": "Suplicar",
+        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
       },
       "artists": [
-        {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 198920,
-      "name": "fome",
-      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
+      "duration_ms": 186382,
+      "name": "Suplicar",
+      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
     },
     {
       "added_at": null,
@@ -807,38 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suplicar",
-        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
+        "name": "fome",
+        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Suplicar",
-      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 o Amor",
-        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
         },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 178105,
-      "name": "S\u00f3 o Amor",
-      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+      "duration_ms": 198920,
+      "name": "fome",
+      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 187311,
       "name": "Rol\u00ea",
       "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 o Amor",
+        "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "S\u00f3 o Amor",
+      "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,681 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,684 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 43 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 | 44 | [Tied Down](https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Tied Down](https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS) | 2:43 |
 | 45 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 |
-| 46 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
-| 47 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
+| 46 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
+| 47 | [Waiting on You](https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Waiting on You](https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH) | 2:47 |
 | 48 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 |
 | 49 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
 | 50 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 
-Snapshot ID: `Z9DOgAAAAABi/y5L8SNrd/Cynms6Omcg`
+Snapshot ID: `Z9IgAAAAAAC6ohoO5rGFJ+iNJhsMphcd`

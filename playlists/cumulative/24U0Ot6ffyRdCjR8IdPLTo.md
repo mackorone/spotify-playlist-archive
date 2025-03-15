@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-371 songs - 20 hr 21 min
+374 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [AGNOSTIC](https://open.spotify.com/track/08A0a0aUSZ7KMPvkOiK9iX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW / AGNOSTIC](https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi) | 3:51 | 2023-10-21 | 2024-12-14 |
 | [Akira](https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Songs About You Specifically](https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6) | 2:43 | 2024-10-11 |  |
 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 | 2024-06-15 |
-| [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-07 |  |
+| [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 | 2025-03-14 |  |
+| [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-07 | 2025-03-15 |
 | [all the time](https://open.spotify.com/track/5fSztmwA3e7iYSWvnB4zPv) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [all the time](https://open.spotify.com/album/7KOHShVc86BcMd9iPt2Dd8) | 3:24 | 2024-10-18 | 2024-11-16 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 |  |
 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 | 2023-08-28 | 2023-11-07 |
@@ -259,6 +260,7 @@
 | [Radiohead](https://open.spotify.com/track/5IL0nIQHoYJk4FEYItYnys) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Radiohead](https://open.spotify.com/album/40ZbrZkjuFVvTNF0LbijLf) | 3:17 | 2023-08-28 | 2024-12-14 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-11-01 |  |
 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 | 2023-08-15 | 2023-08-29 |
+| [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 | 2025-03-14 |  |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2023-08-28 | 2024-06-15 |
 | [Remember That Night? \- Acoustic](https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night? \(Acoustic\)](https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd) | 3:42 | 2021-12-06 | 2023-08-16 |
 | [Ribbons](https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:17 | 2023-08-28 |  |
@@ -379,5 +381,6 @@
 | [you were just drunk](https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [you were just drunk](https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA) | 2:56 | 2025-01-17 |  |
 | [Your Arms](https://open.spotify.com/track/4SuziSr3et9LjC6Iyls63s) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Your Arms](https://open.spotify.com/album/4R3wx6MiEomTXdy6gkskQN) | 3:51 | 2023-08-15 | 2023-08-29 |
 | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY) | 3:42 | 2023-09-22 |  |
+| [夜闌人靜](https://open.spotify.com/track/44FUMcOGhsXw79mwOTS6vr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 3:13 | 2025-03-14 |  |
 
 \*This playlist was first scraped on 2022-07-31. Prior content cannot be recovered.

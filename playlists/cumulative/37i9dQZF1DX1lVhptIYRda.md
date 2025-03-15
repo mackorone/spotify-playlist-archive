@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Kelsea Ballerini
+> Today's top country hits\. Cover: Warren Zeiders
 
-866 songs - 1 day 22 hr 49 min
+868 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 | 2022-04-09 |
 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 | 2021-12-17 | 2022-05-14 |
 | [Leave Her Wild](https://open.spotify.com/track/5cuYa1jn3hohHZJCGC0B7d) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Leave Her Wild](https://open.spotify.com/album/0Gt8v6wbQ7YXyd0IfdrFlJ) | 3:19 | 2019-06-15 | 2019-09-08 |
+| [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 | 2025-03-14 |  |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-11 | 2022-05-20 |
 | [Let Your Boys Be Country](https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Let Your Boys Be Country](https://open.spotify.com/album/7wA7u0gOJcHNl3EITL4674) | 3:16 | 2023-11-03 | 2024-05-03 |
 | [Let Your Boys Be Country](https://open.spotify.com/track/23bEisUvcSmIELLy4CMhkN) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw) | 3:16 | 2023-11-17 | 2024-04-19 |
@@ -582,7 +583,7 @@
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2020-09-17 | 2021-05-29 |
 | [Other Girl](https://open.spotify.com/track/0Kt2cOpCmKN2D9mG8Fw2ce) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Other Girl](https://open.spotify.com/album/7um6zTS2EhW6iSIiDJ9gt1) | 3:15 | 2019-09-15 | 2020-03-14 |
 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 | 2022-07-15 | 2023-03-04 |
-| [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-08-09 |  |
+| [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-08-09 | 2025-03-15 |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-04-07 | 2023-12-30 |
 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 | 2023-05-12 | 2023-10-07 |
 | [Over All Over Again](https://open.spotify.com/track/6eK53DELUKMF7Dkao6n2Av) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Over All Over Again](https://open.spotify.com/album/0Pou6Q0oInncOXGbKf8QIh) | 3:21 | 2021-07-24 | 2021-10-02 |
@@ -635,7 +636,7 @@
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2023-11-17 | 2024-03-23 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-09-22 | 2023-11-18 |
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-14 | 2024-01-20 |
-| [Save My Soul](https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N) | 5:07 | 2024-11-15 |  |
+| [Save My Soul](https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N) | 5:07 | 2024-11-15 | 2025-03-15 |
 | [Seaside](https://open.spotify.com/track/6uLhIbdIXQ4DGeOA8qFesw) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Seaside](https://open.spotify.com/album/4YD0A6DxqXubekaRwZRpl5) | 3:00 | 2020-07-19 | 2020-11-22 |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/24uZaMwLQ0G8ZQfTt7f64B) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 3:06 | 2020-06-14 | 2020-06-21 |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/3TDJO3Vb1N4MXjYXYuAfAC) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Second Guessing \(From Songland\)](https://open.spotify.com/album/4Uh3V45HNJKNQdYsyW4Xci) | 3:06 | 2020-05-20 | 2020-06-14 |
@@ -730,6 +731,7 @@
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-12-08 | 2020-03-14 |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-26\* | 2019-12-11 |
 | [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2024-05-31 | 2024-08-03 |
+| [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 |  |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-01-30 | 2021-07-04 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2022-11-26 |
 | [The Man Who Loves You The Most](https://open.spotify.com/track/58DvikiJcEjow3Skg80yxX) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Man Who Loves You The Most](https://open.spotify.com/album/0Iu8r7hmiTYiiKbUteZWVZ) | 3:44 | 2020-06-14 | 2020-08-15 |

@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-163 songs - 7 hr 35 min
+164 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 | 2024-01-31 |
 | [Contradict \- Hip Hop Remix](https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Nick Jr\. Mix It Up! Vol\. 10: Hip Hop Playground \(The Remixes\)](https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx) | 2:03 | 2024-04-26 | 2024-07-27 |
 | [Cookie Jar](https://open.spotify.com/track/01rRqiFCeG17apx187OJjo) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Cookie Jar](https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL) | 2:52 | 2024-02-23 |  |
-| [Count by Tens](https://open.spotify.com/track/5v8loPu4al8Bmh4ULursLu) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Count by Tens](https://open.spotify.com/album/3AGc0QyvcC5Lauy486WI0T) | 1:58 | 2024-11-22 |  |
+| [Count by Tens](https://open.spotify.com/track/5v8loPu4al8Bmh4ULursLu) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Count by Tens](https://open.spotify.com/album/3AGc0QyvcC5Lauy486WI0T) | 1:58 | 2024-11-22 | 2025-03-15 |
 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 | 2024-01-30 |  |
 | [Dance Full Out](https://open.spotify.com/track/3bV1JJ6ItRaTRdaDmlmm8x) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [We Dance Full Out](https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC) | 2:21 | 2024-01-30 |  |
 | [Dance in the Playroom](https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Kids Dance Jams](https://open.spotify.com/album/4QuhMdlQcRvXTe0zV7NTh1) | 2:34 | 2024-01-30 |  |
@@ -72,6 +72,7 @@
 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 | 2021-11-19 |  |
 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 | 2024-01-30 |  |
 | [Hope](https://open.spotify.com/track/4YUplkqWWGV9huYJFAKjyY) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP) | [Hope](https://open.spotify.com/album/6TyZrOw86JmHZu9TxHW794) | 2:40 | 2024-02-02 |  |
+| [Hot Cross Buns](https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Hot Cross Buns](https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC) | 2:19 | 2025-03-14 |  |
 | [HUMPTY DUMPTY](https://open.spotify.com/track/6RFWQ0pDewcLYULywlvP7x) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [HUMPTY DUMPTY](https://open.spotify.com/album/5xvr2cKVKt1EJFl8F5iFYr) | 2:08 | 2025-02-21 |  |
 | [I Am Love, I Am Light](https://open.spotify.com/track/4Pze9m7sM29Q4UfGrH1fox) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light](https://open.spotify.com/album/50wyClVSQJXE0MbyDmYwa2) | 3:02 | 2024-02-02 | 2024-03-09 |
 | [I Am Love, I Am Light \- Jersey Club Remix](https://open.spotify.com/track/6MGDiGjJlLgoqlc4K1zFU6) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light \(Jersey Club Remix\)](https://open.spotify.com/album/3cFXhn6QHPY2VqwJTUwirO) | 2:55 | 2024-03-08 | 2024-10-12 |

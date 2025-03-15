@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 36028,
+  "num_followers": 36084,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+        "name": "Fantasma El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
+      "duration_ms": 200063,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Fantasma El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 200063,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1695,26 +1695,6 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Piel A Piel",
-        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1791,6 +1771,26 @@
       "duration_ms": 193013,
       "name": "La Inconforme",
       "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Piel A Piel",
+        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 207266,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 326640,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2455,24 +2455,8 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Sin Escencia",
-        "url": "https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Sin Escencia",
-      "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
       },
       "artists": [
         {
@@ -2480,9 +2464,9 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+      "duration_ms": 326640,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -2499,6 +2483,22 @@
       "duration_ms": 228400,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Sin Escencia",
+        "url": "https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Sin Escencia",
+      "url": "https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ"
     },
     {
       "added_at": "2024-07-02 23:02:31",

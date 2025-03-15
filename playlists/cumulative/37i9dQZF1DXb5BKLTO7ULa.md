@@ -4,7 +4,7 @@
 
 > Nieuwe muziek van: Ronnie Flex, Chappell Roan & Calvin Harris
 
-10,153 songs - 22 day 3 hr 17 min
+10,154 songs - 22 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8450,6 +8450,7 @@
 | [Te Oud](https://open.spotify.com/track/72bMMtoyQXq2ALUmDWJIj8) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC), [Winston Hunte](https://open.spotify.com/artist/5gToXiJixvWtYGI1S3uGhM) | [Te Oud](https://open.spotify.com/album/5wbtj1J3mo29AdYPHfV5EY) | 2:25 | 2023-05-19 | 2023-05-26 |
 | [TE QUIERO](https://open.spotify.com/track/5wuUYQbVwJSLPvt4Ra7VUx) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [TE QUIERO](https://open.spotify.com/album/1VBdiqMYdsazDcUBDBPTRL) | 3:13 | 2024-07-26 | 2024-08-02 |
 | [Te Snel Gaan](https://open.spotify.com/track/4rvTIATjjaIWKGteMDyKcG) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Te Snel Gaan](https://open.spotify.com/album/5iA8J7oYGbXPoDTIJDAMk3) | 2:21 | 2025-03-06 | 2025-03-14 |
+| [Te Waar Om Mooi Te Zijn](https://open.spotify.com/track/4hihzc1FWSnlMGRnYEZm7s) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/album/02u6G4zpAqzWsthZTSjkc0) | 2:55 | 2025-03-13 |  |
 | [TEAM](https://open.spotify.com/track/2TCAG3r7Vzo5Whhv3HsGnD) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Mad Max](https://open.spotify.com/artist/6chYNtR0TmVuFMu0TCddJn) | [TEAM](https://open.spotify.com/album/7iskfwC79CndLWRuT3jfVf) | 2:50 | 2024-09-12 | 2024-09-20 |
 | [TEAM \(feat\. Eelco\)](https://open.spotify.com/track/0joG1svRO3IkZsax2ok2Tz) | [Ash Atlas](https://open.spotify.com/artist/0P2clqDfn9xqCcHo77r2ff), [Eelco](https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX) | [TEAM \(feat\. Eelco\)](https://open.spotify.com/album/7KCbgmtJVzWyoL760r0w0Y) | 2:44 | 2024-03-14 | 2024-03-22 |
 | [Team Rocket](https://open.spotify.com/track/4Tm8M7KYykeIBM9D0wpMbH) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Team Rocket](https://open.spotify.com/album/7cBbGmOXEFQ2F08cHuBp3d) | 2:48 | 2024-11-14 | 2024-11-22 |

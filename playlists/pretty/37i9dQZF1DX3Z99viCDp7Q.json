@@ -1,6 +1,6 @@
 {
   "description": "Special songs for your special day. Cover: Alex Warren and Kouvr Annon \ud83d\udc97",
-  "num_followers": 245387,
+  "num_followers": 245423,
   "original_name": "Wedding Songs",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-10-10 14:04:48",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2024-10-10 14:04:48",
+      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2024-10-10 14:04:48",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2024-10-10 14:04:48",
@@ -979,6 +979,10 @@
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
       },
       "artists": [
+        {
+          "name": "Susanna Hoffs",
+          "url": "https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL"
+        },
         {
           "name": "The Bangles",
           "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"

@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [42](https://open.spotify.com/track/3T7hn54qWtZIEpJK2XeClP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 4:00 | 2024-09-20 | 2025-03-03 |
-| [42](https://open.spotify.com/track/4et0Q36ts1NyLR7LrOxrUA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 4:00 | 2025-03-03 |  |
+| [42](https://open.spotify.com/track/3T7hn54qWtZIEpJK2XeClP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 4:00 | 2024-09-20 |  |
+| [42](https://open.spotify.com/track/4et0Q36ts1NyLR7LrOxrUA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 4:00 | 2025-03-03 | 2025-03-15 |
 | [After the Storm](https://open.spotify.com/track/2Omy3B47TotpL7yDfArVqQ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:05 | 2022-10-27 | 2023-08-28 |
 | [After the Storm](https://open.spotify.com/track/6jEvloulrt9iCYW9IXJ2yi) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:08 | 2022-09-16 | 2022-10-28 |
 | [Awake My Soul](https://open.spotify.com/track/0Xl58lOsnUJ9YmzBkhcNtv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 4:15 | 2024-11-05 |  |

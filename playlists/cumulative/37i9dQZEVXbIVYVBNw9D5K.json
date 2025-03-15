@@ -6380,6 +6380,28 @@
     {
       "album": {
         "name": "DOYAMADIM",
+        "url": "https://open.spotify.com/album/7pIisLWP0gTbfgDCD8OKJx"
+      },
+      "artists": [
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157128,
+      "name": "DOYAMADIM",
+      "url": "https://open.spotify.com/track/2csQwIXVZb7fCO980XqCHr"
+    },
+    {
+      "album": {
+        "name": "DOYAMADIM",
         "url": "https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK"
       },
       "artists": [
@@ -8280,7 +8302,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 186562,
       "name": "GELME \u0130STEMEM",
       "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"

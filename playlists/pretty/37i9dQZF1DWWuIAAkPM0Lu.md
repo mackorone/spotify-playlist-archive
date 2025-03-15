@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:2rR0cafJvL0JVTC8E2qIqt">Saveus</a>, Benny Jamz, Selena Gomez og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,249 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,351 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,15 +101,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 91 | [all I need is just someone to love](https://open.spotify.com/track/36ERTzARTob6CG68IcKpNW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 2:26 |
 | 92 | [Fast Love](https://open.spotify.com/track/6rq9wbk0k7DJsP4s2MaXWW) | [Vita Dosa](https://open.spotify.com/artist/2RIVJGnY4qErxtOkktk7aW), [toechter](https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL) | [Fast Love](https://open.spotify.com/album/0LN6MiR8kCS88K4cSLEXdg) | 3:18 |
 | 93 | [5 More Minutes](https://open.spotify.com/track/25qv6PvbHW0GMYk4kUMoYe) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [5 More Minutes](https://open.spotify.com/album/49vsMuNEs4tOu4GzBsQP0e) | 3:11 |
-| 94 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 |
-| 95 | [Love United](https://open.spotify.com/track/6aoggKAjblyMdPebw2uYDG) | [Pumps](https://open.spotify.com/artist/55t9SVasbrl559D29XtPrl) | [Love United](https://open.spotify.com/album/5GEcp8Q9AVHA6FA8PvY0BO) | 2:26 |
-| 96 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
-| 97 | [Heritage Listed](https://open.spotify.com/track/0kIYD0pAnifMPAXyEb6geu) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Heritage Listed](https://open.spotify.com/album/4qrS0yQIAKMIKr6XajgXnD) | 3:18 |
-| 98 | [Hello](https://open.spotify.com/track/4PTh4Tu8zgGZKTLD9uWwM0) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hello](https://open.spotify.com/album/3bkxRtwYubbi6EVygo6HRt) | 2:55 |
-| 99 | [Full\-Time Driver](https://open.spotify.com/track/13kf0VZqvcNAbJ8QlbwDxy) | [Stephanie Meincke](https://open.spotify.com/artist/5FqFBDlBDfwVU1cEr9lagi) | [Never Not Thinking](https://open.spotify.com/album/4K609BoWwDamKyaq4AnCtC) | 3:58 |
-| 100 | [Fordi](https://open.spotify.com/track/04fqDApyLKRYPHTXCKeK1d) | [Roxy Jules](https://open.spotify.com/artist/4tJHsHFJWKbVs3MxWKPUg2) | [Fordi](https://open.spotify.com/album/0HUQOUvVMEK19SL4jrX6Rb) | 3:02 |
-| 101 | [Wish We Were Closer](https://open.spotify.com/track/6jlsNtIiP1XNzrIOmgeita) | [Cody](https://open.spotify.com/artist/4HGUydh9BtymmiwT62K7wT) | [Wish We Were Closer](https://open.spotify.com/album/6k16wRwntYpNEZBVW5BCnn) | 4:08 |
-| 102 | [under the surface](https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F) | [Alma Owren](https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE) | [Under The Surface](https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6) | 4:19 |
-| 103 | [Rhythm of Love](https://open.spotify.com/track/7fd4gTMhiTwKAcUxNG5dHO) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Rhythm of Love](https://open.spotify.com/album/0Uk5EHLANopfR4a7a8PjS0) | 3:06 |
+| 94 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 |
+| 95 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 |
+| 96 | [Love United](https://open.spotify.com/track/6aoggKAjblyMdPebw2uYDG) | [Pumps](https://open.spotify.com/artist/55t9SVasbrl559D29XtPrl) | [Love United](https://open.spotify.com/album/5GEcp8Q9AVHA6FA8PvY0BO) | 2:26 |
+| 97 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
+| 98 | [Heritage Listed](https://open.spotify.com/track/0kIYD0pAnifMPAXyEb6geu) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Heritage Listed](https://open.spotify.com/album/4qrS0yQIAKMIKr6XajgXnD) | 3:18 |
+| 99 | [Hello](https://open.spotify.com/track/4PTh4Tu8zgGZKTLD9uWwM0) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hello](https://open.spotify.com/album/3bkxRtwYubbi6EVygo6HRt) | 2:55 |
+| 100 | [Full\-Time Driver](https://open.spotify.com/track/13kf0VZqvcNAbJ8QlbwDxy) | [Stephanie Meincke](https://open.spotify.com/artist/5FqFBDlBDfwVU1cEr9lagi) | [Never Not Thinking](https://open.spotify.com/album/4K609BoWwDamKyaq4AnCtC) | 3:58 |
+| 101 | [Fordi](https://open.spotify.com/track/04fqDApyLKRYPHTXCKeK1d) | [Roxy Jules](https://open.spotify.com/artist/4tJHsHFJWKbVs3MxWKPUg2) | [Fordi](https://open.spotify.com/album/0HUQOUvVMEK19SL4jrX6Rb) | 3:02 |
+| 102 | [Wish We Were Closer](https://open.spotify.com/track/6jlsNtIiP1XNzrIOmgeita) | [Cody](https://open.spotify.com/artist/4HGUydh9BtymmiwT62K7wT) | [Wish We Were Closer](https://open.spotify.com/album/6k16wRwntYpNEZBVW5BCnn) | 4:08 |
+| 103 | [under the surface](https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F) | [Alma Owren](https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE) | [Under The Surface](https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6) | 4:19 |
+| 104 | [Rhythm of Love](https://open.spotify.com/track/7fd4gTMhiTwKAcUxNG5dHO) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Rhythm of Love](https://open.spotify.com/album/0Uk5EHLANopfR4a7a8PjS0) | 3:06 |
 
 Snapshot ID: `Z9NjggAAAAB1Z+3oBODIb6kJCEZgjprj`

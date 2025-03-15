@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9436,
+  "num_followers": 9442,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA2SHAZ4xuwPLxm8AYkBG5t",
+  "snapshot_id": "Z9IgAAAAAAB2lD+e9Ez7ZFtNdcjKVIYn",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
-        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
+        "name": "Pa' Destapar La Hielera (En Vivo)",
+        "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         }
       ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
+      "duration_ms": 173499,
+      "name": "El Jabali - En Vivo",
+      "url": "https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z"
     },
     {
       "added_at": null,
@@ -231,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Destapar La Hielera (En Vivo)",
-        "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
+        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
+        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         }
       ],
-      "duration_ms": 173499,
-      "name": "El Jabali - En Vivo",
-      "url": "https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z"
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "El Mes De Enero",
-      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
       },
@@ -323,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 147330,
-      "name": "La Pasadita - En Vivo",
-      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
+      "duration_ms": 216333,
+      "name": "El Mes De Enero",
+      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     },
     {
       "added_at": null,
@@ -355,6 +335,26 @@
       "duration_ms": 162586,
       "name": "Se Equivoc\u00f3 El Pistolero",
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Banda",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
+        }
+      ],
+      "duration_ms": 147330,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 138453,
+      "name": "Yo Fui el Se\u00f1or de los Llanos",
+      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 189033,
       "name": "La Vida Prestada - En Vivo",
       "url": "https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 138453,
-      "name": "Yo Fui el Se\u00f1or de los Llanos",
-      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 200596,
-      "name": "Los 3 Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -503,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Banda",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "Los 3 Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 210253,
       "name": "La Carrucha",
       "url": "https://open.spotify.com/track/55mqlCzGFS1szEKuaxL8mI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "La Compra y Venta",
+      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
       "duration_ms": 216850,
       "name": "La Clave 7 - En Vivo",
       "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "La Compra y Venta",
-      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Los Juniors De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cama de Piedra (En Vivo)",
         "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 200377,
       "name": "La Cama de Piedra (En Vivo)",
       "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Los Juniors De Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "El Cisne",
-      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
@@ -743,6 +727,26 @@
       "duration_ms": 161493,
       "name": "Chapo Guzm\u00e1n",
       "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
+        }
+      ],
+      "duration_ms": 162771,
+      "name": "Gilberto Palomares",
+      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
     },
     {
       "added_at": null,
@@ -783,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 162771,
-      "name": "Gilberto Palomares",
-      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -819,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Compa Many (En Vivo)",
-        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
       "artists": [
         {
@@ -828,9 +812,25 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 171363,
-      "name": "El Compa Many - En Vivo",
-      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
+      "duration_ms": 181026,
+      "name": "El Cisne",
+      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Compa Alfredito",
+      "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+        "name": "El Compa Many (En Vivo)",
+        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 182773,
-      "name": "Compa Alfredito",
-      "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
+      "duration_ms": 171363,
+      "name": "El Compa Many - En Vivo",
+      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
     },
     {
       "added_at": null,

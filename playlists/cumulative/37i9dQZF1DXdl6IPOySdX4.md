@@ -4,7 +4,7 @@
 
 > you up?
 
-487 songs - 1 day 3 hr 12 min
+488 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [CIGARETTES](https://open.spotify.com/track/3TfTZ3fGLYtR1azsY8iEp4) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [None Of The Clocks Work](https://open.spotify.com/album/1k3MYSTe3zls106XkVRhuW) | 3:10 | 2022-02-11 | 2022-04-20 |
 | [Climax](https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:52 | 2022-03-25 | 2022-04-19 |
 | [Close](https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/1J1mjhlth8XnU8ttfRKp5r) | 3:54 | 2022-03-25 | 2022-04-15 |
-| [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-06-08 |  |
+| [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-06-08 | 2025-03-15 |
 | [coffee](https://open.spotify.com/track/6vMpPxLV0F5Diwcs6awI1Z) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Wildheart \(Deluxe Version\)](https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ) | 4:46 | 2022-03-28 | 2024-03-16 |
 | [Coke & Henny Pt\. 2](https://open.spotify.com/track/6tlan2FHMyIKBRR62zxusZ) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2 EP](https://open.spotify.com/album/6G7fYS2aqolLZG6B1XJxmf) | 2:37 | 2022-03-25 | 2022-04-20 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2022-03-28 | 2022-04-20 |
@@ -160,6 +160,7 @@
 | [FOR HER](https://open.spotify.com/track/222I8H4WtvuCcTfAfVW0qw) | [Xavier Mayne](https://open.spotify.com/artist/5ZD5SEaKtPcA27WyUOwcxS), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [FOR HER](https://open.spotify.com/album/3jOOq6eiY7RBBGfFK4stnG) | 4:03 | 2022-11-11 | 2022-11-19 |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2022-02-04 |  |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-02-04 |  |
+| [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 | 2025-03-14 |  |
 | [Friends](https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia](https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau) | 3:50 | 2022-02-04 | 2023-10-11 |
 | [Friends](https://open.spotify.com/track/7uDUb37h7Xdhza1eWMkoJv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia \- EP](https://open.spotify.com/album/4hZ8kmFKSmguXiWpGjUzcF) | 3:50 | 2023-11-17 | 2024-04-19 |
 | [Friendzone](https://open.spotify.com/track/5OS46yuAV5pRqeCxrRw7XL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:30 | 2022-03-25 | 2022-04-21 |

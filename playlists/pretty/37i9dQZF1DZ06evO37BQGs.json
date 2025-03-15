@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADOPku2n0uRV3Cv5HS5QG80",
+  "snapshot_id": "Z9IgAAAAAAAqIMdxvU7+d5QHe/dsENpH",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Still Be Here",
-      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
+      "duration_ms": 207506,
+      "name": "What You Get",
+      "url": "https://open.spotify.com/track/0dGSOoOgiwqguvIO0WH39s"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 207506,
-      "name": "What You Get",
-      "url": "https://open.spotify.com/track/0dGSOoOgiwqguvIO0WH39s"
+      "duration_ms": 228373,
+      "name": "Still Be Here",
+      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 273466,
-      "name": "No Pretending",
-      "url": "https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3"
+      "duration_ms": 217493,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 217493,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu"
+      "duration_ms": 273466,
+      "name": "No Pretending",
+      "url": "https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 183906,
-      "name": "I'll Never Know",
-      "url": "https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC"
+      "duration_ms": 229266,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill Your Own",
-        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
+      "duration_ms": 183906,
+      "name": "I'll Never Know",
+      "url": "https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill Your Own",
-        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
+        "name": "Quick The Word Sharp The Action",
+        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
+      "duration_ms": 238573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,

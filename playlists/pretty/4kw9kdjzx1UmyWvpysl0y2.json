@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125439,
+  "num_followers": 125446,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATyzdAhaRsU3lV9ycfLn5N3RvWUDYI",
+  "snapshot_id": "AAATzDPc+nrpYsHYjTNAQynJYUw16p73",
   "tracks": [
+    {
+      "added_at": "2025-03-14 14:28:10",
+      "album": {
+        "name": "Back 2 The Rave",
+        "url": "https://open.spotify.com/album/3Uf3ZTYmR2zZaf4pYCxnwi"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        },
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Back 2 The Rave",
+      "url": "https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd"
+    },
     {
       "added_at": "2025-03-13 14:38:49",
       "album": {

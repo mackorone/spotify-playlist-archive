@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 45487,
+  "num_followers": 45489,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB9Lwm/7pBkRptvzBhpRqiQ",
+  "snapshot_id": "Z9IgAAAAAAAA28sjX//5Ysz5tVlFXyP9",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Te Regalo La Lluvia",
+      "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Color Esperanza / S\u00f3lo le Pido a Dios (Versi\u00f3n M\u00e9xico)",
         "url": "https://open.spotify.com/album/1eQ25ITdG0bmvBlRCtACk2"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 223906,
       "name": "Color Esperanza / S\u00f3lo le Pido a Dios - Versi\u00f3n M\u00e9xico",
       "url": "https://open.spotify.com/track/6Z48v2xlf3H66cgxz6Rxg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Te Regalo La Lluvia",
-      "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
     },
     {
       "added_at": null,

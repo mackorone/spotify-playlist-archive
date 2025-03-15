@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Billy F Gibbons
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,411 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,532 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Devil's In The Delta](https://open.spotify.com/track/38J3KpKcaeIr9MHRrNqpE9) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Micah Willis](https://open.spotify.com/artist/3n6N43pjBB2dGOjDvsAjMC) | [Devil's In The Delta](https://open.spotify.com/album/31dmiaaeZ5GPjGK4APLX7A) | 4:28 |
-| 2 | [Look Out Highway](https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7) | 3:31 |
-| 3 | [Hey Baby \(What Are We Gonna Do\)](https://open.spotify.com/track/4mahrABVv4bWz89pQCvURX) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Hey Baby \(What Are We Gonna Do\)](https://open.spotify.com/album/03eSdbYiHt5sLyFDa4GlL0) | 3:58 |
-| 4 | [Shake This Ground](https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Shake This Ground](https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs) | 4:07 |
-| 5 | [A Little Bit Of Freedom](https://open.spotify.com/track/1NquwZ5Gwc99qfXRBKrojB) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [A Little Bit Of Freedom](https://open.spotify.com/album/5gw3hXiaFesxfnDr4xP8k1) | 3:09 |
-| 6 | [Big Legged Woman](https://open.spotify.com/track/00TKSt0hEavnD9JnNmJ66E) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Big Legged Woman](https://open.spotify.com/album/2uOWCYOp5q5NHUqtn3yhQI) | 4:08 |
+| 1 | [She's a Burglar](https://open.spotify.com/track/1HrmuN1wQqriGqfh3DLJDH) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [She’s a Burglar](https://open.spotify.com/album/40V4cWIRG38FH4DMKwTvXX) | 2:42 |
+| 2 | [Devil's In The Delta](https://open.spotify.com/track/38J3KpKcaeIr9MHRrNqpE9) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Micah Willis](https://open.spotify.com/artist/3n6N43pjBB2dGOjDvsAjMC) | [Devil's In The Delta](https://open.spotify.com/album/31dmiaaeZ5GPjGK4APLX7A) | 4:28 |
+| 3 | [Look Out Highway](https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7) | 3:31 |
+| 4 | [Hey Baby \(What Are We Gonna Do\)](https://open.spotify.com/track/4mahrABVv4bWz89pQCvURX) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Hey Baby \(What Are We Gonna Do\)](https://open.spotify.com/album/03eSdbYiHt5sLyFDa4GlL0) | 3:58 |
+| 5 | [Shake This Ground](https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Shake This Ground](https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs) | 4:07 |
+| 6 | [A Little Bit Of Freedom](https://open.spotify.com/track/1NquwZ5Gwc99qfXRBKrojB) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [A Little Bit Of Freedom](https://open.spotify.com/album/5gw3hXiaFesxfnDr4xP8k1) | 3:09 |
 | 7 | [Rum Boogie](https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Rum Boogie](https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx) | 3:17 |
 | 8 | [Holes](https://open.spotify.com/track/5bocGWPWTmgtGmRyaO6Mf5) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [Holes](https://open.spotify.com/album/1ByWdJ5vknzNoOPT5RR4pt) | 3:54 |
 | 9 | [Runaway \- Radio Edit](https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Runaway \(Radio Edit\)](https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Malahani](https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:59 |
 | 100 | [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 |
 
-Snapshot ID: `Z8FC8AAAAADglYZuSX6tixmnuj9tXnHB`
+Snapshot ID: `Z9OpxQAAAAAd+GIxwVngxi4wTp3yznLx`

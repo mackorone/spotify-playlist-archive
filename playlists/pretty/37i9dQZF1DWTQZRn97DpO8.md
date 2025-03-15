@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Cikey
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,085 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,123 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 23 | [le feu.](https://open.spotify.com/track/3WhBuw0WQPRKrAcRM5dVRB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [pluie, montagnes et soleil](https://open.spotify.com/album/1Q88dZPYDQVlUAorApFINM) | 3:17 |
 | 24 | [grande ville](https://open.spotify.com/track/24vfx89MqkSmmZUHj3mStn) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [fleur](https://open.spotify.com/album/6xeJIwfDSl58We4StnIwca) | 3:00 |
 | 25 | [IN YOUR EYES](https://open.spotify.com/track/6tuIekiRS3sTmjraB4EI2y) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [NP2 \(DELUXE\)](https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs) | 3:14 |
-| 26 | [Priorité](https://open.spotify.com/track/30rmEZR20unk6hPJoyKPnb) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:33 |
+| 26 | [Priorité](https://open.spotify.com/track/30rmEZR20unk6hPJoyKPnb) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:34 |
 | 27 | [TSUNAMI](https://open.spotify.com/track/0N4BcIilo0OZBRBlfA1KRo) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:20 |
 | 28 | [15 ans](https://open.spotify.com/track/7DD6DvfuWsWCKLCfzHRgQa) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin : Prequel](https://open.spotify.com/album/2Ech0WTe6WsoYZ7AJbGI2z) | 2:51 |
 | 29 | [Dis le moi](https://open.spotify.com/track/5Ccv0IrPdyWeLk0QGeNeP4) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [Dis le moi](https://open.spotify.com/album/1U2GLdtNAjCKHQYAVSYe9Q) | 2:29 |

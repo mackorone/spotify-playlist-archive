@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JISOO",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LISA",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 242181,
       "name": "9 \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB"
@@ -404,10 +404,54 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
+    },
+    {
+      "album": {
+        "name": "BOW WOW",
+        "url": "https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "BOW WOW",
+      "url": "https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE"
     },
     {
       "album": {
@@ -542,6 +586,32 @@
       "duration_ms": 253333,
       "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
       "url": "https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230171,
+      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+      "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
     },
     {
       "album": {
@@ -708,7 +778,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 229000,
       "name": "Faded",
       "url": "https://open.spotify.com/track/0B8qRHYzge3cngxYMtBwPB"
@@ -1516,6 +1586,28 @@
       "duration_ms": 262758,
       "name": "ONE GIRL",
       "url": "https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT (feat. PiXXiE)",
+        "url": "https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        },
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172850,
+      "name": "ONE SHOT (feat. PiXXiE)",
+      "url": "https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6"
     },
     {
       "album": {
@@ -3890,7 +3982,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 243697,
       "name": "\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ"

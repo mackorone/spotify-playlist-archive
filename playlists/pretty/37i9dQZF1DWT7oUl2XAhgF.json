@@ -1,28 +1,64 @@
 {
-  "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 358102,
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "num_followers": 358157,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZgAAAAATMJLl1M9SBkZBQ1NciXDm",
+  "snapshot_id": "Z9OpyAAAAABc1pUMCx6Np77vNgFa0Tpe",
   "tracks": [
     {
-      "added_at": "2025-02-14 05:00:14",
+      "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "ICNBYH",
-        "url": "https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB"
+        "name": "Just As Long As We're Together",
+        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 194992,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "My 45 (with Jean Carter)",
+        "url": "https://open.spotify.com/album/7mEwuN28ktuDL0y0bL4iB3"
       },
       "artists": [
         {
           "name": "Cuco",
           "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Jean Carter",
+          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
         }
       ],
-      "duration_ms": 197305,
-      "name": "ICNBYH",
-      "url": "https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A"
+      "duration_ms": 178841,
+      "name": "My 45 (with Jean Carter)",
+      "url": "https://open.spotify.com/track/0bkjYsOt7EDEjW1SdUsVx6"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "Momma Earth",
+        "url": "https://open.spotify.com/album/58Lye0z0I1uOJI0mdSkL4z"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearl",
+          "url": "https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn"
+        }
+      ],
+      "duration_ms": 172224,
+      "name": "Momma Earth",
+      "url": "https://open.spotify.com/track/0uFCJosTOS3pPDImbWhdpT"
     },
     {
       "added_at": "2025-02-28 05:00:40",
@@ -315,22 +351,6 @@
       "duration_ms": 209426,
       "name": "Love Moves Slow",
       "url": "https://open.spotify.com/track/7Dtm1JGVXnXksAhyx3bPhV"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1671,22 +1691,6 @@
       "duration_ms": 249280,
       "name": "You Can Count On Me",
       "url": "https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Angels & Queens (Deluxe)",
-        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Great Wind",
-      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     }
   ],
   "unique_name": "Retro Soul",

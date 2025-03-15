@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 0 min
+85 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Lumbre](https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY) | 3:51 | 2023-12-30 |  |
 | [Lumbre](https://open.spotify.com/track/5JKDc7HClAX7gTibgUjuwu) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Inmensidades](https://open.spotify.com/album/53KaEPa4Kfa1B3k6CCCexq) | 3:51 | 2023-11-10 | 2023-12-31 |
 | [Malas Decisiones](https://open.spotify.com/track/1TcbvR0qvhA07FZvMShKjb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Malas Decisiones](https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ) | 3:43 | 2023-11-10 | 2024-01-06 |
+| [María / "Aroma de Jardín"](https://open.spotify.com/track/4EpisBsyznGvegvu1luper) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 4:16 | 2025-03-15 |  |
 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 | 2023-11-10 |  |
-| [Me Toca Perder](https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Me Toca Perder](https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6) | 2:54 | 2023-11-10 |  |
+| [Me Toca Perder](https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Me Toca Perder](https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6) | 2:54 | 2023-11-10 | 2025-03-15 |
 | [Mil Escalas](https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Mil Escalas](https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6) | 2:24 | 2023-11-10 | 2024-02-28 |
 | [Mis Ojos No Podían Ver](https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:43 | 2024-08-25 |  |
 | [Mis Ojos No Podían Ver \- En Vivo](https://open.spotify.com/track/3A8qwCz85Ql1Rdpp4AoZVX) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [En Vivo Desde el Plaza Condesa](https://open.spotify.com/album/7bWSpaa8JaPu7q9qmv5RnT) | 3:21 | 2023-11-10 | 2024-04-29 |

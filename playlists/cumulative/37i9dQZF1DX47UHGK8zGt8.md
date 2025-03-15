@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-287 songs - 16 hr 15 min
+288 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Amor Todinho](https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Amor Todinho](https://open.spotify.com/album/6twToesubSRehurAORMXrC) | 2:37 | 2024-03-01 | 2024-03-19 |
 | [Andarilho](https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Andarilho](https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0) | 3:50 | 2022-02-18 | 2023-03-13 |
 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-02-02 | 2024-05-07 |
-| [Antes de Tudo](https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 3:49 | 2024-04-26 |  |
+| [Antes de Tudo](https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 3:49 | 2024-04-26 | 2025-03-15 |
+| [Ao Seu Dispor](https://open.spotify.com/track/2WIL1zCwKdXb82PR7X1wEc) | [Luã Yvys](https://open.spotify.com/artist/34ykAn2yxSBubidCEVIccc) | [Ao Seu Dispor](https://open.spotify.com/album/1w2NMAsHIMGei88tEYrQKV) | 2:48 | 2025-03-14 |  |
 | [Aquarela: Aviador](https://open.spotify.com/track/2zHfO8ye2LPw4r8cjgh7UD) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL), [Aquarela](https://open.spotify.com/artist/0ly4o2fdFAf19DOOC0vv8m), [Brenda Luce](https://open.spotify.com/artist/0Tlf2OcP0TAOc6Y3RqJ9Qz), [Glenda Rolim](https://open.spotify.com/artist/2NqjLcW1LVMYcIcTV5J1WO) | [Aquarela: Aviador](https://open.spotify.com/album/180pnhueoUeVKiOyiRR2DO) | 4:25 | 2022-02-18 | 2022-07-29 |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |

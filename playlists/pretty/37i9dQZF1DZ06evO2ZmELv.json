@@ -1,12 +1,12 @@
 {
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
-  "num_followers": 214,
+  "num_followers": 215,
   "original_name": "This Is Cheli Madrid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADUloF/nCE8/pTNNVZmeZ4C",
+  "snapshot_id": "Z9IgAAAAAACdLXdt9wvk206ob1Uh123i",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Merec\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 181970,
+      "name": "Merec\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Raro de Mi Libreta",
         "url": "https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN"
       },
@@ -119,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merec\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/0OB9Olc1tCcJ9ZfLKcGaZl"
       },
       "artists": [
         {
@@ -128,9 +144,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 181970,
-      "name": "Merec\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
+      "duration_ms": 176465,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/0pklfnxnp6v89Io3mIP8pF"
     },
     {
       "added_at": null,
@@ -147,22 +163,6 @@
       "duration_ms": 174644,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/0qxubTnyRFzE2gAD4RhPMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Tesoro",
-        "url": "https://open.spotify.com/album/0OB9Olc1tCcJ9ZfLKcGaZl"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 176465,
-      "name": "Mi Tesoro",
-      "url": "https://open.spotify.com/track/0pklfnxnp6v89Io3mIP8pF"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 229774,
-      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
+      "duration_ms": 198469,
+      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 198469,
-      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
-      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
+      "duration_ms": 229774,
+      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Causa Perdida",
-        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
+        "name": "Un D\u00eda 27",
+        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 194047,
-      "name": "Causa Perdida",
-      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+      "duration_ms": 191542,
+      "name": "Un D\u00eda 27",
+      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
     },
     {
       "added_at": null,
@@ -704,15 +704,15 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+      "duration_ms": 186624,
+      "name": "Chuchuluqueando - En Vivo",
+      "url": "https://open.spotify.com/track/2gAupLmtufI2V605ottAuV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda 27",
-        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
+        "name": "Causa Perdida",
+        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
       },
       "artists": [
         {
@@ -720,9 +720,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 191542,
-      "name": "Un D\u00eda 27",
-      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
+      "duration_ms": 194047,
+      "name": "Causa Perdida",
+      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Me Bebi Tu Recuerdo",
+        "url": "https://open.spotify.com/album/5fVPMn4h5ZPFEUJBHEs8lF"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 190682,
+      "name": "Y Me Bebi Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1DQ8PVNmNJqGVHBZSkoK5L"
     },
     {
       "added_at": null,
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200463,
-      "name": "Al Ver Que Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj"
+      "duration_ms": 206058,
+      "name": "Besos de Papel - En Vivo",
+      "url": "https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

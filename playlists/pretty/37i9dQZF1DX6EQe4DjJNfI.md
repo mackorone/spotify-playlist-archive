@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,270 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,277 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 60 | [Porto Seguro](https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8) | [Caio G](https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5), [Netto Galdino](https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS) | [Porto Seguro](https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ) | 2:48 |
 | 61 | [Dispara](https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Jade.](https://open.spotify.com/artist/4gwfGCGuOO6FEbIKMDg3mV), [Karen Fialho](https://open.spotify.com/artist/24cnkMLmyXSRmdPKkGTYVq) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 2:56 |
 | 62 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
-| 63 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
+| 63 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
 | 64 | [tô por você](https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 2:53 |
-| 65 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
+| 65 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
 | 66 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |
 | 67 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 |
 | 68 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |

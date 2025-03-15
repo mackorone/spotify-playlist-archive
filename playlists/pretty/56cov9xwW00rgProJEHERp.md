@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,546 likes - 60 songs - 3 hr 30 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,546 likes - 63 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,8 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 58 | [Daisy](https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL) | 3:37 |
 | 59 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 |
 | 60 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 61 | [Something Over Nothing](https://open.spotify.com/track/7jWbNFfemzCd2icPYnNZEP) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Something Over Nothing](https://open.spotify.com/album/6avVFLrUE06U1uDZLjGIww) | 3:15 |
+| 62 | [ok](https://open.spotify.com/track/4FcVcASfnIedJfxIi0a2QM) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [ok](https://open.spotify.com/album/1M59UjZ6KQLUnNERnpmBeD) | 3:38 |
+| 63 | [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 |
 
-Snapshot ID: `AAAVHAlsRknzlj6j8i55LscgnVucyZOV`
+Snapshot ID: `AAAVH7Z6G+KGOD0YrF/qMeplT5syALFo`

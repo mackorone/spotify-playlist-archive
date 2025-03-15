@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Tiji Jojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,868 likes - 81 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,886 likes - 81 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

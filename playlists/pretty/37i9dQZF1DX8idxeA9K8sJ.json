@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 980329,
+  "num_followers": 980639,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Reflexiones",
-        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "\u00bfY Qu\u00e9?",
-      "url": "https://open.spotify.com/track/4TZdC8azeblwQqbvFotNvS"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 211733,
       "name": "Te Amar\u00e9",
       "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Reflexiones",
+        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "\u00bfY Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4TZdC8azeblwQqbvFotNvS"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -811,38 +811,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Besos De Ceniza",
-      "url": "https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -855,6 +823,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -875,6 +859,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Besos De Ceniza",
+      "url": "https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 286080,
       "name": "Si no te tengo a ti",
       "url": "https://open.spotify.com/track/6IeJcGYibtUKl9QnAupnYi"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -923,18 +907,34 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 263320,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 263320,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "\u00bfY Qui\u00e9n Puede Ser?",
-      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Al Norte Del Sur",
         "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 309973,
       "name": "Louis",
       "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Reflexiones",
+        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/29XaS3POtNrgCl8sewWM0v"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Reflexiones",
-        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/29XaS3POtNrgCl8sewWM0v"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
+        "name": "Rocio Durcal Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 298466,
-      "name": "He Venido a Pedirte Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5q2RfBEFzNOXLY4LPluf5g"
+      "duration_ms": 180333,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Rocio Durcal Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 180333,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
+      "duration_ms": 298466,
+      "name": "He Venido a Pedirte Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5q2RfBEFzNOXLY4LPluf5g"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
-      },
-      "artists": [
-        {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Yo No Me Llamo Javier",
-      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
       },
@@ -1275,6 +1259,38 @@
       "duration_ms": 224733,
       "name": "Fiesta En Am\u00e9rica",
       "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Hay Amores Y Amores",
+        "url": "https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "C\u00f3mo Han Pasado los A\u00f1os",
+      "url": "https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "30 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+      },
+      "artists": [
+        {
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Yo No Me Llamo Javier",
+      "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Hay Amores Y Amores",
-        "url": "https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "C\u00f3mo Han Pasado los A\u00f1os",
-      "url": "https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "MTV Unplugged: Con El Alma Desnuda",
         "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 242693,
       "name": "Enamorandonos (Just Like Starting Over)",
       "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1411,38 +1427,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Un Angel",
-        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Orgullosa Nena",
-      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 234546,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Un Angel",
+        "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Orgullosa Nena",
+      "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
     },
     {
       "added_at": "2020-06-24 19:34:30",

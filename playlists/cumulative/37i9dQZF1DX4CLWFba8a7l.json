@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2025-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
+    },
+    {
+      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB"
       },
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"

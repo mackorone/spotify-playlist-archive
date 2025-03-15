@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Kelsea Ballerini",
+  "description": "Today's top country hits. Cover: Warren Zeiders",
   "name": "Hot Country",
   "tracks": [
     {
@@ -8193,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Too",
+        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191928,
+      "name": "Leave Me Too",
+      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
+    },
+    {
+      "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
       },
@@ -10816,7 +10834,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 208266,
       "name": "Out of Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
@@ -11806,7 +11824,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 307325,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA"
@@ -13526,6 +13544,24 @@
       "duration_ms": 187880,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7"
+    },
+    {
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "album": {

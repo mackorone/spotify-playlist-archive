@@ -4,7 +4,7 @@
 
 > Achille Lauro sulla cover della playlist più grande in Italia! 🏆
 
-179 songs - 9 hr 19 min
+180 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-11 | 2025-02-14 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-13 |  |
 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 | 2024-10-11 |  |
+| [no vabbè \(feat\. Lazza\)](https://open.spotify.com/track/6A2dRDIBolKdUxbPmTHz4W) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [radio vega](https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ) | 2:40 | 2025-03-14 |  |
 | [Non mi basta mai \(feat\. Frah Quintale, Capo Plaza\)](https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:34 | 2024-12-12 | 2025-01-18 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-12 | 2025-02-28 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-16 |  |
@@ -143,7 +144,7 @@
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-08-07 | 2024-11-16 |
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-06-28 | 2024-07-05 |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-12 |  |
-| [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-08-01 |  |
+| [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-08-01 | 2025-03-15 |
 | [ROSSOFUOCO](https://open.spotify.com/track/48I2h2HnPqS1CMSlz7bZ7E) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [IL SOLE DENTRO](https://open.spotify.com/album/50LwyAhGEJXyf8EZW3dIAa) | 2:42 | 2024-06-28 | 2024-09-06 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-11-15 | 2025-02-13 |
 | [Sant'allegria \- Jack Sani Remix](https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN) | [Sant'allegria \(Jack Sani Remix\)](https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w) | 2:27 | 2024-11-07 |  |

@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-376 songs - 15 hr 3 min
+377 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Persante \- Upright Reframings](https://open.spotify.com/track/3XYRWuuhTJjuZliSwjOrpg) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Persante \(Upright Reframings\)](https://open.spotify.com/album/1omkkDbnJ9ZjLv8eUChy9V) | 2:14 | 2023-08-15 |  |
 | [Places](https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Places](https://open.spotify.com/album/0qrg9kqWFOZsiwQM5o418l) | 3:30 | 2024-05-14 |  |
 | [Playful Waters](https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Playful Waters](https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd) | 2:32 | 2024-11-26 |  |
+| [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 | 2025-03-14 |  |
 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 | 2023-05-15 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2023-05-15 |  |
 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 | 2023-05-15 |  |

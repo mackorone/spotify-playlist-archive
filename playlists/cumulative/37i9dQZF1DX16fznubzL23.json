@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Must Have Been",
+        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156320,
+      "name": "Must Have Been",
+      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+    },
+    {
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -2894,6 +2912,28 @@
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+    },
+    {
+      "album": {
+        "name": "NEW ROAD AND GUAVA TREES",
+        "url": "https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175881,
+      "name": "MY GOD",
+      "url": "https://open.spotify.com/track/7gPVRKLI0f99o5V7NEfPEs"
     },
     {
       "album": {
@@ -4149,6 +4189,28 @@
     },
     {
       "album": {
+        "name": "Toro - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194436,
+      "name": "Toro - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
+    },
+    {
+      "album": {
         "name": "My WorlD With U",
         "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
       },
@@ -4502,7 +4564,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 149160,
       "name": "Wicked Jazz",
       "url": "https://open.spotify.com/track/5OfBwAgbfsPb6dvPLFvrfH"

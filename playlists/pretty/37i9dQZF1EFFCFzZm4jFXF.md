@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 57 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
 | 58 | [Midnight](https://open.spotify.com/track/0QDXHAPzManj6nrpAaIDvq) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Midnight](https://open.spotify.com/album/6YC6iMp9rv2swytDsECKbX) | 3:13 |
 | 59 | [Strangers](https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Strangers](https://open.spotify.com/album/3NfgRNjjFzEK2yVk4hwuug) | 3:18 |
-| 60 | [Rockstar](https://open.spotify.com/track/0yu3K4ZrI0miwP6vMMiL40) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:16 |
-| 61 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
+| 60 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
+| 61 | [Rockstar](https://open.spotify.com/track/0yu3K4ZrI0miwP6vMMiL40) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:16 |
 | 62 | [Circus](https://open.spotify.com/track/62bw5Ul7YeOXsQHq7HmT56) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Play Dead](https://open.spotify.com/album/3iOOZ1PJx2CEl7snAAW6W6) | 3:30 |
 | 63 | [Every Moment](https://open.spotify.com/track/6X0uczH3gOA4hbyPNdvSfb) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Every Moment](https://open.spotify.com/album/5YVNW4DIzAdA7gc1bJEW6X) | 2:53 |
 | 64 | [Falling For A Friend](https://open.spotify.com/track/4lLPl7RHFa4bcIKLYhfayz) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Falling For A Friend](https://open.spotify.com/album/7wfhTy5qm6SrTf7SgRZYgL) | 2:57 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 74 | [November](https://open.spotify.com/track/3GMqhioWAjpte7cyEYrOPP) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Fantasies](https://open.spotify.com/album/5RnS2uqk10a4qrGxW84Xb4) | 3:13 |
 | 75 | [Simplify](https://open.spotify.com/track/17mX7lKMzdhCsim9Avahgo) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:29 |
 | 76 | [Evolution](https://open.spotify.com/track/5T86BDcrE76auUDE6SGyvG) | [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [Evo](https://open.spotify.com/album/4iWd9ESivlAe73jkExfOSW) | 3:53 |
-| 77 | [Jump In](https://open.spotify.com/track/2p4td5ssFstuoFdSxGJwjm) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 2:42 |
-| 78 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
+| 77 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
+| 78 | [Jump In](https://open.spotify.com/track/2p4td5ssFstuoFdSxGJwjm) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 2:42 |
 | 79 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 80 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 |
 | 81 | [Cold Winter](https://open.spotify.com/track/2roIpXQCwjCcPC9kwh8V7x) | [Keels](https://open.spotify.com/artist/1Y2eFp5L0YHdho5WsGWSzU) | [Cold Winter](https://open.spotify.com/album/1LVIZa0uPw9qAsjdQVd05m) | 3:20 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 110 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 111 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Abr+QAAAAADe+Z0Nb/esBgFfHv1QI2NI`
+Snapshot ID: `AbsEEgAAAACLMlF4ss5NRBOpbcTKXcx3`

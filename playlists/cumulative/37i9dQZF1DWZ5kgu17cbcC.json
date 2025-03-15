@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-15",
-  "description": "Music from shows and movies you love including Paradise, now streaming on Hulu.",
+  "description": "Music from shows and movies you love including O'DESSA, now streaming on Hulu.",
   "name": "Hulu Hits",
   "tracks": [
     {
@@ -2358,6 +2358,24 @@
       "duration_ms": 218066,
       "name": "The Pull of Death",
       "url": "https://open.spotify.com/track/1fU41Vj9BRZRfTeBt2MEt7"
+    },
+    {
+      "album": {
+        "name": "O'DESSA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i"
+      },
+      "artists": [
+        {
+          "name": "Sadie Sink",
+          "url": "https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245573,
+      "name": "The Song (Love Is All)",
+      "url": "https://open.spotify.com/track/3f1CazASWJpY8tBOlIEAQM"
     },
     {
       "album": {

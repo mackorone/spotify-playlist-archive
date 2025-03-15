@@ -2,9 +2,9 @@
 
 ### [Rancho Viral](https://open.spotify.com/playlist/37i9dQZF1DX7aCIGeSe3p4)
 
-> Morenazo del pie hasta el brazo como mi jefazo 🫡🍻 Cosechando los éxitos del internet 🤠
+> salió bandida pa los amores, igual que su apá 💅🏽💖💐 Cosechando los éxitos del internet 🤠
 
-306 songs - 16 hr 10 min
+307 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Ebrio de Amor \- En Vivo](https://open.spotify.com/track/4iXgzMHRSRq8O3jHaA5tXu) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Posada de H Records VIP Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/3YQ9aKmYAY4G91fdS7LXsQ) | 3:12 | 2025-01-03 |  |
 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 | 2023-04-10 | 2023-12-09 |
 | [El Doble R](https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Cruzando Fronteras](https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR) | 2:35 | 2022-01-05 | 2023-11-25 |
-| [El Dueño Del Palenque \(En Vivo\)](https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 3:25 | 2025-01-03 |  |
+| [El Dueño Del Palenque \(En Vivo\)](https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 3:25 | 2025-01-03 | 2025-03-15 |
 | [El Hombre Del Equipo](https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Blanco y Negro Vol\. 1](https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x) | 3:43 | 2022-12-29 | 2024-02-24 |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-21 | 2023-10-12 |
 | [EL LOKERON](https://open.spotify.com/track/6X6m4xmdFcz31p1h7Qg68c) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:25 | 2024-09-18 |  |
@@ -144,6 +144,7 @@
 | [La Changa](https://open.spotify.com/track/2YgkAmmy6295Gibb5GyBhP) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Changa](https://open.spotify.com/album/5mJ1qmtxHAhEt6kMs4JtDU) | 3:22 | 2025-03-07 |  |
 | [La Chilena Belica](https://open.spotify.com/track/4gBnsHrEhzDbXnrcOeR4Ro) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx) | [La Chilena Belica](https://open.spotify.com/album/4bj5eDKOJrEiGFfR0WcYNU) | 2:35 | 2024-07-15 | 2024-10-19 |
 | [La Cumbia De La Baliniza](https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Cumbia De La Baliniza](https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc) | 2:47 | 2024-01-04 | 2024-06-06 |
+| [La Dama](https://open.spotify.com/track/1ENS8Upa4vARyOq7i9IA0T) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Dama](https://open.spotify.com/album/6DhmxVrQy0haGEZV3dwjuf) | 2:48 | 2025-03-14 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-04 | 2025-01-04 |
 | [La escuelita \(En Vivo\)](https://open.spotify.com/track/2jBO9qDoMt9FiZhRQm4eaR) | [Nueva Ruta](https://open.spotify.com/artist/3t3jUwWtk9NghwumBDJZLp) | [Puras Pa Pistear En Vivo, Vol\. 1](https://open.spotify.com/album/4wiemgEt8lBvAHPmCwMrlN) | 2:47 | 2025-02-25 |  |
 | [La Faramalla](https://open.spotify.com/track/4yPmcwwLXoibbNu6CmrJQg) | [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [Falsas Amistades](https://open.spotify.com/album/1EsiciTPporCUNq9lMVPHG) | 3:20 | 2025-03-07 |  |

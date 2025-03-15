@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Hsien Ching \(陳嫺靜\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,850 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,865 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

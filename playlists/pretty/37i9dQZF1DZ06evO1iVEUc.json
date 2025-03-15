@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25059,
+  "num_followers": 25098,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADltF5G4Hkq6CBdQ+Sf2iy2",
+  "snapshot_id": "Z9IgAAAAAACGmhAO+HMLEXRje15sXwWC",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retroflection Remixed",
-        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
         {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
-        },
-        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
         }
       ],
-      "duration_ms": 327796,
-      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
-      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
+      "duration_ms": 235773,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
     },
     {
       "added_at": null,
@@ -671,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retroflection Remixed",
+        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "duration_ms": 327796,
+      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
+      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -680,25 +696,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 235773,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
+      "duration_ms": 35293,
+      "name": "Stoned Love (Intro)",
+      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+      "duration_ms": 200973,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 35293,
-      "name": "Stoned Love (Intro)",
-      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
+      "duration_ms": 245173,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp"
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     },
     {
       "added_at": null,

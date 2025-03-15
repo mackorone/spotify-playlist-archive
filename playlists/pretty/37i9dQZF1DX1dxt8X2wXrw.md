@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,454 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,457 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tide](https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [Tide](https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq) | 2:50 |
 | 2 | [How Does It Feel \(feat\. Dakota and King Docious\)](https://open.spotify.com/track/2Epm6mdhdQ0HKM2I5fYpyQ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [King Docious](https://open.spotify.com/artist/0EQ9n8yt7k2tZxMUJGFJMb) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:16 |
-| 3 | [Body's Chorus](https://open.spotify.com/track/72EmP0wtUsB8Upi6mrl5M1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 3:58 |
+| 3 | [Bodys Chorus](https://open.spotify.com/track/72EmP0wtUsB8Upi6mrl5M1) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Mentalized](https://open.spotify.com/album/73SrRRU9bujnn0qfSZCi8a) | 3:58 |
 | 4 | [Leave Me Low](https://open.spotify.com/track/5A6FXagEPwOWV6MIurNgTK) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [MAYDAY](https://open.spotify.com/album/4wkb1ikv8zY8rMAeeIVG56) | 3:43 |
 | 5 | [Rose Quartz](https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:13 |
 | 6 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 41 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 42 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
 | 43 | [How many miles](https://open.spotify.com/track/23uLia0r9XqAIKrj0Rlc4D) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:21 |
-| 44 | [Crushed Velvet](https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:15 |
-| 45 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
+| 44 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
+| 45 | [Crushed Velvet](https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:15 |
 | 46 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |
 | 47 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 |
 | 48 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 62 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |
 | 63 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 |
 | 64 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
-| 65 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 |
-| 66 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 |
-| 67 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 |
+| 65 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 |
+| 66 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 |
+| 67 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 |
 | 68 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 69 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 | 70 | [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 72 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 |
 | 73 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
 | 74 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 |
-| 75 | [Choosin'](https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Choosin'](https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy) | 2:56 |
+| 75 | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 |
 
 Snapshot ID: `Z8Bh3gAAAAAb2dqEQ7S28AswrD1J0NZX`

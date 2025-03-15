@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-357 songs - 20 hr 30 min
+358 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,12 +77,13 @@
 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-09-05 |  |
 | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/track/1yKxctyjh6CdDmJd9LaRNb) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [CUMBIALANDIA](https://open.spotify.com/artist/6NLMDsPCHLd5s6BEGBYCIP) | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/album/4JtNGqrJtfeIquW3svl1bh) | 3:06 | 2022-10-22 | 2023-07-29 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-09 |  |
-| [Echar de Menos](https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Echar de Menos](https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv) | 3:45 | 2025-02-14 |  |
+| [Echar de Menos](https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Echar de Menos](https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv) | 3:45 | 2025-02-14 | 2025-03-15 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-08-18 |  |
 | [El Asiento De Atrás](https://open.spotify.com/track/1atlbW6f4bBwWPXBEoY8a1) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [El Asiento De Atrás](https://open.spotify.com/album/080PWyerdsFMdOLphtNcre) | 3:15 | 2023-10-27 | 2023-12-09 |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2021-12-24 |  |
 | [El Campanero](https://open.spotify.com/track/5G4g6BDM5hdleQF99Hq8nK) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/5DUClhRJXZW2RqHd8jlwmj) | 4:33 | 2022-01-11 | 2022-10-11 |
 | [El Campanero](https://open.spotify.com/track/6YF8AXgrIDJu7IjQAixYtD) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/4DRXD5RyV4aaOyW0RNXU0V) | 4:33 | 2022-09-23 | 2023-06-10 |
+| [El Embrujo](https://open.spotify.com/track/6bi1N5h3OS3KUcwW9usDY5) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Embrujo](https://open.spotify.com/album/6L5jtuC7ClOrNxolYpuJNz) | 3:57 | 2025-03-14 |  |
 | [El Embrujo](https://open.spotify.com/track/3YBVqmMUSusvJyQwd545yw) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Embrujo](https://open.spotify.com/album/3TGUkmPnQzcG2NHoXwPufy) | 3:56 | 2021-12-24 | 2024-03-09 |
 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 | 2021-12-24 | 2022-12-03 |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2021-12-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: frambo
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,255 likes - 110 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,267 likes - 110 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 23 | [veramente](https://open.spotify.com/track/5HKuiFS4G2B11KgFHJxfhL) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [L'ultimo dei romantici?](https://open.spotify.com/album/5cz5HCBEi0wXigdKPUY8n0) | 2:57 |
 | 24 | [Solo Sconosciuti Soli](https://open.spotify.com/track/3DrO8V3oth1fa4CKk3BwgU) | [taha](https://open.spotify.com/artist/2U67nezNg7TK1oV4YWiMw5) | [Solo Sconosciuti Soli](https://open.spotify.com/album/6QMWEg9EId0ngp3m9Nbm7n) | 3:18 |
 | 25 | [scatole vuote](https://open.spotify.com/track/3H92ZZivdSV3XTHwsAN437) | [Tocka](https://open.spotify.com/artist/1XPiLkWgALxMZ3jC7ytz9w) | [scatole vuote](https://open.spotify.com/album/6iwbz4t7lV95uWjFy732ut) | 2:44 |
-| 26 | [Clichè](https://open.spotify.com/track/7tAR40suzgyYpyxWDttiyf) | [cylvia](https://open.spotify.com/artist/6wC8L7yn5ntwmI1at12Vou) | [Lato](https://open.spotify.com/album/4xxeqQmZ8J3lmVgA49YdGT) | 2:57 |
+| 26 | [Cliché](https://open.spotify.com/track/7tAR40suzgyYpyxWDttiyf) | [cylvia](https://open.spotify.com/artist/6wC8L7yn5ntwmI1at12Vou) | [Lato](https://open.spotify.com/album/4xxeqQmZ8J3lmVgA49YdGT) | 2:57 |
 | 27 | [come i fiori](https://open.spotify.com/track/1bOIIQUgoxmdCvbIgT2ktR) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [come i fiori](https://open.spotify.com/album/6VKyngUB1rX9WXruFKPKBW) | 2:21 |
 | 28 | [Bandiera Pirata](https://open.spotify.com/track/2MjqoFxsZ0d7cOcET6QWOD) | [Tommi Scerd](https://open.spotify.com/artist/7xzWpjWFkFAqz7vBI4XyMQ) | [Bandiera Pirata](https://open.spotify.com/album/2Eh0RJ90LVBjopFptRu6nf) | 3:17 |
 | 29 | [COWBOY](https://open.spotify.com/track/7qThYAPD8ETGjXTFJR3nXn) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [COWBOY](https://open.spotify.com/album/07VYHePkAxRp8x8vZTQ6rU) | 2:47 |

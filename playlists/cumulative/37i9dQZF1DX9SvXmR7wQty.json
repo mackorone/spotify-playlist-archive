@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Miki",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Jonathan Personne",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -978,6 +978,28 @@
       "duration_ms": 174928,
       "name": "45",
       "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
+    },
+    {
+      "album": {
+        "name": "Gen\u00e8se",
+        "url": "https://open.spotify.com/album/3Les4fAJE90bbd7fVzOGzD"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "4502",
+      "url": "https://open.spotify.com/track/3fV0H6wr3f36sMga8xrgUp"
     },
     {
       "album": {
@@ -2970,6 +2992,24 @@
       "duration_ms": 277853,
       "name": "amour",
       "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
+    },
+    {
+      "album": {
+        "name": "Fille lacrymale",
+        "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178293,
+      "name": "Amour cyclone",
+      "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
     },
     {
       "album": {
@@ -5774,7 +5814,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 179388,
       "name": "BIG BODY",
       "url": "https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7"
@@ -7030,7 +7070,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 184892,
       "name": "Buggy",
       "url": "https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY"
@@ -8160,7 +8200,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 207833,
       "name": "Camion de fruits",
       "url": "https://open.spotify.com/track/3l6GnIc9DI2zSIh8J9yn5A"
@@ -9938,7 +9978,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 177666,
       "name": "Circ\u00e9",
       "url": "https://open.spotify.com/track/11PEjlbU8uJmQKFnzdyalg"
@@ -11848,7 +11888,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 269466,
       "name": "Cours toujours",
       "url": "https://open.spotify.com/track/5XMrAEkXNWcw8ZpEmip0Ig"
@@ -14348,7 +14388,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 153333,
       "name": "Dimanche matin",
       "url": "https://open.spotify.com/track/6ruc9QXvhSuoO7RdMAygMr"
@@ -17345,6 +17385,24 @@
     },
     {
       "album": {
+        "name": "Est-ce que quelqu'un me voit ?",
+        "url": "https://open.spotify.com/album/1JOyzgCDxBTP7clnLZ6ibx"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253160,
+      "name": "Est-ce que quelqu'un me voit ?",
+      "url": "https://open.spotify.com/track/4nsyNpKdmvdGbmEeiVaDue"
+    },
+    {
+      "album": {
         "name": "Et si ?",
         "url": "https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f"
       },
@@ -18932,7 +18990,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 160706,
       "name": "Fille lacrymale",
       "url": "https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO"
@@ -20112,6 +20170,24 @@
       "duration_ms": 163706,
       "name": "Fum\u00e9e",
       "url": "https://open.spotify.com/track/4WPxsbif1zIetQsn6xhCHl"
+    },
+    {
+      "album": {
+        "name": "Fum\u00e9e Blanche",
+        "url": "https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184342,
+      "name": "Fum\u00e9e Blanche",
+      "url": "https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe"
     },
     {
       "album": {
@@ -21906,7 +21982,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 176027,
       "name": "Hockey",
       "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
@@ -22928,6 +23004,24 @@
       "duration_ms": 185473,
       "name": "Il faut partir maintenant",
       "url": "https://open.spotify.com/track/4iu1AMk5zFfnveFmk1jzId"
+    },
+    {
+      "album": {
+        "name": "Rom-Com",
+        "url": "https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Il faut qu'on se parle",
+      "url": "https://open.spotify.com/track/5vnFXiRwOQhz5xBn09GKRK"
     },
     {
       "album": {
@@ -24152,6 +24246,24 @@
       "duration_ms": 187460,
       "name": "J'aime, J'aime",
       "url": "https://open.spotify.com/track/1X7TuTJ1qByufKwkHsAGVo"
+    },
+    {
+      "album": {
+        "name": "Tout ce que l\u2019aube promet",
+        "url": "https://open.spotify.com/album/3RJCD7qNl3cN3QLb0DYeA1"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228353,
+      "name": "J'aurais jamais pens\u00e9",
+      "url": "https://open.spotify.com/track/6NTKE7COb1sqx2hyYrMM5y"
     },
     {
       "album": {
@@ -30323,6 +30435,24 @@
     },
     {
       "album": {
+        "name": "Le coeur est un r\u00eaveur",
+        "url": "https://open.spotify.com/album/2vhfJbQ3Oxf8en4v2ENgGW"
+      },
+      "artists": [
+        {
+          "name": "Marie-Annick Lepine",
+          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190794,
+      "name": "Le coeur est un r\u00eaveur",
+      "url": "https://open.spotify.com/track/0lBWxriZL930NGp1hLsaOM"
+    },
+    {
+      "album": {
         "name": "Le coeur se soigne",
         "url": "https://open.spotify.com/album/1tIEvhn8qWURzd8QKrkIR4"
       },
@@ -32063,6 +32193,24 @@
     },
     {
       "album": {
+        "name": "Les jours heureux",
+        "url": "https://open.spotify.com/album/3YwEQiE6wMeNs8SAGfxsoK"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192642,
+      "name": "Les jours heureux",
+      "url": "https://open.spotify.com/track/1tlECFM3N6ZQo13u6JGODj"
+    },
+    {
+      "album": {
         "name": "Les larmes du monde",
         "url": "https://open.spotify.com/album/1DwiPLa0WgudTenDVeMDdK"
       },
@@ -33160,7 +33308,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 199600,
       "name": "LOIN DU PARADIS",
       "url": "https://open.spotify.com/track/39XxhumQzR0Zj45aqq6lrK"
@@ -33823,6 +33971,24 @@
     },
     {
       "album": {
+        "name": "L\u00e2che-moi la main",
+        "url": "https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR"
+      },
+      "artists": [
+        {
+          "name": "Iliona",
+          "url": "https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "L\u00e2che-moi la main",
+      "url": "https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9"
+    },
+    {
+      "album": {
         "name": "L\u00e8ve-toi",
         "url": "https://open.spotify.com/album/0e9MeZE0DvKs2FYHJsWGAL"
       },
@@ -33856,7 +34022,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 175939,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/3fCaC9bSUH4dG24RhDYcba"
@@ -34784,6 +34950,28 @@
       "duration_ms": 212427,
       "name": "Maison-monde",
       "url": "https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN"
+    },
+    {
+      "album": {
+        "name": "Maison-tison",
+        "url": "https://open.spotify.com/album/1sW37m9AgNzSuWzwWZhGJU"
+      },
+      "artists": [
+        {
+          "name": "Embo/phl\u00e9bite",
+          "url": "https://open.spotify.com/artist/1ljgoKCx9MKLoDa5rdzNBt"
+        },
+        {
+          "name": "Duu",
+          "url": "https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228937,
+      "name": "Maison-tison",
+      "url": "https://open.spotify.com/track/0krFomY1f9C401AeuG7MCG"
     },
     {
       "album": {
@@ -36486,7 +36674,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 138306,
       "name": "miki cowboy",
       "url": "https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU"
@@ -36558,7 +36746,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 196480,
       "name": "MINIMUM",
       "url": "https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB"
@@ -37830,7 +38018,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 174826,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0dwIfvmsXxVP9kMsbuJQ5k"
@@ -40241,6 +40429,24 @@
     },
     {
       "album": {
+        "name": "On porte pas de polo",
+        "url": "https://open.spotify.com/album/0jr7XNhjIbcQUKGcwVunxY"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279149,
+      "name": "On porte pas de polo",
+      "url": "https://open.spotify.com/track/7wYTmDuAHUAt320zupORYA"
+    },
+    {
+      "album": {
         "name": "On s'aime jusqu'\u00e0 quand ?",
         "url": "https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF"
       },
@@ -40986,6 +41192,28 @@
       "duration_ms": 197453,
       "name": "O\u00f9 es-tu Henri ?",
       "url": "https://open.spotify.com/track/3HFVdVdgGnZcAFfJGVC83W"
+    },
+    {
+      "album": {
+        "name": "L'amour",
+        "url": "https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5"
+      },
+      "artists": [
+        {
+          "name": "William Cloutier",
+          "url": "https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175463,
+      "name": "O\u00f9 on dansait autrefois",
+      "url": "https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH"
     },
     {
       "album": {
@@ -42798,7 +43026,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 163346,
       "name": "Petit caract\u00e8re",
       "url": "https://open.spotify.com/track/4CVhLtSJrUY6QbRNTnaEbo"
@@ -45870,7 +46098,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 168706,
       "name": "Qu'est-ce qui reste?",
       "url": "https://open.spotify.com/track/7ynPOCT1FpQChhFk8aMpyU"
@@ -46141,6 +46369,24 @@
     },
     {
       "album": {
+        "name": "Quatre coins",
+        "url": "https://open.spotify.com/album/32sIqwwktuEVmCE1CJG2Cc"
+      },
+      "artists": [
+        {
+          "name": "Emmanuelle Querry",
+          "url": "https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "Quatre coins",
+      "url": "https://open.spotify.com/track/53PiYwB9audJTF9CHhhMiD"
+    },
+    {
+      "album": {
         "name": "Que diable m'emporte",
         "url": "https://open.spotify.com/album/0nY2Uw1Wc8iMryqLq6dIeA"
       },
@@ -46224,7 +46470,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 175044,
       "name": "QUI ?",
       "url": "https://open.spotify.com/track/0ZBxmRQLlctQUp6dTyXy8D"
@@ -47190,7 +47436,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 108963,
       "name": "Rentrer chez moi",
       "url": "https://open.spotify.com/track/6sWBgCQlmxZhD9eGWgssPG"
@@ -48314,7 +48560,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 179253,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
@@ -54562,7 +54808,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 175487,
       "name": "Tombe",
       "url": "https://open.spotify.com/track/3GapEmvCcl92EVHhAPK0WF"
@@ -58070,7 +58316,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192000,
       "name": "Vendredi soir",
       "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
@@ -61150,6 +61396,24 @@
       "duration_ms": 243186,
       "name": "\u00c9lectron libre (vue par J\u00e9r\u00f4me Mini\u00e8re) - Remix",
       "url": "https://open.spotify.com/track/2qPTtecKlZ7RLKQGy6AJqq"
+    },
+    {
+      "album": {
+        "name": "\u00c9l\u00e9gante solitude",
+        "url": "https://open.spotify.com/album/2B5BVIG8wV5t0KBxSeMyem"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260733,
+      "name": "\u00c9l\u00e9gante solitude",
+      "url": "https://open.spotify.com/track/0loARlB8O9A4pzg11S9HcA"
     },
     {
       "album": {

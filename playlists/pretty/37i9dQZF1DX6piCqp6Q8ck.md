@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,086 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,067 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 35 | [Winter Wonderland](https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Winter Wonderland](https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx) | 2:58 |
 | 36 | [Round & Round the Christmas Tree](https://open.spotify.com/track/2xWqam73LOsenwNiI5kveT) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:46 |
 | 37 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 |
-| 38 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
-| 39 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
+| 38 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
+| 39 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
 | 40 | [Christmas Will Really Be Christmas](https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish \(Deluxe\)](https://open.spotify.com/album/0Rh3n2TXaN8ncw9fvQx4NA) | 3:56 |
 | 41 | [Sleigh Ride](https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Sleigh Ride](https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u) | 3:18 |
 | 42 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Christmas Time Is Here](https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U) | 2:24 |

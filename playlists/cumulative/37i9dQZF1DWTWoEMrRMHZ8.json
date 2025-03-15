@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Xande de Pilares",
+  "description": "As belas novidades da MPB. Foto: Preta Gil",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192496,
       "name": "A Noite do Meu Bem",
       "url": "https://open.spotify.com/track/7II5dgkLvnxKmxmZcFSXny"
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Afrobossa",
+        "url": "https://open.spotify.com/album/4nEY7evBuBo6PdadH8qEHn"
+      },
+      "artists": [
+        {
+          "name": "Dida Larruscain",
+          "url": "https://open.spotify.com/artist/08c445HWVhYlEdaJ9OiU2u"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179484,
+      "name": "Afrobossa",
+      "url": "https://open.spotify.com/track/4TP59fZEAgSVWBNnARu7qv"
+    },
+    {
+      "album": {
         "name": "Agora",
         "url": "https://open.spotify.com/album/5YoQlOgX2LFyCq7QKFTPWM"
       },
@@ -894,6 +912,24 @@
       "duration_ms": 270000,
       "name": "Agora",
       "url": "https://open.spotify.com/track/1hBC2o7TjAN6unETxqcBgZ"
+    },
+    {
+      "album": {
+        "name": "PERDURAR (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143812,
+      "name": "Ainda Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1sDCgVenukInykyvUroLvy"
     },
     {
       "album": {
@@ -4521,6 +4557,28 @@
     },
     {
       "album": {
+        "name": "Derreti",
+        "url": "https://open.spotify.com/album/1mw1KC736HhiTHAtNktjvq"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Derreti",
+      "url": "https://open.spotify.com/track/0bMUpJudqVTXNCZ2NXjbpz"
+    },
+    {
+      "album": {
         "name": "Desabriga",
         "url": "https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3"
       },
@@ -5508,7 +5566,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 179418,
       "name": "Ensacado",
       "url": "https://open.spotify.com/track/37ZLnHtXKDU8gde8qzsOcd"
@@ -7136,7 +7194,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 188373,
       "name": "Igbale",
       "url": "https://open.spotify.com/track/26vT1iszYyuuFtS7lzu5eF"
@@ -8194,7 +8252,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 226000,
       "name": "Maluca",
       "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"
@@ -10650,7 +10708,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 166831,
       "name": "O Cortejo Afronta",
       "url": "https://open.spotify.com/track/0xtZBfKp0OQ6DkHqALOykt"
@@ -15737,6 +15795,28 @@
     },
     {
       "album": {
+        "name": "Te Entendo Cem Por Cento",
+        "url": "https://open.spotify.com/album/14vGn02iSwR8pfHJs1CVny"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186971,
+      "name": "Te Entendo Cem Por Cento",
+      "url": "https://open.spotify.com/track/3hZnKNc3QIwtLO04bnpJqs"
+    },
+    {
+      "album": {
         "name": "Um Gosto de Sol",
         "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
@@ -16213,6 +16293,32 @@
     },
     {
       "album": {
+        "name": "Todo carnaval tem seu fim",
+        "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
+      },
+      "artists": [
+        {
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140100,
+      "name": "Todo carnaval tem seu fim",
+      "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
+    },
+    {
+      "album": {
         "name": "Todo Mundo Vai Saber",
         "url": "https://open.spotify.com/album/5rIMfPbaSBMavUpSrevrre"
       },
@@ -16530,6 +16636,24 @@
       "duration_ms": 149368,
       "name": "Tudo Vai Ficar Bem",
       "url": "https://open.spotify.com/track/1k3fnP287Wsjf1xwPvinfF"
+    },
+    {
+      "album": {
+        "name": "Tudo Vai Passar",
+        "url": "https://open.spotify.com/album/0tR5HQQUBNNV53ftPbBVEb"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209810,
+      "name": "Tudo Vai Passar",
+      "url": "https://open.spotify.com/track/5cfFBCFwLRG4CqaUkAZ8vK"
     },
     {
       "album": {
@@ -17882,7 +18006,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 168644,
       "name": "\u00c1gua-viva",
       "url": "https://open.spotify.com/track/48MtQ4Ys6eqpsw0I5cyXNt"

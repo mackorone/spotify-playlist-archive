@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,945 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,202 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

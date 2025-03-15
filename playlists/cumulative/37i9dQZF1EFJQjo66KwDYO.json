@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165038,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/1puuLNsoHPRSyrMGQjY0wI"
+    },
+    {
+      "album": {
         "name": "The Unofficial Album",
         "url": "https://open.spotify.com/album/5s8cSWiL3tx1ijNoJRwDm2"
       },

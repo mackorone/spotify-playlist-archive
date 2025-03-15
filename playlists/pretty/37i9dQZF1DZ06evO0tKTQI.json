@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 12912,
+  "num_followers": 12916,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA4ysAtRb9NTWLKUadPdGPh",
+  "snapshot_id": "Z9IgAAAAAADYK6TeXTPAW97PlLC7Ck5k",
   "tracks": [
     {
       "added_at": null,
@@ -446,11 +446,15 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
+      "duration_ms": 206040,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
+      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
     },
     {
       "added_at": null,
@@ -518,15 +522,11 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 206040,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
-      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+      "duration_ms": 187320,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
     },
     {
       "added_at": null,

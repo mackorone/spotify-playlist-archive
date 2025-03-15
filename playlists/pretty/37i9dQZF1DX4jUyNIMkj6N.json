@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 213545,
+  "num_followers": 213550,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Avignon",
-        "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 179812,
-      "name": "Avignon",
-      "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -499,18 +483,34 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
+        "name": "Avignon",
+        "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 180364,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+      "duration_ms": 179812,
+      "name": "Avignon",
+      "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
+        "name": "Part Of The Story",
+        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
+      },
+      "artists": [
+        {
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Part Of The Story",
+      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Part Of The Story",
-        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
       "artists": [
         {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 187173,
-      "name": "Part Of The Story",
-      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+      "duration_ms": 180364,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "Desert",
         "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 331785,
       "name": "Desert",
       "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "i don\u2019t know what i saw in you",
-        "url": "https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR"
-      },
-      "artists": [
-        {
-          "name": "Malen",
-          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
-        }
-      ],
-      "duration_ms": 129867,
-      "name": "i don\u2019t know what i saw in you",
-      "url": "https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "I Live After I Died",
         "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
+        "name": "i don\u2019t know what i saw in you",
+        "url": "https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR"
+      },
+      "artists": [
+        {
+          "name": "Malen",
+          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
+        }
+      ],
+      "duration_ms": 129867,
+      "name": "i don\u2019t know what i saw in you",
+      "url": "https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2025-03-06 23:00:20",
@@ -867,22 +883,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-03-06 23:00:20",
       "album": {
-        "name": "The Speed of Life",
-        "url": "https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly"
-      },
-      "artists": [
-        {
-          "name": "Malin Pettersen",
-          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
-        }
-      ],
-      "duration_ms": 201719,
-      "name": "The Speed of Life",
-      "url": "https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD"
-    },
-    {
-      "added_at": "2025-03-06 23:00:20",
-      "album": {
         "name": "The State of the World",
         "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 258880,
       "name": "The State of the World",
       "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
+    },
+    {
+      "added_at": "2025-03-06 23:00:20",
+      "album": {
+        "name": "The Speed of Life",
+        "url": "https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly"
+      },
+      "artists": [
+        {
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+        }
+      ],
+      "duration_ms": 201719,
+      "name": "The Speed of Life",
+      "url": "https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD"
     },
     {
       "added_at": "2025-03-06 23:00:20",

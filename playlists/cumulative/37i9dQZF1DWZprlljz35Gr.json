@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Electric Dust: ReDusted",
+        "url": "https://open.spotify.com/album/40JTTNyIbvacRid4dYuRFG"
+      },
+      "artists": [
+        {
+          "name": "Bloomurian",
+          "url": "https://open.spotify.com/artist/1qkOywtBVUNErJBM9Itm1A"
+        },
+        {
+          "name": "Morillo",
+          "url": "https://open.spotify.com/artist/6gKen78XIn1mdjEp3Gs84U"
+        },
+        {
+          "name": "KR3TURE",
+          "url": "https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Electric Dust: ReDusted",
+      "url": "https://open.spotify.com/track/78SBQPpnyFdC0jF4kGVjqG"
+    },
+    {
+      "album": {
         "name": "Prehistoric Rhythm",
         "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },

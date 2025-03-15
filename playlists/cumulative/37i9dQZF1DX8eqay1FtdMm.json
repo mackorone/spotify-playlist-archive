@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: BIBI(\ube44\ube44)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: LEECHANGSUB(\uc774\ucc3d\uc12d)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1788,6 +1788,24 @@
       "duration_ms": 236880,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
+    },
+    {
+      "album": {
+        "name": "Coward",
+        "url": "https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258440,
+      "name": "Coward",
+      "url": "https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT"
     },
     {
       "album": {
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 252466,
       "name": "Play for me",
       "url": "https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow"

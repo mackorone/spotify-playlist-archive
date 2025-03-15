@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 494450,
+  "num_followers": 494506,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACBP+1m1LvNk4EbhjOc4eQA",
+  "snapshot_id": "Z9IgAAAAAAC9XMLKp1jcReXWu8gWz3YV",
   "tracks": [
     {
       "added_at": null,
@@ -959,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gooch",
-        "url": "https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly"
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
       },
       "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
         {
           "name": "Mariah Carey",
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 248555,
-      "name": "Obsessed (feat. Mariah Carey)",
-      "url": "https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx"
+      "duration_ms": 246106,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw"
     }
   ],
   "unique_name": "This Is Mariah Carey",

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-222 songs - 19 hr 8 min
+223 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Loose Caboose](https://open.spotify.com/track/58dK5y8ovl8y2lyaPRzax7) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Loose Caboose](https://open.spotify.com/album/573EOOeUz1MthRowbswtBC) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Los Bandidos Bogarolles](https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw) | [Judith O'Higgins](https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [His'n'Hers](https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92) | [Los Bandidos Bogarolles](https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu) | 6:55 | 2021-12-21 | 2024-06-01 |
 | [Love for Sale](https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [Love for Sale](https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe) | 5:31 | 2024-08-09 | 2024-09-07 |
-| [Love Is in the Air](https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Love Is in the Air](https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y) | 3:45 | 2023-06-15 |  |
+| [Love Is in the Air](https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Love Is in the Air](https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y) | 3:45 | 2023-06-15 | 2025-03-15 |
 | [Mack the Knife](https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc) | [Chad Lefkowitz\-Brown](https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe) | [Mack the Knife](https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu) | 5:31 | 2021-12-21 |  |
 | [Memories](https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG), [Maija Kauhanen](https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q) | [Memories](https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv) | 6:06 | 2022-02-10 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Moonlight In Vermont](https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg) | 3:23 | 2024-05-31 | 2024-06-12 |
@@ -152,6 +152,7 @@
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-06-30 | 2022-09-28 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/50k9ezYU7sRIO26eZ5ceMr) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/3wGqwnfwZJFTxST28zPARF) | 2:51 | 2021-12-21 | 2022-07-29 |
 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 | 2022-02-10 |  |
+| [Raindrops Keep Fallin' on My Head](https://open.spotify.com/track/3CHb5zmYRBgdnrUd3m4NKK) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Raindrops Keep Fallin' on My Head](https://open.spotify.com/album/037ewopQCnTdqRgH62hf1m) | 3:53 | 2025-03-14 |  |
 | [Reflections](https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi) | [Mads Hansen](https://open.spotify.com/artist/6iKV4zoLGRiV89fT1hbjSF), [Mathias Heise](https://open.spotify.com/artist/28ii7dRvo99jXy6NikDOWk), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Reflections](https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL) | 4:15 | 2024-01-17 |  |
 | [Reflexiones](https://open.spotify.com/track/38XhQOlYqpwM16JoRPKSFd) | [Nil's Jazz Ensemble](https://open.spotify.com/artist/3zgxOShyrG2nPqI9t0ppU5), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3), [Miguel Figueroa](https://open.spotify.com/artist/1DWUOlBM1j5zHFbjqlqz9S) | [Nil's Jazz Ensemble](https://open.spotify.com/album/2Cy5KeZYcmMsRtbVFzmfLY) | 3:57 | 2021-12-21 | 2022-08-30 |
 | [Riders](https://open.spotify.com/track/0LDytu1PRUdxTZ5YCMIZIC) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [Riders](https://open.spotify.com/album/19KDDC1aNTNeM8ogVSyXNO) | 4:12 | 2021-12-21 | 2022-07-29 |

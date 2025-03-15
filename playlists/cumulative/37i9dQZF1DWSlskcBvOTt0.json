@@ -183,6 +183,36 @@
     },
     {
       "album": {
+        "name": "Afrika My Afrika",
+        "url": "https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o"
+      },
+      "artists": [
+        {
+          "name": "Kenza",
+          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392547,
+      "name": "Afrika My Afrika",
+      "url": "https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud"
+    },
+    {
+      "album": {
         "name": "AfriKa2",
         "url": "https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi"
       },
@@ -1535,6 +1565,32 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
+    },
+    {
+      "album": {
         "name": "ZEBRA",
         "url": "https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ"
       },
@@ -2128,7 +2184,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 180000,
       "name": "Better",
       "url": "https://open.spotify.com/track/5DCGNVSejDMG0xsh3Y6lqm"
@@ -3780,7 +3836,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 224000,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/7eaIM9KWmC70NUnOeYUHuz"
@@ -4074,7 +4130,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 219017,
       "name": "Destination Lost",
       "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
@@ -4858,6 +4914,28 @@
       "duration_ms": 287515,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0zZh0di9bn85r9deya97A3"
+    },
+    {
+      "album": {
+        "name": "Enamor\u00e1",
+        "url": "https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl"
+      },
+      "artists": [
+        {
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        },
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Enamor\u00e1",
+      "url": "https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G"
     },
     {
       "album": {
@@ -8932,6 +9010,28 @@
       "duration_ms": 253658,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1"
+    },
+    {
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/6ee6CcsF6D44Kv7LJDgrtX"
+      },
+      "artists": [
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
+        },
+        {
+          "name": "MAAURA",
+          "url": "https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178516,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
     },
     {
       "album": {
@@ -14566,7 +14666,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 223774,
       "name": "SIGN",
       "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"

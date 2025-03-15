@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: Daniel Seavey
+> a little indie, a little pop\.  Cover: Caroline Kingsbury & MARIS
 
-1,280 songs - 2 day 15 hr 45 min
+1,286 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-09-08 | 2023-11-25 |
 | [boyfriends/girlfriends](https://open.spotify.com/track/6pnGJhKuluYoxJMuJwuhy0) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [i really like being here](https://open.spotify.com/album/37CgwpUsINEYuVPdYG9Ub1) | 2:42 | 2023-04-28 | 2023-07-29 |
 | [Boys](https://open.spotify.com/track/7fwG4dJnvzUmFBguGsGznZ) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Boys](https://open.spotify.com/album/3pzHTRWnew90tyUXQ3NGQ5) | 3:13 | 2024-06-28 | 2024-07-19 |
+| [Boys Don't Cry](https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Boys Don't Cry](https://open.spotify.com/album/6J7vnOZiMpz0ckuqkyFpIX) | 2:42 | 2025-03-14 |  |
 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-03-11 | 2022-03-26 |
 | [Brake Lights](https://open.spotify.com/track/72VpsA3m5YIVDxVEaGuTGv) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Brake Lights](https://open.spotify.com/album/2WGlq1sKvzljpMr8fX1MVp) | 2:41 | 2023-10-06 | 2024-01-05 |
 | [Brand New Morning](https://open.spotify.com/track/6thkkefXGo4swLl5eN60W7) | [Sun Heat](https://open.spotify.com/artist/7bvsCuLF2FR79zNzUbv18f) | [Brand New Morning](https://open.spotify.com/album/2Vc8eJZC4zLgIOLMOSRtWS) | 2:36 | 2022-04-22 | 2022-07-16 |
@@ -424,6 +425,7 @@
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-25 | 2022-04-29 |
 | [Girls Like You](https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt) | [Songs About Girls Like You](https://open.spotify.com/album/6onQxxLCtldrdnQUkhAzHE) | 2:43 | 2022-03-18 | 2022-06-11 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-12 | 2022-10-29 |
+| [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-14 |  |
 | [Give Me Evil](https://open.spotify.com/track/1Kc071G5vS8xiu3JZALoqr) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Lifetime](https://open.spotify.com/album/0L7EsLloJZ2ZOqElLqnbw1) | 2:49 | 2024-07-19 | 2024-09-14 |
 | [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 | 2024-06-21 | 2024-08-31 |
 | [Givin Up](https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Givin Up](https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9) | 2:28 | 2023-09-08 | 2024-01-05 |
@@ -485,6 +487,7 @@
 | [Healing in a Parking Lot](https://open.spotify.com/track/19Lq2qImmNCv28WC9aS8UM) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Healing in a Parking Lot](https://open.spotify.com/album/2RaI4sb4jDituRwlms2qC4) | 2:49 | 2023-08-25 | 2024-01-05 |
 | [Heart Be Still](https://open.spotify.com/track/0ewPlKce3kwoC2kFBlagty) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Hold Me Like You're Scared To](https://open.spotify.com/album/2VHeRxzNfeqiCOhF6mEYcz) | 3:58 | 2023-01-27 | 2023-03-25 |
 | [Heart of Mine](https://open.spotify.com/track/44jwtvBLfdg9f4cTD2Wm2R) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Girlfriend](https://open.spotify.com/album/1PJvWO54fCqFou7qMgNL2x) | 4:24 | 2021-10-29 | 2021-12-25 |
+| [Heart Race](https://open.spotify.com/track/620cJA9xUTIw79HF1JCc9S) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Heart Race](https://open.spotify.com/album/0OTk5hrrgvt5cEz1McGG4H) | 3:25 | 2025-03-14 |  |
 | [Heartbeat](https://open.spotify.com/track/1zeo9q1sdTGDSecA91EZPt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Heartbeat](https://open.spotify.com/album/6jpRpPLwEpPte2TzQEo6XG) | 3:50 | 2022-06-10 | 2022-07-16 |
 | [heartbodymindsoul](https://open.spotify.com/track/3jYnrUml3eWrtvcF1kmThi) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [heartbodymindsoul](https://open.spotify.com/album/6ag3PAAUPS3Drlx8ziDTsZ) | 2:41 | 2024-09-20 | 2025-01-25 |
 | [heartbreak, love](https://open.spotify.com/track/021eyd2kaPCZ7R9CTefptS) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [heartbreak, love](https://open.spotify.com/album/7IsVqBFM74jlbZlfdCIqu1) | 3:17 | 2024-03-08 | 2024-03-30 |
@@ -731,6 +734,7 @@
 | [LUCKY BOY](https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [LUCKY BOY](https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y) | 2:48 | 2025-01-17 |  |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 | 2024-01-05 |
 | [Make A Baby \(feat\. Yung Gravy\)](https://open.spotify.com/track/37bFHkEAi61i9bNGBANB7B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Make A Baby \(feat\. Yung Gravy\)](https://open.spotify.com/album/26jkS6OX6tUpVYFBYSugEW) | 2:10 | 2024-03-01 | 2024-04-27 |
+| [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-14 |  |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 | 2023-06-24 |
 | [Making Diamonds](https://open.spotify.com/track/6gxb1PNLlRWs2F8QFw4lbX) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [Making Diamonds](https://open.spotify.com/album/4vTpspvnRsiGe66saR77sG) | 3:20 | 2023-08-18 | 2023-09-09 |
 | [Malibu](https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Malibu](https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk) | 3:12 | 2023-05-12 | 2023-07-29 |
@@ -910,6 +914,7 @@
 | [Red](https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Red](https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x) | 3:28 | 2025-01-10 | 2025-03-08 |
 | [Red Hot](https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [madwoman EP](https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw) | 2:49 | 2023-03-31 | 2023-04-29 |
 | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-05 | 2023-07-29 |
+| [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 |  |
 | [Remedy](https://open.spotify.com/track/7uaNfiYtYgxOpGbS1GTKWb) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Remedy](https://open.spotify.com/album/0WlUsnkWxzhxePhELUzxXO) | 3:33 | 2024-11-15 | 2025-01-25 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-15 |
 | [Repeat Caller](https://open.spotify.com/track/69zIlo9KqVoQjenSCh10Wb) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Repeat Caller](https://open.spotify.com/album/4gmKqHoxwAaQw7meJMJ1Mz) | 2:21 | 2021-11-05 | 2022-01-22 |
@@ -965,7 +970,7 @@
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-20 | 2022-07-29 |
 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-06-10 | 2022-08-20 |
 | [seventeen](https://open.spotify.com/track/5P4PW71fDmfehRrxBuG9OF) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [seventeen](https://open.spotify.com/album/2jtVwe611s3mqw6Vre4AYx) | 3:01 | 2025-01-24 |  |
-| [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-01-31 |  |
+| [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-01-31 | 2025-03-15 |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2022-10-15 |
 | [Sheryl Crow](https://open.spotify.com/track/3YDMI9nKu5mbYYt0ODKkSu) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I hope you're well in these crazy times](https://open.spotify.com/album/4jJpB6oqm4IiyyUYqetD7i) | 3:02 | 2022-08-12 | 2022-09-03 |
 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 | 2022-05-27 | 2022-06-04 |
@@ -1184,6 +1189,7 @@
 | [Until I End Up Dead](https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Until I End Up Dead](https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu) | 2:15 | 2023-06-24 | 2023-09-16 |
 | [Up All Night](https://open.spotify.com/track/7EOBY5TowmAjt1aZDkk8TG) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Up All Night](https://open.spotify.com/album/1asaz6jNa7NTScWcNJUZ5K) | 3:05 | 2021-10-29 | 2022-02-19 |
 | [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 | 2024-07-19 | 2024-09-21 |
+| [Up in Flames](https://open.spotify.com/track/6EpyOfvaaF5GBeRlZAbFh2) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Up in Flames](https://open.spotify.com/album/0Qyw38MoVjMvpEb4b245Nd) | 2:20 | 2025-03-14 |  |
 | [UP!](https://open.spotify.com/track/6Sy5wDRvABtwmtSEcutoZM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [NEVER GET USED TO THIS \(with JVKE\)](https://open.spotify.com/album/2N6fR931gcNCiXX238836M) | 2:16 | 2024-07-19 | 2024-10-19 |
 | [Used To Be Happy](https://open.spotify.com/track/3ViOvmmajqs6me31ywndGn) | [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q) | [Used To Be Happy](https://open.spotify.com/album/7h0zp8TPf3JtmZLD8InVPx) | 3:00 | 2023-10-27 | 2024-01-05 |
 | [Used To It](https://open.spotify.com/track/3sJR7tgG3DbrE8pEsAM6h0) | [Noshows](https://open.spotify.com/artist/3I1bugBTEN3jESl6XJqQ3d) | [Used To It](https://open.spotify.com/album/2GJSjw35Tg160YolsMsM9d) | 3:37 | 2024-12-13 | 2025-02-01 |

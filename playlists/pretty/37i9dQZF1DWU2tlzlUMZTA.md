@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,219 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,243 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 43 | [Naach Meri Rani \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Naach Meri Rani \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo) | 3:32 |
 | 44 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 45 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
-| 46 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
+| 46 | [Qismat](https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Qismat](https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J) | 4:03 |
 | 47 | [Dil Tod Ke](https://open.spotify.com/track/71OoohX1NBG4ez6eijgaWE) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Dil Tod Ke](https://open.spotify.com/album/5mWY0yGOJSTeTN8zQmbm9L) | 3:59 |
-| 48 | [Qismat](https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Qismat](https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J) | 4:03 |
+| 48 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
 | 49 | [Feelings](https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM) | [Feelings](https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU) | 3:44 |
 | 50 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
 

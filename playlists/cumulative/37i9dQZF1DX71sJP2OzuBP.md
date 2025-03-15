@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-2,362 songs - 6 day 6 hr 28 min
+2,363 songs - 6 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/track/3KdYhswquP3eULSDr07Lso) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Falling \(feat\. JUD 陳泳希\)](https://open.spotify.com/album/4RlljKPPh94GFpvSfQe6wc) | 3:10 | 2025-02-17 |  |
 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 | 2024-12-16 | 2025-01-21 |
 | [fill me in love](https://open.spotify.com/track/4wE1y97uzWQTFrkFwKFuQ8) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [fill me in love](https://open.spotify.com/album/0ZX1injt006uMBLj3rRaxj) | 2:55 | 2024-10-02 | 2024-11-26 |
-| [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 | 2025-03-03 |  |
+| [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 | 2025-03-03 |  |
 | [Finally Home](https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [Finally Home](https://open.spotify.com/album/198hQcblSP2zjXHYUpScOS) | 5:18 | 2024-12-09 | 2025-02-03 |
 | [FIND YOU](https://open.spotify.com/track/1cSuF35MfG123mcf2CNrmK) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [FIND YOU](https://open.spotify.com/album/464vMAiekklNfx7j4azKN6) | 4:16 | 2022-09-12 | 2022-09-27 |
 | [Fledgling \- "Old Fox" Movie Theme Song](https://open.spotify.com/track/5hXzsTr2zkj9ELHzpsxWdf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Fledgling](https://open.spotify.com/album/1KRb6eHJ19kQf0wNZQuV45) | 4:12 | 2023-11-06 | 2023-11-28 |
@@ -1231,7 +1231,8 @@
 | [愛你只能默默的守護你](https://open.spotify.com/track/7dNQEfAvdlp9zY4ysXa0ML) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [愛你只能默默的守護你](https://open.spotify.com/album/4PmbD6vqjk2E3sHo2wPMtV) | 4:14 | 2024-10-07 | 2025-01-21 |
 | [愛你愛到忘了自己](https://open.spotify.com/track/0Z6e232knPa5DMlic07MgX) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [愛你愛到忘了自己](https://open.spotify.com/album/0T7wpc2b2IQyrX9t3X0spK) | 3:27 | 2024-06-03 | 2024-07-02 |
 | [愛你的兩個我](https://open.spotify.com/track/0O8Oi6BdJN7DVCx7f2p5cB) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [愛你的兩個我](https://open.spotify.com/album/1OuGTXCkVZbZKQNY1yazaC) | 3:59 | 2024-04-29 | 2024-05-14 |
-| [愛你的心事 \- 《爱你》影视剧情意延绵曲](https://open.spotify.com/track/4DPB9ZXqD5PeQQ2j0FJyqI) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [愛你的心事](https://open.spotify.com/album/27mGAiLzx0Cfg3kNq7XG3A) | 4:13 | 2025-03-03 |  |
+| [愛你的心事 \- 《爱你》影视剧情意延绵曲](https://open.spotify.com/track/4DPB9ZXqD5PeQQ2j0FJyqI) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [愛你的心事](https://open.spotify.com/album/27mGAiLzx0Cfg3kNq7XG3A) | 4:13 | 2025-03-03 | 2025-03-15 |
+| [愛你的心事（《愛你》影視劇情意延綿曲）](https://open.spotify.com/track/2UcRMdeniTKZJ9RWNdyNwg) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [愛你的心事（《愛你》影視劇情意延綿曲）](https://open.spotify.com/album/4CUUcQd1Y4KFoGjg2NKVAI) | 4:13 | 2025-03-15 |  |
 | [愛你的決定](https://open.spotify.com/track/20g19dqTMUxaXkSKTOtHBI) | [邱詩凌](https://open.spotify.com/artist/5vM5uXrXIJ7vEao4Zs6Dak) | [愛你的決定](https://open.spotify.com/album/6c2UJcuHFJCqdiYj7PCakW) | 3:19 | 2024-03-25 | 2024-06-18 |
 | [愛做的事](https://open.spotify.com/track/3PWse3OwNsbyh2GJ6mzLi6) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [愛做的事](https://open.spotify.com/album/73DvQgKU4GShbshtNZsKVT) | 3:26 | 2023-05-22 | 2023-06-06 |
 | [愛在時光裡](https://open.spotify.com/track/2c7OFN8z6tamSX3vUlzfmj) | [蘇有朋](https://open.spotify.com/artist/2ZUO4qskPSAAT6XH3XIdEd) | [愛在時光裡](https://open.spotify.com/album/40DH4fvriGVyjN3mWwg8JR) | 3:16 | 2023-03-20 | 2023-04-04 |

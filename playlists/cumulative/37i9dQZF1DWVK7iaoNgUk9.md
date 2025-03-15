@@ -4,7 +4,7 @@
 
 > se for pra sofrer, que seja com trilha sonora
 
-124 songs - 7 hr 16 min
+125 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [Lágrima Caindo](https://open.spotify.com/track/2noDaW3lk5wLiLGtn01yBG) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/2oY868IbyPjEOmHjeI3dCG) | 2:40 | 2024-04-02 | 2024-07-20 |
 | [Mais Uma História de Amor](https://open.spotify.com/track/2Wwdfq3slsoIf0L7UwPM8s) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Mais Uma História de Amor](https://open.spotify.com/album/20QKGmUn02q1k0PtnXvaty) | 2:56 | 2024-08-16 | 2024-08-31 |
 | [Mentiras](https://open.spotify.com/track/4XXaIb6V1u0X5Ao2xzeotr) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Senhas](https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp) | 2:58 | 2024-06-14 | 2025-03-06 |
+| [Meu endereço](https://open.spotify.com/track/57EKqPldxlr1H7DGw7xdAy) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Meu endereço](https://open.spotify.com/album/3c2Wo1WDCiSiRqHcYFcimB) | 2:55 | 2025-03-14 |  |
 | [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 | 2023-10-06 | 2023-11-03 |
 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 | 2023-10-06 | 2024-04-19 |
-| [Nem disse adeus](https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR), [bel cortez](https://open.spotify.com/artist/2cN632fv7idMPULWMs4hk9) | [Nem disse adeus](https://open.spotify.com/album/6YKViKUIrDHRzCEPvXQ0lc) | 2:19 | 2025-01-17 |  |
+| [Nem disse adeus](https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR), [bel cortez](https://open.spotify.com/artist/2cN632fv7idMPULWMs4hk9) | [Nem disse adeus](https://open.spotify.com/album/6YKViKUIrDHRzCEPvXQ0lc) | 2:19 | 2025-01-17 | 2025-03-15 |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-10-06 | 2025-03-11 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-10-06 | 2024-04-19 |
 | [NÃO É CULPA DE NINGUÉM](https://open.spotify.com/track/5IO2b23uTZkDNA8LR09hIu) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:24 | 2024-04-26 | 2024-06-01 |

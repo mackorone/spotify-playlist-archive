@@ -1,12 +1,12 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 376622,
+  "num_followers": 376747,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z73OjQAAAACghhynBMMcUn9E+pW6UONX",
+  "snapshot_id": "Z9OpxQAAAADi2cP5xGcHD2J8j1r4aIZF",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:24",
@@ -27,6 +27,46 @@
       "duration_ms": 381800,
       "name": "TAXI",
       "url": "https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq"
+    },
+    {
+      "added_at": "2025-03-14 04:00:05",
+      "album": {
+        "name": "Cobra Queen",
+        "url": "https://open.spotify.com/album/1LMAktT0V8jfUufB1uPPsS"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        }
+      ],
+      "duration_ms": 183514,
+      "name": "African Beauty",
+      "url": "https://open.spotify.com/track/7oYw3s3dPCP38GF9p9kSwo"
+    },
+    {
+      "added_at": "2025-03-14 04:00:05",
+      "album": {
+        "name": "Chester",
+        "url": "https://open.spotify.com/album/0hBOyE7mLZx1KZr4Q33E0C"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Ari Teitel",
+          "url": "https://open.spotify.com/artist/5BslPFggi05SizO8Ewwg03"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        }
+      ],
+      "duration_ms": 128293,
+      "name": "Chester",
+      "url": "https://open.spotify.com/track/5dhf8TmyCUZWISLKd4BxUT"
     },
     {
       "added_at": "2025-02-07 05:00:19",
@@ -1221,22 +1261,6 @@
       "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Echo A.D.",
-        "url": "https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Echo A.D.",
-      "url": "https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn"
-    },
-    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Iskhathi",
@@ -1967,30 +1991,6 @@
       "duration_ms": 283220,
       "name": "Old World Monkeys",
       "url": "https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Sam Fribush Organ Trio, Vol. I: Riverboat",
-        "url": "https://open.spotify.com/album/4i0SSxtyDqXRF5YwtqRPWR"
-      },
-      "artists": [
-        {
-          "name": "Sam Fribush",
-          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Geoff Clapp",
-          "url": "https://open.spotify.com/artist/5Ezil114d4umN4hJDu8teY"
-        }
-      ],
-      "duration_ms": 264974,
-      "name": "Spanish Joint",
-      "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
     },
     {
       "added_at": "2021-04-09 04:01:00",

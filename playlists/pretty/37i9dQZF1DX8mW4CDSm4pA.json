@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 1017,
+  "num_followers": 1030,
   "original_name": "Dominique Fishback's Taste",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
     },
     {
       "added_at": "2023-06-01 04:00:00",

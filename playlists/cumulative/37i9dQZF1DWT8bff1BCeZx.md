@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-414 songs - 1 day 4 hr 1 min
+415 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Grateful \- Special Version](https://open.spotify.com/track/6yjMonIiADBgTafpUUV37x) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Pojbeatz](https://open.spotify.com/artist/6ofqfqnlz2vWcTg4cMbYtC) | [Grateful \(Special Version\)](https://open.spotify.com/album/2LDOYvqGPFZ0AmYNmGtFzs) | 2:42 | 2025-01-31 | 2025-03-14 |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 | 2025-02-28 |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2023-04-06 | 2025-02-28 |
+| [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 |  |
 | [Haleluya](https://open.spotify.com/track/4keGyyibbTgybXTv3TLo4J) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Haleluya](https://open.spotify.com/album/49q620ivmhLVgPbnoosDUI) | 3:11 | 2024-06-14 | 2025-02-28 |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 | 2024-04-07 |
 | [Halle](https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Halle](https://open.spotify.com/album/6iMag6WolYLTNHYU2P8Mle) | 2:31 | 2024-11-01 | 2025-02-28 |

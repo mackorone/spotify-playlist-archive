@@ -1119,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/2zifAxUjj1mUVdqsfxdqrv"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/2KyhasVFLEL9987jjGrRGx"
+    },
+    {
+      "album": {
         "name": "Cosas Pendientes",
         "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
       },
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 201084,
       "name": "Dios y Madre",
       "url": "https://open.spotify.com/track/34fiXTDrqSTOYdTfN937yt"
@@ -1468,7 +1490,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 190927,
       "name": "Di\u00e1logos de Paz",
       "url": "https://open.spotify.com/track/2woSoLI9JC4JpF7kw6v8vc"
@@ -5689,6 +5711,28 @@
     },
     {
       "album": {
+        "name": "Solcito",
+        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
+    },
+    {
+      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -6134,7 +6178,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 384000,
       "name": "Todos Mienten",
       "url": "https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H"
@@ -6652,6 +6696,28 @@
       "duration_ms": 130838,
       "name": "\u00a1Ya no me pregunten por mi ex!",
       "url": "https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Sigue?",
+        "url": "https://open.spotify.com/album/0vJibuCmhsBdlqEQLXFBYe"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195901,
+      "name": "\u00bfQu\u00e9 Sigue?",
+      "url": "https://open.spotify.com/track/3jCJ48EnHQ62pUu2b4swbd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA"

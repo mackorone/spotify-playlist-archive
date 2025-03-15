@@ -4,7 +4,7 @@
 
 > mostly rock
 
-845 songs - 2 day 6 hr 5 min
+847 songs - 2 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-05-18 |  |
 | [Boy’s Texture](https://open.spotify.com/track/0hyCibLEHjjSVz04VXj6XP) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Boy’s Texture](https://open.spotify.com/album/6Of3LsAZrj6cQSAKXrbhPz) | 4:04 | 2024-06-30 |  |
 | [Brainwashed wow wow](https://open.spotify.com/track/5RHC521Oct7q6IEmiILx6f) | [SEAPOOL](https://open.spotify.com/artist/0iuh3bi0fF2wlYvZG01vZn) | [OK SUGAR ISSUE](https://open.spotify.com/album/2A2yN5nwx7Hk2RSDt0w3aI) | 2:10 | 2023-08-04 |  |
-| [Bran\-new Lovesong](https://open.spotify.com/track/6SQiLmmhxnwOeij2AcF9JE) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [RUNNERS HIGH](https://open.spotify.com/album/52RTbexAYvH5oARKbRTADT) | 4:28 | 2024-10-20 |  |
+| [Bran\-new Lovesong](https://open.spotify.com/track/6SQiLmmhxnwOeij2AcF9JE) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [RUNNERS HIGH](https://open.spotify.com/album/52RTbexAYvH5oARKbRTADT) | 4:28 | 2024-10-20 | 2025-03-15 |
 | [Brand new toy](https://open.spotify.com/track/2ZyiilJ428wAEvKxDQYRLP) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [THE NEWEST JOKE](https://open.spotify.com/album/5TFRZe0LbMgAIzG7aDlHRo) | 4:30 | 2024-07-07 |  |
 | [breath on one night](https://open.spotify.com/track/72ehRsNAIObwlw9veasbuJ) | [Haisuinonasa](https://open.spotify.com/artist/0XPkwqDAaCnMekJdUUCtyg) | [animal body](https://open.spotify.com/album/1Zj5blQDuAexG828CV06HW) | 2:36 | 2024-04-25 |  |
 | [breather](https://open.spotify.com/track/79vUooId3gdpefH0GtHqW5) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [swimmy / breather](https://open.spotify.com/album/373LwgJjb8D69f0bdKDAmp) | 3:02 | 2023-12-25 |  |
@@ -796,6 +796,7 @@
 | [猫とアレルギー](https://open.spotify.com/track/7tQkvYvAGO6IZ3BNdKzB0k) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [猫とアレルギー](https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK) | 5:34 | 2024-01-02 |  |
 | [猿上がりシティーポップ](https://open.spotify.com/track/6pjAU3jjEuwm708T6xm0Pk) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [From Dropout](https://open.spotify.com/album/4B1b2711mZ7e0kV2uFokoe) | 4:13 | 2023-04-06 |  |
 | [環\-cycle\-](https://open.spotify.com/track/5xW5oJXwQTdfhvngvKpGN3) | [糸奇はな](https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU) | [環\-cycle\-](https://open.spotify.com/album/21mE1ovpOrGmY8SK8cBE4z) | 3:46 | 2023-07-10 |  |
+| [甘い追憶](https://open.spotify.com/track/3VIdcoIXRJfvpj2g9NfMgI) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 4:47 | 2025-03-14 |  |
 | [疾走](https://open.spotify.com/track/1DANFBPTZGP2qkBj2U3kBh) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 4:38 | 2023-12-31 |  |
 | [白い花](https://open.spotify.com/track/51u6IoqhotXL6TNntu8pcJ) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [袖の汀](https://open.spotify.com/album/0Rq3AhkgTk8m15vfDllorO) | 5:00 | 2024-05-05 |  |
 | [看不見](https://open.spotify.com/track/0LlriVGWQT8YP15wyAXXcA) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [Nice to 密 you．](https://open.spotify.com/album/3hyK9bHBHNVjiGcIuyog2W) | 1:14 | 2024-05-03 |  |
@@ -811,6 +812,7 @@
 | [秘密の言葉](https://open.spotify.com/track/0I5sXEB3M0LoLJcWhEtBvf) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ズーカラデル](https://open.spotify.com/artist/1Xm4wqBkfcWe6mqO2w4hdV) | [秘密の言葉](https://open.spotify.com/album/36B8cQgCAwSE9ObdprQEGJ) | 3:17 | 2024-08-18 |  |
 | [移民の歌](https://open.spotify.com/track/0ZHYgSxTeoqLpSgBHmf9Pb) | [ex\. happyender girl](https://open.spotify.com/artist/4YM4fc2Rio2DVyJJdUDKib) | [ex\. pop music](https://open.spotify.com/album/30M7vcfOXO3fDWWaKJCIeN) | 2:14 | 2024-07-14 |  |
 | [稚魚の夢](https://open.spotify.com/track/0zBygbzlfhqH3xYrypB8kd) | [Kikuo feat\. si\_ku](https://open.spotify.com/artist/09YHTS3RVl5jJ8LQ8Pybb8) | [いきものの魂のゆくえ](https://open.spotify.com/album/3oyeILSYIp6nkBmwmc7dqw) | 5:13 | 2023-12-21 |  |
+| [笑っちゃったよな](https://open.spotify.com/track/3YzhRJ1uDu6w7Ey5JyHbB1) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 2:02 | 2025-03-14 |  |
 | [紫陽花の庭](https://open.spotify.com/track/6akOpGJcktIeKmtqK8LXdh) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 2:34 | 2023-12-27 |  |
 | [綺麗な三角、朝日にんげん](https://open.spotify.com/track/0wkJyN5AQqh2uNSuFZfBa0) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [綺麗な三角、朝日にんげん](https://open.spotify.com/album/2IJowY1E7q1WzIsRTmshja) | 2:37 | 2024-01-18 |  |
 | [繋ぐ日の青](https://open.spotify.com/track/5pGZs7SwXzICfbboT7soBP) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 3:33 | 2023-12-12 |  |

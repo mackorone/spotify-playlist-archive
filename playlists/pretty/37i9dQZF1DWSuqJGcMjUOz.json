@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6829,
+  "num_followers": 6834,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Etienne Dufresne fait des efforts",
+        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "J'fais des efforts",
+      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Les Heures",
         "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 210286,
       "name": "Les Heures",
       "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Etienne Dufresne fait des efforts",
-        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "J'fais des efforts",
-      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Osoyoos",
         "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 235959,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Salut Cowboy",
+        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
+      },
+      "artists": [
+        {
+          "name": "Guylaine Tanguay",
+          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
+        }
+      ],
+      "duration_ms": 216209,
+      "name": "Salut Cowboy",
+      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "C'est pire et c'est mieux",
         "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 237691,
       "name": "La fess\u00e9e",
       "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Salut Cowboy",
-        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
-      },
-      "artists": [
-        {
-          "name": "Guylaine Tanguay",
-          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
-        }
-      ],
-      "duration_ms": 216209,
-      "name": "Salut Cowboy",
-      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
-        }
-      ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Erreur",
         "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 199415,
       "name": "Erreur",
       "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
+        }
+      ],
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-06-19 20:38:05",

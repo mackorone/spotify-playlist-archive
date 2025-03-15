@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-643 songs - 1 day 20 hr 47 min
+644 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [Runaway Train](https://open.spotify.com/track/1relIAfP5Dn2cihAHv1efL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:22 | 2022-09-08 |  |
 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 | 2022-09-08 |  |
 | [Sad](https://open.spotify.com/track/4Oe9Fq5BZvTHEPxxqeCu3t) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:21 | 2022-09-08 |  |
-| [Sad Songs \(Say So Much\)](https://open.spotify.com/track/1fF2dvBsbTk2wrOEaR6f5B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:09 | 2022-09-08 |  |
+| [Sad Songs \(Say So Much\)](https://open.spotify.com/track/1fF2dvBsbTk2wrOEaR6f5B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:09 | 2022-09-08 | 2025-03-15 |
+| [Sad Songs \(Say So Much\)](https://open.spotify.com/track/2LAgzgp3kmBG6uOqwms3eR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:55 | 2025-03-14 |  |
 | [Sails](https://open.spotify.com/track/3KA9bpLQJu2X3BsGCrewgW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:45 | 2022-09-08 |  |
 | [Saint](https://open.spotify.com/track/5jpmtUd2KEApQdmIPrCNIw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:20 | 2022-09-08 |  |
 | [Salvation](https://open.spotify.com/track/36N7FB6SiOxmnjwjfjTcSG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 3:58 | 2022-09-08 |  |

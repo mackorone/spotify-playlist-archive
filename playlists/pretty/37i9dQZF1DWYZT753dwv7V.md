@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,505 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,521 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 27 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 |
 | 28 | [Ti regalerò una rosa](https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Dall'altra parte del cancello](https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw) | 3:48 |
 | 29 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
-| 30 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
-| 31 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 30 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 31 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 32 | [farfalle](https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 2:44 |
 | 33 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
 | 34 | [Se m'innamoro](https://open.spotify.com/track/6Pm5m45fMlLOJ8pKBHKzSc) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Greatest Hits](https://open.spotify.com/album/7rwPjOYMdCm9LKVJk2Uiyy) | 3:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 49 | [Per tutta la vita](https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Sulla Mia Pelle](https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3) | 3:12 |
 | 50 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
 | 51 | [Terra promessa](https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:43 |
-| 52 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
-| 53 | [Ciao Ciao](https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [My Mamma](https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx) | 3:04 |
+| 52 | [Ciao Ciao](https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [My Mamma](https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx) | 3:04 |
+| 53 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
 | 54 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
 | 55 | [Lei verrà](https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:05 |
 | 56 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 |
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 90 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |
 | 91 | [Spalle al muro](https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm) | [Renato Zero](https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO) | [Prometeo](https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka) | 5:00 |
 | 92 | [Canzone per te](https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Endrigo \(1968\)](https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8) | 3:35 |
-| 93 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
-| 94 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
-| 95 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
-| 96 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
+| 93 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
+| 94 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
+| 95 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
+| 96 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
 | 97 | [Le Mille Bolle Blu](https://open.spotify.com/track/3S9vQotX3BuVZ6tFvkeE3r) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Classics by Mina, Vol\. 2](https://open.spotify.com/album/1H5qNjXbhR3wtw1TyixlAz) | 3:53 |
 | 98 | [Il ballo delle incertezze](https://open.spotify.com/track/35JwSMQXtHyTKPTcpXF07P) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Il ballo delle incertezze](https://open.spotify.com/album/3AGmokaneh8qA9rA5HshFM) | 3:25 |
 | 99 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |

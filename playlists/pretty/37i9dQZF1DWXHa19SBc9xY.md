@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,730 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,770 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 45 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 46 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
 | 47 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
-| 48 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
-| 49 | [Vai sacudir, vai abalar](https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Vai sacudir, vai abalar](https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN) | 2:20 |
-| 50 | [Coisa Mais Linda](https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Coisa Mais Linda](https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY) | 2:44 |
+| 48 | [Vai sacudir, vai abalar](https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Vai sacudir, vai abalar](https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN) | 2:20 |
+| 49 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
+| 50 | [Coisa Mais Linda](https://open.spotify.com/track/2xCN1ZiUbeYNnSl7Gin8c8) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Coisa Mais Linda](https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY) | 2:44 |
 | 51 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
 | 52 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 53 | [Rainha da Minha Bateria](https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL) | [Rainha da Minha Bateria](https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu) | 4:03 |

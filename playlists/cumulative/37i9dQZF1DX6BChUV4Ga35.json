@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Leapfrog",
+        "url": "https://open.spotify.com/album/0BnVf9zQwzGPsSAzhDKXgY"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220107,
+      "name": "Leapfrog",
+      "url": "https://open.spotify.com/track/4QMVkanQKAjI3tOPsmFD3H"
+    },
+    {
+      "album": {
         "name": "A Potluck",
         "url": "https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk"
       },

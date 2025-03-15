@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-636 songs - 1 day 8 hr 27 min
+637 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 | 2025-01-10 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-23 |
 | [Do It For Love](https://open.spotify.com/track/1gepEl8sp9BHMGiwLBMNeR) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Do It For Love](https://open.spotify.com/album/4iEd1xGjteZK1UgoOVlAcj) | 3:07 | 2024-06-27 | 2024-08-02 |
+| [Don't F!!k Your Friends](https://open.spotify.com/track/0HFXYeTSAEbx58GsANBSC5) | [Mia Sandem](https://open.spotify.com/artist/5Bf52Ig2jthWUxEnIOEjEd) | [Don't F!!k Your Friends](https://open.spotify.com/album/7KPAPsZnTdvPvxvrFVAHYC) | 3:02 | 2025-03-13 |  |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-10-11 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-15 | 2025-02-28 |
 | [Du \(Krossa alla fönster\)](https://open.spotify.com/track/3JxPZv8cFAqksKfIbaw38S) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du \(Krossa alla fönster\)](https://open.spotify.com/album/5v8dKEBAojeoDHid9247g8) | 2:16 | 2024-08-19 | 2024-09-27 |

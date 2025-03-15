@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,046 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,105 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 68 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 |
 | 69 | [Será Mi Castigo / La Silla Vacía / Somos Ajenos \(En Vivo\)](https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 9:40 |
 | 70 | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puras Pa' bailar \(Primera Tanda\)](https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j) | 12:12 |
-| 71 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
+| 71 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
 | 72 | [Dile](https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [El Amor de Tu Vida](https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf) | 3:25 |
-| 73 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
+| 73 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
 | 74 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
 | 75 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 76 | [No Se Vivir](https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Aceptalo Ya !](https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf) | 3:01 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 99 | [De Mil Amores](https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [De Mil Amores](https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r) | 2:28 |
 | 100 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |
 | 101 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
-| 102 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
-| 103 | [Estaré Bien](https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Estaré Bien](https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3) | 3:09 |
+| 102 | [Estaré Bien](https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Estaré Bien](https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3) | 3:09 |
+| 103 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
 | 104 | [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 |
 | 105 | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 |
 | 106 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 |

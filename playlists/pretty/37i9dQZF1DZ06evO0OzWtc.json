@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABOEsG2CmE4rd148v1DTW2/",
+  "snapshot_id": "Z9IgAAAAAACmF6yLyNhAq2E8IZp4fKSe",
   "tracks": [
     {
       "added_at": null,
@@ -615,30 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POBRE",
         "url": "https://open.spotify.com/album/7kgOdGmRc9QBOtFq0LAt27"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 178409,
       "name": "POBRE",
       "url": "https://open.spotify.com/track/2nuBpbteTNAQVZJNKCRE69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,

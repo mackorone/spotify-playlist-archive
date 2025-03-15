@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Leah Music
 
-2,714 songs - 5 day 23 hr 39 min
+2,715 songs - 5 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,7 @@
 | [Crush](https://open.spotify.com/track/5om60T5Oc22iNjCBETai1L) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Crush](https://open.spotify.com/album/5skdCGIaLsQ4JkHFtLn82C) | 3:02 | 2023-07-11 | 2023-08-09 |
 | [Crush](https://open.spotify.com/track/75M3g2qnWgOiwaAdCEsDNz) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [Crush](https://open.spotify.com/album/5azJzrxPgl0z3tUZPDoJio) | 2:40 | 2025-01-29 | 2025-03-05 |
 | [Cry Baby](https://open.spotify.com/track/3SY0y8fvRCKrUvsUJu5hch) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Cry Baby](https://open.spotify.com/album/0d0GtnmD3wMkeUtHfDHkO9) | 3:18 | 2024-04-30 | 2024-05-29 |
-| [Crying in Marseille](https://open.spotify.com/track/3qNRoJ93RgiNUuhGJW491d) | [Pistol Daisys](https://open.spotify.com/artist/03jgPux832spB6QYxMuhFC) | [Crying in Marseille](https://open.spotify.com/album/0O1MB3BvCv1tgTl8PdxgKX) | 3:54 | 2025-02-05 |  |
+| [Crying in Marseille](https://open.spotify.com/track/3qNRoJ93RgiNUuhGJW491d) | [Pistol Daisys](https://open.spotify.com/artist/03jgPux832spB6QYxMuhFC) | [Crying in Marseille](https://open.spotify.com/album/0O1MB3BvCv1tgTl8PdxgKX) | 3:54 | 2025-02-05 | 2025-03-15 |
 | [Crying in the Swimming Pool](https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Crying in the Swimming Pool](https://open.spotify.com/album/0Y8zDzAD669zCOi5vur5kE) | 3:12 | 2022-09-14 | 2022-11-03 |
 | [Curb The Knee](https://open.spotify.com/track/2qqCNaDCpUZ95BMlNQaW3w) | [Fraudster](https://open.spotify.com/artist/0VWyEW1x6lSgWm8S8ZpB5P), [Sion](https://open.spotify.com/artist/1VY7ikjV9VortnVckHyiAN) | [Curb The Knee](https://open.spotify.com/album/1Lk3ufbXor2NDthgrMDXMG) | 2:34 | 2023-06-21 | 2023-07-26 |
 | [Cure My Thoughts](https://open.spotify.com/track/1rJnfPXBVSOMG22LoRjpd4) | [Sharn April](https://open.spotify.com/artist/40CNRCsNwbBq9EZuUUNtRG) | [Cure My Thoughts](https://open.spotify.com/album/695jvFNBMqo36OD0zKp7YO) | 2:44 | 2022-01-05 | 2022-03-09 |
@@ -1642,6 +1642,7 @@
 | [My Love](https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb) | [My Love](https://open.spotify.com/album/1iOsZjDI58pcyADCBrk1gJ) | 4:27 | 2022-09-14 | 2022-11-10 |
 | [My Love, My Town](https://open.spotify.com/track/0LLEj5V2aElrxpIv5wWTDi) | [Civic Green](https://open.spotify.com/artist/3qVzrto6VShlfsO1eZIr30) | [My Love, My Town](https://open.spotify.com/album/4y8Tl0z1WPSoEQSOBYk2k9) | 3:06 | 2023-08-08 | 2023-09-13 |
 | [My Own Worst Enemy](https://open.spotify.com/track/5196BBXw1MKc1B4qBWqvR0) | [YXUNGTARZAAN](https://open.spotify.com/artist/3GmCKqbtFV0PPRbQV3QfKb) | [Celestial](https://open.spotify.com/album/1rIxScj6FAFtjJ6XPU8Jw1) | 3:00 | 2024-01-10 | 2024-02-07 |
+| [My Shayla](https://open.spotify.com/track/3ZzlF9ilIr2lPTz83sVJjl) | [Wohdee](https://open.spotify.com/artist/3lEOvjSLQnYiE2fUqUKvzE), [Pacman Tv](https://open.spotify.com/artist/064QCIJx5aYVOMzi7BvJLw) | [The Hatch](https://open.spotify.com/album/32XutNv8SUPshYxE4WX04I) | 2:40 | 2025-03-14 |  |
 | [My Time](https://open.spotify.com/track/6wj519aKVQw2CxOpRwJG6e) | [Eleazar](https://open.spotify.com/artist/0sWHUR9l8PmvJ7rkAYie5L) | [My Time](https://open.spotify.com/album/6lCXILiZ3gPoDSu45u5IyJ) | 2:45 | 2024-10-22 | 2024-11-20 |
 | [My Time](https://open.spotify.com/track/4JvgMgWk2U7df5rLbNWWSj) | [Harrison Mayo](https://open.spotify.com/artist/5l3mrIeezdKhgV9Cww51FA) | [My Time](https://open.spotify.com/album/583My8svepalyp8R9o3Kxs) | 2:50 | 2024-02-14 | 2024-03-13 |
 | [My Type](https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [My Type](https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl) | 3:52 | 2024-07-09 | 2024-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCKlMWZnhZh.md) - [plain]
 
 > The get to your feet moments in all our favorite shows\. Cover: WICKED
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,636 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,667 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

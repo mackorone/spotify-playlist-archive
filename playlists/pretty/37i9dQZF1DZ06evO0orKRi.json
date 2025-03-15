@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24049,
+  "num_followers": 24055,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACifeIXVXqLFD7NDGTOE4h3",
+  "snapshot_id": "Z9IgAAAAAADZZO13A+TXGw5G/IQPwwoe",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights On The Hill (Remastered)",
-        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Pushin' Time",
-      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 193493,
       "name": "The Biggest Disappointment",
       "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Pushin' Time",
+      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
     },
     {
       "added_at": null,
@@ -439,38 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "The Bloke Who Serves The Beer",
-      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 131093,
-      "name": "Cunnamulla Feller - Remaster 1995",
-      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Road (Remastered)",
         "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
@@ -483,22 +451,6 @@
       "duration_ms": 170506,
       "name": "Angel Of Goulburn Hill",
       "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
@@ -519,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
       "artists": [
         {
@@ -528,9 +480,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
@@ -551,6 +519,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "The Bloke Who Serves The Beer",
+      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 162026,
       "name": "Haulin' For The Double 'T'",
       "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 112133,
+      "name": "Along The Road To Gundagai - Remaster 1995",
+      "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 190200,
       "name": "Truckin's In My Blood",
       "url": "https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 112133,
-      "name": "Along The Road To Gundagai - Remaster 1995",
-      "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
     },
     {
       "added_at": null,

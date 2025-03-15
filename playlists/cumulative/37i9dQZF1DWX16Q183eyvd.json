@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 118571,
       "name": "Count by Tens",
       "url": "https://open.spotify.com/track/5v8loPu4al8Bmh4ULursLu"
@@ -1250,6 +1250,24 @@
       "duration_ms": 160000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4YUplkqWWGV9huYJFAKjyY"
+    },
+    {
+      "album": {
+        "name": "Hot Cross Buns",
+        "url": "https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Hot Cross Buns",
+      "url": "https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8"
     },
     {
       "album": {

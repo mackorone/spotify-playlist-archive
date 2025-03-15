@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 184387,
+  "num_followers": 184443,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Schlagschatten",
-        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Vielleicht Vielleicht",
-      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Falle F\u00fcr Dich",
         "url": "https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 150465,
       "name": "Falle F\u00fcr Dich",
       "url": "https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Wei\u00dfe Haare",
-        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Wei\u00dfe Haare",
-      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Wei\u00dfe Haare",
+        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Wei\u00dfe Haare",
+      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
-      },
-      "artists": [
-        {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        },
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 135096,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Blaue Augen",
         "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 138924,
       "name": "Diese Eine",
       "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
       },
       "artists": [
         {
-          "name": "Andreas Bourani",
-          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 265026,
-      "name": "Ultraleicht",
-      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
       },
       "artists": [
         {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+          "name": "Andreas Bourani",
+          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
         }
       ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+      "duration_ms": 265026,
+      "name": "Ultraleicht",
+      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Halleluja (Remastered)",
-        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
-      },
-      "artists": [
-        {
-          "name": "Westernhagen",
-          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Weil ich dich liebe - 2000 Remaster",
-      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "dass liebe sch\u00f6n sein kann",
         "url": "https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 147825,
       "name": "Liebeslieder",
       "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Halleluja (Remastered)",
+        "url": "https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48"
+      },
+      "artists": [
+        {
+          "name": "Westernhagen",
+          "url": "https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "Weil ich dich liebe - 2000 Remaster",
+      "url": "https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8"
     },
     {
       "added_at": "2024-11-09 06:24:53",

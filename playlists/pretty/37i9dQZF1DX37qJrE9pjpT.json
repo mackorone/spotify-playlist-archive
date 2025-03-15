@@ -63,6 +63,22 @@
     {
       "added_at": "2025-03-14 00:59:16",
       "album": {
+        "name": "God's Calling",
+        "url": "https://open.spotify.com/album/5gNmYmdcx1brQXsPTEfqlJ"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "God's Calling",
+      "url": "https://open.spotify.com/track/4N58tjFFd8zrTG5S9TqrRm"
+    },
+    {
+      "added_at": "2025-03-14 00:59:16",
+      "album": {
         "name": "Pisi",
         "url": "https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7"
       },

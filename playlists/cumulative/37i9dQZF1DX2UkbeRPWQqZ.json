@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/6ksJegjbpJWhMYm5Lqf0vn"
+      },
+      "artists": [
+        {
+          "name": "Artful Epilogue",
+          "url": "https://open.spotify.com/artist/5Dtg6kkliBMwQ5dS1XpzlE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142297,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/4v85BIKFL7Rw54K9PU5oH7"
+    },
+    {
+      "album": {
         "name": "Dr\u00f6mmen om Vilma",
         "url": "https://open.spotify.com/album/3QNjK3ORQ4UukYUP8uxfem"
       },
@@ -1406,6 +1424,24 @@
       "duration_ms": 77897,
       "name": "Farmer in the Dell",
       "url": "https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7"
+    },
+    {
+      "album": {
+        "name": "Featherlight",
+        "url": "https://open.spotify.com/album/43jnMkL4vf5W5TVLNWlAD5"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146874,
+      "name": "Featherlight",
+      "url": "https://open.spotify.com/track/0WbmNgQDsrYH79slmx1IYV"
     },
     {
       "album": {
@@ -1748,6 +1784,24 @@
       "duration_ms": 71563,
       "name": "Goodnight My Dear",
       "url": "https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N"
+    },
+    {
+      "album": {
+        "name": "Goodnight My Love",
+        "url": "https://open.spotify.com/album/6TC9uKOTFwA967S7hjL4Ao"
+      },
+      "artists": [
+        {
+          "name": "Tom Blund",
+          "url": "https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "Goodnight My Love",
+      "url": "https://open.spotify.com/track/2wci3N9JVBU0oU6uaqT4Qr"
     },
     {
       "album": {
@@ -2634,7 +2688,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 112000,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/0hD9RBuvleJ7MwX6WDRned"
@@ -4680,10 +4734,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 97721,
       "name": "Twinkle Twinkle Little Star",
       "url": "https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W"
+    },
+    {
+      "album": {
+        "name": "Twinkle, Twinkle, Little Star",
+        "url": "https://open.spotify.com/album/3TFfa4mF3xmYdu4cnMyAez"
+      },
+      "artists": [
+        {
+          "name": "Leandro Bellucci",
+          "url": "https://open.spotify.com/artist/2WkL0WSx2twpiCsZuWCFCP"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122193,
+      "name": "Twinkle, Twinkle, Little Star",
+      "url": "https://open.spotify.com/track/63PmN6eQAHYEWU1bh5QXJi"
     },
     {
       "album": {

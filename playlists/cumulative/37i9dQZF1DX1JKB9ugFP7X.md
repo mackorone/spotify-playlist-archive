@@ -2,9 +2,9 @@
 
 ### [Electropop](https://open.spotify.com/playlist/37i9dQZF1DX1JKB9ugFP7X)
 
-> Lo mejor del electropop latino\. Foto: Javiera Mena
+> Lo mejor del electropop latino\. Foto: CAMI
 
-168 songs - 10 hr 42 min
+169 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 | 2023-10-26 | 2023-12-26 |
 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 | 2023-09-08 |  |
 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 | 2024-01-12 | 2024-10-19 |
+| [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 | 2025-03-14 |  |
 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 | 2023-12-07 | 2024-10-19 |
 | [Quemo la Estrella](https://open.spotify.com/track/2x2sn2NCMhrsE9mIzJPtek) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [Quemo la Estrella](https://open.spotify.com/album/0x0EqxJq11eOJey3L3ShiI) | 3:33 | 2024-10-18 |  |
 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 | 2023-09-08 | 2024-10-19 |

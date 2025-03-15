@@ -1275,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "ASI",
+        "url": "https://open.spotify.com/album/7AgZpJI4Y4macLuOLSHHlr"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Fito la R",
+          "url": "https://open.spotify.com/artist/33l3ylTVUcPmVQazgfhU92"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "ASI",
+      "url": "https://open.spotify.com/track/2MhG8BR04FwOBJO0zk7GfZ"
+    },
+    {
+      "album": {
         "name": "Asi Soy",
         "url": "https://open.spotify.com/album/1DgUPUAAgrQLV0h6rSVABP"
       },
@@ -3428,6 +3450,28 @@
       "duration_ms": 208100,
       "name": "Crime",
       "url": "https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo"
+    },
+    {
+      "album": {
+        "name": "Nada Personal",
+        "url": "https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201769,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR"
     },
     {
       "album": {
@@ -10424,6 +10468,32 @@
       "duration_ms": 159482,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "album": {
+        "name": "Nuevos Trapos",
+        "url": "https://open.spotify.com/album/05QwR4mSOlpHbtYFAOcB4f"
+      },
+      "artists": [
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188599,
+      "name": "Notorio",
+      "url": "https://open.spotify.com/track/56xvigEBuCJ2X5UJctt15K"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Tainy\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 10 min
+80 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,8 +66,9 @@
 | [PASIEMPRE](https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 5:55 | 2024-01-17 |  |
 | [PASIEMPRE](https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 5:55 | 2023-07-01 | 2024-01-18 |
 | [Pensándote](https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:36 | 2023-04-06 |  |
-| [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 | 2024-05-10 |  |
+| [roadhead](https://open.spotify.com/track/22e6zQqBcv68ZZnRNklZAf) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/14nxqQmgXadFt4KHCLxf4s) | 2:37 | 2024-05-10 | 2025-03-15 |
 | [roadhead](https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [roadhead](https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7) | 2:37 | 2024-02-24 | 2024-05-10 |
+| [roadhead](https://open.spotify.com/track/7qjUOW3NhLDGmuJqrzpQTG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [CAPICÚ](https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8) | 2:37 | 2025-03-15 |  |
 | [Sci\-Fi](https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:17 | 2024-04-01 |  |
 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 | 2023-04-06 | 2023-07-03 |
 | [SI LA VES \(with Las Villa\)](https://open.spotify.com/track/5lj0ISQvW88gNBqx9VO3an) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON](https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN) | 2:17 | 2023-04-06 | 2023-07-02 |

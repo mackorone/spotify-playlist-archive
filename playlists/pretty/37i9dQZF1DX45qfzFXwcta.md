@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,424 likes - 118 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,472 likes - 118 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 111 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
 | 112 | [Walking on the Moon](https://open.spotify.com/track/7uKF3UtE3MvhpywiDOwzgE) | [Mawon](https://open.spotify.com/artist/6O8kDoKPbhZTk5417eTBc9), [Vibin'](https://open.spotify.com/artist/5dmHoeGSjjd94vPj9m7m1V) | [Walking on the Moon](https://open.spotify.com/album/3JgUYDalMVyrpBRFCSoEGB) | 2:17 |
 | 113 | [Hear The Vibes](https://open.spotify.com/track/0VR0PrR3URSvUMrOo3MM3f) | [Mobsta Mane](https://open.spotify.com/artist/7xlFYuidFca4KP0IIReFTu), [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Hear The Vibes](https://open.spotify.com/album/1OLWYenrB1gnk9a28KKOYi) | 2:56 |
-| 114 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
+| 114 | [Players \(Instrumental\)](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
 | 115 | [in a mood](https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [in a mood](https://open.spotify.com/album/4C3uHlcnzyXnGtM6jeiaLB) | 1:16 |
 | 116 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 |
 | 117 | [Venus](https://open.spotify.com/track/4EnHspKqEoHm7Y7qWsHiio) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Venus](https://open.spotify.com/album/1yi25ZYDp30WwXwQwMkvlu) | 1:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 120013,
+  "num_followers": 120068,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB2sWfAk5bUmX6bp4UPvxJr",
+  "snapshot_id": "Z9IgAAAAAABr6srqEvohLj9d7QO7KnTC",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "La Durango",
+      "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "La Durango",
-      "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
     },
     {
       "added_at": null,
@@ -767,30 +767,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Street Album",
-        "url": "https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z"
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
       "artists": [
         {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
-          "name": "Dj Flippp",
-          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 140053,
-      "name": "Todo El Barrio",
-      "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
+      "duration_ms": 169062,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
     },
     {
       "added_at": null,
@@ -827,30 +827,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
+        "name": "Da Street Album",
+        "url": "https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 169062,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+      "duration_ms": 140053,
+      "name": "Todo El Barrio",
+      "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 8363,
+  "num_followers": 8403,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,34 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
       },
@@ -771,34 +799,6 @@
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "VOLVER",
-      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -1219,22 +1239,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1259,26 +1279,6 @@
       "duration_ms": 105114,
       "name": "MTG Tropicana",
       "url": "https://open.spotify.com/track/5Dki7m3M8mJR1ozN3Mkep4"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Hombres y Mujeres",
-        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 148644,
-      "name": "Hombres y Mujeres",
-      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1335,26 +1335,6 @@
       "duration_ms": 135533,
       "name": "MTG - STEREO LOVE",
       "url": "https://open.spotify.com/track/6lNeY9YQlX9s7qCEHZxuGx"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG COLO DE MENINA",
-        "url": "https://open.spotify.com/album/3wDQXvoToiiDEhE0sc1GXN"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Rastap\u00e9",
-          "url": "https://open.spotify.com/artist/4gocL2mlvwlI1G6TAYwQYx"
-        }
-      ],
-      "duration_ms": 118730,
-      "name": "MTG COLO DE MENINA",
-      "url": "https://open.spotify.com/track/3DNwrOexgGtykcPU8bEs2e"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1491,6 +1471,26 @@
       "duration_ms": 162461,
       "name": "Mtg \u00c9 Sempre Assim",
       "url": "https://open.spotify.com/track/2aewP8hWWmeCjBBLODTPy3"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG COLO DE MENINA",
+        "url": "https://open.spotify.com/album/3wDQXvoToiiDEhE0sc1GXN"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Rastap\u00e9",
+          "url": "https://open.spotify.com/artist/4gocL2mlvwlI1G6TAYwQYx"
+        }
+      ],
+      "duration_ms": 118730,
+      "name": "MTG COLO DE MENINA",
+      "url": "https://open.spotify.com/track/3DNwrOexgGtykcPU8bEs2e"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1659,6 +1659,38 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "De Volta Ao Game",
+        "url": "https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD"
+      },
+      "artists": [
+        {
+          "name": "Dj Lv Mdp",
+          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Mc 7 Belo",
+          "url": "https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7"
+        },
+        {
+          "name": "DJ GORDIN DO MDP",
+          "url": "https://open.spotify.com/artist/6PfLi7uSmK8gF7QEDT8uUF"
+        },
+        {
+          "name": "Mc Rd Bala",
+          "url": "https://open.spotify.com/artist/2zAiOCzuHLvnCPX6RSJOPV"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "MTG Ela s\u00f3 Quer",
+      "url": "https://open.spotify.com/track/2O5G3UQiqzxumbFjLGWVOc"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "PROVENZA (Sistek Remix)",
         "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
       },
@@ -1695,38 +1727,6 @@
       "duration_ms": 154151,
       "name": "MTG Efeitos",
       "url": "https://open.spotify.com/track/7CaFZOhHSC9tza2va9V6Ht"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "De Volta Ao Game",
-        "url": "https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD"
-      },
-      "artists": [
-        {
-          "name": "Dj Lv Mdp",
-          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Mc 7 Belo",
-          "url": "https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7"
-        },
-        {
-          "name": "DJ GORDIN DO MDP",
-          "url": "https://open.spotify.com/artist/6PfLi7uSmK8gF7QEDT8uUF"
-        },
-        {
-          "name": "Mc Rd Bala",
-          "url": "https://open.spotify.com/artist/2zAiOCzuHLvnCPX6RSJOPV"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "MTG Ela s\u00f3 Quer",
-      "url": "https://open.spotify.com/track/2O5G3UQiqzxumbFjLGWVOc"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2043,6 +2043,30 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG PIRA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
+      },
+      "artists": [
+        {
+          "name": "Kak\u00e1 e Pedrinho",
+          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "MTG PIRA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },
@@ -2067,30 +2091,6 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "MTG PIRA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/1K6FOohwLX4aZWqLz5iuLA"
-      },
-      "artists": [
-        {
-          "name": "Kak\u00e1 e Pedrinho",
-          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
-        },
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "DJ JO\u00c3O PEREIRA",
-          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "MTG PIRA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/2bDuye1TSWebEqDjxFnqZM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Mtg Vou Machucar",
         "url": "https://open.spotify.com/album/63KojY32gE1KxKvnmuH1Ja"
       },
@@ -2183,6 +2163,26 @@
       "duration_ms": 168800,
       "name": "Mtg Vou Machucar",
       "url": "https://open.spotify.com/track/2ZJTnpCp73UwYp7gYt2WRF"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2911,26 +2911,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Sin Dormir (Ya Se Arm\u00f3)",
-        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 160150,
-      "name": "Sin Dormir (Ya Se Arm\u00f3)",
-      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
         "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
       },
@@ -2947,6 +2927,26 @@
       "duration_ms": 177807,
       "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
       "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Sin Dormir (Ya Se Arm\u00f3)",
+        "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 160150,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3047,26 +3047,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Guaracha",
-        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
-      },
-      "artists": [
-        {
-          "name": "Yilberking",
-          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
-        },
-        {
-          "name": "Anny Sepulveda",
-          "url": "https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m"
-        }
-      ],
-      "duration_ms": 220177,
-      "name": "Guaracha",
-      "url": "https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Mtg Alibi",
         "url": "https://open.spotify.com/album/0GJwwMpIUzTaPLKKXxzDpt"
       },
@@ -3091,6 +3071,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "MTG Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/4gYVlRkmygmzvtyLpW26aC"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Luka G",
+          "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
+        }
+      ],
+      "duration_ms": 85342,
+      "name": "MTG Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/1bRODQWZdI8q56ewtBDZg6"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "PARIS HILTON",
         "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
       },
@@ -3111,22 +3111,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/4gYVlRkmygmzvtyLpW26aC"
+        "name": "Guaracha",
+        "url": "https://open.spotify.com/album/2RSY4lVnU9bIXlXwWn6oYo"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+          "name": "Yilberking",
+          "url": "https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt"
         },
         {
-          "name": "Luka G",
-          "url": "https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9"
+          "name": "Anny Sepulveda",
+          "url": "https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m"
         }
       ],
-      "duration_ms": 85342,
-      "name": "MTG Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/1bRODQWZdI8q56ewtBDZg6"
+      "duration_ms": 220177,
+      "name": "Guaracha",
+      "url": "https://open.spotify.com/track/4V8WtF4PfuDKjzVapsI3X7"
     },
     {
       "added_at": "2024-09-30 22:44:34",

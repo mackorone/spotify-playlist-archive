@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 190549,
+  "num_followers": 190571,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADDe4bEv05SdgkiBMCSKRQB",
+  "snapshot_id": "Z9IgAAAAAABGwcypBNk+df5t9SRtkiyt",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+      "duration_ms": 189400,
+      "name": "Pork And Beans",
+      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 189400,
-      "name": "Pork And Beans",
-      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,

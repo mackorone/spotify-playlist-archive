@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: KNEECAP",
+  "description": "Beyond titles, beyond genre. Cover: Barry Can't Swim",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Another Boy",
+        "url": "https://open.spotify.com/album/6mUBGBSDQ9Re1XaLlVBBqH"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Another Boy",
+      "url": "https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg"
+    },
+    {
+      "album": {
         "name": "ANOTHER DOMESTIC / SB 1 3",
         "url": "https://open.spotify.com/album/7bhr4VWkAJjrbVAM0CBrhF"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 212202,
       "name": "ANOTHER DOMESTIC",
       "url": "https://open.spotify.com/track/34bpAWuXq9b0Fz5j0eyc6K"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
@@ -1195,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Chalk (feat. Delilah Montagu)",
+        "url": "https://open.spotify.com/album/6IzPMX0q9bvtB8AfS4VDpx"
+      },
+      "artists": [
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        },
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179944,
+      "name": "Chalk (feat. Delilah Montagu)",
+      "url": "https://open.spotify.com/track/6WolE6URYKVoLtvS7r4Ujh"
+    },
+    {
+      "album": {
         "name": "Charlie (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
       },
@@ -1304,7 +1344,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 83410,
       "name": "Coffee In The Morning",
       "url": "https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp"
@@ -2788,7 +2828,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 227000,
       "name": "gossip",
       "url": "https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg"
@@ -3519,6 +3559,28 @@
     },
     {
       "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
+    },
+    {
+      "album": {
         "name": "Imaginal Disk",
         "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
       },
@@ -3574,6 +3636,28 @@
       "duration_ms": 215454,
       "name": "Image - Grimes Special",
       "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
+    },
+    {
+      "album": {
+        "name": "Industrial Love Song / Bells",
+        "url": "https://open.spotify.com/album/0jMKVV7RHBC8Pr0kV8R397"
+      },
+      "artists": [
+        {
+          "name": "These New Puritans",
+          "url": "https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Industrial Love Song",
+      "url": "https://open.spotify.com/track/3089w7UmnSQboJ7wC3zchk"
     },
     {
       "album": {
@@ -4341,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "lvl 6 - VIDEO GAMES",
+        "url": "https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219299,
+      "name": "lvl 6 - VIDEO GAMES",
+      "url": "https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH"
+    },
+    {
+      "album": {
         "name": "Hole Erth",
         "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
       },
@@ -4752,6 +4854,24 @@
       "duration_ms": 184761,
       "name": "NAZARETH",
       "url": "https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ"
+    },
+    {
+      "album": {
+        "name": "need 2 breathe",
+        "url": "https://open.spotify.com/album/7J0eh1T8zhjzgvi3yig48y"
+      },
+      "artists": [
+        {
+          "name": "VC Pines",
+          "url": "https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151612,
+      "name": "need 2 breathe",
+      "url": "https://open.spotify.com/track/1WO4Kn1TmIM56ksI4wF9mw"
     },
     {
       "album": {
@@ -5742,6 +5862,24 @@
       "duration_ms": 229353,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy"
+    },
+    {
+      "album": {
+        "name": "Reach Out And Kiss Me",
+        "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210691,
+      "name": "Reach Out And Kiss Me",
+      "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
     },
     {
       "album": {
@@ -6812,7 +6950,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 126568,
       "name": "Take Me Down",
       "url": "https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo"
@@ -7141,6 +7279,24 @@
     },
     {
       "album": {
+        "name": "The Person You\u2019d Like To Be",
+        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197890,
+      "name": "The Person You\u2019d Like To Be",
+      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
+    },
+    {
+      "album": {
         "name": "The Pressures of the Heart",
         "url": "https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe"
       },
@@ -7199,6 +7355,24 @@
     },
     {
       "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -7236,6 +7410,24 @@
       "duration_ms": 171546,
       "name": "Things You Didn't Know",
       "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
+    },
+    {
+      "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187351,
+      "name": "This Is Real",
+      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
     },
     {
       "album": {

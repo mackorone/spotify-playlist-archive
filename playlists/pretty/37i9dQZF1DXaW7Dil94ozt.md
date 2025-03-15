@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,592 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,594 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

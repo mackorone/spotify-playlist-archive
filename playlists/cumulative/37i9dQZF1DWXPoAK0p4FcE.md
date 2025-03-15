@@ -2,13 +2,13 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Stoondio, Q Flure
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
-94 songs - 6 hr 30 min
+96 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-06-27 |  |
+| [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-06-27 | 2025-03-15 |
 | [All I Know](https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [All I Know](https://open.spotify.com/album/4leadtIteS968V9L0Hn1g3) | 3:54 | 2024-12-20 | 2025-02-22 |
 | [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 | 2024-07-19 |  |
 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 |  |
@@ -21,6 +21,7 @@
 | [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-04 | 2024-11-02 |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 | 2025-02-13 |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2024-06-27 | 2024-08-31 |
+| [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 | 2025-03-14 |  |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 | 2025-02-01 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-23 |
@@ -28,6 +29,7 @@
 | [คนเดียวกัน \(You?\)](https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [คนเดียวกัน \(You?\)](https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa) | 4:01 | 2024-06-27 |  |
 | [คนเดียวบนโลก\(U\)](https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คนเดียวบนโลก\(U\)](https://open.spotify.com/album/2wmjvtFbwS4sWKuSYqnJqN) | 4:08 | 2024-12-26 |  |
 | [คนโปรด \(Cha la la la\)](https://open.spotify.com/track/2IHYFH8cdLd96scFirx74H) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [คนโปรด \(Cha la la la\)](https://open.spotify.com/album/11u1dm8tOrp3BEKj9U32Fh) | 4:58 | 2024-09-27 | 2024-11-02 |
+| [คลื่น](https://open.spotify.com/track/0aBykSgyQgRzsDluIufcXY) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [คลื่น](https://open.spotify.com/album/482iKGCtveyDIdSlb64IGB) | 3:22 | 2025-03-14 |  |
 | [ความทรงจำ](https://open.spotify.com/track/6xaJ9fG1q0zMWzQ8VD0AHJ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ความทรงจำ](https://open.spotify.com/album/4cLr6pzhz6u1ejVJVMd4gf) | 3:12 | 2025-01-31 | 2025-03-01 |
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2024-06-27 | 2024-11-29 |
 | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/track/3ey4oaB0Dx9N6d4qWcORFx) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คุณค่าที่เธอคู่ควร](https://open.spotify.com/album/3ij1193Ulks1bLmlMvc73W) | 3:58 | 2024-06-27 |  |
@@ -80,7 +82,7 @@
 | [เธอน่ะไม่ต้องเก่งกว่านี้](https://open.spotify.com/track/7Io7duTHbX22guoinFQpcx) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [เธอน่ะไม่ต้องเก่งกว่านี้](https://open.spotify.com/album/58hZgQmEWJeJ6hoNiGqK31) | 4:40 | 2024-08-16 | 2024-10-26 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2024-06-27 | 2024-10-26 |
 | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/track/2LXwmbBwQtMlxyc7B8URR3) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/album/5rzx4nzHzapsZ34X22Ykg1) | 4:06 | 2024-11-01 |  |
-| [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ) | 3:36 | 2024-06-27 |  |
+| [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ) | 3:36 | 2024-06-27 | 2025-03-15 |
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-06-27 | 2024-08-17 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-06-27 | 2024-07-06 |
 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 | 2024-06-27 |  |

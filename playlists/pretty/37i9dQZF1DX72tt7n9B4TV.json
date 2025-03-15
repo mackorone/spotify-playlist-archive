@@ -1,6 +1,6 @@
 {
   "description": "Hot noise for hot weather.",
-  "num_followers": 32880,
+  "num_followers": 32877,
   "original_name": "Summer Rock ",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-05-31 17:33:57",
       "album": {
-        "name": "Starburster",
-        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 221450,
-      "name": "Starburster",
-      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
-    },
-    {
-      "added_at": "2024-05-31 17:33:57",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2024-05-31 17:33:57",
+      "album": {
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
     },
     {
       "added_at": "2024-07-25 01:22:31",
@@ -989,26 +989,6 @@
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
     },
     {
-      "added_at": "2024-07-25 01:22:31",
-      "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
       "added_at": "2024-05-31 17:33:57",
       "album": {
         "name": "Is Everybody Going Crazy?",
@@ -1055,6 +1035,26 @@
       "duration_ms": 195853,
       "name": "Tiny Indoor Fireworks",
       "url": "https://open.spotify.com/track/1ZUsnvMUqF0uJkhhjZlvcY"
+    },
+    {
+      "added_at": "2024-07-25 01:22:31",
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "added_at": "2024-05-31 17:33:57",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I"
     },
     {
-      "added_at": "2024-07-25 01:22:31",
-      "album": {
-        "name": "Let's Start Degeneracy",
-        "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
-    },
-    {
       "added_at": "2024-05-31 17:33:57",
       "album": {
         "name": "Golden",
@@ -1231,6 +1215,22 @@
       "duration_ms": 170523,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS"
+    },
+    {
+      "added_at": "2024-07-25 01:22:31",
+      "album": {
+        "name": "Let's Start Degeneracy",
+        "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
     },
     {
       "added_at": "2024-05-31 17:33:57",

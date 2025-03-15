@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-398 songs - 21 hr 37 min
+399 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,10 +133,11 @@
 | [Gainz](https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr) | 3:53 | 2021-11-19 | 2023-06-08 |
 | [Gainz](https://open.spotify.com/track/767R2eTuR9fBn4k82zLiXd) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/42kbR7t1IBBHkyvTPEkZk0) | 3:53 | 2023-07-14 | 2023-12-16 |
 | [Gang Shit](https://open.spotify.com/track/2dDDwAvdVHHNTnfRFzGMgK) | [Dotcom](https://open.spotify.com/artist/3mS6BpiviqsTL1uuYghf3s), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Gang Shit](https://open.spotify.com/album/5mQTotzqXAyEpQXiWrXaDV) | 3:20 | 2021-11-19 | 2022-01-08 |
-| [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 | 2024-08-31 |  |
+| [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 | 2024-08-31 | 2025-03-15 |
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2022-01-07 |  |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-11-19 | 2022-01-08 |
 | [Get Right](https://open.spotify.com/track/53Xsyg5W3LkxOJglyq1l5o) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Get Right](https://open.spotify.com/album/0xejpMLCWbCVEHPivvoQGH) | 2:38 | 2021-11-19 | 2022-01-08 |
+| [GET SMACKED](https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [GET SMACKED](https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j) | 3:40 | 2025-03-14 |  |
 | [GO OFF!](https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Harvey](https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5) | [GO OFF!](https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI) | 2:53 | 2024-12-03 | 2025-01-15 |
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-11-19 | 2022-12-03 |
 | [Grenade](https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Grenade](https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL) | 4:08 | 2023-04-28 | 2023-09-20 |

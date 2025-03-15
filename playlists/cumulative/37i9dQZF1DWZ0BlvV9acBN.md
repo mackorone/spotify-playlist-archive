@@ -2,17 +2,18 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
+> Grandes sucessos e novidades do rock Cristão\. Foto: AtituD
 
-181 songs - 13 hr 57 min
+183 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Graus](https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Melyssa Almeida](https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq) | [1000 Graus](https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB) | 2:48 | 2023-03-11 | 2024-06-01 |
+| [467 \(Cabo da Nau\)](https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [467 \(Cabo da Nau\)](https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA) | 2:37 | 2025-03-14 |  |
 | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder](https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 3:52 | 2022-09-02 | 2024-04-19 |
 | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \- Ao Vivo](https://open.spotify.com/track/2Q1948Kr1w3OIkwSE0r9gn) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \(Ao Vivo\)](https://open.spotify.com/album/7MjxLoPnQKWGqaYxVKGwlL) | 3:52 | 2024-04-19 |  |
 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 | 2022-09-02 |  |
-| [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 | 2022-09-02 |  |
+| [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 | 2022-09-02 | 2025-03-15 |
 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 | 2023-03-18 |  |
 | [A Fênix](https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [A Fênix](https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6) | 4:00 | 2022-09-02 | 2023-07-22 |
 | [A Porta \- Acústico](https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [A Porta \(Acústico\)](https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4) | 3:11 | 2022-10-14 | 2023-07-15 |
@@ -50,7 +51,7 @@
 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 | 2022-09-02 |  |
 | [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 | 2022-09-02 | 2024-09-28 |
 | [Derrama Fogo \- Ao Vivo](https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Atitud Ao Vivo, Vol\. 2](https://open.spotify.com/album/2mWAAKPLWjHeuo3n8N5UHp) | 5:37 | 2024-03-08 | 2024-06-22 |
-| [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 | 2022-09-02 |  |
+| [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 | 2022-09-02 | 2025-03-15 |
 | [Deserto 2.0](https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Deserto 2.0](https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR) | 3:38 | 2023-07-21 | 2023-10-07 |
 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 | 2024-03-01 |  |
 | [Deus Me Livre](https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku) | [Deus Me Livre](https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv) | 3:40 | 2024-05-31 | 2024-08-31 |
@@ -101,6 +102,7 @@
 | [Maranata \(Trono\)](https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku), [Lari Lindstron](https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd) | [Maranata \(Trono\)](https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw) | 5:03 | 2024-09-06 |  |
 | [Masmorra](https://open.spotify.com/track/3lRbeTTIUBS9xeBbdknpSB) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Masmorra](https://open.spotify.com/album/3K7ntpjUHLXD6jm3unf5kj) | 4:08 | 2022-09-02 | 2022-10-15 |
 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 | 2022-09-02 | 2023-04-29 |
+| [Me Deixa](https://open.spotify.com/track/7o5GLOR6dHfRKcPwJdARGo) | [Em Um](https://open.spotify.com/artist/3FQdrcZWCcXiofG7Pn4jx2) | [Me Deixa](https://open.spotify.com/album/5cCRbKpQUP23wd9VD6l52e) | 5:33 | 2025-03-14 |  |
 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 | 2022-09-02 |  |
 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 | 2022-09-02 |  |
 | [Me Recuso a Viver em Vão](https://open.spotify.com/track/7Abi0l5SsiALsAJatiLcg7) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI](https://open.spotify.com/album/0bVQ9jChKnNeRkIkXlsomK) | 2:53 | 2023-09-04 | 2023-10-07 |

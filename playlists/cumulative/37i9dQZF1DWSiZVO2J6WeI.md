@@ -4,12 +4,12 @@
 
 > Hypnotic bliss.
 
-450 songs - 23 hr 1 min
+451 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 | 2023-01-20 |  |
-| [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 | 2022-12-09 |  |
+| [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 | 2022-12-09 | 2025-03-15 |
 | [396Hz \- Cradle](https://open.spotify.com/track/1guLoPgpYhhqHDfSsbcv36) | [Fravula](https://open.spotify.com/artist/4sO8xUAbF7Vfzoyiy5tYZj) | [396Hz \- Cradle](https://open.spotify.com/album/1xqwg5BfiKRwv45h5hu2nu) | 2:44 | 2024-01-17 | 2024-01-20 |
 | [432 Hz Calm](https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [432 Hz Calm](https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp) | 2:56 | 2023-10-13 |  |
 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 | 2022-10-15 | 2025-01-22 |
@@ -266,6 +266,7 @@
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-02-01 | 2025-01-22 |
 | [Léthargie](https://open.spotify.com/track/7BMTdqTc7vW0Kvo2h9Yhzq) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Léthargie](https://open.spotify.com/album/2dYYrqc73UWwMnCD5GY2iV) | 2:18 | 2024-11-21 |  |
 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2022-01-19 | 2022-04-19 |
+| [Maitrī / Loving\-Kindness](https://open.spotify.com/track/3fxhUzK3MnVxAuLweBht7Z) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Prabhāta Dhara / Morning Flow](https://open.spotify.com/album/2sPa9bingfnxan7LKLOivy) | 3:24 | 2025-02-28 |  |
 | [Maja's Miracle](https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Maja's Miracle](https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk) | 2:03 | 2022-01-12 | 2024-01-18 |
 | [Majestic](https://open.spotify.com/track/12ooNhX345euVylX3PLe8f) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:51 | 2022-01-12 | 2022-02-02 |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2022-01-12 | 2024-05-21 |

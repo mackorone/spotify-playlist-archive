@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,010 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,015 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 22 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
 | 23 | [War \- Live](https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:43 |
 | 24 | [There's A Reward](https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Old Soul](https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um) | 3:45 |
-| 25 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
+| 25 | [Cornerstone](https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [The Marley Brothers](https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Cornerstone](https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E) | 3:56 |
 | 26 | [Rainbow in the Sky](https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:08 |
 | 27 | [Top Rankin'/We And Dem \- Live](https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:59 |
-| 28 | [Cornerstone](https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [The Marley Brothers](https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Cornerstone](https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E) | 3:56 |
+| 28 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
 | 29 | [El Hilo](https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Cumbiana](https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS) | 3:48 |
 | 30 | [Never Deny You](https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:02 |
 | 31 | [One Love/People Get Ready \- Live](https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 |
 | 50 | [Drive](https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Drive](https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ) | 4:20 |
 
-Snapshot ID: `Z9DOgAAAAACA4dgWiT/OP/nmivCYdONX`
+Snapshot ID: `Z9IgAAAAAAB8GgEPcqyGja/obPFkWg05`

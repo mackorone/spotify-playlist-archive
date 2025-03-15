@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Sean McConnell
 
-239 songs - 14 hr 37 min
+243 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Big Time](https://open.spotify.com/track/5ibzXO4BdeWbbXBz71YNbl) | [Abby Hamilton](https://open.spotify.com/artist/4tw4XGFI9wF5zn4zs6WPv2) | [Big Time](https://open.spotify.com/album/7fiiv8ckvymj3wBDCuFwUf) | 2:39 | 2023-01-13 |  |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2022-01-28 | 2023-01-21 |
 | [Black Obsidian](https://open.spotify.com/track/2JilhorMUGw4jgivLFcVHU) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 3:05 | 2023-01-13 |  |
+| [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-14 |  |
 | [Blues Comin' On](https://open.spotify.com/track/1VSVt61UOSyhMAEsShuvT8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 4:24 | 2023-06-30 | 2024-03-02 |
 | [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 | 2022-11-18 | 2023-07-09 |
 | [Boomerang Town](https://open.spotify.com/track/0nNm9Zf8DK34PM4hi912QM) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [Boomerang Town](https://open.spotify.com/album/1sr75Z5hmmbiH62FLMfdwv) | 7:00 | 2023-02-17 |  |
@@ -41,6 +42,7 @@
 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 | 2022-01-28 | 2023-09-09 |
 | [Dance Floor](https://open.spotify.com/track/3vogqXUK0kbuG3RwqjborM) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:55 | 2023-06-30 | 2024-04-19 |
 | [Dance Floor](https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Dance Floor](https://open.spotify.com/album/6fOXmTIUuUngNNuHDEPfzG) | 3:55 | 2022-01-28 | 2024-05-03 |
+| [Days Getting Darker](https://open.spotify.com/track/6x9qNBLEiKwtFUIGlSiKzc) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Days Getting Darker](https://open.spotify.com/album/3Iltvt8MfFTPjBWMRzEZHg) | 4:10 | 2025-03-14 |  |
 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-01-19 |  |
 | [Devil Bent](https://open.spotify.com/track/5RmdFziXzizy6O7ErWKrVP) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Devil Bent](https://open.spotify.com/album/7MID2OeMPD86rIC77bU33K) | 2:33 | 2024-11-22 |  |
 | [Dogfight](https://open.spotify.com/track/0T0bIg86lkmNdMcm4IAYub) | [Erik Dylan](https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8) | [Dogfight](https://open.spotify.com/album/4dcPMjUhsGl9ql203upjwI) | 3:10 | 2025-02-21 |  |
@@ -181,6 +183,7 @@
 | [Roses & Poppies](https://open.spotify.com/track/6r9b0M8epi2KnkpCOvIjSe) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [You Know Who](https://open.spotify.com/album/73H6LRe0oaKI1gUlN6iz49) | 1:58 | 2024-03-22 | 2024-04-19 |
 | [Saint Augustine](https://open.spotify.com/track/0MMyVtSevLzI9slpJVoatM) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Saint Augustine](https://open.spotify.com/album/4LcBL38G18fEF4B2hYWDTb) | 3:23 | 2022-01-28 | 2023-04-01 |
 | [Saturday Night](https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Saturday Night](https://open.spotify.com/album/5WYIVmNQXmB9jE9dXYdZ5F) | 4:37 | 2022-01-28 | 2023-07-01 |
+| [Seventeen](https://open.spotify.com/track/7uRchg3bAvFQldpXVlUyic) | [Case Oats](https://open.spotify.com/artist/5Ml0QbIoj7bneIUJDCoMx8) | [Seventeen](https://open.spotify.com/album/6sYDca140CurPW72frgPdi) | 3:05 | 2025-03-14 |  |
 | [Sexy After Dark](https://open.spotify.com/track/4bsmxYIlAsApRfvopNMFdb) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [See You Next Time](https://open.spotify.com/album/0k6hyzG6ntUuTVxiQIWpol) | 3:50 | 2023-05-05 | 2024-03-02 |
 | [Sexy After Dark](https://open.spotify.com/track/5hOuD8UufsA8K2tqAtNj0d) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Sexy After Dark](https://open.spotify.com/album/0m467Jz2jf5yXmK3gpxBzO) | 3:50 | 2022-01-28 | 2023-05-11 |
 | [Shaking Ground](https://open.spotify.com/track/5ioMTIu2WZElnijMufDNmk) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [Shaking Ground](https://open.spotify.com/album/10LZJuclyo0sQkmykTl4iT) | 3:02 | 2024-01-05 |  |
@@ -197,6 +200,7 @@
 | [Southside of Forever](https://open.spotify.com/track/2OOz6KPCstfYtxne6JFHQZ) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [SKIN](https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO) | 3:34 | 2025-02-28 |  |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 | 2023-12-02 |
 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2023-12-01 |  |
+| [Sugar](https://open.spotify.com/track/1xqp03XCarQB8AwBtlUdhK) | [Marfa](https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD) | [Sugar](https://open.spotify.com/album/1A6QXWXIqcSdC30XZwvHd3) | 2:43 | 2025-03-14 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 | 2024-03-02 |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2022-01-28 | 2022-10-23 |
 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 | 2023-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-198 songs - 9 hr 55 min
+201 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alles was ich will](https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Alles was ich will](https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa) | 2:56 | 2024-06-27 | 2024-10-04 |
 | [Alright](https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Alright](https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM) | 3:22 | 2024-06-27 | 2024-10-04 |
 | [Another Heart](https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Another Heart](https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d) | 2:22 | 2024-06-27 | 2024-10-04 |
+| [Antidote](https://open.spotify.com/track/386EuKw40zFJix1D0pGsBD) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Antidote](https://open.spotify.com/album/65kIBpcdf6PSftAIyyjl1q) | 3:19 | 2025-03-14 |  |
 | [As Long as You Stay Here](https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [As Long as You Stay Here](https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb) | 1:55 | 2024-11-22 | 2025-01-31 |
 | [Ashes By The Morning](https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bored Of The Circus](https://open.spotify.com/album/4oothiJCmPORbNYinRinfo) | 3:02 | 2024-06-27 | 2025-03-10 |
 | [Atrevida](https://open.spotify.com/track/58nKfhlWsJ3pFEQDW7Mel7) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Atrevida](https://open.spotify.com/album/4kzAbL8Xc7eCUG4eRh7RZe) | 2:50 | 2024-06-27 | 2024-10-04 |
@@ -71,11 +72,11 @@
 | [feel like myself](https://open.spotify.com/track/1FmVcidJ8PFbgRVtDFKmya) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [old sun, new horizon](https://open.spotify.com/album/2GE74gJeibVhjY53B8ae7m) | 3:38 | 2025-02-27 |  |
 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 | 2024-06-27 |  |
 | [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 | 2024-06-27 | 2024-09-07 |
-| [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 | 2024-10-03 |  |
+| [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 | 2024-10-03 | 2025-03-15 |
 | [Fomo](https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [Trottinette](https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq) | 3:34 | 2024-11-14 | 2025-01-03 |
 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 | 2024-06-27 |  |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-06-27 |  |
-| [Forbidden Fruit](https://open.spotify.com/track/4sJJ2TY4qqZn5jF6pYHm7w) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Forbidden Fruit](https://open.spotify.com/album/1JPFS0mNgfIYaSJpk8SOV2) | 3:01 | 2025-02-07 |  |
+| [Forbidden Fruit](https://open.spotify.com/track/4sJJ2TY4qqZn5jF6pYHm7w) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Forbidden Fruit](https://open.spotify.com/album/1JPFS0mNgfIYaSJpk8SOV2) | 3:01 | 2025-02-07 | 2025-03-15 |
 | [Forever](https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:32 | 2024-06-27 | 2024-10-04 |
 | [Foto](https://open.spotify.com/track/6zrEOdAyx1vPjSFFgv8pEg) | [MYKEL COSTA](https://open.spotify.com/artist/5K9u03cGBr44enVvFqGzzK), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Foto](https://open.spotify.com/album/5Op2BFCuXTsHWOQIkF4N1L) | 3:00 | 2025-01-10 | 2025-03-08 |
 | [Frostbites](https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Frostbites](https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT) | 2:59 | 2024-07-19 | 2024-10-04 |
@@ -133,6 +134,7 @@
 | [my religion](https://open.spotify.com/track/35NEKJnyj2waAPPSyCpgKC) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [my religion](https://open.spotify.com/album/2toUGxyi3JsWxsa2WzCzv1) | 2:18 | 2024-11-22 | 2024-12-21 |
 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 | 2024-10-18 | 2024-12-11 |
 | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL), [Adrian Stern](https://open.spotify.com/artist/0xyuoDGMf5zdxyAttFCSpX) | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki) | 3:08 | 2024-10-03 | 2024-11-24 |
+| [Never Let Me Go](https://open.spotify.com/track/7afAuXkP0ge7Y7T9n4eToW) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Never Let Me Go](https://open.spotify.com/album/2BaDirX6CI8OtUx87IAEml) | 2:26 | 2025-03-14 |  |
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-07-04 | 2024-08-01 |
 | [New Her](https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [New Her](https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ) | 3:00 | 2025-02-21 | 2025-02-28 |
 | [Nightmare](https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Nightmare](https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu) | 2:57 | 2024-06-27 | 2024-10-04 |
@@ -192,6 +194,7 @@
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |
 | [Vibe](https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Vibe](https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0) | 3:00 | 2024-07-04 | 2024-08-28 |
 | [Vibrations](https://open.spotify.com/track/5FsW2KldiTNskb2MGX81Cd) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Vibrations](https://open.spotify.com/album/5pNVdxxG96gpjgQmwdmPb6) | 3:15 | 2025-01-02 | 2025-02-15 |
+| [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-03-14 |  |
 | [Waiting](https://open.spotify.com/track/4VzLCmWpoRxLUNtTw2ybgV) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Silence](https://open.spotify.com/album/5VS2LAXA6yEICqvnSjfw41) | 3:14 | 2024-11-09 | 2025-03-08 |
 | [Waiting](https://open.spotify.com/track/651XWsMydWVIGa3kXk6N3E) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Waiting](https://open.spotify.com/album/2pde6kf2nEN7xlMfnlOOmg) | 3:14 | 2024-08-29 | 2024-10-04 |
 | [Waiting For Love](https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Waiting For Love](https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU) | 3:14 | 2024-10-18 | 2024-10-20 |
@@ -200,7 +203,7 @@
 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 | 2025-03-14 |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-10-20 |
-| [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 |  |
+| [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 | 2025-03-15 |
 | [With Me](https://open.spotify.com/track/2suQhCn72hzEVDJjr88yr7) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [With Me](https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub) | 3:17 | 2025-02-21 |  |
 | [Without My Love](https://open.spotify.com/track/6MLeDTqtMW4oDLgmrCMP1q) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Without My Love](https://open.spotify.com/album/222SoIbjNhExQMwEExMvek) | 2:56 | 2024-10-11 | 2024-10-19 |
 | [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |

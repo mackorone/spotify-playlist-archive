@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "2012 highlights from the home of indie music.",
+  "description": "The Indie highlights of 2012. Cover: Flume",
   "name": "Best of Indie 2012",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 230586,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0B4R6lMH2Fsyzcndp4RP4c"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 228280,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0nSsI7f2BJRXJUeNisWUWL"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 209280,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 204031,
       "name": "Good As New",
       "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 266866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4JYgvIKYhLBDn4OqPeJOGh"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 237986,
       "name": "Kill For Love",
       "url": "https://open.spotify.com/track/4jhdcYyWYx6d60j60OQDCa"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 233817,
       "name": "Ode to Viceroy",
       "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 223053,
       "name": "Paddling Out",
       "url": "https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 232132,
       "name": "That's What's Up",
       "url": "https://open.spotify.com/track/5njddWcaUd9FQFJJaSOCze"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 291636,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"

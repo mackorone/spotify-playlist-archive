@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Elle Limebear",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: CeCe Winans & Shirley Caesar",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 190434,
       "name": "All Over The World",
       "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 213751,
       "name": "Can't Steal My Joy (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa"
@@ -2848,6 +2848,28 @@
       "duration_ms": 270496,
       "name": "Come Into The Light",
       "url": "https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301130,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV"
     },
     {
       "album": {
@@ -7693,6 +7715,24 @@
     },
     {
       "album": {
+        "name": "How Many Times (oh how You love me)",
+        "url": "https://open.spotify.com/album/3noiFOBNrnM85LaH7aBO9r"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191779,
+      "name": "How Many Times (oh how You love me)",
+      "url": "https://open.spotify.com/track/5dc0HWu0cc0voNz32RSiR1"
+    },
+    {
+      "album": {
         "name": "SEVEN (Deluxe / Live)",
         "url": "https://open.spotify.com/album/6WUXadeySiyARbTNj7GOvY"
       },
@@ -10407,6 +10447,24 @@
     },
     {
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201798,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4"
+    },
+    {
+      "album": {
         "name": "Light of Heaven",
         "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
       },
@@ -12794,7 +12852,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 168320,
       "name": "On Me",
       "url": "https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV"
@@ -16808,7 +16866,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 250477,
       "name": "That's My King",
       "url": "https://open.spotify.com/track/6YoCr1PHjCNCniM5iJivoh"
@@ -18521,6 +18579,24 @@
     },
     {
       "album": {
+        "name": "Wait / Praise The Giver",
+        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -20004,6 +20080,24 @@
       "duration_ms": 301166,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m"
+    },
+    {
+      "album": {
+        "name": "Yesterday Is Dead",
+        "url": "https://open.spotify.com/album/3sWqUGiqcOrQbQa4N5F9l3"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165992,
+      "name": "Yesterday Is Dead",
+      "url": "https://open.spotify.com/track/2MB2pKgf2fWBGKcewyUBUS"
     },
     {
       "album": {

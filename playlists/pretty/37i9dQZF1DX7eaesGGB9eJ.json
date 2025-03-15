@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 258436,
+  "num_followers": 258516,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Margarito No Cometio Delito",
+        "url": "https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z"
+      },
+      "artists": [
+        {
+          "name": "Serko Fu",
+          "url": "https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Margarito",
+      "url": "https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Hip Hop Revolucion Vol2",
         "url": "https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 304346,
       "name": "El Dia De Mi Suerte",
       "url": "https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Margarito No Cometio Delito",
-        "url": "https://open.spotify.com/album/0lOx5lyVDBp23np7llOU9Z"
-      },
-      "artists": [
-        {
-          "name": "Serko Fu",
-          "url": "https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Margarito",
-      "url": "https://open.spotify.com/track/1PfItoD19m1bZkdqH7F5aR"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Santos Grifos, Vol. 1",
         "url": "https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 381701,
       "name": "El Diablo Anda Suelto",
       "url": "https://open.spotify.com/track/2vfp3rtorzJs4l9nhrP0e1"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
     },
     {
       "added_at": "2024-07-12 18:14:48",

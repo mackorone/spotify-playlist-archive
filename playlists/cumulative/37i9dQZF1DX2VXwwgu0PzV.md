@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=NO2OWkluRhe\_OoxLcWAfOA>Limoblaze</a>
 
-994 songs - 2 day 6 hr 48 min
+995 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Groanings](https://open.spotify.com/track/4BJEIAcglJHGTBsIcE2upX) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3) | 2:50 | 2023-07-14 | 2023-07-22 |
 | [Groanings](https://open.spotify.com/track/39tTh4ptwHpq12peX61tYY) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 2:50 | 2023-07-14 | 2023-07-28 |
 | [Groanings \- Paruto Live peformance](https://open.spotify.com/track/3YCsM8KGYkXEMbAQi1Agjy) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Groanings \(Paruto Live peformance\)](https://open.spotify.com/album/7lCN4xyxbrgOj2CPS4spC3) | 2:33 | 2023-09-01 | 2023-10-20 |
+| [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 |  |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-11 | 2023-09-15 |
 | [Halle](https://open.spotify.com/track/7HMgwhEUMnlL62dBjM1Jf1) | [Luwanni](https://open.spotify.com/artist/2QfgJtreVVmE0UNqeTE2pX), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Halle](https://open.spotify.com/album/10GLXCOrQNvjX2vFhrO0b9) | 2:13 | 2024-06-14 | 2024-07-05 |
 | [Halle](https://open.spotify.com/track/4GWt6P16WBQQFK4VXsPbX8) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [Shepherd](https://open.spotify.com/album/2mf6TRndLJ9XqBGAHfd1vp) | 2:44 | 2023-09-21 | 2023-11-17 |

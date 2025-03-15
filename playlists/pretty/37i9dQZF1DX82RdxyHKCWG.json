@@ -1,6 +1,6 @@
 {
   "description": "amo a natureza / foto: SZA",
-  "num_followers": 609270,
+  "num_followers": 609247,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-03 16:13:50",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 203343,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
-    },
-    {
-      "added_at": "2025-02-03 16:13:50",
-      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 161976,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
+    },
+    {
+      "added_at": "2025-02-03 16:13:50",
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 203343,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
     },
     {
       "added_at": "2025-02-03 16:13:50",

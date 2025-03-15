@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 266689,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/7FdNfqIn8z06rVsAnqASrx"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
@@ -2595,6 +2595,28 @@
     },
     {
       "album": {
+        "name": "100% Pico y Pala",
+        "url": "https://open.spotify.com/album/6shoOpX9vZmXEIICwKjsBi"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385172,
+      "name": "Ocaso de un Amor / La Estrella Azul / Ojos de Cielo",
+      "url": "https://open.spotify.com/track/1X0hzvn2K6btpSYLM0nYzZ"
+    },
+    {
+      "album": {
         "name": "Cuarteteando",
         "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
@@ -3982,6 +4004,28 @@
       "duration_ms": 165326,
       "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
       "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+    },
+    {
+      "album": {
+        "name": "Un Osito Dormil\u00f3n",
+        "url": "https://open.spotify.com/album/6xXuDCRoIv8JZ4Ss7icBGs"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        },
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254251,
+      "name": "Un Osito Dormil\u00f3n",
+      "url": "https://open.spotify.com/track/6sxBZDLPN1qVT47xZNE1zm"
     },
     {
       "album": {

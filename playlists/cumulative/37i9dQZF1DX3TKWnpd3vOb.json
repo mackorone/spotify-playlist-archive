@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 197747,
       "name": "Asocial",
       "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
@@ -1442,6 +1442,28 @@
       "duration_ms": 311802,
       "name": "El Detenido",
       "url": "https://open.spotify.com/track/5Me7VPFRjI9qs5pRbcW6ux"
+    },
+    {
+      "album": {
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg"
+      },
+      "artists": [
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355657,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD"
     },
     {
       "album": {

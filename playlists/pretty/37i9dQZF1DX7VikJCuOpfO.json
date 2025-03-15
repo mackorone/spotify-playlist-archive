@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alejandro Fern\u00e1ndez",
-  "num_followers": 362342,
+  "num_followers": 362398,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "La Siguiente",
-        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 202176,
-      "name": "La Siguiente",
-      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
         "name": "Poco",
         "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 225705,
       "name": "Poco",
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
-        "name": "El Beso",
-        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 155645,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
         "name": "Anestesia",
         "url": "https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 160010,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
+        "name": "El Beso",
+        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
     },
     {
       "added_at": "2025-02-21 06:00:08",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-02-21 06:00:08",
       "album": {
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2025-02-21 06:00:08",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 186640,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
-    },
-    {
-      "added_at": "2025-02-21 06:00:08",
-      "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2025-02-21 06:00:08",

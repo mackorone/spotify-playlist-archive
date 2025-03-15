@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1202202,
+  "num_followers": 1202279,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADXPGwwk5dSXLzvyNae/byF",
+  "snapshot_id": "Z9IgAAAAAABU9e1mpEKf/ogRgyuk8rOu",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
       "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 200360,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/5N6pQ2vYtd3Rb9w7LC8PZ9"
+      "duration_ms": 167053,
+      "name": "The World We Knew (Over And Over)",
+      "url": "https://open.spotify.com/track/62KZRwymXq9Rgm8Cm5UCfx"
     },
     {
       "added_at": null,
@@ -167,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
       "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 167053,
-      "name": "The World We Knew (Over And Over)",
-      "url": "https://open.spotify.com/track/62KZRwymXq9Rgm8Cm5UCfx"
+      "duration_ms": 200360,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/5N6pQ2vYtd3Rb9w7LC8PZ9"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 177240,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": null,
@@ -479,38 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Way (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4PLymUW820F199PZEY72Np"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 212840,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3N3xHMAngaQq1htw6oSmnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
     },
     {
       "added_at": null,

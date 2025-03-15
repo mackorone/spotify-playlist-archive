@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34010,
+  "num_followers": 34015,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACA4dgWiT/OP/nmivCYdONX",
+  "snapshot_id": "Z9IgAAAAAAB8GgEPcqyGja/obPFkWg05",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "The Marley Brothers",
+          "url": "https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        },
+        {
+          "name": "Julian Marley",
+          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
         }
       ],
-      "duration_ms": 184992,
-      "name": "High On Life",
-      "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
+      "duration_ms": 236730,
+      "name": "Cornerstone",
+      "url": "https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6"
     },
     {
       "added_at": null,
@@ -503,38 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        },
-        {
-          "name": "The Marley Brothers",
-          "url": "https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        },
-        {
-          "name": "Julian Marley",
-          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
         }
       ],
-      "duration_ms": 236730,
-      "name": "Cornerstone",
-      "url": "https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6"
+      "duration_ms": 184992,
+      "name": "High On Life",
+      "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
     },
     {
       "added_at": null,

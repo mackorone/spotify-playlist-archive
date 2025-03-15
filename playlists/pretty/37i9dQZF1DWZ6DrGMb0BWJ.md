@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 
 > <a href="https://cityhunter\-movie.com/">劇場版シティーハンター</a>公開記念！20年の時を経て、伝説のアニメの記憶がプレイリストで甦る！\(C\)T.HOJO/N,C
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,366 likes - 42 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,375 likes - 42 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

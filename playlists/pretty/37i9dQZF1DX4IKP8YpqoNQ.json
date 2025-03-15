@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30794,
+  "num_followers": 30795,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 296809,
+      "name": "Nakamarra - Live from Spotify Sydney",
+      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
         "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 210666,
       "name": "These Arms Of Mine",
       "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 296809,
-      "name": "Nakamarra - Live from Spotify Sydney",
-      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
     },
     {
       "added_at": "2024-10-25 07:48:43",

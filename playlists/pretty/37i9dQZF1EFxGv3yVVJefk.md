@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 119 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125 likes - 119 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 2 | [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 |
-| 3 | [Sunshine \(The Light\)](https://open.spotify.com/track/6nL0wIy3rcQPqHNAtm61Gh) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK) | [Sunshine \(The Light\)](https://open.spotify.com/album/5J39HBd9GvoIBPauhj8wSw) | 2:29 |
-| 4 | [Some Girls Do](https://open.spotify.com/track/37JPdGgYcQAJSElj5boJx8) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Dirt Road](https://open.spotify.com/album/6iBw4TwVcQpxB72fAAWuoA) | 3:13 |
+| 3 | [Some Girls Do](https://open.spotify.com/track/37JPdGgYcQAJSElj5boJx8) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Dirt Road](https://open.spotify.com/album/6iBw4TwVcQpxB72fAAWuoA) | 3:13 |
+| 4 | [Sunshine \(The Light\)](https://open.spotify.com/track/6nL0wIy3rcQPqHNAtm61Gh) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK) | [Sunshine \(The Light\)](https://open.spotify.com/album/5J39HBd9GvoIBPauhj8wSw) | 2:29 |
 | 5 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 |
 | 6 | [Your Body \(feat\. Michael Marshall\) \- Cat Dealers Radio Edit](https://open.spotify.com/track/4iRkPkZCkB1l9h7BBEg7Kc) | [Tom Novy](https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Your Body \(Cat Dealers Remix\)](https://open.spotify.com/album/1q5FOQzfdnRQTuNR98nnDz) | 4:24 |
 | 7 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:42 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 30 | [I Want Your Love](https://open.spotify.com/track/6CJzsJdJgYQc6NbsKngXGz) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:40 |
 | 31 | [Keeping My Faith In You](https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:55 |
 | 32 | [Jump to It \- Single Version](https://open.spotify.com/track/1DWTFcfjHR8I98KSRk2ntW) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 4:17 |
-| 33 | [The Mistletoe Jam \(Everybody Kiss Somebody\)](https://open.spotify.com/track/74jkZEvi1iCmfmYvCUQ2JS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:45 |
-| 34 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 33 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 34 | [The Mistletoe Jam \(Everybody Kiss Somebody\)](https://open.spotify.com/track/74jkZEvi1iCmfmYvCUQ2JS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:45 |
 | 35 | [Got Me Waiting](https://open.spotify.com/track/7lqwSAP2isafyCokjZd7aE) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Nuttin' But Love](https://open.spotify.com/album/3WIm2cGDu6bRWAJDFhbgeK) | 4:31 |
 | 36 | [This Is Christmas](https://open.spotify.com/track/7C4RBEOL8OpWVxrxt02Xb8) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:45 |
 | 37 | [All My Love](https://open.spotify.com/track/1rlnJyBKqBSuSj3CQGngRg) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr), [Eric "E" Williams](https://open.spotify.com/artist/3wBQvZdexdIluWCSbQ1WYI) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 3:24 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 118 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 119 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `Abr+SgAAAACiRjlqJ9+AD0UzOTNNLHmh`
+Snapshot ID: `AbsD4AAAAACQRIGBz5zMK8f4lDlrljjh`

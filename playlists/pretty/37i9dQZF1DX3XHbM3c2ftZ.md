@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 
 > Celebrate Dad with these songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649 likes - 38 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 647 likes - 38 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 31 | [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 |
 | 32 | [Daddy Song \- Thank You](https://open.spotify.com/track/6CExjOhY0hn4vsFFh2wmhe) | [Morphle](https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO) | [Daddy Song \- Thank You](https://open.spotify.com/album/2F3UwWSOHBnyEr6aorFUVf) | 2:05 |
 | 33 | [Hip Hop Father's Day Rock \- 2015 Version](https://open.spotify.com/track/4HGdUreUjbjmSBbcZEZfod) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:43 |
-| 34 | [I Love My Daddy \(Father's Day Song\)](https://open.spotify.com/track/48PksuyrMX70Z95RzncsuI) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [I Love My Daddy \(Father's Day Song\)](https://open.spotify.com/album/781P4aJCYWv7dffqBSsV3P) | 1:22 |
+| 34 | [I Love My Daddy \(Happy Father's Day Song\)](https://open.spotify.com/track/48PksuyrMX70Z95RzncsuI) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [I Love My Daddy \(Father's Day Song\)](https://open.spotify.com/album/781P4aJCYWv7dffqBSsV3P) | 1:22 |
 | 35 | [Thank You Daddy \- 2015 Version](https://open.spotify.com/track/4CM86Nl5qPmdDGYYwcj8pP) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 0:56 |
 | 36 | [On Father's Day \- 2015 Version](https://open.spotify.com/track/4kYtmbg5O8ClYUt9fEL4ZT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Father's Day Songs for Preschool and Kindergarten](https://open.spotify.com/album/0Yi2bqgiqSbIoCCdjjPu7z) | 1:35 |
 | 37 | [That's What Dads Are For](https://open.spotify.com/track/6OGvN8SQuFS7tgEddBBA27) | [Madaline Garcia](https://open.spotify.com/artist/3TV0dL70cwRcE7VxCYCfdm), [Michael Farren](https://open.spotify.com/artist/0KL1tXshbivm72a4PAWUjF) | [That's What Dads Are For](https://open.spotify.com/album/5afeQKHZfZcRCvMcdiQles) | 4:11 |

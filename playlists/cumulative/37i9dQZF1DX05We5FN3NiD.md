@@ -2,7 +2,7 @@
 
 ### [Best of Indie 2019](https://open.spotify.com/playlist/37i9dQZF1DX05We5FN3NiD)
 
-> 2019 highlights from the home of indie music.
+> The Indie highlights of 2019\. Cover: James Blake
 
 169 songs - 10 hr 18 min
 

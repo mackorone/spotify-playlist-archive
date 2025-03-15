@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Olvidala (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz"
+      },
+      "artists": [
+        {
+          "name": "Brian Lanzelotta",
+          "url": "https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293625,
+      "name": "Olvidala - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU"
+    },
+    {
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 245720,
       "name": "Que Divague",
       "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"

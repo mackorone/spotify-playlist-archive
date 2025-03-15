@@ -818,7 +818,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 200470,
       "name": "Cum m\u0103 cheam\u0103?",
       "url": "https://open.spotify.com/track/1yGhOBi6bFHqu56NuTj8eo"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 170526,
       "name": "Lumea mea",
       "url": "https://open.spotify.com/track/0TwkCs1rPKlMXbt7RZDzDh"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 196250,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
@@ -2469,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "Erupt",
+        "url": "https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf"
+      },
+      "artists": [
+        {
+          "name": "Cojo",
+          "url": "https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2"
+        },
+        {
+          "name": "Yasmin Petro\u0219anu",
+          "url": "https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216383,
+      "name": "Trebuie s\u0103 vorbim",
+      "url": "https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf"
+    },
+    {
+      "album": {
         "name": "Triton",
         "url": "https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0"
       },
@@ -2550,6 +2572,24 @@
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
+    },
+    {
+      "album": {
+        "name": "Um\u0103r la um\u0103r",
+        "url": "https://open.spotify.com/album/0MHMeRZ9wCyPSKvJZORN1N"
+      },
+      "artists": [
+        {
+          "name": "El Nino",
+          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Um\u0103r la um\u0103r",
+      "url": "https://open.spotify.com/track/1bfhOZQKSgevVlVCGUalWl"
     },
     {
       "album": {
@@ -2732,7 +2772,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 197647,
       "name": "\u00ceN MINTEA MEA",
       "url": "https://open.spotify.com/track/2UGbgXQqLG4oF4mg7SMLh0"

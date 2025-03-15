@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina, con Babas Tutsipop en portada.
 
-5,738 songs - 13 day 4 hr 42 min
+5,740 songs - 13 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1987,6 +1987,7 @@
 | [Famagusta Port](https://open.spotify.com/track/1iJuO3EHGlZO91i1Maz92b) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Famagusta Port](https://open.spotify.com/album/6jX03XyIsmm6oGk0K6OCuH) | 1:58 | 2023-06-23 | 2023-07-01 |
 | [Famara \(feat\. Depedro\)](https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [El Porvenir](https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH) | 3:52 | 2024-05-10 | 2024-05-18 |
 | [Fan De Mis Locuras](https://open.spotify.com/track/7q3rsDmJzqhyb8cf5fqJc9) | [Delta](https://open.spotify.com/artist/4fVqJERDhivfI6kOgt6wU3) | [Fan De Mis Locuras](https://open.spotify.com/album/2cU0asMFeZ7ceyTgSqjPg8) | 3:52 | 2024-11-22 | 2024-11-30 |
+| [Fancy](https://open.spotify.com/track/4krdhLJa1yHDmnNiH70cfM) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Fancy](https://open.spotify.com/album/41yNYwf8sCplbz2u6CxkBE) | 2:13 | 2025-03-14 |  |
 | [Fantasma](https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Fantasma](https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo) | 3:21 | 2024-04-26 | 2024-05-11 |
 | [fantasma](https://open.spotify.com/track/2AmMO3XhgamDwBAUOK11NB) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n), [NORTE](https://open.spotify.com/artist/4tkoi4gqtf9LVpLTvWQqZR) | [fantasma](https://open.spotify.com/album/1FTmEZBQV1wyB5vOgJfOHS) | 2:59 | 2023-10-06 | 2023-10-16 |
 | [fantasma](https://open.spotify.com/track/1mCdOd7ydsicKxQtbTsJsy) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [fantasma](https://open.spotify.com/album/50nFl0Ql3vpmXjL6ZS5zUg) | 1:46 | 2024-06-07 | 2024-06-15 |
@@ -5585,6 +5586,7 @@
 | [X ALGO](https://open.spotify.com/track/1HaEGqOu8FK3aNiwKoz6Or) | [D’Garay](https://open.spotify.com/artist/5tAbkBMgE8yJ39PyGnWqjz), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ), [Ambê](https://open.spotify.com/artist/0kmXfDTZHhHBkAreTqXJi7) | [X ALGO](https://open.spotify.com/album/4hAnLHE13pKiCSbQBl1Xz9) | 2:51 | 2024-02-23 | 2024-03-02 |
 | [x existir](https://open.spotify.com/track/6NQZPCAIC42tgHbpvXQXWk) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK) | [x existir](https://open.spotify.com/album/14SRSG4JyjrxDlV36xrZnX) | 2:33 | 2024-08-09 | 2024-08-17 |
 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 | 2024-05-31 | 2024-06-08 |
+| [x tu amor](https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [x tu amor](https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN) | 3:25 | 2025-03-14 |  |
 | [Xin xin i bye bye](https://open.spotify.com/track/7dy8ap3qrteLGdyl9WM03d) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Xin xin i bye bye](https://open.spotify.com/album/1ikQI04RqFdKfiKqvuvMaT) | 3:17 | 2023-10-27 | 2023-11-11 |
 | [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 | 2022-09-03 |
 | [Xorieri](https://open.spotify.com/track/6IUuX0l3RTSGMLRkojx6EZ) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb), [Oreka Tx](https://open.spotify.com/artist/6CalTOP7T1djV7BPNS5GxG) | [Xorieri](https://open.spotify.com/album/6KsQoQXFXA44bTZjMjimxk) | 3:04 | 2025-02-21 | 2025-03-08 |

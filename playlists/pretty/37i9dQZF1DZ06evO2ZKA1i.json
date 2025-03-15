@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 294872,
+  "num_followers": 294875,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAoXUcsJiuSKm5+XzAMTNMk",
+  "snapshot_id": "Z9IgAAAAAABVoRfvalXJvtAQ3Sma09kE",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "You Keep On Moving - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fireball (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 321333,
       "name": "Demon's Eye - 1996 Remaster",
       "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "You Keep On Moving - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
     },
     {
       "added_at": null,

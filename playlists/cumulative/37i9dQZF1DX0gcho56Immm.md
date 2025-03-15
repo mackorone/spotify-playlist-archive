@@ -2,7 +2,7 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond\. Cover: ML Buch
+> explore the alt\-sounds of Copenhagen and beyond\. 🌀 Cover: ML Buch
 
 60 songs - 3 hr 17 min
 

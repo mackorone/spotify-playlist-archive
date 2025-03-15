@@ -1,13 +1,101 @@
 {
   "description": "New releases for the kids. Cover: The Wiggles",
-  "num_followers": 50234,
+  "num_followers": 50283,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZwAAAABri4vdV+x+H3B0w/3OPYEe",
+  "snapshot_id": "Z9OpzQAAAABfqRa+KYGpszzTml90DWg3",
   "tracks": [
+    {
+      "added_at": "2025-03-14 04:00:13",
+      "album": {
+        "name": "Chase The Happy",
+        "url": "https://open.spotify.com/album/0mSa4Tp72bXx7p08eEdZMA"
+      },
+      "artists": [
+        {
+          "name": "Hunny & Koko",
+          "url": "https://open.spotify.com/artist/79LAznoQEyGBfXQISDVq96"
+        },
+        {
+          "name": "Alonda Rich",
+          "url": "https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/4xgYZndMpVzMsRlSEwjUNJ"
+    },
+    {
+      "added_at": "2025-03-14 04:00:13",
+      "album": {
+        "name": "Leapfrog",
+        "url": "https://open.spotify.com/album/0BnVf9zQwzGPsSAzhDKXgY"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 220107,
+      "name": "Leapfrog",
+      "url": "https://open.spotify.com/track/4QMVkanQKAjI3tOPsmFD3H"
+    },
+    {
+      "added_at": "2025-03-14 04:00:13",
+      "album": {
+        "name": "Hot Cross Buns",
+        "url": "https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Hot Cross Buns",
+      "url": "https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8"
+    },
+    {
+      "added_at": "2025-03-14 04:00:13",
+      "album": {
+        "name": "Bunny Counting Song",
+        "url": "https://open.spotify.com/album/2Q8GR2ist3Eox6Ik9ESzhk"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "duration_ms": 95864,
+      "name": "Bunny Counting Song",
+      "url": "https://open.spotify.com/track/29crDXsMO04ynU1vwT0iTi"
+    },
+    {
+      "added_at": "2025-03-14 04:00:13",
+      "album": {
+        "name": "Hide & Seek - Around the House",
+        "url": "https://open.spotify.com/album/5wiONndV8Gsg6EKY0nM929"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 179300,
+      "name": "Hide & Seek - Around the House",
+      "url": "https://open.spotify.com/track/5r7r3Te3p2EQe4xj2Yh3wc"
+    },
     {
       "added_at": "2025-03-07 05:00:23",
       "album": {

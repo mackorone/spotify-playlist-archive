@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 19 | [The Love Intro](https://open.spotify.com/track/3hjCUYBBJUCB9nyBNRIVj8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:38 |
 | 20 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 
-Snapshot ID: `Abr+NgAAAACAHFYcYpQ+g7dbZTo/EkKo`
+Snapshot ID: `AbsD9AAAAABvJPIIjlxDsNwLsDK+tUqH`

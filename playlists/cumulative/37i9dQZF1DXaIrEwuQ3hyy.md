@@ -4,7 +4,7 @@
 
 > Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
 
-234 songs - 13 hr 13 min
+235 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-07-26 | 2024-04-19 |
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2023-07-26 |  |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-22 | 2024-07-02 |
-| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-07-01 |  |
+| [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-07-01 | 2025-03-15 |
 | [Easy](https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Easy](https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4) | 4:27 | 2024-11-14 |  |
 | [eat some pasta](https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [eat some pasta](https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ) | 2:21 | 2024-12-07 |  |
 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 | 2024-02-09 | 2024-03-16 |
@@ -130,9 +130,10 @@
 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 | 2024-05-01 |  |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2023-07-26 | 2024-04-19 |
 | [missin something](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE) | 2:25 | 2023-07-26 | 2023-09-09 |
-| [Mitternacht \(feat\. Josi Miller\)](https://open.spotify.com/track/4eiBSDEa9x6fEpA2fy94vU) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [Mitternacht \(feat\. Josi Miller\)](https://open.spotify.com/album/6YnEJWrRSfdmd1nZuNiaoO) | 2:31 | 2024-11-14 | 2025-03-14 |
+| [Mitternacht \(feat\. Josi Miller\)](https://open.spotify.com/track/4eiBSDEa9x6fEpA2fy94vU) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [Mitternacht \(feat\. Josi Miller\)](https://open.spotify.com/album/6YnEJWrRSfdmd1nZuNiaoO) | 2:31 | 2024-11-14 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-07-26 | 2023-09-27 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-29 |  |
+| [Märchenwald](https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Märchenwald](https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz) | 3:03 | 2025-03-14 |  |
 | [Nervous](https://open.spotify.com/track/113xf7t4qNM7038YJvauik) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 4:05 | 2023-10-13 |  |
 | [Never Be Mine](https://open.spotify.com/track/5bqxmKXkAyqu19QXVGctNH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Never Be Mine](https://open.spotify.com/album/53nS7lqvARTVKkybehmDjN) | 3:38 | 2025-02-19 | 2025-03-03 |
 | [neverletyougo](https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:58 | 2023-07-26 | 2023-10-14 |
@@ -171,7 +172,7 @@
 | [Same Vibes](https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Same Vibes](https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO) | 3:00 | 2023-09-08 |  |
 | [save myself](https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW) | [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [shades](https://open.spotify.com/album/56hNHlahRLNbdDGhcXdYcz) | 2:56 | 2024-11-14 | 2025-02-18 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-26 |  |
-| [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-18 |  |
+| [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-18 | 2025-03-15 |
 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 | 2023-07-26 |  |
 | [Shiver](https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Shiver](https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda) | 3:25 | 2024-11-09 | 2024-11-15 |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-02-07 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-341 songs - 10 hr 20 min
+345 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2021-10-29 | 2024-05-17 |
 | [Being With You](https://open.spotify.com/track/64PUHLXvSJNiNIhKW1WzJ2) | [Eliza Adam](https://open.spotify.com/artist/3pvPDX0ZInj5bKXW5vLEms) | [Being With You](https://open.spotify.com/album/2Yvhmu2QKWQ7AWiO9jYH1S) | 1:37 | 2021-10-29 | 2024-05-17 |
 | [Best Friends](https://open.spotify.com/track/0BmYSeyqYLJ7YrjE9Vyhe6) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Best Friends](https://open.spotify.com/album/5mKt7MywUzGuKkYW4aNSFX) | 1:18 | 2021-10-29 | 2024-05-17 |
+| [Best of Friends](https://open.spotify.com/track/3286bDcNakCQtB8jaTsr9d) | [Elysia Marlowe](https://open.spotify.com/artist/3D8dl1ctaWLMdFfH7lYFSR) | [Best of Friends](https://open.spotify.com/album/7a4mqRVm1Ot2AFzzej6vJL) | 1:39 | 2025-03-14 |  |
 | [Bestevennen](https://open.spotify.com/track/1S7GRWwKfMQLST2R1FfIvw) | [Alma Frandsen](https://open.spotify.com/artist/3OEGjgTxjDV723ILNM5lZa) | [Tid til at sove](https://open.spotify.com/album/1epskxiNYOdzzvaWKs4FME) | 1:57 | 2021-10-29 | 2024-05-17 |
 | [Bicycle Journey](https://open.spotify.com/track/293xkVZZ5TsAXuZmKImpIj) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Blanket Snuggles](https://open.spotify.com/album/0n09zmE4h2rPbrcH9pC9nW) | 1:45 | 2021-10-29 | 2024-05-17 |
 | [Blanket Snuggles](https://open.spotify.com/track/7qIGCFkrCMnUPUk4dE6FSb) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Blanket Snuggles](https://open.spotify.com/album/0n09zmE4h2rPbrcH9pC9nW) | 1:53 | 2021-10-29 | 2024-05-17 |
@@ -97,8 +98,10 @@
 | [Dreamland's Song](https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY) | [Becca Lopez](https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj) | [Dreamland's Song](https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5) | 1:31 | 2024-05-16 |  |
 | [Ein Lied fur meine Kinder](https://open.spotify.com/track/5GJNORQZ55ta7Fjqke0QSK) | [Jameson Morse](https://open.spotify.com/artist/75CLOXDoDKC14KyHexZXAz) | [Ein Lied fur meine Kinder](https://open.spotify.com/album/67BIH5uwHeaVk1yrPc3K50) | 1:50 | 2021-10-29 | 2024-05-17 |
 | [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 | 2021-10-29 | 2024-05-17 |
+| [Everybody Knows Juanita](https://open.spotify.com/track/2uwHsvAfSWjQghbGKI8wqW) | [Solveig Bjørnsen](https://open.spotify.com/artist/6J2nTux5ymFNq9wT3Uaze2) | [Everybody Knows Juanita](https://open.spotify.com/album/2vr02OrEFuuyrXSHSKRMyJ) | 1:14 | 2025-03-14 |  |
 | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/track/6yVSSd8L2UKvKuw15ZQYTt) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW) | 2:06 | 2024-05-16 |  |
 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 | 2021-10-29 | 2024-05-17 |
+| [Featherlight](https://open.spotify.com/track/0WbmNgQDsrYH79slmx1IYV) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Featherlight](https://open.spotify.com/album/43jnMkL4vf5W5TVLNWlAD5) | 2:26 | 2025-03-14 |  |
 | [Feathers](https://open.spotify.com/track/1e1Mm7eqfM9gUphsLADBDj) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Feathers](https://open.spotify.com/album/6VQ4YVvFlaavpopygw9eqz) | 1:17 | 2021-10-29 | 2024-05-17 |
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2021-10-29 | 2024-05-17 |
 | [Find the Rabbit](https://open.spotify.com/track/0GDw6Hmmlu6InQbf6YakPD) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [Find the Rabbit](https://open.spotify.com/album/1vqPMljPPgF9IVhNqopH7Y) | 1:56 | 2021-10-29 | 2024-05-17 |
@@ -125,6 +128,7 @@
 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2021-10-29 | 2024-05-17 |
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2021-10-29 | 2024-05-17 |
 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 | 2024-05-16 |  |
+| [Goodnight My Love](https://open.spotify.com/track/2wci3N9JVBU0oU6uaqT4Qr) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Goodnight My Love](https://open.spotify.com/album/6TC9uKOTFwA967S7hjL4Ao) | 1:48 | 2025-03-14 |  |
 | [Goodnight teddy](https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Goodnight teddy](https://open.spotify.com/album/6bRKz8ZPbwWT8eKYhA7IUf) | 2:00 | 2024-05-16 |  |
 | [Grootmoeder](https://open.spotify.com/track/6v4S9vW2oAshobL1lcjJnD) | [Rosalyn van Heeringen](https://open.spotify.com/artist/7oIzlrfSFDprcOzbN9RGyM) | [Ik hou van zwemmen](https://open.spotify.com/album/2Ag6f5EuEU5xXLzlapJmlG) | 1:29 | 2021-10-29 | 2024-05-17 |
 | [Guds kärlek är som havet](https://open.spotify.com/track/0ozmf4aYstoKSEqxO9yoWz) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 2:12 | 2021-10-29 | 2024-05-17 |
@@ -226,7 +230,7 @@
 | [Night Time](https://open.spotify.com/track/0DzaAmlZUFXL8gYso89vwq) | [Charlie Irving](https://open.spotify.com/artist/67eyk5UeOpPHzU4BGjZvZJ) | [Night Time](https://open.spotify.com/album/3HMIzF39HdMmtDk97dHmwi) | 1:30 | 2021-10-29 | 2024-05-17 |
 | [Nocturne](https://open.spotify.com/track/0HvsoK5mb8X5R8SuRyM0zk) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Nocturne](https://open.spotify.com/album/3Nz6S7NBhNIhRLaT613Hxz) | 1:34 | 2024-05-16 |  |
 | [Nocturne For Luna](https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj) | [Jelmer Traaug](https://open.spotify.com/artist/2tt5ElREN9IPRHQBofxNhp) | [Nocturne For Luna](https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4) | 2:12 | 2021-10-29 | 2024-05-17 |
-| [O Mio Bambino Caro](https://open.spotify.com/track/1g2josa1pQRESVhHzySWYj) | [Cest Le Mieux](https://open.spotify.com/artist/7ADzWKzTJCsv4VUSHABl8i) | [Lullabies](https://open.spotify.com/album/4ho7kNtxxRRjLgEsrVy5mY) | 2:43 | 2021-10-29 |  |
+| [O Mio Bambino Caro](https://open.spotify.com/track/1g2josa1pQRESVhHzySWYj) | [Cest Le Mieux](https://open.spotify.com/artist/7ADzWKzTJCsv4VUSHABl8i) | [Lullabies](https://open.spotify.com/album/4ho7kNtxxRRjLgEsrVy5mY) | 2:43 | 2021-10-29 | 2025-03-15 |
 | [Oh My Darling, Clementine](https://open.spotify.com/track/3NctLByx0t5oaDaElVHM2j) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Oh My Darling, Clementine](https://open.spotify.com/album/5f3vdWw6khtrpGnYxjB3Hh) | 2:17 | 2024-05-16 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/5LHzazDsCpwIWfB6OjyXVU) | [Cheyenne Hunnisett](https://open.spotify.com/artist/642588gEqSbzMw10PacsKh) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2wZKX4v85x4xB6mrce6jb1) | 1:38 | 2021-10-29 | 2024-05-17 |
 | [One for you, one for me](https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK) | [Amy\-leigh Hill](https://open.spotify.com/artist/3EKtt09Qwccgxvs5QiIazR) | [Peek\-a\-boo](https://open.spotify.com/album/1FoAFlOjirEpU0bHgNhxBZ) | 1:48 | 2021-10-29 | 2024-05-17 |
@@ -236,7 +240,7 @@
 | [Pop Goes the Weasel](https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Pop Goes the Weasel](https://open.spotify.com/album/5axZEOVm1BnlBFEcrEjjk3) | 1:18 | 2021-10-29 | 2024-05-17 |
 | [Pop! Goes the Weasel](https://open.spotify.com/track/7amwRp4KIwmjbfGYpRzqjl) | [Aleeza May](https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0) | [Pop! Goes the Weasel](https://open.spotify.com/album/76pWhtPUKI4MVWpc05Ykhh) | 1:38 | 2024-05-16 |  |
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2021-10-29 | 2024-05-17 |
-| [Que Linda Manita](https://open.spotify.com/track/13ytdfEni9x39EA5wsNWoB) | [Regina Kent](https://open.spotify.com/artist/1wAxDngNNPJNc2gAV2Z7VM) | [Arpa](https://open.spotify.com/album/6OL2F8vnKstdtyYBRBv8xW) | 2:33 | 2021-10-29 |  |
+| [Que Linda Manita](https://open.spotify.com/track/13ytdfEni9x39EA5wsNWoB) | [Regina Kent](https://open.spotify.com/artist/1wAxDngNNPJNc2gAV2Z7VM) | [Arpa](https://open.spotify.com/album/6OL2F8vnKstdtyYBRBv8xW) | 2:33 | 2021-10-29 | 2025-03-15 |
 | [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 | 2024-10-18 |  |
 | [Rabbit In The Hat](https://open.spotify.com/track/00rRb4G7YP7nppzamVFKA2) | [Brian Garner](https://open.spotify.com/artist/14PkQdstnMicAGULrm5aV9) | [Treehouse](https://open.spotify.com/album/5o7s0tWeRWvMgCaoOyVBaB) | 2:02 | 2024-05-16 |  |
 | [Rain Rain Go Away](https://open.spotify.com/track/6nzTVUelsg5FgwYC8e4dQq) | [Marcos Perez](https://open.spotify.com/artist/12U2bFEqsXJrcSsa44TX1T) | [Rain Rain Go Away](https://open.spotify.com/album/0W7kT0c4n1KHTMplaoRutF) | 1:36 | 2021-10-29 | 2024-05-17 |

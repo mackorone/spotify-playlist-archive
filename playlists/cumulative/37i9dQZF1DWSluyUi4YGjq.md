@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: Trauma Ray
 
-737 songs - 1 day 23 hr 38 min
+743 songs - 1 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-19 | 2023-06-08 |
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [2g ether](https://open.spotify.com/track/2IVBzvAP4xcMJk7pGnNjxo) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [demo 02](https://open.spotify.com/album/5WFz5GnwnfjtdSx1StnGAG) | 3:42 | 2023-02-17 | 2023-08-12 |
+| [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 | 2025-03-14 |  |
 | [4 Shadow](https://open.spotify.com/track/73jKNhEz9SAPSvqRKSdvTh) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Trilogy](https://open.spotify.com/album/2Mi2BnkrQARwVktJpjqPfZ) | 2:58 | 2024-11-22 |  |
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 | 2023-11-28 |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 | 2022-12-16 |
@@ -40,6 +41,7 @@
 | [alter](https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [alter](https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC) | 2:18 | 2023-02-09 | 2023-08-12 |
 | [Always](https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX) | [Computer Kill](https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof) | [Always](https://open.spotify.com/album/1Sgq82uJVQZwrjKvCCirAO) | 3:28 | 2024-12-09 |  |
 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 | 2021-10-19 | 2023-06-08 |
+| [amanhecer](https://open.spotify.com/track/0iAnnsZpP7G6vFY3Psuw2K) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [natural](https://open.spotify.com/album/3JZZxtRlX16JGi8y1V2Ffu) | 2:39 | 2025-03-14 |  |
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-27 | 2023-04-01 |
 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-02-27 | 2023-09-30 |
 | [An Impossibly Long Hallway...](https://open.spotify.com/track/1HeAW9fVMfuN0T5LKb8q6g) | [Strawberry Milk Cult](https://open.spotify.com/artist/3r5D13Q9I4sLrC1bsJK0gR) | [An Impossibly Long Hallway...](https://open.spotify.com/album/5joC1BFoMHQXxAxI5eHIrI) | 2:29 | 2024-03-18 |  |
@@ -48,6 +50,7 @@
 | [Anhedonia II](https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh), [Dirty Art Club](https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL) | [Anhedonia II b/w Ecstasy Cowgirl](https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg) | 2:39 | 2024-08-20 |  |
 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 | 2021-10-19 |  |
 | [Are You](https://open.spotify.com/track/0hkahhoWCNDUhqOteNEDZw) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Are You](https://open.spotify.com/album/1ykUiLjEj3T9Cmv4xDKpRC) | 3:56 | 2023-01-06 | 2023-07-27 |
+| [As Fast as I Can](https://open.spotify.com/track/4pdGAWBW9VTLO5ENRCbiCx) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [As Fast as I Can](https://open.spotify.com/album/6ZTTykFPE3rbc3I7Qv62qm) | 4:11 | 2025-03-14 |  |
 | [At It Again](https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:03 | 2021-10-19 | 2023-06-08 |
 | [At It Again](https://open.spotify.com/track/4isFw2ryQ6trDwkf7wKrCn) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [At It Again](https://open.spotify.com/album/1FY5lw1ekEF4XPHeDhXGLf) | 2:03 | 2021-10-19 | 2022-07-29 |
 | [atonement](https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [atonement](https://open.spotify.com/album/3Ji5YWQMAtYwMi9YRnnNlE) | 3:51 | 2022-08-03 | 2022-10-24 |
@@ -57,6 +60,7 @@
 | [Avalon](https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR) | 2:56 | 2023-07-21 | 2024-04-30 |
 | [Avalon](https://open.spotify.com/track/5Zs526IB2ezqyXc9WthLuY) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/6193L5p5jwFGW6ivHCxMkX) | 2:56 | 2023-07-21 | 2024-04-19 |
 | [Avec Lui](https://open.spotify.com/track/4zWpQKHzdbGNkRP00xAIbe) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/61LPJuFRFHtLf0rily6iKz) | [Balloons of Memories](https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9) | 5:14 | 2022-03-03 | 2022-07-26 |
+| [avoid](https://open.spotify.com/track/09aVll2fGLkZ11QV2J7WsH) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Quiet Pleasures](https://open.spotify.com/album/27zbub1MSzwD6FQ6SRjelc) | 4:04 | 2025-03-14 |  |
 | [Ayisha Abyss](https://open.spotify.com/track/4372hjN43SwPpKhQWvRuXI) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 7:46 | 2021-10-19 | 2022-07-26 |
 | [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 | 2023-10-20 | 2024-03-19 |
 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 | 2024-01-12 |  |
@@ -466,6 +470,7 @@
 | [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 | 2022-09-29 | 2022-12-02 |
 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 | 2021-10-19 | 2023-06-08 |
 | [Moodswing](https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Pure, Impure](https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o) | 5:47 | 2024-05-24 |  |
+| [moon](https://open.spotify.com/track/2q7sf6L0APqrO0rcTKXzw9) | [brookelen](https://open.spotify.com/artist/27AO26anFR1MuQyxc5zAoc) | [moon](https://open.spotify.com/album/3FlHopHlPqEk3oi0Ac6wX9) | 4:33 | 2025-03-14 |  |
 | [Moon Song \(EP Version\)](https://open.spotify.com/track/4Yzom8WJVugy6Z1A58d1gp) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 3:26 | 2024-05-24 |  |
 | [Mourning Haze](https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Mourning Haze](https://open.spotify.com/album/2S3Wt1x9GTq9POIuyMJTQR) | 3:27 | 2024-08-20 |  |
 | [Mumble](https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 2:34 | 2021-10-19 | 2022-12-01 |
@@ -640,6 +645,7 @@
 | [sunspot](https://open.spotify.com/track/7MvQlWCsnEKbXpjTrNOwfc) | [dottie](https://open.spotify.com/artist/40grr46nSRIMZm8h4wdyKY) | [sunspot](https://open.spotify.com/album/0MiGYQ25SK12QAJButNdMy) | 3:36 | 2024-03-22 |  |
 | [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 | 2022-09-03 | 2022-12-16 |
 | [Sweet Teeth](https://open.spotify.com/track/5UTpmDwkNICe6m57MtPTrX) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Sweet Teeth](https://open.spotify.com/album/0yr1rOomEA2eZZLIcmgeIS) | 4:35 | 2024-07-05 |  |
+| [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-14 |  |
 | [Sálvame](https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Sálvame](https://open.spotify.com/album/2ybfm8UkHqZOLw1vvF2hfd) | 4:45 | 2023-10-19 | 2023-12-02 |
 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-10-27 | 2023-08-15 |
 | [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 | 2024-04-05 | 2024-05-25 |

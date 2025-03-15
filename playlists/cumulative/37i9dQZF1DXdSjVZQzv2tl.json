@@ -2847,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Transcende (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153335,
+      "name": "Kamasutra - Ao Vivo",
+      "url": "https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9"
+    },
+    {
+      "album": {
         "name": "Decretos Reais, Vol. 2",
         "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
       },
@@ -4906,7 +4924,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 164596,
       "name": "Sei Tocar Viol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2KdyhL41F9solmRiyLQ3yl"
@@ -5566,7 +5584,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 138008,
       "name": "UM PALMO - Ao Vivo",
       "url": "https://open.spotify.com/track/2M2eRVCQbC3rHFSm9oT3YD"

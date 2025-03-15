@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=aUM1xzotQaK5EbROiXS9fQ">Cyfred</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,261 likes - 65 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,847 likes - 65 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

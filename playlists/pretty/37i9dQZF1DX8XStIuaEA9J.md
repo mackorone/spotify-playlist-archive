@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LANA & Awich
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,447 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,559 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 14 | [ベルガモット](https://open.spotify.com/track/1b6pgyzY5v6O6yewSXd9ZI) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ベルガモット](https://open.spotify.com/album/5YrdVkrc1xudPpVvSpFyhn) | 3:16 |
 | 15 | [青春の晩餐](https://open.spotify.com/track/1UlpH9W2aB2v2aN7EUoQlT) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [eMulsion](https://open.spotify.com/album/2uFdZv9M3EOKksvW7QUYky) | 4:35 |
 | 16 | [あたしを選ばなかった君へ](https://open.spotify.com/track/0xPxNWKQZTYud7Ubr9RkQ7) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [あたしを選ばなかった君へ / SPARK!! / 浮気したらあかんで / 元彼女のみなさまへ / 君がおじいちゃんあたしがおばあちゃん / にゃんにゃんにゃん / ♡人生♡](https://open.spotify.com/album/2ORm6imuZ2hlQRfCVZS7du) | 4:05 |
-| 17 | [Linda feat\. Utaha](https://open.spotify.com/track/1WwNsOFZl6ngVS6L9aBvAU) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms), [Utaha](https://open.spotify.com/artist/1CHpv9LnH31ppO3flzbbIM) | [Linda feat\. Utaha](https://open.spotify.com/album/3AcxVjkaGP2FNCw5mpiHZd) | 3:12 |
+| 17 | [Linda feat\. Utaha](https://open.spotify.com/track/1WwNsOFZl6ngVS6L9aBvAU) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Linda feat\. Utaha](https://open.spotify.com/album/3AcxVjkaGP2FNCw5mpiHZd) | 3:12 |
 | 18 | [夢路](https://open.spotify.com/track/1auIWjuoXPxcZO7gBECMwW) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [夢路](https://open.spotify.com/album/75dMSGIwG9XNr20ItIJ2kK) | 4:51 |
 | 19 | [Valentine and Youth](https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Valentine and Youth](https://open.spotify.com/album/6dJ7LpA1XYbHxVDKPFRCXl) | 3:11 |
 | 20 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |

@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Josh Groban
 
-163 songs - 9 hr 8 min
+164 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,11 +78,12 @@
 | [Invincible](https://open.spotify.com/track/2Coxhwa6oQfrM03g6U57vw) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Invincible](https://open.spotify.com/album/4sUGi3g3MQF8k412qqtcbD) | 3:26 | 2023-04-07 | 2024-02-28 |
 | [Island](https://open.spotify.com/track/13oM9UWEe1c79go5A2DoqZ) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Island](https://open.spotify.com/album/6rUAGK4TYv78lFKSLTlCVl) | 2:30 | 2024-03-08 | 2025-02-24 |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2023-01-04 | 2023-02-25 |
-| [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 | 2024-09-13 |  |
+| [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 | 2024-09-13 | 2025-03-15 |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2023-01-04 |  |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2023-01-04 |  |
 | [Let Me Be](https://open.spotify.com/track/1hGDrKv13rCRaKXjsaHPx2) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Let Me Be](https://open.spotify.com/album/7HgOBdIBEgUIM0FfoVAQTu) | 3:31 | 2023-01-04 |  |
 | [Let You Down](https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let You Down](https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin) | 3:28 | 2023-09-03 | 2024-01-27 |
+| [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 | 2025-03-14 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-01-04 | 2024-06-15 |
 | [Lift Us Up](https://open.spotify.com/track/4mJ00KHgwBFw2Na0JZxoOy) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Memphis Love](https://open.spotify.com/album/6m88bX6KLUhRVk7DDZBihL) | 4:25 | 2023-11-17 | 2024-03-09 |
 | [Light It Up](https://open.spotify.com/track/27G2FTLanmvyUmXzT0pecS) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Light It Up](https://open.spotify.com/album/17Ey42YChKT9G4vH9WX52c) | 3:34 | 2023-02-10 | 2024-07-27 |

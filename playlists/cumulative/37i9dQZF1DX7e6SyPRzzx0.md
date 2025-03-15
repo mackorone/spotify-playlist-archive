@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Yeat
 
-134 songs - 5 hr 40 min
+136 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-03-15 |  |
 | [COUNT MY BANDZ](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 | 2024-09-20 |  |
 | [CRAYON](https://open.spotify.com/track/44Rtuc5OuZtwMwPfkrAsp6) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [CRAYON](https://open.spotify.com/album/04cqIVlhRK13cRoRm6TuCB) | 2:16 | 2024-03-15 | 2024-04-06 |
+| [CRUSH](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-14 |  |
 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 | 2024-12-06 |  |
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 | 2024-04-27 |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
@@ -46,6 +47,7 @@
 | [Givenchy Kick\-Flip](https://open.spotify.com/track/0xtwb8CmysbHcqLYVUqWdy) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Music B4 Music](https://open.spotify.com/album/2NDLmnHVgicUmK6oEz0JMH) | 2:11 | 2024-05-14 | 2024-08-21 |
 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 | 2024-09-03 |  |
 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2024-10-25 |  |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-07-31 |  |
 | [Headrush](https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Headrush](https://open.spotify.com/album/6K4LqNp0rbZVOYj4KchUcX) | 2:50 | 2024-05-14 |  |
 | [Heavy stunts \(with Don Toliver\)](https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 3:25 | 2024-05-05 |  |
@@ -113,7 +115,7 @@
 | [Shibuya](https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 | 2024-08-20 |  |
 | [Shibuya](https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Shibuya](https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB) | 2:36 | 2024-03-18 | 2024-09-05 |
 | [SIDE EFFExT \(feat\. Lil Yachty\)](https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 3:42 | 2024-05-31 |  |
-| [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2023-12-01 |  |
+| [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2023-12-01 | 2025-03-15 |
 | [Sound Design](https://open.spotify.com/track/7acjLOXbxtLthMU8Yy55hS) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Sound Design](https://open.spotify.com/album/3YUDjqJj5okB9QUFjH2yop) | 1:55 | 2024-10-25 |  |
 | [SOUTH ATL](https://open.spotify.com/track/56a5h6GBccI0eyqOVi5kUt) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [SOUTH ATL](https://open.spotify.com/album/6NZCrAWuAcTV97enHCoEJg) | 2:52 | 2024-04-12 |  |
 | [Spin Again](https://open.spotify.com/track/1pDbGAAH5GQ8U0KG4fI77H) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 1:37 | 2023-12-01 | 2024-03-16 |

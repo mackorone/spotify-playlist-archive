@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Gusti Irwan Wibowo
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,289 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,374 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 70 | [Lamunan Di Kota Itu II](https://open.spotify.com/track/2mWNTjU0DCB0QNHEkucRXF) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Lamunan Di Kota Itu II](https://open.spotify.com/album/2NE5OIGmKMF12hyBs5TUtA) | 4:08 |
 | 71 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 |
 | 72 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 |
-| 73 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
+| 73 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \(From "Tabayyun"\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
 | 74 | [Apa Itu Konsep Bahagia?](https://open.spotify.com/track/2lJW88pg9jJSCjlhC7DCF7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Apa Itu Konsep Bahagia?](https://open.spotify.com/album/7fZz26PcaW4LcELEPPnxpM) | 3:36 |
 | 75 | [Hati Yang Inginkanmu](https://open.spotify.com/track/2PIWomWNmOLaP8NPROOPfa) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Irwan Simanjuntak](https://open.spotify.com/artist/1oC20EFDaM34fIP4hGQuDN) | [Hati Yang Inginkanmu](https://open.spotify.com/album/7cUZGMx6WIhz2Z0Q8kMLir) | 3:44 |
 | 76 | [Closer, Brighter, Higher](https://open.spotify.com/track/2dnscZF23uoIZXjEU74KqT) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Closer, Brighter, Higher](https://open.spotify.com/album/10UdJJMstQ1mAevUuF9miJ) | 3:27 |

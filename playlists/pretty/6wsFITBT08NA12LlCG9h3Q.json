@@ -1,47 +1,15 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 151256,
+  "num_followers": 151250,
   "original_name": "90s",
   "owner": {
     "name": "Digster Global",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAEcg6axyG+u43DSHNQUDAeXx6NXZb9",
+  "snapshot_id": "AAAEdbsKcq+T1mcX8KNyy8Kg8TeIan64",
   "tracks": [
     {
-      "added_at": "2025-03-12 01:17:44",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
-        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ"
-    },
-    {
-      "added_at": "2025-03-12 01:17:44",
-      "album": {
-        "name": "When I Woke",
-        "url": "https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf"
-      },
-      "artists": [
-        {
-          "name": "Rusted Root",
-          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Send Me On My Way",
-      "url": "https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"
-    },
-    {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
@@ -57,7 +25,7 @@
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Laid",
         "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
@@ -73,7 +41,39 @@
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ"
+    },
+    {
+      "added_at": "2025-03-14 22:16:37",
+      "album": {
+        "name": "When I Woke",
+        "url": "https://open.spotify.com/album/2LjYjQN5yVZYiZNDIVIKDf"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Send Me On My Way",
+      "url": "https://open.spotify.com/track/6XK6Zw6JkFsHXzAcMWNiIr"
+    },
+    {
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "No More Drama",
         "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Sublime (Deluxe Edition)",
         "url": "https://open.spotify.com/album/243wqukvimLglvClDVsfHJ"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2DexIlEkLb0hKRVtyoreXn"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Weezer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/33CmI2lR8PnQwz6133Mc7l"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/7GptbanebPZYkLPvjNfd6m"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Boombastic",
         "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "90s Mixtape",
         "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7qoVUgY4fKUMPQ0dEOr27X"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Out Of Time",
         "url": "https://open.spotify.com/album/22c9GGhLosljU2p3xPmOfe"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/4d9RTWdrFLVAGhdzvqxkwn"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "First Band On The Moon",
         "url": "https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Tubthumper",
         "url": "https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5vHLwhxxlGzmClMcxRRFPr"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Automatic For The People (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3sDXivpN7CmCKbQRRsRzw8"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/0DOF4L7UE2oXBccF36nwLb"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Body Movin' (Shawn J. Period Remix)",
         "url": "https://open.spotify.com/album/3r0i8fHJXDth2jOkZRRjkI"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/6rXEfA7RbPjMFHxABNbBG6"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "How To Lose A Guy In 10 Days: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/2v5ISZSv7ULCeQUT7x8G5B"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/2aZ5oYPdDbLNRIUghXM9EV"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Lemon Parade",
         "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Revolution (Demo)",
         "url": "https://open.spotify.com/album/1LcdKQCPzQ9EwQLanqXmSd"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/0LXoDahNUHXVx2SCTQEEhZ"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Feeling Strangely Fine",
         "url": "https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/2RSOzvKUnfDDrb2nQPfpQU"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/2cBGl1Ehr1D9xbqNmraqb4"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "90s Mixtape",
         "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/05Pu1knSGYlsRWTNB1swXw"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "90s Mixtape",
         "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/31eKw0v9huypTZqcZcoZsA"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "40oz. To Freedom",
         "url": "https://open.spotify.com/album/0vuwlanMPucXrYMGnOjhYL"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/05vL56xSoxthM0r7IfcQjo"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/5xEcERC7gIcdzRarrCpzwp"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/588IfbCiQxSgiR44Ni8oKS"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Bigger, Better, Faster, More !",
         "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Urban Hymns",
         "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/7yz9SLBNG9nOTuP1aP638b"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/3vLlFC5LTXmY7QbI5V7qyH"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3x507Iwk3UNquPkPrnHRrt"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/46sWNhwTkjgpnL7QWt7Fr2"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
-      "added_at": "2025-03-12 01:17:44",
+      "added_at": "2025-03-14 22:16:37",
       "album": {
         "name": "Nevermind (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc"

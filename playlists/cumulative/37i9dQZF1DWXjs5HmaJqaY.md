@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-294 songs - 1 day 4 hr 22 min
+296 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Brumcrysle](https://open.spotify.com/track/2VgfEbuQG1Tx3yRuIWRu4V) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Brumcrysle EP](https://open.spotify.com/album/30R3q0gVguoIzMUResWBbn) | 6:02 | 2024-01-26 |  |
 | [Brushcutter](https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Brushcutter](https://open.spotify.com/album/4OifWWoACaTzqafzSDBm5y) | 4:31 | 2025-02-14 |  |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-16 | 2022-10-28 |
+| [Busy Ants](https://open.spotify.com/track/4G5DnQty6t8zD5Sb5ICMn6) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Busy Ants](https://open.spotify.com/album/5XZG5gUfRQZdwTLbavLJ3Y) | 4:53 | 2025-03-14 |  |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 | 2023-05-03 |
 | [Captivate](https://open.spotify.com/track/27ZKMnicAlGrQDOwERJzk8) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Captivate EP](https://open.spotify.com/album/10cLkQhmprr2d0c0PZQIts) | 5:30 | 2024-03-22 | 2024-11-09 |
 | [Casa Loca](https://open.spotify.com/track/1IwNAEgSyAz5oGVgU5gMxs) | [Yasin](https://open.spotify.com/artist/2CwH3CBtHNsiPYOp5X6xrj), [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL) | [Casa Loca](https://open.spotify.com/album/47d33oQLiKE5Nj6EgSsr91) | 6:06 | 2023-10-06 | 2023-10-28 |
@@ -192,6 +193,7 @@
 | [One Blood](https://open.spotify.com/track/3UfzdRtfe7NbnIJogNH2Gv) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [One Blood](https://open.spotify.com/album/1kAbl0p9VRQmORguJna27z) | 3:41 | 2023-03-03 | 2023-05-03 |
 | [One Paradise](https://open.spotify.com/track/1DvPVTjmYKddlTGqc41587) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/2kGoaq6HWC2eMDujX5Ave6) | 7:54 | 2024-04-20 | 2024-06-29 |
 | [Oneironaut \- Lauren Mia Remix](https://open.spotify.com/track/0DQALJLSUMUDjk7G5c5X6b) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Oneironaut \(Lauren Mia Remix\)](https://open.spotify.com/album/15UzPgXAV0LT28GDgcnx6D) | 5:36 | 2024-05-04 | 2025-02-15 |
+| [Open Your Eyes](https://open.spotify.com/track/7dUnRmuqiVe26UokUxCTgu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Open Your Eyes](https://open.spotify.com/album/5oYtXGdXIln2DKLLBFEkyZ) | 7:25 | 2025-03-14 |  |
 | [Operate](https://open.spotify.com/track/3m6VqP3WJAbVNh3UGSG7uW) | [DSTRTD SGNL](https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai) | [Operate](https://open.spotify.com/album/2DGAaFQ7eA2t8ApyefIdyi) | 5:32 | 2025-01-17 |  |
 | [Orbital State](https://open.spotify.com/track/6dGe97YbAPSwflk8QlcNkg) | [Al\-Faris](https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm), [Andrew Wooden](https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 6:05 | 2024-07-26 | 2024-10-12 |
 | [Parallax](https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 06](https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo) | 8:05 | 2023-02-03 | 2023-08-19 |

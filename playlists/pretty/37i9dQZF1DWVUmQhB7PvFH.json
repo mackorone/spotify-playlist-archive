@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (Jolin Tsai)",
-  "num_followers": 230851,
+  "num_followers": 230934,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,22 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+        "name": "\u9ad8\u624b",
+        "url": "https://open.spotify.com/album/2BH0E9RymXvSKzFr0mgXE7"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        },
+        {
+          "name": "Xian Zi",
+          "url": "https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ"
         }
       ],
-      "duration_ms": 238133,
-      "name": "\u64f1\u6dfa",
-      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
+      "duration_ms": 281413,
+      "name": "\u4e0d\u5f97\u4e0d\u611b",
+      "url": "https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj"
     },
     {
       "added_at": "2025-03-07 16:00:07",
@@ -299,22 +303,18 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u9ad8\u624b",
-        "url": "https://open.spotify.com/album/2BH0E9RymXvSKzFr0mgXE7"
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
       },
       "artists": [
         {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        },
-        {
-          "name": "Xian Zi",
-          "url": "https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 281413,
-      "name": "\u4e0d\u5f97\u4e0d\u611b",
-      "url": "https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj"
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
     },
     {
       "added_at": "2025-03-07 16:00:07",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u8449\u60e0\u7f8e",
-        "url": "https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u6674\u5929",
-      "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
-    },
-    {
-      "added_at": "2025-03-07 16:00:07",
-      "album": {
         "name": "\u6211\u7b49\u4f60",
         "url": "https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
+        "name": "\u57ce\u5821",
+        "url": "https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV"
+      },
+      "artists": [
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "\u5012\u5e36",
+      "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
+    },
+    {
+      "added_at": "2025-03-07 16:00:07",
+      "album": {
         "name": "\u6a59\u6708",
         "url": "https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-03-07 16:00:07",
       "album": {
-        "name": "\u57ce\u5821",
-        "url": "https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV"
+        "name": "\u8449\u60e0\u7f8e",
+        "url": "https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v"
       },
       "artists": [
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 266146,
-      "name": "\u5012\u5e36",
-      "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
+      "duration_ms": 269746,
+      "name": "\u6674\u5929",
+      "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
     },
     {
       "added_at": "2025-03-07 16:00:07",

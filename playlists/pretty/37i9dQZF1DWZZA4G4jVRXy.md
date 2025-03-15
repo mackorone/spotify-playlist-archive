@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,084 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,090 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 39 | [Perfidia](https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Lo Mejor De Xavier Cugat Y Su Orquesta](https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he) | 3:27 |
 | 40 | [Ke Kali Nei Au \- The Hawaiian Wedding Song](https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb) | [Hawaii Calls Orchestra](https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79) | [Hawaii's Favorite Music Vol\. II \- Instrumentals](https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx) | 3:10 |
 | 41 | [Hawaiian Wedding Song](https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w) | [The Surfmen](https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV) | [Chill Out Hawaiian Music](https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ) | 1:43 |
-| 42 | [Within The Temple Of Macuilizochitl](https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4) | [Elisabeth Waldo](https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF) | [Sacred Rites \(Rites of the Pagan / Realm of the Incas\)](https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L) | 3:07 |
-| 43 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
+| 42 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
+| 43 | [Within The Temple Of Macuilizochitl](https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4) | [Elisabeth Waldo](https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF) | [Sacred Rites \(Rites of the Pagan / Realm of the Incas\)](https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L) | 3:07 |
 | 44 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
 | 45 | [Mi Nei](https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 3:49 |
 | 46 | [Glow Worm Cha\-Cha\-Cha](https://open.spotify.com/track/4TPHgdzQ9G8rg3aIwb1y7l) | [Jackie Davis](https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ) | [Blues in the Night \(One Mint Julip Lounge 1959\)](https://open.spotify.com/album/0GO7qxurraNDSYhJMfFhhG) | 2:23 |

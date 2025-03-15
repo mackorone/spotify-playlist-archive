@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,416 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,482 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
 | 2 | [Starman \- 2012 Remaster](https://open.spotify.com/track/43R4zUjfnrz0rjlcdzir3D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [ChangesTwoBowie](https://open.spotify.com/album/7xPIMxW4eWRTehFphCiDbH) | 4:14 |
 | 3 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 |
-| 4 | [Shot By Both Sides \- Remastered](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 |
+| 4 | [Shot By Both Sides \- Remastered 2007](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 |
 | 5 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites \(Special Edition\)](https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q) | 2:43 |
 | 6 | [Hong Kong Garden](https://open.spotify.com/track/6zQhANi5mDTELfSuUFPx4Q) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream \(Remastered & Expanded\)](https://open.spotify.com/album/1Xi4oJP21fSeudrYdFI71n) | 2:55 |
 | 7 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |

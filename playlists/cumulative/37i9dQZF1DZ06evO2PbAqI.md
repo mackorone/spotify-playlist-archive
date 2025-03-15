@@ -4,12 +4,12 @@
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 20 min
+52 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Apocalypse](https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:17 | 2025-03-08 |  |
-| [Bad Things \- Live from the Apocalypse](https://open.spotify.com/track/3Wly7jWKvmdRyDAQlQPQva) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Live From The Apocalypse](https://open.spotify.com/album/66otdwZMfDMVc68Rvq3C6x) | 3:08 | 2025-03-08 |  |
+| [Bad Things \- Live from the Apocalypse](https://open.spotify.com/track/3Wly7jWKvmdRyDAQlQPQva) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Live From The Apocalypse](https://open.spotify.com/album/66otdwZMfDMVc68Rvq3C6x) | 3:08 | 2025-03-08 | 2025-03-15 |
 | [Blood, Tears, Dust](https://open.spotify.com/track/6gXWMvHAZ8EPYRmcXXoNxk) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 3:55 | 2025-03-08 |  |
 | [Closer](https://open.spotify.com/track/0hjOQVfGYP2NXINPOp4EgI) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 3:01 | 2025-03-08 |  |
 | [Daylight Dancer](https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:50 | 2025-03-08 |  |
@@ -35,6 +35,7 @@
 | [Losing My Religion](https://open.spotify.com/track/7tIXyFkZc4p3GTx5YQMbJl) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:42 | 2025-03-08 |  |
 | [My Demons](https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 3:56 | 2025-03-08 |  |
 | [Nothing Stands in Our Way](https://open.spotify.com/track/20gUq53TwfLsyq7AIUL2tt) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Broken Crown Halo](https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG) | 4:07 | 2025-03-08 |  |
+| [Now Or Never](https://open.spotify.com/track/3akgtEWS7xfTNhQFtWUqc1) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:41 | 2025-03-15 |  |
 | [Our Truth](https://open.spotify.com/track/6vS5siwSidItcWFXskcpAA) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:03 | 2025-03-08 |  |
 | [Reckless](https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 3:05 | 2025-03-08 |  |
 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2025-03-08 |  |

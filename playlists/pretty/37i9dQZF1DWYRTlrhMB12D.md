@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,741 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,364 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 72 | [Aaiye Meharban](https://open.spotify.com/track/4uoj0LGf8nMrvciw6v9KJh) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Howrah Bridge](https://open.spotify.com/album/46DJJ5dEmlWQIE39Zo8HZk) | 4:12 |
 | 73 | [Aao Huzoor Tumko](https://open.spotify.com/track/2thv7dQ0No98nF5YFX4tOJ) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Kismet](https://open.spotify.com/album/3leIDawLjTre4AqvUiQLK6) | 5:52 |
 | 74 | [Sama Hai Suhana Suhana](https://open.spotify.com/track/3pL3LcwMIlRpl7SHPUctzG) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Kalyanji\-Anandji](https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq) | [Ghar Ghar Ki Kahani](https://open.spotify.com/album/6sOmuzWFbLTrhj3lc7ldtu) | 3:26 |
-| 75 | [Yeh Kahan Aa Gaye Hum](https://open.spotify.com/track/1QIj8I43FGPhol27UIk7ix) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR) | [Silsila \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QyzsjSnEUqIcCuUrXYYuv) | 7:54 |
+| 75 | [Yeh Kahan Aa Gaye Hum](https://open.spotify.com/track/1QIj8I43FGPhol27UIk7ix) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Silsila \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QyzsjSnEUqIcCuUrXYYuv) | 7:54 |
 | 76 | [Tum Jo Mil Gaye Ho](https://open.spotify.com/track/2dURhAl9CNjpQ2aD2kN9XC) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Hanste Zakhm](https://open.spotify.com/album/7fyvwvooseBtKcfzx1j0Vd) | 8:06 |
 | 77 | [Khilte Hain Gul Yahan](https://open.spotify.com/track/75NyxxCiFWICVbzjxBUMSN) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Sharmilee](https://open.spotify.com/album/1PUvGgbr74yENEYyG7AByv) | 4:02 |
 | 78 | [Tum Pukar Lo Tumhara Intezar Hai](https://open.spotify.com/track/3bKu8IK7vgUDwtJiYcBkme) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Khamoshi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JhYCL7nhuh98kIMzzqviP) | 3:45 |

@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/27cY8yW58sSoNpaLSfnHfd"
+      },
+      "artists": [
+        {
+          "name": "Volaire",
+          "url": "https://open.spotify.com/artist/3uElPHhO2Hl3jQUAEWWAfn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166675,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3sF8rdn65dXv7LJzulrMs7"
+    },
+    {
+      "album": {
         "name": "Homeward",
         "url": "https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9"
       },
@@ -2746,6 +2764,24 @@
       "duration_ms": 162000,
       "name": "Une chambre",
       "url": "https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu"
+    },
+    {
+      "album": {
+        "name": "Vertigini",
+        "url": "https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif"
+      },
+      "artists": [
+        {
+          "name": "Guilliaume Om",
+          "url": "https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120550,
+      "name": "Vertigini",
+      "url": "https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi"
     },
     {
       "album": {

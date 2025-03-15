@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 160550,
+  "num_followers": 160580,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACroeXUM1HZQ/hl+UESNzV7",
+  "snapshot_id": "Z9IgAAAAAAAyNgvopdhlP3SfJW8CUNjP",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 146790,
-      "name": "Con Palabras Sencillas",
-      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dado A La Vida",
         "url": "https://open.spotify.com/album/5jAh6Odpy5DmzUHjgVXZ8W"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 167153,
       "name": "Dado A La Vida",
       "url": "https://open.spotify.com/track/5QE3mR3e3gegloFbtMThz8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 146790,
+      "name": "Con Palabras Sencillas",
+      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-232 songs - 15 hr 43 min
+233 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Sentient](https://open.spotify.com/track/6WqLwuEsqk7kCbNRLxCcdo) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq), [Tülpa](https://open.spotify.com/artist/7ltl0CL5jrqoNHOGLRXDyG) | [Friends EP](https://open.spotify.com/album/1VgGH0NjIETxK0EFixbPS1) | 4:46 | 2016-05-13 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-11-10 |  |
 | [She](https://open.spotify.com/track/0BcEqRStzWNF3t69CHpKAz) | [Lomovolokno](https://open.spotify.com/artist/28kW11cpXM0hiLsMFNnEq8) | [At Least Never](https://open.spotify.com/album/6NfhqHhGk5WPbEOvC8Jg6r) | 3:05 | 2016-01-15 |  |
+| [Shine](https://open.spotify.com/track/1h2s5LF8O9m3hNJIAmF1Uw) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Eda Hinkova](https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq) | [Shine](https://open.spotify.com/album/513wvSixYZZKNwNbpfs1QT) | 3:00 | 2025-03-15 |  |
 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 | 2017-01-25 |  |
 | [Sing to You](https://open.spotify.com/track/02PT20DulS4wVbekDl4zhk) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Sing to You](https://open.spotify.com/album/4wKAlqNlbAguVd6R2VOGGT) | 2:33 | 2019-05-09 |  |
 | [Snowblind \(feat\. Tasha Baxter\)](https://open.spotify.com/track/2ytAuyv7c30bvVyZl2Ki5r) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind \(feat\. Tasha Baxter\)](https://open.spotify.com/album/6Qtx9UvZN8kZdNtc3E3A0f) | 5:47 | 2018-02-21 |  |

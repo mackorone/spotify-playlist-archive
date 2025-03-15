@@ -4,7 +4,7 @@
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 23 min
+24 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 | 2025-03-04 |  |
 | [Bana Ba \(feat\. Tyla & Shaunmusiq & Ftears\)](https://open.spotify.com/track/67J5DZeYwWOdJ1p0Az0jSA) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:05 | 2025-03-04 |  |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2025-03-04 |  |
-| [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2025-03-04 |  |
+| [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2025-03-04 | 2025-03-15 |
 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 | 2025-03-04 |  |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2025-03-04 |  |
 | [Girls Need Love \(Girls Mix\) \(feat\. Tyla\)](https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 | 2025-03-04 |  |
@@ -24,7 +24,8 @@
 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2025-03-04 |  |
 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2025-03-04 |  |
 | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq) | 3:46 | 2025-03-04 |  |
-| [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-03-04 |  |
+| [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2025-03-15 |  |
+| [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-03-04 | 2025-03-15 |
 | [Safer](https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:39 | 2025-03-04 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2025-03-04 |  |
 | [Thata Ahh \(feat\. Young Stunna, Madumane & Tyla\)](https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [THATA USHAKA](https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL) | 6:13 | 2025-03-04 |  |

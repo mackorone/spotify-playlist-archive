@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 30276,
+  "num_followers": 30282,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Fil Atmeh",
-        "url": "https://open.spotify.com/album/3roVdMcbd4OF7q853JM8Gc"
-      },
-      "artists": [
-        {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
-        }
-      ],
-      "duration_ms": 220461,
-      "name": "Fil Atmeh",
-      "url": "https://open.spotify.com/track/4E0PF1tlJgOK23UF03wWyK"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Lazemni Break",
         "url": "https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 142848,
       "name": "Lazemni Break",
       "url": "https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Fil Atmeh",
+        "url": "https://open.spotify.com/album/3roVdMcbd4OF7q853JM8Gc"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "duration_ms": 220461,
+      "name": "Fil Atmeh",
+      "url": "https://open.spotify.com/track/4E0PF1tlJgOK23UF03wWyK"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Al Forga",
+        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 177388,
+      "name": "Al Forga",
+      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "KHAYYALA",
         "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
-      },
-      "artists": [
-        {
-          "name": "Ayham",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Serti Halali",
         "url": "https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A"
       },
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
+      },
+      "artists": [
+        {
+          "name": "Ayham",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Mn Gheirik Enti",
         "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
       },
@@ -411,6 +427,22 @@
       "duration_ms": 181347,
       "name": "Mn Gheirik Enti",
       "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Awlaweeti",
+        "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 218677,
+      "name": "Awlaweeti",
+      "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -435,38 +467,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Al Forga",
-        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Al Forga",
-      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Awlaweeti",
-        "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 218677,
-      "name": "Awlaweeti",
-      "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Manama",
         "url": "https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe"
       },
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Ya Saad",
+        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
+      },
+      "artists": [
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "Ya Saad",
+      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Tmaneet Ashofak",
         "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 298823,
       "name": "Tmaneet Ashofak",
       "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Ya Saad",
-        "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
-      },
-      "artists": [
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "Ya Saad",
-      "url": "https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
+      },
+      "artists": [
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Pedazos de mi vida",
+      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Khalliha Ala Allah",
         "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Affon Mennik",
-        "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
-      },
-      "artists": [
-        {
-          "name": "Atef Malhas",
-          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Affon Mennik",
-      "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Wahad Tnean",
         "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
+        "name": "Affon Mennik",
+        "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
       },
       "artists": [
         {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+          "name": "Atef Malhas",
+          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
         }
       ],
-      "duration_ms": 208560,
-      "name": "Pedazos de mi vida",
-      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
+      "duration_ms": 200000,
+      "name": "Affon Mennik",
+      "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
     },
     {
       "added_at": "2024-12-21 19:38:19",

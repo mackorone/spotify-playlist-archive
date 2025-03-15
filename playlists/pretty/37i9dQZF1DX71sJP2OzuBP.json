@@ -1,12 +1,12 @@
 {
   "description": "\u4e0a\u73ed\u6642\u9593\u5f88\u9577\uff0c\u5c31\u8b93\u6700\u65b0\u6700\u52d5\u807d\u7684\u570b\u8a9e\u6b4c\u966a\u4f60\uff0c\u8212\u670d\u8f15\u807d\u4e00\u8d77\u6e21\u904e\u5427\uff01",
-  "num_followers": 67361,
+  "num_followers": 67365,
   "original_name": "\u4e0a\u73ed\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z86rCQAAAADXDSyQllBW+G+8mi2OrAqD",
+  "snapshot_id": "Z9THXQAAAABUnWpYI3KSiiZ4A2Kb1z55",
   "tracks": [
     {
       "added_at": "2025-03-10 09:04:09",
@@ -1701,10 +1701,10 @@
       "url": "https://open.spotify.com/track/43dXQ2NZFd6ifeQMAlaRkQ"
     },
     {
-      "added_at": "2025-03-10 09:04:09",
+      "added_at": "2025-03-15 00:18:37",
       "album": {
-        "name": "\u611b\u4f60\u7684\u5fc3\u4e8b",
-        "url": "https://open.spotify.com/album/27mGAiLzx0Cfg3kNq7XG3A"
+        "name": "\u611b\u4f60\u7684\u5fc3\u4e8b\uff08\u300a\u611b\u4f60\u300b\u5f71\u8996\u5287\u60c5\u610f\u5ef6\u7dbf\u66f2\uff09",
+        "url": "https://open.spotify.com/album/4CUUcQd1Y4KFoGjg2NKVAI"
       },
       "artists": [
         {
@@ -1713,8 +1713,8 @@
         }
       ],
       "duration_ms": 253103,
-      "name": "\u611b\u4f60\u7684\u5fc3\u4e8b - \u300a\u7231\u4f60\u300b\u5f71\u89c6\u5267\u60c5\u610f\u5ef6\u7ef5\u66f2",
-      "url": "https://open.spotify.com/track/4DPB9ZXqD5PeQQ2j0FJyqI"
+      "name": "\u611b\u4f60\u7684\u5fc3\u4e8b\uff08\u300a\u611b\u4f60\u300b\u5f71\u8996\u5287\u60c5\u610f\u5ef6\u7dbf\u66f2\uff09",
+      "url": "https://open.spotify.com/track/2UcRMdeniTKZJ9RWNdyNwg"
     },
     {
       "added_at": "2025-03-10 09:04:09",
@@ -1976,12 +1976,12 @@
           "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
         },
         {
-          "name": "Gummy B",
-          "url": "https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs"
-        },
-        {
           "name": "The Crane",
           "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        },
+        {
+          "name": "Gummy B",
+          "url": "https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs"
         }
       ],
       "duration_ms": 236464,

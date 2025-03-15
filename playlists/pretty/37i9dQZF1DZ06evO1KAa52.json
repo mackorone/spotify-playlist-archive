@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 648678,
+  "num_followers": 648728,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA5iTP/yu2SiRycEk8KwQUQ",
+  "snapshot_id": "Z9IgAAAAAABsBWyyfOO0j64oWFkB7YI4",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 448573,
       "name": "What Goes Around.../...Comes Around (Interlude)",
       "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "added_at": null,
@@ -484,17 +484,13 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
     },
     {
       "added_at": null,
@@ -580,13 +576,17 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 81666,
-      "name": "BroZone's Back",
-      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
     },
     {
       "added_at": null,
@@ -627,22 +627,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+      "duration_ms": 229282,
+      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
     },
     {
       "added_at": null,
@@ -687,30 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 229282,
-      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
     },
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
       "artists": [
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 444333,
-      "name": "LoveStoned / I Think She Knows (Interlude)",
-      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
+      "duration_ms": 243040,
+      "name": "Morning Light (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
     },
     {
       "added_at": null,
@@ -995,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
       "artists": [
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Morning Light (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
+      "duration_ms": 444333,
+      "name": "LoveStoned / I Think She Knows (Interlude)",
+      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
     },
     {
       "added_at": null,
@@ -1120,25 +1120,29 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 262773,
-      "name": "F**kin' Up The Disco",
-      "url": "https://open.spotify.com/track/0NiRZ3eOFg8nOOI0YU4RXs"
+      "duration_ms": 437266,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/347FqcQK09FdgKiBDAiq0V"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/2UQSMFU11WqCr7shuCRGZL"
       },
       "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 331133,
-      "name": "Drink You Away",
-      "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
+      "duration_ms": 233066,
+      "name": "My Kinda Girl",
+      "url": "https://open.spotify.com/track/0uxjxRAqlPEUwQh9db0pCP"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

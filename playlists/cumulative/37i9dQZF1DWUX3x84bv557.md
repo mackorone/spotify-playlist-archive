@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Roxy & Koen
 
-883 songs - 1 day 18 hr 27 min
+884 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [Te Goed Om Waar Te Zijn](https://open.spotify.com/track/5xROc7yMnVnPBuGw9bTCTK) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Te Goed Om Waar Te Zijn](https://open.spotify.com/album/2mRv3JeT8QvCy44FknVLqF) | 2:49 | 2023-03-16 | 2023-06-09 |
 | [Te Gusté](https://open.spotify.com/track/4kwbQFCcQnbCa837bxYbTF) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Te Gusté](https://open.spotify.com/album/31L0ZB8Jhfn4zdykH7jH8x) | 2:20 | 2024-10-18 | 2025-01-11 |
 | [Te Snel Gaan](https://open.spotify.com/track/4rvTIATjjaIWKGteMDyKcG) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Te Snel Gaan](https://open.spotify.com/album/5iA8J7oYGbXPoDTIJDAMk3) | 2:21 | 2025-03-06 |  |
+| [Te Waar Om Mooi Te Zijn](https://open.spotify.com/track/4hihzc1FWSnlMGRnYEZm7s) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/album/02u6G4zpAqzWsthZTSjkc0) | 2:55 | 2025-03-13 |  |
 | [Tegen Beter Weten In](https://open.spotify.com/track/6pYrY75o2iVJVlX2n5d59c) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Tegen Beter Weten In](https://open.spotify.com/album/3zsaqHqGx1MaalIXkGyGiI) | 2:43 | 2023-02-23 | 2023-04-07 |
 | [Tempo Giusto](https://open.spotify.com/track/3trHXv2ZvlordsObGvSqk2) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Skiggy Rapz](https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR) | [Tempo Giusto](https://open.spotify.com/album/16md54d8y1FGKBZvHZCljR) | 3:36 | 2025-03-13 |  |
 | [Terug In M'n Armen](https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 3:27 | 2023-05-09 | 2023-08-18 |

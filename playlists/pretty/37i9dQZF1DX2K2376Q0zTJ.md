@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Elle Teresa
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,583 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,587 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 10 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 11 | [COLORATURA](https://open.spotify.com/track/3jIGteplWR9tMpqsH06J83) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:07 |
 | 12 | [Tokyo Calling](https://open.spotify.com/track/2ZVDVwltoFAwqdhCxbvdKg) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 3:11 |
-| 13 | [Linda feat\. Utaha](https://open.spotify.com/track/1WwNsOFZl6ngVS6L9aBvAU) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms), [Utaha](https://open.spotify.com/artist/1CHpv9LnH31ppO3flzbbIM) | [Linda feat\. Utaha](https://open.spotify.com/album/3AcxVjkaGP2FNCw5mpiHZd) | 3:12 |
+| 13 | [Linda feat\. Utaha](https://open.spotify.com/track/1WwNsOFZl6ngVS6L9aBvAU) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Linda feat\. Utaha](https://open.spotify.com/album/3AcxVjkaGP2FNCw5mpiHZd) | 3:12 |
 | 14 | [Stronger \- feat\. Awich](https://open.spotify.com/track/3aaLvqtuf3w5FSsGFrADKG) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Stronger \(feat\. Awich\) / 花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/2zirO6cI7itEqbL8a0eOvS) | 3:50 |
 | 15 | [Magic Clock](https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Magic Clock](https://open.spotify.com/album/4m3R9tE7P4F9jqYYPgPJBK) | 2:13 |
 | 16 | [Good to me](https://open.spotify.com/track/2Y7fg9l57DCD1W5iYqAsFB) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 2:50 |

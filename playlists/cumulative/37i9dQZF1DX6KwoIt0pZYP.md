@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,080 songs - 2 day 10 hr 50 min
+1,081 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [do you even like mE?](https://open.spotify.com/track/7gT2iJcAmxvsM4XlzCr7Uo) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [do you even like mE?](https://open.spotify.com/album/341mOQsi4apd1zO9Rb3KmS) | 2:33 | 2023-07-18 | 2023-08-12 |
 | [Do You Feel Like You Have No One to Turn to?](https://open.spotify.com/track/7IM7JCGA6lNktX9ORtyQS8) | [Yayyoung](https://open.spotify.com/artist/1mefU9eSDsjTwOJK0gn7xZ) | [Do You Feel Like You Have No One to Turn to?](https://open.spotify.com/album/0DNpPinecj0SJVNJTSPoXd) | 3:06 | 2022-01-28 | 2022-05-24 |
 | [do you still think \(about me?\)](https://open.spotify.com/track/4edE57uW5nXnoXJch8qtLl) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [do you still think \(about me?\)](https://open.spotify.com/album/5taBTQoZaJsGa3sC9F4CTw) | 3:57 | 2023-02-23 | 2023-03-03 |
+| [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 | 2025-03-14 |  |
 | [Do You Think You Know Me?](https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do You Think You Know Me?](https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3) | 3:26 | 2022-01-28 | 2022-07-24 |
 | [DOMO \(dancing on my own\)](https://open.spotify.com/track/2xLqIPEPpG5VbpC3eQnHLM) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [DOMO \(dancing on my own\)](https://open.spotify.com/album/7uWOzh0qX7ny9zALiRGNb2) | 3:10 | 2022-11-10 | 2022-12-16 |
 | [Don't Feel](https://open.spotify.com/track/7n3H1ztzXRBQEj34jF0bCy) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [Don't Feel](https://open.spotify.com/album/0ToF9PkXCO8pU7x09TKJRg) | 3:38 | 2024-02-02 | 2024-02-24 |
@@ -988,7 +989,7 @@
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-12 | 2022-09-17 |
 | [undo](https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [undo](https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U) | 3:28 | 2024-05-31 | 2024-07-01 |
 | [Unfucktheworld](https://open.spotify.com/track/3DyGcebeqFnG3ropR1bPFX) | [Dylan Pham](https://open.spotify.com/artist/0SSmPhfmyWRy1iFduWAEbV) | [Unfucktheworld](https://open.spotify.com/album/1QE1W1ZeJEX8PEQc8Ft6DJ) | 2:51 | 2022-03-29 | 2022-04-11 |
-| [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 | 2023-08-25 |  |
+| [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 | 2023-08-25 | 2025-03-15 |
 | [Unless We Try](https://open.spotify.com/track/0vXHyEyJDEVGGPssnhmsgn) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [Hyperlnk](https://open.spotify.com/artist/4hCOz7uKIaWamRdtryWXW1) | [Unless We Try](https://open.spotify.com/album/53Ev9gXUcanBW1mFgj7lkZ) | 2:49 | 2024-01-18 | 2024-02-03 |
 | [Until The Sunrise](https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Until The Sunrise](https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH) | 3:26 | 2024-10-04 | 2024-10-19 |
 | [us being us](https://open.spotify.com/track/4FHE9B5Rbv4bKjeX2swwoE) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/0mxKiEZT7DrY3mKUzgeYbi) | 3:34 | 2023-10-13 | 2023-11-14 |

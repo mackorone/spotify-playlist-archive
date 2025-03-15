@@ -4,7 +4,7 @@
 
 > That real soulful house sound.
 
-350 songs - 1 day 12 hr 55 min
+351 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Glad I Found You \(feat\. Louie Balo & Yasmeen\) \- Scott Wozniak Remix](https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX) | [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Louie Balo](https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X), [Yasmeen](https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl) | [Glad I Found You](https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X) | 8:10 | 2024-04-18 | 2025-02-09 |
 | [Glad I Found You \- Scott Wozniak Vocal Mix](https://open.spotify.com/track/6bo7IFO1394OXEJGcG284e) | [DJ Gomi](https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz), [Louie Balo](https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X), [Yasmeen](https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl), [Scott Wozniak](https://open.spotify.com/artist/4X5MbMRy7w6vmcUZDaKa2O) | [Glad I Found You](https://open.spotify.com/album/081ccWtCpuZsrPrxiFPA2k) | 8:07 | 2022-09-13 | 2023-11-05 |
 | [Glory \- Atjazz Remix](https://open.spotify.com/track/7gFX0LEM6Ty0yojsBcsEXz) | [Halo](https://open.spotify.com/artist/7Lj6k89X6P1R61Fcjmhewd), [Maiya](https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Glory](https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj) | 8:07 | 2022-09-13 | 2024-03-07 |
+| [Going Nowhere](https://open.spotify.com/track/6gxCItsJhHpmucspvOhwAP) | [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy), [Corey Holmes](https://open.spotify.com/artist/5nHH9d9UcjjJ56GfKE6XoS) | [Going Nowhere](https://open.spotify.com/album/6k3UcaaEVihWwLoItNA8qH) | 7:23 | 2025-03-13 |  |
 | [Good Inside](https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg) | [Sonic Soul Orchestra](https://open.spotify.com/artist/4UyUyxpppUEMHh0uUy1O2t), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [Good Inside](https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0) | 6:16 | 2024-04-18 |  |
 | [Good Morning \- Kaytronik Remix](https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb), [Kaytronik](https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se) | [Good Morning EP](https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r) | 6:13 | 2022-09-13 | 2024-03-07 |
 | [Got It Bad \- Sean McCabe Vocal Mix](https://open.spotify.com/track/3yufEDjvuDQvXPepliRdjf) | [Ellis Aaron](https://open.spotify.com/artist/4Iqe22PsHueVV08Fk3o8kQ), [Sean McCabe](https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN) | [Got It Bad](https://open.spotify.com/album/4ghx4eGElyUK0Z1z945Lwl) | 6:51 | 2025-02-20 |  |

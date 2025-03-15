@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "RIGHT THERE!",
+        "url": "https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198359,
+      "name": "RIGHT THERE!",
+      "url": "https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },

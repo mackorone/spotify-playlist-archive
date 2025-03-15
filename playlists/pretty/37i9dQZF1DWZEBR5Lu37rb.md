@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,471 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,538 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 34 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
 | 35 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci \(Deleted\)](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 |
 | 36 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 37 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
-| 38 | [Ngiyaz'fela Ngawe \(feat\. Thabsie\)](https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 5:28 |
+| 37 | [Ngiyaz'fela Ngawe \(feat\. Thabsie\)](https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 5:28 |
+| 38 | [Eyami](https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:20 |
 | 39 | [Fairytale](https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR) | [Liquideep](https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP) | [Oscillations](https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts) | 5:06 |
 | 40 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
 | 41 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 82 | [Nadekezwa](https://open.spotify.com/track/3hNmfiQKKwKYi7wKvcN3Lj) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nadekezwa](https://open.spotify.com/album/0JqFpB5rG1whb47fAL2yX6) | 3:48 |
 | 83 | [Sondela \(feat\. Yumbs, Raspy, Blxckie, Riky Rick & Tshego\)](https://open.spotify.com/track/0HnlM5zv18lM1gKIxOiW96) | [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Shishiliza](https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [LOVE IS PAIN](https://open.spotify.com/album/1inejscdMY2EBbrGS1UeR2) | 4:06 |
 | 84 | [Wena](https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Wena](https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt) | 4:30 |
-| 85 | [Ammrika](https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 6:07 |
-| 86 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
+| 85 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
+| 86 | [Ammrika](https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 6:07 |
 | 87 | [All The Noise](https://open.spotify.com/track/2eGjHCInfLWC316jvoELhE) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 4:09 |
 | 88 | [Ndimthanda](https://open.spotify.com/track/2sf6KNaKxhj8oCESEspmg4) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Somandla](https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE) | 6:46 |
 | 89 | [Goosebumps](https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Goosebumps](https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO) | 3:00 |

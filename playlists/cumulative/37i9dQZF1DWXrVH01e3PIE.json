@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Zell, Neo Pistea & Duki  en la casa del Trap Argentino.",
+  "description": "Bhavi en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "BHAVILONIA",
+        "url": "https://open.spotify.com/album/0eEO57wwLtByL2ubWCSshn"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162158,
+      "name": "AGRIDULCE",
+      "url": "https://open.spotify.com/track/6oD4SAERighrgpWf6NJibb"
+    },
+    {
+      "album": {
         "name": "511",
         "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
@@ -478,6 +500,24 @@
       "duration_ms": 133533,
       "name": "AL LIMITE",
       "url": "https://open.spotify.com/track/5jNJoyl5zRnPSnFhYELJwN"
+    },
+    {
+      "album": {
+        "name": "Algo caro",
+        "url": "https://open.spotify.com/album/6Zbbr9PYxLFVfDMIeqU9Od"
+      },
+      "artists": [
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170847,
+      "name": "Algo caro",
+      "url": "https://open.spotify.com/track/5DTnSsgoupDjCQGNH54Q4F"
     },
     {
       "album": {

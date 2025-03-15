@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Greentea Peng en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. HAIM en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 176026,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 205626,
       "name": "Broken Hearts and Memories",
       "url": "https://open.spotify.com/track/08lx42qTIM6e9bs9Ot28i8"
@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Anomaly II",
+        "url": "https://open.spotify.com/album/6q4rT0kjP8zoMgfDwzz5ij"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160017,
+      "name": "Circle of Death",
+      "url": "https://open.spotify.com/track/31JFXsBWzLzsW8DQWrqtY6"
+    },
+    {
+      "album": {
         "name": "Classical",
         "url": "https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ"
       },
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 237489,
       "name": "Green",
       "url": "https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
@@ -3821,6 +3839,28 @@
     },
     {
       "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
+    },
+    {
+      "album": {
         "name": "If Only With You",
         "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
       },
@@ -4052,6 +4092,24 @@
       "duration_ms": 212008,
       "name": "Jocelyn",
       "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
+    },
+    {
+      "album": {
+        "name": "JOHNNYSCOTT",
+        "url": "https://open.spotify.com/album/2paVRUpTK7DeVBBfExvTG4"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "JOHNNYSCOTT",
+      "url": "https://open.spotify.com/track/3HITeUoRtYdS6Ne7QP7nfl"
     },
     {
       "album": {
@@ -5164,7 +5222,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 286480,
       "name": "No Front Teeth",
       "url": "https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB"
@@ -5788,7 +5846,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 211126,
       "name": "Praise",
       "url": "https://open.spotify.com/track/08aaQA6A7UHvbPGsfPrAFe"
@@ -5867,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "PSILOCYBIN & DAISIES",
+        "url": "https://open.spotify.com/album/50hC8f8acK3ZLWZa9sCnDH"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137141,
+      "name": "PSILOCYBIN & DAISIES",
+      "url": "https://open.spotify.com/track/4eZINsb80RXdubeco4ErnS"
+    },
+    {
+      "album": {
         "name": "Pulga",
         "url": "https://open.spotify.com/album/33KB6iERnmcB7JL96f8mye"
       },
@@ -5932,7 +6008,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
@@ -6044,6 +6120,24 @@
       "duration_ms": 215725,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5xJ9WXXDxVsZIutIHQRXlq"
+    },
+    {
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
     },
     {
       "album": {
@@ -6977,6 +7071,24 @@
     },
     {
       "album": {
+        "name": "Sunny Baby",
+        "url": "https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Sunny Baby",
+      "url": "https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup"
+    },
+    {
+      "album": {
         "name": "Sunshine In The Room",
         "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
       },
@@ -7126,6 +7238,24 @@
       "duration_ms": 379714,
       "name": "Take Your Time with Me",
       "url": "https://open.spotify.com/track/1XCvSihVAJLqO3o69vLD5P"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6"
     },
     {
       "album": {
@@ -7512,6 +7642,24 @@
       "duration_ms": 200000,
       "name": "Things will be fine - Bratty Remix",
       "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
+    },
+    {
+      "album": {
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: SI EVOL
 
-914 songs - 2 day 0 hr 6 min
+915 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2024-11-08 |
 | [Follow](https://open.spotify.com/track/23zsgE928KYBi7taB6XMqG) | [AGGi](https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c) | [Follow](https://open.spotify.com/album/35DIUgKZx3rfZO9bEo027C) | 3:20 | 2024-06-13 | 2024-08-16 |
 | [FOMO](https://open.spotify.com/track/11BDQHOvdJQOtMU2gOzXX7) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [FOMO](https://open.spotify.com/album/5ovUHtnBEk8S10pKVTDDLh) | 3:00 | 2025-01-02 | 2025-02-14 |
+| [Fool](https://open.spotify.com/track/6iVW6m4beUfsuIK6AO0aSs) | [SVRD](https://open.spotify.com/artist/4pIMOpPSlzohGNTW8O6A9y) | [dance?](https://open.spotify.com/album/3BLhRfnMCmruUGqYI4W6eO) | 3:05 | 2025-03-14 |  |
 | [Fooled By Love](https://open.spotify.com/track/7hp1aai8CJx12fgPdYASyC) | [Noahh](https://open.spotify.com/artist/1Vk8Xbn8TTDtYlCOEanuc8) | [Fooled By Love](https://open.spotify.com/album/1AHuOEH0p4LYeuDRLNkRqP) | 1:58 | 2024-04-18 | 2024-06-07 |
 | [For the Light](https://open.spotify.com/track/4857iYh3EAlCUuGKRB11YY) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [For the Light](https://open.spotify.com/album/0KtWy6RDfG1rC0P2VrtA7d) | 3:18 | 2024-05-30 | 2024-08-02 |
 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 | 2025-02-13 |  |

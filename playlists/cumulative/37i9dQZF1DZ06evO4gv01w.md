@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-172 songs - 9 hr 57 min
+173 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Get Up](https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Sweetwater \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SCZ9Z6zeSU3mB5AbP2kp) | 2:20 | 2023-06-17 |  |
 | [God Moves On The Water](https://open.spotify.com/track/56w5xZcUip6M2Racahglwl) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 2:44 | 2024-09-01 |  |
 | [God Moves On The Water](https://open.spotify.com/track/7nn5dN7SAEsHkxITB9Kki6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:44 | 2022-08-05 | 2023-03-21 |
+| [God's Gonna Cut You Down \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/2POvvcjEVwCmxb6cVrRUfs) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn) | [God's Gonna Cut You Down \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/70DyKgYERaRL0Ja1gnT5oB) | 3:52 | 2025-03-15 |  |
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 | 2023-06-17 |  |
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1zhltGZlmgZ2MAs5DZQD2q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 | 2022-08-05 | 2023-06-18 |
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:13 | 2024-02-12 | 2024-10-28 |

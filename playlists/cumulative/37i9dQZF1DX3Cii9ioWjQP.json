@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: MIHYANG MOON(\ubb38\ubbf8\ud5a5)) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: SM Jazz Trio) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 299640,
       "name": "'Tis Autumn (feat. Dan Nimmer Trio)",
       "url": "https://open.spotify.com/track/61sV2f0c7LJl0nukJTgpGx"
+    },
+    {
+      "album": {
+        "name": "11:11 (Jazz Version)",
+        "url": "https://open.spotify.com/album/7eJvuGHr0cKz0gnUV7pPrP"
+      },
+      "artists": [
+        {
+          "name": "SM Jazz Trio",
+          "url": "https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274239,
+      "name": "11:11 - Jazz Version",
+      "url": "https://open.spotify.com/track/21Zg58JQ1sw6IlGtjSVZWE"
     },
     {
       "album": {
@@ -226,7 +244,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 335198,
       "name": "Align",
       "url": "https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd"

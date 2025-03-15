@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,621 likes - 60 songs - 3 hr 17 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,621 likes - 71 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,16 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 58 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
 | 59 | [Eden](https://open.spotify.com/track/5w1JnfPhdNaUqVM3jEiIBh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [The Awakening](https://open.spotify.com/album/40DA8dgGm11xUxZEMBPU3r) | 3:27 |
 | 60 | [Burn the Boats](https://open.spotify.com/track/04UTmf8Ib1SiAiXyRCqAxK) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY) | [Burn the Boats](https://open.spotify.com/album/2ZJQyMZbk97t9NXlahZR9c) | 3:28 |
+| 61 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b) | 2:37 |
+| 62 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/0dfexwGBjaANxD7ZDXFtFX) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/0yICr3gvAwwfsJypjJzS2P) | 3:35 |
+| 63 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
+| 64 | [Malabar Princess](https://open.spotify.com/track/1IDXNg3gfcSsriLY3seMNB) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Malabar Princess](https://open.spotify.com/album/4aGgC83kLA8JW6rnTzCp3v) | 3:15 |
+| 65 | [JOHNNYSCOTT](https://open.spotify.com/track/3HITeUoRtYdS6Ne7QP7nfl) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [JOHNNYSCOTT](https://open.spotify.com/album/2paVRUpTK7DeVBBfExvTG4) | 2:32 |
+| 66 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 |
+| 67 | [Fingernails](https://open.spotify.com/track/2FqvNwxh9WlyP4zlQKza34) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:07 |
+| 68 | [HEAT DEATH](https://open.spotify.com/track/76ZGBWNXxCOYu4zw99KzzX) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [FAKE MOON](https://open.spotify.com/album/2u7xrSDHkBPmbkDI5j1mek) | 3:26 |
+| 69 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 |
+| 70 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/2uW4osxGJrI1j4eqZg90kc) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 |
+| 71 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 |
 
-Snapshot ID: `AAAjl24YUWRK/wW7P4vwrMDhxOwa5HSL`
+Snapshot ID: `AAAjo1I3NZQoiKG8n4vPiLfmzWsS6ug1`

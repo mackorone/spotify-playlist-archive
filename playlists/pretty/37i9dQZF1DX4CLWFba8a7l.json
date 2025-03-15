@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 125488,
+  "num_followers": 125502,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -589,20 +589,20 @@
       "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
-      "added_at": "2025-03-04 23:20:58",
+      "added_at": "2025-03-13 13:00:38",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+        "name": "CRUISING TO SELF SOOTHE",
+        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
         }
       ],
-      "duration_ms": 189966,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
+      "duration_ms": 152613,
+      "name": "CRUISING TO SELF SOOTHE",
+      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -631,34 +631,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Electric Green Lambo",
-        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 155179,
-      "name": "Electric Green Lambo",
-      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
-    },
-    {
-      "added_at": "2025-03-13 13:00:38",
-      "album": {
-        "name": "CRUISING TO SELF SOOTHE",
-        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "CRUISING TO SELF SOOTHE",
-      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -679,6 +663,22 @@
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Electric Green Lambo",
+        "url": "https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 155179,
+      "name": "Electric Green Lambo",
+      "url": "https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
     },
     {
+      "added_at": "2025-03-13 13:00:38",
+      "album": {
+        "name": "Safeandsound",
+        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 277617,
+      "name": "Safeandsound",
+      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
       "added_at": "2025-03-04 23:20:58",
       "album": {
         "name": "Dance With Me",
@@ -887,22 +903,6 @@
       "duration_ms": 225204,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Stop Calling",
-        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Stop Calling",
-      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Light Sides",
-        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
         }
       ],
-      "duration_ms": 243087,
-      "name": "Beginner",
-      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Believe (triple j Like A Version) [Cover Version]",
-        "url": "https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki"
+        "name": "Light Sides",
+        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
       },
       "artists": [
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 197594,
-      "name": "Believe (triple j Like A Version) - Cover Version",
-      "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
+      "duration_ms": 243087,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -991,6 +991,22 @@
       "duration_ms": 235534,
       "name": "Parched",
       "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
+        "name": "Believe (triple j Like A Version) [Cover Version]",
+        "url": "https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "Believe (triple j Like A Version) - Cover Version",
+      "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1095,6 +1111,22 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+    },
+    {
+      "added_at": "2025-03-04 23:20:58",
+      "album": {
         "name": "Just Like North",
         "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
@@ -1107,22 +1139,6 @@
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
-      "added_at": "2025-03-04 23:20:58",
-      "album": {
-        "name": "Please Don't Move To Melbourne",
-        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
-      },
-      "artists": [
-        {
-          "name": "Ball Park Music",
-          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
-        }
-      ],
-      "duration_ms": 291153,
-      "name": "Please Don't Move To Melbourne",
-      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+        "name": "Please Don't Move To Melbourne",
+        "url": "https://open.spotify.com/album/23d2FD8BkZd4hQbrupGHmz"
       },
       "artists": [
         {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
         }
       ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+      "duration_ms": 291153,
+      "name": "Please Don't Move To Melbourne",
+      "url": "https://open.spotify.com/track/1oze9aaxoRs5kPvQVWsk0Q"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1171,22 +1187,6 @@
       "duration_ms": 178770,
       "name": "Big Thoughts",
       "url": "https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7"
-    },
-    {
-      "added_at": "2025-03-13 13:00:38",
-      "album": {
-        "name": "Safeandsound",
-        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 277617,
-      "name": "Safeandsound",
-      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
       "artists": [
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 224971,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq"
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2025-03-04 23:20:58",
@@ -1255,38 +1255,34 @@
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+      "duration_ms": 224971,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq"
     },
     {
       "added_at": "2025-03-04 23:20:58",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
         }
       ],
-      "duration_ms": 124401,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
     }
   ],
   "unique_name": "The Local List",

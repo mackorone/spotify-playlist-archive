@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 195979,
+  "num_followers": 196076,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADUqc3men1o0Q2GbLvR2uM0",
+  "snapshot_id": "Z9IgAAAAAADIzG5TTMRPofzXl3SAm9F+",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Andar Risue\u00f1o",
         "url": "https://open.spotify.com/album/0cPYwfMhD0H0RVwOLiNM13"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 216000,
       "name": "Pa' Andar Risue\u00f1o",
       "url": "https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/5ZVf2dn3T3EqwolwoIb8xt"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 253596,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 13",
         "url": "https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 231036,
       "name": "Alzypher Vol. 13",
       "url": "https://open.spotify.com/track/6hF5GHmra3eBun6EwbCVFM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sali\u00f3 Caro",
         "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Cholo",
         "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 232000,
       "name": "Soy Cholo",
       "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Me Pregunten",
-        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "No Me Pregunten",
-      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
     },
     {
       "added_at": null,
@@ -967,6 +947,26 @@
       "duration_ms": 374571,
       "name": "Todo x Nada",
       "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Pregunten",
+        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "No Me Pregunten",
+      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
     },
     {
       "added_at": null,

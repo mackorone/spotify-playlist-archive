@@ -4,7 +4,7 @@
 
 > I am blessed!
 
-229 songs - 16 hr 4 min
+230 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Your Love](https://open.spotify.com/track/49q2fjQoohYGvGbIUylDAx) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [Your Love](https://open.spotify.com/album/2qZPsRyEmKSBb6kudAAN43) | 2:41 | 2024-11-01 |  |
 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 | 2025-03-14 |  |
 | [Your Miracle](https://open.spotify.com/track/6AOa0gulWJIaql3Slh5Cpm) | [Dr Becky Paul\-Enenche](https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n), [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Your Miracle](https://open.spotify.com/album/6DHypjOdoSkbVdih0of4qf) | 3:40 | 2025-02-28 |  |
+| [Your own](https://open.spotify.com/track/2xv30FkCJ3xPkRRM1QGRoL) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Bayor Martins](https://open.spotify.com/artist/2g3PuqCcgoIYsH1TeiyrLq) | [Your own](https://open.spotify.com/album/7IL5uFzxM9UryFFIjDzn49) | 6:29 | 2025-03-14 |  |
 | [Your ways](https://open.spotify.com/track/1uqsvT2rcni4pa1KxOKPgx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Eva Swanson](https://open.spotify.com/artist/6xUIcrMr1TuAwBepBySPJZ) | [Your ways](https://open.spotify.com/album/6iUC92Nr82kc5MlPL3kruE) | 1:57 | 2025-01-24 |  |
 | [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-10 | 2025-02-28 |
 | [Zero Shege](https://open.spotify.com/track/4PlCXCaxZI35ZM8rKHgbL0) | [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk) | [Zero Shege](https://open.spotify.com/album/7E61GP74XnL2Row5lOZFR4) | 1:13 | 2025-01-31 |  |

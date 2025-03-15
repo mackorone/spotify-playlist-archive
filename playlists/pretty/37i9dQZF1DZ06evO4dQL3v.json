@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6094,
+  "num_followers": 6096,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABL160FrXDDfgr620bQ5NQ1",
+  "snapshot_id": "Z9IgAAAAAACEC3ooOtBvb6w9YkH6x7lT",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 184253,
-      "name": "Sabor Amargo",
-      "url": "https://open.spotify.com/track/4JqkInLAr7jko2QPTMqA0H"
+      "duration_ms": 145213,
+      "name": "Que Se Largue Pa La Porra",
+      "url": "https://open.spotify.com/track/4ieJTm4eOlPhhjQ0vO2yVO"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 145213,
-      "name": "Que Se Largue Pa La Porra",
-      "url": "https://open.spotify.com/track/4ieJTm4eOlPhhjQ0vO2yVO"
+      "duration_ms": 184253,
+      "name": "Sabor Amargo",
+      "url": "https://open.spotify.com/track/4JqkInLAr7jko2QPTMqA0H"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mano a Mano y Quebrando",
-        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Estilo Tierra Caliente",
         "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeras Canciones",
-        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 121400,
-      "name": "Libro Abierto - Con Mariachi",
-      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
+      "duration_ms": 221733,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 207053,
       "name": "El Parrandero",
       "url": "https://open.spotify.com/track/1OLk8kkjWQfaqQIxT5hq9d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "Libro Abierto - Con Mariachi",
+      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Dame un Beso y Dime Adios",
-      "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Caminante Recordando los Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 151720,
       "name": "Ya Llego la Banda Toro",
       "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 170973,
+      "name": "Dame un Beso y Dime Adios",
+      "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Las Nieves de Enero",
-      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos y Canciones",
         "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 190013,
       "name": "El Moro de Cumpas - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Las Nieves de Enero",
+      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "No Voy a Llorar",
-      "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Estilo Tierra Caliente",
         "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197066,
       "name": "Carta Perdida - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "No Voy a Llorar",
+      "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "La Calandria - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 149000,
       "name": "Oh Que Gusto de Volverte a Ver",
       "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "La Calandria - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino De Aguascalientes",
-        "url": "https://open.spotify.com/album/6UikJN7iJDdPecf74oGwEP"
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 181355,
-      "name": "Camino De Aguascalientes",
-      "url": "https://open.spotify.com/track/1308SaRnXe3eiYEXClt7TL"
+      "duration_ms": 206880,
+      "name": "El Cantador - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+        "name": "Camino De Aguascalientes",
+        "url": "https://open.spotify.com/album/6UikJN7iJDdPecf74oGwEP"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 206880,
-      "name": "El Cantador - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
+      "duration_ms": 181355,
+      "name": "Camino De Aguascalientes",
+      "url": "https://open.spotify.com/track/1308SaRnXe3eiYEXClt7TL"
     },
     {
       "added_at": null,

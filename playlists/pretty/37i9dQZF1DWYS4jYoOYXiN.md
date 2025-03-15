@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,036 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,064 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 27 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 |
 | 28 | [Dry Coconuts](https://open.spotify.com/track/7tUKJZGKfMgb6VdCyTQIiF) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Dry Coconuts \- Güeita Caimán](https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6) | 2:33 |
 | 29 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 |
-| 30 | [La Pachanga Que No Cansa](https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy) | [Manolin Morel Y Sus Charangueros](https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W), [Wilfredo Figueroa](https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl) | [La Rueda\. Pachangas](https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF) | 3:01 |
-| 31 | [Gentle Rain](https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 3:49 |
+| 30 | [Gentle Rain](https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 3:49 |
+| 31 | [La Pachanga Que No Cansa](https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy) | [Manolin Morel Y Sus Charangueros](https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W), [Wilfredo Figueroa](https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl) | [La Rueda\. Pachangas](https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF) | 3:01 |
 | 32 | [California Sun](https://open.spotify.com/track/6VZZx248WTQ4mligzYLILP) | [Ricardo Ray Orchestra](https://open.spotify.com/artist/3UmPZOpOL6veEtZ0g0J1jo) | [Let's Get Down To The Real Nitty Gritty](https://open.spotify.com/album/269lCCNvG2Nc91rXWh2ICp) | 2:40 |
 | 33 | [Everything's Gonna Change](https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks) | [Jean Paul "El Troglodita"](https://open.spotify.com/artist/31FPC692u24VnZ5qU8FalR) | [Vudú](https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU) | 4:02 |
 | 34 | [El Borracho](https://open.spotify.com/track/5rbhgXOL4AkkMr7A4GU9mJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Moderna De Siempre](https://open.spotify.com/album/5yuDeyPDVTKLQHtRXa24z7) | 2:38 |

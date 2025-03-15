@@ -4,7 +4,7 @@
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 54 min
+45 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 | 2025-03-09 |  |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-03-08 |  |
 | [Perennial](https://open.spotify.com/track/606gzX3gtYCeMp0iyBEjhV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 4:06 | 2025-03-08 |  |
-| [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2025-03-08 |  |
-| [Ride The Wave](https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:53 | 2025-03-09 |  |
+| [Perfect Soul](https://open.spotify.com/track/7CoiOXsrfI58wUZBt45HgL) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:59 | 2025-03-15 |  |
+| [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2025-03-08 | 2025-03-15 |
+| [Ride The Wave](https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:53 | 2025-03-09 | 2025-03-15 |
 | [Rotoscope](https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:35 | 2025-03-08 |  |
 | [Rule Of Nines](https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rule Of Nines](https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr) | 3:31 | 2025-03-08 |  |
 | [Secret Garden](https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:39 | 2025-03-08 |  |

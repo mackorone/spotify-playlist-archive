@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Anemos",
+        "url": "https://open.spotify.com/album/1VF9Rm0uk77TDbyx1TGZ6q"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166349,
+      "name": "Anemos",
+      "url": "https://open.spotify.com/track/1e5XW1oqa0zKu6fvklgw3Z"
+    },
+    {
+      "album": {
         "name": "Anima I",
         "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
       },
@@ -1136,6 +1158,24 @@
       "duration_ms": 189098,
       "name": "blood orange",
       "url": "https://open.spotify.com/track/7DP7g9bHXwa9QI5CEMxC0v"
+    },
+    {
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/7drDLG1fv14tS43OQS2igi"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/6jJzqzB4IYzlm04dlqnc0l"
     },
     {
       "album": {

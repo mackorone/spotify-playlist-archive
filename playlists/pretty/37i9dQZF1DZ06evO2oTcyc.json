@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 215740,
+  "num_followers": 215792,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAki0Ul9xR94UDLVEx10oNE",
+  "snapshot_id": "Z9IgAAAAAAAh+FZ10rvM01HXF3eJjQ2P",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evil Genius",
         "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 203161,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
     },
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Take Freestyle Remix (feat. Kodak Black)",
-        "url": "https://open.spotify.com/album/17gLxN7uVYy7gNAMUmhl0D"
+        "name": "FEMA (Finesse Elevate Motivate Achieve)",
+        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
       },
       "artists": [
         {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
-        },
-        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         }
       ],
-      "duration_ms": 222805,
-      "name": "One Take Freestyle Remix (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/0XUgIKMFqoQfbF04tapYOD"
+      "duration_ms": 203840,
+      "name": "Heart Mind",
+      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMA (Finesse Elevate Motivate Achieve)",
-        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
+        "name": "One Take Freestyle Remix (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/17gLxN7uVYy7gNAMUmhl0D"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
         },
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 203840,
-      "name": "Heart Mind",
-      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
+      "duration_ms": 222805,
+      "name": "One Take Freestyle Remix (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/0XUgIKMFqoQfbF04tapYOD"
     },
     {
       "added_at": null,
@@ -655,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gift For The Streets",
-        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 124235,
-      "name": "Nightmare Before Christmas",
-      "url": "https://open.spotify.com/track/64w8zS71nvU3JDQVIas4ND"
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     },
     {
       "added_at": null,
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Gift For The Streets",
+        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+      "duration_ms": 124235,
+      "name": "Nightmare Before Christmas",
+      "url": "https://open.spotify.com/track/64w8zS71nvU3JDQVIas4ND"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gift For The Streets",
-        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 165965,
-      "name": "Shit Show (feat. Veeze & Lil Yachty)",
-      "url": "https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gift For The Streets",
+        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 165965,
+      "name": "Shit Show (feat. Veeze & Lil Yachty)",
+      "url": "https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain Snow",
-        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 191598,
-      "name": "Rain Snow",
-      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 164038,
       "name": "MoshPit (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rain Snow",
+        "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 191598,
+      "name": "Rain Snow",
+      "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Banda MS en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Eslab\u00f3n Armado en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 226546,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/0ndx76oEmSTSg9sufUSTb5"
@@ -3918,10 +3918,52 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
       "url": "https://open.spotify.com/track/3Qz0eFeIC4tz2buxQS0quz"
+    },
+    {
+      "album": {
+        "name": "Cachondos Session #1 (feat. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel)",
+        "url": "https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297969,
+      "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
+      "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
     },
     {
       "album": {
@@ -4576,7 +4618,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 140117,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2JbFDUvqIzgcRfLXHS6mV2"
@@ -5514,6 +5556,24 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Cuento - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6KH5I74Q8OccGi5KLaxfDD"
     },
     {
       "album": {
@@ -9417,6 +9477,24 @@
     },
     {
       "album": {
+        "name": "flash y pose",
+        "url": "https://open.spotify.com/album/64D3u9SGPGXcG2nBOqCVg0"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152575,
+      "name": "flash y pose",
+      "url": "https://open.spotify.com/track/0Pg1kpLvT0TxWWLsDERTpV"
+    },
+    {
+      "album": {
         "name": "flashes",
         "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
       },
@@ -9432,7 +9510,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 185076,
       "name": "flashes",
       "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
@@ -11692,6 +11770,28 @@
       "duration_ms": 210960,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
+    },
+    {
+      "album": {
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168514,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
     },
     {
       "album": {
@@ -14984,7 +15084,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 160736,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N"
@@ -17574,7 +17674,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 258303,
       "name": "Otra Mentira",
       "url": "https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q"
@@ -17658,6 +17758,24 @@
       "duration_ms": 169408,
       "name": "Otra Vez Pegue Un Vergazo",
       "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
+    },
+    {
+      "album": {
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222117,
+      "name": "OTRAS 24 HORAS",
+      "url": "https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0"
     },
     {
       "album": {
@@ -20187,6 +20305,24 @@
     },
     {
       "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+    },
+    {
+      "album": {
         "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
         "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
       },
@@ -21720,6 +21856,36 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "album": {
+        "name": "Sobra y Falta",
+        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190161,
+      "name": "Sobra y Falta",
+      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "album": {
@@ -23814,7 +23980,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 250434,
       "name": "Tu Amor Es M\u00edo",
       "url": "https://open.spotify.com/track/69yi8lHc0rjIkzaCYU3xTX"
@@ -25329,6 +25495,28 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5k8YFWvpGR6gd3NhrTJKEF"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        },
+        {
+          "name": "Mare Advertencia",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146743,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4ySgR9BaxtNEiDCFtsfXhS"
+    },
+    {
+      "album": {
         "name": "Wannabe - Spotify Singles",
         "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
@@ -25442,7 +25630,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 240570,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/7LYeUOPupD3SFkOianhywD"
@@ -25840,7 +26028,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 213674,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
@@ -26420,6 +26608,24 @@
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Esperabas?",
+        "url": "https://open.spotify.com/album/3Jk3zsszJyMascQL5XllLh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192976,
+      "name": "\u00bfQu\u00e9 Esperabas?",
+      "url": "https://open.spotify.com/track/6fGd8PEso2vyufhfxxioPg"
     },
     {
       "album": {

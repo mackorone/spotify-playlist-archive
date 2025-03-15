@@ -2,9 +2,9 @@
 
 ### [Most Favored](https://open.spotify.com/playlist/37i9dQZF1DXdgckExLlG1g)
 
-> The top Christian songs worldwide!  Cover: CeCe Winans
+> The top Christian songs worldwide!  Cover: Brandon Lake
 
-143 songs - 11 hr 30 min
+144 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Hang On](https://open.spotify.com/track/6ZajZwXtBG9Rqu2MbKf5c0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Survival \(feat\. Drew & Ellie Holcomb\)](https://open.spotify.com/album/7hIfZcLmbhRu27mSqiMFrd) | 4:15 | 2020-08-14 | 2024-05-03 |
 | [Hang On](https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:15 | 2020-08-14 | 2024-04-19 |
 | [Hard Fought Hallelujah](https://open.spotify.com/track/3XGyVFaeMPGvjCF3ZTnUI3) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah: Heavyweight Edition](https://open.spotify.com/album/4eHLnBJidoQTVsreVhE5TX) | 5:16 | 2025-02-14 |  |
+| [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 | 2025-03-14 |  |
 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 | 2020-08-14 | 2024-05-03 |
 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 | 2020-08-14 | 2024-06-23 |
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2024-03-19 |  |
@@ -76,7 +77,7 @@
 | [King of My Heart \(Live\)](https://open.spotify.com/track/7mj5fT0Biju5jR41m9ghUl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0) | 4:59 | 2020-08-14 | 2024-06-23 |
 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 | 2020-08-14 | 2024-04-19 |
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2020-08-14 | 2024-06-23 |
-| [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 | 2020-08-14 |  |
+| [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 | 2020-08-14 | 2025-03-15 |
 | [Let Me Know](https://open.spotify.com/track/3cvy5GqiSoyTtPuJhByJF9) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let Me Know](https://open.spotify.com/album/5JyMSfr2tpXwZ7v4UyJRyn) | 3:10 | 2020-08-14 | 2024-06-23 |
 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 | 2020-08-14 | 2024-05-03 |
 | [Look At God](https://open.spotify.com/track/7ceDwTeqT1nW19BCiwtQE4) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God \(Deluxe\)](https://open.spotify.com/album/3Vs240nBf77WCUiuEt4uHg) | 3:39 | 2024-06-22 |  |

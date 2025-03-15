@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 14275,
+  "num_followers": 14287,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABr+/Xo8yNg203Sh/sLh7L/",
+  "snapshot_id": "Z9IgAAAAAACln+QcsrqdL+Sr37lulwyR",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Cut Throat",
-      "url": "https://open.spotify.com/track/0uSCW9vv8Vo4kGlSfemJ80"
+      "duration_ms": 128586,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 128586,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
+      "duration_ms": 181226,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/0uSCW9vv8Vo4kGlSfemJ80"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 171160,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO"
+      "duration_ms": 258293,
+      "name": "Whisper Of Death",
+      "url": "https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 325026,
-      "name": "What Have I Done?",
-      "url": "https://open.spotify.com/track/3emGJN0Mc6vibbn50avynV"
+      "duration_ms": 171160,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 258293,
-      "name": "Whisper Of Death",
-      "url": "https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q"
+      "duration_ms": 325026,
+      "name": "What Have I Done?",
+      "url": "https://open.spotify.com/track/3emGJN0Mc6vibbn50avynV"
     }
   ],
   "unique_name": "This Is Kittie",

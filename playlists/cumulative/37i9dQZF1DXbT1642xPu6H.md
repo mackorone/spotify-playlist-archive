@@ -4,7 +4,7 @@
 
 > Musiquita, calorcito y pura buena vibra 🌞✨
 
-420 songs - 22 hr 10 min
+421 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-03-25 | 2022-08-17 |
 | [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 | 2024-09-27 |  |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-26 | 2024-07-22 |
-| [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-12 |  |
+| [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-12 | 2025-03-15 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-23 |  |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2022-01-14 | 2022-03-03 |
 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 | 2022-12-16 | 2023-01-07 |
@@ -65,6 +65,7 @@
 | [Bésame](https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bésame](https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT) | 2:50 | 2022-01-14 | 2022-07-15 |
 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 | 2024-07-19 | 2024-08-31 |
 | [Call Me](https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 2:50 | 2024-06-07 | 2024-07-25 |
+| [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 | 2025-03-14 |  |
 | [Calla \- Montoya Remix](https://open.spotify.com/track/2lWhgUd8Yy2utpoEXVAPXX) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa) | [Venus & Blue \- RMX](https://open.spotify.com/album/2UCDLB1uOC3PsCn2zK7G69) | 3:53 | 2024-05-03 | 2024-05-18 |
 | [Callejera](https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/1Q0pBlUdKI9x3ueSfFRIas) | 3:43 | 2022-01-28 | 2022-02-25 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-01-13 |  |

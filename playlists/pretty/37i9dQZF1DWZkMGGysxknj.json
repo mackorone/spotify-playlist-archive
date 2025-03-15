@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 866442,
+  "num_followers": 866424,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
+      },
+      "artists": [
+        {
+          "name": "Powell Sullivan",
+          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
+        }
+      ],
+      "duration_ms": 281302,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
-      },
-      "artists": [
-        {
-          "name": "Powell Sullivan",
-          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
-        }
-      ],
-      "duration_ms": 281302,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
       },
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -967,8 +967,8 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
         {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
         }
       ],
-      "duration_ms": 187741,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+        "name": "23",
+        "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+      "duration_ms": 187741,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Acoustic Visions",
+        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
+      },
+      "artists": [
+        {
+          "name": "Veil",
+          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "La Marelle / Amarelinha",
         "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Acoustic Visions",
-        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
-      },
-      "artists": [
-        {
-          "name": "Veil",
-          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 198007,
-      "name": "Heather - Acoustic",
-      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 182118,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 198007,
+      "name": "Heather - Acoustic",
+      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Want It That Way (Acoustic)",
         "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 224722,
       "name": "Rare",
       "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2167,26 +2167,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Detalles",
         "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 194310,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
     },
     {
-      "added_at": "2024-06-27 18:23:04",
-      "album": {
-        "name": "Sentir Que No Sabes",
-        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "Pantalla azul",
-      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
-    },
-    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
         "name": "No Regrets",
@@ -2295,6 +2279,22 @@
       "duration_ms": 187389,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
+    },
+    {
+      "added_at": "2024-06-27 18:23:04",
+      "album": {
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "Pantalla azul",
+      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Nothing Breaks Like a Heart",
-        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Nothing Breaks Like a Heart",
-      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 253872,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Nothing Breaks Like a Heart",
+        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 203261,
+      "name": "Nothing Breaks Like a Heart",
+      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "The Day That We First Met",
         "url": "https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 220962,
       "name": "The Day That We First Met",
       "url": "https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
     },
     {
       "added_at": "2023-06-09 14:25:05",

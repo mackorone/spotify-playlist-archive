@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,443 likes - 219 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,455 likes - 219 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 23 | [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 |
 | 24 | [Nighttime](https://open.spotify.com/track/7lOIqEy05P44D2ZDDrUEF4) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Nighttime](https://open.spotify.com/album/7hDXLdzwTJ5GqB7T0A5bnb) | 2:39 |
 | 25 | [Soft Focus](https://open.spotify.com/track/2RnZhye8X48n6dhZakrI1T) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Soft Focus](https://open.spotify.com/album/5sSjbQbNspCTJIy1f3pZsc) | 2:39 |
-| 26 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
-| 27 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
-| 28 | [dans le parc](https://open.spotify.com/track/2uEp6wdb5UNAYFNBkWmt3J) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [dans le parc](https://open.spotify.com/album/6pRsfveEQb6awaB89uGeIa) | 2:12 |
-| 29 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
+| 26 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
+| 27 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
+| 28 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
+| 29 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
 | 30 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
 | 31 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 |
 | 32 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 218 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 | 219 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 |
 
-Snapshot ID: `Z9AzVgAAAACuRuLD1+t3nYBWgJhnWvRV`
+Snapshot ID: `Z9OpxAAAAABaP+GwM2/Hk0BRbKoq+A9P`

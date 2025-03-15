@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Florentina, FOURTY
 
-185 songs - 8 hr 22 min
+186 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Lautlos](https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Lautlos](https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW) | 2:53 | 2024-06-28 |  |
 | [LEERER MAGEN](https://open.spotify.com/track/00XmE56Q9wZ6ztUrCRYW4D) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [WINTERALBUM](https://open.spotify.com/album/0aCmXX2zKcQQ0JY6YBhvlh) | 2:25 | 2025-03-03 |  |
 | [Let me love you](https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Let me love you](https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX) | 2:47 | 2024-06-28 |  |
-| [LEUCHTTURM](https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [LEUCHTTURM](https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus) | 2:33 | 2024-12-09 |  |
+| [LEUCHTTURM](https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [LEUCHTTURM](https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus) | 2:33 | 2024-12-09 | 2025-03-15 |
 | [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-06 |  |
 | [Liebe = Schmerz](https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Liebe = Schmerz](https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK) | 2:37 | 2024-06-28 |  |
 | [Liebe ist ein Dieb](https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Liebe ist ein Dieb](https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW) | 3:11 | 2024-06-28 |  |
@@ -192,6 +192,7 @@
 | [Wünsch mir was](https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [Mufasa](https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1) | 3:15 | 2024-08-01 | 2025-01-21 |
 | [Yay](https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:05 | 2025-01-16 |  |
 | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu) | 2:31 | 2024-06-28 | 2024-12-10 |
+| [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 | 2025-03-14 |  |
 | [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2024-06-28 | 2024-08-13 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

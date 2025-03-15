@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 51386,
+  "num_followers": 51388,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAhyREoBebXRJNy79fNdsQS",
+  "snapshot_id": "Z9IgAAAAAADwXDbGDhE1N/z6op4nB4lM",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 327760,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Prine (Live)",
         "url": "https://open.spotify.com/album/1jfc5Hverd9LT9GQ4N1al1"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 256665,
       "name": "Angel from Montgomery - Live",
       "url": "https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 327760,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
     },
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
       "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 271133,
-      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
+      "duration_ms": 289970,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
       "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 289970,
-      "name": "Have A Heart",
-      "url": "https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC"
+      "duration_ms": 271133,
+      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souls Alike",
-        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "I Will Not Be Broken",
-      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163266,
       "name": "Papa Come Quick (Jody And Chico)",
       "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 178733,
-      "name": "Too Long at the Fair - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+      "duration_ms": 180000,
+      "name": "Guilty - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Too Long at the Fair - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay Awake (Various Interpretations Of Music From Vintage Disney Films)",
         "url": "https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0"
       },
@@ -807,54 +823,6 @@
       "duration_ms": 194160,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Guilty - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "Give It Up or Let Me Go - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "Too Soon To Tell",
-      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
     },
     {
       "added_at": null,
@@ -879,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
       "artists": [
         {
@@ -888,9 +856,25 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 186200,
-      "name": "Since I Fell for You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
+      "duration_ms": 225866,
+      "name": "Too Soon To Tell",
+      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "Give It Up or Let Me Go - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
     },
     {
       "added_at": null,
@@ -907,6 +891,22 @@
       "duration_ms": 212106,
       "name": "Not Cause I Wanted To",
       "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Since I Fell for You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

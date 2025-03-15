@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,526 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,545 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 39 | [Coal](https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 5:03 |
 | 40 | [Central Disposal](https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:16 |
 
-Snapshot ID: `Z9DOgAAAAACcIwvsfcmmg2HRhkI/xMhu`
+Snapshot ID: `Z9IgAAAAAAAoKM/izQpFvG41RotS9Zkb`

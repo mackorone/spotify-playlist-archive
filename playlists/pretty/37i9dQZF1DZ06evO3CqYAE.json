@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12117,
+  "num_followers": 12123,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB45r81od7J+1ycnq2YT1Oz",
+  "snapshot_id": "Z9IgAAAAAAC9j/gcTl3STQwC9UrZNqxC",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 394170,
-      "name": "Omekannaya",
-      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 629497,
       "name": "Who Is on the Lord's Side",
       "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 394170,
+      "name": "Omekannaya",
+      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyedikagi (feat. Glowrie)",
-        "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Glowrie",
-          "url": "https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF"
-        }
-      ],
-      "duration_ms": 297966,
-      "name": "Onyedikagi (feat. Glowrie)",
-      "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bank Statements",
         "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 265168,
       "name": "Selense",
       "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onyedikagi (feat. Glowrie)",
+        "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Glowrie",
+          "url": "https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF"
+        }
+      ],
+      "duration_ms": 297966,
+      "name": "Onyedikagi (feat. Glowrie)",
+      "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
     },
     {
       "added_at": null,

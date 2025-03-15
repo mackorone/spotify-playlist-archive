@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "A curated space for the avant-garde. Cover: Saya Gray",
+  "description": "A curated space for the avant-garde. Cover: feeble little horse",
   "name": "Proto-",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 89000,
       "name": "1",
       "url": "https://open.spotify.com/track/47J3UVkoAlEEcr4tguk4ph"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "11",
+      "url": "https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum"
     },
     {
       "album": {
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 207328,
       "name": "Alien",
       "url": "https://open.spotify.com/track/1PbrH4QqeDYAgWETiRUjms"
@@ -1957,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "As Fast as I Can",
+        "url": "https://open.spotify.com/album/6ZTTykFPE3rbc3I7Qv62qm"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251082,
+      "name": "As Fast as I Can",
+      "url": "https://open.spotify.com/track/4pdGAWBW9VTLO5ENRCbiCx"
+    },
+    {
+      "album": {
         "name": "Exodus the North Star",
         "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
       },
@@ -2038,6 +2074,24 @@
       "duration_ms": 130909,
       "name": "at the rave with my friends",
       "url": "https://open.spotify.com/track/2TTtiZDspLBtORpnzWApjh"
+    },
+    {
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/01LsRo6skB6am9Gv3vzLx7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149338,
+      "name": "ATE",
+      "url": "https://open.spotify.com/track/1vGRFJKPAg5OucTGYZtKIm"
     },
     {
       "album": {
@@ -4388,7 +4442,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 205365,
       "name": "Cash Now",
       "url": "https://open.spotify.com/track/0IfL7mZXy9sgnbxgDewezW"
@@ -4446,6 +4500,24 @@
       "duration_ms": 95838,
       "name": "CATCH 22",
       "url": "https://open.spotify.com/track/61eEF4qIHhrJsE8CF1R5kX"
+    },
+    {
+      "album": {
+        "name": "Caught by a wind (BFF Remix)",
+        "url": "https://open.spotify.com/album/5bc056yR8YXTmZIzioAEz4"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211903,
+      "name": "Caught by a wind - BFF Remix",
+      "url": "https://open.spotify.com/track/3rWhcc83PqPmQhQdYnysW8"
     },
     {
       "album": {
@@ -5256,6 +5328,24 @@
       "duration_ms": 187508,
       "name": "Clusterfunk",
       "url": "https://open.spotify.com/track/72XBKleAwVl37YC6m17jAe"
+    },
+    {
+      "album": {
+        "name": "Rocky Top Ballads",
+        "url": "https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/1xjOyEsItiTaBgmaR4zj6I"
     },
     {
       "album": {
@@ -8080,7 +8170,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 167507,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
@@ -11118,7 +11208,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 179081,
       "name": "Hacker",
       "url": "https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY"
@@ -11464,7 +11554,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 219611,
       "name": "Haut Contre Bas",
       "url": "https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z"
@@ -11704,7 +11794,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 145151,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
@@ -15204,7 +15294,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
@@ -15736,7 +15826,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 196506,
       "name": "Loud with you (Angel)",
       "url": "https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell"
@@ -18076,7 +18166,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 127594,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
@@ -19291,6 +19381,24 @@
     },
     {
       "album": {
+        "name": "Open the Fucking Fantasy",
+        "url": "https://open.spotify.com/album/75p0pWHg0rI099r6msRA6t"
+      },
+      "artists": [
+        {
+          "name": "Black Moth Super Rainbow",
+          "url": "https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240384,
+      "name": "Open the Fucking Fantasy",
+      "url": "https://open.spotify.com/track/25CSMOyPNhNyNDYWaUxWs9"
+    },
+    {
+      "album": {
         "name": "Rye Lane (Suite)",
         "url": "https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob"
       },
@@ -20296,7 +20404,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 253482,
       "name": "Poeira Cosmica",
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
@@ -20863,6 +20971,24 @@
     },
     {
       "album": {
+        "name": "Pura",
+        "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Pura",
+      "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
+    },
+    {
+      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
@@ -21020,6 +21146,28 @@
       "duration_ms": 322946,
       "name": "R U A Literal Child ?",
       "url": "https://open.spotify.com/track/36oZ8vKFpmcTT6cmQ0pw0o"
+    },
+    {
+      "album": {
+        "name": "raat ki rani (Khruangbin Remix)",
+        "url": "https://open.spotify.com/album/0hHxD2fUWlqAcjXwIIiqaj"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275531,
+      "name": "raat ki rani - Khruangbin Remix",
+      "url": "https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA"
     },
     {
       "album": {
@@ -21310,6 +21458,24 @@
       "duration_ms": 147469,
       "name": "REMAINS",
       "url": "https://open.spotify.com/track/4BPPPRElbcsEcTYV1gBDCk"
+    },
+    {
+      "album": {
+        "name": "reprogram",
+        "url": "https://open.spotify.com/album/4vG6oCFDcJJotl40kHwKE6"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190937,
+      "name": "reprogram",
+      "url": "https://open.spotify.com/track/3rnu806sQS4sNydAjQRhdO"
     },
     {
       "album": {
@@ -26348,6 +26514,24 @@
       "duration_ms": 168080,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/6FCJvxECH7V1IGwW2rYH1u"
+    },
+    {
+      "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187351,
+      "name": "This Is Real",
+      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
     },
     {
       "album": {

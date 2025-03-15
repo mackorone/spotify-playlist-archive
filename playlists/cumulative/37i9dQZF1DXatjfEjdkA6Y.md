@@ -2,7 +2,7 @@
 
 ### [Eurovision Gold](https://open.spotify.com/playlist/37i9dQZF1DXatjfEjdkA6Y)
 
-> The highlights of Eurovision from the 50s, 60s & 70s\. Cover: Sandie Shaw
+> The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
 71 songs - 3 hr 31 min
 

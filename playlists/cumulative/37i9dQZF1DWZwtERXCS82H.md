@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-799 songs - 1 day 10 hr 34 min
+800 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-06 |  |
 | [Helgoland](https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu) | [Filip Klein](https://open.spotify.com/artist/5TEPJRzplaEk3hEaFSM11w) | [Helgoland](https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g) | 2:26 | 2022-04-15 | 2023-05-04 |
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-04-15 | 2022-11-19 |
+| [Hemma](https://open.spotify.com/track/4bxyy4ZscSjyo7oXfink7z) | [Carl Sture](https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ) | [Hemma](https://open.spotify.com/album/5ncrTGHYzOvqoRQf808O2R) | 2:36 | 2025-03-14 |  |
 | [Her Dream](https://open.spotify.com/track/3adxyTRJURExUFC2NAJGON) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [Her Dream](https://open.spotify.com/album/34h5iQ3bNvI4TNUIP0Laaf) | 2:38 | 2024-02-27 |  |
 | [Hesitation](https://open.spotify.com/track/1M3g85FhPtucLX893XDtu7) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Hesitation](https://open.spotify.com/album/1YsXA9uFTY4uriq3jh5lt4) | 2:25 | 2024-12-17 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-15 | 2022-12-24 |

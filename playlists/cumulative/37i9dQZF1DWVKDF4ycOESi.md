@@ -4,7 +4,7 @@
 
 > Rose Villain in cover + le migliori uscite della settimana! Con brani di Chappell Roan, Calvin Harris, Selena Gomez e tanti altri.
 
-3,980 songs - 8 day 9 hr 10 min
+3,981 songs - 8 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2025-02-14 |
 | [Acelera](https://open.spotify.com/track/0IFP432yqZum54SnELuKHH) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [L'eleganza Della Street](https://open.spotify.com/album/3jwHgsNToxnw120gIgtbAN) | 2:15 | 2024-07-25 | 2024-08-02 |
 | [Acida](https://open.spotify.com/track/4IS3geiYFa0aAipvV0BWSl) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Acida](https://open.spotify.com/album/7HabEuPnqjcwkukJp5u5ad) | 2:32 | 2024-04-26 | 2024-05-03 |
-| [Acqua](https://open.spotify.com/track/4s2KWIhjkjY9Hmy6Ah1PW8) | [Francis La Potencia](https://open.spotify.com/artist/6uR8TJ7sfw9WjKb73NUYBr), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU) | [Acqua](https://open.spotify.com/album/0ReRtsbaTZCKdcxyw892rD) | 2:05 | 2025-03-14 |  |
+| [Acqua](https://open.spotify.com/track/4s2KWIhjkjY9Hmy6Ah1PW8) | [Francis La Potencia](https://open.spotify.com/artist/6uR8TJ7sfw9WjKb73NUYBr), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ), [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU) | [Acqua](https://open.spotify.com/album/0ReRtsbaTZCKdcxyw892rD) | 2:05 | 2025-03-14 |  |
 | [Acqua](https://open.spotify.com/track/0QDTFzLlUiTNnUBzctA1jC) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Acqua](https://open.spotify.com/album/7de7ckXQSsG6lqqvL3e6VI) | 2:45 | 2025-01-10 | 2025-01-17 |
 | [Acqua & Olio \(feat\. Quentin40\)](https://open.spotify.com/track/53HYWKlvlBbz4sNaeAb4Ds) | [9ova](https://open.spotify.com/artist/40ScoYJJAlWfFVrBmIQvJO), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [L'Estremità del Cerchio](https://open.spotify.com/album/4KNaxkBnTri4P0SrsDX8Yr) | 2:42 | 2025-03-14 |  |
 | [ACQUA DEL MARE](https://open.spotify.com/track/4GKt6n2Qhlcgnn1s2Ho1jX) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/1AAjhJOWq6hwnDe9gF4jpY) | 2:39 | 2025-02-06 | 2025-02-14 |
@@ -1548,6 +1548,7 @@
 | [Hooligans](https://open.spotify.com/track/31v4wB0mU8e2D2sijFXTfM) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Hooligans](https://open.spotify.com/album/1PyF7HnieKGg8HtJHdYl0J) | 3:02 | 2025-02-27 | 2025-03-07 |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-03 | 2024-10-11 |
 | [Hope \(feat\. Izi, Joshua\)](https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [Hope \(feat\. Izi, Joshua\)](https://open.spotify.com/album/7EmZ4NfzW70p91UuysLPQw) | 2:51 | 2024-10-03 | 2024-10-11 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-07-25 | 2024-08-02 |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-06-27 | 2024-07-05 |
 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 | 2025-03-14 |  |

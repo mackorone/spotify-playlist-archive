@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 232269,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
@@ -3806,7 +3806,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
@@ -4508,7 +4508,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 366368,
       "name": "Loca de Amor - Vestido Azul",
       "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
@@ -6931,6 +6931,24 @@
     },
     {
       "album": {
+        "name": "Por esa Amante",
+        "url": "https://open.spotify.com/album/5Kf6EQSLGAD5AvTdtZAfdY"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191796,
+      "name": "Por esa Amante",
+      "url": "https://open.spotify.com/track/4TaskmHGyktWYQxj3Q1D3W"
+    },
+    {
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -6964,7 +6982,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 547541,
       "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos - En Vivo",
       "url": "https://open.spotify.com/track/5CNL6wtodffbjXzTwKzYS2"
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 181600,
       "name": "Son De Amores",
       "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
@@ -9514,7 +9532,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 147096,
       "name": "Tututu Tatata",
       "url": "https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs"
@@ -9816,7 +9834,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 171200,
       "name": "Vengo De Enga\u00f1arte",
       "url": "https://open.spotify.com/track/4IbiDl3a7dW6MCbXgA3u48"
@@ -9950,6 +9968,32 @@
       "duration_ms": 281300,
       "name": "VOLVI\u00d3 LA LOCA",
       "url": "https://open.spotify.com/track/3gFX9qkdmHo6FjsesyXjzA"
+    },
+    {
+      "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170580,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > roots run deep
 
-364 songs - 21 hr 49 min
+367 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-02-24 | 2023-06-08 |
 | [Family Ground](https://open.spotify.com/track/6d3Ue0kwKNcjNQadYK2hGj) | [Erik Dylan](https://open.spotify.com/artist/4Lnd7Ix0gpCGpdKjns4gG8) | [Family Ground](https://open.spotify.com/album/2mWYApb9pT1LspgZakolFg) | 2:53 | 2023-08-25 | 2023-12-09 |
 | [Fast Asleep](https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fast Asleep](https://open.spotify.com/album/7dWMAoJMvXjPhb1XsDYMiA) | 4:32 | 2024-05-24 |  |
-| [Father in a Bible](https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Father in a Bible](https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8) | 2:38 | 2025-01-10 |  |
+| [Father in a Bible](https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Father in a Bible](https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8) | 2:38 | 2025-01-10 | 2025-03-15 |
 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Father’s Søn \(Acoustic\)](https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN) | 4:32 | 2024-09-13 | 2025-01-03 |
 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 | 2023-02-24 |  |
 | [February 28, 2016](https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:53 | 2023-02-24 | 2023-08-21 |
@@ -135,6 +135,7 @@
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2023-09-26 | 2024-01-19 |
 | [Good Godly Woman](https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Good Godly Woman](https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw) | 2:27 | 2023-09-28 | 2024-10-05 |
 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 | 2024-08-09 |  |
+| [Good While It Lasted](https://open.spotify.com/track/3URnvhDLXtkLegFuTZHRcz) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Foxes in the Snow](https://open.spotify.com/album/6OgNgnMcqhcDw01qXlw8el) | 4:03 | 2025-03-14 |  |
 | [Goodbye World](https://open.spotify.com/track/2R1FGbXB0bELZvaP1hmOmz) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Sunday Morning](https://open.spotify.com/album/2A9iLSQg4UvUDFBOMxWaoo) | 3:28 | 2023-05-19 | 2023-07-01 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2023-10-14 |  |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2023-05-22 | 2024-03-21 |
@@ -282,6 +283,7 @@
 | [Shoot Me Dead](https://open.spotify.com/track/2qV5Sgj3rVBy2KtsjdqIzm) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Shoot Me Dead](https://open.spotify.com/album/5Ovxe69fwJM3P5wUNq9e3L) | 3:12 | 2024-02-16 | 2024-04-19 |
 | [Shoot Me Dead](https://open.spotify.com/track/2sSZcyay828i4F5Aa5zrtX) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Shoot Me Dead](https://open.spotify.com/album/7EEzZS0LD8bMPPN0S3vSx0) | 3:12 | 2024-01-31 | 2024-09-14 |
 | [Silver Lining](https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:50 | 2023-03-24 | 2023-12-09 |
+| [Sky Blue](https://open.spotify.com/track/4IMayd9glLKCOs8cCg5FyS) | [Max Alan](https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr) | [Sky Blue](https://open.spotify.com/album/51Zxjby45UKpN4XCutR6bh) | 3:38 | 2025-03-14 |  |
 | [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 | 2023-08-04 |  |
 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 | 2023-02-24 | 2024-08-29 |
 | [Sleeping Alone](https://open.spotify.com/track/7KgpoK5WCefGCvjMl635Nh) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/46iIgbFvYElruf1xWRri1h) | 3:50 | 2023-12-13 | 2024-04-19 |
@@ -342,6 +344,7 @@
 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2025-01-10 |  |
 | [West Of Tulsa](https://open.spotify.com/track/30CTixQQMXTkbBUKrLQpbe) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [West Of Tulsa](https://open.spotify.com/album/42B5HibLdk0bbfsG8atoOU) | 3:23 | 2023-09-22 | 2023-11-23 |
 | [Western White Pines](https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw) | 4:07 | 2023-02-24 |  |
+| [What You Don't Know](https://open.spotify.com/track/3kSZUbS1EXE5xaOt1VDmCV) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [What You Don't Know](https://open.spotify.com/album/6pPjnREffMBPUyQhfgpwgr) | 2:21 | 2025-03-14 |  |
 | [Where I'm Coming From](https://open.spotify.com/track/3uZMREE8Fl1MFBeSYqFKzd) | [Brandon Ratcliff](https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy) | [Tale Of Two Towns](https://open.spotify.com/album/5hdl5UuvcEx54G413hxZvh) | 3:35 | 2023-04-21 | 2023-12-14 |
 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 | 2024-12-06 |  |
 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 | 2023-11-10 | 2023-12-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Arrolladora Banda el Lim\u00f3n en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 199464,
       "name": "Aqu\u00ed No Se Termina (En Vivo)",
       "url": "https://open.spotify.com/track/3Z6U51tUSNL2exhjJj2o3g"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 310334,
       "name": "El Ausente / La Guarecita - En Vivo",
       "url": "https://open.spotify.com/track/4je5zERTJ84iHLkpq9tGvq"
@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 208413,
       "name": "Entre Botellas",
       "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
@@ -3822,6 +3822,28 @@
       "duration_ms": 202026,
       "name": "La Contrase\u00f1a De Tu Cuerpo",
       "url": "https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH"
+    },
+    {
+      "album": {
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168514,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
     },
     {
       "album": {
@@ -5688,6 +5710,28 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "album": {
@@ -8764,7 +8808,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 174813,
       "name": "Zona De Amigos",
       "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Ardhito Pramono
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,656 likes - 98 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,739 likes - 98 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 86 | [Sekedar Teman](https://open.spotify.com/track/0abh43WxmGV9w3Z8rdhxaA) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Sekedar Teman](https://open.spotify.com/album/2Rh15YtEdi5cQyO9hUoY7l) | 3:14 |
 | 87 | [Bintang](https://open.spotify.com/track/1F621OqnTgIzmPBvpuPluo) | [Angelia](https://open.spotify.com/artist/36fEQ5HhPlwBfeE6HlET0t) | [Bintang](https://open.spotify.com/album/0KQcljWtch965bLq5OPYCS) | 3:59 |
 | 88 | [Sunny](https://open.spotify.com/track/3xDn55ZJ7rLVRHatqgLnKe) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK), [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Bapak](https://open.spotify.com/album/2UYAW0k92IScW5aI0ulo1E) | 4:25 |
-| 89 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
+| 89 | [Tanpa Balasmu \("Tabayyun" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Tanpa Balasmu \(From "Tabayyun"\)](https://open.spotify.com/album/39uJE4gRHXClSwiDs69DPS) | 4:18 |
 | 90 | [Sujud DihadapMu](https://open.spotify.com/track/5j3Nxzfmcv17UIY2MUQLOF) | [Anisa Rahman](https://open.spotify.com/artist/2xsucw8Ag30Ny2dWgofp1d) | [Sujud DihadapMu](https://open.spotify.com/album/4WFCixBXKCmPBSuEDyYWXZ) | 4:36 |
 | 91 | [Asa Di Senja](https://open.spotify.com/track/7sBAuuyzliBRwLkEtP58wi) | [SEGARA](https://open.spotify.com/artist/6D1hynXv1xe0FGapcZBuGv) | [Asa Di Senja](https://open.spotify.com/album/0cQrB9ZV5a5AizFIfWkQxs) | 3:25 |
 | 92 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 |

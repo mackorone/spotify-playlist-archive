@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rosa Ree
 
-227 songs - 12 hr 42 min
+228 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ) | [Leone](https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP) | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS) | 4:14 | 2022-05-27 | 2023-09-16 |
 | [Gangster Tendencies](https://open.spotify.com/track/5alssGGzqvPB3BsetB3dee) | [Sanja Kong](https://open.spotify.com/artist/55q78Mg6CQqciS0WHDwaEs), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Gangster Tendencies](https://open.spotify.com/album/5WFlzOTgQah4uHOwJkmgyV) | 2:46 | 2024-05-16 | 2024-11-08 |
 | [Glory](https://open.spotify.com/track/71l944iHhGOsZctedw8t4a) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/0XrX0AFNhaz5uWuzV9tdIH) | [Glory](https://open.spotify.com/album/7GTHmMI3oRIuz3VDv6ekp8) | 2:54 | 2024-08-22 |  |
+| [God's Calling](https://open.spotify.com/track/4N58tjFFd8zrTG5S9TqrRm) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [God's Calling](https://open.spotify.com/album/5gNmYmdcx1brQXsPTEfqlJ) | 3:20 | 2025-03-14 |  |
 | [Good Vibes Only](https://open.spotify.com/track/767sgj41tpoJkOjfbCer1W) | [Wednesdaytie](https://open.spotify.com/artist/46OoU9zEjI0CbVpQYozPYK) | [Good Vibes Only](https://open.spotify.com/album/0sCoGzxZQ9UgxPj2r0f0IO) | 3:24 | 2022-05-27 | 2023-04-21 |
 | [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 | 2022-03-28 | 2023-10-16 |
 | [Hatuna Kesi](https://open.spotify.com/track/7hhMqQaGTmiQgS5a8HIPvw) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [BELLE 9](https://open.spotify.com/artist/2QFZXITfzIsjCiKBLdzESZ) | [Hatuna Kesi](https://open.spotify.com/album/7wC7ZrdSNo34fSvgitb4o5) | 3:17 | 2023-09-21 | 2023-12-09 |

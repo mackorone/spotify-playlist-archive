@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Javiera Mena y Santiago Motorizado
 
-528 songs - 1 day 7 hr 36 min
+529 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Al Borde del Abismo](https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo) | [Al Borde del Abismo](https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten) | 3:09 | 2022-04-15 | 2023-01-28 |
 | [Al Norte](https://open.spotify.com/track/34ztqmhrKX3aaARaXKr8vP) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8) | 2:53 | 2023-10-27 | 2024-04-19 |
 | [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 | 2023-11-01 |
+| [Alcohol, alcohol](https://open.spotify.com/track/0vhkpPpWnFP2p9d6uSxNim) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Debut & Despedida](https://open.spotify.com/album/4fg9KlWMV1Y2M88eLuZuxW) | 3:42 | 2025-03-14 |  |
 | [algo más, algo menos](https://open.spotify.com/track/6XNL7GwuEhXYDgfw1dEtOz) | [Templada](https://open.spotify.com/artist/6WWrWdvZxk9o04pHUwS3Ka) | [Misiva](https://open.spotify.com/album/1RgRGtuZgoIXvzzUwEI31D) | 2:11 | 2022-04-15 | 2022-07-28 |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-01-20 | 2023-04-25 |
 | [Amanecer](https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Amanecer](https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS) | 2:44 | 2023-07-14 | 2023-08-17 |

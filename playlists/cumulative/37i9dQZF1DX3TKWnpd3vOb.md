@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: El Cómodo Silencio De Los Que Hablan Poco.
 
-308 songs - 19 hr 27 min
+309 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Amar en Silencio](https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Amar en Silencio](https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU) | 3:11 | 2022-04-08 | 2022-12-17 |
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
 | [Arauco Tiene una Pena](https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD), [Juanita Parra](https://open.spotify.com/artist/1cHf0iGXPhUQLfdkoE29Cj) | [Arauco Tiene una Pena](https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9) | 5:48 | 2023-09-08 |  |
-| [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 |  |
+| [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 | 2025-03-15 |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 | 2024-04-19 |
 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 | 2024-12-21 |
@@ -86,6 +86,7 @@
 | [Eclipse](https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Eclipse](https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I) | 5:19 | 2022-04-08 | 2024-08-31 |
 | [El As de Espadas](https://open.spotify.com/track/3ThndZ3i2hOcp54n87h4xc) | [Los Mox!](https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q) | [El As de Espadas](https://open.spotify.com/album/0oWW1AYG83mNnjWtt1DHUa) | 2:33 | 2022-04-08 | 2023-03-03 |
 | [El Detenido](https://open.spotify.com/track/5Me7VPFRjI9qs5pRbcW6ux) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [El Detenido](https://open.spotify.com/album/1yuzU28kJviQyvk7iwdNKF) | 5:11 | 2022-04-08 | 2022-07-29 |
+| [El Duelo](https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Duelo](https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg) | 5:55 | 2025-03-14 |  |
 | [El Hijo](https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [El Hijo](https://open.spotify.com/album/1yKNYNg08SNuCotBuKhNhp) | 1:51 | 2023-11-10 | 2024-08-31 |
 | [El Mundo Se Termina](https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:12 | 2023-06-23 | 2024-04-19 |
 | [El Mundo Se Termina](https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF) | 4:12 | 2022-07-08 | 2024-05-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 133426,
+  "num_followers": 133470,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -319,30 +319,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Messiah",
-        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Apollo's Fire",
-          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
-        },
-        {
-          "name": "Jeannette Sorrell",
-          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
-      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Italian Cantatas, Vol. 7",
         "url": "https://open.spotify.com/album/31JoLNy9sV0D728V4VS03y"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 318720,
       "name": "Apollo e Dafne, HWV 122: Aria: Felicissima quest'alma (Most fortunate is this soul) (Dafne)",
       "url": "https://open.spotify.com/track/3KHh3k2Ty3XQ2iRzklx6H3"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Messiah",
+        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Apollo's Fire",
+          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
+        },
+        {
+          "name": "Jeannette Sorrell",
+          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
+      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -807,30 +807,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water & Fireworks Music",
-        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Prague Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        }
-      ],
-      "duration_ms": 60480,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
-      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Belshazzar",
         "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 293920,
       "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
       "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water & Fireworks Music",
+        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Prague Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "duration_ms": 60480,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
+      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
     },
     {
       "added_at": "2022-06-28 08:56:25",

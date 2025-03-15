@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: Vera GRV.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,100 likes - 27 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,104 likes - 27 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 12 | [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 |
 | 13 | [Paloma Blanca](https://open.spotify.com/track/1oi48eToAddcIsSL5m8CVh) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Paloma Blanca](https://open.spotify.com/album/7IHiXQms4DlksORY5sMnYu) | 3:21 |
 | 14 | [LOKURA](https://open.spotify.com/track/2ceTylNropN8MsY6BqE5R7) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [LOKURA](https://open.spotify.com/album/5vQmgNAlnp04oqkimTY9mX) | 2:26 |
-| 15 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 |
+| 15 | [El lago de mi pena](https://open.spotify.com/track/2O9Dv1K2zHwF4j6jSApQLr) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 3:56 |
 | 16 | [BRILLO EN LOS DIENTES](https://open.spotify.com/track/6pwVgTHKcg1K6RHcVqk5Dt) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [BRILLO EN LOS DIENTES](https://open.spotify.com/album/2X2D3xdb5dpFn87CS8onNQ) | 2:18 |
-| 17 | [El lago de mi pena](https://open.spotify.com/track/2O9Dv1K2zHwF4j6jSApQLr) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 3:56 |
+| 17 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 |
 | 18 | [ENSÉÑAME EL AMOR](https://open.spotify.com/track/3PQ897UeSWPuKeSzVn148Z) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:33 |
 | 19 | [A la Orilla](https://open.spotify.com/track/3DC9tSYslFMhq15lmEpP9J) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:34 |
 | 20 | [Kit Kat](https://open.spotify.com/track/1IsBZNOBe54SDamBcDluJk) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Kit Kat](https://open.spotify.com/album/6vQKU94OvjcIw6L9BOkIcE) | 3:09 |

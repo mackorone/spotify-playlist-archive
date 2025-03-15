@@ -2993,6 +2993,42 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+    },
+    {
+      "album": {
+        "name": "Meu endere\u00e7o",
+        "url": "https://open.spotify.com/album/3c2Wo1WDCiSiRqHcYFcimB"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175449,
+      "name": "Meu endere\u00e7o",
+      "url": "https://open.spotify.com/track/57EKqPldxlr1H7DGw7xdAy"
+    },
+    {
+      "album": {
         "name": "chemistry",
         "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
       },
@@ -3344,7 +3380,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 139864,
       "name": "Nem disse adeus",
       "url": "https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK"
@@ -4420,7 +4456,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"

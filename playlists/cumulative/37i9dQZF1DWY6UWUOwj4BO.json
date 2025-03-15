@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "birds of a feather (acoustic)",
+        "url": "https://open.spotify.com/album/7LS87XiKzv8hWDhQH0EJU4"
+      },
+      "artists": [
+        {
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "birds of a feather - acoustic",
+      "url": "https://open.spotify.com/track/120VaTLpym9mSr5iym6MTG"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet Love (Acoustic)",
         "url": "https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 149233,
       "name": "I Ain\u2019t Worried - Acoustic",
       "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"

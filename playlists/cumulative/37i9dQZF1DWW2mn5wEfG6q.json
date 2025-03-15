@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "2013 highlights from the home of indie music. Cover: HAIM ",
+  "description": "The Indie highlights of 2013. Cover: HAIM ",
   "name": "Best of Indie 2013",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 228535,
       "name": "Childhood's End",
       "url": "https://open.spotify.com/track/0iPnIhG92tTN6tZ9RaSbZ3"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 188280,
       "name": "Devil Like Me",
       "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 233853,
       "name": "DNA",
       "url": "https://open.spotify.com/track/3WISqO5EtteMYlfpmJhqHg"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 246493,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/2Kt1XplPBQBsDKQDa6TssB"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 233986,
       "name": "Gun",
       "url": "https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 161973,
       "name": "Little Games",
       "url": "https://open.spotify.com/track/3Z8qysUNh2Rkee72WCZlrR"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 167986,
       "name": "New Flesh",
       "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 193853,
       "name": "On Our Way",
       "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 202921,
       "name": "One Minute More",
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 268455,
       "name": "Only",
       "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/7BFI9QZPQKgYuR2HhDgwbG"
@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "So Good At Being in Trouble",
+      "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/4o4SfH08cmiHk2aRlTcPqj"
       },
@@ -2434,10 +2452,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 187992,
       "name": "So High",
       "url": "https://open.spotify.com/track/6UUOkhXDWTqVYjzqNJ1F0x"
+    },
+    {
+      "album": {
+        "name": "Muchacho De Lujo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370200,
+      "name": "Song For Zula",
+      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
     },
     {
       "album": {
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 254037,
       "name": "This Song Is Not About A Girl",
       "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
@@ -2990,6 +3026,24 @@
     {
       "album": {
         "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
+    },
+    {
+      "album": {
+        "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
@@ -3018,7 +3072,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 259413,
       "name": "W.D.Y.W.F.M?",
       "url": "https://open.spotify.com/track/3vooOYHU0Fi3ViCG7Ozh0Y"
@@ -3036,7 +3090,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
@@ -3166,7 +3220,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 214373,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/31IxooDVO2GR9HRUSCdcRG"

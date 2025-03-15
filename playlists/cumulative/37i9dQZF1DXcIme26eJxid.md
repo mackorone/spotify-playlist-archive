@@ -2,9 +2,9 @@
 
 ### [Classic Afropop](https://open.spotify.com/playlist/37i9dQZF1DXcIme26eJxid)
 
-> The most known Afro\-pop classics, all in one place! Cover: <a href="https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq\_kGzYYw">Onyeka Onwenu </a>
+> The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-97 songs - 9 hr 48 min
+98 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 | 2019-06-28 | 2024-12-30 |
 | [Expensive Shit](https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 13:13 | 2019-06-28 | 2024-04-19 |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2019-06-28 |  |
+| [Fasiribo \(Apala\)](https://open.spotify.com/track/0W2js3dfXqZ94iTJ1Pr2aM) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Fasiribo \(Apala\)](https://open.spotify.com/album/3UGNAnKr2jO5xywIpMFprD) | 6:15 | 2025-03-14 |  |
 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 | 2020-04-07 |  |
 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 | 2019-06-28 | 2024-04-19 |
 | [Greetings](https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 6:13 | 2019-06-28 | 2025-02-16 |
@@ -92,7 +93,7 @@
 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 | 2020-04-07 | 2023-08-10 |
 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 | 2019-06-28 | 2023-10-10 |
 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 | 2019-06-28 | 2024-04-19 |
-| [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 | 2019-06-28 |  |
+| [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 | 2019-06-28 | 2025-03-15 |
 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 | 2019-06-28 | 2024-04-19 |
 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 | 2019-06-28 |  |
 | [Umqombothi](https://open.spotify.com/track/6GEJH8FPAGjWUuIbODfqj3) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [The Best Africa Album In The World...Ever!](https://open.spotify.com/album/3ZPCY10NmTf5etbsi0z89m) | 4:56 | 2019-06-28 | 2024-04-19 |

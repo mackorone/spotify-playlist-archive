@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: TWODAYS
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
 
-169 songs - 12 hr 7 min
+170 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [ซีเอฟ](https://open.spotify.com/track/7dD8rm1LPBoOiZQNhIvJXW) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ซีเอฟ](https://open.spotify.com/album/3xxQkoGktZRmwdbozuV77G) | 3:12 | 2024-12-13 | 2024-12-27 |
 | [ซึนๆ \(Let You Know\)](https://open.spotify.com/track/4nTArnXQvyGRlDuMsYwHe7) | [OFFICESYNDROME](https://open.spotify.com/artist/1tqOY4TeYRU7LY8cdIg4IH) | [ซึนๆ \(Let You Know\)](https://open.spotify.com/album/6Mnj1vp3WTivasKVxAxFTK) | 4:49 | 2025-02-28 |  |
 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 | 2024-06-21 |  |
-| [ดาว](https://open.spotify.com/track/2eHHwYf3WyzRIb6hRxrx8T) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [ดาว](https://open.spotify.com/album/5ehk1Bqb2rNpqx0PUUEi7D) | 3:57 | 2025-02-21 |  |
+| [ดาว](https://open.spotify.com/track/2eHHwYf3WyzRIb6hRxrx8T) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [ดาว](https://open.spotify.com/album/5ehk1Bqb2rNpqx0PUUEi7D) | 3:57 | 2025-02-21 | 2025-03-15 |
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 |  |
 | [ดีแล้ว](https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf) | [Methane](https://open.spotify.com/artist/6kNXwB8eVNq6jPJGTi0Vk7) | [ดีแล้ว](https://open.spotify.com/album/63IW4wzMkru6GvdLwCa8In) | 4:16 | 2024-07-19 | 2024-08-10 |
 | [ตลอดไป](https://open.spotify.com/track/5eTOts5kvMHOVDMtOqY6uX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [ตลอดไป](https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY) | 4:46 | 2024-06-21 | 2024-07-13 |
@@ -148,6 +148,7 @@
 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 | 2024-10-18 |  |
 | [เพียงอยากขอ](https://open.spotify.com/track/6VnYs6uSFxyHF5Pt8FIwSe) | [Laika](https://open.spotify.com/artist/3vHLiSEszIgPRLxivAPHO9) | [เพียงอยากขอ](https://open.spotify.com/album/7udF2bEMlmbpi9ufEiDneK) | 4:47 | 2024-06-21 | 2024-07-20 |
 | [เมื่อมันสายไป](https://open.spotify.com/track/3SAoSkEcPRmtgCtTxyTHPe) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [เมื่อมันสายไป](https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd) | 4:56 | 2024-06-21 | 2024-07-27 |
+| [เรือนกระจก](https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [Prologue](https://open.spotify.com/album/4mbA3xDu6tYvR6KsKNeEJ6) | 2:25 | 2025-03-14 |  |
 | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/track/1gyxasKOAUpWJYiL7hp9UQ) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ), [Tuey Mary James](https://open.spotify.com/artist/7jgKL0O8B5dWb4sVDHINnb) | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/album/7Ecml94MuK1wscTGhB0vbT) | 4:26 | 2024-07-26 | 2024-11-16 |
 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 | 2024-06-21 | 2024-10-05 |
 | [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 | 2024-06-21 | 2024-09-07 |

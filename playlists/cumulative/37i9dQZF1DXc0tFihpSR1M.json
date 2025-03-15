@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "N\u00e5r festen er over",
+        "url": "https://open.spotify.com/album/3S6XXojEME3E3wQxHaPNPk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "Ett sekund",
+      "url": "https://open.spotify.com/track/7mRg4zrudJlwQKmdwRyarf"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
       },

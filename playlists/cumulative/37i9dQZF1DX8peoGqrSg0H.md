@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  PERSES, PiXXiE
 
-666 songs - 1 day 15 hr 21 min
+667 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 | 2024-10-09 | 2024-12-28 |
 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
+| [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-14 |  |
 | [BOY \(Don't You Know\)](https://open.spotify.com/track/6AlPVLHlqTdFV7HYoGWGwi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [Ta Worraseth](https://open.spotify.com/artist/34WJOzrugDHbqouIHKuW4N) | [BOY \(Don't You Know\)](https://open.spotify.com/album/4FTEA2LBYfBia22bPhgvId) | 3:43 | 2024-03-28 | 2024-04-05 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
 | [Boys Love Girls](https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boys Love Girls](https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr) | 3:01 | 2024-12-26 | 2025-01-24 |
@@ -126,7 +127,7 @@
 | [Oh! Oh!](https://open.spotify.com/track/4mDEpeYizNCCMLz8DFn0jA) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [Oh! Oh!](https://open.spotify.com/album/2EP22W4je9X8O9tQd7KLL6) | 3:30 | 2022-08-05 | 2022-08-19 |
 | [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ONE SHOT \(feat\. PiXXiE\)](https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN) | 2:52 | 2025-03-12 |  |
 | [ooh!](https://open.spotify.com/track/2KCVEAvDSdC8boJJIw0a8H) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ooh!](https://open.spotify.com/album/5TfeZgfSsgNn3Dcb5lrlkn) | 3:07 | 2025-02-13 | 2025-02-28 |
-| [Oopsy Daisy](https://open.spotify.com/track/2vwjJOcZInBM9VibTxzwSQ) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [Oopsy Daisy](https://open.spotify.com/album/7BZzyIrjMmMh374Zkyor6C) | 3:00 | 2025-01-16 |  |
+| [Oopsy Daisy](https://open.spotify.com/track/2vwjJOcZInBM9VibTxzwSQ) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [Oopsy Daisy](https://open.spotify.com/album/7BZzyIrjMmMh374Zkyor6C) | 3:00 | 2025-01-16 | 2025-03-15 |
 | [Paint It Pink](https://open.spotify.com/track/4UL0Q0j3myEZrLplwm9zSq) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [Paint It Pink](https://open.spotify.com/album/5QGPsUBKGd1mKbrO0ktPUq) | 2:54 | 2022-10-07 | 2022-10-22 |
 | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/track/2KQTYwgjTEhPaxnAJo46Ta) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/album/6YwX8dz0KsfIpbdkpVmpZU) | 3:26 | 2023-05-26 | 2023-06-16 |
 | [Peek](https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2) | [SEENAPAT](https://open.spotify.com/artist/2dWLIzrLWSNliiLVEGNMk3) | [Peek](https://open.spotify.com/album/0UDyCbzsLPCP6AvT3TMMuO) | 2:43 | 2022-06-16 | 2022-06-24 |

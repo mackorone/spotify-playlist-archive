@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Los T\u00edteres.",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 reybruja.",
   "name": "el under",
   "tracks": [
     {
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 189184,
       "name": "Muy Callados",
       "url": "https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT"
@@ -3682,6 +3682,24 @@
       "duration_ms": 177550,
       "name": "P\u00e1jaros",
       "url": "https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly"
+    },
+    {
+      "album": {
+        "name": "que se la banquen",
+        "url": "https://open.spotify.com/album/2RggQwKLfVqYbNM06FDQam"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146176,
+      "name": "que se la banquen",
+      "url": "https://open.spotify.com/track/1SDALVQe638r5X8r0NfAaJ"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Best of Indie 2020](https://open.spotify.com/playlist/37i9dQZF1DWWkGXMGv9j4M)
 
-> Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
+> Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
 184 songs - 10 hr 14 min
 

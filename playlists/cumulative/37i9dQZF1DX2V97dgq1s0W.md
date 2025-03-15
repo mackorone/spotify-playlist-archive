@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: Sasha Keable
 
-419 songs - 22 hr 4 min
+420 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Broken](https://open.spotify.com/track/2oiYwCA2XB26ISvhKxWLU1) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Broken](https://open.spotify.com/album/1PrFwjRBnqMeOdhabi0y0C) | 3:08 | 2024-10-17 |  |
 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 | 2023-02-23 | 2023-05-15 |
 | [By My Side](https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa) | 2:47 | 2024-09-05 | 2024-11-29 |
-| [Call You](https://open.spotify.com/track/2BmLnQM1y4gsGZGGN94SJH) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Call You](https://open.spotify.com/album/0WOEnrWky87aIMALb1FEUn) | 3:39 | 2024-10-10 |  |
+| [Call You](https://open.spotify.com/track/2BmLnQM1y4gsGZGGN94SJH) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Call You](https://open.spotify.com/album/0WOEnrWky87aIMALb1FEUn) | 3:39 | 2024-10-10 | 2025-03-15 |
 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-19 | 2024-12-20 |
 | [candy reign \(!\)](https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [candy reign \(!\)](https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2) | 2:18 | 2023-02-23 | 2023-05-15 |
 | [Carry Me](https://open.spotify.com/track/2nwHKcQ5RG88Tf8RbLUYUA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:43 | 2023-10-27 | 2024-04-19 |
@@ -167,6 +167,7 @@
 | [How It's Gotta Be](https://open.spotify.com/track/29TBgV8BsHPAV9F0QGBYkT) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [How It's Gotta Be](https://open.spotify.com/album/7vNAZM6mMX2FGi0476vbYD) | 3:41 | 2024-11-08 |  |
 | [How Soon](https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [How Soon](https://open.spotify.com/album/1JL6Vatn02HjOJtxL1eHrt) | 3:09 | 2023-07-21 | 2024-02-28 |
 | [I Deserve It,](https://open.spotify.com/track/1CnRcBIzyHE41mcsgcI0P0) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [I Deserve It,](https://open.spotify.com/album/1R2ZUUtR7ksMhoawUMkWeF) | 1:50 | 2024-06-19 | 2024-07-25 |
+| [I Hope You Understand](https://open.spotify.com/track/6W1hYGszX4dZVOaLOW1F2K) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope You Understand](https://open.spotify.com/album/3JnlkjekuPJHSObCcXbwmj) | 3:06 | 2025-03-14 |  |
 | [I Need To Know](https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Need To Know](https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07) | 4:00 | 2023-05-14 | 2023-10-28 |
 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 | 2023-07-21 | 2023-11-10 |
 | [I'm Baby \(ft\. Jvck James\) \- Acoustic](https://open.spotify.com/track/3xT5b5eHJ4j5XZO1jiqzUi) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [I'm Baby \(ft\. Jvck James\) \[Acoustic\]](https://open.spotify.com/album/5I2I0af6nhLKsSzPy4lGkL) | 3:25 | 2023-05-14 | 2023-09-30 |

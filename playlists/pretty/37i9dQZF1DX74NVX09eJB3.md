@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 
 > Get ready to hit the jackpot with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,085 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,119 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 | 42 | [Sneakin' Sally Through The Alley](https://open.spotify.com/track/5HWQcpb5SL8IxSZjy8LVpY) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Sneakin' Sally Through The Alley](https://open.spotify.com/album/6zfi9iOuXoTJWefn4JCWlg) | 4:25 |
 | 43 | [What Is Hip?](https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Tower Of Power](https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ) | 5:04 |
 | 44 | [Wild Night](https://open.spotify.com/track/1A7hIo1C8jacIQ5ZiCjc8g) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 3:33 |
-| 45 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
+| 45 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
 | 46 | [You Stepped Into My Life](https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 3:26 |
 | 47 | [Easy Money](https://open.spotify.com/track/4Wv7aG6kbHLbo2h218dChl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 4:04 |
 | 48 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |

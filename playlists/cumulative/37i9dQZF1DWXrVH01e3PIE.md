@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Zell, Neo Pistea & Duki  en la casa del Trap Argentino.
+> Bhavi en la casa del Trap Argentino.
 
-383 songs - 18 hr 10 min
+385 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2022-01-21 |  |
 | [Adicto](https://open.spotify.com/track/7EFXaQWNI2aB1EaOxrRpdT) | [SOYTURISTA](https://open.spotify.com/artist/75BpzyPsw3G3R8xiCoHaEM), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [Hit Dealers](https://open.spotify.com/album/0yzmiCcCQp30GOpwXHgrUW) | 2:13 | 2024-09-27 | 2025-01-18 |
 | [AEROBICO REMIX](https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AEROBICO REMIX](https://open.spotify.com/album/2kWJzDtmTnGeToG1IAtCXt) | 3:33 | 2023-08-04 |  |
+| [AGRIDULCE](https://open.spotify.com/track/6oD4SAERighrgpWf6NJibb) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [BHAVILONIA](https://open.spotify.com/album/0eEO57wwLtByL2ubWCSshn) | 2:42 | 2025-03-14 |  |
 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 | 2023-04-19 | 2024-07-27 |
 | [AL LIMITE](https://open.spotify.com/track/5jNJoyl5zRnPSnFhYELJwN) | [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [AL LIMITE](https://open.spotify.com/album/3sFhFZKBv9ShUtlP5JmjaP) | 2:13 | 2023-07-28 | 2024-08-24 |
+| [Algo caro](https://open.spotify.com/track/5DTnSsgoupDjCQGNH54Q4F) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Algo caro](https://open.spotify.com/album/6Zbbr9PYxLFVfDMIeqU9Od) | 2:50 | 2025-03-14 |  |
 | [Almanaque](https://open.spotify.com/track/5N5E4FH3cNaRV23HvmYNEe) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Almanaque](https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l) | 3:20 | 2022-12-09 | 2023-09-16 |
 | [Alto Voltaje](https://open.spotify.com/track/7x5QrpNYXlOayjApxxR6Lu) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Alto Voltaje](https://open.spotify.com/album/7CEVp0O8OPR5dtJCdbopyX) | 2:53 | 2023-10-13 |  |
 | [Amor de Rola](https://open.spotify.com/track/6EbwRtuD4kjwvYbz40TPJr) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Amor de Rola](https://open.spotify.com/album/75PRnhJgB0T97jgUp5gn4I) | 3:43 | 2023-02-17 | 2023-06-24 |

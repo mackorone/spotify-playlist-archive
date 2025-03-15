@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 62025,
+  "num_followers": 62021,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAH5CzGIpwOPa1XSW3LMCyg5Whra5q/",
+  "snapshot_id": "AAAH5mB8poQCGHTZDE2HoWbtzympmWtd",
   "tracks": [
+    {
+      "added_at": "2025-03-14 12:13:13",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/7drDLG1fv14tS43OQS2igi"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 205337,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/6jJzqzB4IYzlm04dlqnc0l"
+    },
     {
       "added_at": "2025-03-12 12:40:51",
       "album": {
@@ -119,6 +135,26 @@
       "duration_ms": 199520,
       "name": "Three Visions: II. Summerland",
       "url": "https://open.spotify.com/track/4es8h8eh7MJQI7AJeeazZh"
+    },
+    {
+      "added_at": "2025-03-14 12:12:49",
+      "album": {
+        "name": "Anemos",
+        "url": "https://open.spotify.com/album/1VF9Rm0uk77TDbyx1TGZ6q"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "duration_ms": 166349,
+      "name": "Anemos",
+      "url": "https://open.spotify.com/track/1e5XW1oqa0zKu6fvklgw3Z"
     },
     {
       "added_at": "2025-02-12 18:18:10",

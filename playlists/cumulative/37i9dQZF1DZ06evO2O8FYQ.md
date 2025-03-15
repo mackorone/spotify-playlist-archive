@@ -4,10 +4,11 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 13 min
+59 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 | 2025-03-15 |  |
 | [11:11](https://open.spotify.com/track/2Uz3IrR8c3ay9mnk3IPk4B) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 4:04 | 2022-09-16 | 2022-11-18 |
 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 | 2022-11-17 |  |
 | [Anxiety Trip](https://open.spotify.com/track/10S4dYhylLT9ant8pjwJ0y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:40 | 2022-09-19 | 2022-10-08 |

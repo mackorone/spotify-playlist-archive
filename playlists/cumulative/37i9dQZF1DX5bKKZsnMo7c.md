@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-438 songs - 23 hr 47 min
+440 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 | 2025-01-10 |  |
 | [I'm in Love With an E\-Girl](https://open.spotify.com/track/44wBlg3Y1KSAEmaze5BXe7) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [I'm in Love With an E\-Girl](https://open.spotify.com/album/2IrovQloj4bX8iUnCd0Usp) | 3:59 | 2022-05-17 | 2022-06-17 |
 | [I've Had Enough](https://open.spotify.com/track/534P1wgOzlgSogu8At0B6b) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [I've Had Enough](https://open.spotify.com/album/2iUmotCQAv7gJVmBKZGKwo) | 3:30 | 2022-08-04 | 2023-05-27 |
-| [If Chaos killed the dinosaurs](https://open.spotify.com/track/1JKqnaGU8yuUCVWPb17YMW) | [Gilanares](https://open.spotify.com/artist/0knbJmRwh0ENYJGvZL9whc) | [If Chaos killed the dinosaurs](https://open.spotify.com/album/5YeJ8ne5fbvw5P6Ej1FjuP) | 4:00 | 2025-02-14 |  |
+| [If Chaos killed the dinosaurs](https://open.spotify.com/track/1JKqnaGU8yuUCVWPb17YMW) | [Gilanares](https://open.spotify.com/artist/0knbJmRwh0ENYJGvZL9whc) | [If Chaos killed the dinosaurs](https://open.spotify.com/album/5YeJ8ne5fbvw5P6Ej1FjuP) | 4:00 | 2025-02-14 | 2025-03-15 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-28 | 2024-05-28 |
 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 | 2024-05-14 | 2024-12-14 |
 | [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 | 2023-03-16 | 2023-05-13 |
@@ -222,6 +222,7 @@
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
 | [it's ok!](https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [it’s ok!](https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX) | 3:05 | 2023-04-21 | 2024-02-24 |
 | [Jenna](https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Jenna](https://open.spotify.com/album/20FpfGh5Cftua64aroaT1k) | 3:11 | 2023-09-22 | 2023-11-11 |
+| [JOHNNYSCOTT](https://open.spotify.com/track/3HITeUoRtYdS6Ne7QP7nfl) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [JOHNNYSCOTT](https://open.spotify.com/album/2paVRUpTK7DeVBBfExvTG4) | 2:32 | 2025-03-14 |  |
 | [Josephine](https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Josephine](https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt) | 4:37 | 2025-03-07 |  |
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2023-05-26 | 2024-06-15 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-09 | 2025-01-25 |
@@ -297,7 +298,7 @@
 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 | 2022-05-17 | 2024-01-27 |
 | [Oh No!](https://open.spotify.com/track/4sNwdacKyi2S26WrRtNama) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:02 | 2023-12-29 | 2024-09-28 |
 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 | 2022-08-05 | 2022-12-10 |
-| [Over & Over](https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Over & Over](https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF) | 1:40 | 2024-08-09 |  |
+| [Over & Over](https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Over & Over](https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF) | 1:40 | 2024-08-09 | 2025-03-15 |
 | [Oxygen](https://open.spotify.com/track/0xDR3F8eOQirXPWE5npmaO) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Oxygen](https://open.spotify.com/album/7q9RtrpQMUr7NclRPMcTfI) | 3:39 | 2023-04-12 | 2023-06-03 |
 | [Pacific](https://open.spotify.com/track/6sRfy2yk9S1lANwfahVDJx) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Pacific](https://open.spotify.com/album/4m6flSORd5ArtoR4HDEae5) | 3:16 | 2022-05-17 | 2022-12-10 |
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-06-28 | 2025-01-18 |
@@ -312,6 +313,7 @@
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-17 | 2022-06-02 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-03 |  |
 | [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 | 2024-10-07 |  |
+| [Pisces Tears](https://open.spotify.com/track/5bDtZcw6K5kHHfXxYmUdG7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Water Dogs](https://open.spotify.com/album/0849g2PcFwfMJup2fKh6p0) | 2:39 | 2025-03-14 |  |
 | [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 | 2023-09-22 | 2024-03-02 |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-05-17 | 2022-08-06 |
 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 | 2024-10-04 |  |

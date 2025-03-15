@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 52793,
+  "num_followers": 52812,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAC/1KnTf/co1IDjgtywVata",
+  "snapshot_id": "Z9IgAAAAAAAaTaieBp84orkD59tpSTyV",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 115373,
-      "name": "Candy Darling",
-      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
+      "duration_ms": 222240,
+      "name": "Down And Out Downtown",
+      "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 188653,
-      "name": "I Should Watch TV",
-      "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
+      "duration_ms": 243546,
+      "name": "Dilettante",
+      "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
     },
     {
       "added_at": null,
@@ -675,6 +671,26 @@
       "duration_ms": 245040,
       "name": "The Party",
       "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "I Should Watch TV",
+      "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
     },
     {
       "added_at": null,
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 243546,
-      "name": "Dilettante",
-      "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
+      "duration_ms": 208880,
+      "name": "Champagne Year",
+      "url": "https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 208880,
-      "name": "Champagne Year",
-      "url": "https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR"
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 235488,
       "name": "La Fruta Mas Dulce",
       "url": "https://open.spotify.com/track/6KucbUvImVdewtnT3cpK5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Calvin Harris
 
-2,786 songs - 6 day 6 hr 8 min
+2,788 songs - 6 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 | 2024-12-06 | 2025-01-24 |
 | [Colourfast](https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Colourfast](https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq) | 3:44 | 2023-09-08 | 2023-10-06 |
 | [Come Fight Me For It](https://open.spotify.com/track/31T2dxAa2TSUtymgF7L7Oi) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Rave Immortal](https://open.spotify.com/album/6Wu7z5o5vdseG83pk7NB8q) | 3:41 | 2025-01-24 | 2025-02-28 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-14 |  |
 | [Come Towards The Light](https://open.spotify.com/track/5uTaKr26OrHNGnOq1TXfs4) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [Come Towards The Light](https://open.spotify.com/album/6Yo3BxsdD3xl0eApV2BVGW) | 2:36 | 2025-02-07 | 2025-03-07 |
 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 | 2024-04-11 | 2024-05-11 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-06 | 2024-06-28 |
@@ -996,6 +997,7 @@
 | [golden hour \(feat\. Cat Burns\)](https://open.spotify.com/track/37lrjvpRUfH0Ih0CUQr8X9) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [golden hour \(feat\. Cat Burns\)](https://open.spotify.com/album/49ulj4Ewj2ew5uXYGAvR2R) | 3:29 | 2022-11-25 | 2022-12-02 |
 | [Gone For The Night \(feat\. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes\)](https://open.spotify.com/track/0qgdSsuggcpvhvugFj1G31) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Gone For The Night \(feat\. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes\)](https://open.spotify.com/album/3J1UwJGIqxEloqKlqMAhJ2) | 2:18 | 2024-07-25 | 2024-08-23 |
 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 | 2024-06-20 | 2024-07-27 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-23 | 2023-01-18 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-08-18 | 2022-09-02 |
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-06-30 | 2022-08-05 |

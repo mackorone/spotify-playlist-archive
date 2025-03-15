@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-281 songs - 15 hr 32 min
+284 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Whole New World](https://open.spotify.com/track/5d9t0UyUemjI72NdD8zDD8) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx), [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [A Whole New World](https://open.spotify.com/album/7IcMPl3HJw4i0T6REI24hv) | 3:52 | 2022-07-15 | 2024-04-19 |
 | [A Whole New World](https://open.spotify.com/track/0Wr5xMDOdKaHW3ZRI7WRCb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [A Whole New World](https://open.spotify.com/album/5WPgDPxl0wS58SbjbeuM7x) | 1:34 | 2024-09-03 |  |
 | [Africa](https://open.spotify.com/track/3Kc0NNnkfVyNQbnOONWgeE) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Africa](https://open.spotify.com/album/1wwzqz8EeieZrlEA6zkwd8) | 3:28 | 2024-07-23 |  |
+| [Against All Odds](https://open.spotify.com/track/7wegMfWeHsKFhGDdUuzzpu) | [Aiden J](https://open.spotify.com/artist/6PQwz7Xu2jUQuAtKFprPbc) | [Against All Odds](https://open.spotify.com/album/30WcMczbuHZkilPR1q34Db) | 2:26 | 2025-03-14 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/6yLcsEgiCCn6gxVXtGCWQz) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Cello Covers](https://open.spotify.com/album/1rhVOuaB488YSTGUl5GuvJ) | 2:06 | 2021-11-25 | 2023-02-15 |
 | [All Alone on Christmas](https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All Alone on Christmas](https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00) | 4:24 | 2024-12-10 | 2025-01-08 |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-15 | 2023-02-15 |
@@ -144,6 +145,7 @@
 | [I'm on fire](https://open.spotify.com/track/6qdtWByHjENUvfkmCCKMkt) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [I'm on fire](https://open.spotify.com/album/0POCGgHFs2K1i6MepPaK6t) | 2:24 | 2024-10-08 | 2025-03-08 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 | 2024-04-19 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 |  |
+| [If I Were a Boy](https://open.spotify.com/track/0pXMXKQqwLc5h2mvQKpDMj) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [If I Were a Boy](https://open.spotify.com/album/4SDA0tylMk1uUo00hN5neJ) | 3:38 | 2025-03-14 |  |
 | [If You Don't Know Me by Now](https://open.spotify.com/track/0hniO7QvgBjKcWujdFGz4q) | [Petal & Thorn](https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM) | [If You Don't Know Me by Now](https://open.spotify.com/album/3GdJWgpR4iVwravtWoPlrU) | 2:51 | 2025-01-22 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/2br0u2rXPYBPl2LxghWaI5) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [If You Leave Me Now](https://open.spotify.com/album/2SOzSum0avhI6D4Gh4dtg1) | 2:44 | 2024-12-10 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 | 2025-02-20 |
@@ -202,6 +204,7 @@
 | [Raise Your Glass](https://open.spotify.com/track/1WtruKtNEbPiW01iwiQ0Iu) | [Jaque Dylan](https://open.spotify.com/artist/1C4O2dXmCudFHkn9Zw8Kml) | [Raise Your Glass](https://open.spotify.com/album/2idnw7vnzaqA4xY9zigHae) | 2:31 | 2024-11-12 |  |
 | [Right Here Waiting](https://open.spotify.com/track/141QLRFHt0ChaUT47Wo17T) | [Julian M Palmer](https://open.spotify.com/artist/2X2VFodoLj3tigjuOSBYqo) | [Right Here Waiting](https://open.spotify.com/album/2vv6qChQajIMXmsHWqWBTP) | 3:07 | 2024-12-19 |  |
 | [Riptide](https://open.spotify.com/track/7dEjQAnaMlb1oikHOXaTUO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 3](https://open.spotify.com/album/55GWGl6XdbV5M9OfhiGtMN) | 3:27 | 2022-11-18 | 2022-11-26 |
+| [Roar](https://open.spotify.com/track/4bt7e9xRM28F0L7WcMMXtu) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Roar](https://open.spotify.com/album/2UF1M1BPLZhqgPcnki1mLj) | 2:58 | 2025-03-14 |  |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-02-14 |  |
 | [Royals](https://open.spotify.com/track/5cPxFYTRLgv9rHxaVZ67po) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 2](https://open.spotify.com/album/47UJihi0AVkgdfNvRNVUlF) | 3:23 | 2022-11-18 | 2022-11-26 |
 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 | 2023-05-09 |  |

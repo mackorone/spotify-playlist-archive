@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11168,
+  "num_followers": 11170,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB5uNENHqAOhyQ8NcwusDam",
+  "snapshot_id": "Z9IgAAAAAAAG2X49z24jorSVPpHkZzRb",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Cry Like A Baby",
+      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
         "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 142688,
       "name": "When We\u2019re Both Old & Mad",
       "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Cry Like A Baby",
-      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "The Quiet Life",
-      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -463,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 210213,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
       },
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Nullarbor Song",
+      "url": "https://open.spotify.com/track/2YsYJWQmFnuHybbVsHQSs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 175053,
       "name": "Sleeping Cold",
       "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 267906,
-      "name": "Nullarbor Song",
-      "url": "https://open.spotify.com/track/2YsYJWQmFnuHybbVsHQSs1"
     },
     {
       "added_at": null,
@@ -610,15 +610,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 220258,
-      "name": "If We Had a Child (with Keith Urban)",
-      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
+      "duration_ms": 257021,
+      "name": "Ain't No Little Girl",
+      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
     },
     {
       "added_at": null,
@@ -678,11 +674,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 257021,
-      "name": "Ain't No Little Girl",
-      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
+      "duration_ms": 220258,
+      "name": "If We Had a Child (with Keith Urban)",
+      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166026,
       "name": "Freight Train",
       "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 322053,
-      "name": "A New Day Has Come",
-      "url": "https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6"
+      "duration_ms": 230000,
+      "name": "Silverado Girl",
+      "url": "https://open.spotify.com/track/1MXxppXv0fwIXXKkQ9ruHG"
     },
     {
       "added_at": null,

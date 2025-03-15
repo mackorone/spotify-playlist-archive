@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh x Keskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,214 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,233 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 20 | [DURULDUM](https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [KERO](https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2) | [DURULDUM](https://open.spotify.com/album/2ISMOqiabzIjxSzaZCFNAL) | 2:04 |
 | 21 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 |
 | 22 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 |
-| 23 | [AKTIV](https://open.spotify.com/track/3BF6F5El3dlcxc795bUCpG) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Chiko](https://open.spotify.com/artist/3nLn72r2AdxLr304n82TIZ) | [AKTIV](https://open.spotify.com/album/52F6P9abjhKKSwBBOOaAOS) | 2:00 |
+| 23 | [AKTIV](https://open.spotify.com/track/3BF6F5El3dlcxc795bUCpG) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [AKTIV](https://open.spotify.com/album/52F6P9abjhKKSwBBOOaAOS) | 2:00 |
 | 24 | [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 |
 | 25 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |
 | 26 | [Sarışınlar Çat Çat](https://open.spotify.com/track/1Ns3b1dRVpwTjrL85vb1SV) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Sarışınlar Çat Çat](https://open.spotify.com/album/3F66bYgyr9QSt6FRteHj2Y) | 2:49 |

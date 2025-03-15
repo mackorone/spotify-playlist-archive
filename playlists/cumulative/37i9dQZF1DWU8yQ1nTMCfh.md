@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: shego
 
-332 songs - 18 hr 24 min
+334 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 | 2023-04-28 |  |
 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 | 2024-06-28 |  |
 | [Jungla de Pensamientos](https://open.spotify.com/track/6dX4ogWjwYlGf8thZB4YPH) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Jungla de Pensamientos](https://open.spotify.com/album/68WnJ97v6WmmVO1wliSg5T) | 3:00 | 2022-07-19 | 2022-12-10 |
+| [Karamanduka](https://open.spotify.com/track/5vro5fQlVcklzry0BsfjVM) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Karamanduka](https://open.spotify.com/album/60flsDJF2kLE5vwUMLEQBt) | 2:19 | 2025-03-14 |  |
 | [La Bas\(e\)](https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [La Bas\(e\)](https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68) | 3:03 | 2024-05-24 | 2024-11-20 |
 | [La canción que escribiste](https://open.spotify.com/track/767PhFKXo761IJdwvLFHTo) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [4ever](https://open.spotify.com/album/3LPhzZtahvRaqOzA6VguNy) | 3:11 | 2024-05-03 | 2024-07-06 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-04-15 | 2023-01-21 |
@@ -192,7 +193,7 @@
 | [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 | 2023-05-19 | 2024-04-19 |
 | [Money In The Bank](https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT) | 3:54 | 2023-04-28 | 2023-05-21 |
 | [Mota o Perreo](https://open.spotify.com/track/0MRB04KQD10chU3wJjPIww) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Nombrar las Cosas](https://open.spotify.com/album/3BqdeMQuHncO2zm5SW1s4t) | 2:24 | 2022-04-15 | 2023-02-25 |
-| [Movie](https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Movie](https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T) | 2:12 | 2023-11-03 |  |
+| [Movie](https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Movie](https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T) | 2:12 | 2023-11-03 | 2025-03-15 |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-20 | 2024-11-02 |
 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 | 2022-12-16 | 2023-05-23 |
 | [Mundo Extraño](https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mundo Extraño](https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r) | 3:03 | 2023-07-21 | 2023-11-06 |
@@ -251,7 +252,7 @@
 | [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 2:58 | 2022-04-15 | 2023-02-11 |
 | [Qué Más Quieres](https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 3:04 | 2024-06-28 |  |
 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 | 2023-03-21 |  |
-| [Quédate un Momento](https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Quédate un Momento](https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1) | 3:03 | 2024-07-12 |  |
+| [Quédate un Momento](https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Quédate un Momento](https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1) | 3:03 | 2024-07-12 | 2025-03-15 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 | 2024-11-23 |
 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2023-01-06 | 2023-03-04 |
 | [RAMONA FLOWERS](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAMONA FLOWERS](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-08 | 2024-02-24 |
@@ -328,6 +329,7 @@
 | [When I'm Down](https://open.spotify.com/track/2TCdV9BPqra1Xx8taVwyFC) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 2:22 | 2022-04-15 | 2022-12-10 |
 | [Witches](https://open.spotify.com/track/3XoSb47bCtKeqZkJuLN1UD) | [Elefangs](https://open.spotify.com/artist/1PXCJheCUd6J5YOk0AX0iU) | [II](https://open.spotify.com/album/59vszOgawI6rMXUDPO4yef) | 4:28 | 2022-04-15 | 2022-12-10 |
 | [XQ Sigues Pasando :\(](https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [XQ Sigues Pasando :\(](https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz) | 3:34 | 2023-09-08 | 2024-05-11 |
+| [Y Caíste](https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Y Caíste](https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD) | 4:52 | 2025-03-14 |  |
 | [Ya No](https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Ya No](https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0) | 2:29 | 2022-07-19 | 2023-03-04 |
 | [Ya No Te Vuelvo a Ver](https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23) | 4:16 | 2025-02-28 |  |
 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 | 2024-08-16 | 2024-11-05 |

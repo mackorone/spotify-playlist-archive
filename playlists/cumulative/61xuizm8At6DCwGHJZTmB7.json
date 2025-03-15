@@ -10157,6 +10157,28 @@
     },
     {
       "album": {
+        "name": "The Church (Live)",
+        "url": "https://open.spotify.com/album/2Dq1ZZ2r98oP6tBjClD7K9"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546771,
+      "name": "The Church - Live",
+      "url": "https://open.spotify.com/track/0POGWdh6yA9NBiIAzUWFAk"
+    },
+    {
+      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7jyMFcSGsmE232C96yBjEd"
       },
@@ -10260,7 +10282,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 445454,
       "name": "The Earth Sings Worthy - Live",
       "url": "https://open.spotify.com/track/2TDpmf1nPiu7drcI7LLJzW"

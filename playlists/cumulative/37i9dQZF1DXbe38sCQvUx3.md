@@ -4,7 +4,7 @@
 
 > a la orden pa'l desorden
 
-326 songs - 16 hr 22 min
+327 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Booty Booty](https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Booty Booty](https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E) | 2:30 | 2024-03-15 | 2024-08-14 |
 | [BUGATTI CHIRON](https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BUGATTI CHIRON](https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY) | 3:26 | 2024-09-30 | 2024-11-16 |
 | [BW](https://open.spotify.com/track/6A9yRvlvwIzK1jBkVAJNlD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:51 | 2024-11-06 |  |
+| [Bélico Tierno](https://open.spotify.com/track/0JkAPXfhxn9TySOaCw2WVV) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bélico Tierno](https://open.spotify.com/album/56JOOwdcdJYhrblyyfxbFi) | 2:43 | 2025-03-14 |  |
 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 | 2023-07-10 | 2023-08-23 |
 | [Cachín](https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Cachín](https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx) | 2:45 | 2024-08-13 | 2024-11-07 |
 | [Canción](https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Canción](https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB) | 3:25 | 2024-09-20 |  |
@@ -236,7 +237,7 @@
 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 | 2024-08-20 |  |
 | [Neta](https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:59 | 2024-07-02 | 2024-09-21 |
 | [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 | 2024-10-18 |  |
-| [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 | 2024-09-20 |  |
+| [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 | 2024-09-20 | 2025-03-15 |
 | [No Sabes La Que Te Espera](https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [No Sabes La Que Te Espera](https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA) | 2:41 | 2024-08-20 | 2024-09-21 |
 | [NO SON DORITOS](https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Son Doritos](https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc) | 2:40 | 2024-10-18 |  |
 | [On D Gas](https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:21 | 2024-09-20 |  |

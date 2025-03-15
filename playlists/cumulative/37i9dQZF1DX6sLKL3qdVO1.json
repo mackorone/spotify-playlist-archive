@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Myke Towers, Junior H, The Rudeboyz en portada",
+  "description": "Shawty lo que necesitas es darle flow. Ovy On The Drums, Lucky Brown y Darell en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 167175,
       "name": "AGUARDIENTE",
       "url": "https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0"
+    },
+    {
+      "album": {
+        "name": "AIRBAG",
+        "url": "https://open.spotify.com/album/4VEX3IwJJUg0ku1gEaFWxy"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169499,
+      "name": "AIRBAG",
+      "url": "https://open.spotify.com/track/0oZmG2Ix5kVEIt8GxHUYc1"
     },
     {
       "album": {
@@ -1328,6 +1346,28 @@
       "duration_ms": 174186,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+    },
+    {
+      "album": {
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
     },
     {
       "album": {
@@ -10823,6 +10863,32 @@
     },
     {
       "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178224,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
+    },
+    {
+      "album": {
         "name": "Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2"
       },
@@ -11702,7 +11768,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 212000,
       "name": "PDP (Pa' Darte Perreo) [feat. Sergio Acosta, Mauro Dembow]",
       "url": "https://open.spotify.com/track/25SsznrF6Qx3njnrra3QH4"
@@ -13470,7 +13536,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 190624,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"

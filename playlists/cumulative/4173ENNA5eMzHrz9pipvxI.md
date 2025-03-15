@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Tiësto &amp; Dyzen
 
-1,669 songs - 3 day 7 hr 48 min
+1,671 songs - 3 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,6 +739,7 @@
 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-05-11 | 2023-05-26 |
 | [It Doesn't Matter](https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [It Doesn't Matter](https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg) | 2:24 | 2023-02-24 | 2023-03-04 |
 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 | 2022-06-17 | 2022-07-02 |
+| [It’s Not You It’s Me](https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It’s Not You It’s Me](https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU) | 2:49 | 2025-03-14 |  |
 | [iY\-Yi \(feat\. Takunda\)](https://open.spotify.com/track/5bVhd4sLxWGpx7twMqxr93) | [William Last KRM](https://open.spotify.com/artist/5TIgVeqYHwf9v56rySzVRw), [Takunda](https://open.spotify.com/artist/4acGGY0Q49aj0M5I6KrRP7) | [iY\-Yi \(feat\. Takunda\)](https://open.spotify.com/album/2EJZlhZ7y8UrTFiP2yXlQZ) | 3:02 | 2022-07-01 | 2022-07-16 |
 | [Jack & Jolene](https://open.spotify.com/track/2c7WkFr3D8VxHDsG6W3Hd5) | [Basstian](https://open.spotify.com/artist/4eSY2mrbzDfUKawV0DaeZd), [Justmylørd](https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo), [João Faria](https://open.spotify.com/artist/1jBojFT8egA5XQrSwUUFRA) | [Jack & Jolene](https://open.spotify.com/album/2pwYfH1sHdL3rsc5mdIsOr) | 2:37 | 2022-09-30 | 2022-10-14 |
 | [Jacking](https://open.spotify.com/track/7KuKfd8wgecJT18v1fplRN) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG) | [Jacking](https://open.spotify.com/album/4C58HM2kpSaibjH3FMn5fc) | 3:01 | 2022-10-14 | 2022-10-28 |
@@ -1575,6 +1576,7 @@
 | [Voices](https://open.spotify.com/track/6dnWU3ZywAIalucAAqjKlk) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Voices](https://open.spotify.com/album/46TX7gBzl9CBUbGVdXedoI) | 2:32 | 2023-06-30 | 2023-07-14 |
 | [Voices \(with Naeleck\) \[Together We Will Rise\]](https://open.spotify.com/track/3rNeIZvZ9kqSuCNjsJw6Si) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Voices \(with Naeleck\)](https://open.spotify.com/album/33Z2pDursd7HXvWrjBU5hu) | 2:24 | 2024-08-01 | 2024-08-09 |
 | [Voidwalker](https://open.spotify.com/track/7f5UNraZZkf8zzPDNZ8a39) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Voidwalker](https://open.spotify.com/album/5PITAVHWbQmHVNmQW45bJf) | 3:05 | 2024-03-08 | 2024-03-16 |
+| [Volare](https://open.spotify.com/track/0Ijbo5avfDGkIvT6kDaGeb) | [Two Cuzzos](https://open.spotify.com/artist/0ufZZZ9gawpj67CKziNlOw) | [Volare](https://open.spotify.com/album/0WnxDT40kB8LnanTdi1KZp) | 2:44 | 2025-03-14 |  |
 | [Vortex](https://open.spotify.com/track/2yI3ZWbUDoZ2s6eMyPfA1m) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vortex](https://open.spotify.com/album/3UwllTB2OERiCikVZmb4Hv) | 3:17 | 2025-01-16 |  |
 | [Wahran \(Squid Kids Remix\)](https://open.spotify.com/track/77T75YsPLPsiqSuRVRVfNH) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr), [Squid Kids](https://open.spotify.com/artist/0xtNG1XuQ9YaW7aRr4Fog8) | [Wahran \(Squid Kids Remix\)](https://open.spotify.com/album/4n3kit5L1ZPDLoGR5GzGzh) | 2:24 | 2023-03-30 | 2023-04-14 |
 | [Wahran \(Vocal Version\)](https://open.spotify.com/track/4e1O6JjTZtBDoiX7QsLr3m) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran \(Vocal Version\)](https://open.spotify.com/album/0E1qeWs1PyCgDtREn4lqA3) | 2:58 | 2023-06-30 | 2023-07-21 |

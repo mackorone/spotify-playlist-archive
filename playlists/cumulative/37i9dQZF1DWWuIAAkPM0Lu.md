@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:2rR0cafJvL0JVTC8E2qIqt">Saveus</a>, Benny Jamz, Selena Gomez og mange flere 👀
 
-4,561 songs - 9 day 20 hr 10 min
+4,562 songs - 9 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1893,6 +1893,7 @@
 | [Hope You Miss Me Too](https://open.spotify.com/track/5grGp5Q9KFLrCc5JMwUGLF) | [IVA queendom](https://open.spotify.com/artist/6jqyxXRBC9Fleg4fOlWiEO) | [Hope You Miss Me Too](https://open.spotify.com/album/4YWvikXID5xKNod1Qf2Xwp) | 3:16 | 2024-05-23 | 2024-06-01 |
 | [Hopeful](https://open.spotify.com/track/4UbF4URx8mcKmVmiP7O5q1) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Hopes & Fears](https://open.spotify.com/album/66ODhKZdsc1OGt8os34KUV) | 4:33 | 2025-02-20 | 2025-02-28 |
 | [HORSE MOM](https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [HORSE MOM](https://open.spotify.com/album/53NveX5n9BNu6cTXSsuYcf) | 3:10 | 2024-07-25 | 2024-08-02 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-13 |  |
 | [Hot Butter Summertime](https://open.spotify.com/track/4KbQ5S6ctUbesoDcMdnSBe) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Hot Butter Summertime](https://open.spotify.com/album/2kZuaZZoUPTOgvhqzbjO52) | 2:24 | 2024-07-18 | 2024-07-27 |
 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 | 2024-05-02 | 2024-05-10 |
 | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/track/1JnBJ0HxKhcgeFCIp1efGp) | [Elias Buch](https://open.spotify.com/artist/5r8dWcI1AJLYOkxyP5twtQ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/album/78dKPGZQ2BCRvKJiwsXFHX) | 2:21 | 2024-05-23 | 2024-06-01 |

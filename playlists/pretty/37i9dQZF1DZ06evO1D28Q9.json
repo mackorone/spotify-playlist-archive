@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACaDA6RJzsaavI/5SgRStFj",
+  "snapshot_id": "Z9IgAAAAAADaRaD8NJ442gxtJDRJ2ql7",
   "tracks": [
     {
       "added_at": null,
@@ -299,30 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Rio Nilo",
-      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -367,6 +343,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry Drummer & Friends, Vol. 2",
         "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
       },
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muita Calma",
-        "url": "https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        }
-      ],
-      "duration_ms": 210982,
-      "name": "Muita Calma",
-      "url": "https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulher MC",
         "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 235966,
       "name": "Mulher MC",
       "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muita Calma",
+        "url": "https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
+        }
+      ],
+      "duration_ms": 210982,
+      "name": "Muita Calma",
+      "url": "https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY"
     },
     {
       "added_at": null,
@@ -663,22 +663,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minha Parte",
-        "url": "https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e"
+        "name": "Voando Baixo",
+        "url": "https://open.spotify.com/album/0QavGWICZFPuVesowDRq87"
       },
       "artists": [
         {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
         },
         {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 228165,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
+      "duration_ms": 280037,
+      "name": "Nossa Lei",
+      "url": "https://open.spotify.com/track/44cliqma2bQWBj3OwXtRzr"
     },
     {
       "added_at": null,
@@ -731,34 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voando Baixo",
-        "url": "https://open.spotify.com/album/0QavGWICZFPuVesowDRq87"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 280037,
-      "name": "Nossa Lei",
-      "url": "https://open.spotify.com/track/44cliqma2bQWBj3OwXtRzr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Atividade (feat. IZA)",
         "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 140444,
       "name": "Na Atividade (feat. IZA)",
       "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Parte",
+        "url": "https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 228165,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
     },
     {
       "added_at": null,

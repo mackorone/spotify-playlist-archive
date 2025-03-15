@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchqrcYVfAQC.md) - [plain]
 
 > The official setlist for Sabrina's Short n'Sweet tour 💕☕💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,909 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,267 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

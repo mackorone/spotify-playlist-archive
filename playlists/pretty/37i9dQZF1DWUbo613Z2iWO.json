@@ -1,13 +1,33 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Chxrry22",
-  "num_followers": 54308,
+  "description": "R&B of the moment by the artists of the future. Cover: Josh Levi",
+  "num_followers": 54325,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8qQOwAAAACoNhdric+P+c9uwKlsVbgv",
+  "snapshot_id": "Z9PQNwAAAACbGUNTrMAUPgs4EnSknNMW",
   "tracks": [
+    {
+      "added_at": "2025-03-14 06:39:18",
+      "album": {
+        "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+        "url": "https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 97371,
+      "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+      "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
+    },
     {
       "added_at": "2025-02-21 05:16:16",
       "album": {
@@ -23,6 +43,26 @@
       "duration_ms": 169212,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh"
+    },
+    {
+      "added_at": "2025-03-14 06:44:07",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/32tOquwVNXmi7gQTS0hzJQ"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "duration_ms": 185074,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2ku1pUgAH5iy6e3ZtBcesF"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -57,6 +97,26 @@
       "url": "https://open.spotify.com/track/6kpOKxfq6OS16y54LIEqcE"
     },
     {
+      "added_at": "2025-03-14 06:39:18",
+      "album": {
+        "name": "Afraid, Pt. 2",
+        "url": "https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Afraid, Pt. 2",
+      "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
+    },
+    {
       "added_at": "2025-02-21 05:16:16",
       "album": {
         "name": "Are U Still",
@@ -71,6 +131,22 @@
       "duration_ms": 230782,
       "name": "Are U Still",
       "url": "https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q"
+    },
+    {
+      "added_at": "2025-03-14 06:39:18",
+      "album": {
+        "name": "Confessions of a Loverboy",
+        "url": "https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 161139,
+      "name": "Lovers To Enemies",
+      "url": "https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B"
     },
     {
       "added_at": "2025-03-07 06:20:43",
@@ -89,6 +165,22 @@
       "url": "https://open.spotify.com/track/05GJ75nb4P8wqwwJGm7ksa"
     },
     {
+      "added_at": "2025-03-14 06:39:18",
+      "album": {
+        "name": "I'll Be Good",
+        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
+    },
+    {
       "added_at": "2025-02-28 06:56:32",
       "album": {
         "name": "Cruel, Cruel World",
@@ -103,6 +195,22 @@
       "duration_ms": 154940,
       "name": "Cruel, Cruel World",
       "url": "https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD"
+    },
+    {
+      "added_at": "2025-03-14 06:39:18",
+      "album": {
+        "name": "Suzette",
+        "url": "https://open.spotify.com/album/10XllZTnTF12lcSuRERcrm"
+      },
+      "artists": [
+        {
+          "name": "Nami",
+          "url": "https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "Suzette",
+      "url": "https://open.spotify.com/track/7gEuNBqXluQqu0LJXyHxeV"
     },
     {
       "added_at": "2025-02-21 05:16:16",

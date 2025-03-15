@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 240000,
       "name": "All In",
       "url": "https://open.spotify.com/track/4bVTIT2ZHTF3tI6xJpPmUY"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Breath Strokes",
       "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
@@ -2742,10 +2742,36 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 184857,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI"
+    },
+    {
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184857,
+      "name": "Switch It",
+      "url": "https://open.spotify.com/track/4wAQAt1l5Wb4E85TOHf7VE"
     },
     {
       "album": {

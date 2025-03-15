@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414,548 likes - 39 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414,711 likes - 39 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 38 | [Intro \- Live At London Astoria, UK, December 3, 1989](https://open.spotify.com/track/4iXJS5y9qpVWmnrI8LcnLC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [From The Muddy Banks Of The Wishkah \(Live\)](https://open.spotify.com/album/26paS1Rzj1L0d3Zr1WBTIj) | 0:52 |
 | 39 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `Z9DOgAAAAABU8akEEdvq9IgD16a6U+2O`
+Snapshot ID: `Z9IgAAAAAADzDQrDs70Di6i1Y2prYadx`

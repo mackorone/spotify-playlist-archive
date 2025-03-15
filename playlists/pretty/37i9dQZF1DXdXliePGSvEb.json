@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 70860,
+  "num_followers": 70876,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Smiling Through The Pain",
+        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Smiling Through The Pain",
-        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
     },
     {
       "added_at": "2024-12-04 12:15:00",

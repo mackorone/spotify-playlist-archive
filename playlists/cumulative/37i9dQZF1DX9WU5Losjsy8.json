@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Chaos im Kopf",
+        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Chaos im Kopf",
+      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
+    },
+    {
+      "album": {
         "name": "Ciao 3 Tage Blau",
         "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
@@ -932,7 +954,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 216706,
       "name": "Du bist mein Gl\u00fcck",
       "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 196538,
       "name": "F\u00fcllkrug",
       "url": "https://open.spotify.com/track/7wjxG3KrEHET4nzbHhlVfC"
@@ -1253,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Gib mir alles was du hast",
+        "url": "https://open.spotify.com/album/5Li5WspDE4s0D7s5wStr5L"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Gib mir alles was du hast",
+      "url": "https://open.spotify.com/track/1lyr2wwwQHTF0Oi22zCyut"
+    },
+    {
+      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1294,6 +1334,28 @@
       "duration_ms": 244640,
       "name": "Griechischer Wein",
       "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "album": {
+        "name": "Hallo kleine Maus",
+        "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170180,
+      "name": "Hallo kleine Maus",
+      "url": "https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd"
     },
     {
       "album": {
@@ -2140,7 +2202,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"

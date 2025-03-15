@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover - Gini",
+  "description": "Naye Indie gaano ka khazana, featuring Bombay the Artist, Gini and other exciting releases.",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 202182,
       "name": "Anjaana",
       "url": "https://open.spotify.com/track/6bBLCABXWOSTv7W4anHyhs"
@@ -8498,7 +8498,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 141212,
       "name": "Kaaga",
       "url": "https://open.spotify.com/track/2Q7Z5XeSzwhrtlt3GEEYPm"
@@ -8656,6 +8656,24 @@
       "duration_ms": 143888,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/6BWXTsLhxCzGygFbhfilzI"
+    },
+    {
+      "album": {
+        "name": "Kab Aur Kaise",
+        "url": "https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Kab Aur Kaise",
+      "url": "https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO"
     },
     {
       "album": {
@@ -13770,7 +13788,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 118520,
       "name": "NEU",
       "url": "https://open.spotify.com/track/70qRMWQ1bO98R6bE2jwSFf"
@@ -14154,6 +14172,24 @@
       "duration_ms": 124615,
       "name": "Pagal Rehne De",
       "url": "https://open.spotify.com/track/760LXdTukTZjtD6rZ4p2n8"
+    },
+    {
+      "album": {
+        "name": "Pahaad",
+        "url": "https://open.spotify.com/album/7JLjDClIZe92XRG9sz3wDg"
+      },
+      "artists": [
+        {
+          "name": "Maddy Sharma",
+          "url": "https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122008,
+      "name": "Pahaad",
+      "url": "https://open.spotify.com/track/1FfejBc6pNUQbFb8WwUy4K"
     },
     {
       "album": {
@@ -14728,7 +14764,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 169575,
       "name": "Poori Tarah Se Nahin",
       "url": "https://open.spotify.com/track/0WU4TBvwpoKS2Hg5CBO5pv"
@@ -15202,6 +15238,28 @@
       "duration_ms": 190337,
       "name": "Rang",
       "url": "https://open.spotify.com/track/7IWDMat26EfRqf2rC61f5z"
+    },
+    {
+      "album": {
+        "name": "Rangeela Mora Saajna",
+        "url": "https://open.spotify.com/album/1dc2odoXyAO7iOT91Mus28"
+      },
+      "artists": [
+        {
+          "name": "Pallavi Ishpuniyani",
+          "url": "https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154320,
+      "name": "Rangeela Mora Saajna",
+      "url": "https://open.spotify.com/track/34dwAam1NbXlgUGmo281e4"
     },
     {
       "album": {
@@ -17180,7 +17238,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Sochna",
       "url": "https://open.spotify.com/track/79UTQqOfDT4zepo7KfbmbD"
@@ -17592,7 +17650,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 187589,
       "name": "Supposed To Be",
       "url": "https://open.spotify.com/track/796aAkkYSInz43RBF53i39"
@@ -17890,6 +17948,24 @@
       "duration_ms": 214545,
       "name": "Tera Naam Le Liya",
       "url": "https://open.spotify.com/track/451KgbRMWlczNOcIvaPyz8"
+    },
+    {
+      "album": {
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
     },
     {
       "album": {
@@ -18354,7 +18430,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 137738,
       "name": "Teri Rahi",
       "url": "https://open.spotify.com/track/2Oafe9yQRBa7n45jcDYmFI"
@@ -18626,6 +18702,24 @@
       "duration_ms": 184436,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu"
+    },
+    {
+      "album": {
+        "name": "Tinke Ka Sahara",
+        "url": "https://open.spotify.com/album/60lgMNVsqFGRFsxaIgWyY4"
+      },
+      "artists": [
+        {
+          "name": "Aditya Kalway",
+          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Tinke Ka Sahara",
+      "url": "https://open.spotify.com/track/5BYTgO5v9eSV9T6oY8jSck"
     },
     {
       "album": {

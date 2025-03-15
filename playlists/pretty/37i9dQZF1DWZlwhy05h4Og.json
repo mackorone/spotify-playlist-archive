@@ -1,13 +1,29 @@
 {
-  "description": "The sweetest bops. Cover: BINI",
-  "num_followers": 59646,
+  "description": "The sweetest bops. Cover: LE SSERAFIM",
+  "num_followers": 59663,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FDCAAAAADSohema5FytQch1sPh64cJ",
+  "snapshot_id": "Z9OpxAAAAAAyRm6c9tjhnqBQXm1TmWx5",
   "tracks": [
+    {
+      "added_at": "2025-03-14 04:00:04",
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 137178,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
+    },
     {
       "added_at": "2025-02-28 05:00:56",
       "album": {
@@ -97,6 +113,22 @@
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
+      "added_at": "2025-03-14 04:00:04",
+      "album": {
+        "name": "ReawakeR",
+        "url": "https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "RED ZONE",
+      "url": "https://open.spotify.com/track/35ZTL6aG24WiyQWgGcykaH"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "STRATEGY",
@@ -151,6 +183,26 @@
       "duration_ms": 195682,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/3g9pB5c01TzX76uVI4OffZ"
+    },
+    {
+      "added_at": "2025-03-14 04:00:04",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -379,6 +431,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -445,38 +513,6 @@
       "url": "https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/7asxGpNrTbB849BLWI5KDm"
-      },
-      "artists": [
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6qHGucTO3ieXDbBXEv30TH"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Summer so hot",
-        "url": "https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 166204,
-      "name": "Summer so hot",
-      "url": "https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "SUPERPOWER",
@@ -515,22 +551,6 @@
       "duration_ms": 145742,
       "name": "BOYS",
       "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -743,22 +763,6 @@
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/3jZED8IBbTnmpGPRqBHDXC"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
     },
     {
       "added_at": "2024-07-26 04:00:00",

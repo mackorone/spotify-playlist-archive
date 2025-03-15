@@ -1,13 +1,37 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 154836,
+  "num_followers": 154862,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC7gAAAAB8I6F4oo1ZN6nZGR1uHy8s",
+  "snapshot_id": "Z9OpxAAAAADirXJGDCbrxdfaePYDYFL6",
   "tracks": [
+    {
+      "added_at": "2025-03-14 04:00:04",
+      "album": {
+        "name": "Philodendron",
+        "url": "https://open.spotify.com/album/2kiAk3G0whz02YuAGVnrPz"
+      },
+      "artists": [
+        {
+          "name": "Matt Block",
+          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
+        },
+        {
+          "name": "Morton Block",
+          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Philodendron",
+      "url": "https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ"
+    },
     {
       "added_at": "2025-02-14 05:00:38",
       "album": {
@@ -1043,22 +1067,6 @@
       "duration_ms": 262741,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Baubles, Bangles and Beads",
-        "url": "https://open.spotify.com/album/4JWLquxM9QXW72eK3NniiX"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 278093,
-      "name": "Baubles, Bangles and Beads",
-      "url": "https://open.spotify.com/track/7dt9M8v0wtxdyUDlnqgyNX"
     },
     {
       "added_at": "2024-05-03 04:01:00",

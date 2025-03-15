@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
@@ -7838,6 +7838,24 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "album": {
+        "name": "Rock 'n Roll",
+        "url": "https://open.spotify.com/album/4HJGn2HpoDB4rrloweriFF"
+      },
+      "artists": [
+        {
+          "name": "Shapov",
+          "url": "https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Rock 'n Roll",
+      "url": "https://open.spotify.com/track/2cI8q8jiNFh0g4vNnzMCIl"
     },
     {
       "album": {

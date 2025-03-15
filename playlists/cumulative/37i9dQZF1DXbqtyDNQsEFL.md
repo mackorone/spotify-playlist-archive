@@ -2,15 +2,15 @@
 
 ### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
-> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=JStfUNLrT5uP8CVC\_Twf5A>Ebuka Songs</a>
+> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=oBE9NV6rSAWNnhw67SFURQ>EJ Newton</a>
 
-477 songs - 1 day 21 hr 56 min
+478 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [ADN Du Très Haut](https://open.spotify.com/track/5GC90DIyNa10RJADEyOKaP) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Allégeance](https://open.spotify.com/album/6zlphDHcJp4Qen4eZ8qxHW) | 2:42 | 2025-02-07 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-12-05 | 2023-12-11 |
-| [Agaracha](https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:57 | 2025-03-07 |  |
+| [Agaracha](https://open.spotify.com/track/42WBHKFN8h7bNkNKTG6KoY) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:57 | 2025-03-07 | 2025-03-15 |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 | 2025-01-01 |
 | [Ajakola](https://open.spotify.com/track/3mFTP1OpdAA3bgz3pTcISP) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Justine Nabbosa](https://open.spotify.com/artist/3ajkMpWlRRf2j3XkFJYZfu) | [Ajakola](https://open.spotify.com/album/44CUHBYHKwT05ixgwPjDRM) | 4:25 | 2024-05-08 | 2024-05-10 |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-08-26 |
@@ -157,6 +157,7 @@
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/0BNHjL2jAVYuFfHpPCMcME) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Hymns Vol\. 1](https://open.spotify.com/album/432apueG2d09mb1LPrChN6) | 3:45 | 2022-06-09 | 2022-11-11 |
 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 | 2022-07-28 | 2023-05-26 |
 | [Greatest Name](https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest Name](https://open.spotify.com/album/2fb2Q6ER8Bx6nFsCLyYfVK) | 10:21 | 2024-08-30 | 2024-10-11 |
+| [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 |  |
 | [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 | 2023-10-13 | 2024-09-03 |
 | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Godwin Adams](https://open.spotify.com/artist/74p8vyUHFNVCV240Gam4O6), [Justina](https://open.spotify.com/artist/0w3fYQqVSn2hUmEpxh4aZF) | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/album/3TmMKKwbfKRBqXBYJ2IKMA) | 10:28 | 2023-12-05 | 2023-12-11 |
 | [Have Your Way \- Extended Version](https://open.spotify.com/track/03eLLtNoCSQwYBRBqglw2p) | [Adzo Gordon](https://open.spotify.com/artist/60PXU18yxODtaQJFPKsB9W) | [Have Your Way](https://open.spotify.com/album/3IxSKjvMTojVMBhji8w5Jw) | 22:53 | 2022-07-14 | 2023-03-18 |

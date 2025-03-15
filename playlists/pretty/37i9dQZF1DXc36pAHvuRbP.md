@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 34 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
 | 35 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
 | 36 | [C'est bon mais c'est pas bon](https://open.spotify.com/track/3mICivmX1jTJczvkBzMA4E) | [Zut](https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O) | [J'aime quand tu souris](https://open.spotify.com/album/0wxpkwIYmNr7G2JGMqBeBk) | 3:03 |
-| 37 | [Dans notre dictionnaire imaginaire](https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [On a perdu la boussole](https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh) | 3:00 |
-| 38 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
+| 37 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
+| 38 | [Dans notre dictionnaire imaginaire](https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [On a perdu la boussole](https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh) | 3:00 |
 | 39 | [Je suis dégoûté\(e\)](https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:07 |
-| 40 | [36'50](https://open.spotify.com/track/20F4MbrdwZ8uWNLCzlJRsS) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 1:36 |
+| 40 | [Behhh !](https://open.spotify.com/track/0mIDfkO3ECnK3Hb7kDoFZl) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:44 |
 | 41 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 |
 | 42 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
 | 43 | [15,18](https://open.spotify.com/track/2YKXr6iN5TGDVmJTmuIm8X) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [15,18](https://open.spotify.com/album/7p0Lq0RpwXxxu662tj0ACk) | 2:33 |

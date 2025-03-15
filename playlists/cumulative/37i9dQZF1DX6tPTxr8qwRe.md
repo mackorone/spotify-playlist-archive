@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Nxdia
 
-858 songs - 1 day 15 hr 35 min
+859 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [make a move](https://open.spotify.com/track/5a4vtLAbKiKmJ5Trjs88wF) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [make a move](https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5) | 2:33 | 2024-03-15 | 2024-06-08 |
 | [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |
 | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Deadbeat Girl](https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt) | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK) | 3:30 | 2023-08-04 | 2023-09-16 |
+| [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-14 |  |
 | [Man On The Moon](https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Man On The Moon](https://open.spotify.com/album/5Okndjg5uas9PGvm8SIRAl) | 2:47 | 2023-06-30 | 2023-09-09 |
 | [Mantrum](https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Mantrum](https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm) | 2:34 | 2023-01-27 | 2023-10-28 |
 | [marionette](https://open.spotify.com/track/0L7FQEXYMjT2pNXw5OgM7s) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [marionette](https://open.spotify.com/album/1vmPNMIUOrZhfLeWECDTUT) | 2:40 | 2024-03-22 | 2024-06-08 |
@@ -679,7 +680,7 @@
 | [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 | 2023-04-28 | 2023-08-05 |
 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-04-28 | 2023-05-24 |
 | [Sicko \(feat\. Paycheck & TIMMS\)](https://open.spotify.com/track/3NeuyR9x5qZDL9Jwn6fWGL) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Sicko \(feat\. Paycheck & TIMMS\)](https://open.spotify.com/album/6CZAE3lo4cII14VOCED6Gh) | 3:19 | 2023-01-27 | 2023-08-05 |
-| [Silly Crush](https://open.spotify.com/track/7nxAUHgAVEc05252R7NmdA) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Silly Crush](https://open.spotify.com/album/1pYage8VPhO07sUXkdkzqN) | 2:59 | 2024-10-25 |  |
+| [Silly Crush](https://open.spotify.com/track/7nxAUHgAVEc05252R7NmdA) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Silly Crush](https://open.spotify.com/album/1pYage8VPhO07sUXkdkzqN) | 2:59 | 2024-10-25 | 2025-03-15 |
 | [Sink Or Swim](https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Sink Or Swim](https://open.spotify.com/album/4L15oA6HAW5cywuJjNBc44) | 3:04 | 2022-01-14 | 2022-04-02 |
 | [Siren](https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [I AM](https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh) | 2:36 | 2023-11-17 | 2024-03-30 |
 | [SIREN](https://open.spotify.com/track/2SRHNn97rMNVYdtmH1gmd5) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 2:16 | 2023-12-11 | 2024-04-13 |

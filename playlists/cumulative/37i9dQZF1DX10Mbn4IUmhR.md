@@ -4,7 +4,7 @@
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=QOJoE57dRrWuunOPf9aLFA">Tyler Page</a>
 
-299 songs - 15 hr 31 min
+300 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-12-05 | 2025-01-24 |
 | [Move Your Way](https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Move Your Way](https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9) | 3:23 | 2024-06-27 | 2025-01-24 |
 | [Movin'](https://open.spotify.com/track/0uK4GJYVL6rx7yRMHHOKE5) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [The Plunge](https://open.spotify.com/album/3mGop1gP8tChVajxB4gEZ4) | 2:27 | 2025-03-13 |  |
+| [My Calling](https://open.spotify.com/track/5aIqSdUGrgkpmx4IY99g4p) | [SONIQUE](https://open.spotify.com/artist/4aEmFQl0nUAtz6Rb0QreCB) | [My Calling](https://open.spotify.com/album/4ZtGUVXuRQv5Q9d2L9OLzB) | 3:31 | 2025-03-13 |  |
 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 | 2024-08-09 | 2024-08-24 |
 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 | 2024-11-22 | 2024-11-29 |
 | [New Light](https://open.spotify.com/track/3yyscCaSaB5QpwpiGqQf7Z) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [New Light](https://open.spotify.com/album/3NLGIpo033W3CLCLzbxesT) | 2:35 | 2025-03-13 |  |

@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: ØZI
 
-1,791 songs - 4 day 8 hr 14 min
+1,794 songs - 4 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Agile 還](https://open.spotify.com/track/3x5CEnZovZMtaD5v3gkdSf) | [Zy The Way 中庸](https://open.spotify.com/artist/07qnej9HNl1dlS6bC17KON) | [Then and Now 溯](https://open.spotify.com/album/0YCmqpCKjxbDrWywJtHcgm) | 5:01 | 2024-11-21 | 2024-12-20 |
 | [Akhe](https://open.spotify.com/track/3B98uAoCEcFRxxa3UclSu5) | [Proak 破克](https://open.spotify.com/artist/0RKnMMXqLd9Dgdr701ZBq3) | [Akhe](https://open.spotify.com/album/1cScYdsahmg0Qun6sNl5rX) | 2:44 | 2024-07-04 | 2024-07-12 |
 | [Akirameyou](https://open.spotify.com/track/09IixZAgXmL1FT1ujQbzhY) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk), [Sora Satoh](https://open.spotify.com/artist/3JrRIRDZ53fQxe3mlu2TiT) | [Akirameyou](https://open.spotify.com/album/4VKiDuCaGTHv2wgoL01pDC) | 4:10 | 2024-12-05 | 2025-01-03 |
+| [Alice](https://open.spotify.com/track/65XbxTN8ZVEiUHikKYlR9q) | [Rar](https://open.spotify.com/artist/65pfJuu4wWYwISviMEYziJ), [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [Alice](https://open.spotify.com/album/1Kl3DbcojlllRHfKuzVPqk) | 2:06 | 2025-03-13 |  |
 | [ALL I DO IS RAP](https://open.spotify.com/track/3ZsSgqfPK7beacTNv3QizV) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [ALL I DO IS RAP](https://open.spotify.com/album/0YQB02e0Chr2PfP5UB6rFt) | 3:07 | 2025-03-06 |  |
 | [ALL IN](https://open.spotify.com/track/6MyMCcUFQbjnTm12Y0pWan) | [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS), [Zeon33](https://open.spotify.com/artist/2WgpuitP2obGirFs8imklo), [雞腿](https://open.spotify.com/artist/6MSjzj0Qm95rSe77zXt32G) | [ALL IN](https://open.spotify.com/album/4adm2UbACFMhPr4idpRd2Q) | 2:35 | 2024-10-24 | 2024-11-01 |
 | [All Night](https://open.spotify.com/track/6D3yV3JEtmLJWZ6zu81cM5) | [夏和熙 SHX](https://open.spotify.com/artist/2dT3qMOeHmDYPeyjdIqOy7) | [All Night](https://open.spotify.com/album/5P8PkySPVAhiX3PjccKxJZ) | 2:54 | 2024-10-10 | 2024-10-18 |
@@ -168,7 +169,7 @@
 | [feathers](https://open.spotify.com/track/6KWVd1BKgMN4dryCWFEbRA) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [brb](https://open.spotify.com/album/2Lp5MWiBLQToFpGw51PRii) | 2:50 | 2024-12-12 | 2025-01-03 |
 | [FEEL THE FRIGHT](https://open.spotify.com/track/79n4brL0NrPTQmy4MtELBa) | [Nini Music](https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm), [NiNi](https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ) | [FEEL THE FRIGHT](https://open.spotify.com/album/5tqDpYAW88b4QBYnyHNOQA) | 2:40 | 2024-10-24 | 2024-11-08 |
 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 | 2024-09-19 | 2024-11-29 |
-| [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 | 2025-02-27 |  |
+| [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/track/7e7EsaOZb7Je6ZaBrlQJGC) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [FINAL FINAL FINAL \(feat\. The Crane, Gummy B\)](https://open.spotify.com/album/6jmZ27BspzewR5Ah7JXc7V) | 3:56 | 2025-02-27 |  |
 | [Finally Home](https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [Finally Home](https://open.spotify.com/album/198hQcblSP2zjXHYUpScOS) | 5:18 | 2024-12-05 | 2024-12-20 |
 | [FIND OUT](https://open.spotify.com/track/1F9OpPKXi7DzlN6tisWlKm) | [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Ririka](https://open.spotify.com/artist/5D88MJITPMZxGCQLXbbOqJ), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [FIND OUT](https://open.spotify.com/album/6DqBJ8oodUGk5N2GaQdKVZ) | 2:26 | 2024-06-27 | 2024-07-12 |
 | [Finding Light](https://open.spotify.com/track/55xbkkAvDb5w2GB25y3X6D) | [謝青燁Eric](https://open.spotify.com/artist/14oZ0wuwtWNmoegX9VwxDn), [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [Finding Light](https://open.spotify.com/album/2VVUhaoRZjdTcNuGqiFqga) | 4:04 | 2024-07-18 | 2024-08-16 |
@@ -1012,6 +1013,7 @@
 | [快樂的形狀](https://open.spotify.com/track/5UQAH7sV6tZdk9W8A9uCRW) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [快樂的形狀](https://open.spotify.com/album/2435Ldds4GOcZNhn1QRp0U) | 5:10 | 2025-02-20 | 2025-03-14 |
 | [快要不能](https://open.spotify.com/track/7vTfksQhup9oFe5TUp4Dr4) | [MopeAndHope](https://open.spotify.com/artist/1pMixCWjpmegyt4aW9Q6Jf) | [當我和你睡了](https://open.spotify.com/album/5A2vbo1Kxo5fKZh2LEBKK4) | 3:14 | 2024-06-27 | 2024-07-12 |
 | [怎麼會是你](https://open.spotify.com/track/06upzvDsPIvmHnrFVKvTS7) | [莫禮 MёrLёk](https://open.spotify.com/artist/0vkJziDBby2JpZ6CbQWQGG) | [怎麼會是你](https://open.spotify.com/album/1tZrkBBvfSUHClN2wElMAs) | 2:43 | 2024-11-21 | 2024-12-06 |
+| [思念你的歌](https://open.spotify.com/track/3ggEA2CC1Ra9SZYvCwo0jF) | [顏力妃](https://open.spotify.com/artist/4ZymFYlbYlpTOUeP3pf1VH) | [思念你的歌](https://open.spotify.com/album/7jN9mM3hiZU99u5KuqoQNH) | 4:23 | 2025-03-13 |  |
 | [思念俱焚](https://open.spotify.com/track/0Nv4dWROueVRrdJFAOnX9G) | [OVDS](https://open.spotify.com/artist/73OoUzzgefq2AoHsfTZ39j), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [思念俱焚](https://open.spotify.com/album/6LRa78vBMPgRAkMCPhuogg) | 6:12 | 2024-10-24 | 2024-11-15 |
 | [性 \(NATURE\)](https://open.spotify.com/track/2Qssj6SfeOktARTZqfUvwU) | [John Will](https://open.spotify.com/artist/7vMEaFWnvphfA6uJjs2ToZ), [JR](https://open.spotify.com/artist/6yT1rATJ2yYurEYZMjdmDe) | [淵 \(ABYSS\)](https://open.spotify.com/album/6JTUvZXk47bbsgWyX22qIA) | 2:44 | 2024-09-05 | 2024-09-13 |
 | [怪物](https://open.spotify.com/track/1uhrzbgxXLf8m2AKiWHFF1) | [Endless](https://open.spotify.com/artist/21JpKdhWfLuiv359q5iuw0) | [怪物](https://open.spotify.com/album/0muWBZ150MGEh7YUqEN03q) | 3:40 | 2024-08-29 | 2024-12-13 |
@@ -1394,6 +1396,7 @@
 | [燕子](https://open.spotify.com/track/7DrE9rQCdTNzLnru7vHKK4) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [燕子](https://open.spotify.com/album/4Aro6I6JuQJH24SjL7S1YY) | 2:56 | 2024-11-14 | 2024-12-13 |
 | [燙手的冰](https://open.spotify.com/track/38gWgS7vpG70HMLbYUAI7A) | [方東翔](https://open.spotify.com/artist/16c6zq45ShQTTOM4zXoyAT) | [燙手的冰](https://open.spotify.com/album/0dVVIeQZhVwjIFWKh9LVMN) | 4:18 | 2024-07-04 | 2024-07-12 |
 | [爛情歌](https://open.spotify.com/track/5XJIkXyTKiFzjboDMwCT81) | [Marvin36](https://open.spotify.com/artist/2D598H3fhWWsOS4p5XyWif) | [爛情歌](https://open.spotify.com/album/0fECsXR5ILfnSfeDWKu7jX) | 3:47 | 2024-09-26 | 2024-10-04 |
+| [爱上爱上你](https://open.spotify.com/track/6AJbmJxVlRRBoL4vjRxULI) | [Nono Chen](https://open.spotify.com/artist/7LR8srILeis30yo9BMiBP5) | [爱上爱上你](https://open.spotify.com/album/1JctY3XKlQf3tt4DZzNq0y) | 4:10 | 2025-03-13 |  |
 | [爱在出租屋](https://open.spotify.com/track/72d1qrN62b4J2iFlC7QfVJ) | [李佳隆](https://open.spotify.com/artist/2QK3cWfiTfJ8mpefEGeJwm) | [出人头地 2025 Dreams Come True Mixtape](https://open.spotify.com/album/6jJwp1nShvAqO6Y3fvNPQE) | 3:27 | 2025-02-13 | 2025-02-21 |
 | [爱在许愿前 \(Love Upon Wish\)](https://open.spotify.com/track/5rzQjbqybRDgD7zS6RQdcT) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [爱在许愿前 \(Love Upon Wish\)](https://open.spotify.com/album/7oNJD4UmWkYbgKQaMqZIHo) | 2:46 | 2024-11-21 | 2024-12-13 |
 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 | 2024-11-21 | 2024-12-13 |

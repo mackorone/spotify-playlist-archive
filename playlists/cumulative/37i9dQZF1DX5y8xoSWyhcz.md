@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,288 songs - 2 day 18 hr 26 min
+1,289 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-25 | 2022-07-30 |
 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-10-09 | 2021-10-30 |
 | [CHARGER](https://open.spotify.com/track/0iBBOvVQ8QCK7F95boCn3C) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can You Hear Me Now?](https://open.spotify.com/album/54AUddF7LyGKylFLSNoK8g) | 2:29 | 2021-01-23 | 2021-04-24 |
+| [Chasing You](https://open.spotify.com/track/5CmOOH5Lum4krzr0O8M57f) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Chasing You](https://open.spotify.com/album/5A7FCPW9mKLMIo0NQKuPYT) | 2:54 | 2025-03-14 |  |
 | [cheap flowers](https://open.spotify.com/track/6NsU8OFGg51u3nMKmb7Old) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [a teenage diary](https://open.spotify.com/album/1e8SCLzmt8yJUi831rSfha) | 3:26 | 2021-07-24 | 2021-09-18 |
 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 | 2023-11-24 | 2024-01-13 |
 | [cheerios](https://open.spotify.com/track/3TAvhqb2YtfR4J7ejniBg2) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [postcard from Milan](https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2) | 3:38 | 2022-01-07 | 2022-05-14 |
@@ -1222,7 +1223,7 @@
 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-08-31 |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2020-10-29\* | 2021-02-27 |
 | [Waves Break](https://open.spotify.com/track/6mUS9fWrw2KZ1xbHSemUVi) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Hopeless & Romantic](https://open.spotify.com/album/1Xoq1m0xx3ZWEFLVm9epWz) | 2:57 | 2022-07-08 | 2023-10-14 |
-| [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-08-11 |  |
+| [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-08-11 | 2025-03-15 |
 | [We Don't Need Malibu](https://open.spotify.com/track/523N1uxyBnVBJNEHG5sskY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [We Don't Need Malibu](https://open.spotify.com/album/6HuhLBQbTGYmh95IOLIYMr) | 2:16 | 2023-06-23 | 2024-03-16 |
 | [We Met On The Internet](https://open.spotify.com/track/3GIZN6vaMVBt8euR2ZGFTV) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [We Met On The Internet](https://open.spotify.com/album/7gYD3jx2jeLdCE14S4DWQM) | 1:37 | 2021-01-23 | 2021-02-20 |
 | [we were driving](https://open.spotify.com/track/6CUlNInxaxJK8PP5OBNQxx) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [we were driving](https://open.spotify.com/album/3Z15Ty1fDHUsvtXChmmjVE) | 1:52 | 2021-03-14 | 2021-03-19 |

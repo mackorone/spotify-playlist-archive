@@ -4,12 +4,13 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-156 songs - 10 hr 11 min
+157 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 \(I AM\)](https://open.spotify.com/track/76qbZw9u2YsACZ4OACA5z1) | [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW), [TIM\-E](https://open.spotify.com/artist/1Z0Mw8RUk06dlI4sEmIGqZ) | [13 \(I AM\)](https://open.spotify.com/album/5VwRoMUgxXvm9uMTfmgNVB) | 3:31 | 2024-06-01 |  |
-| [Act Up](https://open.spotify.com/track/1eg0rac3QbmFbLYie423SB) | [Prince Airick](https://open.spotify.com/artist/13gzY5N96fkEIK8jJBHQUs), [Princess Precious Ebony](https://open.spotify.com/artist/47fGppKBHqOSykUWrkXZTO), [Shauna Brooks](https://open.spotify.com/artist/7717Z7L9SS6oRmXU4vFXOE) | [Act Up](https://open.spotify.com/album/5zWxG6gbBylO8NkyS8wYfY) | 4:20 | 2021-11-19 |  |
+| [35mm](https://open.spotify.com/track/19u2oRqyuvib863dxpDWam) | [Moretti](https://open.spotify.com/artist/3ktQgk9MvFpkUTLIC9QYra), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [OPUS: The Moretti EP](https://open.spotify.com/album/0sQ6SIFkUL0q6uWqwt6PeG) | 3:28 | 2025-03-14 |  |
+| [Act Up](https://open.spotify.com/track/1eg0rac3QbmFbLYie423SB) | [Prince Airick](https://open.spotify.com/artist/13gzY5N96fkEIK8jJBHQUs), [Princess Precious Ebony](https://open.spotify.com/artist/47fGppKBHqOSykUWrkXZTO), [Shauna Brooks](https://open.spotify.com/artist/7717Z7L9SS6oRmXU4vFXOE) | [Act Up](https://open.spotify.com/album/5zWxG6gbBylO8NkyS8wYfY) | 4:20 | 2021-11-19 | 2025-03-15 |
 | [Akasha's Tears](https://open.spotify.com/track/5psRxqv67nXfxyAFpKeUTd) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO) | [Akasha's Tears X Bean Qween](https://open.spotify.com/album/7B6mrchgMbZwsELgqVD4i9) | 4:13 | 2021-11-19 |  |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-29 |  |
 | [Aquecimento de Quatraum](https://open.spotify.com/track/6VaD170zmOKUcgHykfkWIt) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [DJ Swag do Complexo](https://open.spotify.com/artist/7jIZzhw1kzIiFmaWz06PxA), [Oly](https://open.spotify.com/artist/7BfA33PxkDArHxNAZHOmef) | [Aquecimento de Quatraum](https://open.spotify.com/album/5JAYbFsXleIy2fsSUXKTnL) | 3:18 | 2025-02-25 |  |

@@ -2338,12 +2338,12 @@
           "url": "https://open.spotify.com/artist/6uR8TJ7sfw9WjKb73NUYBr"
         },
         {
-          "name": "Blaze Drumz",
-          "url": "https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ"
-        },
-        {
           "name": "Dani Faiv",
           "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Blaze Drumz",
+          "url": "https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ"
         },
         {
           "name": "Samuel Heron",
@@ -30778,6 +30778,24 @@
       "duration_ms": 171111,
       "name": "Hope (feat. Izi, Joshua)",
       "url": "https://open.spotify.com/track/4pbwPGtJ1nPTxzncaCmNRM"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1303607,
+  "num_followers": 1303602,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABlPQ98MMmJLcFr2SHJXTTg",
+  "snapshot_id": "Z9IgAAAAAADbUzlyatUHokPPYY+qxAmn",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "No la Puedo Olvidar",
+        "url": "https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        },
+        {
+          "name": "Ciganda",
+          "url": "https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "No la Puedo Olvidar",
+      "url": "https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
       },
@@ -715,34 +743,6 @@
       "duration_ms": 211208,
       "name": "Noche Complicada",
       "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No la Puedo Olvidar",
-        "url": "https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ"
-      },
-      "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
-        {
-          "name": "Rodridi",
-          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
-        },
-        {
-          "name": "Ciganda",
-          "url": "https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "No la Puedo Olvidar",
-      "url": "https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv"
     },
     {
       "added_at": null,

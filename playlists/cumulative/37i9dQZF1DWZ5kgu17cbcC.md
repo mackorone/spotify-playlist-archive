@@ -2,9 +2,9 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Paradise, now streaming on Hulu.
+> Music from shows and movies you love including O'DESSA, now streaming on Hulu.
 
-130 songs - 6 hr 17 min
+131 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [The Midnight Order](https://open.spotify.com/track/4KexGFHUw4CJygbt4VjRt4) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL) | [Sasha Reid and the Midnight Order \(Original Soundtrack\)](https://open.spotify.com/album/3m9vYfKHIvZ01Z7m0wQfjN) | 0:53 | 2024-07-19 |  |
 | [The Other Black Girl \(Main Title Soundtrack Version\)](https://open.spotify.com/track/6BOTlXihQUxlBWI6TuUGhZ) | [EmmoLei Sankofa](https://open.spotify.com/artist/2NSHsfKY7ldsfhtTdkV9id) | [The Other Black Girl \(Original Soundtrack\)](https://open.spotify.com/album/6RDhVFGlWLBF60fOIvgWd8) | 1:02 | 2024-01-05 |  |
 | [The Pull of Death](https://open.spotify.com/track/1fU41Vj9BRZRfTeBt2MEt7) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 3:38 | 2024-02-23 |  |
+| [The Song \(Love Is All\)](https://open.spotify.com/track/3f1CazASWJpY8tBOlIEAQM) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 4:05 | 2025-03-14 |  |
 | [The Way \(Faraway Downs Theme\) \- From "Faraway Downs"](https://open.spotify.com/track/7ffAS0WDXtx7GQ2rjTvcoI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [The Way \(Faraway Downs Theme\) \[From "Faraway Downs"\]](https://open.spotify.com/album/755yHPrtRKmlnSF8wKazgc) | 2:27 | 2024-01-05 |  |
 | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \(From "She Taught Love"\)](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 | 2024-09-27 |  |
 | [They're Not Coming Back](https://open.spotify.com/track/5ukob8KNdazFekkl23mVTI) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [A Small Light \(Original Score\)](https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5) | 2:43 | 2024-01-05 |  |

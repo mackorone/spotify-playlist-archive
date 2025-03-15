@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-44 songs - 1 hr 50 min
+45 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 |  |
 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-03-07 |  |
 | [Padua](https://open.spotify.com/track/51uN1ea8n1Gcy8oTe7LddO) | [Seán Ó Riain](https://open.spotify.com/artist/5UppcMSMhMJ0GkluIUwwF2) | [Padua](https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX) | 2:32 | 2025-03-07 |  |
+| [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 | 2025-03-14 |  |
 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 | 2025-03-07 |  |
 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 | 2025-03-07 |  |
 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 | 2025-03-07 |  |

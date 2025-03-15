@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-324 songs - 18 hr 35 min
+325 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2020-12-08\* | 2023-07-29 |
 | [Aquarium](https://open.spotify.com/track/1u4qLLYs866O1PArVR5pPs) | [Casino Versus Japan](https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6) | [Whole Numbers Play The Basics](https://open.spotify.com/album/4HcmQ7of1IgRFzdp0dnrFY) | 4:59 | 2020-12-25 | 2021-05-27 |
 | [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2020-12-08\* |  |
+| [Ashes](https://open.spotify.com/track/4SSEGcMR6QGz6U0vRQ8Lsk) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Ashes](https://open.spotify.com/album/7vJco1Uvoefx2kbHsY8yHb) | 2:23 | 2025-02-26 |  |
 | [Ashtanga Deep](https://open.spotify.com/track/51KqzonYq7QaXDOHXLguHT) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Ashtanga Deep](https://open.spotify.com/album/4G5YinQNlXd8yLCpaW7fxh) | 2:43 | 2024-03-14 | 2024-07-09 |
 | [Astrolabe](https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC) | [Zilliondust](https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM) | [Slowly Floating Through Space](https://open.spotify.com/album/372wf1vVLL9okON5afmUxV) | 2:31 | 2022-11-22 | 2025-01-30 |
 | [Atlantis](https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Atlantis](https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA) | 4:18 | 2022-09-02 |  |
@@ -220,7 +221,7 @@
 | [Parameters](https://open.spotify.com/track/2bCW53cveSKclOEnzlbJyC) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves](https://open.spotify.com/album/0TeJOSgDHYKwwj3K1zxblP) | 5:15 | 2020-12-08\* | 2021-07-06 |
 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 | 2021-02-22 | 2022-07-29 |
 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 | 2022-09-02 |  |
-| [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 | 2022-11-11 |  |
+| [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 | 2022-11-11 | 2025-03-15 |
 | [Perfect Morning \- Speck from CYNE Remix](https://open.spotify.com/track/1KSv7wt8YplLa5useD2I0D) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA), [Speck From CYNE](https://open.spotify.com/artist/5xdr4nT8gezbvSBLn2jyRz) | [The Branches \(Deluxe Edition\)](https://open.spotify.com/album/6DsdLxkHx1VlKvLxa2Y57w) | 4:24 | 2021-01-15 | 2021-05-27 |
 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 | 2020-12-08\* |  |
 | [Planisphere](https://open.spotify.com/track/1W0YP2A8OtX5QuZsmhWTJQ) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Planisphere](https://open.spotify.com/album/0KLDFB02OJIOfekbHVyJVq) | 2:34 | 2025-02-26 |  |

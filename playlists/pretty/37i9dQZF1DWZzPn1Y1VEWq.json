@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 379953,
+  "num_followers": 380017,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 238573,
       "name": "Magia Veneno",
       "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Amor de verano",
-      "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+      "duration_ms": 197386,
+      "name": "Amor de verano",
+      "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -555,6 +539,22 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -623,8 +623,8 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 224266,
-      "name": "El Revelde",
-      "url": "https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn"
+      "duration_ms": 276573,
+      "name": "El Final Es En Donde Part\u00ed",
+      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "La resaka",
-      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -755,8 +739,24 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "La resaka",
+      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
       "artists": [
         {
@@ -764,25 +764,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 276573,
-      "name": "El Final Es En Donde Part\u00ed",
-      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+      "duration_ms": 224266,
+      "name": "El Revelde",
+      "url": "https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -799,6 +783,22 @@
       "duration_ms": 198706,
       "name": "Par Mil",
       "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 181560,
-      "name": "Eso Vive",
-      "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
+      "duration_ms": 269186,
+      "name": "Entero O A Pedazos",
+      "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1540,9 +1540,9 @@
           "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 269186,
-      "name": "Entero O A Pedazos",
-      "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
+      "duration_ms": 181560,
+      "name": "Eso Vive",
+      "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
     },
     {
       "added_at": "2024-06-12 23:26:13",

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover:  Chappell Roan
 
-1,446 songs - 3 day 12 hr 3 min
+1,448 songs - 3 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Borderline Personality Disorder](https://open.spotify.com/track/1jKyOUSRGcndfevJkMWzC5) | [Late Night Frequency](https://open.spotify.com/artist/6KlCDsQyOKX5daro8Eq66N) | [Borderline Personality Disorder](https://open.spotify.com/album/4fRunL93okU5Nu67N0UkNR) | 4:46 | 2025-01-17 | 2025-02-07 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-25 | 2024-05-25 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 |  |
+| [Born Fire](https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:16 | 2025-03-14 |  |
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-16 | 2024-06-14 |
 | [Bouquet](https://open.spotify.com/track/2enUDT2dlL5o3NXB7f7L8E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet](https://open.spotify.com/album/50F6vOQBQF2qo1jwVTfv9J) | 3:25 | 2024-11-14 | 2024-12-21 |
 | [Bouquet for Me](https://open.spotify.com/track/7dlbeaOxrdBSt7TZDQNmZK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Bouquet for Me](https://open.spotify.com/album/1dWlslDvWgxfH0OpdnOVyR) | 3:48 | 2025-03-14 |  |
@@ -848,6 +849,7 @@
 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2024-03-28 | 2024-05-03 |
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-20 | 2024-07-05 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 | 2024-07-12 |
+| [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-14 |  |
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2024-11-28 | 2024-12-28 |
 | [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 | 2024-06-28 | 2024-07-27 |
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-04-19 | 2024-05-17 |

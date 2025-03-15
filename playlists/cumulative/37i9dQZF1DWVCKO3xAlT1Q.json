@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Shh",
+        "url": "https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8"
+      },
+      "artists": [
+        {
+          "name": "Theo Evan",
+          "url": "https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177496,
+      "name": "Shh",
+      "url": "https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14"
+    },
+    {
+      "album": {
         "name": "Strobe Lights",
         "url": "https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF"
       },

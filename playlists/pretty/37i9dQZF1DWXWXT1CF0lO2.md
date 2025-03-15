@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 
 > Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,300 likes - 78 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,351 likes - 78 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 | 77 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/4tw2MGyKR4FW8vIShly7T9) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 2:55 |
 | 78 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 |
 
-Snapshot ID: `ZusUvAAAAABWYbAAygB1PNiBA8HiGEAo`
+Snapshot ID: `Z9TLhAAAAAADBbAwSRYLEwUTJki4yDj/`

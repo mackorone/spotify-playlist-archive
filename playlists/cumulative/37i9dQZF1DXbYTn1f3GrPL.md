@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-277 songs - 11 hr 57 min
+278 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2023-04-03 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2023-04-03 |  |
 | [Dandelions](https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Dandelions](https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA) | 2:23 | 2023-11-29 |  |
-| [dans le parc](https://open.spotify.com/track/2uEp6wdb5UNAYFNBkWmt3J) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [dans le parc](https://open.spotify.com/album/6pRsfveEQb6awaB89uGeIa) | 2:12 | 2024-08-20 |  |
+| [dans le parc](https://open.spotify.com/track/2uEp6wdb5UNAYFNBkWmt3J) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [dans le parc](https://open.spotify.com/album/6pRsfveEQb6awaB89uGeIa) | 2:12 | 2024-08-20 | 2025-03-15 |
 | [day by day](https://open.spotify.com/track/50G6irpZApduau5QFZhicP) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [day by day](https://open.spotify.com/album/3s3vBEGWENJESmsyeDpl4s) | 2:17 | 2024-12-04 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2023-04-03 |  |
 | [Dedication](https://open.spotify.com/track/5UKTmSINIygGZJR4MFx9Mu) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Dedication](https://open.spotify.com/album/0mHFXI7cpZez6t913U6MWB) | 3:07 | 2023-04-03 |  |
@@ -197,6 +197,7 @@
 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 | 2023-04-03 |  |
 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 | 2023-04-03 |  |
 | [Rowan's Lullaby](https://open.spotify.com/track/2Q5J3fYP2cPXDQwCsS0OkT) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Hymn](https://open.spotify.com/album/3Ib3ew2pm5a2UOmAAbn7QC) | 1:56 | 2023-04-03 | 2023-08-22 |
+| [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 | 2025-03-14 |  |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2023-04-03 |  |
 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 | 2023-04-03 |  |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2023-04-03 |  |

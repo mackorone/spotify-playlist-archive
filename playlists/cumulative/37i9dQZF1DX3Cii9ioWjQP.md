@@ -2,13 +2,14 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: MIHYANG MOON\(문미향\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: SM Jazz Trio\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-243 songs - 17 hr 19 min
+244 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Tis Autumn \(feat\. Dan Nimmer Trio\)](https://open.spotify.com/track/61sV2f0c7LJl0nukJTgpGx) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD), [Dan Nimmer Trio](https://open.spotify.com/artist/5gP5K1peTVqvLrGCEXWj9k) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 4:59 | 2025-02-18 |  |
+| [11:11 \- Jazz Version](https://open.spotify.com/track/21Zg58JQ1sw6IlGtjSVZWE) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [11:11 \(Jazz Version\)](https://open.spotify.com/album/7eJvuGHr0cKz0gnUV7pPrP) | 4:34 | 2025-03-14 |  |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-05-27 | 2025-02-19 |
 | [20](https://open.spotify.com/track/2msLuuR6McXi7HSDx8eQ53) | [OoOoot](https://open.spotify.com/artist/4fsY70sj9x9wBlLhea60If), [Soojung Kae](https://open.spotify.com/artist/0RSwmChSMmgD9CXYDuxb8s) | [변곡점\. 최규철 계수정 최노아](https://open.spotify.com/album/2AGZJLWlkTuR7Z3SngzpU1) | 16:24 | 2023-10-04 | 2024-11-07 |
 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 | 2022-05-03 | 2023-02-08 |
@@ -19,7 +20,7 @@
 | [A Snowy Field](https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81) | [LCY Project](https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i) | [A Snowy Field](https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv) | 3:24 | 2024-04-18 | 2024-11-28 |
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 | 2024-08-11 |
 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 | 2023-02-07 | 2024-11-07 |
-| [Align](https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd) | [안예솔](https://open.spotify.com/artist/3OqUywgeOGuCnfA8P2XlKB) | [Align](https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8) | 5:35 | 2024-06-07 |  |
+| [Align](https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd) | [안예솔](https://open.spotify.com/artist/3OqUywgeOGuCnfA8P2XlKB) | [Align](https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8) | 5:35 | 2024-06-07 | 2025-03-15 |
 | [Annual plant](https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/0fa0ZARLeWnBSdaYQK1BaK) | 4:21 | 2023-02-07 | 2024-11-07 |
 | [Annual plant](https://open.spotify.com/track/3TcPYJi9lSwwt350olQ3zB) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/5tiTWtLR5CEqNzpeEUqVm7) | 4:21 | 2023-07-24 | 2024-04-19 |
 | [Artemis In My Pluto](https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/54NVZYARZKQhFC7QT6ldym) | 3:09 | 2023-02-07 | 2024-11-07 |

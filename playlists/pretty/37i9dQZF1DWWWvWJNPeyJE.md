@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,056 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,137 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 52 | [Made Love First](https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:45 |
 | 53 | [Alone](https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Alone](https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig) | 2:49 |
 | 54 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |
-| 55 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
-| 56 | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u) | 3:12 |
+| 55 | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u) | 3:12 |
+| 56 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
 | 57 | [Love Controversy, Pt\. 1](https://open.spotify.com/track/65vHeUg08NqpNjgp4J78Th) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo), [Sunay Suleyman](https://open.spotify.com/artist/5XOt8DizAeCLP92Y1l8BHp) | [Look How Long](https://open.spotify.com/album/0ObU1HpJzqahdHUy7qbN6F) | 3:29 |
 | 58 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
 | 59 | [Me & U \- US Version](https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Me & U](https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd) | 3:11 |

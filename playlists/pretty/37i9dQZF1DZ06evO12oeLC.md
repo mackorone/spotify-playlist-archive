@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 27 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 |
 | 28 | [Rien à prouver](https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5) | 4:02 |
 | 29 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
-| 30 | [Noir](https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 2:39 |
+| 30 | [L’orage](https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:17 |
 | 31 | [GARÇON](https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:13 |
-| 32 | [L’orage](https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:17 |
+| 32 | [Noir](https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 2:39 |
 | 33 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 |
 | 34 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
 | 35 | [PETIT <3](https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
 | 50 | [La mamma](https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 4:03 |
 
-Snapshot ID: `Z9DOgAAAAAClPi5pCoWEQ0IO06pnysSr`
+Snapshot ID: `Z9IgAAAAAADHYKtXJsVYWpo7DG3U/U0H`

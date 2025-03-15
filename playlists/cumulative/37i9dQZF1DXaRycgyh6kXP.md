@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-211 songs - 15 hr 44 min
+212 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 | 2022-02-03 |  |
 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 | 2022-02-03 | 2024-12-28 |
 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 | 2022-02-03 | 2023-11-14 |
+| [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 | 2025-03-14 |  |
 | [runnersz](https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:20 | 2022-02-03 | 2025-02-15 |
 | [Saccade](https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie) | 4:09 | 2022-02-03 | 2024-04-19 |
 | [Saccade](https://open.spotify.com/track/5ajrKj2QzWMVNTkqTaZgJq) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/3SayP9khvJ3VK0w0fJ1mnE) | 4:09 | 2022-02-03 |  |
@@ -193,7 +194,7 @@
 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 | 2022-02-03 | 2024-09-09 |
 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 | 2022-02-03 | 2024-04-19 |
 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 | 2023-11-13 |  |
-| [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 | 2022-02-03 |  |
+| [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 | 2022-02-03 | 2025-03-15 |
 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 | 2022-02-03 | 2024-04-19 |
 | [Together \- Rework](https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Go / Together](https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw) | 8:06 | 2022-02-03 | 2023-04-19 |
 | [Together \- Rework](https://open.spotify.com/track/6PBGwNxMnoAxJWzHCeKniV) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Together \(Rework\)](https://open.spotify.com/album/57oAoUku9KguapyuQ3b2gJ) | 8:06 | 2022-02-03 | 2022-07-29 |

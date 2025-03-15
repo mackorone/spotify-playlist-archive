@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1666471,
+  "num_followers": 1666820,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
-      },
-      "artists": [
-        {
-          "name": "Flanders",
-          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "Behind - Callea Radio Mix",
-      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 251706,
       "name": "Baba O'Riley (Radio Edit)",
       "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
+      },
+      "artists": [
+        {
+          "name": "Flanders",
+          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "Behind - Callea Radio Mix",
+      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Come into My Life (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213305,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 401360,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Come into My Life (10th Anniversary)",
-        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213305,
-      "name": "Freed from Desire",
-      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Exploration of Space",
-        "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Exploration of Space - Radio Edit",
-      "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Exploration of Space",
+        "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Exploration of Space - Radio Edit",
+      "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Addiction (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "duration_ms": 173634,
+      "name": "Addiction - Radio Edit",
+      "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "L.E.F.",
         "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
       },
@@ -1959,6 +1975,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 453146,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
       },
@@ -1975,22 +2007,6 @@
       "duration_ms": 216573,
       "name": "Another Place - Radio Edit",
       "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 453146,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2031,38 +2047,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Addiction (Radio Edit)",
-        "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        }
-      ],
-      "duration_ms": 173634,
-      "name": "Addiction - Radio Edit",
-      "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 225400,
       "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
       "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
     },
     {
       "added_at": "2024-07-12 15:40:20",

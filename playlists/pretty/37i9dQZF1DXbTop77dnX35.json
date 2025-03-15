@@ -1,6 +1,6 @@
 {
   "description": "New Music from Davido, Ruger, Chappell Roan   and more ",
-  "num_followers": 107392,
+  "num_followers": 108079,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -34,6 +34,10 @@
         {
           "name": "Ruger",
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 194436,
@@ -699,6 +703,26 @@
     {
       "added_at": "2025-03-14 00:01:28",
       "album": {
+        "name": "TO BE A MAN",
+        "url": "https://open.spotify.com/album/5cLfj4YhTOT6l5upgTrIGD"
+      },
+      "artists": [
+        {
+          "name": "ogbanje",
+          "url": "https://open.spotify.com/artist/3VB10o5j05jlL5FXfyCNGC"
+        },
+        {
+          "name": "JOHN ZELO",
+          "url": "https://open.spotify.com/artist/7zgm4C7Gxgw0Yk9b7KXfB0"
+        }
+      ],
+      "duration_ms": 161935,
+      "name": "TO BE A MAN",
+      "url": "https://open.spotify.com/track/6IAnHI2UYVJ8MCtdND5u9H"
+    },
+    {
+      "added_at": "2025-03-14 00:01:28",
+      "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/0c4o1KNRCE38Re6PbW8GrG"
       },
@@ -761,7 +785,7 @@
       "artists": [
         {
           "name": "Caliph",
-          "url": "https://open.spotify.com/artist/4SOF1kWJ41oDBFGb3QvGgz"
+          "url": "https://open.spotify.com/artist/6vJfZRJYmQUR8YCRMd0ka2"
         },
         {
           "name": "Jaywon",

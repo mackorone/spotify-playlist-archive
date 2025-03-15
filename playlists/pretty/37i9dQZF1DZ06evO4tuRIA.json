@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 92696,
+  "num_followers": 92750,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA0UFfXvfjg7MwN/AiAqyCj",
+  "snapshot_id": "Z9IgAAAAAACLltdIV5lSZ0ZzwAYEj/IA",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170672,
-      "name": "En La Bola (feat. El De La Guitarra)",
-      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170672,
+      "name": "En La Bola (feat. El De La Guitarra)",
+      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Magic, Vol.1",
-        "url": "https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561"
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
       "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 191843,
-      "name": "Pateando Latas",
-      "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {
       "added_at": null,
@@ -843,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+        "name": "The Magic, Vol.1",
+        "url": "https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561"
       },
       "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+      "duration_ms": 191843,
+      "name": "Pateando Latas",
+      "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
     },
     {
       "added_at": null,

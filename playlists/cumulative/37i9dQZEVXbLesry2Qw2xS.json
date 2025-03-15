@@ -6618,7 +6618,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -6636,7 +6636,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 122037,
       "name": "check",
       "url": "https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y"
@@ -28251,6 +28251,24 @@
     },
     {
       "album": {
+        "name": "Mustrid",
+        "url": "https://open.spotify.com/album/5ddy1sv3283yjU0mR3Q4Oi"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Mustrid",
+      "url": "https://open.spotify.com/track/2tD631MTRgTWLOXQdJJ8W2"
+    },
+    {
+      "album": {
         "name": "Joonistatud mees",
         "url": "https://open.spotify.com/album/2wEhHooNtz0LKXFxVbtf6H"
       },
@@ -42400,7 +42418,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 120000,
       "name": "tiit marvel",
       "url": "https://open.spotify.com/track/5vpRJ11UdT4IXlSUHIqUxg"
@@ -43982,7 +44000,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"

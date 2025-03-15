@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Max",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Avanirabekittu",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -22928,7 +22928,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 292802,
       "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
       "url": "https://open.spotify.com/track/5pDR4N3CDBvmc0N50DJu37"
@@ -27420,6 +27420,36 @@
       "duration_ms": 260056,
       "name": "Oh Sundara (From \"Life is Beautifu\")",
       "url": "https://open.spotify.com/track/3Od1JoDNJuoKwGthmFAgyj"
+    },
+    {
+      "album": {
+        "name": "Oho Hrudaya (From \"Avanirabekittu\")",
+        "url": "https://open.spotify.com/album/2coEtfZvQlauDl5cP7K8t1"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        },
+        {
+          "name": "Loki Tavasya",
+          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
+        },
+        {
+          "name": "Arun Prasad",
+          "url": "https://open.spotify.com/artist/7bzCufwHvwgrogzheVOxVf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280291,
+      "name": "Oho Hrudaya (From \"Avanirabekittu\")",
+      "url": "https://open.spotify.com/track/6G1WsITUBKOQcRtUAaGLlk"
     },
     {
       "album": {

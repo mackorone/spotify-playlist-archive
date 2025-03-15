@@ -4,7 +4,7 @@
 
 > Pop, but it's different\. Cover: LE SSERAFIM
 
-1,622 songs - 3 day 9 hr 45 min
+1,624 songs - 3 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/1LaSuvCbVB87ANKGfjUTbh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/album/6bm9QRIdbRMjsrSNVzj9E0) | 3:07 | 2020-11-28 | 2021-02-26 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-14 | 2022-09-04 |
 | [as long as i have you](https://open.spotify.com/track/01TtrmZEiYitpwDUcPQ6dj) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [as long as i have you](https://open.spotify.com/album/2cSD5WNOxWrEBzfTQUFsh9) | 2:42 | 2021-06-05 | 2021-07-10 |
+| [Ash](https://open.spotify.com/track/5o4U0weUIAXolji4sEAnjI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 3:17 | 2025-03-14 |  |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-05-08 | 2021-07-17 |
 | [At My Worst](https://open.spotify.com/track/2tI4WyzqOOwC23S5m0kqcB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [At My Worst \(Joel Corry Remix\)](https://open.spotify.com/album/3dygrCny9zRwSODkRGXV8U) | 2:50 | 2021-01-09 | 2021-04-17 |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-03-04 | 2024-07-06 |
@@ -301,6 +302,7 @@
 | [COLD FEET](https://open.spotify.com/track/18ku9bc0G27FivKQ6NQXFa) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [HEROGIRL](https://open.spotify.com/album/4T89kaLNyKWyrbiH0J2J1a) | 3:06 | 2021-03-14 | 2021-05-14 |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-14 | 2023-07-22 |
 | [Come Here and Leave Me Alone](https://open.spotify.com/track/0NDx2QYoEdgH9HTn5yfXeA) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/7r7JeEo8jY8QTZvSCLOwir) | 3:06 | 2021-02-20 | 2021-05-03 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-14 |  |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-05-28 | 2021-08-21 |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-04 | 2022-05-14 |
 | [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 | 2023-09-22 |

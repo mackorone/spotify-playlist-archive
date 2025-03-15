@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,320 songs - 2 day 22 hr 29 min
+1,321 songs - 2 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Agboju Logun \(THEMBA's Herd Mix\)](https://open.spotify.com/track/4NmpQrAvm2XwSvlbnsB5BP) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agboju Logun \(THEMBA's Herd Mix\)](https://open.spotify.com/album/1589fRSGHWLPn6Upyb9j4A) | 3:09 | 2022-10-20 | 2022-11-18 |
 | [Alarm](https://open.spotify.com/track/2PoeiWVqyUDcpbnV1S9NIq) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Alarm](https://open.spotify.com/album/7C7Q2rDr8p7JQeaVaHomDM) | 2:51 | 2024-12-12 |  |
 | [Alcohol](https://open.spotify.com/track/4axu2A6Q4GIglXWF5gPLpK) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Alcohol](https://open.spotify.com/album/2diOxvi3Qc0VcAs7Bcv9xW) | 3:23 | 2023-07-27 | 2023-12-19 |
+| [Alegria](https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN) | [Alegria](https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE) | 3:44 | 2025-03-14 |  |
 | [Algorithm](https://open.spotify.com/track/763bin34MwKqujSalWc3lf) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Algorithm](https://open.spotify.com/album/6wkTf1uj9mHedCLQJdmnHF) | 3:44 | 2024-10-24 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-10-30 |  |
 | [Alive](https://open.spotify.com/track/6mN40z3rm6Yg7Pl5L9MSnx) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/5ZLcOtEmIuI9DFQfBSamFs) | 3:12 | 2024-07-12 | 2024-10-19 |

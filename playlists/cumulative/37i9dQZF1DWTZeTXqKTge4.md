@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: High Klassified
 
-785 songs - 1 day 16 hr 3 min
+786 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [3e avenue](https://open.spotify.com/track/1Utqa3AcyGm5qZGek8WxQP) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [3e avenue](https://open.spotify.com/album/7F34U28n3S1sT9jkVWcgd9) | 3:28 | 2022-01-07 | 2022-04-02 |
 | [4 Freestyle](https://open.spotify.com/track/7iwVomN3kJh4qTjCAOlZnS) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [4 Freestyle](https://open.spotify.com/album/0N8iFVEWhVVXla6ASyOa2m) | 2:51 | 2022-01-07 | 2022-01-29 |
 | [40](https://open.spotify.com/track/6MJSvI0HaZC2W5JIZg9w50) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [40](https://open.spotify.com/album/1k7givc0662M7BReqqkAGx) | 2:30 | 2024-07-19 |  |
+| [4502](https://open.spotify.com/track/3fV0H6wr3f36sMga8xrgUp) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Genèse](https://open.spotify.com/album/3Les4fAJE90bbd7fVzOGzD) | 2:41 | 2025-03-14 |  |
 | [4AMINRDP](https://open.spotify.com/track/2c0er12peuMMb9bol1Ktig) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI) | [2003](https://open.spotify.com/album/1LppY42rL5Y6LmNJ0evHez) | 2:48 | 2023-04-07 | 2023-06-17 |
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2022-01-07 | 2022-02-12 |
 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 | 2022-01-21 | 2022-05-14 |
@@ -326,7 +327,7 @@
 | [Himalaya](https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Himalaya](https://open.spotify.com/album/2vvmAj7sVdf02DxJ5hdcXW) | 2:55 | 2023-05-19 | 2024-03-02 |
 | [HIT](https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [HIT](https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR) | 3:36 | 2022-05-20 | 2022-10-22 |
 | [Hit Me Up](https://open.spotify.com/track/4HN6EqlbPwlAJWAUIWnYsC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Hit Me Up](https://open.spotify.com/album/18UDNQmWIoRzpgp3GROLcr) | 3:13 | 2022-11-18 | 2022-12-03 |
-| [HOH](https://open.spotify.com/track/0no1HeZQ4DfeE6OOmWW07z) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [HOH](https://open.spotify.com/album/6nLohCDgRgxZkOzm4K0qZD) | 2:36 | 2025-01-10 |  |
+| [HOH](https://open.spotify.com/track/0no1HeZQ4DfeE6OOmWW07z) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [HOH](https://open.spotify.com/album/6nLohCDgRgxZkOzm4K0qZD) | 2:36 | 2025-01-10 | 2025-03-15 |
 | [Hold it down](https://open.spotify.com/track/31CvdrRgCvWY3QpgJW7h9F) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Hold it down](https://open.spotify.com/album/1W30EfvKo5lbKhBcsooDD8) | 3:04 | 2022-11-25 | 2023-04-15 |
 | [Hold On](https://open.spotify.com/track/2rTkTwADWvIQ2NXixzpTWI) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Hold On](https://open.spotify.com/album/0KsdScu60du8oOKxtArluO) | 1:57 | 2024-07-05 |  |
 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 | 2022-05-20 | 2023-04-09 |

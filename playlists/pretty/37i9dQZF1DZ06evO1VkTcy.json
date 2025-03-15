@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22009,
+  "num_followers": 22013,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADF+Y9dRCE4vFBUhYZonDq0",
+  "snapshot_id": "Z9IgAAAAAAAGuZPHm0YtUHz/BMp/f7aq",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frio e Vento",
+        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Melhor N\u00e3o",
+      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frio e Vento",
-        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Melhor N\u00e3o",
-      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chore N\u00e3o",
+        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "Chore N\u00e3o",
+      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chore N\u00e3o",
-        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Chore N\u00e3o",
-      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
     },
     {
       "added_at": null,

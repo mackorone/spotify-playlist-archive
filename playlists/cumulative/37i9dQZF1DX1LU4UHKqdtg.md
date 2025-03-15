@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: JENNIE
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: LE SSERAFIM
 
-1,409 songs - 3 day 3 hr 12 min
+1,410 songs - 3 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Hope from KWANGYA](https://open.spotify.com/track/41Ne4OIfSkf6NgAwGVwWpJ) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 5:33 | 2021-12-28 | 2022-02-15 |
 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-10 | 2023-10-07 |
 | [Hoshiakari](https://open.spotify.com/track/0RYFsnf8Tr40PwUnPInMNk) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Aurora](https://open.spotify.com/album/6U6R4q9mYDaUIrXvkT1Ih7) | 3:28 | 2025-02-07 |  |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 | 2022-09-07 |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-02 | 2024-10-18 |
 | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [House on a Hill \(feat\. Em Beihold\)](https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q) | 3:18 | 2023-07-20 | 2023-08-19 |

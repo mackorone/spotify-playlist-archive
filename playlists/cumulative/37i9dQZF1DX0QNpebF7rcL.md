@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Billy F Gibbons
 
-445 songs - 1 day 5 hr 50 min
+446 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Better The Devil You Know](https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Better The Devil You Know](https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8) | 4:41 | 2024-08-16 |  |
 | [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 | 2023-10-13 |  |
 | [Big Legged Man](https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 4:25 | 2022-09-30 | 2024-05-25 |
-| [Big Legged Woman](https://open.spotify.com/track/00TKSt0hEavnD9JnNmJ66E) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Big Legged Woman](https://open.spotify.com/album/2uOWCYOp5q5NHUqtn3yhQI) | 4:08 | 2025-02-21 |  |
+| [Big Legged Woman](https://open.spotify.com/track/00TKSt0hEavnD9JnNmJ66E) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Big Legged Woman](https://open.spotify.com/album/2uOWCYOp5q5NHUqtn3yhQI) | 4:08 | 2025-02-21 | 2025-03-15 |
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-11-12 | 2022-04-23 |
 | [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 | 2023-11-18 |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
@@ -320,6 +320,7 @@
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-11-05 | 2022-01-29 |
 | [Shake This Ground](https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Shake This Ground](https://open.spotify.com/album/5jaSNW3WZMo54quHZkymAs) | 4:07 | 2025-02-28 |  |
 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 | 2021-07-23 | 2024-03-02 |
+| [She's a Burglar](https://open.spotify.com/track/1HrmuN1wQqriGqfh3DLJDH) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [She’s a Burglar](https://open.spotify.com/album/40V4cWIRG38FH4DMKwTvXX) | 2:42 | 2025-03-14 |  |
 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 | 2020-12-14 | 2022-02-26 |
 | [She’s On Fire](https://open.spotify.com/track/3ExuTGplbf3o6ilyu4JhY4) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:46 | 2021-06-04 | 2022-05-20 |
 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 | 2020-12-14 | 2022-02-26 |

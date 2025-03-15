@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 353424,
+  "num_followers": 353920,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABRbJzkTre533brJtsmTc8f",
+  "snapshot_id": "Z9IgAAAAAABgqUh7/5YbQsNyLYW44AJ7",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
         "url": "https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 168746,
       "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
       "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF"
     },
     {
       "added_at": null,

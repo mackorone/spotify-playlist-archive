@@ -4,7 +4,7 @@
 
 > Grandes hits do BR e do 🌎 / Foto: Lady Gaga
 
-366 songs - 17 hr 56 min
+367 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Jogadora Cara](https://open.spotify.com/track/6ZYqH6a64AgVtB8THlUyHB) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Jogadora Cara](https://open.spotify.com/album/14RHyHpG3BjFDbJAGOVNOv) | 2:08 | 2024-12-11 |  |
 | [JOIA RARA](https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq) | [JOIA RARA](https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN) | 2:32 | 2023-07-17 | 2024-01-19 |
 | [Lancha No Mar](https://open.spotify.com/track/15HxJyDE8KBAeWPyWTYAHn) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Lancha No Mar](https://open.spotify.com/album/5X7VuQ7u60fXQpPAaWh1LN) | 2:30 | 2023-12-15 | 2024-02-21 |
+| [Larissa \- From Larissa: The Other Side Of Anitta](https://open.spotify.com/track/4eN4QEyIMKQasrQiUUQgq4) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Larissa \(From Larissa: The Other Side Of Anitta\)](https://open.spotify.com/album/2SdPpzdOr4yv0HuvNNWFPc) | 2:15 | 2025-03-14 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-27 | 2022-07-30 |
 | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-08-16 | 2024-12-07 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-27 | 2022-07-19 |
@@ -326,7 +327,7 @@
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-29 | 2022-08-27 |
 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-07-19 | 2024-08-17 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-05-20 | 2022-06-13 |
-| [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-05-17 |  |
+| [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-05-17 | 2025-03-15 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-10-31 |  |
 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 | 2024-08-16 | 2025-01-15 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-30 | 2024-11-16 |

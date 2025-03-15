@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "OPUS: The Moretti EP",
+        "url": "https://open.spotify.com/album/0sQ6SIFkUL0q6uWqwt6PeG"
+      },
+      "artists": [
+        {
+          "name": "Moretti",
+          "url": "https://open.spotify.com/artist/3ktQgk9MvFpkUTLIC9QYra"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208096,
+      "name": "35mm",
+      "url": "https://open.spotify.com/track/19u2oRqyuvib863dxpDWam"
+    },
+    {
+      "album": {
         "name": "DivaGurl: A Story By Keke Palmer - EP",
         "url": "https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth"
       },
@@ -658,6 +684,32 @@
       "duration_ms": 106840,
       "name": "Enlightenment (Main Title Theme) - from \"The White Lotus: Season 3\"",
       "url": "https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 Original Soundtrack (Extended Edition)",
+        "url": "https://open.spotify.com/album/1CxQei6YVHL6PaunOZzsum"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150478,
+      "name": "Fantastic (demo version) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6FWSbeXZ5EzDBVxTnJ0rf8"
     },
     {
       "album": {
@@ -1604,7 +1656,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 197279,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY"
@@ -1770,7 +1822,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 201402,
       "name": "Strength And Honor",
       "url": "https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX"

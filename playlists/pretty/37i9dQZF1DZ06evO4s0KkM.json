@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 120612,
+  "num_followers": 120664,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACT9Pxzk94Ox+6GHexjz4ru",
+  "snapshot_id": "Z9IgAAAAAACczVdkO0hQm/l5CS7PNzW4",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cold Like This",
         "url": "https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 156618,
       "name": "Cold Like This",
       "url": "https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Prisoner's Song",
-      "url": "https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 177887,
       "name": "Barroom Hero",
       "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 109134,
       "name": "Cadence To Arms",
       "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 132393,
-      "name": "My Eyes Are Gonna Shine",
-      "url": "https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 139152,
       "name": "Finnegan's Wake",
       "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 132393,
+      "name": "My Eyes Are Gonna Shine",
+      "url": "https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "I Know How It Feels",
-      "url": "https://open.spotify.com/track/6HHOfCasAA4atEOl1EZppQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222749,
       "name": "Turn Up That Dial",
       "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "I Know How It Feels",
+      "url": "https://open.spotify.com/track/6HHOfCasAA4atEOl1EZppQ"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Jimmy Collins' Wake",
+      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okemah Rising",
         "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 217772,
       "name": "Watchin The World Go By",
       "url": "https://open.spotify.com/track/3H23O1qOJa99E7wFpPT6Ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 225175,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 225175,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okemah Rising",
         "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 166065,
       "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
       "url": "https://open.spotify.com/track/7I5gYS1jiCj3MDS6NUPvCc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Jimmy Collins' Wake",
-      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
     },
     {
       "added_at": null,

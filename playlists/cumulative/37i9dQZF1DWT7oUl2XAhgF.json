@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 239533,
       "name": "Great Wind",
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 197305,
       "name": "ICNBYH",
       "url": "https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A"
@@ -4082,6 +4082,24 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
+    },
+    {
+      "album": {
+        "name": "Just As Long As We're Together",
+        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194992,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
     },
     {
       "album": {
@@ -5115,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Momma Earth",
+        "url": "https://open.spotify.com/album/58Lye0z0I1uOJI0mdSkL4z"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearl",
+          "url": "https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172224,
+      "name": "Momma Earth",
+      "url": "https://open.spotify.com/track/0uFCJosTOS3pPDImbWhdpT"
+    },
+    {
+      "album": {
         "name": "More To Learn",
         "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
       },
@@ -5228,6 +5264,28 @@
       "duration_ms": 242520,
       "name": "Mrs.",
       "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+    },
+    {
+      "album": {
+        "name": "My 45 (with Jean Carter)",
+        "url": "https://open.spotify.com/album/7mEwuN28ktuDL0y0bL4iB3"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Jean Carter",
+          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178841,
+      "name": "My 45 (with Jean Carter)",
+      "url": "https://open.spotify.com/track/0bkjYsOt7EDEjW1SdUsVx6"
     },
     {
       "album": {

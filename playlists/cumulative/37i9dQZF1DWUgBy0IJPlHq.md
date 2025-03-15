@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: The Brudi Brothers
+> A new shade of Country\. Cover: Charley Crockett
 
-615 songs - 1 day 13 hr 32 min
+616 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Live Off](https://open.spotify.com/track/62NCBgd9im9741RNTVNahK) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Live Off](https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C) | 3:35 | 2022-09-23 | 2024-10-05 |
 | [Live With Me](https://open.spotify.com/track/0XvNERkCNQXBfnlwYLOLma) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live With Me](https://open.spotify.com/album/4BE1HH4fHulpfVc2XGd4iL) | 3:23 | 2022-04-15 | 2022-06-04 |
 | [Lonely Mountain Town](https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lonely Mountain Town](https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18) | 3:50 | 2025-02-28 |  |
-| [Lonesome Drifter](https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB) | 3:02 | 2025-01-31 |  |
+| [Lonesome Drifter](https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB) | 3:02 | 2025-01-31 | 2025-03-15 |
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2021-12-17 | 2022-03-05 |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 | 2023-05-06 |
 | [Long, Long Year](https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T) | [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Long, Long Year](https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8) | 4:19 | 2022-07-29 | 2023-04-09 |
@@ -378,6 +378,7 @@
 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 | 2022-02-04 | 2022-06-11 |
 | [Never Love You Again \(Feat\. Sierra Ferrell\)](https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [F\-1 Trillion](https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw) | 3:06 | 2024-08-16 | 2025-03-01 |
 | [Never Wanted To Be That Girl \- Acoustic Version](https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl \(Acoustic Version\)](https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC) | 3:31 | 2022-01-07 | 2022-02-12 |
+| [Night Rider](https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:18 | 2025-03-14 |  |
 | [No Cowboys](https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX) | 3:47 | 2023-02-17 | 2024-11-16 |
 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 | 2023-01-10 | 2024-05-11 |
 | [No Mistakes](https://open.spotify.com/track/2PXCc6js8bDejt118mTfKk) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [No Mistakes](https://open.spotify.com/album/2NOEHe54jdS5JgyaVoggqd) | 2:52 | 2021-12-17 | 2022-02-12 |

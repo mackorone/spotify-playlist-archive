@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 86846,
+  "num_followers": 86917,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACD+dtIJ3TfDvIb55krvt2c",
+  "snapshot_id": "Z9IgAAAAAADCJ7HXIgkf9gFJKpVr0Jl8",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rover (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "Rover (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 191656,
       "name": "Memories in My Head",
       "url": "https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rover (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "Rover (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
     },
     {
       "added_at": null,

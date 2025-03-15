@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 150588,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/35pAZQU6X9WjIlUyuej4DF"
@@ -16380,7 +16380,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -18432,7 +18432,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -21582,7 +21582,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 149832,
       "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
       "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
@@ -26645,6 +26645,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
+        "url": "https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR"
+      },
+      "artists": [
+        {
+          "name": "Domiy",
+          "url": "https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159567,
+      "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
+      "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
+    },
+    {
+      "album": {
         "name": "\u0410\u043c\u0430\u043b\u044c\u0433\u0430\u043c\u0430",
         "url": "https://open.spotify.com/album/4zuYs8vCPbEYt2YmxDPQmw"
       },
@@ -27622,7 +27640,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"

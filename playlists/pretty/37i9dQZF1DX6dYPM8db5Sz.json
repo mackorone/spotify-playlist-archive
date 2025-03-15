@@ -1,28 +1,76 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=DUTpxbScSdma0rEXXrW3Nw\">Hugo Pooe</a>",
-  "num_followers": 12488,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv?si=5fQj3E11TFGdWr2K4tnrPA\">Joneaux</a>",
+  "num_followers": 12489,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8rAIAAAAACOmvf5nlBLdkW62dcI8IkT",
+  "snapshot_id": "Z9R3SQAAAADcEazEbWZbO2El00Dg/lqu",
   "tracks": [
     {
-      "added_at": "2025-02-27 22:00:21",
+      "added_at": "2025-03-14 18:23:19",
       "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/5148Kh8FLbVujoy9hTxYS9"
+        "name": "Eat You Up",
+        "url": "https://open.spotify.com/album/6cj7vtmOQrzSmZ3RwYdx5v"
       },
       "artists": [
         {
-          "name": "Hugo Pooe",
-          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+          "name": "Joneaux",
+          "url": "https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv"
         }
       ],
-      "duration_ms": 163124,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7sN6eKMMXaVDRY0KYALWoc"
+      "duration_ms": 110404,
+      "name": "Eat You Up",
+      "url": "https://open.spotify.com/track/5Jfh0EBXSFeoMCFG28Ekx7"
+    },
+    {
+      "added_at": "2025-03-14 18:23:19",
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/3NLGIpo033W3CLCLzbxesT"
+      },
+      "artists": [
+        {
+          "name": "Tyler Page",
+          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/3yyscCaSaB5QpwpiGqQf7Z"
+    },
+    {
+      "added_at": "2025-03-14 18:23:19",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 207312,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
+    },
+    {
+      "added_at": "2025-03-14 18:23:19",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/4BVBc55x4URYz4wLi4RXxV"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/2578Qrf5xqP9a82DyOlQgJ"
     },
     {
       "added_at": "2025-03-06 22:00:12",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
     },
     {
+      "added_at": "2025-03-14 18:23:19",
+      "album": {
+        "name": "right there",
+        "url": "https://open.spotify.com/album/5BvVRvbWHpXKSm358sVfir"
+      },
+      "artists": [
+        {
+          "name": "Taking Back March",
+          "url": "https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "right there",
+      "url": "https://open.spotify.com/track/0snM31xeF7wCU902VdqsYK"
+    },
+    {
       "added_at": "2025-03-06 22:00:12",
       "album": {
         "name": "Too Pretty For Buffalo",
@@ -55,6 +119,22 @@
       "duration_ms": 236525,
       "name": "Too Pretty For Buffalo",
       "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
+    {
+      "added_at": "2025-02-27 22:00:21",
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5148Kh8FLbVujoy9hTxYS9"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7sN6eKMMXaVDRY0KYALWoc"
     },
     {
       "added_at": "2025-03-06 22:00:12",
@@ -1551,86 +1631,6 @@
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/6Xkj32ImVp9ERS474TivpO"
-      },
-      "artists": [
-        {
-          "name": "Tyler Page",
-          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
-        }
-      ],
-      "duration_ms": 183139,
-      "name": "Deathstar",
-      "url": "https://open.spotify.com/track/4kHh5qHanjaZ5AIJ7Vctmo"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Let Me Get Over You (Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/6W15jSZbNnSZk1raHFiT8j"
-      },
-      "artists": [
-        {
-          "name": "Wynand Fourie",
-          "url": "https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Let Me Get Over You - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/6c5RG2bSPHZ6kd29YOE7lv"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "The Brink (Single)",
-        "url": "https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "The Brink (Single)",
-      "url": "https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "this is my california / bear walk",
-        "url": "https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "bear walk",
-      "url": "https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "23 Down the Line",
-        "url": "https://open.spotify.com/album/0q3wUvFVkMPABznv0Pzbmo"
-      },
-      "artists": [
-        {
-          "name": "Gerry",
-          "url": "https://open.spotify.com/artist/3wbOanWJxWjAjMQtvrcbvA"
-        }
-      ],
-      "duration_ms": 294102,
-      "name": "23 Down the Line",
-      "url": "https://open.spotify.com/track/4iw1yLGbSGQKWEFsVYhbUX"
     }
   ],
   "unique_name": "Indie GO",

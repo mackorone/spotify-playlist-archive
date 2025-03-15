@@ -2,9 +2,9 @@
 
 ### [Enamorándose](https://open.spotify.com/playlist/37i9dQZF1DX14fkzxPABaL)
 
-> La música que te acompaña en el amor\. Foto: Ricardo Arjona.
+> La música que te acompaña en el amor\. Foto: Maria Becerra.
 
-222 songs - 12 hr 13 min
+223 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Tanto Tiempo](https://open.spotify.com/track/4yf4uC5sUEDd5wmTmQ5TNl) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Tanto Tiempo](https://open.spotify.com/album/0NNubU1dSIvFt4xrm8qxCI) | 2:37 | 2022-01-14 | 2022-07-16 |
 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 | 2023-12-15 |  |
 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 | 2022-01-14 | 2022-04-06 |
+| [TATÚ](https://open.spotify.com/track/7s2Eb3VgCT8o7ALu1jeTqk) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [TATÚ](https://open.spotify.com/album/25I7wgyiOpw0nJBhAkYutI) | 3:20 | 2025-03-14 |  |
 | [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 | 2023-08-18 |  |
 | [Te Amo](https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ) | [Te Amo](https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT) | 4:02 | 2024-08-26 | 2025-01-18 |
 | [Te Echo de Menos](https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Te Echo de Menos](https://open.spotify.com/album/0HVcUL17jKyY4F8PqiUF8T) | 3:25 | 2022-11-11 | 2023-06-17 |

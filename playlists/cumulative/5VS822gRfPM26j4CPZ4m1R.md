@@ -4,7 +4,7 @@
 
 > Playlist
 
-588 songs - 1 day 10 hr 53 min
+589 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Comme On S’Aime](https://open.spotify.com/track/28KWCfT3nKLqrnjganSfMF) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:28 | 2023-10-25 |  |
 | [Cool Down](https://open.spotify.com/track/57azADqjTPXHWXb3PDv7pF) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Cool Down](https://open.spotify.com/album/1vHxfidoyqGtg9CU4u0y85) | 3:40 | 2024-11-27 |  |
 | [Cowboy Song](https://open.spotify.com/track/6WTxv1kJXyOHV24Vl7iiqa) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Cowboy Song](https://open.spotify.com/album/0sc8w9PIOdSNhCBeNIkzMH) | 3:05 | 2024-02-21 |  |
+| [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 | 2025-03-14 |  |
 | [Crisps](https://open.spotify.com/track/4tr0dC4OeZ3BiamawrXhwJ) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Crisps](https://open.spotify.com/album/6QhighkjILoTR21W5fZIkU) | 5:07 | 2024-11-15 |  |
 | [Cruel AF](https://open.spotify.com/track/4y5QQiNuFRDGbwFzTEpTom) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [Cruel AF](https://open.spotify.com/album/15rIUj9JZDfTVN5KUkiiO0) | 3:31 | 2023-10-25 |  |
 | [Cryboy](https://open.spotify.com/track/4Yyb6227pxYZeVkFCoGFiC) | [Frazier Blue](https://open.spotify.com/artist/6tdhC262dmuL7W8MnTr1tx) | [Cryboy](https://open.spotify.com/album/5mIWHGNv2GOeqlth7cT31K) | 3:37 | 2023-10-25 |  |

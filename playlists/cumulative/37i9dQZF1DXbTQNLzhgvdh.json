@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "B\u00e9lico Tierno",
+        "url": "https://open.spotify.com/album/56JOOwdcdJYhrblyyfxbFi"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163604,
+      "name": "B\u00e9lico Tierno",
+      "url": "https://open.spotify.com/track/0JkAPXfhxn9TySOaCw2WVV"
+    },
+    {
+      "album": {
         "name": "B\u00e9same Bonito (Micro TDH Remix)",
         "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"

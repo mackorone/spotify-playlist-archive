@@ -8095,6 +8095,24 @@
     },
     {
       "album": {
+        "name": "GUIDE ME",
+        "url": "https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "GUIDE ME",
+      "url": "https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc"
+    },
+    {
+      "album": {
         "name": "Halle",
         "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
       },

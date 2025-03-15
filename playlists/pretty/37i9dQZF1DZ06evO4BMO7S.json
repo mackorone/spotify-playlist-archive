@@ -1,29 +1,13 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 20212,
+  "num_followers": 20239,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAACgSuR7OUBqjEGUKLBB/VI8",
+  "snapshot_id": "Z9IgAAAAAAD/OP+i3fiR3/icAAPT0lEK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Circuit",
-        "url": "https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Mega Circuit",
-      "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mega Circuit",
+        "url": "https://open.spotify.com/album/1hWuBWREfpHifHWl73XraS"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "Mega Circuit",
+      "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soft Sounds from Another Planet",
         "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 213986,
       "name": "Boyish",
       "url": "https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 218744,
+      "name": "Kokomo, IN",
+      "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
     },
     {
       "added_at": null,
@@ -95,22 +111,6 @@
       "duration_ms": 234970,
       "name": "Maybes - RAC Mix",
       "url": "https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 218744,
-      "name": "Kokomo, IN",
-      "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
-      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
+      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 66703,
-      "name": "Campfires",
-      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 220316,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 66703,
+      "name": "Campfires",
+      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Heft",
-      "url": "https://open.spotify.com/track/5j7CjG3iZzyfOSoLCEzIHx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 146184,
       "name": "Savage Good Boy",
       "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Heft",
+      "url": "https://open.spotify.com/track/5j7CjG3iZzyfOSoLCEzIHx"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 196214,
       "name": "Essentially",
       "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
     },
     {
       "added_at": null,

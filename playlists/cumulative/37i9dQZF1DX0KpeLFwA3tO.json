@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Panic Shack",
+  "description": "The best new music from the wide world of punk. Cover: Dinosaur Pile-Up",
   "name": "All New Punk",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
+    },
+    {
+      "album": {
+        "name": "'Bout To Lose It",
+        "url": "https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221193,
+      "name": "'Bout To Lose It",
+      "url": "https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto"
     },
     {
       "album": {
@@ -320,7 +338,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 203426,
       "name": "2005",
       "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 160090,
       "name": "2011 Caravan",
       "url": "https://open.spotify.com/track/2CjpfsZf02l6deAF2Bgbo3"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 185100,
       "name": "Apocalypse Days",
       "url": "https://open.spotify.com/track/6TZIlT2hus2kPiVkGEt7CO"
@@ -2834,6 +2852,24 @@
       "duration_ms": 177946,
       "name": "AT 4 AM",
       "url": "https://open.spotify.com/track/1IGNgvpWeVYjSCfFKOM0Gu"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/6xdKQ53JqAMqBZlYyjZeV4"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233971,
+      "name": "At Peace",
+      "url": "https://open.spotify.com/track/1RCzGsb8Mg2y848NgwMK6Z"
     },
     {
       "album": {
@@ -3490,7 +3526,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 190673,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
@@ -5902,6 +5938,24 @@
       "duration_ms": 172205,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
+    },
+    {
+      "album": {
+        "name": "BYD",
+        "url": "https://open.spotify.com/album/4qy2G1FbWBKiF6C8OQQit2"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141081,
+      "name": "BYD",
+      "url": "https://open.spotify.com/track/5kjdSY3Obth9z4khYPg9Kz"
     },
     {
       "album": {
@@ -14033,6 +14087,24 @@
     },
     {
       "album": {
+        "name": "Black My Heart",
+        "url": "https://open.spotify.com/album/1WK3lghvhWd1rLFEEHFqgJ"
+      },
+      "artists": [
+        {
+          "name": "Nasty",
+          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107326,
+      "name": "FTW",
+      "url": "https://open.spotify.com/track/7zfPw6p1o1pBNS8qVDjSb5"
+    },
+    {
+      "album": {
         "name": "Fuck 'Em",
         "url": "https://open.spotify.com/album/7gsQPfDVZL8A6dsmkTmOqH"
       },
@@ -16438,7 +16510,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 188506,
       "name": "Head & Spine",
       "url": "https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD"
@@ -16694,7 +16766,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 250506,
       "name": "Hell of a Ride",
       "url": "https://open.spotify.com/track/0k0uWfJHXZdj3k3d7uHmQn"
@@ -21419,6 +21491,24 @@
     },
     {
       "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/161uvpWswpix18rpbmjweW"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231834,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/6x1xKHkuGepbfjpDkSuUIk"
+    },
+    {
+      "album": {
         "name": "Lemon.",
         "url": "https://open.spotify.com/album/7AFHXoMbiae0nMlAyKvxhk"
       },
@@ -22955,6 +23045,24 @@
     },
     {
       "album": {
+        "name": "Lung Tied",
+        "url": "https://open.spotify.com/album/1XIEOUl3kyKYuCWaN8uCOH"
+      },
+      "artists": [
+        {
+          "name": "Last Night Saved My Life",
+          "url": "https://open.spotify.com/artist/0AcQzV75nMVCmChGNyGzPH"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176725,
+      "name": "Lung Tied",
+      "url": "https://open.spotify.com/track/0Hl2nXBEf9a4XNahvFXmkU"
+    },
+    {
+      "album": {
         "name": "Mad Punks",
         "url": "https://open.spotify.com/album/4nwScVt1NcTUnqToAbrasu"
       },
@@ -23542,7 +23650,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 223229,
       "name": "me against me",
       "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
@@ -25333,6 +25441,24 @@
     },
     {
       "album": {
+        "name": "SURVIVING THE DREAM (DELUXE)",
+        "url": "https://open.spotify.com/album/3CDP7RZkWMjtjvmXTHWcQm"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "NEW TATTOO",
+      "url": "https://open.spotify.com/track/5azhtuDKm8YUNfeKsWloBK"
+    },
+    {
+      "album": {
         "name": "New Vegas Bomb",
         "url": "https://open.spotify.com/album/7aoEMaN8AglA4KP1Pq8Aoq"
       },
@@ -26077,6 +26203,24 @@
     },
     {
       "album": {
+        "name": "i\u2019m still breathing",
+        "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182234,
+      "name": "nosebleeds",
+      "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
+    },
+    {
+      "album": {
         "name": "Not Afraid To Die",
         "url": "https://open.spotify.com/album/5vrjCQBXWBG5oiBSTC2BXN"
       },
@@ -26644,7 +26788,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 146576,
       "name": "On And On",
       "url": "https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty"
@@ -27947,6 +28091,24 @@
     },
     {
       "album": {
+        "name": "people person",
+        "url": "https://open.spotify.com/album/6CFoGJHB56kQeinHTwTLYW"
+      },
+      "artists": [
+        {
+          "name": "Mclusky",
+          "url": "https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "people person",
+      "url": "https://open.spotify.com/track/2F9u9MfIpAh8U6cvlX087r"
+    },
+    {
+      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -28091,6 +28253,24 @@
     },
     {
       "album": {
+        "name": "Pesambre",
+        "url": "https://open.spotify.com/album/50rhx0847BpLx391oLvk1t"
+      },
+      "artists": [
+        {
+          "name": "Malos Vicios",
+          "url": "https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241628,
+      "name": "Pesambre",
+      "url": "https://open.spotify.com/track/79uTN9yqWuXnfU9yybyS0B"
+    },
+    {
+      "album": {
         "name": "Lie Your Way Out",
         "url": "https://open.spotify.com/album/4jrqL89L1mezhs2NG3yCb8"
       },
@@ -28124,6 +28304,24 @@
       "duration_ms": 163418,
       "name": "PET WITH THE TISM",
       "url": "https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a"
+    },
+    {
+      "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/4uG8wb3GgpdiHcyE4x0irk"
+      },
+      "artists": [
+        {
+          "name": "Mattstagraham",
+          "url": "https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158027,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/2HyUK3mdLvnrz8e55LI0Yn"
     },
     {
       "album": {
@@ -30388,7 +30586,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 175064,
       "name": "Ring meg hvis du trenger en venn",
       "url": "https://open.spotify.com/track/0l1iA5tnB6ZJyDqMAMk8n4"
@@ -31714,6 +31912,24 @@
       "duration_ms": 197714,
       "name": "Self-determined",
       "url": "https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s"
+    },
+    {
+      "album": {
+        "name": "Disabuse",
+        "url": "https://open.spotify.com/album/4E94x7wGMs64p1bFvTzc8L"
+      },
+      "artists": [
+        {
+          "name": "Fucked Up",
+          "url": "https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220273,
+      "name": "Self-Driving Man",
+      "url": "https://open.spotify.com/track/5OcXipWZjDt1q8Q4YyQl72"
     },
     {
       "album": {
@@ -35333,6 +35549,24 @@
     },
     {
       "album": {
+        "name": "Supermodels",
+        "url": "https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Supermodels",
+      "url": "https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy"
+    },
+    {
+      "album": {
         "name": "Supply/Demand",
         "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
       },
@@ -35582,7 +35816,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 227987,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
@@ -37145,6 +37379,24 @@
     },
     {
       "album": {
+        "name": "The Gallows",
+        "url": "https://open.spotify.com/album/4GiZ3umpeFvhdrIT18s480"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/4vvNPN2vvlzUlczESr9P0B"
+    },
+    {
+      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/00CaleppRhwLyiE6GYpINo"
       },
@@ -37558,6 +37810,24 @@
       "duration_ms": 194500,
       "name": "The Service",
       "url": "https://open.spotify.com/track/5frQ815y2MozbjcCg8y4TZ"
+    },
+    {
+      "album": {
+        "name": "The Sham! The Sham! The Sham!",
+        "url": "https://open.spotify.com/album/2fE2cFgRPMGObeddrglvLv"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131677,
+      "name": "The Sham! The Sham! The Sham!",
+      "url": "https://open.spotify.com/track/1XkkYWC4CpHZmjpcRolLKw"
     },
     {
       "album": {
@@ -38092,6 +38362,24 @@
       "duration_ms": 146496,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL"
+    },
+    {
+      "album": {
+        "name": "Those Who Know Know Why",
+        "url": "https://open.spotify.com/album/0CUOjMno8sLL48p2hKxz6f"
+      },
+      "artists": [
+        {
+          "name": "The Warriors",
+          "url": "https://open.spotify.com/artist/0eHAMIAxiBEpQdv8UVwSxb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125391,
+      "name": "Those Who Know Know Why",
+      "url": "https://open.spotify.com/track/0xxymmSLKBicHAVa1yz0ZD"
     },
     {
       "album": {
@@ -39124,7 +39412,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 167285,
       "name": "Turn Away",
       "url": "https://open.spotify.com/track/1mHgzfXK8OtiHBqYwCmHeG"
@@ -41731,6 +42019,24 @@
     },
     {
       "album": {
+        "name": "Under a Plastic Bag",
+        "url": "https://open.spotify.com/album/2GStLX0NY1Cm0ySEIIn5bk"
+      },
+      "artists": [
+        {
+          "name": "Real Sickies",
+          "url": "https://open.spotify.com/artist/69zOtixHikb7pSLZGKYYRN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Wild Imagination",
+      "url": "https://open.spotify.com/track/77k9kl2WiBMXDw8KNI2XU3"
+    },
+    {
+      "album": {
         "name": "Wild In Our Ways",
         "url": "https://open.spotify.com/album/2u8WJiB65UGW7ixjOACeCO"
       },
@@ -42396,7 +42702,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 222317,
       "name": "You",
       "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Gigi Perez",
+  "description": "A laid-back trip in the folk scene. Cover: Tamino",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 223930,
       "name": "514-415",
       "url": "https://open.spotify.com/track/4HIKvlYBPneU1DbxFJEvmT"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 242142,
       "name": "a good thing",
       "url": "https://open.spotify.com/track/3XtGjqUdiR7VMNxb8Xoi1S"
@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Blurring Time",
+        "url": "https://open.spotify.com/album/5V8CQQ5ZioyFbHId6xijCk"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146175,
+      "name": "Blurring Time",
+      "url": "https://open.spotify.com/track/1P8E9GntMtRnKQttcy0vTp"
+    },
+    {
+      "album": {
         "name": "Wisecrack",
         "url": "https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT"
       },
@@ -2266,6 +2284,24 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+    },
+    {
+      "album": {
+        "name": "Broke Skin",
+        "url": "https://open.spotify.com/album/52ZgfTnnDFpoEdkpQgZpLO"
+      },
+      "artists": [
+        {
+          "name": "John Fellner",
+          "url": "https://open.spotify.com/artist/6UG9kN30jWV7MjmNr9qsPv"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208109,
+      "name": "Broke Skin",
+      "url": "https://open.spotify.com/track/5fQMaOutNKEkqrxEAtq4uC"
     },
     {
       "album": {
@@ -3196,7 +3232,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 249575,
       "name": "come on, baby! be a good girl for the camera",
       "url": "https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1"
@@ -4493,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/0qS2NDMHBbTtTNE0B3CWeb"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245776,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV"
+    },
+    {
+      "album": {
         "name": "Early Morning Sun",
         "url": "https://open.spotify.com/album/3b8Exk4GmAPa3OVUNhij5L"
       },
@@ -5576,7 +5630,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 172956,
       "name": "Fast One",
       "url": "https://open.spotify.com/track/6pj2C7ARwZT14JZlQBmYCY"
@@ -5746,6 +5800,24 @@
       "duration_ms": 195000,
       "name": "Feu de paille",
       "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6tzccxVEVRfVEHQ3mvOAH3"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3fBvBMzxJp9LNxkq8dhRY7"
     },
     {
       "album": {
@@ -8625,6 +8697,24 @@
     },
     {
       "album": {
+        "name": "If You Want My Time",
+        "url": "https://open.spotify.com/album/2OS1pqMz8ymM2zNpPG6OY6"
+      },
+      "artists": [
+        {
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "If You Want My Time",
+      "url": "https://open.spotify.com/track/00foKBzYIPEH65VSm0gnHS"
+    },
+    {
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/2cpkgp3HpNu1utO3jdJ9ge"
       },
@@ -9292,7 +9382,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 188000,
       "name": "Julia, East Coast",
       "url": "https://open.spotify.com/track/0kkYVRYnDbL0VE4etDz9UX"
@@ -11399,6 +11489,24 @@
     },
     {
       "album": {
+        "name": "Moon, Sea, Devil",
+        "url": "https://open.spotify.com/album/4fIfH7xhW5ttqB8epYyT1a"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136471,
+      "name": "Moon, Sea, Devil",
+      "url": "https://open.spotify.com/track/3jUvtsuNDIxDLcDfLYjTXN"
+    },
+    {
+      "album": {
         "name": "Moondog",
         "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
       },
@@ -11778,6 +11886,24 @@
       "duration_ms": 231636,
       "name": "Nature Song For The Time Being",
       "url": "https://open.spotify.com/track/72HNZVAFnutuwYfOAwu78z"
+    },
+    {
+      "album": {
+        "name": "Conditions of Love Vol. 1",
+        "url": "https://open.spotify.com/album/1i9B7npmLgexUN0mDkJuAZ"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248062,
+      "name": "Needed You",
+      "url": "https://open.spotify.com/track/6aVFO2CybfLoLLZuQASe6s"
     },
     {
       "album": {
@@ -12558,6 +12684,24 @@
       "duration_ms": 315733,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a"
+    },
+    {
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/1M59UjZ6KQLUnNERnpmBeD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4FcVcASfnIedJfxIi0a2QM"
     },
     {
       "album": {
@@ -14272,7 +14416,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 191586,
       "name": "Risk",
       "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu"
@@ -14730,7 +14874,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 234482,
       "name": "Same Old You",
       "url": "https://open.spotify.com/track/0JyzBEeiJNppgBWinakl0f"
@@ -14946,7 +15090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 207853,
       "name": "Second Chances",
       "url": "https://open.spotify.com/track/6ewdKghlTHnXY9igI8TD1W"
@@ -16852,7 +16996,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 183617,
       "name": "That\u2019s How Long (I\u2019ve waited for your love)",
       "url": "https://open.spotify.com/track/0WrQ9mTGIMN5DsQadeqcvp"
@@ -19552,6 +19696,24 @@
       "duration_ms": 264926,
       "name": "White Lies, White Jesus And You",
       "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
+    },
+    {
+      "album": {
+        "name": "Who Wants",
+        "url": "https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205448,
+      "name": "Who Wants",
+      "url": "https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5"
     },
     {
       "album": {

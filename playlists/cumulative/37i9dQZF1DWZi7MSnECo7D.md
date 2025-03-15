@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Karen Jonz
+> Música brasileira fora da curva\. Foto: terraplana
 
-765 songs - 1 day 19 hr 22 min
+768 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Ensolação](https://open.spotify.com/track/0rXSE30GCmV2IBiLcpz2pz) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Jovens Estúpidos](https://open.spotify.com/album/3yEIEHHlQHwE8EvgJ6Mi6s) | 1:37 | 2023-10-20 | 2024-06-08 |
 | [enterro dos ossos](https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB) | [Gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [enterro dos ossos](https://open.spotify.com/album/763NGc1NT0bfk4DjfLUmcH) | 2:51 | 2022-04-15 | 2022-05-07 |
 | [Entre na Água](https://open.spotify.com/track/6RA2QfzU3X9OgcXlD8HmDm) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Entre na Água](https://open.spotify.com/album/4W1nKR7GeHJhuaW6ZHhH2U) | 2:56 | 2023-08-04 | 2024-03-02 |
+| [Entretenimento](https://open.spotify.com/track/6cQRPykiP3e5WfDuwFrHkB) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Entretenimento](https://open.spotify.com/album/4SOEQ6rWFHy2BmZQUjluT8) | 2:44 | 2025-03-14 |  |
 | [Errare Humanum Est](https://open.spotify.com/track/2v95wNLuJPSTlA77BzLgf5) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [O Paraíso](https://open.spotify.com/album/1D4MVmHzpqIF7OApaXpFTt) | 5:09 | 2023-01-13 | 2023-07-08 |
 | [Escada](https://open.spotify.com/track/2ZlsElSMPAnYLoQCiSuHtR) | [Holger](https://open.spotify.com/artist/27euzsPUnsiX6SutdBXti0) | [Más Línguas](https://open.spotify.com/album/0PRKUbWTY6GxYSEexWXEcQ) | 3:09 | 2023-07-14 | 2023-11-18 |
 | [Escorpião](https://open.spotify.com/track/7Cg0bIXGCR4oPRG9JJuR8M) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm) | [Escorpião](https://open.spotify.com/album/520X99we0leIKsZyGrwCVX) | 2:58 | 2023-05-19 | 2023-09-23 |
@@ -341,6 +342,7 @@
 | [juízo](https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B) | [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [juízo](https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ) | 2:51 | 2023-08-18 | 2024-03-30 |
 | [Já Chegou ao Fim](https://open.spotify.com/track/2ShUPRqDDS3yWwiYH60fxU) | [Sérgio Sacra](https://open.spotify.com/artist/3NxtY4W1T0rci50byVVIPw) | [Duvide dos Astros](https://open.spotify.com/album/1oMFpAddDdZsY02OnNu4yN) | 3:14 | 2024-09-13 |  |
 | [Já Sei Bem](https://open.spotify.com/track/3kDmLxXVt51zY3tIBT23Hj) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Já Sei Bem](https://open.spotify.com/album/0CAMmC8eKr3mSJ7bgnrAVj) | 2:06 | 2025-01-17 |  |
+| [Lado a Lado](https://open.spotify.com/track/1S1BCou6QaSG5aYOgKxhsy) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Lado a Lado](https://open.spotify.com/album/6zK1tzUF2M2QmwZUcu8wf6) | 3:08 | 2025-03-14 |  |
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 | 2022-07-23 |
 | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/2B6FmouvT6DchQ9F66K8Fs) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/album/0TBOkEVfhlnfQRK99DlpcT) | 2:56 | 2024-06-07 | 2024-07-13 |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 | 2022-07-09 |
@@ -493,7 +495,7 @@
 | [O Viajante](https://open.spotify.com/track/6wZREwKUbPx0OZTZBiUd2Q) | [Graxelos](https://open.spotify.com/artist/78lzMT8QkKOJGwzjPbSEpP) | [Shangri\-Lá](https://open.spotify.com/album/1q3H406m4bYcT2MES86Bkk) | 5:07 | 2024-04-26 | 2024-08-17 |
 | [O Último Girassol](https://open.spotify.com/track/3MRw4AVPeLDlLDWAY5SfFo) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [O Último Girassol](https://open.spotify.com/album/0z6HPQVrWSTeCXAAIDhLjq) | 3:19 | 2023-08-04 | 2024-03-02 |
 | [Oi Xodózinho](https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y) | [QUITXA](https://open.spotify.com/artist/2cvrw3HWvaY0DoEvOYUvc6), [HEO](https://open.spotify.com/artist/0H1f4AwctYhhhyNywuWi21) | [Oi Xodózinho](https://open.spotify.com/album/7iIBpoiJlGI0bN0EH8RLvJ) | 2:04 | 2025-01-17 | 2025-02-01 |
-| [Olha Pra Mim](https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Olha Pra Mim](https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI) | 2:08 | 2024-12-06 |  |
+| [Olha Pra Mim](https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Olha Pra Mim](https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI) | 2:08 | 2024-12-06 | 2025-03-15 |
 | [olhos cansados](https://open.spotify.com/track/3pt0xyf4ZVO2SRnMOf47r8) | [O Temporal](https://open.spotify.com/artist/2g9eJDWyPM1LzUwTWFZjpG) | [o temporal](https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC) | 4:41 | 2022-02-11 | 2023-04-15 |
 | [Ontem](https://open.spotify.com/track/4r1EfYKnKmYvrx4VRiCKNk) | [Ale Sater](https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx) | [Ontem](https://open.spotify.com/album/2V6HAHc2D0ltLAgFXBtP6A) | 3:06 | 2024-08-09 |  |
 | [Oração 18 \(pra viver junto\)](https://open.spotify.com/track/7pocXmDZywvGx6vNz2VpIc) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X) | [Oração 18 \(pra viver junto\)](https://open.spotify.com/album/1G5SOAr5BN4J50Sa54mE3f) | 3:02 | 2024-03-29 | 2024-06-29 |
@@ -601,7 +603,7 @@
 | [se escolher primeiro](https://open.spotify.com/track/2a2IQ1Bbc6sgzhki9WqgpX) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX) | [ANTIPÁTICA](https://open.spotify.com/album/3nMF2SqvgYgvCkPRBWxba2) | 3:32 | 2023-09-01 | 2024-03-30 |
 | [Se Não Quer Ficar](https://open.spotify.com/track/0SZAJdmomQsZEQHqliF3BB) | [John Bianchi](https://open.spotify.com/artist/05hwMm996CzWNUUqiaLO7P) | [Se Não Quer Ficar](https://open.spotify.com/album/7IPy6MxIm9HPCQCtlLSci3) | 3:37 | 2023-03-31 | 2023-04-09 |
 | [Se Você Quiser](https://open.spotify.com/track/6GinDJJ5NGdbrkSUrivGkz) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Se Você Quiser](https://open.spotify.com/album/0XC9oH16ALFjo5QpXweevZ) | 2:55 | 2022-06-03 | 2022-06-11 |
-| [Seco Seu Gelo](https://open.spotify.com/track/1h9OBPHQ1j0E3OolaQAK84) | [Luiza Carmo](https://open.spotify.com/artist/559DQx1QwaUc7lzOuYhttq) | [Seco Seu Gelo](https://open.spotify.com/album/1Se6hfDD8jkbNm14KviTPw) | 2:45 | 2025-01-17 |  |
+| [Seco Seu Gelo](https://open.spotify.com/track/1h9OBPHQ1j0E3OolaQAK84) | [Luiza Carmo](https://open.spotify.com/artist/559DQx1QwaUc7lzOuYhttq) | [Seco Seu Gelo](https://open.spotify.com/album/1Se6hfDD8jkbNm14KviTPw) | 2:45 | 2025-01-17 | 2025-03-15 |
 | [Segredo](https://open.spotify.com/track/4rNdkeJRBA4GQxbkI8YqR6) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj) | [Segredo](https://open.spotify.com/album/5eU1Fz5ZMApp5smsVVnLlu) | 4:04 | 2023-08-25 | 2024-03-30 |
 | [sei la](https://open.spotify.com/track/4O3ZXXU6CDddfXwXvsbRiL) | [brvnks](https://open.spotify.com/artist/3aiMnxQVc0OvFr5vv8g5VW), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [sei la](https://open.spotify.com/album/0BfYdVbmaQnSu3AM2LwZQS) | 2:37 | 2022-01-14 | 2022-05-07 |
 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 | 2022-04-22 | 2023-04-01 |
@@ -652,7 +654,7 @@
 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 | 2022-09-23 | 2023-04-30 |
 | [Tarde](https://open.spotify.com/track/7pySQ7DJISRKepvNV8YxFN) | [clara bicho](https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK) | [Tarde](https://open.spotify.com/album/2BxpdeCcDeJgl8l47ZoZgI) | 2:44 | 2023-11-10 | 2024-02-24 |
 | [Tatuagem](https://open.spotify.com/track/76zObbgCpNkONNVieHQIa1) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [27](https://open.spotify.com/album/203t976XBYkGGqxz4zAIau) | 2:00 | 2024-08-30 | 2024-12-07 |
-| [Te Estranho](https://open.spotify.com/track/4sJgM57DxwyiaU5SPyhIhG) | [maquinas](https://open.spotify.com/artist/25nahlb6zTMSuEX0ZgLsUT), [Felipe Couto](https://open.spotify.com/artist/6naHHqIVdvTVlzuVs0IxKL), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Te Estranho](https://open.spotify.com/album/2hod12Qxx26Hk5IDOw9K9Q) | 8:02 | 2024-09-13 |  |
+| [Te Estranho](https://open.spotify.com/track/4sJgM57DxwyiaU5SPyhIhG) | [maquinas](https://open.spotify.com/artist/25nahlb6zTMSuEX0ZgLsUT), [Felipe Couto](https://open.spotify.com/artist/6naHHqIVdvTVlzuVs0IxKL), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Te Estranho](https://open.spotify.com/album/2hod12Qxx26Hk5IDOw9K9Q) | 8:02 | 2024-09-13 | 2025-03-15 |
 | [TELA DE CINEMA](https://open.spotify.com/track/5Y0xSeJalkj96H5pp1ae0h) | [Luna Di](https://open.spotify.com/artist/4nNEvDiE4ZIwyed39o4ZoQ) | [MADALENA](https://open.spotify.com/album/1NNOSRwqPiPzIXokDTsFPC) | 3:18 | 2024-11-01 | 2024-12-07 |
 | [Tema Para Marisa Monte](https://open.spotify.com/track/0rpqWmRWBswnIHUG0pYWMC) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Lolólove](https://open.spotify.com/album/6ZVrzdqpAEOsoWA2w4HZK3) | 2:27 | 2023-10-06 | 2023-10-28 |
 | [Tempo de Mistério](https://open.spotify.com/track/6Tca1NDEg2WAItq6KtVNSd) | [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Tempo de Mistério](https://open.spotify.com/album/46Fix62G5d3qkhQjSnnYdr) | 3:21 | 2024-05-17 | 2024-09-28 |
@@ -676,6 +678,7 @@
 | [Toada](https://open.spotify.com/track/0GxfG9JaeNHQxG227cGZxx) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Toada](https://open.spotify.com/album/6prDRGrGx8zpPas0p5OPqy) | 2:51 | 2024-07-05 | 2024-08-24 |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 | 2022-04-29 |
 | [Todacor](https://open.spotify.com/track/1TDkr2o27LFZXU9pYzGCz2) | [Chico Bernardes](https://open.spotify.com/artist/1yfkdkJduKGUIgkFR6Qjs0) | [Todacor](https://open.spotify.com/album/3HVQ90NJxJMGBj0nAZh9qs) | 4:17 | 2024-06-07 | 2024-11-30 |
+| [todo dia](https://open.spotify.com/track/7bsUJaVCGb4JpBji9gpbB8) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [natural](https://open.spotify.com/album/3JZZxtRlX16JGi8y1V2Ffu) | 3:40 | 2025-03-14 |  |
 | [Todo Dia](https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Todo Dia](https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP) | 2:36 | 2022-06-03 | 2022-06-18 |
 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 | 2023-07-21 | 2023-12-09 |
 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 | 2022-09-09 | 2022-12-24 |

@@ -3461,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/513wvSixYZZKNwNbpfs1QT"
+      },
+      "artists": [
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        },
+        {
+          "name": "Eda Hinkova",
+          "url": "https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180085,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1h2s5LF8O9m3hNJIAmF1Uw"
+    },
+    {
+      "album": {
         "name": "Bag Raiders (Deluxe)",
         "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
       },

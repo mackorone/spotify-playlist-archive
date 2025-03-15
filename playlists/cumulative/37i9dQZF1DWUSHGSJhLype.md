@@ -2,7 +2,7 @@
 
 ### [PURO SUCO DO VERÃO](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Anitta
+> aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: DG e Batidão Stronda, J\. Eskine, Mc Davi, MC G15
 
 420 songs - 20 hr 1 min
 

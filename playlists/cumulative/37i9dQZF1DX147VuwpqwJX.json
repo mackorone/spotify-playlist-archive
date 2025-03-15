@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "OPUS: The Moretti EP",
+        "url": "https://open.spotify.com/album/0sQ6SIFkUL0q6uWqwt6PeG"
+      },
+      "artists": [
+        {
+          "name": "Moretti",
+          "url": "https://open.spotify.com/artist/3ktQgk9MvFpkUTLIC9QYra"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208096,
+      "name": "35mm",
+      "url": "https://open.spotify.com/track/19u2oRqyuvib863dxpDWam"
+    },
+    {
+      "album": {
         "name": "Act Up",
         "url": "https://open.spotify.com/album/5zWxG6gbBylO8NkyS8wYfY"
       },
@@ -46,7 +72,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 260127,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1eg0rac3QbmFbLYie423SB"

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-468 songs - 1 day 2 hr 17 min
+469 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Here For You \- Bearcubs Remix](https://open.spotify.com/track/3UzmjXtZUncUbprhVYTTAc) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe), [Jack Ritchie](https://open.spotify.com/artist/3eNhNbPG6pIou8XhDhb6wC) | [Sirens \(Remixes\)](https://open.spotify.com/album/0CoYk78WZsYyT79mRSEb6Q) | 4:53 | 2020-09-13\* | 2021-03-06 |
 | [Hey Now](https://open.spotify.com/track/0McOrVxmad9tAYyxDOXOvm) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Hey Now](https://open.spotify.com/album/2SJD9OZQ0DparYmiEUZiwV) | 3:09 | 2021-07-17 | 2021-10-02 |
 | [Hey Now](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Innarius](https://open.spotify.com/artist/3ByAHu681RFcsV7iaHsdZ9) | [Hey Now](https://open.spotify.com/album/0lvmcaO9OdN8SjiB8PLt4M) | 3:58 | 2022-05-03 |  |
-| [Hey Ya!](https://open.spotify.com/track/23KYNQyJ0nW1kdIwbVT2qI) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hey Ya!](https://open.spotify.com/album/7kDk1mP1PJJHzvs9tIEvdu) | 2:49 | 2024-11-29 |  |
+| [Hey Ya!](https://open.spotify.com/track/23KYNQyJ0nW1kdIwbVT2qI) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hey Ya!](https://open.spotify.com/album/7kDk1mP1PJJHzvs9tIEvdu) | 2:49 | 2024-11-29 | 2025-03-15 |
 | [High & Choking \- Jacques Greene Remix](https://open.spotify.com/track/6f69wtX98cWPVJaYYs2pns) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [High & Choking \(Jacques Greene Remix\)](https://open.spotify.com/album/3GvVs7WNNIhKTI94Ni4Voa) | 4:38 | 2023-05-05 | 2023-12-14 |
 | [Higher](https://open.spotify.com/track/36rCmwPIB3hE2MXtvjP0cc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Higher](https://open.spotify.com/album/62UaR3oWtK94SgDjP0CN56) | 2:41 | 2021-10-23 | 2021-11-27 |
 | [Hold Me](https://open.spotify.com/track/13jgeCWlw2Bjeh90vyZajK) | [JSUNT](https://open.spotify.com/artist/5tgmqoI3yKsDNg3AuewVoM), [Brieda](https://open.spotify.com/artist/76zhe0Iq37waOXl1n9CplW) | [Hold Me](https://open.spotify.com/album/7FPgYTd0iUarrky09zXPVP) | 3:12 | 2020-09-13\* | 2020-09-15 |
@@ -403,6 +403,7 @@
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-04-24 | 2022-06-18 |
 | [Tell Them](https://open.spotify.com/track/2PrvOdgchKwyrzt6z7S2Jk) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Tell Them](https://open.spotify.com/album/5XpJD4YZlpCIQoZwZEliF0) | 2:32 | 2021-03-14 | 2021-06-26 |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-12-08 | 2024-09-28 |
+| [That's Where I Should Be](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [That's Where I Should Be](https://open.spotify.com/album/0Gj3tuAjtDbNhapyVTe7DZ) | 2:22 | 2025-03-14 |  |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2022-11-11 |  |
 | [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 | 2024-12-06 |  |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-07-26 | 2024-09-21 |

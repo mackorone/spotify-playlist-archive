@@ -4,7 +4,7 @@
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-122 songs - 6 hr 33 min
+123 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [小花貓](https://open.spotify.com/track/43zEabzh5HVXa0xfiHUo9S) | [MOMO家族](https://open.spotify.com/artist/2HpPjKN0EHmtUCE3Hv8xgt) | [MOMO玩玩樂 5\-精選兒歌](https://open.spotify.com/album/75hOKCJR2HfJRAzg4iNb5o) | 3:08 | 2024-08-17 | 2025-01-11 |
 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 | 2024-09-19 |  |
 | [快快呦 ! Pop !](https://open.spotify.com/track/3sWDdKM9G05a9QDDcvaNdj) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [快快呦 ! Pop !](https://open.spotify.com/album/2RimoQJBlgXn9T5PpXOYCt) | 1:21 | 2024-08-17 | 2024-11-03 |
-| [快樂上學去](https://open.spotify.com/track/7bHHp29aQveGQ0Tj8f205w) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:01 | 2024-08-27 |  |
+| [快樂上學去](https://open.spotify.com/track/7bHHp29aQveGQ0Tj8f205w) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:01 | 2024-08-27 | 2025-03-15 |
 | [快樂小寶貝](https://open.spotify.com/track/2KqKLiNTI9FCn5xtNHYYf7) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [貝樂虎兒歌精選系列6](https://open.spotify.com/album/4Qsa9jWt70Li6Jqm0qQzr8) | 1:10 | 2024-08-17 |  |
 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 | 2025-02-13 |  |
 | [我要去買水彩](https://open.spotify.com/track/0ui2oSnuKyVTgDD3kXS4Ci) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [我要去買水彩](https://open.spotify.com/album/2QLkyrnuyx471ejUGzqRit) | 2:34 | 2024-08-17 |  |
@@ -121,6 +121,7 @@
 | [蘑菇濃湯](https://open.spotify.com/track/1FzFfOrPoeFmVqOFKSwWoY) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [蘑菇濃湯](https://open.spotify.com/album/1odVwjDiUHoAixDprKRpmw) | 1:47 | 2024-08-17 |  |
 | [貓咪喵喵喵](https://open.spotify.com/track/4isbhyv91UWJDxdj3Pu6Wh) | [MOMO家族](https://open.spotify.com/artist/2HpPjKN0EHmtUCE3Hv8xgt), [依拜維吉](https://open.spotify.com/artist/1UoiB5geMA8jVdHwgOPiww) | [MOMO歡樂谷7\-歡樂谷的閃亮新世界](https://open.spotify.com/album/0qmGENB9oINtPt3Mp1KJHz) | 3:19 | 2024-08-17 | 2024-12-14 |
 | [起床歌](https://open.spotify.com/track/5du31s5tXWd2S6qG4wOwp7) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [寶貝的呢喃歌](https://open.spotify.com/album/2jea9wsUdrk2v2qF3FYH9h) | 3:39 | 2024-08-27 |  |
+| [跳一跳](https://open.spotify.com/track/7gGyWFw4xKs6YC5PPwRLj8) | [Sunny Bunnies](https://open.spotify.com/artist/1LGNuoBkA0dXAsUIVSKXqP) | [和阳光小兔兔一起唱 儿歌 第一辑](https://open.spotify.com/album/11suj6cTOFjAsKOvL0UpOl) | 2:39 | 2025-02-27 |  |
 | [造飛機](https://open.spotify.com/track/2aulcpPXf9TH90X8rO56Zu) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠1 下集](https://open.spotify.com/album/2DSxrfd0h82uGL4qqGvpVY) | 2:12 | 2024-08-22 |  |
 | [釣魚記](https://open.spotify.com/track/14xnm6jRmnB5PP29Pxb8MO) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名3](https://open.spotify.com/album/4qB7rdUxJHybVxT9CNJEPT) | 2:41 | 2024-08-17 |  |
 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 | 2024-08-27 |  |

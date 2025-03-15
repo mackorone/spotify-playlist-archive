@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19907,
+  "num_followers": 19911,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAhm/fzcjw/0QPq0Fi35XJX",
+  "snapshot_id": "Z9IgAAAAAAD2jrbT/1lBRHAVZPU39QGz",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
         "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin Tight",
-        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Efya",
-          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Skin Tight",
-      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
     },
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doyin",
+        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Doyin",
+      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 155990,
       "name": "DON'T JEALOUS ME",
       "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doyin",
-        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Doyin",
-      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
     },
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollup",
-        "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dammy Krane",
-          "url": "https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 260702,
-      "name": "Hollup",
-      "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -647,6 +623,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hollup",
+        "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dammy Krane",
+          "url": "https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 260702,
+      "name": "Hollup",
+      "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e0\u00e0j\u00ed",
         "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
       },
@@ -663,30 +663,6 @@
       "duration_ms": 149741,
       "name": "F\u00e0\u00e0j\u00ed",
       "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Dabebi",
-      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
     },
     {
       "added_at": null,
@@ -711,6 +687,30 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
     },
     {
       "added_at": null,
@@ -747,6 +747,30 @@
       "duration_ms": 109747,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
     },
     {
       "added_at": null,
@@ -795,30 +819,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
     },
     {
       "added_at": null,
@@ -1075,8 +1075,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For My Head",
-        "url": "https://open.spotify.com/album/2KWphjOXkBBrKcMA7YDHht"
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
       },
       "artists": [
         {
@@ -1084,17 +1084,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        },
-        {
-          "name": "D Jay",
-          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 160012,
-      "name": "For My Head",
-      "url": "https://open.spotify.com/track/2MctqofDb7O3NA0gpsAu3U"
+      "duration_ms": 153992,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
     }
   ],
   "unique_name": "This Is Mr Eazi",

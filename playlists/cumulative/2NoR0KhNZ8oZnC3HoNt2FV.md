@@ -4,7 +4,7 @@
 
 > 
 
-1,028 songs - 2 day 11 hr 1 min
+1,030 songs - 2 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Miss Primetime](https://open.spotify.com/track/19eEhd1hR5TPAcpNrhdwkN) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Brighter Future](https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3) | 3:35 | 2024-01-25 |  |
 | [Mo Bamba](https://open.spotify.com/track/3QybPutx0Tjk472bBKjNWn) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Mo Bamba](https://open.spotify.com/album/5q8LsoYDea4MBBJ21vr0Ne) | 3:00 | 2024-01-25 |  |
 | [Mo Chicken \(feat\. French Montana\)](https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:00 | 2025-01-16 |  |
+| [MOJO JOJO](https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:36 | 2025-03-14 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2024-02-14 | 2024-02-27 |
 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 | 2024-01-25 |  |
 | [Money On My Mind \(feat\. Juicy J & Alexander Lewis\)](https://open.spotify.com/track/5gx4JbNdr7DSWQVkRw9UDK) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Alexander Lewis](https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV) | [Money On My Mind \(feat\. Juicy J & Alexander Lewis\)](https://open.spotify.com/album/6Ez0msIQs3ocNQi7jpJt4j) | 3:12 | 2024-01-25 |  |
@@ -980,6 +981,7 @@
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2024-01-25 |  |
 | [Wait](https://open.spotify.com/track/3Fr8ZdWpDO3e4JbMGDFUmY) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Taylor](https://open.spotify.com/artist/49hOQR3mPgqpfbPcyaOiC6) | [Honest Living](https://open.spotify.com/album/4ssNcU1RHUvZO6eOknCGUX) | 2:58 | 2024-01-25 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2024-01-25 |  |
+| [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 | 2025-03-14 |  |
 | [Wake Up](https://open.spotify.com/track/0CbRrGIW1rhFLuE5jy84NA) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Wake Up](https://open.spotify.com/album/32ZhD1ZefWrIjnSedG8MKP) | 2:11 | 2024-01-25 |  |
 | [WAKE UP](https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:51 | 2024-01-25 |  |
 | [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 | 2024-01-25 |  |

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Chappell Roan, Håkan Hellström, estraden och  NOTD med flera\. Happy New Music Friday!
 
-18,119 songs - 39 day 3 hr 2 min
+18,122 songs - 39 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3075,6 +3075,7 @@
 | [COME MY WAY \(D1MA X VC Barre\)](https://open.spotify.com/track/2wmgX2Cyrif63Xg3lfYFhP) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [COME MY WAY \(D1MA X VC Barre\)](https://open.spotify.com/album/64ZO389Qi6MAZhu7S0Y9xi) | 2:12 | 2022-03-03 | 2022-03-11 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2022-03-17 | 2022-03-25 |
 | [COME OUTSIDE](https://open.spotify.com/track/1QniXlbTBov33SAobGAQSM) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [DEAR JAZ](https://open.spotify.com/album/3NZi3twMJ46CVPOyCpLDKy) | 3:27 | 2022-11-17 | 2022-11-25 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-14 |  |
 | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 | 2024-10-17 | 2024-10-25 |
 | [Come See Me](https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Come See Me](https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj) | 3:10 | 2023-08-31 | 2023-09-08 |
 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 | 2023-12-14 | 2023-12-22 |
@@ -4016,6 +4017,7 @@
 | [Don't Cry For Me](https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Don't Cry For Me](https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb) | 3:19 | 2022-12-15 | 2022-12-24 |
 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 | 2023-11-17 | 2023-12-09 |
 | [Don't Ever Let Go](https://open.spotify.com/track/5fVFvhELtEH3mcexE4rAEm) | [Will Prime](https://open.spotify.com/artist/1itZtM80Mzo63p5IvBEXKR), [Nathan Brumley](https://open.spotify.com/artist/0qczR3tMEP8VsRu9pCAWHP) | [Don't Ever Let Go](https://open.spotify.com/album/6sL6EjW0F7PI4iQu52c1BJ) | 3:06 | 2025-01-16 | 2025-01-24 |
+| [Don't F!!k Your Friends](https://open.spotify.com/track/0HFXYeTSAEbx58GsANBSC5) | [Mia Sandem](https://open.spotify.com/artist/5Bf52Ig2jthWUxEnIOEjEd) | [Don't F!!k Your Friends](https://open.spotify.com/album/7KPAPsZnTdvPvxvrFVAHYC) | 3:02 | 2025-03-14 |  |
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-11 | 2022-02-18 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 | 2022-07-08 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 | 2023-05-26 |
@@ -6200,6 +6202,7 @@
 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 | 2024-06-20 | 2024-06-28 |
 | [Good Boy](https://open.spotify.com/track/1wk1r3rWBdmgJq2i0XOeV3) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/0QKentEOSZDjWl3IABJaCi) | 2:52 | 2024-06-20 | 2024-06-28 |
 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 | 2022-12-01 | 2022-12-09 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 | 2023-08-10 | 2023-08-18 |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-23 | 2023-01-06 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-08-18 | 2022-08-26 |

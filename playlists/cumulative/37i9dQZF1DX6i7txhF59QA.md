@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Maijin\(마이진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-991 songs - 2 day 8 hr 36 min
+992 songs - 2 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [Man](https://open.spotify.com/track/2y8TXsO62imUFwaIokUH89) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [Na Hoon\-A\- 40th Anniverary Special Project Album](https://open.spotify.com/album/0gkUK3I9PqrIwOMwPX2hS2) | 3:45 | 2025-01-22 |  |
 | [Man](https://open.spotify.com/track/1gEaSlKwrJePFNXgd37gWg) | [Son Bin Ah](https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e), [Park Ji Hu](https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u), [Choi Jae Myung](https://open.spotify.com/artist/3LZ8BE3NWIt4PyJ3LEfyxI) | [Music Source of Mr\. Trot3 Master Preliminary Match 1st, 2nd, 3rd Place Special](https://open.spotify.com/album/4ZkXgyIW37SwF1ORyqX6tF) | 3:27 | 2025-02-20 |  |
 | [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 | 2022-04-22 |  |
-| [Man Who Left Me](https://open.spotify.com/track/2nVHBxjrX1euCiVq7zNIFg) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Queen of Diva preliminary match PART 2](https://open.spotify.com/album/5JAFCasBJSuk0QJKeLyBTa) | 3:06 | 2024-08-13 |  |
+| [Man Who Left Me](https://open.spotify.com/track/2nVHBxjrX1euCiVq7zNIFg) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Queen of Diva preliminary match PART 2](https://open.spotify.com/album/5JAFCasBJSuk0QJKeLyBTa) | 3:06 | 2024-08-13 | 2025-03-15 |
 | [Margin](https://open.spotify.com/track/3Wag3A0uJZW1vPEa5FRxAz) | [Moon Tae Jun](https://open.spotify.com/artist/2HLTuzSKcLotietgZJI44b) | [Music Source of Mr\. Trot3 Preliminary Match Best PART2](https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz) | 2:59 | 2025-02-11 |  |
 | [Margin](https://open.spotify.com/track/17UMmh0SreHMlUjDlGkQAk) | [Nam Seungmin](https://open.spotify.com/artist/2O51qiz6mXRRkGblIqwyN5) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 4:27 | 2022-05-03 | 2022-06-15 |
 | [Maria](https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:08 | 2022-04-21 |  |
@@ -787,6 +787,7 @@
 | [Way to turn and turn](https://open.spotify.com/track/390bMJtsxBcQ7Ki41p3khw) | [Jang Yeongu](https://open.spotify.com/artist/7gQXiiXmVKMypaXxY7YBr1) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 3:10 | 2024-08-13 | 2025-02-12 |
 | [We broke up too easily](https://open.spotify.com/track/2nXCItXinpEAdnLId9cE0M) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 3:20 | 2022-07-22 | 2022-07-25 |
 | [We met again.](https://open.spotify.com/track/4xou1dei2RJsReEXclyebi) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Shin Inseon](https://open.spotify.com/artist/0j3AGsh17Szy6BFiXcMpA8) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:14 | 2022-04-07 | 2022-06-11 |
+| [Weed](https://open.spotify.com/track/0KtsjIWIOtvdgMdCIkXjWX) | [Cheon Lok Dam](https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi), [Son Bin Ah](https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e), [LEE JEE HOON](https://open.spotify.com/artist/61Aeur7kZETwJ2ZjWGg1ZB) | [Music Source of Mr\. Trot3 1:1 Death Match 1st, 2nd, 3rd Place Special](https://open.spotify.com/album/6etcNjRLvdaykoaVMnxhNv) | 3:06 | 2025-03-13 |  |
 | [Weed](https://open.spotify.com/track/67tFEwTUkl1FUbLWZXuO8K) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Noh Jihoon](https://open.spotify.com/artist/52N8AeAbuYhIYqRoClTfzz) | [Love call center PART16](https://open.spotify.com/album/7u8HLtO5WhyaSCGDmciwMT) | 2:54 | 2022-04-22 | 2022-07-16 |
 | [Whale hunting](https://open.spotify.com/track/20uTSeVJMbTe1tAG8PoWNP) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:28 | 2022-04-22 | 2022-05-18 |
 | [What about my age](https://open.spotify.com/track/1ydwpL3msDrcrQx9gutdvX) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 3:20 | 2022-05-03 | 2022-07-27 |

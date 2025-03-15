@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,579 songs - 7 day 22 hr 14 min
+3,580 songs - 7 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 | 2024-07-08 | 2024-07-13 |
 | [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 | 2023-10-10 | 2023-11-08 |
 | [Aktiverad \(Klick Klack\)](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad \(Klick Klack\)](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 | 2022-10-04 | 2022-10-19 |
+| [Aku Dah Lupa](https://open.spotify.com/track/41zms2DBQjBNKDGc219LQT) | [F4dli](https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX) | [Aku Dah Lupa](https://open.spotify.com/album/0RG77mAMa6hOWUzZer5EB0) | 3:03 | 2025-03-14 |  |
 | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/track/2KCikMsmJSBEgfOOskQ87P) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/album/7L4EwSoKKigcjc4I4xDn6d) | 4:07 | 2022-05-07 | 2022-06-01 |
 | [Aku Yang Jatuh Cinta](https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Aku Yang Jatuh Cinta](https://open.spotify.com/album/3JyJQxbVR1nCUdNn1aXYTX) | 3:16 | 2024-05-28 | 2024-06-11 |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-02-01 | 2022-03-04 |
@@ -207,7 +208,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-24 | 2022-05-04 |
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-28 | 2023-12-06 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-06 | 2024-08-26 |
-| [Angels Sippen Mashup](https://open.spotify.com/track/6WpRQIRWVfmaS6gr22Zxh0) | [Der Heimer](https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Angels Sippen Mashup](https://open.spotify.com/album/54ZLvErHEB9iVrTAMpycIR) | 2:08 | 2025-03-07 |  |
+| [Angels Sippen Mashup](https://open.spotify.com/track/6WpRQIRWVfmaS6gr22Zxh0) | [Der Heimer](https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Angels Sippen Mashup](https://open.spotify.com/album/54ZLvErHEB9iVrTAMpycIR) | 2:08 | 2025-03-07 | 2025-03-15 |
 | [Angels Sippen Mashup](https://open.spotify.com/track/7CwJ8o9FdExCbIuLCnsHK8) | [Der Heimer](https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Angels Sippen Mashup](https://open.spotify.com/album/4mid0yp51I21JxnnH9UlCw) | 2:08 | 2025-03-01 | 2025-03-08 |
 | [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2023-01-19 | 2023-02-23 |
 | [ANGST>LIEBE](https://open.spotify.com/track/6KiPf8zHwaBK7VMHZZ1ReL) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [ANGST>LIEBE](https://open.spotify.com/album/6MXxm5A1n2rI3n0sGBrnF3) | 2:59 | 2023-10-31 | 2023-11-13 |

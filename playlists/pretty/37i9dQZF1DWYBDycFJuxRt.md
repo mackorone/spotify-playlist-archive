@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: マカロニえんぴつ \*👉 <a href="https://spice.eplus.jp/articles/336217">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,594 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,589 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 12 | [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 |
 | 13 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
 | 14 | [You & I](https://open.spotify.com/track/1zEZGm3pkdZYYvWe7L1Tnz) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [You & I](https://open.spotify.com/album/2QYOxp9Kht6hi3aq5PaMzb) | 4:52 |
-| 15 | [Linda feat\. Utaha](https://open.spotify.com/track/1WwNsOFZl6ngVS6L9aBvAU) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms), [Utaha](https://open.spotify.com/artist/1CHpv9LnH31ppO3flzbbIM) | [Linda feat\. Utaha](https://open.spotify.com/album/3AcxVjkaGP2FNCw5mpiHZd) | 3:12 |
+| 15 | [Linda feat\. Utaha](https://open.spotify.com/track/1WwNsOFZl6ngVS6L9aBvAU) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Linda feat\. Utaha](https://open.spotify.com/album/3AcxVjkaGP2FNCw5mpiHZd) | 3:12 |
 | 16 | [青春の晩餐](https://open.spotify.com/track/1UlpH9W2aB2v2aN7EUoQlT) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [eMulsion](https://open.spotify.com/album/2uFdZv9M3EOKksvW7QUYky) | 4:35 |
 | 17 | [Your Nobel](https://open.spotify.com/track/19BdjRwbIdz28WmvlARkcD) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Your Nobel](https://open.spotify.com/album/1nrSdouw9ZQqEZAsMOgwMC) | 3:24 |
 | 18 | [HEART](https://open.spotify.com/track/1XTcOj9Go494SJ1aFiCmVi) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [HEART](https://open.spotify.com/album/0kutDJsSv4RlbOlpm5KpnQ) | 3:48 |

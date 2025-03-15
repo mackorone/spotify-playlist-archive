@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rodolfo Abrantes",
+  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: AtituD",
   "name": "Templo do Rock",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 168866,
       "name": "1000 Graus",
       "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
+    },
+    {
+      "album": {
+        "name": "467 (Cabo da Nau)",
+        "url": "https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "467 (Cabo da Nau)",
+      "url": "https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI"
     },
     {
       "album": {
@@ -96,7 +114,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 403932,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
@@ -1812,6 +1830,24 @@
       "duration_ms": 293793,
       "name": "Mateus 6:6",
       "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
+    },
+    {
+      "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/5cCRbKpQUP23wd9VD6l52e"
+      },
+      "artists": [
+        {
+          "name": "Em Um",
+          "url": "https://open.spotify.com/artist/3FQdrcZWCcXiofG7Pn4jx2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333100,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/7o5GLOR6dHfRKcPwJdARGo"
     },
     {
       "album": {

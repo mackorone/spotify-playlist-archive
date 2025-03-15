@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-71 songs - 3 hr 29 min
+72 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-02-28 |  |
 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 | 2024-05-11 | 2025-03-01 |
 | [Scared of Heights](https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Scared of Heights](https://open.spotify.com/album/1xY1K8eiKsbZPUcSAr9epd) | 3:03 | 2024-05-11 | 2025-03-01 |
+| [Shh](https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14) | [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Shh](https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8) | 2:57 | 2025-03-14 |  |
 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 | 2025-02-28 |  |
 | [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 | 2025-02-28 |  |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-05-11 | 2025-03-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 95681,
+  "num_followers": 95688,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAQ8MR80RT7z88UocIbCJj5",
+  "snapshot_id": "Z9IgAAAAAABoVeRycI8prSiDpeq0nTCg",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 220720,
-      "name": "One Time Too Many",
-      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
+      "duration_ms": 202173,
+      "name": "Drakkar Noir",
+      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Drakkar Noir",
-      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
+      "duration_ms": 220720,
+      "name": "One Time Too Many",
+      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 301373,
-      "name": "North",
-      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
+      "duration_ms": 223173,
+      "name": "S.O.S In Bel Air",
+      "url": "https://open.spotify.com/track/6V5z0wPN6HRK56Q17pgOzL"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 223173,
-      "name": "S.O.S In Bel Air",
-      "url": "https://open.spotify.com/track/6V5z0wPN6HRK56Q17pgOzL"
+      "duration_ms": 301373,
+      "name": "North",
+      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 300533,
-      "name": "Honeymoon",
-      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 259560,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 300533,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Eyes On Me (feat. BENEE, Chad Hugo & Pusha T)",
         "url": "https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 146440,
       "name": "All Eyes on Me (feat. BENEE, Chad Hugo & Pusha T)",
       "url": "https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
     },
     {
       "added_at": null,

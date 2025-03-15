@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Cagematch",
+        "url": "https://open.spotify.com/album/143g6glDC87OmRROIgPH82"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        },
+        {
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157907,
+      "name": "Cagematch",
+      "url": "https://open.spotify.com/track/2o3XsgMX2lJqVgBwjCJAL5"
+    },
+    {
+      "album": {
         "name": "Call Me By Your Name",
         "url": "https://open.spotify.com/album/1Rgi7cJxdtyEBiw82eRo0H"
       },

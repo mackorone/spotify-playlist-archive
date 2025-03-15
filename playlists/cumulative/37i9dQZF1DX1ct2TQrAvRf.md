@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Hanumankind
 
-261 songs - 14 hr 15 min
+262 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ballaatha Jaathi](https://open.spotify.com/track/4tYxGORIOZSPLnZmrSpva7) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Ballaatha Jaathi](https://open.spotify.com/album/4N0sSPkeAkvORKcSrL2yuj) | 3:50 | 2024-09-25 |  |
 | [Ballaatha Jaathi](https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Ballaatha Jaathi](https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW) | 3:50 | 2024-05-16 | 2024-06-08 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 | 2024-08-27 |
-| [BANDANA](https://open.spotify.com/track/4yi6OcrsOfCKju2Yf8uRdb) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [BANDANA](https://open.spotify.com/album/3GFlIBMBEO2g6XALnUk4hW) | 2:13 | 2024-09-25 |  |
+| [BANDANA](https://open.spotify.com/track/4yi6OcrsOfCKju2Yf8uRdb) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [BANDANA](https://open.spotify.com/album/3GFlIBMBEO2g6XALnUk4hW) | 2:13 | 2024-09-25 | 2025-03-15 |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
 | [Bars](https://open.spotify.com/track/3VBjpYmyCGOr06tZtjuOVu) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 3:04 | 2025-01-17 |  |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-03-27 | 2024-05-29 |
@@ -57,6 +57,7 @@
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-07-17 | 2024-04-19 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-27 | 2024-08-27 |
 | [Buckle Up](https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:52 | 2025-01-17 |  |
+| [C.R.E.A.M POSSE](https://open.spotify.com/track/1upGq2z1JcGm2en01psP8y) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [SIDEWALK 2 STARDOM](https://open.spotify.com/album/0620zH84qFZSX8moLhPCuo) | 3:25 | 2025-03-14 |  |
 | [Caramel Tax](https://open.spotify.com/track/18j2VhI9lmclZKxZe0aKw6) | [Dizlaw](https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [Bhaktaaa](https://open.spotify.com/artist/1nmLWqLvFJKI9KczGIyjzv) | [Caramel Tax](https://open.spotify.com/album/1B7wcegSf5ntIQOCUdTjdQ) | 3:17 | 2025-02-14 | 2025-03-01 |
 | [Chaeni Hathodi](https://open.spotify.com/track/4eJ5SoYEkVivkgqJvhWsPp) | [Raajmusic](https://open.spotify.com/artist/0pH95ANpXdAB7O0TzW6UX9), [Laudrup](https://open.spotify.com/artist/4ff7i8T6rEn9r2eBJ9VQez) | [Kaal Ke Pukaar](https://open.spotify.com/album/4pJxpGRyvuHmoIlXAYXWgc) | 2:27 | 2024-02-15 | 2024-03-06 |
 | [Chal Bombay](https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:54 | 2023-03-27 | 2023-06-02 |

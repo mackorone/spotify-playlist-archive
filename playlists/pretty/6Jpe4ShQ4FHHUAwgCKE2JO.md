@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 40 songs - 2 hr 24 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 38 | [Counterfeit Florida Plates](https://open.spotify.com/track/1ccuaO1iJuv4bBKsv790af) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:22 |
 | 39 | [Anthem for the Already Defeated](https://open.spotify.com/track/5mvG9uj8mlEPXFusmL6Eao) | [Rock Plaza Central](https://open.spotify.com/artist/1OF6zyNhS4xvco0DrqdGeI) | [Are We Not Horses](https://open.spotify.com/album/3Q8anuFp8uF1ubPlP7H4ue) | 2:03 |
 | 40 | [Comin' Home](https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Red of Tooth and Claw](https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK) | 3:35 |
+| 41 | [Popular 2](https://open.spotify.com/track/5zAwyMgaYGiFFFAVc4wWri) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 3:08 |
 
-Snapshot ID: `AAAAOGQWJPiwS3fCVM5cb3ixMxB35w92`
+Snapshot ID: `AAAAOYhYeILn496rXBWbRe2zJ3iX1vkx`

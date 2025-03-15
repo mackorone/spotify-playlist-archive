@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 235 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 235 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 183 | [Flights](https://open.spotify.com/track/2MMOlxNXHlTescNEAlRGRH) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:14 |
 | 184 | [Coda](https://open.spotify.com/track/1Nk4O287pOo9TUYQicHw0v) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:22 |
 | 185 | ['small miracles'](https://open.spotify.com/track/0XhGZDlgA4S0XMvfiDtWIZ) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 1:24 |
-| 186 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
-| 187 | [ibrokethecode](https://open.spotify.com/track/4xRrD5boVo7KkzJYnrRfxy) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Rage And Purity](https://open.spotify.com/album/4hTyOxDLEtlhgans5HvLyP) | 3:31 |
+| 186 | [ibrokethecode](https://open.spotify.com/track/4xRrD5boVo7KkzJYnrRfxy) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Rage And Purity](https://open.spotify.com/album/4hTyOxDLEtlhgans5HvLyP) | 3:31 |
+| 187 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
 | 188 | [You and I Dig](https://open.spotify.com/track/6yYC9tYC0hGd6DUdr6PeKW) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:30 |
 | 189 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
 | 190 | [Reputation](https://open.spotify.com/track/45yZ8n3y9Exx0uB1a7weqA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 2:57 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 234 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
 | 235 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Abr+VAAAAAAEn6OSoZvCLhkZ8BsLtzZa`
+Snapshot ID: `AbsD9AAAAAD0NhAjiuK8lLXJemeJCzMi`

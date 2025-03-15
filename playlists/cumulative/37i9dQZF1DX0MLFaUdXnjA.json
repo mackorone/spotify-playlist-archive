@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Baby Nova",
+  "description": "Sit back and relax to the chillest pop.  Cover: HAIM",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 240521,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6fMFzaBM65g7lfcwqYuYPJ"
@@ -11477,6 +11477,32 @@
     },
     {
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187787,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
+    },
+    {
+      "album": {
         "name": "First Rodeo",
         "url": "https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj"
       },
@@ -11564,6 +11590,24 @@
       "duration_ms": 162352,
       "name": "flatline",
       "url": "https://open.spotify.com/track/0MwF1mt4fB7ZAjAWIpCnG8"
+    },
+    {
+      "album": {
+        "name": "Fled Into The Night",
+        "url": "https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247133,
+      "name": "Fled Into The Night",
+      "url": "https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH"
     },
     {
       "album": {
@@ -12756,7 +12800,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 142196,
       "name": "GIRLS!",
       "url": "https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH"
@@ -13732,7 +13776,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 197071,
       "name": "Happy Ever After You",
       "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
@@ -18472,7 +18516,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 127375,
       "name": "Julianna",
       "url": "https://open.spotify.com/track/38cvU7OWEFgtRwI1kOj8xM"
@@ -28063,6 +28107,24 @@
     },
     {
       "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/4FV2ANZ30RsbX6gGnOHF0v"
       },
@@ -28584,10 +28646,28 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 195920,
       "name": "Roomful Of People",
       "url": "https://open.spotify.com/track/1a2p23baptozv8eFRwTPf8"
+    },
+    {
+      "album": {
+        "name": "Rose & Jack",
+        "url": "https://open.spotify.com/album/08WeN6tS6ZNX7XKe08Ynz1"
+      },
+      "artists": [
+        {
+          "name": "Lo Lauren",
+          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165679,
+      "name": "Rose & Jack",
+      "url": "https://open.spotify.com/track/5yBfucdNBLpLvbNkdcS3Hl"
     },
     {
       "album": {
@@ -28638,7 +28718,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 232461,
       "name": "Roundabout",
       "url": "https://open.spotify.com/track/4FImnScSpSwubijPj5bUgA"
@@ -30751,6 +30831,42 @@
     },
     {
       "album": {
+        "name": "SMARTPHONE MAKE ME DUMB",
+        "url": "https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "SMARTPHONE MAKE ME DUMB",
+      "url": "https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE"
+    },
+    {
+      "album": {
+        "name": "Smoke & Mirrors",
+        "url": "https://open.spotify.com/album/4AHVQizkcBOUBvVWtZnsrD"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/2Le1u9lWfnmrMJspgloTO4"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -31322,7 +31438,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 205966,
       "name": "Somebody's Son (feat. Lindsey Buckingham)",
       "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
@@ -31870,7 +31986,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
@@ -34950,7 +35066,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 219512,
       "name": "the thought of you",
       "url": "https://open.spotify.com/track/7soIWeuH8iDZcqPVZv0zdq"
@@ -36896,7 +37012,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 182357,
       "name": "valentine",
       "url": "https://open.spotify.com/track/1LTQ4OQMz6fys8uD2pHne2"
@@ -37260,6 +37376,24 @@
       "duration_ms": 55133,
       "name": "walls",
       "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
+    },
+    {
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213419,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
     },
     {
       "album": {
@@ -38777,6 +38911,24 @@
     },
     {
       "album": {
+        "name": "Who Was I",
+        "url": "https://open.spotify.com/album/3pnetSfREJTaZ4pv5PZtIt"
+      },
+      "artists": [
+        {
+          "name": "Chord Overstreet",
+          "url": "https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187515,
+      "name": "Who Was I",
+      "url": "https://open.spotify.com/track/0umi3SiEXT3AHY3lSack4S"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -39532,7 +39684,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 220561,
       "name": "Wrong Side of Midnight",
       "url": "https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA"

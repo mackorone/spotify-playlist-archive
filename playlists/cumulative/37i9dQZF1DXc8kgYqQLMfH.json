@@ -146,10 +146,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 114414,
       "name": "4pm naps",
       "url": "https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb"
+    },
+    {
+      "album": {
+        "name": "5.50 Am",
+        "url": "https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122950,
+      "name": "5.50 Am",
+      "url": "https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz"
     },
     {
       "album": {
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 116363,
       "name": "amnesia",
       "url": "https://open.spotify.com/track/3vYZ9IEqfFakxgfrJnxuPK"
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 149250,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I"
@@ -7522,6 +7540,24 @@
     {
       "album": {
         "name": "Frozen",
+        "url": "https://open.spotify.com/album/4s5jXhv9WeEFp22phtX0K9"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/5LozFJFkPYR5x5INGZHU0R"
+    },
+    {
+      "album": {
+        "name": "Frozen",
         "url": "https://open.spotify.com/album/3wEWbl5zudfyY0Pbmj1TM6"
       },
       "artists": [
@@ -7666,7 +7702,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 171923,
       "name": "Gelato Afternoon",
       "url": "https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE"
@@ -15373,6 +15409,24 @@
     },
     {
       "album": {
+        "name": "Pebbles",
+        "url": "https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96774,
+      "name": "Pebbles",
+      "url": "https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg"
+    },
+    {
+      "album": {
         "name": "peppermints",
         "url": "https://open.spotify.com/album/7icJEwZwLBFjR3HF0CxD5R"
       },
@@ -20472,7 +20526,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 205000,
       "name": "Tiara",
       "url": "https://open.spotify.com/track/5Bajh2P9CcqPmNTwolJTPP"

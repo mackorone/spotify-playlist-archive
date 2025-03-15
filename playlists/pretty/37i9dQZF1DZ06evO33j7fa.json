@@ -1,29 +1,13 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 56302,
+  "num_followers": 56315,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABE6B55BUCuk9bov4oGkaoD",
+  "snapshot_id": "Z9IgAAAAAABGTwKX93g8Zc0J33vm/no4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 223722,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 160925,
-      "name": "Place To Be",
-      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 289687,
       "name": "One Of These Things First",
       "url": "https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 160925,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 119450,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 225291,
       "name": "Hazey Jane II",
       "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 119450,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Which Will",
-      "url": "https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 176388,
       "name": "Fly",
       "url": "https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 176950,
+      "name": "Which Will",
+      "url": "https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 150850,
-      "name": "From The Morning",
-      "url": "https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 283333,
       "name": "At The Chime Of A City Clock",
       "url": "https://open.spotify.com/track/2pcFLtTZRBbYYgXZzExUo8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 150850,
+      "name": "From The Morning",
+      "url": "https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 234475,
-      "name": "Things Behind The Sun",
-      "url": "https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 268354,
       "name": "Hazey Jane I",
       "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 234475,
+      "name": "Things Behind The Sun",
+      "url": "https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn"
     },
     {
       "added_at": null,

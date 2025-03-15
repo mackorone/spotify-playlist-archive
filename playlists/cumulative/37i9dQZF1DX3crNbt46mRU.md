@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Zoë Më \(pictured\), Chappell Roan, Selena Gomez and more.
 
-16,612 songs - 34 day 11 hr 59 min
+16,613 songs - 34 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2929,6 +2929,7 @@
 | [Come On](https://open.spotify.com/track/3xru37jskSMG2D1GOWGXKe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/355Y5c0rmilMNsKjB2NZ6h) | 2:26 | 2024-09-27 | 2024-10-04 |
 | [Come on Over](https://open.spotify.com/track/4wNOn0gwHKT4b0mDNPp3ke) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [HAUZ](https://open.spotify.com/artist/3deknuVSj6038SM4afSQpu) | [Come on Over](https://open.spotify.com/album/4RZJc7Cs3SamtsnNkC3GNV) | 2:31 | 2022-07-21 | 2022-07-29 |
 | [Come Outside \(So Sick\)](https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 2:40 | 2024-11-07 | 2024-11-15 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-13 |  |
 | [Come Over \(feat\. 2 Chainz & Mike WiLL Made\-It\)](https://open.spotify.com/track/1pXLdFs165czUuRHbGa2rh) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Come Over \(feat\. 2 Chainz & Mike WiLL Made\-It\)](https://open.spotify.com/album/5eJiWlOOfkcbQsnYweD0wf) | 3:23 | 2024-05-02 | 2024-05-10 |
 | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 | 2024-10-17 | 2024-10-25 |
 | [Come See Me](https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Come See Me](https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj) | 3:10 | 2023-08-31 | 2023-09-08 |

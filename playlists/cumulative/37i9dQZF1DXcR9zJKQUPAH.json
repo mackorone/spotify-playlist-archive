@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "2017 highlights from the home of indie music.",
+  "description": "The Indie highlights of 2017. Cover: The xx",
   "name": "Best of Indie 2017",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 273466,
       "name": "Appointments",
       "url": "https://open.spotify.com/track/46Vogr8UvzcVPAgDvBpDIr"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Here If You Want (Pale Blue)",
+        "url": "https://open.spotify.com/album/46i15up4DAQBOIOD7YxA0x"
+      },
+      "artists": [
+        {
+          "name": "MOSSS",
+          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199035,
+      "name": "Here If You Want (Pale Blue)",
+      "url": "https://open.spotify.com/track/1H4YkI6Dmzu4FncgP2SY1f"
+    },
+    {
+      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 101000,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"

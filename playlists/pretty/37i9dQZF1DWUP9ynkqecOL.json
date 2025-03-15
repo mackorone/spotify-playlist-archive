@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 24084,
+  "num_followers": 24089,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
       },
       "artists": [
         {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
+      "duration_ms": 179000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
       },
       "artists": [
         {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Luchin",
         "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 259551,
       "name": "Luchin",
       "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
     },
     {
       "added_at": "2024-10-22 19:09:15",

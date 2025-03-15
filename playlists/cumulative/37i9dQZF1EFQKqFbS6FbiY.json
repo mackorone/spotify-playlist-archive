@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 192166,
       "name": "Ali tem cara - Ao Vivo",
       "url": "https://open.spotify.com/track/0Jmx5gZSK335ScAJPRTN1c"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192166,
       "name": "Ali tem cara - Ao Vivo",
       "url": "https://open.spotify.com/track/6wO25KZrNx4bCwueP7K73B"
@@ -3783,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "Dois Comprometidos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5u3pjb9hZPHecmDDvXPlxe"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192308,
+      "name": "Dois Comprometidos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Jiu0Q2PNaLVy6TKhUY31S"
+    },
+    {
+      "album": {
         "name": "Foi Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf"
       },
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192308,
       "name": "Dois Comprometidos - Ao Vivo",
       "url": "https://open.spotify.com/track/5lJgoUmOiinG4Q78h6Ituu"
@@ -5650,7 +5672,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 140414,
       "name": "Laudo",
       "url": "https://open.spotify.com/track/5FSgHps0zSSwbVp0bNPuDe"
@@ -5668,7 +5690,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 140414,
       "name": "Laudo - Ao Vivo",
       "url": "https://open.spotify.com/track/6NOz9pn0YJrlnAzR8ndo6h"
@@ -6893,6 +6915,28 @@
     },
     {
       "album": {
+        "name": "Nem Que Seja Eu (Quem Chorou, Chorou, Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Vyt31QdpjO3FW1okkvrrW"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184189,
+      "name": "Nem Que Seja Eu - Quem Chorou, Chorou, Ao Vivo",
+      "url": "https://open.spotify.com/track/1TLQURuEztJvFQiTUWGwXv"
+    },
+    {
+      "album": {
         "name": "Foi Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf"
       },
@@ -6908,7 +6952,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 184189,
       "name": "Nem Que Seja Eu - Quem Chorou, Chorou, Ao Vivo",
       "url": "https://open.spotify.com/track/4OnQC9E5WEsc79eZ2VFXew"
@@ -8659,6 +8703,28 @@
     },
     {
       "album": {
+        "name": "Sacanagem Pura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0JX31dDFcjL1whX64shONA"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190845,
+      "name": "Sacanagem Pura - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GW1kSzjhkQXHG606RVBex"
+    },
+    {
+      "album": {
         "name": "Foi Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf"
       },
@@ -8674,7 +8740,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 190845,
       "name": "Sacanagem Pura - Ao Vivo",
       "url": "https://open.spotify.com/track/3Ir04YpZOFGVxGexbFTNvw"
@@ -9604,10 +9670,32 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 206981,
       "name": "Te troquei pelos bares - Ao Vivo",
       "url": "https://open.spotify.com/track/1T8hn0LOvX5l8D3wFwFT3X"
+    },
+    {
+      "album": {
+        "name": "Te troquei pelos bares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0N8lXLhyqUrv5JNiVmCg0T"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206981,
+      "name": "Te troquei pelos bares - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PoCRB1yUmiZ01klUbtCSR"
     },
     {
       "album": {
@@ -11134,10 +11222,28 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 166451,
       "name": "Vou Rezar Pra Voc\u00ea Me Perdoar - Ao Vivo",
       "url": "https://open.spotify.com/track/1Kntuwz52WWE8g5YuUMpGa"
+    },
+    {
+      "album": {
+        "name": "Foi Deus, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mmkl86XhHDw82Cl39ZCKq"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Vou Rezar Pra Voc\u00ea Me Perdoar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wI7K41GteOHQBFrLNm35w"
     },
     {
       "album": {

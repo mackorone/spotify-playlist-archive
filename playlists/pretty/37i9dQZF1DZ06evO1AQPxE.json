@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 189936,
+  "num_followers": 189974,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAD5oqARtClgzGqWmECR4USA",
+  "snapshot_id": "Z9IgAAAAAAC58ygMcXpX7EBVlbg5ICae",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 133885,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/5gRE3xO4wmXj5yZXgcqb2j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set You Free",
-        "url": "https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 133885,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311"
     },
     {
       "added_at": null,
@@ -919,6 +903,26 @@
       "duration_ms": 152380,
       "name": "CODY BANKS",
       "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Florida Jit",
+        "url": "https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "Tide Pen (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX"
     }
   ],
   "unique_name": "This Is Jack Harlow",

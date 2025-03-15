@@ -1,15 +1,31 @@
 {
-  "description": "New music from Doechii, Gunna and Drake. ",
-  "num_followers": 16145942,
+  "description": "New music from Playboi Carti, Lil Tecca and Doechii.",
+  "num_followers": 16146320,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9JYWQAAAACQ/R9tKZdokuQpAlLCbDkn",
+  "snapshot_id": "Z9TdsgAAAAB7brrz7a980ade3geIU7FC",
   "tracks": [
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -20,12 +36,28 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -45,7 +77,39 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 151160,
+      "name": "COCAINE NOSE",
+      "url": "https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
@@ -69,91 +133,7 @@
       "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 193054,
-      "name": "GIMME A HUG",
-      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Classy Girl",
-        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Classy Girl",
-      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GBP (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
@@ -173,23 +153,71 @@
       "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
     },
     {
-      "added_at": "2025-03-13 04:00:25",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Dear Mama",
-      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+      "duration_ms": 135275,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "No Sweat",
+        "url": "https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 155754,
+      "name": "No Sweat",
+      "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -205,7 +233,7 @@
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GOT DAMN",
         "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
@@ -221,99 +249,39 @@
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
       "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Az Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 155917,
-      "name": "peekaboo (feat. azchike)",
-      "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 180063,
-      "name": "Mo Chicken (feat. French Montana)",
-      "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
-      },
-      "artists": [
-        {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
-        }
-      ],
-      "duration_ms": 189544,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Blick Sum (feat. Playboi Carti)",
-        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Blick Sum (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+      "duration_ms": 92735,
+      "name": "JUMPIN",
+      "url": "https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
@@ -333,7 +301,131 @@
       "url": "https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Az Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 155917,
+      "name": "peekaboo (feat. azchike)",
+      "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 180063,
+      "name": "Mo Chicken (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "duration_ms": 189544,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Trappa Rappa",
+        "url": "https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 137653,
+      "name": "Trappa Rappa",
+      "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -353,39 +445,7 @@
       "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Trappa Rappa",
-        "url": "https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 137653,
-      "name": "Trappa Rappa",
-      "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "SLUT SZN",
         "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
@@ -401,7 +461,7 @@
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "3AM in ToKEYo",
         "url": "https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh"
@@ -417,7 +477,35 @@
       "url": "https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Check Please (feat. Lil Jairmy & MG Lil Bubba)",
+        "url": "https://open.spotify.com/album/1xVoXzCE71rSv8YrwPp1Xd"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        },
+        {
+          "name": "Mg Lil Bubba",
+          "url": "https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5"
+        }
+      ],
+      "duration_ms": 205262,
+      "name": "Check Please (feat. Lil Jairmy & MG Lil Bubba)",
+      "url": "https://open.spotify.com/track/7FoPnPOvJk2WsgPz9YPd3B"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -433,7 +521,7 @@
       "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "MIXTAPE PLUTO",
         "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
@@ -449,7 +537,7 @@
       "url": "https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -477,7 +565,23 @@
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "OverTh!nking",
+        "url": "https://open.spotify.com/album/5BBgGOiNfWKdnHGmYaUjqb"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 95147,
+      "name": "OverTh!nking",
+      "url": "https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Pop It Off",
         "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
@@ -497,7 +601,7 @@
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "I Aint Feeling You",
         "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
@@ -521,7 +625,7 @@
       "url": "https://open.spotify.com/track/6LjUHEO9mdsGGxnss3oAb1"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "HIM ALL ALONG",
         "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
@@ -537,7 +641,7 @@
       "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
@@ -557,7 +661,27 @@
       "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
+      "album": {
+        "name": "Classy Girl",
+        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Classy Girl",
+      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+    },
+    {
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "LV Bag (feat. j-hope of BTS & Pharrell Williams)",
         "url": "https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj"
@@ -585,7 +709,7 @@
       "url": "https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "WHAM",
         "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
@@ -605,7 +729,7 @@
       "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -625,7 +749,7 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "cLOUDs",
         "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
@@ -641,7 +765,7 @@
       "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -657,7 +781,7 @@
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
@@ -673,7 +797,7 @@
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "The Crossroads",
         "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
@@ -693,7 +817,7 @@
       "url": "https://open.spotify.com/track/3MsEJbnW0SYWNzQ6D1j5Xm"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
@@ -717,7 +841,7 @@
       "url": "https://open.spotify.com/track/1liQkxQP5nunXlGYueCqkS"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -737,23 +861,7 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Saaheem",
-        "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Viking",
-      "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Port Antonio",
         "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
@@ -769,7 +877,7 @@
       "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -785,7 +893,7 @@
       "url": "https://open.spotify.com/track/1YHQQFtKqFSFrqL4cNvstU"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Doot Doot (6 7)",
         "url": "https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN"
@@ -801,7 +909,7 @@
       "url": "https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA"
     },
     {
-      "added_at": "2025-03-07 05:14:05",
+      "added_at": "2025-03-14 19:14:46",
       "album": {
         "name": "Fat Juicy & Wet",
         "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
@@ -819,118 +927,6 @@
       "duration_ms": 141057,
       "name": "Fat Juicy & Wet",
       "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "MIXTAPE PLUTO",
-        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 179022,
-      "name": "PLUTOSKI",
-      "url": "https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
-      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 137952,
-      "name": "Hannah Montana (with NLE Choppa & DaBaby)",
-      "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "That's Not Gangsta",
-        "url": "https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB"
-      },
-      "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        }
-      ],
-      "duration_ms": 204325,
-      "name": "That's Not Gangsta",
-      "url": "https://open.spotify.com/track/2Q6k2SuwcxITI0LgtHzE9Y"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Preference",
-        "url": "https://open.spotify.com/album/2Ogtd0f4802h80TFCfgUiN"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 136408,
-      "name": "Preference",
-      "url": "https://open.spotify.com/track/1P1hInsizxuzxcD1KcIAeE"
-    },
-    {
-      "added_at": "2025-03-07 05:14:05",
-      "album": {
-        "name": "Eternal Atake 2",
-        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 138323,
-      "name": "Chill Bae",
-      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
     }
   ],
   "unique_name": "RapCaviar",

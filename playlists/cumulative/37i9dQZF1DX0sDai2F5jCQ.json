@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151160,
+      "name": "COCAINE NOSE",
+      "url": "https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx"
+    },
+    {
+      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG"
       },
@@ -3836,6 +3854,24 @@
       "duration_ms": 136615,
       "name": "GOLDEN TAN",
       "url": "https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
       "album": {

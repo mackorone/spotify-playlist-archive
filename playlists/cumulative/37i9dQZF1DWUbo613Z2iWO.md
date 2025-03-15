@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Chxrry22
+> R&B of the moment by the artists of the future\. Cover: Josh Levi
 
-1,187 songs - 2 day 12 hr 24 min
+1,193 songs - 2 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [710](https://open.spotify.com/track/45MmWDUTfVvmThzuR3AVZF) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [DW FLAME](https://open.spotify.com/artist/1aQRe18EFgH0nxSm9bmo4v) | [710](https://open.spotify.com/album/5mSF3vaQ2RLhv1eK5jVwHG) | 3:05 | 2022-07-01 | 2022-07-16 |
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-09-27 |  |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-01 | 2024-11-16 |
+| [About Time](https://open.spotify.com/track/2ku1pUgAH5iy6e3ZtBcesF) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [About Time](https://open.spotify.com/album/32tOquwVNXmi7gQTS0hzJQ) | 3:05 | 2025-03-14 |  |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-07-22 | 2023-05-13 |
 | [Achy](https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:47 | 2022-07-15 | 2023-03-04 |
 | [Achy](https://open.spotify.com/track/3BZEl44UzEcZA9t4lTCD6F) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Achy](https://open.spotify.com/album/2ObLlP6hOA8gKLBUy4e19O) | 2:47 | 2022-07-09 | 2022-07-16 |
@@ -36,6 +37,7 @@
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-08 | 2024-06-08 |
 | [Addicting](https://open.spotify.com/track/4A5X9UxxIzSU3ajhrJtER8) | [Kalenbree](https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq) | [Addicting](https://open.spotify.com/album/4TlMjQDtPW0xDzmjckFRcY) | 1:56 | 2024-12-13 |  |
 | [Afford It \(From the Motion picture “One Of Them Days”\)](https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Diva Gurl](https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11) | [DivaGurl: A Story By Keke Palmer \- EP](https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth) | 2:34 | 2025-01-17 |  |
+| [Afraid, Pt\. 2](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 |  |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-10-19 |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2024-01-11 |
 | [Agua](https://open.spotify.com/track/3bZNQvIowjUMGdu6GHNGlK) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Agua](https://open.spotify.com/album/4PTIzpb2IafRrTYdUjgJTr) | 2:49 | 2022-07-15 | 2022-07-30 |
@@ -350,6 +352,7 @@
 | [Fed Up](https://open.spotify.com/track/0viobJwqYbzSAh9VtIVJVs) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/11vtZ9Rq13B9ThD5EJP9xG) | 2:33 | 2022-07-22 | 2022-08-27 |
 | [Fed Up](https://open.spotify.com/track/21GWS3miLMjg8X0ceJjUO7) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/2hyzhEi1zQuamaUmM7dJNJ) | 2:33 | 2022-07-22 | 2022-07-29 |
 | [Feel Good](https://open.spotify.com/track/3JeZ3qlEKKuOccXYcm0ZDo) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Strawberry Moon](https://open.spotify.com/album/4MAZP6VqDLyDX9Qcyqe5Qq) | 4:16 | 2022-06-17 | 2022-08-20 |
+| [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX) | 1:37 | 2025-03-14 |  |
 | [Feeling Me Too](https://open.spotify.com/track/0Zz9eaiOnqDkQai79mHhEX) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Feeling Me Too](https://open.spotify.com/album/3KqWydFhdw6buuSyLhQK3M) | 3:18 | 2024-07-12 | 2024-08-10 |
 | [Feelings](https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Feelings](https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL) | 3:31 | 2022-08-26 | 2022-09-10 |
 | [Feelings 4 You](https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 4:16 | 2022-08-19 | 2023-05-27 |
@@ -512,6 +515,7 @@
 | [I Wish](https://open.spotify.com/track/0XU9CVVZm0q6DEY9kbCY6C) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [I Wish](https://open.spotify.com/album/0h4bfuIZCi5NyQSyTfQjif) | 2:34 | 2024-09-27 | 2024-11-23 |
 | [I Wish I Lied](https://open.spotify.com/track/1veP0WhNefQOYZ8zo1Nvri) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [SHIVER](https://open.spotify.com/album/59RpQ5D83mW6Wu5fpRMUsQ) | 3:09 | 2024-08-16 | 2024-12-14 |
 | [I'd Love To See You Again](https://open.spotify.com/track/30yHq5FDnjU9n3VJSEWbQZ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Feel The Past, See The Future](https://open.spotify.com/album/0unRr1h0fwmJYAQ7CCs5Ix) | 4:05 | 2024-08-23 |  |
+| [I'll Be Good](https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [I'll Be Good](https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI) | 3:32 | 2025-03-14 |  |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-07-15 | 2023-07-08 |
 | [I'm Leaving](https://open.spotify.com/track/0w916uGudx6T1vX59RWzTF) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:48 | 2022-11-27 | 2022-12-03 |
 | [I.O.U.](https://open.spotify.com/track/39UemJN9cUuOLZE4nVDnYD) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [I.O.U.](https://open.spotify.com/album/6IiJEA5jKiufcTeqIJ9Irn) | 2:46 | 2022-08-12 | 2022-10-29 |
@@ -644,6 +648,7 @@
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-02 | 2022-10-15 |
 | [LOVE4FREE](https://open.spotify.com/track/3zoXpiq5f5q87a2xnGdAdQ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:03 | 2022-03-25 | 2022-05-07 |
 | [Loveland](https://open.spotify.com/track/5c32p7UcaaZ4V4I5WegSvx) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Loveland](https://open.spotify.com/album/2IULukKg12fv5TyymGGeQz) | 3:27 | 2023-12-01 | 2024-01-11 |
+| [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 | 2025-03-14 |  |
 | [Lovin' you](https://open.spotify.com/track/2rIrdCcmhbm7RLbBaVhIIQ) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [82 Moons](https://open.spotify.com/album/4jRfeVlkvAvqgvGCGfPQ5Y) | 4:24 | 2022-04-15 | 2022-06-25 |
 | [Low Profile](https://open.spotify.com/track/0iyUSMsn7Qve6WotFA77Tr) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Low Profile](https://open.spotify.com/album/6pWyGg9oyQJWaDOsBopf9N) | 2:44 | 2022-05-13 | 2022-07-10 |
 | [Lullaby](https://open.spotify.com/track/4YMuvI6faoxGj5bJur1dpy) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lullaby](https://open.spotify.com/album/703gnSo3ZsJkpEIpkQCkLX) | 3:42 | 2022-03-25 | 2022-04-16 |
@@ -1008,6 +1013,7 @@
 | [SUPERSONICS](https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [SUPERSONICS](https://open.spotify.com/album/6hktKa9Ru7GRaF6XIKRsa0) | 2:32 | 2024-10-18 |  |
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-02-25 | 2022-03-26 |
 | [Surrender](https://open.spotify.com/track/4yBzXfwyFa1wbCBS3iYF2X) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB), [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ) | [Surrender](https://open.spotify.com/album/63VfVVts4L2wtn6KLBPSzB) | 3:33 | 2023-12-08 | 2024-01-11 |
+| [Suzette](https://open.spotify.com/track/7gEuNBqXluQqu0LJXyHxeV) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Suzette](https://open.spotify.com/album/10XllZTnTF12lcSuRERcrm) | 2:43 | 2025-03-14 |  |
 | [Sway](https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sway](https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N) | 2:54 | 2022-09-02 | 2023-03-25 |
 | [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-23 | 2024-09-07 |
 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 | 2024-08-23 |  |

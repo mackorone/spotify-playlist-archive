@@ -1,13 +1,189 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Mar 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Mar 23:03 UTC.",
   "num_followers": 87,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQOb+tpxJaTj109gKqfud/V3V/Ufrf",
+  "snapshot_id": "AAAQRGO9SxM4tR+PTidkbiGbVxuyG4BF",
   "tracks": [
+    {
+      "added_at": "2025-03-14 14:04:12",
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 136327,
+      "name": "Born Fire",
+      "url": "https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm"
+    },
+    {
+      "added_at": "2025-03-14 04:04:20",
+      "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "added_at": "2025-03-14 19:03:42",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 179759,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J"
+    },
+    {
+      "added_at": "2025-03-14 09:04:36",
+      "album": {
+        "name": "Little Ray Of Light",
+        "url": "https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 179841,
+      "name": "Little Ray Of Light",
+      "url": "https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH"
+    },
+    {
+      "added_at": "2025-03-14 09:04:36",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
+    },
+    {
+      "added_at": "2025-03-14 09:04:36",
+      "album": {
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf"
+    },
+    {
+      "added_at": "2025-03-14 14:04:12",
+      "album": {
+        "name": "Sword",
+        "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 146504,
+      "name": "Sword",
+      "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
+    },
+    {
+      "added_at": "2025-03-14 09:04:36",
+      "album": {
+        "name": "Mac's Omelette",
+        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 238845,
+      "name": "Mac\u2019s Omelette",
+      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
+    },
+    {
+      "added_at": "2025-03-14 04:04:20",
+      "album": {
+        "name": "FUFN (Fuck You For Now)",
+        "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "FUFN (Fuck You For Now)",
+      "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
+    },
+    {
+      "added_at": "2025-03-14 19:03:42",
+      "album": {
+        "name": "miss melancholy",
+        "url": "https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "miss melancholy",
+      "url": "https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d"
+    },
+    {
+      "added_at": "2025-03-14 14:04:12",
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/161uvpWswpix18rpbmjweW"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "duration_ms": 231834,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/6x1xKHkuGepbfjpDkSuUIk"
+    },
     {
       "added_at": "2025-03-13 14:04:19",
       "album": {
@@ -25,6 +201,22 @@
       "url": "https://open.spotify.com/track/6c0ZIaPptJN77JHXELy8KK"
     },
     {
+      "added_at": "2025-03-14 23:03:41",
+      "album": {
+        "name": "No Sweat",
+        "url": "https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 155754,
+      "name": "No Sweat",
+      "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
+    },
+    {
       "added_at": "2025-03-13 14:04:19",
       "album": {
         "name": "Emergence",
@@ -39,6 +231,38 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "added_at": "2025-03-14 09:04:36",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "duration_ms": 160359,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE"
+    },
+    {
+      "added_at": "2025-03-14 09:04:36",
+      "album": {
+        "name": "MORTAL KOMBAT",
+        "url": "https://open.spotify.com/album/1uum0AHu4s3szZixnVeSkE"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 175984,
+      "name": "MORTAL KOMBAT",
+      "url": "https://open.spotify.com/track/0M5ZkceDfLjcBWFWnt7poJ"
     },
     {
       "added_at": "2025-03-13 19:04:31",
@@ -153,6 +377,22 @@
       "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
     },
     {
+      "added_at": "2025-03-14 19:03:42",
+      "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/1WUGo9gatVcapTX7v1eH8L"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 177969,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/4U3MSKMAfQOnKGwtvmqB5W"
+    },
+    {
       "added_at": "2025-03-10 14:04:07",
       "album": {
         "name": "DREAMBOY",
@@ -199,6 +439,22 @@
       "duration_ms": 179996,
       "name": "Deslocado",
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
+    },
+    {
+      "added_at": "2025-03-14 19:03:42",
+      "album": {
+        "name": "Bouquet for Me",
+        "url": "https://open.spotify.com/album/1dWlslDvWgxfH0OpdnOVyR"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228611,
+      "name": "Bouquet for Me",
+      "url": "https://open.spotify.com/track/7dlbeaOxrdBSt7TZDQNmZK"
     },
     {
       "added_at": "2025-03-12 09:04:44",
@@ -583,274 +839,6 @@
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
-    },
-    {
-      "added_at": "2025-03-11 09:04:04",
-      "album": {
-        "name": "I'm Tired Of Being Your Mother",
-        "url": "https://open.spotify.com/album/5m19KywB38cunfDk3Q5jw3"
-      },
-      "artists": [
-        {
-          "name": "The Jesus Lizard",
-          "url": "https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa"
-        }
-      ],
-      "duration_ms": 213664,
-      "name": "I'm Tired Of Being Your Mother",
-      "url": "https://open.spotify.com/track/40Dj6vZNdoBPfb797kqZbh"
-    },
-    {
-      "added_at": "2025-03-05 09:03:38",
-      "album": {
-        "name": "Ripped Apart By Hands",
-        "url": "https://open.spotify.com/album/5QM9Phattpq5zKIcJYa7lW"
-      },
-      "artists": [
-        {
-          "name": "Weatherday",
-          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Ripped Apart By Hands",
-      "url": "https://open.spotify.com/track/5HCmGml9map8KZej5YwlvR"
-    },
-    {
-      "added_at": "2025-03-05 09:03:38",
-      "album": {
-        "name": "Destiny Arrives",
-        "url": "https://open.spotify.com/album/6E2p2U7WCYNCwA4J2WMni1"
-      },
-      "artists": [
-        {
-          "name": "SPELLLING",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
-        }
-      ],
-      "duration_ms": 242423,
-      "name": "Destiny Arrives",
-      "url": "https://open.spotify.com/track/4Zz3YaD9WImI44Paa4C14S"
-    },
-    {
-      "added_at": "2025-03-05 14:03:34",
-      "album": {
-        "name": "Magic Clock",
-        "url": "https://open.spotify.com/album/4m3R9tE7P4F9jqYYPgPJBK"
-      },
-      "artists": [
-        {
-          "name": "f5ve",
-          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
-        }
-      ],
-      "duration_ms": 133312,
-      "name": "Magic Clock",
-      "url": "https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz"
-    },
-    {
-      "added_at": "2025-03-05 23:03:33",
-      "album": {
-        "name": "Selekta (feat. Albie Wobble, Trixie B & SIDEQUEST)",
-        "url": "https://open.spotify.com/album/3Oj1qoay2pYSdy6nayuAqH"
-      },
-      "artists": [
-        {
-          "name": "Kyle Gordon",
-          "url": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip"
-        },
-        {
-          "name": "SIDEQUEST",
-          "url": "https://open.spotify.com/artist/7B0d26MfdiqCHBRPbLiRnd"
-        },
-        {
-          "name": "Albie Wobble",
-          "url": "https://open.spotify.com/artist/7Bodv2IZvOGGeUoWh0UxZZ"
-        },
-        {
-          "name": "Trixie B",
-          "url": "https://open.spotify.com/artist/5f5TkrpYEHOjLbDPrYyWfV"
-        }
-      ],
-      "duration_ms": 124849,
-      "name": "Selekta - feat. Albie Wobble, Trixie B & SIDEQUEST",
-      "url": "https://open.spotify.com/track/1u4zIfx7RvYHB6SsoDoWje"
-    },
-    {
-      "added_at": "2025-03-05 09:03:38",
-      "album": {
-        "name": "Thousand yard stare",
-        "url": "https://open.spotify.com/album/043jwn9rEurQVd4P38jPJt"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 198192,
-      "name": "Thousand yard stare",
-      "url": "https://open.spotify.com/track/1brgXYDZLS2qiQBHY6Rwv8"
-    },
-    {
-      "added_at": "2025-03-04 14:03:39",
-      "album": {
-        "name": "High Horse",
-        "url": "https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA"
-    },
-    {
-      "added_at": "2025-03-05 09:03:38",
-      "album": {
-        "name": "Pumpkin",
-        "url": "https://open.spotify.com/album/6oKAozUTE5UI560U1h1bB5"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 163079,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6rfm5gpJ4UFKv6iKUfRAps"
-    },
-    {
-      "added_at": "2025-03-04 23:03:41",
-      "album": {
-        "name": "Crystal Roses",
-        "url": "https://open.spotify.com/album/5I6pmP96LxAOc3fID57YcM"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Crystal Roses",
-      "url": "https://open.spotify.com/track/2MHH8AK3ulpPO2Ns6k1FVh"
-    },
-    {
-      "added_at": "2025-03-04 19:03:40",
-      "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 651992,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
-    },
-    {
-      "added_at": "2025-03-07 04:03:10",
-      "album": {
-        "name": "Limelight",
-        "url": "https://open.spotify.com/album/5x2ybzUxgUq67ig0swZmok"
-      },
-      "artists": [
-        {
-          "name": "Tune-Yards",
-          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/0OyTkxom7HBZ3lM1U2Fskz"
-    },
-    {
-      "added_at": "2025-03-07 09:03:23",
-      "album": {
-        "name": "Cataract Time",
-        "url": "https://open.spotify.com/album/0kE0sFfDTd1n8y8hW0MzoY"
-      },
-      "artists": [
-        {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
-        }
-      ],
-      "duration_ms": 480306,
-      "name": "Cataract Time",
-      "url": "https://open.spotify.com/track/681ZfGnArxSspYkBw7eg2n"
-    },
-    {
-      "added_at": "2025-03-03 19:04:10",
-      "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 246288,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG"
-    },
-    {
-      "added_at": "2025-03-02 23:03:37",
-      "album": {
-        "name": "Blue Demon",
-        "url": "https://open.spotify.com/album/4EjU3mNmfEVljQgGbuZz1l"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Blue Demon",
-      "url": "https://open.spotify.com/track/1GxaEkfGQrN6cuUOMJ8yqi"
-    },
-    {
-      "added_at": "2025-03-03 19:04:10",
-      "album": {
-        "name": "Skullcrusher",
-        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Skullcrusher",
-      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
-    },
-    {
-      "added_at": "2025-03-04 14:03:39",
-      "album": {
-        "name": "Love You Anymore",
-        "url": "https://open.spotify.com/album/1mRD8ZpR4fADj5maAT30SN"
-      },
-      "artists": [
-        {
-          "name": "Mario Judah",
-          "url": "https://open.spotify.com/artist/5HFSWl4JPwju06kHxukvTe"
-        }
-      ],
-      "duration_ms": 101721,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/1ezILKXknpEmfXKB40wxBS"
     }
   ],
   "unique_name": "New Singles Now",

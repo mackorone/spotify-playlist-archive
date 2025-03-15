@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 284887,
+  "num_followers": 284928,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Cartero",
-        "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Divina T\u00fa",
-      "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Mujer Que Camina",
         "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 322013,
       "name": "Mujer Que Camina",
       "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "El Cartero",
+        "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Divina T\u00fa",
+      "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -787,26 +787,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Extremistas Nobles",
-        "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
-      },
-      "artists": [
-        {
-          "name": "Buena Fe",
-          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
-        },
-        {
-          "name": "Frank Delgado",
-          "url": "https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Loco por Ti",
-      "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "De Vez en Cuando",
         "url": "https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 253190,
       "name": "De Vez en Cuando - Ac\u00fastica",
       "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Extremistas Nobles",
+        "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
+      },
+      "artists": [
+        {
+          "name": "Buena Fe",
+          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
+        },
+        {
+          "name": "Frank Delgado",
+          "url": "https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Loco por Ti",
+      "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Arde Estocolmo",
-        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
-    },
-    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -995,6 +979,22 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Arde Estocolmo",
+        "url": "https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r"
     },
     {
       "added_at": "2021-07-29 16:46:05",

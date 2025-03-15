@@ -4,7 +4,7 @@
 
 > bolsa birkin me pegué un tiro pa comprarla, tu vales eso y más ❤️‍🔥💐✨💸
 
-245 songs - 13 hr 40 min
+246 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bonita](https://open.spotify.com/track/3fflHtStLNlNh5aEXT2PYW) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/2J8YtGnbB9QKl6zAeIOzsh) | 3:20 | 2022-03-01 | 2022-07-29 |
 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 | 2022-03-01 | 2022-08-03 |
 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 | 2024-02-12 |  |
+| [Bélico Tierno](https://open.spotify.com/track/0JkAPXfhxn9TySOaCw2WVV) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bélico Tierno](https://open.spotify.com/album/56JOOwdcdJYhrblyyfxbFi) | 2:43 | 2025-03-14 |  |
 | [Bésame Bonito \(Micro TDH Remix\)](https://open.spotify.com/track/4795j7G618M4FUwRl3wle8) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Bésame Bonito \(Micro TDH Remix\)](https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw) | 3:00 | 2022-09-05 | 2023-12-09 |
 | [Cada Dia Mas](https://open.spotify.com/track/04ORlfFcrFRONujIEGjfVt) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Cada Dia Mas](https://open.spotify.com/album/4ml7wBSms9VuXVR8KGKgdg) | 3:16 | 2025-01-24 |  |
 | [Cada Vez Mas](https://open.spotify.com/track/0SDGUNzObl99OPmlwRROYl) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/4YdGwD0VaJOr2tLYnxWvQ9) | 3:14 | 2022-03-01 | 2022-07-29 |
@@ -146,7 +147,7 @@
 | [MMXX's](https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [MMXX's](https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY) | 2:59 | 2024-09-18 |  |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2022-03-01 | 2024-09-19 |
 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 | 2022-03-01 | 2024-02-13 |
-| [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 | 2024-10-10 |  |
+| [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 | 2024-10-10 | 2025-03-15 |
 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 | 2023-07-17 | 2025-03-08 |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2022-03-01 | 2022-08-03 |
 | [No Regreses](https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 2:53 | 2024-12-23 |  |

@@ -2,9 +2,9 @@
 
 ### [Esto es Pop](https://open.spotify.com/playlist/37i9dQZF1DWYf9NHV7zfs7)
 
-> y nada más que pop ✨✨✨<br/>📷  Olivia Wald.
+> y nada más que pop ✨✨✨<br/>📷  Maria Becerra.
 
-335 songs - 18 hr 5 min
+337 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Como Amigos](https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Como Amigos](https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ) | 2:11 | 2024-11-05 | 2025-02-01 |
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-07-14 | 2023-10-24 |
 | [Corazón Carioca](https://open.spotify.com/track/3y7nbqrMkYPWx4F4wqQyqu) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Anónimo](https://open.spotify.com/artist/7vRbbNOOqSmZJnmBzTnmpK) | [Un día para Valentina](https://open.spotify.com/album/2dSfw24BxHUEb2MKdH0q4u) | 4:28 | 2024-09-27 | 2024-10-05 |
-| [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 | 2023-10-23 |  |
+| [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 | 2023-10-23 | 2025-03-15 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-07-14 | 2023-10-24 |
 | [Corazón Verde](https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Santo Entendimiento](https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT) | 2:51 | 2023-10-23 | 2023-11-16 |
 | [Cositas](https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Cositas](https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP) | 2:31 | 2023-11-10 | 2024-05-25 |
@@ -256,8 +256,9 @@
 | [Poco A Poco](https://open.spotify.com/track/17PNScmIfgnuToGVq5zM6U) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Poco A Poco](https://open.spotify.com/album/1eMxYPZxOFhKKXmXp2JXDr) | 3:08 | 2024-05-31 | 2024-07-19 |
 | [Por Ese Hombre](https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Por Ese Hombre](https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI) | 4:19 | 2025-01-31 |  |
 | [Por Segunda Vez](https://open.spotify.com/track/0V5W6b9lMaW1QijnTUxl76) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Por Segunda Vez](https://open.spotify.com/album/6k6CYagE7PFxVEaeqhUBZx) | 3:02 | 2023-12-07 | 2024-03-09 |
+| [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 | 2025-03-14 |  |
 | [posta](https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [posta](https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z) | 2:01 | 2024-04-05 | 2024-12-07 |
-| [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/track/21Vr8nLZHhXETZItj0IeJS) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/album/146vpPZNzlfTEVNEE1xCNw) | 2:35 | 2024-10-25 |  |
+| [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/track/21Vr8nLZHhXETZItj0IeJS) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/album/146vpPZNzlfTEVNEE1xCNw) | 2:35 | 2024-10-25 | 2025-03-15 |
 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 | 2024-12-06 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-07-14 | 2023-10-24 |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2023-10-23 | 2023-11-11 |
@@ -296,6 +297,7 @@
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2023-07-14 | 2023-10-24 |
 | [Tarde \(feat\. Malena Villa\)](https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Tarde \(feat\. Malena Villa\)](https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28) | 2:33 | 2023-11-10 | 2023-12-27 |
 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 | 2023-12-01 |  |
+| [TATÚ](https://open.spotify.com/track/7s2Eb3VgCT8o7ALu1jeTqk) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [TATÚ](https://open.spotify.com/album/25I7wgyiOpw0nJBhAkYutI) | 3:20 | 2025-03-14 |  |
 | [Te Daría](https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 2:42 | 2023-10-23 | 2024-04-03 |
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2023-07-14 | 2023-10-24 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2023-07-14 | 2023-10-24 |

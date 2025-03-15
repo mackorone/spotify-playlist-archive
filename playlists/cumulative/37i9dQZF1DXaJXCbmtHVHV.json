@@ -5211,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+    },
+    {
+      "album": {
         "name": "Out Of That Truck",
         "url": "https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ"
       },
@@ -7016,7 +7034,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 163242,
       "name": "Thought of You",
       "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"

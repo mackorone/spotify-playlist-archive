@@ -2,9 +2,9 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la calle a la cima con Neton Vega
+> De la Calle a la Cima con Ovy On The Drums
 
-529 songs - 1 day 5 hr 26 min
+530 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Si Te Pillo](https://open.spotify.com/track/2CT2oLeINCEuTEBrkTLUgD) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Te Pillo](https://open.spotify.com/album/3oqhHO8MGpzpqyHEyyIdu9) | 3:39 | 2022-12-16 | 2023-03-11 |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-12-31 | 2022-04-02 |
 | [Siente El Boom](https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [El Documental II](https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z) | 3:08 | 2023-12-21 | 2024-01-05 |
+| [SOCIEDAD](https://open.spotify.com/track/2OvXZkLK3niWOV9NK2QJpZ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SOCIEDAD](https://open.spotify.com/album/3yg3BBGWdl6UDPHMOYFHv8) | 2:10 | 2025-03-14 |  |
 | [Sola Suelta Soltera](https://open.spotify.com/track/2TsQ2eMg44sEqvbLwjzWrA) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [Sola Suelta Soltera](https://open.spotify.com/album/2wZGGuDMF3MsvjCky3oOMy) | 2:43 | 2024-08-16 | 2024-09-07 |
 | [Solida](https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solida](https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr) | 2:33 | 2024-08-23 | 2024-12-20 |
 | [Solitario](https://open.spotify.com/track/2NrpiW6Kc1XPm9AzmvuxEa) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:25 | 2022-11-04 | 2022-11-19 |

@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -3099,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Bijna Vergeten",
+        "url": "https://open.spotify.com/album/0QCaSYScrUx2UNQIHNH7xE"
+      },
+      "artists": [
+        {
+          "name": "Niels Destadsbader",
+          "url": "https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus"
+        },
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184140,
+      "name": "Bijna Vergeten",
+      "url": "https://open.spotify.com/track/2jxhCxeCc7pdWUkKaMx81n"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -3136,7 +3158,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 167784,
       "name": "Bisous Mwa",
       "url": "https://open.spotify.com/track/4vcZL3UwIGaycYYGWkRgAH"
@@ -7034,7 +7056,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 171443,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3gWH0ShPSdYemjRpShD0jA"
@@ -7150,7 +7172,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 149766,
       "name": "Doot Doot (6 7) (Bonus Track)",
       "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
@@ -7878,10 +7900,28 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
       "album": {
@@ -8088,7 +8128,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 239666,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
@@ -8464,7 +8504,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
@@ -8482,7 +8522,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -12774,7 +12814,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 210803,
       "name": "It's Amazing To Be Young",
       "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
@@ -15274,7 +15314,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
@@ -15296,7 +15336,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -18879,6 +18919,24 @@
     },
     {
       "album": {
+        "name": "Para\u00eet que les miracles n'existent pas",
+        "url": "https://open.spotify.com/album/6LUXDm9fS8mtWtJFhVcM95"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "On tombe, on r\u00e9essaye",
+      "url": "https://open.spotify.com/track/3ixplwZFgOhiyQAv28InyM"
+    },
+    {
+      "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
@@ -21033,6 +21091,24 @@
     },
     {
       "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+    },
+    {
+      "album": {
         "name": "right person, wrong time",
         "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
@@ -21442,7 +21518,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,190 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,208 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 61 | [I Happen To Like New York](https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:07 |
 | 62 | [Allez\-Vous En, Go Away](https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Jazz Collection](https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC) | 3:41 |
 | 63 | [You Don't Remind Me](https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\) The Complete Recordings](https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv) | 2:48 |
-| 64 | [Let's Do It \(Let's Fall in Love\)](https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [In the Land of Hi\-Fi](https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX) | 2:37 |
-| 65 | [Just One Of Those Things](https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The One And Only](https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3) | 2:15 |
-| 66 | [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 |
+| 64 | [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 |
+| 65 | [Let's Do It \(Let's Fall in Love\)](https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [In the Land of Hi\-Fi](https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX) | 2:37 |
+| 66 | [Just One Of Those Things](https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The One And Only](https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3) | 2:15 |
 | 67 | [When Love Comes Your Way](https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:13 |
 | 68 | [You're the Top](https://open.spotify.com/track/6OmaPqehiNi2Q2cLq5uE9m) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Best of Cole Porter](https://open.spotify.com/album/6y6Lrz8I1jlMdBvW51rJcf) | 3:02 |
 | 69 | [Blue Swing](https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 4:41 |

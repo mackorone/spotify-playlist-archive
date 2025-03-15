@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-438 songs - 1 day 4 hr 8 min
+439 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-13 |  |
 | [anatagaiito](https://open.spotify.com/track/71rDw7Lv6V1AMff91noPG0) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [Shuuto](https://open.spotify.com/artist/513dL6L9R52xVYSJrJScv9) | [No.00](https://open.spotify.com/album/1dKddiZrMlf945gDs5AlvO) | 3:42 | 2023-11-07 | 2023-11-17 |
 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2022-12-13 | 2023-06-09 |
-| [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 |  |
+| [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 | 2025-03-15 |
 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere?!](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 | 2024-12-14 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-12-13 | 2023-01-25 |
 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 | 2024-04-17 | 2024-05-24 |
@@ -285,6 +285,7 @@
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-10-20 | 2022-11-11 |
 | [Pink Moon](https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Endless Coloured Ways: The Songs of Nick Drake](https://open.spotify.com/album/41NPRAXWRq1a5JKOfxvkfE) | 2:06 | 2023-07-06 | 2023-07-21 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-09 |  |
+| [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 | 2025-03-06 |  |
 | [popcorn nights](https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [popcorn nights](https://open.spotify.com/album/3c4Hal6qduUYmKYuz5ca3H) | 3:39 | 2025-01-13 |  |
 | [Postpone](https://open.spotify.com/track/2uFHPvTAT4yESFpDVmU6bA) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Postpone](https://open.spotify.com/album/1geleGHJ4qLZkSmSeitCOa) | 2:35 | 2023-03-07 | 2023-05-12 |
 | [Postpone](https://open.spotify.com/track/4Y5UKByLZinDQkAKUyg4PF) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Postpone](https://open.spotify.com/album/176bzSvfKBfWVcM5MfrbyO) | 2:35 | 2023-03-07 | 2023-03-09 |

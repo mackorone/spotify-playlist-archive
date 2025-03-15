@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-203 songs - 11 hr 19 min
+204 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-05-31 | 2024-07-12 |
 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 | 2024-06-06 |  |
 | [Snack](https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel) | [Snack](https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg) | 2:33 | 2024-06-20 | 2024-11-17 |
+| [So Excited](https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [So Excited](https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8) | 4:00 | 2025-03-04 |  |
 | [So What](https://open.spotify.com/track/26DbLYaLlZVliIiqYdk1yk) | [Polly](https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq) | [So What](https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB) | 3:40 | 2025-02-20 | 2025-03-05 |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2024-05-31 |  |
 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 | 2024-11-07 | 2024-11-22 |
@@ -200,7 +201,7 @@
 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 | 2024-08-15 | 2025-01-10 |
 | [Viagra](https://open.spotify.com/track/14I5n4dTGVIB4Y995Rl5sC) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Viagra](https://open.spotify.com/album/49JW9xFUTXqr58ZBnLjFZ1) | 4:11 | 2024-10-24 | 2024-11-01 |
 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-31 | 2024-09-21 |
-| [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 | 2024-05-31 |  |
+| [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 | 2024-05-31 | 2025-03-15 |
 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 | 2024-05-31 |  |
 | [What If](https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG) | 3:38 | 2024-05-31 | 2024-11-08 |
 | [What Turns You On](https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [DON WEST](https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w) | 4:44 | 2024-11-28 |  |

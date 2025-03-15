@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-122 songs - 7 hr 59 min
+124 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | [A Night in Rio](https://open.spotify.com/track/213iEl0bXJ9Qrjo2OZfHkg) | [Graham De Wilde](https://open.spotify.com/artist/460n0z7RWA7eJ8xCar7uzH) | [Atmospheric Journeys 2](https://open.spotify.com/album/4H6sy38N08EqbLWPEvv8Xu) | 1:49 | 2023-05-26 |  |
 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 | 2023-05-26 |  |
 | [Angst In My Pants](https://open.spotify.com/track/1Oovzlhz3SgYVFsDcJHpVn) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Angst In My Pants](https://open.spotify.com/album/7eMZ934Zpj7TrFsEhajh7q) | 3:29 | 2023-05-26 |  |
+| [Bae Nosy](https://open.spotify.com/track/2GzGt2xHBKeDAn8DlqkPBx) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Bae Nosy](https://open.spotify.com/album/0oyJNLxkuCwhGTuWw07bKi) | 1:59 | 2025-03-14 |  |
+| [Be There](https://open.spotify.com/track/3mSLDBYXKqrOIUECeE5Nty) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Songs for a Dead Pilot](https://open.spotify.com/album/2mHUUmVMTqr1P4hk9Q5Kor) | 4:42 | 2025-03-14 |  |
 | [Bells for Her \- 2015 Remaster](https://open.spotify.com/track/7e7HdfCu0sVcY1wXBFoxnB) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink \(2015 Remaster\)](https://open.spotify.com/album/3Lqd8nVPIU0X3vFrBZZPrB) | 5:18 | 2023-05-26 |  |
 | [Big Mouth](https://open.spotify.com/track/2QMaXlygnuShLvA0kIJ2jS) | [Necking](https://open.spotify.com/artist/5uEdnolxHzHzzVwXsDZuhL) | [Cut Your Teeth](https://open.spotify.com/album/3rwOmggQUOlF3gFHQglyJ1) | 2:45 | 2023-05-26 |  |
 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2025-03-11 |  |

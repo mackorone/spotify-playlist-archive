@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di RRARI DAL TACCO, Rose Villain, Low\-Red, Side Baby, Frezza e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,936 likes - 120 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,982 likes - 120 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 16 | [MBAPPÉ](https://open.spotify.com/track/73fXHaInE5GKLyO5D7XlzP) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [MBAPPÉ](https://open.spotify.com/album/75qSA4tX1RhFCoui899IBp) | 2:32 |
 | 17 | [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/track/5hMNzRMmktrzIeoFoykfo3) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [PREGIUDICAT \(feat\. El Chapo Junior\)](https://open.spotify.com/album/1T9FkoJv3d75YhqxWHVvdx) | 2:17 |
 | 18 | [ANACONDE GALLARDO \(feat\. Macello, Radical\)](https://open.spotify.com/track/1hLWDJZm5cCv2Zusq5DG5v) | [Ski & Wok](https://open.spotify.com/artist/0r1S7BCoaU5uGAgAWptbl9), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [ANACONDE GALLARDO \(feat\. Macello, Radical\)](https://open.spotify.com/album/7emO5JUevgEPwXqrqmEWH5) | 3:16 |
-| 19 | [Acqua](https://open.spotify.com/track/4s2KWIhjkjY9Hmy6Ah1PW8) | [Francis La Potencia](https://open.spotify.com/artist/6uR8TJ7sfw9WjKb73NUYBr), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU) | [Acqua](https://open.spotify.com/album/0ReRtsbaTZCKdcxyw892rD) | 2:05 |
+| 19 | [Acqua](https://open.spotify.com/track/4s2KWIhjkjY9Hmy6Ah1PW8) | [Francis La Potencia](https://open.spotify.com/artist/6uR8TJ7sfw9WjKb73NUYBr), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ), [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU) | [Acqua](https://open.spotify.com/album/0ReRtsbaTZCKdcxyw892rD) | 2:05 |
 | 20 | [0 Sulla PayPal \(feat\. Disme\)](https://open.spotify.com/track/7saLFBxq3tYrVfmOrGbcdf) | [G.Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Diventare 1](https://open.spotify.com/album/5bLNzxQ4npP1XBRrVmvVrS) | 2:17 |
 | 21 | [Acqua & Olio \(feat\. Quentin40\)](https://open.spotify.com/track/53HYWKlvlBbz4sNaeAb4Ds) | [9ova](https://open.spotify.com/artist/40ScoYJJAlWfFVrBmIQvJO), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [L'Estremità del Cerchio](https://open.spotify.com/album/4KNaxkBnTri4P0SrsDX8Yr) | 2:42 |
 | 22 | [Payday](https://open.spotify.com/track/5LBtPn3N4MiJqa7rgZlLl3) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Payday](https://open.spotify.com/album/3hpauAo0WgeI685KVE0CGv) | 2:36 |

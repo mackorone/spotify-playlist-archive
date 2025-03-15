@@ -2,9 +2,9 @@
 
 ### [Reinas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DXdC7eRcOJUCw)
 
-> Despedimos a Paquita la del Barrio, ícono y referente mexa, te vamos a extrañar 🥺❤️‍🩹
+> ¡Las mujeres de la Música Mexicana! Majo Aguilar en portada
 
-235 songs - 12 hr 38 min
+236 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Invitame A Pecar](https://open.spotify.com/track/7MSO3A4OpN8gJuSP3A0GHK) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Invitame A Pecar](https://open.spotify.com/album/0p0lt9i0YCTHsM1pGij9rR) | 2:10 | 2025-02-17 |  |
 | [Jardinera \(Caponera\) \- Musica de la Serie Original "El Gallo de Oro" \(Versión Dueto\)](https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Berenice](https://open.spotify.com/artist/0UvuOiWVA5hN7isFnkeuD4) | [La Caponera \(Música de la Serie Original “El Gallo de Oro”\)](https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD) | 2:49 | 2023-11-10 |  |
 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 | 2021-11-26 |  |
-| [La Chancla](https://open.spotify.com/track/13nXkV4HWZl3g4cSznffyA) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:57 | 2025-02-17 |  |
+| [La Chancla](https://open.spotify.com/track/13nXkV4HWZl3g4cSznffyA) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:57 | 2025-02-17 | 2025-03-15 |
 | [La Feria de las Flores](https://open.spotify.com/track/1tBz9r3XIP2qRhEmrFUj4J) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:07 | 2022-06-08 | 2024-04-19 |
 | [La Feria de las Flores](https://open.spotify.com/track/4eMRomGN3VT0YXMrTqkWe7) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto \- 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF) | 3:07 | 2021-11-26 |  |
 | [La Hija de Nadie](https://open.spotify.com/track/1TXIr8k01UXF0v6ckLVMUX) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [La Hija De Nadie](https://open.spotify.com/album/0aOOYEl1uxLRX0x6uX2moJ) | 2:49 | 2021-11-26 | 2023-11-11 |
@@ -153,6 +153,7 @@
 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 | 2021-11-26 | 2024-09-14 |
 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 | 2025-01-10 |  |
 | [Perdóname](https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [...Y Llegó Para Quedarse](https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf) | 3:07 | 2023-11-10 |  |
+| [Piel Azteca](https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Piel Azteca](https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ) | 1:55 | 2025-03-14 |  |
 | [Piensa en Mí](https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG) | 3:46 | 2023-07-28 | 2023-11-11 |
 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 | 2022-10-07 | 2023-02-18 |
 | [Piérdeme El Respeto](https://open.spotify.com/track/6dV7WqbLSpTvoF7WjJ18F5) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Piérdeme el Respeto](https://open.spotify.com/album/6rf8U9fm6fArQf3MkJRgcG) | 3:02 | 2025-02-17 |  |

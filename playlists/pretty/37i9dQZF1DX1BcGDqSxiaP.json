@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 26252,
+  "num_followers": 26269,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Rough Cut",
-        "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
       "artists": [
         {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        },
-        {
-          "name": "Alan Hager",
-          "url": "https://open.spotify.com/artist/6ssL3omFOE1DG6dDop8nuL"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 167306,
-      "name": "I Want My Dog To Live Longer (The Greatest Wish)",
-      "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
+      "duration_ms": 293400,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+        "name": "Rough Cut",
+        "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        },
+        {
+          "name": "Alan Hager",
+          "url": "https://open.spotify.com/artist/6ssL3omFOE1DG6dDop8nuL"
         }
       ],
-      "duration_ms": 293400,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+      "duration_ms": 167306,
+      "name": "I Want My Dog To Live Longer (The Greatest Wish)",
+      "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -271,6 +271,38 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 395800,
+      "name": "Third Degree - Remastered",
+      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
+      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -303,38 +335,6 @@
       "duration_ms": 280440,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 395800,
-      "name": "Third Degree - Remastered",
-      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
-      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -375,30 +375,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Harp Attack!",
-        "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        },
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 383933,
-      "name": "Down Home Blues",
-      "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
+      "duration_ms": 141373,
+      "name": "Evil On My Mind - Remastered",
+      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -451,18 +439,30 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+        "name": "Harp Attack!",
+        "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        },
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 141373,
-      "name": "Evil On My Mind - Remastered",
-      "url": "https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm"
+      "duration_ms": 383933,
+      "name": "Down Home Blues",
+      "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
     },
     {
       "added_at": "2023-05-17 15:52:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,048 likes - 92 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,052 likes - 92 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 2 | [end of the story](https://open.spotify.com/track/4pv2Q2F2v2ynb22iFRPprW) | [TigerFoo](https://open.spotify.com/artist/05WBJuCLIZD367mC5mr2FI) | [end of the story](https://open.spotify.com/album/38G08PxKeZXZlciEw0ShMN) | 2:39 |
 | 3 | [out of sight out of mind](https://open.spotify.com/track/1OKWPUyUmRYeKv0uUhMcAD) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [out of sight out of mind](https://open.spotify.com/album/11DROtu8TL8qmYMNTlG5nQ) | 3:10 |
 | 4 | [last dance](https://open.spotify.com/track/0HOtP1tJndPeyNsBUbrlEL) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo), [M37](https://open.spotify.com/artist/6Qi821w1k82weYA1cP04Ro), [dom falso](https://open.spotify.com/artist/09fDsoiQUWyMYJuy8WECJm) | [last dance](https://open.spotify.com/album/1qkD8fLY5YUqd6hv1UEUe8) | 4:02 |
-| 5 | [負距離](https://open.spotify.com/track/6Zs92WAph5KyUM4HmVnXfu) | [ZIRAN](https://open.spotify.com/artist/26YDjtl9lMqYGJRUCCLpVX), [Seluu](https://open.spotify.com/artist/7iOFGeYEtxuh6wcXTXdiKa) | [負距離](https://open.spotify.com/album/35ejq3gndaUE7du8bmrWVY) | 2:32 |
+| 5 | [負距離](https://open.spotify.com/track/6Zs92WAph5KyUM4HmVnXfu) | [ZIRAN](https://open.spotify.com/artist/26YDjtl9lMqYGJRUCCLpVX), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [負距離](https://open.spotify.com/album/35ejq3gndaUE7du8bmrWVY) | 2:32 |
 | 6 | [Thicc Ambassador](https://open.spotify.com/track/3QGWs20y6PS1mldHgQYXY4) | [SUSKI](https://open.spotify.com/artist/53HdF9KrlOQfBPPDavGT0w) | [Thicc Ambassador](https://open.spotify.com/album/7yMHTzJyrhwbaahNaUIvDV) | 2:35 |
 | 7 | [LOVE♡無限大](https://open.spotify.com/track/3lRfzflINHdcA5AAdiPF1i) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw) | [MEMORY BOY](https://open.spotify.com/album/1IMnGCvHxsJuhxjxIRd6DW) | 4:38 |
 | 8 | [slow food](https://open.spotify.com/track/5Bm82ahj28icKbPDnhwqsJ) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT) | [slow food](https://open.spotify.com/album/4PZI9qlfZ4wE3CwpnHrQVD) | 2:43 |

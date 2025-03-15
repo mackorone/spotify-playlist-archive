@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Juno to Jupiter",
+        "url": "https://open.spotify.com/album/1W8RT4Mmz06AfR5UdJgqpl"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254200,
+      "name": "Out in Space",
+      "url": "https://open.spotify.com/track/5j9VnclvG1XrE4R04KxBGv"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },

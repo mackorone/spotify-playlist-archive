@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-292 songs - 13 hr 48 min
+293 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2024-12-20 |  |
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
-| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |
+| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 | 2025-03-15 |
 | [Skoog](https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Skoog](https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N) | 3:27 | 2024-12-04 |  |
 | [Skyflow](https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skyflow](https://open.spotify.com/album/01rre0E5ZuPhFZ0v9FJ2ob) | 2:51 | 2025-02-10 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
@@ -276,6 +276,7 @@
 | [Temptavi](https://open.spotify.com/track/6pAbtZUtsX7jo1QATy9yqK) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Temptavi](https://open.spotify.com/album/42bxu81Q5B6FnuwiwjjFbo) | 2:59 | 2023-03-13 |  |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-02-13 | 2024-12-13 |
 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 | 2023-02-26 | 2025-02-11 |
+| [The Endel](https://open.spotify.com/track/0MZW4FxzYpMSBqnreMgl3t) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [The Endel](https://open.spotify.com/album/7MpIqdRDsyxbCSyTcIkvIQ) | 3:41 | 2025-03-14 |  |
 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 | 2023-03-20 | 2025-02-11 |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-01-24 | 2023-07-29 |
 | [The Riddle of Dreams](https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp) | [Epilogue Gravity](https://open.spotify.com/artist/1ujQ7yELrx9UJkxV0NiSCe) | [The Riddle of Dreams](https://open.spotify.com/album/0jWXe3O5djbov0RcnXJZFG) | 2:36 | 2023-04-24 |  |

@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: LE SSERAFIM\(르세라핌\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-451 songs - 1 day 0 hr 37 min
+452 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-08-18 |  |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-04-04 | 2023-06-26 |
 | [Euphoria](https://open.spotify.com/track/3Ixsxq6c4AFcUH5JjQTgYj) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Euphoria](https://open.spotify.com/album/17szusBUg2KhiVYBxU4AOo) | 3:10 | 2021-11-21 | 2022-07-27 |
-| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-06-22 |  |
+| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-06-22 | 2025-03-15 |
 | [Even So](https://open.spotify.com/track/2iRrkHAH7JeDRK9oipHd3j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Even So](https://open.spotify.com/album/0Y6uM1oGRdVD4EazYhK8E9) | 3:48 | 2021-11-21 | 2022-05-22 |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2021-11-21 | 2022-07-14 |
 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-28 | 2023-05-23 |
@@ -175,6 +175,7 @@
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-01-19 | 2022-04-21 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-09-19 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-05-31 | 2023-01-11 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [How Do You Feel 어떨 것 같아](https://open.spotify.com/track/13TsBlKDFHcBrxCzAZv3qy) | [HAIL](https://open.spotify.com/artist/6ay9YyFyAgf6eORHdLKKDf) | [How Do You Feel 어떨 것 같아](https://open.spotify.com/album/6L5ThzBw0itTXnaj2AzyTk) | 5:18 | 2021-11-21 | 2022-07-22 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-27 |  |
 | [How To Twerk \(Prod\. Czaer\)](https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:56 | 2023-09-11 | 2023-10-05 |

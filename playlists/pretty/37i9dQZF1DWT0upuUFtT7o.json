@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Cdubz",
-  "num_followers": 243858,
+  "num_followers": 243926,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9G8QQAAAAAXONTSurvETIUO5FHhUUkM",
+  "snapshot_id": "Z9OhNQAAAABMZWkccuiASJ6q1winDD6M",
   "tracks": [
     {
       "added_at": "2025-03-12 16:54:25",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM"
     },
     {
+      "added_at": "2025-03-14 03:23:33",
+      "album": {
+        "name": "H+H",
+        "url": "https://open.spotify.com/album/19qzl6ksm4J9cbWJZ5QhFm"
+      },
+      "artists": [
+        {
+          "name": "Skuzland",
+          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
+        }
+      ],
+      "duration_ms": 112592,
+      "name": "H+H",
+      "url": "https://open.spotify.com/track/3N0jaNfm4tH6EKw5lIwCOX"
+    },
+    {
       "added_at": "2025-03-12 16:54:25",
       "album": {
         "name": "Slowly",
@@ -123,22 +139,6 @@
       "duration_ms": 171125,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/301Ku0qR3bOfP5Oq6fRVx7"
-    },
-    {
-      "added_at": "2025-03-12 16:54:25",
-      "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/12sDvu8m54cF6mrqed9WlI"
-      },
-      "artists": [
-        {
-          "name": "Creams",
-          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
-        }
-      ],
-      "duration_ms": 171623,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/1Xx92rYfvA4J0mic716XMB"
     },
     {
       "added_at": "2025-03-06 14:14:13",
@@ -219,6 +219,22 @@
       "duration_ms": 288000,
       "name": "DROWN ETERNALLY",
       "url": "https://open.spotify.com/track/2H6gtCJHroDtUDMRRlFrsZ"
+    },
+    {
+      "added_at": "2025-03-12 16:54:25",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/12sDvu8m54cF6mrqed9WlI"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        }
+      ],
+      "duration_ms": 171623,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/1Xx92rYfvA4J0mic716XMB"
     },
     {
       "added_at": "2025-03-06 14:14:13",

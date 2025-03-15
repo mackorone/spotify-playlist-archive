@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Ecca Vandal
 
-1,846 songs - 4 day 5 hr 47 min
+1,847 songs - 4 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [Heaven Or Hell](https://open.spotify.com/track/3SeVLSlHtjKkmGEr8DQHD0) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Heaven Or Hell](https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs) | 2:29 | 2022-10-05 | 2022-11-10 |
 | [Heaven Was Full \(I'm Headed Straight to Hell\)](https://open.spotify.com/track/4Kwyg3JFL5yThzzkc4yqyc) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Heaven Was Full \(I'm Headed Straight to Hell\)](https://open.spotify.com/album/5h1ZsL9l2XsUHQSkJWHd1J) | 2:36 | 2023-01-18 | 2023-03-02 |
 | [Heavy](https://open.spotify.com/track/357QUMHpXOdfavXNrN8A0j) | [Double Grave](https://open.spotify.com/artist/432pBIkMh8DwgQBQ5cDILK) | [Heavy](https://open.spotify.com/album/6QfQbHKGJsPshyyOcEAzHY) | 4:00 | 2023-02-15 | 2023-04-06 |
+| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [florence road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-14 |  |
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-31 | 2025-01-16 |
 | [Heavyweight](https://open.spotify.com/track/04bKfN1DmIwHAhvjaWmPgv) | [No Longer Kids](https://open.spotify.com/artist/39DMM7nr6ktYt2KfN6Bevg) | [Heavyweight](https://open.spotify.com/album/1cbUAh7LGxNsLpql5guTfB) | 3:11 | 2023-10-04 | 2023-10-26 |
 | [Hell In A Cell](https://open.spotify.com/track/3XVp1ofpR7lIYykL8yLv3B) | [Jobber](https://open.spotify.com/artist/6Qfu29KtPFPfCedfmgpTh9) | [Hell In A Cell](https://open.spotify.com/album/2tJqRWayKS0j8aVxHD7Ghw) | 4:07 | 2022-10-05 | 2022-12-01 |

@@ -1,6 +1,6 @@
 {
   "description": "I'll help you be popular!",
-  "num_followers": 712627,
+  "num_followers": 713016,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
+    },
+    {
       "added_at": "2024-12-23 18:12:18",
       "album": {
         "name": "STRATEGY",
@@ -331,22 +347,6 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 133113,
-      "name": "drinks or coffee",
-      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Tia Tamera (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "FANCY YOU",
         "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 216520,
       "name": "If U Seek Amy",
       "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Amala (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Tia Tamera (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 274766,
       "name": "YA YA",
       "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
       "added_at": "2024-08-03 15:31:45",

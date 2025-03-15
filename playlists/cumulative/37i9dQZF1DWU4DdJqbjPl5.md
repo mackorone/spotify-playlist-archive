@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Sweet R&B straight out of Africa\. Cover: Tems
+> Sweet R&B straight out of Africa\. Cover: Xenia Mannasseh
 
-429 songs - 22 hr 47 min
+431 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 | 2023-06-02 | 2024-06-21 |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2024-10-18 |  |
 | [Afraid to Lose You](https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Afraid to Lose You](https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv) | 3:27 | 2022-02-03 | 2022-04-15 |
+| [Afraid, Pt\. 2](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 |  |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-07-15 |
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 |  |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 | 2022-03-04 |
@@ -30,7 +31,7 @@
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-01-20 | 2022-04-29 |
 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 | 2023-06-22 | 2024-07-27 |
 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 | 2022-12-09 | 2024-02-09 |
-| [Another Episode](https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Another Episode](https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8) | 3:14 | 2024-03-01 |  |
+| [Another Episode](https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Another Episode](https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8) | 3:14 | 2024-03-01 | 2025-03-15 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2024-08-26 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2021-01-07 | 2023-12-01 |
 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 | 2024-11-15 |  |
@@ -46,6 +47,7 @@
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-11-15 | 2023-04-21 |
 | [Back 2 Ya](https://open.spotify.com/track/737wrM4gGWNlkQZRLQz541) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/3RxSYVzGWrUTxMXQKfdJyo) | 3:39 | 2022-06-03 | 2022-07-08 |
 | [Backroom](https://open.spotify.com/track/1WBvbilb4UNMD8vxNbgZyp) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Backroom](https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv) | 4:10 | 2022-07-14 | 2022-07-23 |
+| [Bad Belle](https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad Belle](https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d) | 3:26 | 2025-03-14 |  |
 | [Bad News](https://open.spotify.com/track/4cibtAt2Vi6R1shOn9fu41) | [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Bad News](https://open.spotify.com/album/3TZejTDaixhmNjsBSZDOpx) | 3:12 | 2022-02-18 | 2023-02-04 |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2023-06-23 |
@@ -143,7 +145,7 @@
 | [Frequency](https://open.spotify.com/track/3nfSYUd63s78rudVQuTrqk) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Frequency](https://open.spotify.com/album/6z5bs7EEmeUoiJqdPJw0PP) | 3:36 | 2022-11-14 | 2022-11-26 |
 | [Further From Me](https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Further From Me](https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9) | 2:17 | 2024-06-14 |  |
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-04-20 | 2023-05-05 |
-| [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2024-02-23 |  |
+| [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2024-02-23 | 2025-03-15 |
 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 | 2022-12-02 | 2023-01-13 |
 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 | 2024-04-19 |
 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-15 | 2025-02-22 |

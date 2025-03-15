@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,297 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,318 likes - 42 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 21 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 |
 | 22 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:28 |
 | 23 | [Career Opportunities \- Remastered](https://open.spotify.com/track/4aKMvmxQgX7J766G4pFlyh) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:54 |
-| 24 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 |
-| 25 | [Know Your Rights \- Remastered](https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:40 |
+| 24 | [Know Your Rights \- Remastered](https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:40 |
+| 25 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 |
 | 26 | [Complete Control](https://open.spotify.com/track/0mlwPYU0ApElSjZN4yA4L9) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:12 |
 | 27 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 |
 | 28 | [Julie's Been Working for the Drug Squad \- Remastered](https://open.spotify.com/track/2rUVY6uXm8J0IEr230B1L1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:03 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 41 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
 | 42 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 
-Snapshot ID: `Z9DOgAAAAADPV4wwOPEqumd98G8rn3HZ`
+Snapshot ID: `Z9IgAAAAAADFPtJDeHf1rFh6VQJjii96`

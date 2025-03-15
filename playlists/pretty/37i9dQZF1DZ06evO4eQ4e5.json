@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 83291,
+  "num_followers": 83299,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB/vXjhLwO0YIQ/TcpCc6gi",
+  "snapshot_id": "Z9IgAAAAAABEZu6dLhaQxwKiZFXZdqQq",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/6Uw2O0FMnJhllxedN4bWSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a ti",
         "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 228146,
       "name": "Mi error, mi fantas\u00eda",
       "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/6Uw2O0FMnJhllxedN4bWSn"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 225000,
       "name": "Como Tu Mujer (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Entre ella y yo",
-      "url": "https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219933,
       "name": "Pero Me Fui",
       "url": "https://open.spotify.com/track/2bvEzKkRkUl7SOvrGQglzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Entre ella y yo",
+      "url": "https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos del coraz\u00f3n (USA)",
-        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "T\u00f3mame o d\u00e9jame",
-      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 251666,
       "name": "Esta vez",
       "url": "https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos del coraz\u00f3n (USA)",
+        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "T\u00f3mame o d\u00e9jame",
+      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "El Nido (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 220329,
       "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
       "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "El Nido (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 316676,
+  "num_followers": 316735,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABavhWGwV8k0CJ4IVKOYbVU",
+  "snapshot_id": "Z9IgAAAAAAD3k79QG4Pi/9+Yh8OG/eCN",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 35906,
-      "name": "Play That Riff - Anthology Version",
-      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
       "artists": [
         {
@@ -724,9 +708,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 475373,
-      "name": "Georgia Blues",
-      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+      "duration_ms": 35906,
+      "name": "Play That Riff - Anthology Version",
+      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Astro Man - Takes 9 & 10",
+      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Astro Man - Takes 9 & 10",
-      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
     },
     {
       "added_at": null,

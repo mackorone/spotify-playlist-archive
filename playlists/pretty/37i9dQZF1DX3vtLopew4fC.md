@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,592 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,596 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wolf](https://open.spotify.com/track/1hIOttZmQV6aAi9Al7NYoU) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Wolf](https://open.spotify.com/album/0lUSsaAheHP7BXnktrZNlZ) | 3:08 |
 | 2 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |
 | 3 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 4 | [Wifey Riddim](https://open.spotify.com/track/2aVlas4LxSoIIJUkqFLXOB) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Club Shy Room 2](https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX) | 2:28 |
+| 4 | [Wifey Riddim](https://open.spotify.com/track/2aVlas4LxSoIIJUkqFLXOB) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smtih](https://open.spotify.com/artist/3oXpY28wTnwrpscvgQyK06), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Club Shy Room 2](https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX) | 2:28 |
 | 5 | [Self Love](https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:52 |
 | 6 | [Putita Boutique](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 |
 | 7 | [Ready](https://open.spotify.com/track/0dDciQvSUTEbcLugnDXRCX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Ready](https://open.spotify.com/album/27b6q0H567oGVedA8bAuwg) | 2:52 |

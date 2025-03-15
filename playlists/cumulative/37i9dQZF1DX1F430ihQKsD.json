@@ -4195,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "Rom-Com",
+        "url": "https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Il faut qu'on se parle",
+      "url": "https://open.spotify.com/track/5vnFXiRwOQhz5xBn09GKRK"
+    },
+    {
+      "album": {
         "name": "Incendie au paradis",
         "url": "https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa"
       },
@@ -5500,7 +5518,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 175504,
       "name": "let u in",
       "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"

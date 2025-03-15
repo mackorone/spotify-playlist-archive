@@ -167,6 +167,22 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 197196,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 197196,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Boticario de Amor",
-        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
-      },
-      "artists": [
-        {
-          "name": "Hot Shooters",
-          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "NO LA VI VENIR",
-      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Boticario de Amor",
+        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
+      },
+      "artists": [
+        {
+          "name": "Hot Shooters",
+          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "NO LA VI VENIR",
+      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -419,6 +419,42 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "L\u00fadico",
+        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
+      },
+      "artists": [
+        {
+          "name": "Francisco De Rosa",
+          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
+        },
+        {
+          "name": "Francisco De Rosa Quinteto",
+          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
+        }
+      ],
+      "duration_ms": 306999,
+      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
+      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 140213,
+      "name": "I'm Beginning to See the Light",
+      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "En Las Afueras",
         "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
@@ -447,42 +483,6 @@
       "duration_ms": 468087,
       "name": "Sol La, Al Sol",
       "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 140213,
-      "name": "I'm Beginning to See the Light",
-      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
-        "name": "L\u00fadico",
-        "url": "https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb"
-      },
-      "artists": [
-        {
-          "name": "Francisco De Rosa",
-          "url": "https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7"
-        },
-        {
-          "name": "Francisco De Rosa Quinteto",
-          "url": "https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx"
-        }
-      ],
-      "duration_ms": 306999,
-      "name": "Vengo a ofrecer mi coraz\u00f3n (Fito P\u00e1ez) - Francisco De Rosa (Ss), Horacio \"Kid\" Leotta (Tp), Gustavo Barrag\u00e1n (Guit), Pablo Elorza (Bass) y Santiago Hern\u00e1ndez (Drum)",
-      "url": "https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "Mensajes Secretos",
         "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Brilliant Corners",
         "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
-      },
-      "artists": [
-        {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
-        }
-      ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Viva Jujuy",
         "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 361280,
       "name": "Viva Jujuy",
       "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+      },
+      "artists": [
+        {
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+        }
+      ],
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 403600,
-      "name": "Tour de Force",
-      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Polacos",
         "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 188773,
       "name": "Polacos",
       "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 403600,
+      "name": "Tour de Force",
+      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Here\u00b4s That Rainy Day",
         "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 192615,
       "name": "Here\u00b4s That Rainy Day",
       "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -1247,42 +1247,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Infinite Universe",
-        "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        },
-        {
-          "name": "Santiago Deluca",
-          "url": "https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ"
-        }
-      ],
-      "duration_ms": 280801,
-      "name": "Infinite Universe",
-      "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "All the Things You Are",
         "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
@@ -1307,6 +1271,42 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Infinite Universe",
+        "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        },
+        {
+          "name": "Santiago Deluca",
+          "url": "https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ"
+        }
+      ],
+      "duration_ms": 280801,
+      "name": "Infinite Universe",
+      "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
         "name": "Algo Bueno - Something Good",
         "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2025-02-28 03:00:30",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -1355,6 +1339,30 @@
       "duration_ms": 405604,
       "name": "La Novena",
       "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
+    },
+    {
+      "added_at": "2025-02-28 03:00:30",
+      "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 495746,
+      "name": "Cabrera's Blues",
+      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2025-02-28 03:00:30",
@@ -1387,26 +1395,18 @@
     {
       "added_at": "2025-02-28 03:00:30",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
         }
       ],
-      "duration_ms": 495746,
-      "name": "Cabrera's Blues",
-      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2025-02-28 03:00:30",

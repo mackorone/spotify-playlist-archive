@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 313324,
+  "num_followers": 313484,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Santa Teresa",
         "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 298666,
       "name": "Santa Teresa",
       "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
     },
     {
-      "added_at": "2024-07-20 14:57:35",
-      "album": {
-        "name": "Macro",
-        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 234182,
-      "name": "Euphoric Avenue",
-      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "R\u00fambala (Jiony Remix)",
@@ -599,6 +583,22 @@
       "duration_ms": 231764,
       "name": "R\u00fambala - Jiony Remix",
       "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
+    },
+    {
+      "added_at": "2024-07-20 14:57:35",
+      "album": {
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 234182,
+      "name": "Euphoric Avenue",
+      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
     },
     {
       "added_at": "2024-06-27 19:57:19",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
-      "added_at": "2024-05-30 03:07:45",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 180646,
-      "name": "Conexi\u00f3n Ancestral",
-      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
-    },
-    {
       "added_at": "2024-02-02 04:40:19",
       "album": {
         "name": "intentos",
@@ -883,6 +867,22 @@
       "duration_ms": 122331,
       "name": "quiz\u00e1s en otra vida",
       "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
+    },
+    {
+      "added_at": "2024-05-30 03:07:45",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Conexi\u00f3n Ancestral",
+      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -1261,24 +1261,20 @@
       "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
-      "added_at": "2023-03-16 23:40:55",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Dj friendly",
-        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
+        "name": "Mercuriana Armon\u00eda C\u00f3smica",
+        "url": "https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD"
       },
       "artists": [
         {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Vazl\u00e1",
-          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
+          "name": "Mercuriana",
+          "url": "https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf"
         }
       ],
-      "duration_ms": 234900,
-      "name": "V\u00e1monos - Vazl\u00e1 Remix",
-      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
+      "duration_ms": 188860,
+      "name": "Agua, Arena, Sol y Viento",
+      "url": "https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL"
     }
   ],
   "unique_name": "Tulum Vibes",

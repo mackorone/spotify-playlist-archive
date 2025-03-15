@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Kerser
 
-518 songs - 1 day 1 hr 23 min
+520 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 | 2025-03-06 |  |
 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-24 |  |
 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-03 | 2023-12-22 |
+| [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 | 2025-03-14 |  |
 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-02-20 |  |
 | [Commando](https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Commando](https://open.spotify.com/album/0XzaAUuAtI6R9cmxRg9dC2) | 2:16 | 2024-06-21 | 2024-09-13 |
 | [COOL DOWN \(feat\. YG\)](https://open.spotify.com/track/5xF2xRuCrPzdiuquJ363Ok) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [MAKE THE WEST GREAT AGAIN](https://open.spotify.com/album/7pAW452N8gTTdZFeuEjiTr) | 2:35 | 2024-05-09 | 2024-09-06 |
@@ -191,6 +192,7 @@
 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 | 2024-05-09 | 2024-06-28 |
 | [Give Me My Heart Back](https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Give Me My Heart Back](https://open.spotify.com/album/5U1f0n73kyqYcwBFzxIm1h) | 2:46 | 2024-08-08 | 2024-11-01 |
 | [GOLDEN TAN](https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [GOLDEN TAN](https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W) | 2:16 | 2023-11-23 | 2024-03-15 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Good Girls Stay At Home](https://open.spotify.com/track/4fB3fwk7cBaCVp6NWrMeWa) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Good Girls Stay At Home](https://open.spotify.com/album/07S9GQMxJywu4q14McF4zP) | 2:32 | 2024-02-08 | 2024-03-23 |
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-20 |  |
 | [GRAMMY PARTY](https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GRAMMY PARTY](https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi) | 1:50 | 2024-02-29 | 2024-07-12 |

@@ -5979,6 +5979,28 @@
     },
     {
       "album": {
+        "name": "What We Do",
+        "url": "https://open.spotify.com/album/2BXAK50uaMGHgRuDPbRWBq"
+      },
+      "artists": [
+        {
+          "name": "Maggie Szabo",
+          "url": "https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48"
+        },
+        {
+          "name": "DANZR",
+          "url": "https://open.spotify.com/artist/0VQlqSOXMCDcObzrzXIZVV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145423,
+      "name": "What We Do",
+      "url": "https://open.spotify.com/track/1QgD76T1CDXO7204gPevKQ"
+    },
+    {
+      "album": {
         "name": "What We Know (feat. Conor Byrne)",
         "url": "https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd"
       },

@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-1,836 songs - 3 day 16 hr 18 min
+1,837 songs - 3 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [GUIDO/MISS KARMA](https://open.spotify.com/track/3PdZ7ePXNA57Z03QbioxeR) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [GUIDO/MISS KARMA](https://open.spotify.com/album/1Ihcf6gyegcMVab61gvVqZ) | 2:52 | 2020-12-11 | 2021-03-26 |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2020-10-13\* | 2020-11-03 |
 | [Guilty Pleasure](https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d) | 3:07 | 2022-04-08 | 2022-11-17 |
+| [H+H](https://open.spotify.com/track/3N0jaNfm4tH6EKw5lIwCOX) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [H+H](https://open.spotify.com/album/19qzl6ksm4J9cbWJZ5QhFm) | 1:52 | 2025-03-14 |  |
 | [H\-A\-P\-P\-Y](https://open.spotify.com/track/7jseeQmEFs7vp8pIQcXkaO) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Acting Funny](https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk) | 3:11 | 2023-03-24 | 2023-06-08 |
 | [hadji 2 hotty](https://open.spotify.com/track/6cWYqDEOnCOcUZWHTWTwcx) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [wallflower](https://open.spotify.com/album/44nWppyz5M81ne6j52h2zt) | 2:05 | 2023-08-18 | 2023-11-08 |
 | [haircut](https://open.spotify.com/track/2TAPDfBVQU50hNcbGUq9Q8) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [haircut](https://open.spotify.com/album/6DDPra9LW0x5iQCdV84HXV) | 2:57 | 2021-06-12 | 2022-12-01 |
@@ -1210,7 +1211,7 @@
 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 | 2023-03-17 | 2024-06-15 |
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-03-02 |
 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 | 2022-01-21 | 2022-03-03 |
-| [Piece Of Cake](https://open.spotify.com/track/2bV5gCcpUl5HkRaQOz6pik) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles](https://open.spotify.com/album/2KGxa1nak2X1o3l5bqYmCA) | 3:16 | 2025-03-13 |  |
+| [Piece Of Cake](https://open.spotify.com/track/2bV5gCcpUl5HkRaQOz6pik) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles](https://open.spotify.com/album/2KGxa1nak2X1o3l5bqYmCA) | 3:16 | 2025-03-13 | 2025-03-15 |
 | [PILOT](https://open.spotify.com/track/6p2RUPU8EUHfdNq4hnGX0B) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [JUST MY LUCK](https://open.spotify.com/album/71PRKOPWHQpHkIZim7bE99) | 3:51 | 2022-06-24 | 2022-11-09 |
 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2022-11-30 | 2023-03-02 |
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-06 | 2021-10-13 |

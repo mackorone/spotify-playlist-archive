@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128611,
+  "num_followers": 128623,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,30 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Un Hogar",
+        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 132189,
+      "name": "Un Hogar",
+      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "Un Golpe de Suerte",
         "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
@@ -767,6 +791,26 @@
       "duration_ms": 269932,
       "name": "Un Golpe de Suerte",
       "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "la alegr\u00eda de vivir",
+        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "duration_ms": 167063,
+      "name": "la alegr\u00eda de vivir",
+      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -807,30 +851,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Un Hogar",
-        "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
-      },
-      "artists": [
-        {
-          "name": "Las Nietas del Charli",
-          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 132189,
-      "name": "Un Hogar",
-      "url": "https://open.spotify.com/track/2swtKrgHN16HxDxNtF2rAc"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "Tan delicada",
         "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 199096,
       "name": "Tan delicada",
       "url": "https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
-        "name": "la alegr\u00eda de vivir",
-        "url": "https://open.spotify.com/album/0L8QQXr3QimOs5ef5oumgQ"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 167063,
-      "name": "la alegr\u00eda de vivir",
-      "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -903,26 +903,6 @@
       "duration_ms": 295328,
       "name": "Ventura - Live",
       "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
-        "name": "Esto No Es un Disco Vol.2",
-        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o de la Hipoteca",
-          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
-        },
-        {
-          "name": "Sandra Bautista",
-          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
-        }
-      ],
-      "duration_ms": 158341,
-      "name": "Testamento - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -987,6 +967,26 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Esto No Es un Disco Vol.2",
+        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o de la Hipoteca",
+          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+        },
+        {
+          "name": "Sandra Bautista",
+          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
+        }
+      ],
+      "duration_ms": 158341,
+      "name": "Testamento - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "LOS CINCO ELEMENTOS",
-        "url": "https://open.spotify.com/album/4UuLcOxd0miCPzd315KVpL"
+        "name": "Todo te parece normal",
+        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
       },
       "artists": [
         {
-          "name": "Carla Delgado",
-          "url": "https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 178080,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/6JFbsFLjUP6rEL6tQAbpp9"
+      "duration_ms": 296669,
+      "name": "Todo te parece normal",
+      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Todo te parece normal",
-        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
+        "name": "LOS CINCO ELEMENTOS",
+        "url": "https://open.spotify.com/album/4UuLcOxd0miCPzd315KVpL"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Carla Delgado",
+          "url": "https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom"
         }
       ],
-      "duration_ms": 296669,
-      "name": "Todo te parece normal",
-      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
+      "duration_ms": 178080,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/6JFbsFLjUP6rEL6tQAbpp9"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "Ag\u00fcita del equilibrio",
         "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 263441,
       "name": "Ag\u00fcita del equilibrio",
       "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Yo No Quiero Ser Tu Amigo",
-        "url": "https://open.spotify.com/album/3NK1SQIZb7E53hA2B1pmNG"
-      },
-      "artists": [
-        {
-          "name": "Yo Vivo Navegando",
-          "url": "https://open.spotify.com/artist/2PsLvXIkERMvCRYXqErit4"
-        }
-      ],
-      "duration_ms": 198387,
-      "name": "Yo No Quiero Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/4OmUYRDycYSiuI6JwBVmEW"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "Yo No Quiero Ser Tu Amigo",
+        "url": "https://open.spotify.com/album/3NK1SQIZb7E53hA2B1pmNG"
+      },
+      "artists": [
+        {
+          "name": "Yo Vivo Navegando",
+          "url": "https://open.spotify.com/artist/2PsLvXIkERMvCRYXqErit4"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "Yo No Quiero Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/4OmUYRDycYSiuI6JwBVmEW"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Todo lo Que Tengo",
-        "url": "https://open.spotify.com/album/7roKWO70Emv1wpq26niIZx"
-      },
-      "artists": [
-        {
-          "name": "Marazu",
-          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
-        }
-      ],
-      "duration_ms": 254305,
-      "name": "Todo lo Que Tengo",
-      "url": "https://open.spotify.com/track/5rfmreOdFq1jp3afeCNJAK"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 179324,
       "name": "Herba de Namorar",
       "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "Todo lo Que Tengo",
+        "url": "https://open.spotify.com/album/7roKWO70Emv1wpq26niIZx"
+      },
+      "artists": [
+        {
+          "name": "Marazu",
+          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
+        }
+      ],
+      "duration_ms": 254305,
+      "name": "Todo lo Que Tengo",
+      "url": "https://open.spotify.com/track/5rfmreOdFq1jp3afeCNJAK"
     }
   ],
   "unique_name": "Cancionistas",

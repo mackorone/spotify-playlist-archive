@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 394400,
       "name": "'Bout It",
       "url": "https://open.spotify.com/track/3414vfp4uaJNFqFFj9sUvz"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 120165,
       "name": "10\u0422\u0411",
       "url": "https://open.spotify.com/track/1jP3ZuuZ4dTIEMuBmryrCC"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
@@ -3126,7 +3126,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2mEMKgLqH3VZaSYO7iYCzp"
@@ -4256,10 +4256,28 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
       "album": {
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 311773,
       "name": "Hass Und Liebe",
       "url": "https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux"
@@ -11096,7 +11114,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 120521,
       "name": "Party",
       "url": "https://open.spotify.com/track/3oFcDLxie8sWYwlvVrPxuG"
@@ -13688,7 +13706,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
@@ -14504,6 +14522,24 @@
       "duration_ms": 160824,
       "name": "TOKYO",
       "url": "https://open.spotify.com/track/7MjpBQViz7f1133ni9psvu"
+    },
+    {
+      "album": {
+        "name": "Congrats",
+        "url": "https://open.spotify.com/album/2gXD1M54nEGHLVZZea22Rv"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227720,
+      "name": "Tom Tom",
+      "url": "https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL"
     },
     {
       "album": {
@@ -17426,6 +17462,24 @@
       "duration_ms": 112500,
       "name": "\u0431\u044d\u0439\u0441\u043b\u0430\u0439\u043d \u0431\u0438\u0437\u043d\u0435\u0441",
       "url": "https://open.spotify.com/track/7qndEgoazYMqEb6ooHKT3E"
+    },
+    {
+      "album": {
+        "name": "\u0412 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "url": "https://open.spotify.com/album/24O6uLnfpA1DzvxBUafb83"
+      },
+      "artists": [
+        {
+          "name": "1ches",
+          "url": "https://open.spotify.com/artist/0b7rhDqNXilYiS7ExxslyX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "\u0412 \u0437\u0434\u0430\u043d\u0438\u0438",
+      "url": "https://open.spotify.com/track/1J1g1bwGxBa78YAMVlAY09"
     },
     {
       "album": {
@@ -20856,7 +20910,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "url": "https://open.spotify.com/track/7gWyCKp6TFrHA92RRYVrve"
@@ -23781,6 +23835,24 @@
     },
     {
       "album": {
+        "name": "\u0425\u0440\u0443\u043f\u043a\u043e",
+        "url": "https://open.spotify.com/album/0CFMWLs7VceyfMJ0JhxEe4"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u0430\u0439\u0442\u0435 \u0442\u0430\u043d\u043a (!)",
+          "url": "https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115758,
+      "name": "\u0420\u0435\u043a\u0443\u0440\u0441\u0438\u044f",
+      "url": "https://open.spotify.com/track/64pUXQODAlArJEFqzCi3UD"
+    },
+    {
+      "album": {
         "name": "Heavy Metal 2",
         "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
       },
@@ -24090,6 +24162,24 @@
       "duration_ms": 87697,
       "name": "\u0421\u0435\u043a\u0441\u0438 \u0442\u0435\u043c\u0430",
       "url": "https://open.spotify.com/track/3p41txHMZQ5Ep5SGidbAqW"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0435\u043b\u0444\u043b\u0430\u0432",
+        "url": "https://open.spotify.com/album/2ViP5dAMVi8TDJ8frqcGqb"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0440\u044b\u043b\u0438",
+          "url": "https://open.spotify.com/artist/6jT3NPRIEZFmVg2cC8Xop7"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "\u0421\u0435\u043b\u0444\u043b\u0430\u0432",
+      "url": "https://open.spotify.com/track/70deUhnQDkaLGgTo3hSg1T"
     },
     {
       "album": {

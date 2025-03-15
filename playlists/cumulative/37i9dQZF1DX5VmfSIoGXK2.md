@@ -4,17 +4,19 @@
 
 > smooth, classy, soulful 💫 the best of Jazz House, featuring berlioz
 
-75 songs - 5 hr 12 min
+80 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [@ tha jazz club](https://open.spotify.com/track/24E9lAXzbPTO7fYjmcsLiq) | [geneva](https://open.spotify.com/artist/2o7hwM029oQciNt5pyaj3i) | [@ tha jazz club](https://open.spotify.com/album/0TlTqm0js7xR8p0NsBToQS) | 3:46 | 2025-02-21 |  |
+| [A Way Out](https://open.spotify.com/track/1GcUuxtC564k9GqIEjgS0S) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Way Out](https://open.spotify.com/album/7D4OA9mOyyFUQJTdHOiWlH) | 5:00 | 2025-03-14 |  |
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 |  |
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 |  |
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 |  |
 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 | 2025-02-21 |  |
+| [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 |  |
 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2025-02-21 |  |
 | [Bossa Love](https://open.spotify.com/track/393QMam52QYLT9FqrlkBZc) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Bossa Love](https://open.spotify.com/album/62emtUMLEvcHSav4mQARmZ) | 3:10 | 2025-03-07 |  |
 | [breathing in](https://open.spotify.com/track/5SQFF77hbKu61zAhuofSx9) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [feel it yet?](https://open.spotify.com/album/73TPblj9INiaI87pRaV5EW) | 3:01 | 2025-02-21 |  |
@@ -24,9 +26,12 @@
 | [De Vere](https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [De Vere](https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM) | 2:27 | 2025-02-21 |  |
 | [Different place, same people](https://open.spotify.com/track/0i6vMyHFpLh8Az4ra1iuQM) | [Altone Dieux](https://open.spotify.com/artist/5jaLmESXLLyV6XXvGkJFNv) | [Different place, same people](https://open.spotify.com/album/1wUJpcDx6efKPrmHwYDsU6) | 2:06 | 2025-02-21 |  |
 | [Dogs](https://open.spotify.com/track/1rMVnYTLuvzuloRLZhRMP5) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Dogs](https://open.spotify.com/album/4Z7XkSG9UxdiQZP36qIEeg) | 2:11 | 2025-02-21 |  |
+| [DTPA](https://open.spotify.com/track/2pW1kEB7RK8CdumAiXBlXr) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Licious](https://open.spotify.com/album/0OiY4E01FdNSKkpmmWmjqP) | 2:26 | 2025-03-14 |  |
 | [Emotional Intelligence](https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Dave Koor](https://open.spotify.com/artist/7bWbTT6EfOWbzRmBCSGUhq) | [Chaos In The CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 6:20 | 2025-02-21 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 |  |
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 |  |
+| [Fleur de Sucre](https://open.spotify.com/track/09wDfwbHmyUFi9SKbJ0APT) | [Sable Blanc](https://open.spotify.com/artist/6kP2m716w4dZmIBQ1PCiGD) | [New Places](https://open.spotify.com/album/2AfjakN5fWOqGkAMnq82me) | 5:06 | 2025-03-14 |  |
+| [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
 | [Have You Ever Dream Of Nancy Plenozas ?](https://open.spotify.com/track/0TSIg2HyR7W715x9gU6D7s) | [Soufflé Caramel](https://open.spotify.com/artist/4mGvEsQqmeRz8uJHHFLxnp) | [Club de Jazz 2](https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz) | 9:30 | 2025-02-21 |  |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2025-02-21 |  |

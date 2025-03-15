@@ -908,7 +908,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 149373,
       "name": "Cacos De Vidro",
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
@@ -2506,10 +2506,32 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -3792,7 +3814,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/3Bn5vG7vienkREO35aoaKK"
@@ -3910,6 +3932,32 @@
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
+    },
+    {
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Maurin",
+          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Lei Anti O.R.U.A.M",
+      "url": "https://open.spotify.com/track/3iDZj9V0RSElRwVgtmMYgJ"
     },
     {
       "album": {
@@ -5345,6 +5393,36 @@
     },
     {
       "album": {
+        "name": "M\u00e3e Solteira",
+        "url": "https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "M\u00e3e Solteira",
+      "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
+    },
+    {
+      "album": {
         "name": "Nada Com Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M"
       },
@@ -6445,6 +6523,32 @@
     },
     {
       "album": {
+        "name": "Pirocada Quente",
+        "url": "https://open.spotify.com/album/1KhJdFsGysry0ClG5S8t16"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Pirocada Quente",
+      "url": "https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG"
+    },
+    {
+      "album": {
         "name": "POCPOC",
         "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
       },
@@ -7223,6 +7327,28 @@
     },
     {
       "album": {
+        "name": "Transcende (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Saudade Burra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG"
+    },
+    {
+      "album": {
         "name": "Saudade Burra (Ao Vivo)",
         "url": "https://open.spotify.com/album/2d4qNcAXn99Jhnup9I7vLM"
       },
@@ -7238,7 +7364,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 157173,
       "name": "Saudade Burra - Ao Vivo",
       "url": "https://open.spotify.com/track/4xyIg09M1MhiohypbUdeYt"
@@ -7472,7 +7598,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 262375,
       "name": "Sensa\u00e7\u00e3o No Batid\u00e3o - Solinho Envolvente",
       "url": "https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl"
@@ -7748,7 +7874,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 134581,
       "name": "Surra De Toma - Ao Vivo",
       "url": "https://open.spotify.com/track/3lzZ8IKfeyefBvv7qVbUmR"
@@ -8438,7 +8564,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 158790,
       "name": "Tu Xera",
       "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
@@ -8966,7 +9092,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 104000,
       "name": "Vou Raspar Seu Bigodin",
       "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"

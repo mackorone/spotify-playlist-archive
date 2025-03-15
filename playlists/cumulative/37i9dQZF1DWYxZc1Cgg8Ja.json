@@ -1027,6 +1027,32 @@
     },
     {
       "album": {
+        "name": "Eso Va",
+        "url": "https://open.spotify.com/album/1DwfbspEey5BeJivtiaZ81"
+      },
+      "artists": [
+        {
+          "name": "Fifty",
+          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
+        },
+        {
+          "name": "Young F",
+          "url": "https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM"
+        },
+        {
+          "name": "Jao Beats",
+          "url": "https://open.spotify.com/artist/4Q53RDJb0LrokF4Ef2S3Wm"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Eso Va",
+      "url": "https://open.spotify.com/track/7pWRDPP0gPR02u2Ghg7szo"
+    },
+    {
+      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
       },
@@ -1738,7 +1764,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 213793,
       "name": "Lo Siento - Remix",
       "url": "https://open.spotify.com/track/2rdpt16HmtfqApETJZkSAj"
@@ -2837,6 +2863,28 @@
     },
     {
       "album": {
+        "name": "Solcito",
+        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
+    },
+    {
+      "album": {
         "name": "AfroLOVA' 23",
         "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
       },
@@ -3012,7 +3060,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"

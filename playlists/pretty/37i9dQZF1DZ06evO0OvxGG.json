@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7295,
+  "num_followers": 7294,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAADs0FzQWfSi9SJbIjGXR7KG",
+  "snapshot_id": "Z9IgAAAAAAAP7PO20Q8q1bZ2iieKhtzk",
   "tracks": [
     {
       "added_at": null,
@@ -444,17 +444,25 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Dorly",
-          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
-        },
-        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "Baby Perigosa",
+          "url": "https://open.spotify.com/artist/7jegLlnaC9LdWEhxYJUvzH"
         }
       ],
-      "duration_ms": 109500,
-      "name": "Malvatrem",
-      "url": "https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a"
+      "duration_ms": 170961,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/63emOzAQmK9uZCXtCQjf8y"
     },
     {
       "added_at": null,
@@ -488,13 +496,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Dr. Ace",
-          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 140108,
-      "name": "Eu Gosto",
-      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,
@@ -528,25 +536,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
+          "name": "Dorly",
+          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "Baby Perigosa",
-          "url": "https://open.spotify.com/artist/7jegLlnaC9LdWEhxYJUvzH"
         }
       ],
-      "duration_ms": 170961,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/63emOzAQmK9uZCXtCQjf8y"
+      "duration_ms": 109500,
+      "name": "Malvatrem",
+      "url": "https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a"
     },
     {
       "added_at": null,
@@ -580,13 +580,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+          "name": "Dr. Ace",
+          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+      "duration_ms": 140108,
+      "name": "Eu Gosto",
+      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
     },
     {
       "added_at": null,

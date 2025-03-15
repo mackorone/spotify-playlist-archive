@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Marie Davidson.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Anetha.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -2125,6 +2125,28 @@
     },
     {
       "album": {
+        "name": "Dreamstate (yun\u00e8 pinku remix)",
+        "url": "https://open.spotify.com/album/5uX6NjzJYgBjfDO2AnasAQ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202874,
+      "name": "Dreamstate (yun\u00e8 pinku remix)",
+      "url": "https://open.spotify.com/track/0hJFPliAnUoTVFIPNlJHna"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/73SLZEZYiyYcwMEY0gHhWx"
       },
@@ -2462,7 +2484,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 193658,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3W3LM2eS1F81UuIjEsHXsV"
@@ -2748,7 +2770,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 229903,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
@@ -3499,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/6y9plS2pNJ9OJ1OIduAffr"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2M3a7PGk8OTLHdW5NiftJ4"
+    },
+    {
+      "album": {
         "name": "Nina Kraviz",
         "url": "https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM"
       },
@@ -3702,6 +3742,28 @@
       "duration_ms": 197929,
       "name": "Going Higher",
       "url": "https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj"
+    },
+    {
+      "album": {
+        "name": "Going Higher (Azzecca Remix)",
+        "url": "https://open.spotify.com/album/5udUxdbrOT11GefmroqEhs"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        },
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228316,
+      "name": "Going Higher",
+      "url": "https://open.spotify.com/track/5z846rGy88Ci59M82v4oyO"
     },
     {
       "album": {
@@ -4064,7 +4126,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 265500,
       "name": "Hey (Shut Up)",
       "url": "https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO"
@@ -4646,7 +4708,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 412248,
       "name": "I Warned You Baby",
       "url": "https://open.spotify.com/track/1GStTBknp7qomNM5uYMcVd"
@@ -6033,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Mothearth",
+        "url": "https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto"
+      },
+      "artists": [
+        {
+          "name": "Anetha",
+          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327827,
+      "name": "Mothearth",
+      "url": "https://open.spotify.com/track/6v7qPWc49BjNyq1Ei9pY3p"
+    },
+    {
+      "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/77mHoOr31GlywElEi2zucF"
       },
@@ -6406,7 +6486,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 178040,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
@@ -7987,6 +8067,24 @@
     },
     {
       "album": {
+        "name": "Mothearth",
+        "url": "https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto"
+      },
+      "artists": [
+        {
+          "name": "Anetha",
+          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271220,
+      "name": "Sorry For Being So Sexy",
+      "url": "https://open.spotify.com/track/1waZfiVyVvpQ8IxWED3FSA"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5hXz1HRAg2BTe4hs94BHd5"
       },
@@ -9122,10 +9220,6 @@
         {
           "name": "Shygirl",
           "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
         },
         {
           "name": "Isabella Lovestory",

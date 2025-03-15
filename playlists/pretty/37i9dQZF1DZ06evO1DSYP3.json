@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABbiHFfjQxJddYDf8CMiTph",
+  "snapshot_id": "Z9IgAAAAAACjAH/W5RJ+j9NOjryv5XRB",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Anything",
-        "url": "https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Put Me on Somethin'",
-      "url": "https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Put Me on Somethin'",
+      "url": "https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Lose Your Head",
-        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Zion I",
-          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Don't Lose Your Head",
-      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -719,6 +695,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 181478,
       "name": "Stunna Anthem",
       "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 102594,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/43ANv0oewa0CAnAr7QrTeD"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 201600,
       "name": "shake ya ass (feat. P-Lo)",
       "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 102594,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/43ANv0oewa0CAnAr7QrTeD"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "ALLBLACK",
-          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
-        },
-        {
-          "name": "22nd Jim",
-          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
-        }
-      ],
-      "duration_ms": 137798,
-      "name": "Dubs In The House",
-      "url": "https://open.spotify.com/track/6k6lQcFik0jqmKWWE5U8UU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 205480,
       "name": "On One",
       "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        }
+      ],
+      "duration_ms": 137798,
+      "name": "Dubs In The House",
+      "url": "https://open.spotify.com/track/6k6lQcFik0jqmKWWE5U8UU"
     },
     {
       "added_at": null,
@@ -911,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "1100 Himself",
-          "url": "https://open.spotify.com/artist/2gHzUK8N8lsmNtTuJIoLga"
-        }
-      ],
-      "duration_ms": 148883,
-      "name": "Iso",
-      "url": "https://open.spotify.com/track/14WqeZPn7TvrVlzuNTlsdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        },
+        {
+          "name": "1100 Himself",
+          "url": "https://open.spotify.com/artist/2gHzUK8N8lsmNtTuJIoLga"
+        }
+      ],
+      "duration_ms": 148883,
+      "name": "Iso",
+      "url": "https://open.spotify.com/track/14WqeZPn7TvrVlzuNTlsdh"
     },
     {
       "added_at": null,
@@ -999,6 +999,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Jay Anthony",
+          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Light This Bitch Up",
+      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 106642,
       "name": "Simple (feat. demahjiae)",
       "url": "https://open.spotify.com/track/4XneL9a3JueBGgkirYEsLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Jay Anthony",
-          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Light This Bitch Up",
-      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
     },
     {
       "added_at": null,

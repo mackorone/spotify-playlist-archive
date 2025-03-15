@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 34452,
+  "num_followers": 34487,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB5ZlhrONxbpwfBf4yJS0FS",
+  "snapshot_id": "Z9IgAAAAAADwyHHP30Q/9vBGRyB4cSZ8",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "FINE AS CAN BE (feat. Latto)",
-      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mind Yo Business (Feat. Latto)",
         "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 122266,
       "name": "Mind Yo Business (Feat. Latto)",
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "FINE AS CAN BE (feat. Latto)",
+      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 113237,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Shotta",
         "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 113237,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
+      "duration_ms": 161538,
+      "name": "Sex Lies (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
     },
     {
       "added_at": null,
@@ -971,26 +991,6 @@
       "duration_ms": 129662,
       "name": "Freaky As Me (feat. latto)",
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Sex Lies (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
     },
     {
       "added_at": null,

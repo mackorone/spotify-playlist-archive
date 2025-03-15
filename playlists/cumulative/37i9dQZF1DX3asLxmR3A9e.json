@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "2014 highlights from the home of indie music. Cover: Lorde",
+  "description": "The Indie highlights of 2014. Cover: BANKS",
   "name": "Best of Indie 2014",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 182518,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2BwewedJhrAHvow8qE5PBQ"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Ch\u00e2teau Lobby #4 (In C for Two Virgins)",
+      "url": "https://open.spotify.com/track/1kpV69gQV5aixc3deHdzOr"
+    },
+    {
+      "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/6ArADN8oqtL1L4ClMNJTxY"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 174093,
       "name": "Don't Wanna Be Your Girl",
       "url": "https://open.spotify.com/track/3JBB92odunFru2gOvI91x9"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 254600,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6d8jFIWMRwhVYe7SCQwlqL"
@@ -1476,6 +1494,24 @@
       "duration_ms": 301960,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
+    },
+    {
+      "album": {
+        "name": "White Women",
+        "url": "https://open.spotify.com/album/0U78mbujuFjpprS0G9QcTx"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Jealous (I Ain't With It)",
+      "url": "https://open.spotify.com/track/0CaHZUniQtDRZleX6XK9p7"
     },
     {
       "album": {
@@ -1955,7 +1991,7 @@
     },
     {
       "album": {
-        "name": "Open Season (Deluxe Edition)",
+        "name": "Open Season",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
       "artists": [
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 231320,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou"
@@ -2110,7 +2146,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95"
@@ -2200,7 +2236,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 145893,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/4keAoywVf4jxRvXU7ON0hV"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 251626,
       "name": "Step",
       "url": "https://open.spotify.com/track/78J9MBkAoqfvyeEpQKJDzD"
@@ -2730,6 +2766,24 @@
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
+    },
+    {
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5VqGGKeWpIBRFh4M4XmqDK"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247547,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/0PHwCbA310LLIMcSDpQbgF"
     },
     {
       "album": {

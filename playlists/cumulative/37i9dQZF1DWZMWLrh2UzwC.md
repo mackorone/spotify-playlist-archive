@@ -4,7 +4,7 @@
 
 > New music from Dato' Sri Siti Nurhaliza, Lizzo, Calvin Harris, and more!
 
-14,816 songs - 33 day 20 hr 23 min
+14,819 songs - 33 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5400,6 +5400,7 @@
 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 | 2024-01-18 | 2024-01-26 |
 | [Hostage](https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Hostage](https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh) | 3:09 | 2023-09-28 | 2023-10-06 |
 | [Hot](https://open.spotify.com/track/5D7w16n1m5IjOvXt0n0UsA) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Hot](https://open.spotify.com/album/6oSm3npMMUM7ijmaIbEiUV) | 3:05 | 2024-03-28 | 2024-04-05 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 | 2022-06-03 |
 | [Hot All the Time](https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Hot All the Time](https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej) | 3:01 | 2022-10-13 | 2022-10-21 |
 | [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 | 2024-12-19 | 2024-12-27 |
@@ -6600,6 +6601,7 @@
 | [KERTAS \- Original Soundtrack From "Khun:Sa"](https://open.spotify.com/track/7arhHyAqIHFymqSkCLZDaM) | [Noryn Aziz](https://open.spotify.com/artist/0LPAQeGNpm2SiTUBkQfC1r) | [KERTAS \(Original Soundtrack From "Khun:Sa"\)](https://open.spotify.com/album/7oWNNRc8BRV0i7yLgraQ4E) | 3:44 | 2024-03-21 | 2024-03-29 |
 | [Kesalahan Terindah](https://open.spotify.com/track/0Goyg7L3YHtGaOLNGoJXJx) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH) | [Kesalahan Terindah](https://open.spotify.com/album/0AuMLIbZT0tF5zzINkf0gl) | 3:47 | 2024-07-18 | 2024-07-27 |
 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 | 2024-11-14 | 2024-11-22 |
+| [Kesedihan Di Hari Raya](https://open.spotify.com/track/7ymrHPykVmw0UIrXZgrT5f) | [ZEAF](https://open.spotify.com/artist/3yBuHr8NBnZSpboHPDL02A) | [Kesedihan Di Hari Raya](https://open.spotify.com/album/2veonPkGV5Coi0CM0iJGHy) | 3:34 | 2025-03-13 |  |
 | [Kesetiaan](https://open.spotify.com/track/74m4dZz52eJRIu7TWVa9vL) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Kesetiaan](https://open.spotify.com/album/0HTUx7mPqGbcRm0qgmkl26) | 3:49 | 2023-08-10 | 2023-08-18 |
 | [Ketipak Ketipung Raya](https://open.spotify.com/track/7eaCFseO4fOljCMxLTM5ta) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Ketipak Ketipung Raya](https://open.spotify.com/album/1rP89pooj6Y82ZCylqUzX6) | 2:30 | 2024-03-21 | 2024-03-29 |
 | [Kewpid](https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [Strawberry](https://open.spotify.com/album/2k4BOhOjINPaPn2foFTpNk) | 3:34 | 2024-07-11 | 2024-07-19 |
@@ -8351,6 +8353,7 @@
 | [Never Letting Go](https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Never Letting Go \(feat\. Julia Church\)](https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9) | 2:02 | 2024-10-10 | 2024-10-18 |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-20 | 2023-04-28 |
 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 | 2024-03-14 | 2024-03-22 |
+| [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-13 |  |
 | [Never Meant To Say Goodbye](https://open.spotify.com/track/7n9TOI23DJz4HQS0yXsKng) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q) | [Never Meant To Say Goodbye](https://open.spotify.com/album/4uIer0x5uXMMQvIyj3bLIc) | 3:37 | 2025-02-27 | 2025-03-07 |
 | [NEVER MISS](https://open.spotify.com/track/71rHz8juofgmlxseGijwkq) | [Yeo](https://open.spotify.com/artist/5TcPijsr7sstBFVAMNfdIm) | [NEVER MISS](https://open.spotify.com/album/1fve9ZOSrqJIeu692tXT3k) | 3:34 | 2022-04-21 | 2022-04-29 |
 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2024-01-18 | 2024-01-26 |

@@ -1,36 +1,28 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 88596,
+  "num_followers": 88598,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8Xa4AAAAAD3nKea2dGbhzCrdDkDwfqv",
+  "snapshot_id": "Z9OpwgAAAABJ1Yi6pAd+qyOsrJzCn4TG",
   "tracks": [
     {
-      "added_at": "2025-02-28 05:00:37",
+      "added_at": "2025-03-14 04:00:02",
       "album": {
-        "name": "Happy Ever After You",
-        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+        "name": "Unforgivable",
+        "url": "https://open.spotify.com/album/14a6nZ2fG6wnCYkfBBRoc7"
       },
       "artists": [
         {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        },
-        {
-          "name": "Jake Etheridge",
-          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
-        },
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+          "name": "Alexandra Savior",
+          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
         }
       ],
-      "duration_ms": 197071,
-      "name": "Happy Ever After You",
-      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
+      "duration_ms": 223164,
+      "name": "Unforgivable",
+      "url": "https://open.spotify.com/track/3iHORLQOsA5ytboS5DDFl4"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -125,6 +117,22 @@
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
+      "added_at": "2025-03-14 04:00:02",
+      "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/0qS2NDMHBbTtTNE0B3CWeb"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 245776,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "rain",
@@ -155,6 +163,30 @@
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "added_at": "2025-03-14 04:00:02",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 187787,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
     },
     {
       "added_at": "2025-03-03 16:37:52",
@@ -495,6 +527,30 @@
       "duration_ms": 170704,
       "name": "What's Wrong",
       "url": "https://open.spotify.com/track/6iMWLGjbxa79HgMEMsx7ay"
+    },
+    {
+      "added_at": "2025-02-28 05:00:37",
+      "album": {
+        "name": "Happy Ever After You",
+        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 197071,
+      "name": "Happy Ever After You",
+      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
     },
     {
       "added_at": "2025-01-10 05:00:39",
@@ -839,70 +895,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/6AtSN7cGnpucwIlMHtzUKI"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 236006,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/3dmt9paFzBnRmRoT6SBzBW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Treading Water",
-        "url": "https://open.spotify.com/album/5oxaWxq51S6yn0ZrvO07oZ"
-      },
-      "artists": [
-        {
-          "name": "The Shadowboxers",
-          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
-        }
-      ],
-      "duration_ms": 214002,
-      "name": "Treading Water",
-      "url": "https://open.spotify.com/track/1b90sHbGuygNHszANehv7F"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Starting Over At The End",
-        "url": "https://open.spotify.com/album/38W9ps08wULNa14LT5dHyb"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Starting Over At The End",
-      "url": "https://open.spotify.com/track/1KsZskuXrkMJ3TIWNth6FO"
-    },
-    {
-      "added_at": "2024-10-25 17:26:46",
-      "album": {
-        "name": "crumbs",
-        "url": "https://open.spotify.com/album/1nyrrw9Z37Hc1U3eALV51X"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "crumbs",
-      "url": "https://open.spotify.com/track/7wOirCLiVCdWMihUSIgDSZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Floating Parade",
         "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
       },
@@ -979,70 +971,6 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Cigarettes",
-        "url": "https://open.spotify.com/album/4ysbboeBiB8NltSyh4ZIWA"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 193002,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/4tWoC47CmUsMzzJmI3CgpT"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 168491,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
     },
     {
       "added_at": "2024-10-11 04:00:00",

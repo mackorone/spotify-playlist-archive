@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,831 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,756 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 2 | [The Galway Girl](https://open.spotify.com/track/5Cs37m6r609nGjzOQEqZ1X) | [Sharon Shannon](https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [The Sharon Shannon Collection 1990\-2005](https://open.spotify.com/album/3oDKKA7xxAWm0oQyG7DRZu) | 2:58 |
-| 3 | [Dirty Old Town](https://open.spotify.com/track/0qH487xSz8Z6Xk4kyOQkbG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 3:45 |
-| 4 | [Irish Pub Song](https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Irish Pub Song](https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8) | 3:00 |
+| 1 | [The Galway Girl](https://open.spotify.com/track/5Cs37m6r609nGjzOQEqZ1X) | [Sharon Shannon](https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [The Sharon Shannon Collection 1990\-2005](https://open.spotify.com/album/3oDKKA7xxAWm0oQyG7DRZu) | 2:58 |
+| 2 | [Dirty Old Town](https://open.spotify.com/track/0qH487xSz8Z6Xk4kyOQkbG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 3:45 |
+| 3 | [Irish Pub Song](https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Irish Pub Song](https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8) | 3:00 |
+| 4 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 5 | [Tell Me Ma](https://open.spotify.com/track/0Z3p6q8nol4dlf3b0WRI1a) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 2:43 |
 | 6 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
 | 7 | [Raglan Road](https://open.spotify.com/track/1ahYzmBVbrogM1bLR6StOz) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [40 Years](https://open.spotify.com/album/2Tuo3kdSBjECGxu5Wowftu) | 4:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 79 | [Gotta Tell You](https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:20 |
 | 80 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
 
-Snapshot ID: `ZmB2tgAAAACmv6qJc/2Mzf0yJEvrJhwi`
+Snapshot ID: `Z9RFIQAAAADwamaApVfBnaiuYW5KspLI`

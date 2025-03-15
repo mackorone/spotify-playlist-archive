@@ -9204,7 +9204,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 177977,
       "name": "Chtm Dharia",
       "url": "https://open.spotify.com/track/2yEdMshBN60TyMU7foO41G"
@@ -13086,7 +13086,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -22848,6 +22848,24 @@
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/05kVyNUR9uibHta4jcGTTv"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578040,
+      "name": "Innerbloom",
+      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
     },
     {
       "album": {
@@ -40024,7 +40042,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"

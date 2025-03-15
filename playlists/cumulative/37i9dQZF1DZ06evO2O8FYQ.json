@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Bout To Lose It",
+        "url": "https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221193,
+      "name": "'Bout To Lose It",
+      "url": "https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto"
+    },
+    {
+      "album": {
         "name": "Eleven Eleven",
         "url": "https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u"
       },

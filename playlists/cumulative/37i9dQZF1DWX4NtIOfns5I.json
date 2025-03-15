@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "where folk flowers bloom. cover: Richy Mitch & The Coal Miners",
+  "description": "where folk flowers bloom. cover: The Man The Myth The Meatslab ",
   "name": "juniper",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "album": {
+        "name": "Heaven Is In You",
+        "url": "https://open.spotify.com/album/3RFcjCbs1S6JkZgNADIT8l"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176687,
+      "name": "Arm Candy",
+      "url": "https://open.spotify.com/track/0VVCkk2cH6Kshcm9Gyq0Qh"
     },
     {
       "album": {
@@ -2079,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/2hPowa1qEPeArnDMJkqLSz"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274607,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/3883bcJDGj5DHEahNyaZqh"
+    },
+    {
+      "album": {
         "name": "juliet",
         "url": "https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh"
       },
@@ -3519,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
+    },
+    {
+      "album": {
         "name": "In Dreams (Alternative Version)",
         "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
       },
@@ -3628,6 +3686,24 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196216,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL"
     },
     {
       "album": {
@@ -7624,7 +7700,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 165768,
       "name": "Wait It Out",
       "url": "https://open.spotify.com/track/1spTBzSbtiU74A9vqBXclU"

@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-147 songs - 8 hr 7 min
+148 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [En los Brazos de Morfeo](https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [En los Brazos de Morfeo](https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd) | 3:30 | 2024-08-30 |  |
 | [Esperar](https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Gloria Lara](https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b) | 3:23 | 2022-11-25 | 2023-11-25 |
 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 | 2022-02-25 |  |
+| [Estado Mental](https://open.spotify.com/track/2MdCEO1ghH4VHGDouv2huM) | [PNO](https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf) | [Joyas del Underground](https://open.spotify.com/album/2ZS9MDcx1df7pckFZnDLGJ) | 3:42 | 2025-03-14 |  |
 | [Estilo Libre](https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Estilo Libre](https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ) | 2:12 | 2023-08-25 | 2024-03-02 |
 | [Felicidad](https://open.spotify.com/track/0vWJNqdavYDYF21IQBlBFS) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Felicidad](https://open.spotify.com/album/4986un74KXepy88FQq1VdD) | 3:55 | 2022-12-16 |  |
 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 | 2022-02-25 |  |
@@ -144,7 +145,7 @@
 | [Todo el Tiempo](https://open.spotify.com/track/4ltvep768r5VSEJYISG1YE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo el Tiempo](https://open.spotify.com/album/06PiZBxNVFgkm1DKv634wb) | 2:43 | 2022-02-25 |  |
 | [Todo en Juego](https://open.spotify.com/track/1ZIuXvgwn67yvzfOubDITd) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Todo en Juego](https://open.spotify.com/album/6pRmD5WdctwIcv3qJJRgsO) | 2:38 | 2023-08-25 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2022-02-25 |  |
-| [Trampa](https://open.spotify.com/track/2WzGc3rGEXcu7TkDn4b9kh) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Trampa](https://open.spotify.com/album/3MhfOgqJ1ivusF4YDSjXeM) | 3:30 | 2022-02-25 |  |
+| [Trampa](https://open.spotify.com/track/2WzGc3rGEXcu7TkDn4b9kh) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Trampa](https://open.spotify.com/album/3MhfOgqJ1ivusF4YDSjXeM) | 3:30 | 2022-02-25 | 2025-03-15 |
 | [Tú Lo Vales](https://open.spotify.com/track/5agos0Wcgkg8w7EnUcfdTm) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/7EJWvQDJnrfmeHwfCK6Sc3) | 3:15 | 2022-07-15 | 2022-11-26 |
 | [Tú Lo Vales](https://open.spotify.com/track/7FjAS7pngOfQgzr2FzKR0w) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/5JVGILI9648bPgiDzk8q3X) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [Ultrasornero](https://open.spotify.com/track/1R5ALjLZzbmdMfx34hDWMB) | [Noiseferatu](https://open.spotify.com/artist/2Y3XKZXXGA7qPFrOjJqWgV), [El Jose](https://open.spotify.com/artist/2fNq5sXccbJ8I644s9UWTF) | [Dope](https://open.spotify.com/album/14wr96uwlDgIsx5PMZ6kaD) | 3:00 | 2023-02-13 |  |

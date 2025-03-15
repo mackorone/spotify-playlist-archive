@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-166 songs - 7 hr 29 min
+168 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 | 2025-02-28 |  |
 | [Hidden Dream](https://open.spotify.com/track/1xQvz7zAHGoWO9SHKoSGau) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Tree Tales](https://open.spotify.com/album/1f8GcZO0ssCZNajCxO1glx) | 3:38 | 2022-07-27 |  |
 | [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 | 2022-11-14 |  |
+| [Home](https://open.spotify.com/track/3sF8rdn65dXv7LJzulrMs7) | [Volaire](https://open.spotify.com/artist/3uElPHhO2Hl3jQUAEWWAfn) | [Home](https://open.spotify.com/album/27cY8yW58sSoNpaLSfnHfd) | 2:46 | 2025-03-14 |  |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-01-19 |  |
 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 | 2024-10-08 |  |
 | [If I Could, I Would](https://open.spotify.com/track/25ieEXehP4kemZbzTts3YX) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [If I Could, I Would](https://open.spotify.com/album/4oOPMhedo0AznA0K7TqvFI) | 2:50 | 2022-01-19 |  |
@@ -160,6 +161,7 @@
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-01-19 |  |
 | [Under The Sky](https://open.spotify.com/track/5u4tzKR7fFLFVcr3u6h1JF) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Under The Sky](https://open.spotify.com/album/36IP6uCEgs7X9qI29Qz9KA) | 2:03 | 2022-01-19 | 2025-01-30 |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2022-01-19 |  |
+| [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 | 2025-03-14 |  |
 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 | 2022-01-19 |  |
 | [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 4:14 | 2022-01-19 |  |
 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 | 2022-01-19 |  |

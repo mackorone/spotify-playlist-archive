@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 478941,
+  "num_followers": 479067,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
         "name": "Good Guy (feat. Faye Webster)",
         "url": "https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 241548,
       "name": "Good Guy - feat. Faye Webster",
       "url": "https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 153850,
       "name": "Buffalo Replaced - Spotify Singles",
       "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Silicone Heart",
-        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 193361,
-      "name": "Silicone Heart",
-      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Do You Haunt Me",
         "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 214808,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/32zRM6N7CqNCsPR7innQNu"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Silicone Heart",
+        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 193361,
+      "name": "Silicone Heart",
+      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+        "name": "This Heart",
+        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Loah",
+          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
         }
       ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+      "duration_ms": 252580,
+      "name": "Unveiled",
+      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "This Heart",
-        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
       },
       "artists": [
         {
-          "name": "Loah",
-          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 252580,
-      "name": "Unveiled",
-      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1479,6 +1479,22 @@
       "duration_ms": 274733,
       "name": "Let No Grief",
       "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Same Old Eyes",
+      "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1511,22 +1527,6 @@
       "duration_ms": 151828,
       "name": "Not a Man, Not a Woman",
       "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Same Old Eyes",
-      "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Mending Song",
         "url": "https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 235593,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
-      },
-      "artists": [
-        {
-          "name": "Sophia James",
-          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "Restless Minds",
-        "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
       },
       "artists": [
         {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+          "name": "Sophia James",
+          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
         }
       ],
-      "duration_ms": 166706,
-      "name": "No Fooling Me",
-      "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
+      "duration_ms": 162600,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1807,26 +1791,18 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+        "name": "Restless Minds",
+        "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        },
-        {
-          "name": "Bloomsday",
-          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
-        },
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
         }
       ],
-      "duration_ms": 207551,
-      "name": "Aaron",
-      "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
+      "duration_ms": 166706,
+      "name": "No Fooling Me",
+      "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1859,6 +1835,30 @@
       "duration_ms": 191700,
       "name": "Wait Up",
       "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        },
+        {
+          "name": "Bloomsday",
+          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
+        },
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "Aaron",
+      "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
     },
     {
       "added_at": "2025-02-26 18:07:03",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2025-02-26 18:07:03",
       "album": {
-        "name": "I Only See the Moon",
-        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "I Only See the Moon",
-      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
-    },
-    {
-      "added_at": "2025-02-26 18:07:03",
-      "album": {
         "name": "If I Could",
         "url": "https://open.spotify.com/album/3w82qCSKOLreaXZEgHnygQ"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 221297,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/21kHCWDfAwBvATkFWOsa47"
+    },
+    {
+      "added_at": "2025-02-26 18:07:03",
+      "album": {
+        "name": "I Only See the Moon",
+        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "I Only See the Moon",
+      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
     },
     {
       "added_at": "2025-02-26 18:07:03",

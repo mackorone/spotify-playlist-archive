@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: BIBI\(비비\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: LEECHANGSUB\(이창섭\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-595 songs - 1 day 14 hr 54 min
+596 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [comedy](https://open.spotify.com/track/2vTtdPT1qUYAn5KhivJuOt) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN) | 3:33 | 2024-03-08 | 2024-04-05 |
 | [Complications \(ft\. SOLE\)](https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 2:52 | 2024-06-19 |  |
 | [Counting Days](https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Counting Days](https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc) | 3:56 | 2024-06-19 | 2024-12-11 |
+| [Coward](https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Coward](https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1) | 4:18 | 2025-03-14 |  |
 | [cry a lot](https://open.spotify.com/track/2hZ2RcltIgme5PO8eJ6pWj) | [Ha Jun Seok](https://open.spotify.com/artist/12RmWQ26FATAkL0Dzua0QB) | [cry a lot](https://open.spotify.com/album/4R1uG9fvia8PYjndO4BNH7) | 3:23 | 2024-02-15 | 2024-03-09 |
 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 | 2024-02-27 |  |
 | [Day by Day](https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 4:17 | 2023-12-01 | 2023-12-14 |
@@ -392,7 +393,7 @@
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-29 | 2022-04-15 |
 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-02-27 | 2025-03-03 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
-| [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 |  |
+| [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-03-15 |
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2023-12-20 | 2024-01-02 |
 | [Poem for you](https://open.spotify.com/track/7FTA2rnH392cty5UFNS8gg) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Old story](https://open.spotify.com/album/17n1MjwV3qBfhgjeixlUHE) | 3:39 | 2021-12-27 | 2022-07-29 |
 | [Press](https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Press \(re;code Episode Ⅸ\)](https://open.spotify.com/album/4yOOZtIGZaX2uEBXUjl5s9) | 3:57 | 2022-01-26 | 2022-06-30 |

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Ruger",
-  "num_followers": 598680,
+  "num_followers": 598820,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -34,6 +34,10 @@
         {
           "name": "Ruger",
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
       "duration_ms": 194436,
@@ -391,22 +395,6 @@
     {
       "added_at": "2025-03-14 00:01:29",
       "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
-    },
-    {
-      "added_at": "2025-03-14 00:01:29",
-      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -423,6 +411,22 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2025-03-14 00:01:29",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
     },
     {
       "added_at": "2025-03-14 00:01:29",
@@ -631,6 +635,22 @@
     {
       "added_at": "2025-03-14 00:01:29",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+    },
+    {
+      "added_at": "2025-03-14 00:01:29",
+      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -655,22 +675,6 @@
       "duration_ms": 211869,
       "name": "Yimmy Yimmy",
       "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
-    },
-    {
-      "added_at": "2025-03-14 00:01:29",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-03-14 00:01:29",

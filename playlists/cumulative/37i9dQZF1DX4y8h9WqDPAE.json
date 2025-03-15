@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: LISA",
+  "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Doechii",
   "name": "Channel-X",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 251466,
       "name": "2",
       "url": "https://open.spotify.com/track/5AM2lJKNnirFSDD1goRMdU"
@@ -5671,6 +5671,28 @@
     },
     {
       "album": {
+        "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+        "url": "https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97371,
+      "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+      "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
+    },
+    {
+      "album": {
         "name": "Feelin (with Maiya The Don)",
         "url": "https://open.spotify.com/album/2xWtnQYywYlHESG8dhyvls"
       },
@@ -9008,6 +9030,24 @@
     {
       "album": {
         "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169212,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh"
+    },
+    {
+      "album": {
+        "name": "Just Like Me",
         "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
       },
       "artists": [
@@ -10738,7 +10778,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -16818,7 +16858,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192595,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
@@ -17368,6 +17408,24 @@
       "duration_ms": 164645,
       "name": "Taste",
       "url": "https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh"
+    },
+    {
+      "album": {
+        "name": "It'll All Make Sense Later (Deluxe)",
+        "url": "https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150576,
+      "name": "Taste of Ya",
+      "url": "https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC"
     },
     {
       "album": {

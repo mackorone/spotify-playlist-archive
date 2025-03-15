@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 486207,
+  "num_followers": 486248,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Postcode Lover",
-        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Postcode Lover",
-      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Naga Damai",
         "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 217413,
       "name": "Naga Damai",
       "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Postcode Lover",
+        "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
+      },
+      "artists": [
+        {
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "Postcode Lover",
+      "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Simpin'",
-        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 213661,
-      "name": "Simpin'",
-      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Stained Glass Curtain",
@@ -959,6 +943,22 @@
       "duration_ms": 170788,
       "name": "Stained Glass Curtain",
       "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Simpin'",
+        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 213661,
+      "name": "Simpin'",
+      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
       },
       "artists": [
         {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
         }
       ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
       "artists": [
         {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
-      },
-      "artists": [
-        {
-          "name": "Lavalove",
-          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Keep on",
-      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "(The Ballad of) Buddy Kid",
         "url": "https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 120476,
       "name": "Mammoth Surf",
       "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+      },
+      "artists": [
+        {
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
     },
     {
       "added_at": "2024-10-11 04:00:00",

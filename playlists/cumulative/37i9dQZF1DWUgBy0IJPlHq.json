@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: The Brudi Brothers",
+  "description": "A new shade of Country. Cover: Charley Crockett",
   "name": "Indigo",
   "tracks": [
     {
@@ -6220,7 +6220,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 182482,
       "name": "Lonesome Drifter",
       "url": "https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID"
@@ -7050,6 +7050,24 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
+    },
+    {
+      "album": {
+        "name": "Lonesome Drifter",
+        "url": "https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198577,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV"
     },
     {
       "album": {

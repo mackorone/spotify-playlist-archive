@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Giorgio Poi in cover della playlist con il meglio dell’indie italiano 👨🆚🪰
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,363 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,506 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 18 | [Più in alto](https://open.spotify.com/track/0jZdbJ5BUzJRLhSUvaehum) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Cori da sdraio](https://open.spotify.com/album/4Nz2181rHvYWOz7RNyTlQk) | 3:36 |
 | 19 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
 | 20 | [Segreto](https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Chi È Nicola Felpieri?](https://open.spotify.com/album/6MyXSqkTazI56OSkxJNR4X) | 3:42 |
-| 21 | [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Cutuogno](https://open.spotify.com/artist/6MDp21oVbuyy53sp1wG1ss) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 |
+| 21 | [Bandiera](https://open.spotify.com/track/2Ha4DVGmLkLfNyeA8o9B9k) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [Bandiera](https://open.spotify.com/album/4AeNEwWelAQE0PNnO2B1Jt) | 3:01 |
 | 22 | [Chissà \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Chissà](https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA) | 2:59 |
 | 23 | [Canzone Facile](https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP) | 2:47 |
 | 24 | [Loneliness](https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 2:39 |

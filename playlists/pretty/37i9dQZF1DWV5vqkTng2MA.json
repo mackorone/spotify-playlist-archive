@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 419510,
+  "num_followers": 419565,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Pining",
+      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Pining",
-      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 180013,
       "name": "The Very Last Day",
       "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174735,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Have a Seat",
-        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "For Your Consideration",
-      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Reelin'",
         "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 208250,
       "name": "Reelin'",
       "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Have a Seat",
+        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "For Your Consideration",
+      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 213720,
       "name": "Cold Times",
       "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
+        "name": "Who's Gonna Love You When I'm Gone",
+        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Who's Gonna Love You When I'm Gone",
+      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
         "name": "It Must Change",
         "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 295013,
       "name": "It Must Change",
       "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
-        "name": "Who's Gonna Love You When I'm Gone",
-        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Who's Gonna Love You When I'm Gone",
-      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Washashore Cowgirl",
-        "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
-      },
-      "artists": [
-        {
-          "name": "Monica Rizzio",
-          "url": "https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Washashore Cowgirl",
-      "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Washashore Cowgirl",
+        "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
+      },
+      "artists": [
+        {
+          "name": "Monica Rizzio",
+          "url": "https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Washashore Cowgirl",
+      "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA"
+      },
+      "artists": [
+        {
+          "name": "Freddy & Francine",
+          "url": "https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp"
+        }
+      ],
+      "duration_ms": 168652,
+      "name": "Sideman",
+      "url": "https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 193066,
       "name": "Lost on the Young",
       "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA"
-      },
-      "artists": [
-        {
-          "name": "Freddy & Francine",
-          "url": "https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp"
-        }
-      ],
-      "duration_ms": 168652,
-      "name": "Sideman",
-      "url": "https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS"
     },
     {
       "added_at": "2025-01-14 22:29:26",

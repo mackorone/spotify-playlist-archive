@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Merveille
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,879 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,005 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 14 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ma sœur \(Au pays des Merveilles\)](https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k) | 2:51 |
 | 15 | [Dans les veines \(feat\. Franglish & Leslie\)](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines \(feat\. Franglish & Leslie\)](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 |
 | 16 | [Follow Me](https://open.spotify.com/track/7h3oCfORMboakvSqgn3dmt) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Follow Me](https://open.spotify.com/album/3cVnkUmA5GSSWCrYDpKwoZ) | 3:00 |
-| 17 | [Reviens \(feat\. Monsieur Nov\)](https://open.spotify.com/track/2TznxnlgqH0krjbxZ3eKRR) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:34 |
+| 17 | [Reviens \(feat\. Monsieur Nov\)](https://open.spotify.com/track/2TznxnlgqH0krjbxZ3eKRR) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:35 |
 | 18 | [Oublier](https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [En chemin II](https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ) | 3:06 |
 | 19 | [GHETTO](https://open.spotify.com/track/4N2KGJWTNtSttyhAHJrAfJ) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [GHETTO](https://open.spotify.com/album/7kjJpRgAMOEAOidjM9qAPc) | 2:42 |
 | 20 | [Joli cœur](https://open.spotify.com/track/3bkUTdeapOIXEELbndezGt) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Joli cœur](https://open.spotify.com/album/0Y5WuQlhj2wC3sr0K7hgi8) | 3:54 |

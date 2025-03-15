@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-187 songs - 8 hr 9 min
+188 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Focused Mind Black Noise](https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Focused Mind Black Noise](https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo) | 3:10 | 2023-10-10 | 2025-03-05 |
 | [Gentle Black Noise](https://open.spotify.com/track/6cKQ38a2sw68PwIUC5Gbxu) | [Timmid](https://open.spotify.com/artist/7biX22cIP5NyuORMdCWF8R) | [Gentle Black Noise](https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w) | 2:47 | 2023-03-10 | 2023-06-20 |
 | [Gentle Static Black Noise](https://open.spotify.com/track/5wghBv8Vw1g9GCg8qZJRBh) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Ambient Black Noise](https://open.spotify.com/album/011O4hLo0E8wvkPNWqIZzq) | 2:51 | 2023-06-19 |  |
+| [Gloomy Noise](https://open.spotify.com/track/6mxPuJkPOu7PAqrO0meeCC) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Gloomy Noise](https://open.spotify.com/album/3lxF9kGz4d59CMkLwa7kZy) | 4:31 | 2025-02-26 |  |
 | [Healing Black Noise](https://open.spotify.com/track/0X8ox5fpqRnq7yDgqX71Uw) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 2:43 | 2023-06-01 |  |
 | [Healing Black Noise](https://open.spotify.com/track/1ebZEnzqflZFmFNxoBcef3) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Healing Black Noise](https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni) | 2:08 | 2023-06-01 |  |
 | [Healing Black Noise](https://open.spotify.com/track/2IswQJThBN7riJqBofP1gK) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Healing Black Noise](https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu) | 2:19 | 2023-03-10 | 2023-07-06 |
@@ -133,7 +134,7 @@
 | [Midnight Silence](https://open.spotify.com/track/2xVm2H30XJhlUDLfAr9EeE) | [The Inceptionists](https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT) | [Midnight Silence](https://open.spotify.com/album/7rRW3i0emEEVql5gOt5Sf1) | 4:57 | 2024-02-13 | 2025-02-27 |
 | [MKG Black Noise](https://open.spotify.com/track/4OMvHV3bHcuiWVs7QY2JdB) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:24 | 2023-04-21 |  |
 | [Muffled Black Noise](https://open.spotify.com/track/6qUMzKaMLPggQSUKg78H9H) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:30 | 2023-03-10 | 2023-04-22 |
-| [Nefarious Black Noise](https://open.spotify.com/track/31GE7CWNk8ZBlLpPxJoz07) | [Atmospheric Rivers](https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU) | [Black Noise Ritual](https://open.spotify.com/album/2xLJSlC4ZJiC41LbQui8Nq) | 3:08 | 2023-03-31 |  |
+| [Nefarious Black Noise](https://open.spotify.com/track/31GE7CWNk8ZBlLpPxJoz07) | [Atmospheric Rivers](https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU) | [Black Noise Ritual](https://open.spotify.com/album/2xLJSlC4ZJiC41LbQui8Nq) | 3:08 | 2023-03-31 | 2025-03-15 |
 | [Nights with Black Noise](https://open.spotify.com/track/5MkScpVqQ53sGNXMzGhSl0) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Nights with Black Noise](https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i) | 2:45 | 2023-03-10 | 2023-07-06 |
 | [Nocturnal Lull](https://open.spotify.com/track/0f7cq7DmTnuF19y2fOvATD) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Nocturnal Lull](https://open.spotify.com/album/1u96mfr5Xz9rVMNgiXuKSQ) | 4:37 | 2024-02-13 |  |
 | [Noiselessness](https://open.spotify.com/track/1sxtXItV2vsuUAhH1KYEm5) | [Plectrasonics](https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v) | [BLK NSE 001](https://open.spotify.com/album/7K8USBKZ0t2g6IMH8ekIkQ) | 2:43 | 2023-03-31 |  |

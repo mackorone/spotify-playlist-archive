@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/65kIBpcdf6PSftAIyyjl1q"
+      },
+      "artists": [
+        {
+          "name": "Jamila",
+          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199302,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/386EuKw40zFJix1D0pGsBD"
+    },
+    {
+      "album": {
         "name": "As Long as You Stay Here",
         "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 181200,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/4sJJ2TY4qqZn5jF6pYHm7w"
@@ -2328,6 +2346,24 @@
       "duration_ms": 188013,
       "name": "Neui Welt (feat. Adrian Stern)",
       "url": "https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/2BaDirX6CI8OtUx87IAEml"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146884,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/7afAuXkP0ge7Y7T9n4eToW"
     },
     {
       "album": {
@@ -3421,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179348,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/5VS2LAXA6yEICqvnSjfw41"
       },
@@ -3576,7 +3630,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"

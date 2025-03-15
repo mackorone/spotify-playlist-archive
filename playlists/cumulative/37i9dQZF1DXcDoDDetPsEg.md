@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: MOLIY
 
-1,457 songs - 3 day 1 hr 45 min
+1,458 songs - 3 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Addicted](https://open.spotify.com/track/2lmwEI8z0g3dMM7ELu99Gt) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Addicted](https://open.spotify.com/album/4iPjoJHlqlAEEMwKPEjDT1) | 3:26 | 2024-04-25 | 2024-06-01 |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2024-10-17 | 2025-01-17 |
 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 | 2023-11-10 | 2024-02-10 |
-| [Afrikan Di Alien \(feat\. Black Sherif\)](https://open.spotify.com/track/1qSvve0ixeiLKdNixcEPT6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 2:25 | 2024-11-15 |  |
+| [Afrikan Di Alien \(feat\. Black Sherif\)](https://open.spotify.com/track/1qSvve0ixeiLKdNixcEPT6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 2:25 | 2024-11-15 | 2025-03-15 |
 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 | 2024-10-10 | 2025-01-24 |
 | [Ain't A Lover](https://open.spotify.com/track/7edY3euvof0h9WKvUrKjYl) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Ain't A Lover](https://open.spotify.com/album/7A20ytdowEeOd7bpcq3hpc) | 3:35 | 2024-11-15 | 2025-02-21 |
 | [Ain't No Way](https://open.spotify.com/track/4PHVjllNCuhpWjbjjT3IOt) | [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Ain't No Way](https://open.spotify.com/album/1R6sAftRlznlHuNh34chl0) | 2:25 | 2022-04-21 | 2022-05-20 |
@@ -520,6 +520,7 @@
 | [Going Crazy](https://open.spotify.com/track/3Ob31WKYn5Dk0dN9wZJKVr) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Quit While You're Ahead](https://open.spotify.com/album/19cREfJobUHwoeB0dVKJvT) | 2:57 | 2024-09-25 | 2025-01-17 |
 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 | 2024-07-25 | 2024-10-11 |
 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 | 2022-10-13 | 2022-11-19 |
+| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-09-28 | 2023-12-09 |
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-06-30 | 2022-07-29 |
 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-05-31 | 2024-07-12 |

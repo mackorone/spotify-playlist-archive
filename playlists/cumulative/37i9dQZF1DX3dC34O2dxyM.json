@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Best of Friends",
+        "url": "https://open.spotify.com/album/7a4mqRVm1Ot2AFzzej6vJL"
+      },
+      "artists": [
+        {
+          "name": "Elysia Marlowe",
+          "url": "https://open.spotify.com/artist/3D8dl1ctaWLMdFfH7lYFSR"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99589,
+      "name": "Best of Friends",
+      "url": "https://open.spotify.com/track/3286bDcNakCQtB8jaTsr9d"
+    },
+    {
+      "album": {
         "name": "Tid til at sove",
         "url": "https://open.spotify.com/album/1epskxiNYOdzzvaWKs4FME"
       },
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Everybody Knows Juanita",
+        "url": "https://open.spotify.com/album/2vr02OrEFuuyrXSHSKRMyJ"
+      },
+      "artists": [
+        {
+          "name": "Solveig Bj\u00f8rnsen",
+          "url": "https://open.spotify.com/artist/6J2nTux5ymFNq9wT3Uaze2"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74029,
+      "name": "Everybody Knows Juanita",
+      "url": "https://open.spotify.com/track/2uwHsvAfSWjQghbGKI8wqW"
+    },
+    {
+      "album": {
         "name": "Fais dodo, Colas mon p'tit fr\u00e8re",
         "url": "https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW"
       },
@@ -1640,6 +1676,24 @@
       "duration_ms": 77897,
       "name": "Farmer in the Dell",
       "url": "https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7"
+    },
+    {
+      "album": {
+        "name": "Featherlight",
+        "url": "https://open.spotify.com/album/43jnMkL4vf5W5TVLNWlAD5"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146874,
+      "name": "Featherlight",
+      "url": "https://open.spotify.com/track/0WbmNgQDsrYH79slmx1IYV"
     },
     {
       "album": {
@@ -2108,6 +2162,24 @@
       "duration_ms": 71563,
       "name": "Goodnight My Dear",
       "url": "https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N"
+    },
+    {
+      "album": {
+        "name": "Goodnight My Love",
+        "url": "https://open.spotify.com/album/6TC9uKOTFwA967S7hjL4Ao"
+      },
+      "artists": [
+        {
+          "name": "Tom Blund",
+          "url": "https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "Goodnight My Love",
+      "url": "https://open.spotify.com/track/2wci3N9JVBU0oU6uaqT4Qr"
     },
     {
       "album": {
@@ -3940,7 +4012,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 163635,
       "name": "O Mio Bambino Caro",
       "url": "https://open.spotify.com/track/1g2josa1pQRESVhHzySWYj"
@@ -4120,7 +4192,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 153769,
       "name": "Que Linda Manita",
       "url": "https://open.spotify.com/track/13ytdfEni9x39EA5wsNWoB"

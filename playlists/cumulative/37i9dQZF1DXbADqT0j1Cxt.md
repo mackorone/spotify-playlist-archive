@@ -2,9 +2,9 @@
 
 ### [Lullaby Baby](https://open.spotify.com/playlist/37i9dQZF1DXbADqT0j1Cxt)
 
-> Lull your little ones with piano music.
+> Lull your little ones to sleep with piano music.
 
-707 songs - 21 hr 36 min
+710 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Snowflake On My Nose](https://open.spotify.com/track/5DfVrpef8hqayH7cX85PMs) | [Marielle Wilson](https://open.spotify.com/artist/2XH0vhn32RdidOMQiqxOEG) | [The Pumpkin](https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv) | 1:22 | 2021-10-07 | 2024-03-29 |
 | [A Song About You](https://open.spotify.com/track/6dPk8lslYD8QMoAQ4rvW1u) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [A Song About You](https://open.spotify.com/album/1MyXPyXkYdLVQ0H6TvhETc) | 1:51 | 2024-09-30 |  |
 | [A Sunny Trip](https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [A Sunny Trip](https://open.spotify.com/album/6sCeCiqhg7U8NzAJxc8IDy) | 1:11 | 2024-11-15 |  |
+| [A Teddy Tale](https://open.spotify.com/track/3KqmBFnuQafY4kfVB9tCne) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [A Teddy Tale](https://open.spotify.com/album/6hGKxzwBDe5BjrA2D2iVQX) | 1:50 | 2025-03-14 |  |
 | [A Thousand Hugs](https://open.spotify.com/track/4H4nia1p93hZibEj7OSa5i) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [A Thousand Hugs](https://open.spotify.com/album/0hbtVKhFPDk92IZ3z5AQ1M) | 1:24 | 2022-01-21 | 2025-03-05 |
 | [A Wintry Night](https://open.spotify.com/track/3D8iXNEe7c6AqQGxwSe1OG) | [Violet Keiser](https://open.spotify.com/artist/6ckrAl1KF3PDf26YrMNWCH) | [A Wintry Night](https://open.spotify.com/album/1TrC0yBdluZ3G9Zp0ybWXj) | 1:42 | 2022-12-09 | 2025-03-05 |
 | [A\-tisket, A\-tasket](https://open.spotify.com/track/2bgQs7UTnoOgdHlPjjHG6m) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [A\-tisket, A\-tasket](https://open.spotify.com/album/7buCqlY8XcXvL3NPz5wVIm) | 1:29 | 2024-02-09 | 2025-03-05 |
@@ -400,6 +401,7 @@
 | [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
 | [My Favorite Elephant](https://open.spotify.com/track/3NJCcsWSKBPScciA7fdFKZ) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [My Favorite Elephant](https://open.spotify.com/album/55S2bDOendzNPVfgCmekhn) | 1:44 | 2024-12-20 | 2025-03-05 |
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-10-07 | 2025-02-22 |
+| [My Favourite Lullaby](https://open.spotify.com/track/4xnbJtpHrRhC4Nsiv267uV) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [My Favourite Lullaby](https://open.spotify.com/album/36USCT1gnJvu0VrZdbp4cI) | 1:59 | 2025-03-14 |  |
 | [My First Tooth](https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [My First Tooth](https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q) | 1:45 | 2022-11-25 | 2025-03-05 |
 | [My Grandfather's Clock](https://open.spotify.com/track/3mfbqsYUdIqGIPzKjmOEQC) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [My Grandfather's Clock](https://open.spotify.com/album/0blYuyqsulapquVkfpheqi) | 1:49 | 2024-12-06 |  |
 | [My Great\-Great\-Great Grandfather](https://open.spotify.com/track/0s5sRfIRGstws2SF4nEhSL) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [My Great\-Great\-Great Grandfather](https://open.spotify.com/album/7u69zaMN7vtMzebdVxP2QC) | 2:09 | 2022-04-19 | 2023-03-18 |
@@ -408,6 +410,7 @@
 | [My Little Musketeer](https://open.spotify.com/track/63KsY0VHBe1b78GLFu66rE) | [Agnes Widell](https://open.spotify.com/artist/6HpjNjCZmdoljjATAMaGHH) | [My Little Musketeer](https://open.spotify.com/album/1FY781TMk7oKgWieSLToXF) | 1:09 | 2021-10-07 | 2022-10-29 |
 | [My little sunshine](https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [My little sunshine](https://open.spotify.com/album/7b1bk1Vr4C32XOgm2f1LXt) | 1:41 | 2022-06-30 | 2023-06-09 |
 | [My Little Superhero](https://open.spotify.com/track/2BpOILC6eTzpMDoFEx89Tb) | [Willow Leaf](https://open.spotify.com/artist/0kXI6vuhwYJE1daFSIduNU) | [My Little Superhero](https://open.spotify.com/album/5F4NSywFa9999QiEcSLugZ) | 2:35 | 2025-01-17 |  |
+| [My little Toy Parade](https://open.spotify.com/track/2Opgd3H9ZksUnpqiSX10me) | [John Rabbit](https://open.spotify.com/artist/0LrylHkTR2Qau5QFM1fnbi) | [My little Toy Parade](https://open.spotify.com/album/57f65VnrCanB0TBOtxMXVa) | 1:12 | 2025-03-14 |  |
 | [My Moonlight](https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [My Moonlight](https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS) | 2:37 | 2024-08-30 |  |
 | [My Neighbour Nellie](https://open.spotify.com/track/4p8dNTAfY9aYqbUxjOOvkq) | [Vivian Hutchings](https://open.spotify.com/artist/05nMNToGOyGhqH0OrutEBf) | [My Neighbour Nellie](https://open.spotify.com/album/6G0FfEQPyxz2q58x92BDQK) | 1:31 | 2021-10-07 | 2025-03-05 |
 | [My Night Story](https://open.spotify.com/track/2sDtiIjbQvJ0JP59zwPcnF) | [Vanessa Cino](https://open.spotify.com/artist/7Mw9GnKY2QTjLQQ06uuD8s) | [My Night Story](https://open.spotify.com/album/4elJsUiULx1qOYqh1aFLj2) | 1:52 | 2022-06-30 | 2025-03-05 |

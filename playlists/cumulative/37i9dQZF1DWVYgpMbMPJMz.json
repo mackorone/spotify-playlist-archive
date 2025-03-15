@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Tasha Layton",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Bethel Music",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 581280,
       "name": "Dream - Live",
       "url": "https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 552251,
       "name": "Drink Offering (Deluxe Version) - Live",
       "url": "https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy"
@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 446196,
       "name": "Elohim - Live",
       "url": "https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC"
@@ -7266,7 +7266,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 197474,
       "name": "It Is Well with My Soul",
       "url": "https://open.spotify.com/track/4MIbbdMo5BN1TQMq2VRBDR"
@@ -12945,6 +12945,28 @@
     },
     {
       "album": {
+        "name": "Tend (Live)",
+        "url": "https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX"
+      },
+      "artists": [
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409414,
+      "name": "Tend - Live",
+      "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
+    },
+    {
+      "album": {
         "name": "Testament",
         "url": "https://open.spotify.com/album/1bAgxtfkRMwZpcSNelcl59"
       },
@@ -13282,6 +13304,28 @@
       "duration_ms": 420019,
       "name": "The Church - Live",
       "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
+    },
+    {
+      "album": {
+        "name": "The Church (Live)",
+        "url": "https://open.spotify.com/album/2Dq1ZZ2r98oP6tBjClD7K9"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546771,
+      "name": "The Church - Live",
+      "url": "https://open.spotify.com/track/0POGWdh6yA9NBiIAzUWFAk"
     },
     {
       "album": {
@@ -14807,6 +14851,28 @@
     },
     {
       "album": {
+        "name": "Trust In God / Blessed Assurance",
+        "url": "https://open.spotify.com/album/76Lrnk0xOjrXIr8ZlmVNrE"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231182,
+      "name": "Trust In God / Blessed Assurance",
+      "url": "https://open.spotify.com/track/3V4YXdFvGT2ycg1JIcLwFR"
+    },
+    {
+      "album": {
         "name": "Trust Is In The Lord (feat. Chris Kuti) [Live]",
         "url": "https://open.spotify.com/album/35BGHxBW5AC03GAzrXb1DY"
       },
@@ -15032,6 +15098,24 @@
       "duration_ms": 286156,
       "name": "Victory On The Way",
       "url": "https://open.spotify.com/track/2IrVVbJFfWhnkKuaC99HvT"
+    },
+    {
+      "album": {
+        "name": "Wait / Praise The Giver",
+        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
     },
     {
       "album": {
@@ -16328,7 +16412,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 586227,
       "name": "You Deserve The Applause",
       "url": "https://open.spotify.com/track/1JCE6GNthAUNxQMCpzMN6h"

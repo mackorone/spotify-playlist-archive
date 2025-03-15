@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1642234,
+  "num_followers": 1642251,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAA9LaRUaaaOdc8kaSsv7fKa",
+  "snapshot_id": "Z9IgAAAAAADCKaBzIoGCU4gQqWvdhgfV",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
       },
@@ -579,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 222320,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     },
     {
       "added_at": null,
@@ -667,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
       },
       "artists": [
         {
@@ -676,13 +656,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 136421,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     },
     {
       "added_at": null,
@@ -707,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
       },
       "artists": [
         {
@@ -716,13 +696,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
         }
       ],
-      "duration_ms": 192111,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
       "duration_ms": 189391,
       "name": "Heart over Mind",
       "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "The Walkers",
-          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1bFwGKZFvnDQYvf4TiKLBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 142909,
       "name": "sickly sweet - Alan Walker Remix",
       "url": "https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "The Walkers",
+          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1bFwGKZFvnDQYvf4TiKLBI"
     },
     {
       "added_at": null,
@@ -1059,22 +1059,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 178339,
-      "name": "Incommunicado",
-      "url": "https://open.spotify.com/track/3N0b9Mqeq2pCLLaeiVBM6q"
+      "duration_ms": 145824,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
     }
   ],
   "unique_name": "This Is Alan Walker",

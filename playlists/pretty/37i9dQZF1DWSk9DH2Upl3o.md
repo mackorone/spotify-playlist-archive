@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,168 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,179 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Space Between Frames](https://open.spotify.com/track/4vOGgl1xhxvb0psCFH5DWg) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Space Between Frames](https://open.spotify.com/album/62bOBKc8CnG7xO56h79ber) | 3:53 |
-| 2 | [In Stride](https://open.spotify.com/track/59a1MKfzdwxr2SmiSrMPFf) | [Moe](https://open.spotify.com/artist/5RRzOVMwjs3M36WiuJcBJ1) | [Circle of Giants](https://open.spotify.com/album/2XLXTlsbYvGt8ABoDpHDlg) | 4:14 |
-| 3 | [Mamacita](https://open.spotify.com/track/2JMaOgTxoHn8zqpBYmy7FO) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Mamacita](https://open.spotify.com/album/5ipPpwKIN4P0Pi7lEJ2rF4) | 4:08 |
-| 4 | [Easy \(with G\. Love & Brett Dennen\)](https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Easy \(with G\. Love & Brett Dennen\)](https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu) | 3:31 |
-| 5 | [Porridge](https://open.spotify.com/track/4Alr3te050rO6YrKOmkmkY) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Porridge](https://open.spotify.com/album/6eQOY5MXWUMg5vGr122m0L) | 2:44 |
+| 1 | [Dust Mites \(Tumble Down\)](https://open.spotify.com/track/0sg2CKv4gfvgMvtloRVu4g) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Dust Mites \(Tumble Down\)](https://open.spotify.com/album/6y2MLbpoeGtCTO2oMcYB03) | 5:49 |
+| 2 | [Space Between Frames](https://open.spotify.com/track/4vOGgl1xhxvb0psCFH5DWg) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Space Between Frames](https://open.spotify.com/album/62bOBKc8CnG7xO56h79ber) | 3:53 |
+| 3 | [In Stride](https://open.spotify.com/track/59a1MKfzdwxr2SmiSrMPFf) | [Moe](https://open.spotify.com/artist/5RRzOVMwjs3M36WiuJcBJ1) | [Circle of Giants](https://open.spotify.com/album/2XLXTlsbYvGt8ABoDpHDlg) | 4:14 |
+| 4 | [Mamacita](https://open.spotify.com/track/2JMaOgTxoHn8zqpBYmy7FO) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Mamacita](https://open.spotify.com/album/5ipPpwKIN4P0Pi7lEJ2rF4) | 4:08 |
+| 5 | [Easy \(with G\. Love & Brett Dennen\)](https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Easy \(with G\. Love & Brett Dennen\)](https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu) | 3:31 |
 | 6 | [We Push Mountains](https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [Dangermuffin](https://open.spotify.com/album/2y4DRNJCI177adj2JME16M) | 4:25 |
 | 7 | [Late Dawn](https://open.spotify.com/track/01qI1DSxeO1WYX8nc9bHQY) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Late Dawn](https://open.spotify.com/album/5RoC7vspBOZ76MAdXddbpC) | 3:37 |
 | 8 | [Bus Stop](https://open.spotify.com/track/7FPiMhp5LKyxY1KDGdsksV) | [King Llama](https://open.spotify.com/artist/4QXPM31l5VL7RjlSqsVuoc) | [Bus Stop](https://open.spotify.com/album/6JYVASVfp7oGbf8sTx9bb8) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `Z7gIZwAAAAAMY89/Ox7e4e/E3DnkOJ2F`
+Snapshot ID: `Z9OpzgAAAAA0TJikzojhy+5kTMEhcJne`

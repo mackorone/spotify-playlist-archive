@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,371 likes - 40 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,770 likes - 40 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 26 | [Leavin'](https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:15 |
 | 27 | [Baby Doll](https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:42 |
 | 28 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
-| 29 | [Sky's The Limit](https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:38 |
-| 30 | [Annie May](https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 5:46 |
+| 29 | [Annie May](https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 5:46 |
+| 30 | [Sky's The Limit](https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:38 |
 | 31 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 |
 | 32 | [House Party II \(I Don't Know What You Come To Do\) \- Single Version](https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 4:15 |
 | 33 | [More than Flowers](https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [More than Flowers](https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9) | 3:07 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 35 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 | 36 | [Weather 42](https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Mi Vida Loca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA) | 5:21 |
 | 37 | [Going Down](https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Going Down](https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd) | 2:57 |
-| 38 | [Whatever U Want](https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Thump's Hottest Party Hits](https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S) | 3:58 |
+| 38 | [Addicted to You \(feat\. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone\)](https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf) | [Mac Rell](https://open.spotify.com/artist/7vWUQcdfwm0m7fL70IW9Z0), [Feddy Moe](https://open.spotify.com/artist/4tOrYOaovyBBNRXIW6rPrm), [Bosten Black](https://open.spotify.com/artist/3uRWEE4AsIQMhMqUBmvL7Q), [Uncl DJ](https://open.spotify.com/artist/3jE7KVL4FfuxT3fWNq53Wi), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Kick n Game Like Soccer](https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X) | 3:45 |
 | 39 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
-| 40 | [Addicted to You \(feat\. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone\)](https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf) | [Mac Rell](https://open.spotify.com/artist/7vWUQcdfwm0m7fL70IW9Z0), [Feddy Moe](https://open.spotify.com/artist/4tOrYOaovyBBNRXIW6rPrm), [Bosten Black](https://open.spotify.com/artist/3uRWEE4AsIQMhMqUBmvL7Q), [Uncl DJ](https://open.spotify.com/artist/3jE7KVL4FfuxT3fWNq53Wi), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Kick n Game Like Soccer](https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X) | 3:45 |
+| 40 | [Whatever U Want](https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Thump's Hottest Party Hits](https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S) | 3:58 |
 
-Snapshot ID: `Z9DOgAAAAAAymE4GEnuTfo4jBAjGjcaL`
+Snapshot ID: `Z9IgAAAAAAAOM+ZhnlST5YvPEX/X+kKF`

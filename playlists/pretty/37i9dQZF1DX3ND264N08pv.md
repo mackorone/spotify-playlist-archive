@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,400 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,423 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 29 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
 | 30 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 31 | [Trip to España](https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Trip to España](https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o) | 3:42 |
-| 32 | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 |
-| 33 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
-| 34 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
+| 32 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
+| 33 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
+| 34 | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/track/04VMwbWGyD8AaV0VeLkdux) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [The Roar \(Official Masters of Hardcore Austria 2025 Anthem\)](https://open.spotify.com/album/5NHKPMeWINgwq2Yud68DMn) | 2:24 |
 | 35 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 |
 | 36 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
 | 37 | [The Apocalypse](https://open.spotify.com/track/3XrgmtMna0SCc8dRhhIGbm) | [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [The Apocalypse](https://open.spotify.com/album/0isNxwaR0jiaJwNMrGRUiZ) | 2:52 |

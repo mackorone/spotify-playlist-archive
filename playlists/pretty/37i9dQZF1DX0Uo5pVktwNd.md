@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,677 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,753 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 30 | [Is Kadar Pyar Hai Tumse](https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 5:24 |
 | 31 | [Kabhi Nahee](https://open.spotify.com/track/3zeTPFtnlR72qRnBH3g2xd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 3:39 |
 | 32 | [Sajan Mere Satrangiya](https://open.spotify.com/track/78RBOAspXcdhaJLTNzvFZz) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ek\-Dana](https://open.spotify.com/album/6togBWDn0oaXTI631pmrDG) | 5:13 |
-| 33 | [Sochta Hun Uska Dil](https://open.spotify.com/track/5UivuAWteghGcxElCwX7Pk) | [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Sochta Hun](https://open.spotify.com/album/228iPPykSMuAzeTH71RDmc) | 4:16 |
-| 34 | [Kya Soorat Hai](https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 3:53 |
+| 33 | [Kya Soorat Hai](https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 3:53 |
+| 34 | [Sochta Hun Uska Dil](https://open.spotify.com/track/5UivuAWteghGcxElCwX7Pk) | [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Sochta Hun](https://open.spotify.com/album/228iPPykSMuAzeTH71RDmc) | 4:16 |
 | 35 | [Aaja Sohneya](https://open.spotify.com/track/1DfskI6r7ufeVEiV1DQZf6) | [Bally Jagpal](https://open.spotify.com/artist/3mMwnm3FuucDtmcuWRoKiG), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dark & Dangerous](https://open.spotify.com/album/1CDM75MwzrJdekLr7O92bu) | 7:22 |
 | 36 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
 | 37 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |

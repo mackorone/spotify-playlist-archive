@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio, Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,088 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,124 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 15 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW) | 7:39 |
 | 16 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 17 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
-| 18 | [O Céu Se Abre](https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Céu Se Abre](https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK) | 4:30 |
-| 19 | [Gratidão \(Gratitude\) \- Ao Vivo](https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Gratidão \(Gratitude\) \[Ao Vivo\]](https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm) | 7:00 |
+| 18 | [Gratidão \(Gratitude\) \- Ao Vivo](https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Gratidão \(Gratitude\) \[Ao Vivo\]](https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm) | 7:00 |
+| 19 | [O Céu Se Abre](https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Céu Se Abre](https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK) | 4:30 |
 | 20 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 |
 | 21 | [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 |
 | 22 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |

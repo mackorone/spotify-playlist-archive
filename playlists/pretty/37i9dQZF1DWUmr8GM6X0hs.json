@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 95132,
+  "num_followers": 95166,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Desvelo de Amor",
+      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 174014,
-      "name": "Desvelo de Amor",
-      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
     },
     {
       "added_at": "2024-06-25 17:49:34",

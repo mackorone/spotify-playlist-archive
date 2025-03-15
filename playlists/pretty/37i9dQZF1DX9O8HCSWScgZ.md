@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,866 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,872 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 6 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 |
 | 7 | [Midnight Stuff](https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Midnight Stuff](https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG) | 2:09 |
 | 8 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 |
-| 9 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
-| 10 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 |
+| 9 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 |
+| 10 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 |
 | 11 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 |
 | 12 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 |
 | 13 | [Beam Me Up](https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Beam Me Up](https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4) | 2:03 |
 | 14 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 |
-| 15 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 |
-| 16 | [Drizzle](https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Drizzle](https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh) | 2:04 |
-| 17 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 |
-| 18 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 |
-| 19 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 |
+| 15 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
+| 16 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 |
+| 17 | [Drizzle](https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Drizzle](https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh) | 2:04 |
+| 18 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 |
+| 19 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 |
 | 20 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
 | 21 | [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 |
 | 22 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 28 | [Fika](https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Vanisher](https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8) | 2:12 |
 | 29 | [still images](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [still images](https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg) | 2:07 |
 | 30 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
-| 31 | [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 |
-| 32 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 |
+| 31 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 |
+| 32 | [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 |
 | 33 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
 | 34 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 |
 | 35 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 |

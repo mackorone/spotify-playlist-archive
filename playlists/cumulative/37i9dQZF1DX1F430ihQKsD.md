@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Laraw
 
-565 songs - 1 day 8 hr 27 min
+566 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [I'M NOT CRAZY](https://open.spotify.com/track/6BED5a6RzUKIhLpFtD7421) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [I'M NOT CRAZY](https://open.spotify.com/album/66Yjy6EWGZrpOLk1NWkUSF) | 3:35 | 2022-03-25 | 2022-04-23 |
 | [I'm Not Here](https://open.spotify.com/track/7bAki4sFwFfF9MT8Tm4sUW) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [I'm Not Here](https://open.spotify.com/album/3pXuhKaqUHWxlawLUM4TRa) | 4:12 | 2025-01-24 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 | 2022-04-23 |
+| [Il faut qu'on se parle](https://open.spotify.com/track/5vnFXiRwOQhz5xBn09GKRK) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Rom\-Com](https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A) | 3:13 | 2025-03-14 |  |
 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-03-01 |
 | [Inconnue](https://open.spotify.com/track/5DQ3U33Swr3xLoFvpXMAgj) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime Deluxe](https://open.spotify.com/album/7scx66azACtWTjLEGuPnPo) | 3:02 | 2023-02-10 | 2023-09-09 |
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-15 | 2022-12-10 |
@@ -296,7 +297,7 @@
 | [Lessons](https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 2:11 | 2022-03-25 | 2022-04-23 |
 | [Let it Die](https://open.spotify.com/track/0gS9HfFlQ4YisrYvxkeaY7) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [The Haunt](https://open.spotify.com/album/53WRKqwxxyRipxJBiYYavf) | 2:33 | 2022-11-25 | 2022-12-10 |
 | [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 | 2022-03-25 | 2022-11-30 |
-| [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 | 2023-09-29 |  |
+| [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 | 2023-09-29 | 2025-03-15 |
 | [levels](https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [levels](https://open.spotify.com/album/58DMAnDshN1F30XhXFi8gl) | 3:06 | 2022-03-25 | 2022-05-07 |
 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 | 2024-06-07 | 2024-08-31 |
 | [Lisbonne, Paris la Sorbonne](https://open.spotify.com/track/4nB7Z6mGzUQ4rDlqkJU2FQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lisbonne, Paris la Sorbonne](https://open.spotify.com/album/4oyJLq9CnOCpwvjMZbRFzx) | 3:15 | 2024-04-12 | 2024-05-25 |

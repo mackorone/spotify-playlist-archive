@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 17434,
+  "num_followers": 17438,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALzTRNzuNoggRnGpi1g9ZHNfm+tbY0",
+  "snapshot_id": "AAALzgzJbkPCmERmT3lZH2flRrH7GFhI",
   "tracks": [
     {
       "added_at": "2025-02-26 12:09:36",
@@ -9731,6 +9731,26 @@
       "duration_ms": 182015,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8"
+    },
+    {
+      "added_at": "2025-03-14 14:02:00",
+      "album": {
+        "name": "Criaturas da Noite",
+        "url": "https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        },
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 106485,
+      "name": "Criaturas da Noite",
+      "url": "https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

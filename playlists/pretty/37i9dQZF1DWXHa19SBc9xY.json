@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 107730,
+  "num_followers": 107770,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Se N\u00e3o Fosse por Ontem",
-        "url": "https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 208589,
-      "name": "Se N\u00e3o Fosse por Ontem",
-      "url": "https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Vai sacudir, vai abalar",
         "url": "https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Se N\u00e3o Fosse por Ontem",
+        "url": "https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 208589,
+      "name": "Se N\u00e3o Fosse por Ontem",
+      "url": "https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "Coisa Mais Linda",
         "url": "https://open.spotify.com/album/1VSbHxrlJdkwsanhiSCPuY"
       },
@@ -916,12 +916,12 @@
           "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
         },
         {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        },
-        {
           "name": "CANETARIA",
           "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
         }
       ],
       "duration_ms": 164571,

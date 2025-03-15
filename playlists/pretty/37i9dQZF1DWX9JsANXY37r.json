@@ -527,6 +527,22 @@
     {
       "added_at": "2025-02-07 23:41:22",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
+    },
+    {
+      "added_at": "2025-02-07 23:41:22",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2025-02-07 23:41:22",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
     },
     {
       "added_at": "2025-02-07 23:41:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-02-07 23:41:22",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/4ui8Lc2iPjfoesGSfVxhLZ"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/06vjDikmHQBKKaNtlPrrB3"
-    },
-    {
-      "added_at": "2025-02-07 23:41:22",
-      "album": {
         "name": "Rose Rouge",
         "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 357960,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+    },
+    {
+      "added_at": "2025-02-07 23:41:22",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/4ui8Lc2iPjfoesGSfVxhLZ"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/06vjDikmHQBKKaNtlPrrB3"
     },
     {
       "added_at": "2025-02-07 23:41:22",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-02-07 23:41:22",
       "album": {
-        "name": "Why Don't You",
-        "url": "https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u"
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 232258,
-      "name": "Why Don't You",
-      "url": "https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H"
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4dPimg8olUWKxHZXPD3KOO"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

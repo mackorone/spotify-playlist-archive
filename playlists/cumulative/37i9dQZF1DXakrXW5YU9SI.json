@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Przywo\u0142aj wiosn\u0119 b\u0142ogimi d\u017awi\u0119kami \ud83c\udf37",
+  "description": "Przywitaj wiosn\u0119 b\u0142ogimi d\u017awi\u0119kami \ud83c\udf37",
   "name": "Wiosenny chill",
   "tracks": [
     {
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 170000,
       "name": "bilet beze mnie",
       "url": "https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On"
@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Chyba najlepszy dzie\u0144 (Extended)",
+        "url": "https://open.spotify.com/album/5lb5xzCXIfTaeeyoLmq6GN"
+      },
+      "artists": [
+        {
+          "name": "Mikromusic",
+          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233828,
+      "name": "Chyba najlepszy dzie\u0144 - Extended",
+      "url": "https://open.spotify.com/track/0khXMMBAa1WGrtAU1FMMxB"
+    },
+    {
+      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },
@@ -1612,6 +1630,24 @@
       "duration_ms": 251053,
       "name": "Dlugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
       "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
+    },
+    {
+      "album": {
+        "name": "Pierwsza P\u0142yta +4",
+        "url": "https://open.spotify.com/album/0AxRYTRdqmPQfxjCRlrWst"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248404,
+      "name": "do osoby, z kt\u00f3r\u0105 nie rozmawiam (akustycznie, pocz\u0105tek troch\u0119 jak z The Last Of Us)",
+      "url": "https://open.spotify.com/track/4rQBkpOhCIbdXrD6zUNQhv"
     },
     {
       "album": {
@@ -3110,7 +3146,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 155248,
       "name": "Kurz",
       "url": "https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef"
@@ -3960,7 +3996,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 279219,
       "name": "Murem",
       "url": "https://open.spotify.com/track/4XOGrVErLm5m1t7scpbQbU"
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 184966,
       "name": "Nie ton\u0119",
       "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
@@ -5350,7 +5386,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 200249,
       "name": "Psy",
       "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
@@ -5408,6 +5444,24 @@
       "duration_ms": 197942,
       "name": "P\u00f3\u0142noc",
       "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
+    },
+    {
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
     },
     {
       "album": {
@@ -6153,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "Sunset Blvd",
+        "url": "https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167584,
+      "name": "Sunset Blvd",
+      "url": "https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO"
+    },
+    {
+      "album": {
         "name": "Sunshine In The Room",
         "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
       },
@@ -6530,6 +6606,28 @@
       "duration_ms": 230661,
       "name": "The Rest Of Me",
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "album": {
+        "name": "The Silence & The Storm",
+        "url": "https://open.spotify.com/album/1m4no0XlyEjaWa0pW4bkiA"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "The Silence & The Storm",
+      "url": "https://open.spotify.com/track/18wYstWXgbzlxjguSj1LSR"
     },
     {
       "album": {
@@ -6942,7 +7040,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 213818,
       "name": "Ty to Ja",
       "url": "https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6"
@@ -7719,6 +7817,28 @@
     },
     {
       "album": {
+        "name": "Harmonia",
+        "url": "https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        },
+        {
+          "name": "Ralph Kaminski",
+          "url": "https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215664,
+      "name": "Zobaczy\u0107 Ciebie",
+      "url": "https://open.spotify.com/track/6DlFqZsoRr7mypaQkMbRF4"
+    },
+    {
+      "album": {
         "name": "Zostan\u0119 tu z Tob\u0105",
         "url": "https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3"
       },
@@ -7788,10 +7908,28 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 233534,
       "name": "\u0141za",
       "url": "https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE"
+    },
+    {
+      "album": {
+        "name": "3rd Rocket 666",
+        "url": "https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241904,
+      "name": "\u2060Godspeed",
+      "url": "https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXakrXW5YU9SI"

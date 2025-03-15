@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4307,
+  "num_followers": 4311,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -675,66 +675,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Handalas",
-        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
-      },
-      "artists": [
-        {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
-        },
-        {
-          "name": "MC Meta",
-          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 216821,
-      "name": "Handalas",
-      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Tiger JK",
-          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "\ub6f0\uc5b4\uac00 Run (feat. Tiger JK & Jinbo)",
-      "url": "https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Mirror (28 Look at Youth)",
-        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 299470,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
       },
@@ -783,6 +723,66 @@
       "duration_ms": 333946,
       "name": "Hip Hop For Respect (feat. Verbal Jint, Gaknakunae, TBNY, BILL STAX, Simon Dominic, Garion, Dok2, Sean2Slow, MC Sungchun)",
       "url": "https://open.spotify.com/track/4arB8dvHCT1jlEPfYrAU2N"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "\ub6f0\uc5b4\uac00 Run (feat. Tiger JK & Jinbo)",
+      "url": "https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Mirror (28 Look at Youth)",
+        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 299470,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Handalas",
+        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
+      },
+      "artists": [
+        {
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+        },
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 216821,
+      "name": "Handalas",
+      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
       "artists": [
         {
-          "name": "Ill Skillz",
-          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
         }
       ],
-      "duration_ms": 237906,
-      "name": "Windbag Three Brothers and Spinner Park",
-      "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
+      "duration_ms": 253988,
+      "name": "\uc5c9\ud130\ub9ac \ud559\uc0dd",
+      "url": "https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
       },
       "artists": [
         {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+          "name": "Ill Skillz",
+          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
         }
       ],
-      "duration_ms": 253988,
-      "name": "\uc5c9\ud130\ub9ac \ud559\uc0dd",
-      "url": "https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr"
+      "duration_ms": 237906,
+      "name": "Windbag Three Brothers and Spinner Park",
+      "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
       },
       "artists": [
         {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
         }
       ],
-      "duration_ms": 166974,
-      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
-      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
+      "duration_ms": 249946,
+      "name": "Beatz 4 Da Streetz",
+      "url": "https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
       },
       "artists": [
         {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Beatz 4 Da Streetz",
-      "url": "https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7"
+      "duration_ms": 166974,
+      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
+      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
     },
     {
       "added_at": "2024-11-20 08:34:55",

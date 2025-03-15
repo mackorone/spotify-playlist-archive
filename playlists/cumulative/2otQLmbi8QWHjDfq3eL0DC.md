@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-293 songs - 14 hr 16 min
+294 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2024-01-26 | 2024-08-03 |
 | [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 | 2024-02-02 | 2025-03-08 |
 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 | 2023-11-03 | 2024-02-03 |
+| [What We Do](https://open.spotify.com/track/1QgD76T1CDXO7204gPevKQ) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48), [DANZR](https://open.spotify.com/artist/0VQlqSOXMCDcObzrzXIZVV) | [What We Do](https://open.spotify.com/album/2BXAK50uaMGHgRuDPbRWBq) | 2:25 | 2025-03-14 |  |
 | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd) | 2:48 | 2023-11-03 | 2024-12-07 |
 | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Bemendé](https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq) | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki) | 2:46 | 2023-11-03 |  |
 | [What's A Girl To Do](https://open.spotify.com/track/5o4zD3SATxUoVeK0gb9nIa) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy) | [What's A Girl To Do](https://open.spotify.com/album/1hd7Vh5v5by9oGT4sFmnVC) | 2:27 | 2024-08-30 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,158 songs - 2 day 10 hr 12 min
+1,159 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Dom Dom Kurşunu \- E.K\. Remix](https://open.spotify.com/track/2NRJHv4gpxj4mK36prfq2r) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ), [E.K.](https://open.spotify.com/artist/3T7jBTOmnCmP2DY2v3y2xy) | [Dom Dom Kurşunu \(E.K\. Remix\)](https://open.spotify.com/album/7BCHAXzmVaig14baYVNg8s) | 1:19 | 2021-04-13 | 2021-04-15 |
 | [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-20 | 2024-09-15 |
 | [Dondu Puşt](https://open.spotify.com/track/3bH14FqMe4LSmUVsaWgx9o) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Dondu Puşt](https://open.spotify.com/album/17thE0QIHYHAcqq52hjytR) | 2:23 | 2021-12-05 | 2021-12-06 |
+| [DOYAMADIM](https://open.spotify.com/track/2csQwIXVZb7fCO980XqCHr) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [DOYAMADIM](https://open.spotify.com/album/7pIisLWP0gTbfgDCD8OKJx) | 2:37 | 2025-03-14 |  |
 | [DOYAMADIM](https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [DOYAMADIM](https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK) | 2:37 | 2024-02-10 | 2024-09-11 |
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-01-13 | 2024-08-21 |
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-21 | 2022-11-23 |
@@ -434,7 +435,7 @@
 | [GECELERİN DERDİ](https://open.spotify.com/track/5L9oweGjkwBg0Mt9ZU9OhW) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [BEGEFENDİ](https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744) | 2:37 | 2021-07-30 | 2022-01-27 |
 | [Geceyi Anlatmış](https://open.spotify.com/track/0ni7a9ONGdNoUvDvSCgLoJ) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Geceyi Anlatmış](https://open.spotify.com/album/2QXcT3QNxgJP2m5MBvzY5B) | 4:00 | 2022-03-14 | 2022-04-08 |
 | [Gel Bana](https://open.spotify.com/track/0vTv4JqDAjhix5KCUmJDou) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Gel Bana](https://open.spotify.com/album/4jugRiTsLUgMFdnLuTHjdT) | 3:03 | 2024-05-24 | 2024-10-12 |
-| [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-02 |  |
+| [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-02 | 2025-03-15 |
 | [GELME İSTEMEM](https://open.spotify.com/track/3RUbUVTyG0TAaUEjQWV6Zw) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/4oOhEFtB0ckuoiNGdyM4tq) | 3:06 | 2024-11-19 | 2024-11-22 |
 | [Gelmesin](https://open.spotify.com/track/6udxaddhezdU8dwfZVapmw) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Gelmesin](https://open.spotify.com/album/6X8ndvkdGtHNcwcbKcF1Lg) | 3:30 | 2021-06-05 | 2021-07-01 |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-06-04 |

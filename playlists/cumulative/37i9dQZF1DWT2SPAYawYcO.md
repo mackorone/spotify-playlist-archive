@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> The best new songs of the week! Feat: Chappell Roan, Mia Wray, Haiim, Brad Cox, Selena Gomez, Lizzo + more
+> The best new songs of the week! Feat: Chappell Roan, Mia Wray, HAIM, Brad Cox, Selena Gomez, Lizzo + more.
 
-7,778 songs - 17 day 13 hr 21 min
+7,779 songs - 17 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1404,6 +1404,7 @@
 | [Come Find Me](https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB) | 3:56 | 2024-08-29 | 2024-09-06 |
 | [Come Find Me](https://open.spotify.com/track/19fGfFfOBcjDbU4HRWrkz9) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Come Find Me](https://open.spotify.com/album/44sMQlTP4ahbNno2fTfWZo) | 2:27 | 2024-02-22 | 2024-03-01 |
 | [Come Home](https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:35 | 2024-12-05 | 2024-12-13 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-13 |  |
 | [Come Thru](https://open.spotify.com/track/0hn8lFibQnnruBtfjOTmTO) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:17 | 2024-06-27 | 2024-07-05 |
 | [COME THRU](https://open.spotify.com/track/1dMayMwLnaaXsobe48CZwO) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [COME THRU](https://open.spotify.com/album/11BENNg7NTBAyovqydPRZ7) | 2:14 | 2023-09-21 | 2023-09-29 |
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-12 | 2024-09-20 |
@@ -2050,7 +2051,7 @@
 | [Empty](https://open.spotify.com/track/0wTo3imYi4UMdLw6owvcMX) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Empty](https://open.spotify.com/album/5QHG7DGIXpo1xFtp2vBQZp) | 3:20 | 2024-04-18 | 2024-04-26 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-14 | 2024-03-22 |
 | [Empty Barrels](https://open.spotify.com/track/5BfEjqgxW5c1SsI8gfT1VS) | [STIFF RICHARDS](https://open.spotify.com/artist/0tDaLHgoNT53Kr4OQ6XG7J) | [GFC / EMPTY BARRELS](https://open.spotify.com/album/46ib4fXRLl2PW6EXj5Oj31) | 1:15 | 2024-10-11 | 2024-10-18 |
-| [empty pages](https://open.spotify.com/track/4pBcuAcQJLLhTtPgEgkcaY) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [empty pages](https://open.spotify.com/album/5EvEzapMmAaJ3du1AimXe9) | 4:27 | 2025-03-13 |  |
+| [empty pages](https://open.spotify.com/track/4pBcuAcQJLLhTtPgEgkcaY) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [empty pages](https://open.spotify.com/album/5EvEzapMmAaJ3du1AimXe9) | 4:24 | 2025-03-13 |  |
 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 | 2025-03-06 | 2025-03-14 |
 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 | 2024-05-16 | 2024-05-24 |
 | [End Credits](https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [End Credits](https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0) | 3:33 | 2023-09-21 | 2023-09-29 |

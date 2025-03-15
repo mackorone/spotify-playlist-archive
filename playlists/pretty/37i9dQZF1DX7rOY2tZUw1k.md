@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rOY2tZUw1k.md) - [plain]
 
 > The ultimate romantic playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380,270 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380,348 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rOY2tZUw1k.md) - [plain]
 | 50 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 51 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 |
 | 52 | [Angels \- 2004 Mix](https://open.spotify.com/track/6ZczpQ30czzU2lI8FTMzUg) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [In And Out Of Consciousness: Greatest Hits 1990 \- 2010](https://open.spotify.com/album/3KnJzJIjhNYr7G1VErTLH3) | 4:27 |
-| 53 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
+| 53 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 54 | [Can You Feel the Love Tonight](https://open.spotify.com/track/4f6jZRNyjZQ8ltv1txgZUG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King: Special Edition Original Soundtrack \(English Version\)](https://open.spotify.com/album/6V642KcHwzOSyYGwH58kgO) | 4:01 |
 | 55 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/3SwxRkHbAarf3wWlInRTzA) | 4:40 |
 | 56 | [Truly Madly Deeply](https://open.spotify.com/track/69hwHdKl4Y1HusAutt3W6q) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/73I6LRyJDx4scO2zlMqR8m) | 4:37 |

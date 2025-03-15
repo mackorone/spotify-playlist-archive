@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-283 songs - 9 hr 35 min
+287 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Down by the Salley Gardens \- Guitar Instrumental](https://open.spotify.com/track/4Snme5oNjpZp0IujKRtodX) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Guitar Lullabies: Music for Babies](https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj) | 2:02 | 2021-11-11 | 2022-01-22 |
 | [Dream of the Firefly](https://open.spotify.com/track/3oVKpGD8VrYXpZ1Q8u4meu) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Dream of the Firefly](https://open.spotify.com/album/1cGsY2Ja3WAgmZyhhPXRA4) | 1:20 | 2023-05-19 | 2023-12-21 |
 | [Dreaming with the Stars](https://open.spotify.com/track/761zhbmbvFRs6hflkBqW37) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Dreaming with the Stars](https://open.spotify.com/album/2SfA10rr2QVAAxa5j1SVEW) | 2:47 | 2023-04-25 | 2023-09-02 |
+| [Dreamscape](https://open.spotify.com/track/4v85BIKFL7Rw54K9PU5oH7) | [Artful Epilogue](https://open.spotify.com/artist/5Dtg6kkliBMwQ5dS1XpzlE) | [Dreamscape](https://open.spotify.com/album/6ksJegjbpJWhMYm5Lqf0vn) | 2:22 | 2025-03-14 |  |
 | [Drömmen om Vilma](https://open.spotify.com/track/6h6Q68jSkRgV5FmzhcS5n2) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Drömmen om Vilma](https://open.spotify.com/album/3QNjK3ORQ4UukYUP8uxfem) | 1:33 | 2023-02-17 | 2023-09-01 |
 | [Edelweiss](https://open.spotify.com/track/7aa9kUH7qZonH3URpYBZ5k) | [Sleepy Puppies](https://open.spotify.com/artist/2jAIiERKgjiqD2qRpAtii3) | [Edelweiss](https://open.spotify.com/album/4rjTw6MmyKd847DGoO36Pj) | 1:53 | 2022-10-14 |  |
 | [Elder](https://open.spotify.com/track/3zIeAw0QM8l0mElw7BnPV9) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Elder](https://open.spotify.com/album/47JRvUslwwHwfVF3cfVglr) | 1:58 | 2023-04-25 | 2024-04-20 |
@@ -86,6 +87,7 @@
 | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/track/6yVSSd8L2UKvKuw15ZQYTt) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW) | 2:06 | 2023-03-17 |  |
 | [Farmer And The Dell](https://open.spotify.com/track/6mEKejNUzMBLor898cs5DB) | [Dream Catch Band](https://open.spotify.com/artist/121TV3ynAWC4ZCnn2Szt0y) | [Farmer And The Dell](https://open.spotify.com/album/3dvNfkCLJLxt2MM3Zoc97N) | 1:45 | 2023-02-17 | 2023-04-26 |
 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 | 2021-11-11 | 2024-05-11 |
+| [Featherlight](https://open.spotify.com/track/0WbmNgQDsrYH79slmx1IYV) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Featherlight](https://open.spotify.com/album/43jnMkL4vf5W5TVLNWlAD5) | 2:26 | 2025-03-14 |  |
 | [Feathers](https://open.spotify.com/track/1e1Mm7eqfM9gUphsLADBDj) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Feathers](https://open.spotify.com/album/6VQ4YVvFlaavpopygw9eqz) | 1:17 | 2021-11-11 |  |
 | [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2021-11-11 | 2022-07-29 |
 | [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-07-26 | 2023-06-16 |
@@ -105,6 +107,7 @@
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2021-11-11 | 2023-03-18 |
 | [Goodnight Mr Bear](https://open.spotify.com/track/6fqOTn42xRhdjyT7ehcgTN) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [Goodnight Mr Bear](https://open.spotify.com/album/70txSGxRXOEyzlzgUubh45) | 1:57 | 2022-10-14 | 2024-04-05 |
 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 | 2023-04-25 |  |
+| [Goodnight My Love](https://open.spotify.com/track/2wci3N9JVBU0oU6uaqT4Qr) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Goodnight My Love](https://open.spotify.com/album/6TC9uKOTFwA967S7hjL4Ao) | 1:48 | 2025-03-14 |  |
 | [Goodnight Sweetheart Goodnight](https://open.spotify.com/track/6aSIzLuudxibkJ2tThjrRW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Goodnight Sweetheart Goodnight](https://open.spotify.com/album/2OO9vocjFJCDKbSEXUR2BT) | 1:56 | 2023-05-19 | 2024-01-19 |
 | [Goodnight Sweetheart, Goodnight](https://open.spotify.com/track/5PP6QALJTFPyb8rfCx3RIs) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Guitar Lullabies](https://open.spotify.com/album/7CVnDVNrvyiavRMUseE7ZM) | 2:19 | 2023-04-25 | 2023-09-02 |
 | [Goodnight teddy](https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Goodnight teddy](https://open.spotify.com/album/6bRKz8ZPbwWT8eKYhA7IUf) | 2:00 | 2023-08-17 | 2024-05-11 |
@@ -153,7 +156,7 @@
 | [Little Red Riding Hood](https://open.spotify.com/track/0L9KBhQKGpB310lLPLLdpU) | [Paula Morales](https://open.spotify.com/artist/1Y0NmP0wid5RIsGHrUnOwc) | [Little Red Riding Hood](https://open.spotify.com/album/6hcSgXJ3feSrRN8U27HQF3) | 2:49 | 2023-01-27 | 2023-11-17 |
 | [Little Sweet Pea](https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Little Sweet Pea](https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO) | 1:59 | 2023-03-17 |  |
 | [Little Teddy](https://open.spotify.com/track/4H9TgNSRWpS3wL0AGPrtCq) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Little Teddy](https://open.spotify.com/album/6gDjrt6l6tM1Og630RCDfL) | 1:07 | 2024-07-19 |  |
-| [London Bridge](https://open.spotify.com/track/0hD9RBuvleJ7MwX6WDRned) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [London Bridge](https://open.spotify.com/album/11Ox9WNYaeQDiGitxtVppw) | 1:52 | 2023-01-27 |  |
+| [London Bridge](https://open.spotify.com/track/0hD9RBuvleJ7MwX6WDRned) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [London Bridge](https://open.spotify.com/album/11Ox9WNYaeQDiGitxtVppw) | 1:52 | 2023-01-27 | 2025-03-15 |
 | [Lovely Nights](https://open.spotify.com/track/5j0DGm5INBjsEAAFKq8zHd) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:14 | 2022-06-10 | 2023-04-26 |
 | [Lullaby](https://open.spotify.com/track/5jb2MPiH6lqe91EbqUa5Zi) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Lullaby](https://open.spotify.com/album/14Y2D0sr08qbcfTSc7SqAD) | 1:36 | 2023-05-19 | 2023-09-01 |
 | [Lullaby For My Baby](https://open.spotify.com/track/3YBI07hmxDM28KhbFne2L0) | [Leo Sen](https://open.spotify.com/artist/1oLjdeWKZatIatSZaWwnHr) | [Lullaby For My Baby](https://open.spotify.com/album/4qHIcljCu2PnqRIZf9UYBI) | 2:14 | 2021-11-11 | 2024-05-11 |
@@ -266,7 +269,8 @@
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-11-11 | 2023-09-02 |
 | [Twilight Song](https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Twilight Song](https://open.spotify.com/album/4kFbCc5PiDyVXpsB0wE2S2) | 1:28 | 2024-10-18 |  |
 | [Twinkle](https://open.spotify.com/track/74GGiDx1ffmes4p506vhnT) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Twinkle](https://open.spotify.com/album/61cvN1S31Z3dxr01kzJQE0) | 1:20 | 2023-04-25 | 2023-09-02 |
-| [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 |  |
+| [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 | 2025-03-15 |
+| [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/63PmN6eQAHYEWU1bh5QXJi) | [Leandro Bellucci](https://open.spotify.com/artist/2WkL0WSx2twpiCsZuWCFCP) | [Twinkle, Twinkle, Little Star](https://open.spotify.com/album/3TFfa4mF3xmYdu4cnMyAez) | 2:02 | 2025-03-14 |  |
 | [Under the moon](https://open.spotify.com/track/1eqiRWOIfG4Y4D6JTrUN1C) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Under the moon](https://open.spotify.com/album/4D4G7DbuDRMUbrIHvbJJNi) | 1:47 | 2024-05-10 |  |
 | [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2023-06-08 |  |
 | [Utflukt i skogen](https://open.spotify.com/track/0OkRmQwlzwVpWdp9T8epnu) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Utflukt i skogen](https://open.spotify.com/album/1LFvvBVjS76qINYCkf6ekY) | 2:03 | 2023-02-17 | 2024-04-20 |

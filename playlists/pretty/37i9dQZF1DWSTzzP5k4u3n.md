@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,943 likes - 87 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,969 likes - 87 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

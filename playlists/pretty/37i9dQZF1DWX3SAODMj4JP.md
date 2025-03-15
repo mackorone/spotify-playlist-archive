@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,424 likes - 69 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,457 likes - 69 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 16 | [Se Eu Cair](https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Se Eu Cair](https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv) | 5:35 |
 | 17 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
 | 18 | [Bote o Pé](https://open.spotify.com/track/3KZPBw2GyCEbh2zdsmeisl) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe), [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Bote o Pé](https://open.spotify.com/album/3UOCHsSCEyPzusLJpZksqH) | 3:20 |
-| 19 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
-| 20 | [Não Te Abandono](https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1) | [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Rotina](https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp) | 4:33 |
+| 19 | [Não Te Abandono](https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1) | [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Rotina](https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp) | 4:33 |
+| 20 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 |
 | 21 | [Aonde Está Deus?](https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 4:10 |
 | 22 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
 | 23 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |

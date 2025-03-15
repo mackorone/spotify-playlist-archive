@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: BINI",
+  "description": "The sweetest bops. Cover: LE SSERAFIM",
   "name": "SUGAR",
   "tracks": [
     {
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137178,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
+    },
+    {
+      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 182857,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
@@ -2169,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
+    },
+    {
+      "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
       },
@@ -2915,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "ReawakeR",
+        "url": "https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "RED ZONE",
+      "url": "https://open.spotify.com/track/35ZTL6aG24WiyQWgGcykaH"
+    },
+    {
+      "album": {
         "name": "RINGO",
         "url": "https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz"
       },
@@ -3298,7 +3356,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 142666,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6qHGucTO3ieXDbBXEv30TH"
@@ -3316,7 +3374,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 166204,
       "name": "Summer so hot",
       "url": "https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq"

@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-929 songs - 1 day 15 hr 42 min
+930 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Almonte](https://open.spotify.com/track/7zIIyNRGYpFSCtEf2SfcrL) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Almonte](https://open.spotify.com/album/5VJsgBNa4q6FyUIN3Bpvkp) | 2:31 | 2021-12-07 | 2022-10-14 |
 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 | 2023-02-06 |  |
 | [Along The Willows](https://open.spotify.com/track/20odG080Gaefa2UXl1XZsy) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Along The Willows](https://open.spotify.com/album/6fAyTzbAp4gQX2yX11N0HA) | 3:07 | 2023-01-26 | 2024-12-12 |
+| [Alors](https://open.spotify.com/track/7vdWRhAZT349WXagaI9hKG) | [Mason Vaird](https://open.spotify.com/artist/6MjAU2urWs1cRz47tpjhsg) | [Alors](https://open.spotify.com/album/6C9rA3Yx6GbhdAWdINaDEo) | 2:40 | 2025-03-14 |  |
 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 | 2022-03-30 | 2022-11-25 |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-05-06 |
 | [Always Smile](https://open.spotify.com/track/6K5BSu5uwLrgyMZlcDgSCP) | [Valérie Valérie](https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25) | [Always Smile](https://open.spotify.com/album/2AKUrXCYqccpTnzxlXy3cl) | 2:50 | 2024-09-10 |  |

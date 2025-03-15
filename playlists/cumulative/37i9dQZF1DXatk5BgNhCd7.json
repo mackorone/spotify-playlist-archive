@@ -3401,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Amar a Dos",
+        "url": "https://open.spotify.com/album/7m4pjc27JQbTHLoO30agYh"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00eda",
+          "url": "https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209807,
+      "name": "Amar a Dos",
+      "url": "https://open.spotify.com/track/70lmdbI0oHGj6De7aEqG7o"
+    },
+    {
+      "album": {
         "name": "Amar Es Sufrir",
         "url": "https://open.spotify.com/album/6JWbQsyKdxLTDIJvWxf0bQ"
       },

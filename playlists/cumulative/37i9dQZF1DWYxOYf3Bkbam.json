@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 206235,
       "name": "De Goya Soy",
       "url": "https://open.spotify.com/track/1JEZrM0qMpV73paLvLntWJ"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 265253,
       "name": "La Chamamecera",
       "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 173322,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
@@ -3328,6 +3328,24 @@
       "duration_ms": 123226,
       "name": "Un simbronazo",
       "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198371,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"
     },
     {
       "album": {

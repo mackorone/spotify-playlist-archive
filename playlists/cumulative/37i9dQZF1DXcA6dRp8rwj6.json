@@ -14342,7 +14342,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 168960,
       "name": "doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/22pJeRZ0Mex0B85PQD4mUD"
@@ -26246,7 +26246,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 173117,
       "name": "Keep It",
       "url": "https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ"
@@ -38255,6 +38255,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161738,
+      "name": "POP OUT",
+      "url": "https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr"
+    },
+    {
+      "album": {
         "name": "Poppin",
         "url": "https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR"
       },
@@ -39890,6 +39908,24 @@
       "duration_ms": 125512,
       "name": "Rari (feat. Future)",
       "url": "https://open.spotify.com/track/0M52bTppxI3QQxan8ftIsY"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "RATHER LIE",
+      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
       "album": {

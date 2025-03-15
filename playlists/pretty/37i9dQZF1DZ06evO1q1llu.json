@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 242322,
+  "num_followers": 242341,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB134AO7qvl1vvaJeYiz0Ej",
+  "snapshot_id": "Z9IgAAAAAABjL6vtM008UfDAyj+lklcy",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I GUESS IT'S LOVE?",
-        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
+        "name": "Forever & Again (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 137725,
-      "name": "I GUESS IT'S LOVE?",
-      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
+      "duration_ms": 139410,
+      "name": "Forever & Again (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever & Again (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
+        "name": "I GUESS IT'S LOVE?",
+        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 139410,
-      "name": "Forever & Again (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
+      "duration_ms": 137725,
+      "name": "I GUESS IT'S LOVE?",
+      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 5",
-        "url": "https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 122278,
       "name": "Speak",
       "url": "https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Love Letter To You 5",
+        "url": "https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2"
     },
     {
       "added_at": null,

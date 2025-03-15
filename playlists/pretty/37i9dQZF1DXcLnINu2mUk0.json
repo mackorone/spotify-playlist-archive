@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o",
-  "num_followers": 49343,
+  "num_followers": 49356,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-14 00:00:20",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
-    },
-    {
-      "added_at": "2025-03-14 00:00:20",
-      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "added_at": "2025-03-14 00:00:20",
+      "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "duration_ms": 153029,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
     },
     {
       "added_at": "2025-03-14 00:00:20",
@@ -879,30 +879,6 @@
     {
       "added_at": "2025-03-14 00:00:20",
       "album": {
-        "name": "Ninfoman\u00edaca",
-        "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
-      },
-      "artists": [
-        {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        },
-        {
-          "name": "Mulatooh",
-          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Ninfoman\u00edaca",
-      "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
-    },
-    {
-      "added_at": "2025-03-14 00:00:20",
-      "album": {
         "name": "Rocky&Rihanna",
         "url": "https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 144428,
       "name": "Rocky&Rihanna",
       "url": "https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln"
+    },
+    {
+      "added_at": "2025-03-14 00:00:20",
+      "album": {
+        "name": "Ninfoman\u00edaca",
+        "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Mulatooh",
+          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Ninfoman\u00edaca",
+      "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
     },
     {
       "added_at": "2025-03-14 00:00:20",

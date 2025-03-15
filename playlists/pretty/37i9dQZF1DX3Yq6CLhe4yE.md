@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain]
 
 > Feel...everything\. Listen to the music from The Idea of You, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,456 likes - 27 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,462 likes - 27 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Yq6CLhe4yE.md) - [plain]
 | 17 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
 | 18 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 |
 | 19 | [I Go \- Edit](https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk) | 3:44 |
-| 20 | [In Your Room](https://open.spotify.com/track/6BsXgrxQViV3PdAjS13uWZ) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:27 |
+| 20 | [In Your Room](https://open.spotify.com/track/6BsXgrxQViV3PdAjS13uWZ) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:27 |
 | 21 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 22 | [The Idea of You \(Acoustic Version\)](https://open.spotify.com/track/0DccMQw8JBzcNkMxL8U6hh) | [Nicholas Galitzine](https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL) | [The Idea of You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA) | 2:15 |
 | 23 | [I Can Dream About You](https://open.spotify.com/track/37nxLdGbmgEYQYrqe14xOp) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Streets Of Fire](https://open.spotify.com/album/1DU5fmQDMYfS6g1tntqKdK) | 4:09 |

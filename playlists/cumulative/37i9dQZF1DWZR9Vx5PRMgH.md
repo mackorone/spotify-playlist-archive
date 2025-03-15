@@ -4,7 +4,7 @@
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-40 songs - 1 day 21 hr 2 min
+40 songs - 1 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [EP.97 I PODER](https://open.spotify.com/episode/5CyFsznHFlTA2noIWeipki) | [Radio Manguito Chupado](https://open.spotify.com/show/0ee0ftasL4PCGv8EJzHAEh) | [Radio Manguito Chupado](https://open.spotify.com/album/0ee0ftasL4PCGv8EJzHAEh) | 1:16:54 | 2024-03-07 | 2025-03-11 |
 | [Episodio 44 \- Cosas que te daban pena de tu ex y nunca le dijiste](https://open.spotify.com/episode/0sKXyJcnCLaYwIGdp2Jj4Q) | [Las Damitas Histeria](https://open.spotify.com/show/0ob7mZuMUpwT0tMHMLXfoc) | [Las Damitas Histeria](https://open.spotify.com/album/0ob7mZuMUpwT0tMHMLXfoc) | 57:40 | 2024-03-07 | 2025-03-11 |
 | [Espacio seguro: Hablar de tabúes \| Eva y Diana, de Calladitas No](https://open.spotify.com/episode/22wlKcaYBImnBtlUftsRO3) | [SASKIA](https://open.spotify.com/show/1HiQLRMeAieigFscUqEg4y) | [SASKIA](https://open.spotify.com/album/1HiQLRMeAieigFscUqEg4y) | 42:09 | 2025-03-11 |  |
-| [FEMINISMO 30 \- T3](https://open.spotify.com/episode/7jvWztfJDco81LelqFpWwH) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 3:46:05 | 2025-03-11 |  |
+| [FEMINISMO 30 \- T3](https://open.spotify.com/episode/7jvWztfJDco81LelqFpWwH) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 3:50:43 | 2025-03-11 |  |
 | [La Amistad l Las Alucines l 01x32](https://open.spotify.com/episode/09A65oSB87KBxo7MhMba1t) | [Las Alucines](https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia) | [Las Alucines](https://open.spotify.com/album/5kopp3hL0uRgLZUh7nOvia) | 1:09:33 | 2025-03-11 |  |
 | [Los mejores consejos a mis 20's.](https://open.spotify.com/episode/2tkzxjNZqsLW21WVw4bLls) | [SIN FILTRO PODCAST](https://open.spotify.com/show/58KeGycCHLpvwHZM2yAhXL) | [SIN FILTRO PODCAST](https://open.spotify.com/album/58KeGycCHLpvwHZM2yAhXL) | 34:58 | 2025-03-11 |  |
 | [Mamitis Viajera 😐✈️ @EvaMariaBeristain \#chisme](https://open.spotify.com/episode/2LiUvlwAzyzqy4KNw4s3mf) | [Noche De Chicxs](https://open.spotify.com/show/06X9VZLwWLBNiHS0sbdmmt) | [Noche De Chicxs](https://open.spotify.com/album/06X9VZLwWLBNiHS0sbdmmt) | 1:26:34 | 2024-03-07 | 2025-03-11 |

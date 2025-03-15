@@ -1,13 +1,41 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62883,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Avanirabekittu",
+  "num_followers": 62888,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9FhOQAAAADCxcwcrnYfdj6BQhx67tEt",
+  "snapshot_id": "Z9QU5QAAAACfkQQ0CiLsLXFfP2MJ4rcH",
   "tracks": [
+    {
+      "added_at": "2025-03-14 11:32:40",
+      "album": {
+        "name": "Oho Hrudaya (From \"Avanirabekittu\")",
+        "url": "https://open.spotify.com/album/2coEtfZvQlauDl5cP7K8t1"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        },
+        {
+          "name": "Loki Tavasya",
+          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
+        },
+        {
+          "name": "Arun Prasad",
+          "url": "https://open.spotify.com/artist/7bzCufwHvwgrogzheVOxVf"
+        }
+      ],
+      "duration_ms": 280291,
+      "name": "Oho Hrudaya (From \"Avanirabekittu\")",
+      "url": "https://open.spotify.com/track/6G1WsITUBKOQcRtUAaGLlk"
+    },
     {
       "added_at": "2025-03-07 10:52:25",
       "album": {
@@ -1771,30 +1799,6 @@
       "duration_ms": 158821,
       "name": "I Got This Feeling (from \"Bhuvanam Gaganam\")",
       "url": "https://open.spotify.com/track/4VwSw48NRn8HCcuEm8pNHW"
-    },
-    {
-      "added_at": "2025-01-10 14:24:15",
-      "album": {
-        "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
-        "url": "https://open.spotify.com/album/2YIyypibyOKMRObUOws0qk"
-      },
-      "artists": [
-        {
-          "name": "Sangeetha Ravindranath",
-          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "V Sridhar Sambhram",
-          "url": "https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC"
-        }
-      ],
-      "duration_ms": 292802,
-      "name": "Nadi Nadi Endu (from \"Sanju Weds Geetha 2\")",
-      "url": "https://open.spotify.com/track/5pDR4N3CDBvmc0N50DJu37"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,223 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,313 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 40 | [Schizophrenic Playboy](https://open.spotify.com/track/6FdVdYNgEbbWbtIyQh8fPL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:39 |
 | 41 | [Electric Blue](https://open.spotify.com/track/2ZlWxTsv7PE6jGmEYB7s2E) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:50 |
 | 42 | [Warchild](https://open.spotify.com/track/5vqHVUhEjHGnZBvfxedBZ8) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 3:50 |
-| 43 | [Lost](https://open.spotify.com/track/67nd9sZy5rtbitv090ii8I) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:59 |
+| 43 | [The Pressure](https://open.spotify.com/track/5w12AU1s2jwXFYL7jSImwR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:21 |
 | 44 | [Never Grow Old](https://open.spotify.com/track/4LdpVdSxtwWQRe7OYnGM66) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 2:36 |
 | 45 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
 | 46 | [Intermission](https://open.spotify.com/track/6moSWwDJWpp7fs8Cta3hNi) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 2:02 |
-| 47 | [The Pressure](https://open.spotify.com/track/5w12AU1s2jwXFYL7jSImwR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:21 |
+| 47 | [Lost](https://open.spotify.com/track/67nd9sZy5rtbitv090ii8I) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:59 |
 | 48 | [Joe](https://open.spotify.com/track/6nk3R7cleqa2VFElieypE7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:21 |
 | 49 | [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 |
 | 50 | [The Picture I View](https://open.spotify.com/track/26Rt4eNpAr0vbprklNLkvs) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 2:29 |
 
-Snapshot ID: `Z9DOgAAAAAANWddp5lsfqY0kYRBebKjV`
+Snapshot ID: `Z9IgAAAAAACIwsOwtNco7g2ZYxPP1sSH`

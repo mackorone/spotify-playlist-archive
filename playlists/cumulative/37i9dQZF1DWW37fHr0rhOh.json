@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "99 1/2",
+        "url": "https://open.spotify.com/album/6QhWm79DHnttk6QX3HtlU2"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162567,
+      "name": "99 1/2 - Studio Version",
+      "url": "https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/42GHe8e1CSejCeQTiOapK0"
       },
@@ -254,6 +272,24 @@
       "duration_ms": 255573,
       "name": "Celebrate Me Home",
       "url": "https://open.spotify.com/track/0LH08OJwwPnBIHO74jh1yK"
+    },
+    {
+      "album": {
+        "name": "Reminiscin\u2019",
+        "url": "https://open.spotify.com/album/0yS5SaMHtdIvTvIhyvXiRy"
+      },
+      "artists": [
+        {
+          "name": "Scotty Inman",
+          "url": "https://open.spotify.com/artist/3pWCPKVckgJonKRHNkGY2o"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213093,
+      "name": "Chain Breaker",
+      "url": "https://open.spotify.com/track/6BmXsWfOzXzA8SRottZ1WY"
     },
     {
       "album": {
@@ -709,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Grandkids",
+        "url": "https://open.spotify.com/album/4yLGw4ybuPuYuCzcmwIs2M"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206368,
+      "name": "Grandkids",
+      "url": "https://open.spotify.com/track/0r8Mgtm7VZOUTnqc6mmjDO"
+    },
+    {
+      "album": {
         "name": "Grateful for the Gospel",
         "url": "https://open.spotify.com/album/1cfGHnbdJeMVlTvVMylv19"
       },
@@ -1038,7 +1092,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 218000,
       "name": "I Want to Live Like Jesus",
       "url": "https://open.spotify.com/track/3l9JyJD74ogvMZkHNqLscS"
@@ -1295,6 +1349,32 @@
     },
     {
       "album": {
+        "name": "Jesus, Hold My Hand (Live)",
+        "url": "https://open.spotify.com/album/3UkB8Yx0DtLbnZ8F9ybqB1"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Joyce Sanders",
+          "url": "https://open.spotify.com/artist/1D3R41EGIc4qegBNFDnk2Q"
+        },
+        {
+          "name": "Levi Mills",
+          "url": "https://open.spotify.com/artist/3dkd07sJUOfgp4UDx97sti"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290560,
+      "name": "Jesus, Hold My Hand - Live",
+      "url": "https://open.spotify.com/track/1h4nOqucaHB1MCnjPagfyi"
+    },
+    {
+      "album": {
         "name": "Life Is Good",
         "url": "https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC"
       },
@@ -1425,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Pilgrim Road",
+        "url": "https://open.spotify.com/album/57J9rl5Hbbx8nx66SJJqNP"
+      },
+      "artists": [
+        {
+          "name": "Jason Lovins Band",
+          "url": "https://open.spotify.com/artist/38n3omATr1ZFarrxQIjMZ0"
+        },
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "Life's Railway To Heaven",
+      "url": "https://open.spotify.com/track/4JqbliVL5I3q2UCtBRq9Qq"
+    },
+    {
+      "album": {
         "name": "Long, Long Road",
         "url": "https://open.spotify.com/album/29JmmHsEJlnIqV6qcgp6mi"
       },
@@ -1436,7 +1538,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 171671,
       "name": "Long, Long Road",
       "url": "https://open.spotify.com/track/2uM6GTHc8ay9NSwqbl0sQl"
@@ -1560,7 +1662,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 311013,
       "name": "My Name Is Jesus",
       "url": "https://open.spotify.com/track/0tVX8oC2L9NontsGanXunw"
@@ -2734,7 +2836,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 233760,
       "name": "The Old Rugged Cross - Live",
       "url": "https://open.spotify.com/track/2KQrthUDiTwCQJGLlTE9OZ"
@@ -2936,6 +3038,24 @@
       "duration_ms": 217368,
       "name": "Through the Furnace Fire",
       "url": "https://open.spotify.com/track/5ztkQz8pTIDmI6XCfZo0xr"
+    },
+    {
+      "album": {
+        "name": "Gerald Wolfe's Gospel Music Hymn Sing Texas",
+        "url": "https://open.spotify.com/album/2u4Fcqplvo5VLnKf7ZivYb"
+      },
+      "artists": [
+        {
+          "name": "Gerald Wolfe",
+          "url": "https://open.spotify.com/artist/034QMJV19h9J9Ld64LIdB4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "To God Be The Glory",
+      "url": "https://open.spotify.com/track/7KjokT6XN2XP68cNJKTvBK"
     },
     {
       "album": {
@@ -3202,7 +3322,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 246733,
       "name": "Where Could I Go",
       "url": "https://open.spotify.com/track/2WO6Q2LL4KBsYl2ZjQZwmA"
@@ -3292,7 +3412,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 186262,
       "name": "You'll Find Him There - Live",
       "url": "https://open.spotify.com/track/75kw62TR6z5CEfynWUbBO3"

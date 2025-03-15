@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Alors",
+        "url": "https://open.spotify.com/album/6C9rA3Yx6GbhdAWdINaDEo"
+      },
+      "artists": [
+        {
+          "name": "Mason Vaird",
+          "url": "https://open.spotify.com/artist/6MjAU2urWs1cRz47tpjhsg"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160530,
+      "name": "Alors",
+      "url": "https://open.spotify.com/track/7vdWRhAZT349WXagaI9hKG"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },

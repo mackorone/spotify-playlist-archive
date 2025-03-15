@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "AL100",
+        "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "AL100",
+      "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
+    },
+    {
+      "album": {
         "name": "Alabar\u00e9",
         "url": "https://open.spotify.com/album/12aSgasx2xbjTNcQKI6u0C"
       },
@@ -5801,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "Firme Estar\u00e9",
+        "url": "https://open.spotify.com/album/5gqIKec9mokkyo0BnAS84K"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197795,
+      "name": "Firme Estar\u00e9",
+      "url": "https://open.spotify.com/track/36lZVNSwdQl2m2LcVF7SPj"
+    },
+    {
+      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -9398,7 +9434,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 200760,
       "name": "Nada Me Falta",
       "url": "https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND"
@@ -13976,7 +14012,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 141875,
       "name": "tu versi\u00f3n",
       "url": "https://open.spotify.com/track/7ycbXuqeHFzry9nEzDFW1X"

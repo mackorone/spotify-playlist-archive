@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Rich Brian, Chappell Roan, Lizzo hingga Denny Caknan & Bella Bonita
 
-25,809 songs - 61 day 7 hr 3 min
+25,813 songs - 61 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9532,6 +9532,7 @@
 | [Hostage](https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Hostage](https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh) | 3:09 | 2023-09-28 | 2023-10-06 |
 | [Hostages](https://open.spotify.com/track/15UzNkJygheBhHBqWxFaFv) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Human Contact](https://open.spotify.com/album/7voeS6YSw83Vl36PBca8Rx) | 3:57 | 2020-05-29 | 2020-06-05 |
 | [Hot](https://open.spotify.com/track/5D7w16n1m5IjOvXt0n0UsA) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Hot](https://open.spotify.com/album/6oSm3npMMUM7ijmaIbEiUV) | 3:05 | 2024-03-28 | 2024-04-05 |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 | 2020-07-24 | 2020-07-31 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 | 2022-06-03 |
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-04-16 | 2021-04-23 |
@@ -10767,6 +10768,7 @@
 | [Inhale / Exhale](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 | 2023-03-02 | 2023-03-10 |
 | [Ini Aku](https://open.spotify.com/track/0Fa6KlYjg334RyxuOi5y2x) | [Davina Raja](https://open.spotify.com/artist/6zVCFTCbFoPK5Edi0lSjqs) | [Ini Aku](https://open.spotify.com/album/23PXNn23peADUXxBTP4AZQ) | 3:42 | 2021-02-19 | 2021-02-26 |
 | [Ini Jakarta](https://open.spotify.com/track/7MJ0ZGDlTUbdFKOnnVWPdh) | [SIMALODRA](https://open.spotify.com/artist/2lP3leAVjgokeD8quqctzM) | [Ini Jakarta](https://open.spotify.com/album/4ybzlCBWcvGXk84Emuuaul) | 3:00 | 2023-05-11 | 2023-05-19 |
+| [Ini Panggung Sandiwara](https://open.spotify.com/track/5Myzlwe1UqFUeMMCP5WbUX) | [Sarwendah](https://open.spotify.com/artist/5UBkLLBPICz1UoMehxUN86) | [Ini Panggung Sandiwara](https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83) | 4:00 | 2025-03-14 |  |
 | [Ini Pesta Kita](https://open.spotify.com/track/6bXS0CxHsIpb0uwUTYkmgY) | [Diskopantera](https://open.spotify.com/artist/2q54uzLZU4WBwz63KRqVQD) | [Ini Pesta Kita](https://open.spotify.com/album/50d5lP5LQ8TdTrtM17ycHF) | 3:33 | 2022-06-30 | 2022-07-08 |
 | [INI WAKTUMU](https://open.spotify.com/track/6ZDbnji44C9vAuBSFnQOvR) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [INI WAKTUMU](https://open.spotify.com/album/2Yhj3XXLjonIHZieAMBH0K) | 3:12 | 2021-12-16 | 2021-12-24 |
 | [Inilah Aku](https://open.spotify.com/track/1oIpWiJzhBLBEXEkmjPdvZ) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Inilah Aku](https://open.spotify.com/album/4Yperg2ZMakj5QOvl2aFeQ) | 4:30 | 2024-07-18 | 2024-07-27 |
@@ -15290,6 +15292,7 @@
 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 | 2024-03-14 | 2024-03-22 |
 | [NEVER LOSE MY COOL](https://open.spotify.com/track/4Mq3V7K7rrK7Eiivn1ppXz) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [NEVER LOSE MY COOL](https://open.spotify.com/album/5amnbMSUTOfGns1ExDSw8r) | 2:23 | 2022-03-03 | 2022-03-11 |
 | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again \(with Little Big Town & Bryn Christopher\)](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 | 2021-07-16 | 2021-07-23 |
+| [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-03-14 |  |
 | [Never Meant To Be](https://open.spotify.com/track/0UocunK2321UCMHhrIOHIv) | [Fabian Winandi](https://open.spotify.com/artist/1rCVSCQOOZTnZpRyEV1svR) | [Never Meant To Be](https://open.spotify.com/album/3IafB2I2iwlDbXmwjpgMgN) | 4:08 | 2021-07-30 | 2021-08-06 |
 | [Never Meant To Say Goodbye](https://open.spotify.com/track/7n9TOI23DJz4HQS0yXsKng) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q) | [Never Meant To Say Goodbye](https://open.spotify.com/album/4uIer0x5uXMMQvIyj3bLIc) | 3:37 | 2025-02-27 | 2025-03-07 |
 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 | 2021-08-20 | 2021-08-27 |
@@ -17683,6 +17686,7 @@
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2020-04-03\* | 2020-04-10 |
 | [Q&A](https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Attitude](https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj) | 2:45 | 2024-05-02 | 2024-05-10 |
 | [Q4 2021](https://open.spotify.com/track/79D65rcy9rMZrdzeqBSmpS) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [Q4 2021](https://open.spotify.com/album/5JzvzeiOKo5UUZhMHpbHsK) | 3:31 | 2023-08-24 | 2023-09-01 |
+| [Qalbi Fil Madinah](https://open.spotify.com/track/2A60yUGLjnvwvoCYDyAk8Y) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz), [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Qalbi Fil Madinah](https://open.spotify.com/album/36bGiADRQ7jBGthPyPU1Ly) | 3:24 | 2025-03-14 |  |
 | [Qalbi Sajad](https://open.spotify.com/track/7udKjFI38WrO8rYCck9M2c) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Qalbi Sajad](https://open.spotify.com/album/3oJufaEt9Pj2xeiLKrJh7L) | 2:10 | 2021-04-16 | 2021-04-23 |
 | [Qomarun](https://open.spotify.com/track/0AHHs20rYHypGiqwTK7GjP) | [Adam](https://open.spotify.com/artist/6JRZmFTvQOz8l27UWqXqVI) | [Qomarun](https://open.spotify.com/album/0Fxuo7VgNGWedYY81VV5y9) | 3:59 | 2023-04-06 | 2023-04-14 |
 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 | 2025-01-16 | 2025-01-24 |

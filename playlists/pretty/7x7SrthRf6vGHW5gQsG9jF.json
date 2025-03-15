@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAE3kU3TxwxKGL9fwdId2wLMfwSgkuN",
+  "snapshot_id": "AAAE4T3cX53/+18nI30ct7mFvxsJ1KeT",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -12965,22 +12965,6 @@
       "url": "https://open.spotify.com/track/3KGEpXJSh6AXqWss9qtDCH"
     },
     {
-      "added_at": "2024-10-20 15:14:02",
-      "album": {
-        "name": "RUNNERS HIGH",
-        "url": "https://open.spotify.com/album/52RTbexAYvH5oARKbRTADT"
-      },
-      "artists": [
-        {
-          "name": "the pillows",
-          "url": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Bran-new Lovesong",
-      "url": "https://open.spotify.com/track/6SQiLmmhxnwOeij2AcF9JE"
-    },
-    {
       "added_at": "2024-10-20 15:15:46",
       "album": {
         "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
@@ -13987,6 +13971,38 @@
       "duration_ms": 108424,
       "name": "Blue Youth",
       "url": "https://open.spotify.com/track/04zTPJMXog2HpYK2mK5Wdg"
+    },
+    {
+      "added_at": "2025-03-14 06:37:45",
+      "album": {
+        "name": "\u7518\u3044\u8ffd\u61b6",
+        "url": "https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30a4\u30ca\u30b9\u30b8\u30b8\u30e7\u30a6",
+          "url": "https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU"
+        }
+      ],
+      "duration_ms": 122314,
+      "name": "\u7b11\u3063\u3061\u3083\u3063\u305f\u3088\u306a",
+      "url": "https://open.spotify.com/track/3YzhRJ1uDu6w7Ey5JyHbB1"
+    },
+    {
+      "added_at": "2025-03-14 06:39:48",
+      "album": {
+        "name": "\u7518\u3044\u8ffd\u61b6",
+        "url": "https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30a4\u30ca\u30b9\u30b8\u30b8\u30e7\u30a6",
+          "url": "https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU"
+        }
+      ],
+      "duration_ms": 287333,
+      "name": "\u7518\u3044\u8ffd\u61b6",
+      "url": "https://open.spotify.com/track/3VIdcoIXRJfvpj2g9NfMgI"
     }
   ],
   "unique_name": "japan",

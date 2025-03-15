@@ -1,13 +1,45 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 231165,
+  "num_followers": 231259,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIYQAAAABs1mOWMm3NzHBzh1/eUSmM",
+  "snapshot_id": "Z9OpxgAAAAAGCEopl2as27jdly6qPB7x",
   "tracks": [
+    {
+      "added_at": "2025-03-14 04:00:06",
+      "album": {
+        "name": "Snake In The Tall Grass",
+        "url": "https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4"
+      },
+      "artists": [
+        {
+          "name": "Leilani Kilgore",
+          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
+        }
+      ],
+      "duration_ms": 262040,
+      "name": "Snake In The Tall Grass",
+      "url": "https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj"
+    },
+    {
+      "added_at": "2025-03-14 04:00:06",
+      "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/59kaQqnsanvIhkcIAehVLz"
+      },
+      "artists": [
+        {
+          "name": "Cardinal Black",
+          "url": "https://open.spotify.com/artist/39oKFGoKzTEZlc8PMP7kQ3"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Keep On Running",
+      "url": "https://open.spotify.com/track/0sh3WNOdK56aUd7uUR8qTk"
+    },
     {
       "added_at": "2025-02-14 05:00:14",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
     },
     {
-      "added_at": "2025-02-14 05:00:14",
+      "added_at": "2025-03-14 04:00:06",
       "album": {
-        "name": "Feeling Lucky",
-        "url": "https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW"
+        "name": "Praise the Loud",
+        "url": "https://open.spotify.com/album/1lJmntiizHQcAyQi3y4bfW"
       },
       "artists": [
         {
-          "name": "Leilani Kilgore",
-          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
+          "name": "Anthony Gomes",
+          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
         }
       ],
-      "duration_ms": 352723,
-      "name": "Feeling Lucky",
-      "url": "https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE"
+      "duration_ms": 212565,
+      "name": "Praise the Loud",
+      "url": "https://open.spotify.com/track/3lrqVA7TJpBWHruDdOQ9B0"
     },
     {
       "added_at": "2025-02-21 05:00:17",
@@ -167,6 +199,22 @@
       "duration_ms": 187317,
       "name": "If Not Soon",
       "url": "https://open.spotify.com/track/0V108MMvdjkutZMDt7TGbj"
+    },
+    {
+      "added_at": "2025-03-14 04:00:06",
+      "album": {
+        "name": "Money & Power",
+        "url": "https://open.spotify.com/album/6HhtRhsp1XMCRLC47Apt3g"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Money & Power",
+      "url": "https://open.spotify.com/track/342MY1NGS4rEYyXidPkzMN"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1055,22 +1103,6 @@
       "duration_ms": 276560,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Painted Horse",
-        "url": "https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz"
-      },
-      "artists": [
-        {
-          "name": "Anthony Gomes",
-          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
-        }
-      ],
-      "duration_ms": 225309,
-      "name": "Painted Horse",
-      "url": "https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -2125,22 +2157,6 @@
       "url": "https://open.spotify.com/track/5q6lNs2xlM8OTcM9ipZ46M"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
       "added_at": "2023-02-03 05:01:00",
       "album": {
         "name": "Get Your Head Right",
@@ -2383,22 +2399,6 @@
       "duration_ms": 132416,
       "name": "Westbound",
       "url": "https://open.spotify.com/track/5UJTAeX6bJC9lKi7kgLI6y"
-    },
-    {
-      "added_at": "2021-04-09 04:00:00",
-      "album": {
-        "name": "What Goes Up",
-        "url": "https://open.spotify.com/album/2CUVm4jQuudZXEb8Sm6Hbw"
-      },
-      "artists": [
-        {
-          "name": "8 Ball Aitken",
-          "url": "https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78"
-        }
-      ],
-      "duration_ms": 173520,
-      "name": "What Goes Up",
-      "url": "https://open.spotify.com/track/684zvrg5lfmqyu13C1eUlX"
     },
     {
       "added_at": "2022-04-08 04:01:00",

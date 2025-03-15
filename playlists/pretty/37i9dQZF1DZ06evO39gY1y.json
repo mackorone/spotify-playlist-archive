@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 238816,
+  "num_followers": 238861,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABKb04Eo5koXHrkYGfgazTU",
+  "snapshot_id": "Z9IgAAAAAABUWQuXPCsKh1HyBOgFeSwG",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -759,6 +739,42 @@
       "duration_ms": 209737,
       "name": "Ma\u00f1ana Vas a Estar Ausente",
       "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
+      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
-      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Pachamama / \"Bendecido\"",
+      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Pachamama / \"Bendecido\"",
-      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
     },
     {
       "added_at": null,
@@ -987,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 280487,
+      "name": "Vamos a Dar el Roll",
+      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LDCR: Los Del Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
       },
@@ -1011,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 280487,
-      "name": "Vamos a Dar el Roll",
-      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tiempo Cura",
         "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
       },
@@ -1051,8 +1051,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Toca Perder",
-        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
       },
       "artists": [
         {
@@ -1060,17 +1060,13 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
+      "duration_ms": 256000,
+      "name": "Mar\u00eda / \"Aroma de Jard\u00edn\"",
+      "url": "https://open.spotify.com/track/4EpisBsyznGvegvu1luper"
     }
   ],
   "unique_name": "This Is Charles Ans",

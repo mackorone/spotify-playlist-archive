@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\.  Los Esquivel & Masiak.
 
-3,620 songs - 8 day 17 hr 28 min
+3,621 songs - 8 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 | 2024-06-08 |
 | [Amantes de Ocasión](https://open.spotify.com/track/2HROPUfY8zsRPv8Q9x95Cw) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Amantes de Ocasión](https://open.spotify.com/album/6joYxv2cst3n7ZXp33nSaq) | 3:08 | 2023-04-21 | 2023-04-29 |
 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 | 2023-11-10 | 2023-11-25 |
+| [Amar a Dos](https://open.spotify.com/track/70lmdbI0oHGj6De7aEqG7o) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Amar a Dos](https://open.spotify.com/album/7m4pjc27JQbTHLoO30agYh) | 3:29 | 2025-03-14 |  |
 | [Amar Es Sufrir](https://open.spotify.com/track/6S8HEh2ChSiWpE1xMhpxLn) | [La Clase Loka](https://open.spotify.com/artist/22nSnChdvEoslVuyfY2pHf) | [Amar Es Sufrir](https://open.spotify.com/album/6JWbQsyKdxLTDIJvWxf0bQ) | 3:46 | 2023-07-14 | 2023-07-22 |
 | [Amar Pa Qué](https://open.spotify.com/track/0mCN53q934Szh0n2NGiemj) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [La Despedida \(Parte B\)](https://open.spotify.com/album/5mhTIQ7HlxyVJ4L2BSxvNP) | 2:16 | 2023-05-05 | 2023-05-20 |
 | [Amargura](https://open.spotify.com/track/282qnxyOoSWk4N2mAMACqa) | [La Pambelé](https://open.spotify.com/artist/0CRVq33mNJl6sTcWvH6WzV) | [Amargura](https://open.spotify.com/album/33CiDlGE4JcKhrEOEcUmxc) | 5:16 | 2024-03-15 | 2024-03-23 |

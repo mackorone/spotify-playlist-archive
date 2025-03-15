@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-150 songs - 8 hr 4 min
+152 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Outback \(Extended Remix\)](https://open.spotify.com/track/5ycmDZVfvCFRIwALkTFwbb) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Durwood Black](https://open.spotify.com/artist/4MUvRyLfPPLd35bnFTUjDz), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [D\. Thrash](https://open.spotify.com/artist/0xZDRONxKQoyG5S2HTbjj5), [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Blacked Out](https://open.spotify.com/album/4F2ntJClTmxq4oP82MuMV2) | 8:09 | 2023-03-17 |  |
 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/7JQgMt8a20UkwAHoYa1Ex4) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [My Way](https://open.spotify.com/album/42rGSwtLPemPlWDWNWLKym) | 2:02 | 2023-03-17 |  |
 | [PBR Nights](https://open.spotify.com/track/5hqKbCoRAq5ymoB7NNpUDM) | [SirLockeHolmes](https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev) | [PBR Nights](https://open.spotify.com/album/6k1Cl6ZgSUsLROWqFskfYX) | 2:49 | 2024-09-06 |  |
+| [Pedal to Metal 2.0](https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT) | [Tyler Pigg](https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Pedal to Metal 2.0](https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v) | 2:57 | 2025-03-14 |  |
 | [Pick Up](https://open.spotify.com/track/2lNRmLIgGeLvXbG2Pb1uss) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Kori Spires](https://open.spotify.com/artist/6avl0QvhBIoRg4lbJJtw39) | [Pick Up](https://open.spotify.com/album/1mmL1c08dZxlB7SJRX0f8D) | 3:33 | 2023-03-17 |  |
 | [PROBLEM SOLVER \(feat\. Boosie Badazz\)](https://open.spotify.com/track/1B2BxeaI10RhzDwfJvbV7k) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [PROBLEM SOLVER \(feat\. Boosie Badazz\)](https://open.spotify.com/album/6pVcnrOSDmOgABZvzKOfxC) | 2:36 | 2023-08-18 |  |
 | [Raised On It](https://open.spotify.com/track/5A9yQ6iMNyWomSolE0Txme) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1), [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [Raised On It](https://open.spotify.com/album/5cege1fUUvELehDKVy8kF3) | 3:02 | 2023-03-17 |  |
@@ -157,6 +158,7 @@
 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 | 2023-03-17 | 2023-08-21 |
 | [Workin' \(feat\. Alexander King\)](https://open.spotify.com/track/4fkUsaC0dJfHp5N1kIrZlr) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 3:34 | 2023-03-17 |  |
 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 | 2023-03-17 |  |
+| [Wrangler \- Remix](https://open.spotify.com/track/1XdaU4K4ApkyxnAKHSjOYW) | [Austin Martin](https://open.spotify.com/artist/0qfbt2YTNKE9CUK86om6ci), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [JD Walker](https://open.spotify.com/artist/1nMKpxQJwB2XLxJBOQ1yZ1) | [Wrangler \- Remix](https://open.spotify.com/album/0DxgiN80IruX8Po6SZwtfp) | 2:45 | 2025-03-14 |  |
 | [You and Me](https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Ghetto Cowboy](https://open.spotify.com/album/2dTnaecImWLJOMrJgF5HAt) | 4:02 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-810 songs - 2 day 8 hr 26 min
+811 songs - 2 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Back On the Strip](https://open.spotify.com/track/70L68SZMPhmOAZnfymArW3) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:19 | 2022-09-23 | 2022-10-22 |
 | [Bad Girls](https://open.spotify.com/track/1bYpricJVlO7D6kmjf8Whf) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/6jeJZLPCFkSP0FbmC0X5CM) | 2:35 | 2023-05-26 | 2024-04-19 |
 | [Bad Girls](https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv) | 2:35 | 2023-05-26 | 2024-10-12 |
-| [Baubles, Bangles and Beads](https://open.spotify.com/track/7dt9M8v0wtxdyUDlnqgyNX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Baubles, Bangles and Beads](https://open.spotify.com/album/4JWLquxM9QXW72eK3NniiX) | 4:38 | 2024-05-24 |  |
+| [Baubles, Bangles and Beads](https://open.spotify.com/track/7dt9M8v0wtxdyUDlnqgyNX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Baubles, Bangles and Beads](https://open.spotify.com/album/4JWLquxM9QXW72eK3NniiX) | 4:38 | 2024-05-24 | 2025-03-15 |
 | [Be My Baby](https://open.spotify.com/track/2BocrpGhXJEWczeLLTkCye) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Ruben Bellavia](https://open.spotify.com/artist/5fEAUzX6cJMmG6m3aOm8G6) | [The Doo \- Wop Era's Greatest Hits](https://open.spotify.com/album/3fx53KkF24NSLpftZ94iai) | 3:54 | 2022-07-29 | 2023-09-09 |
 | [Be My Valentine](https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Be My Valentine](https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV) | 3:36 | 2022-02-18 | 2023-02-25 |
 | [Be Still My Heart](https://open.spotify.com/track/1VUNJqbGvsZKQEEx0lVVFH) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Lene Riebau](https://open.spotify.com/artist/22tKbWCOHQ8QnAD0SxN1Tw) | [Be Still My Heart](https://open.spotify.com/album/6p3iBqJ0owxMFKGsN0ytN4) | 3:26 | 2022-04-22 | 2023-02-25 |
@@ -538,6 +538,7 @@
 | [Pennies from Heaven](https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Pennies from Heaven](https://open.spotify.com/album/1i6vhg06WXON1YfBE9gOHj) | 2:58 | 2024-02-16 | 2024-02-24 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-06 | 2023-02-25 |
 | [Petite musique terrienne](https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 2:20 | 2023-03-24 | 2024-10-05 |
+| [Philodendron](https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Philodendron](https://open.spotify.com/album/2kiAk3G0whz02YuAGVnrPz) | 4:45 | 2025-03-14 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Pick Yourself Up](https://open.spotify.com/album/6VMr6sgE1dyMAas9ntv4WB) | 2:14 | 2023-08-18 | 2025-03-01 |
 | [Pick Yourself Up](https://open.spotify.com/track/3pokAtOSCmJ2rRk7WSh6JJ) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Pick Yourself Up](https://open.spotify.com/album/4co8XzsSxMe0uCbhUBNExc) | 3:08 | 2022-06-17 | 2022-07-14 |
 | [Pick Yourself Up](https://open.spotify.com/track/6r2Lg2BMt7X8bvaUYEZZtp) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 3:11 | 2020-10-09 | 2022-02-08 |

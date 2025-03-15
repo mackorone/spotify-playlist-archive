@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-504 songs - 1 day 0 hr 59 min
+506 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Cowboy Cry](https://open.spotify.com/track/7bDf4FJfRCTXPnOqxWu5xG) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cowboy Cry + Me & This Bottle](https://open.spotify.com/album/4U2eiBxJifBFuArPwPWpA0) | 2:11 | 2024-04-05 |  |
 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 | 2022-02-25 |  |
 | [Cowboy Killers](https://open.spotify.com/track/0XFMLzk8atfse4tuOaPAix) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cowboy Killers](https://open.spotify.com/album/4SNStEKa4ZHLKp0n8yzXYA) | 2:55 | 2023-09-15 | 2024-04-06 |
+| [Cowboy Sh!t](https://open.spotify.com/track/0XdNr3otU9OMoo7eUXZctf) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Cowboy Sh!t](https://open.spotify.com/album/71CSM6nLCeSRF1yzXp5Kx2) | 2:35 | 2025-03-14 |  |
 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 | 2023-05-26 | 2024-04-23 |
 | [Cowgirl Ride](https://open.spotify.com/track/5pzYMrIpOtkmsduuLqbdVc) | [Trace Cyrus](https://open.spotify.com/artist/7GA8XEfrwrO84xUe7s3c2j), [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Cowgirl Ride](https://open.spotify.com/album/5ef7hfg0pgl5YlnbF72abQ) | 2:36 | 2024-06-28 |  |
 | [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 | 2023-03-03 |  |
@@ -356,6 +357,7 @@
 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 | 2022-03-18 | 2024-08-03 |
 | [Own It](https://open.spotify.com/track/5dqxl2I4ov00c6bv0cnRwD) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Love Drunk or Lonely](https://open.spotify.com/album/6E0HKo0wDRP97q3cVIn9IN) | 2:45 | 2021-12-10 | 2023-02-02 |
 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 | 2021-12-10 | 2022-05-20 |
+| [Pedal to Metal 2.0](https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT) | [Tyler Pigg](https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Pedal to Metal 2.0](https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v) | 2:57 | 2025-03-14 |  |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-10-01 |  |
 | [PLACE TO FISH](https://open.spotify.com/track/0fbCT3Cc6ZpNFSEuSCC8UH) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [PLACE TO FISH](https://open.spotify.com/album/5Rl04hPoqgmnNyNFrvm4VR) | 2:15 | 2024-01-19 |  |
 | [Plain Jane](https://open.spotify.com/track/6aoT8a5ra1r6vCsbrdHfsW) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 3:00 | 2021-12-10 | 2022-09-24 |

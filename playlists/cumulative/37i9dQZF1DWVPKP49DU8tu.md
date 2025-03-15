@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-408 songs - 23 hr 51 min
+409 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-09-21 | 2024-01-31 |
 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 | 2022-05-05 | 2022-07-28 |
 | [Fiamme negli occhi](https://open.spotify.com/track/60nw7bwqYjVsrccNjF6TMO) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Nostralgia](https://open.spotify.com/album/4PVi4qfN8fUIdE6sZXXQ0b) | 3:26 | 2022-05-05 | 2022-07-29 |
+| [Finché Non Mi Seppelliscono](https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:48 | 2025-03-10 |  |
 | [Fino a qui](https://open.spotify.com/track/37WCMrX9XnmmPCMY0aqZjo) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Fino a qui](https://open.spotify.com/album/0d5uLpu4Tkh54AjZgztd7L) | 3:52 | 2024-03-27 | 2024-05-23 |
 | [Fino all'imbrunire](https://open.spotify.com/track/6CpNFssMc4OOKJ1mXlXD0o) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore che torni](https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc) | 4:13 | 2022-05-05 | 2022-06-15 |
 | [Fiori di Chernobyl](https://open.spotify.com/track/54PxYcGpSUCmlpGdFGTaYR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Fiori di Chernobyl](https://open.spotify.com/album/2YqJPEAO5DFRRjNug1lwW4) | 2:55 | 2022-05-05 | 2022-07-29 |
@@ -264,7 +265,7 @@
 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 | 2022-09-21 |  |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-09-21 | 2024-04-19 |
 | [New York](https://open.spotify.com/track/62JaE4DaiODjNO7ZKXDFqD) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [New York](https://open.spotify.com/album/0lybFkZIRrMUEa3UyPTjsy) | 3:39 | 2022-05-05 | 2022-07-23 |
-| [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 | 2022-05-05 |  |
+| [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 | 2022-05-05 | 2025-03-15 |
 | [Non litighiamo più](https://open.spotify.com/track/5vHWd8yLGCxb8s9RaThO9w) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Non litighiamo più](https://open.spotify.com/album/3ARAg9P6I7BCuwRy0UJKos) | 3:00 | 2023-06-09 | 2024-09-11 |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 | 2022-05-05 | 2023-06-10 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2022-09-21 | 2024-04-19 |

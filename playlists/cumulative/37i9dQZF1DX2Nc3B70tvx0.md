@@ -4,7 +4,7 @@
 
 > The best of right now\. Cover: SAYA GRAY
 
-2,677 songs - 6 day 17 hr 31 min
+2,679 songs - 6 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,6 +1176,7 @@
 | [If I Don’t Hear From You Tonight](https://open.spotify.com/track/661gsg4lHFXpeOGA6SUHNu) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [If I Don't Hear From You Tonight](https://open.spotify.com/album/2hgcgaZZ4dEZfIdq6X02pa) | 3:37 | 2021-11-19 | 2022-01-21 |
 | [If I Were You](https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [If I Were You](https://open.spotify.com/album/0IO9FwH0QyryujvzhLQeYT) | 2:51 | 2019-05-26\* | 2019-08-13 |
 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-09-15 | 2022-01-28 |
+| [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 |  |
 | [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 | 2025-02-14 |  |
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-11 | 2025-01-16 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2021-09-02 | 2022-01-26 |
@@ -1923,6 +1924,7 @@
 | [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-06-30 | 2023-10-07 |
 | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-11 | 2023-07-01 |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-08-07 | 2021-03-06 |
+| [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 |  |
 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-06-02 | 2023-07-01 |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 | 2023-11-25 |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-02-08 | 2023-02-14 |

@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-735 songs - 1 day 12 hr 38 min
+736 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,7 @@
 | [Paint The Sky](https://open.spotify.com/track/3XgWaKRwflgCOHwXZ6s9Vg) | [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Paint The Sky](https://open.spotify.com/album/2Ott6rZSeLCC7yqxABtVsF) | 2:42 | 2022-03-25 | 2022-04-17 |
 | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe) | 3:52 | 2022-03-25 | 2022-04-08 |
 | [Paradise \- Topic Remix](https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Paradise \(Topic Remix\)](https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F) | 2:53 | 2021-12-17 | 2022-04-21 |
-| [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-03 |  |
+| [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-03 | 2025-03-15 |
 | [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-04-08 | 2022-04-10 |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/7xerYbkUGD5BazNdP6OaZW) | 3:23 | 2022-03-25 | 2022-05-28 |
 | [People \(with The Knocks\)](https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:44 | 2022-03-25 | 2022-04-20 |
@@ -515,6 +515,7 @@
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-11 |  |
 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2024-11-26 | 2025-02-08 |
 | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd) | 3:59 | 2022-03-25 | 2022-04-21 |
+| [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-07 |  |
 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 | 2023-01-13 | 2023-06-27 |
 | [Rain \(Idris Elba Edit\)](https://open.spotify.com/track/7zTnfiIlfE8qUtXp9lSH97) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Rain \(Idris Elba Edit\)](https://open.spotify.com/album/3WHV6xgHLbBCJ9iDdP7V1W) | 3:28 | 2022-04-01 | 2022-04-07 |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 | 2022-03-25 | 2022-12-30 |

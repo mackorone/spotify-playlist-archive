@@ -282,7 +282,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
@@ -1208,6 +1208,24 @@
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "album": {

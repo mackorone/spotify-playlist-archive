@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 32165,
+  "num_followers": 32175,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "La ragazza dalla pelle di luna",
-        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 175047,
-      "name": "Stella del sud",
-      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 244632,
       "name": "Zenzero e cannella",
       "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "La ragazza dalla pelle di luna",
+        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 175047,
+      "name": "Stella del sud",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -931,30 +931,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "MADRE",
-        "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
-      },
-      "artists": [
-        {
-          "name": "Go Dugong",
-          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
-        },
-        {
-          "name": "Wash\u00e9",
-          "url": "https://open.spotify.com/artist/5hCgBxDEYftmg8mjEDrvtX"
-        },
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
-      "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "MADRE",
+        "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
+      },
+      "artists": [
+        {
+          "name": "Go Dugong",
+          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
+        },
+        {
+          "name": "Wash\u00e9",
+          "url": "https://open.spotify.com/artist/5hCgBxDEYftmg8mjEDrvtX"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
+      "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Chiara Civello 7752",
-        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Resta",
-      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 165573,
       "name": "Giuramento (feat. Gabriele Mirabassi)",
       "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Chiara Civello 7752",
+        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Resta",
+      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Ma Gnossienne",
         "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Something In Our Way",
         "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 336666,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1743,6 +1743,22 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Ten Stops",
         "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
       },
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Kuni",
-        "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
-      },
-      "artists": [
-        {
-          "name": "LNDFK",
-          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
-        },
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "How Do We Know We're Alive",
-      "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
       },
@@ -1895,26 +1875,6 @@
       "duration_ms": 146618,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "Meridies",
-        "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
-      },
-      "artists": [
-        {
-          "name": "Go Dugong",
-          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
-        },
-        {
-          "name": "Mai Mai Mai",
-          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
-        }
-      ],
-      "duration_ms": 242645,
-      "name": "Randagio",
-      "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1939,18 +1899,42 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+        "name": "Kuni",
+        "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
       },
       "artists": [
         {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
         }
       ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
+      "duration_ms": 231426,
+      "name": "How Do We Know We're Alive",
+      "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Meridies",
+        "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
+      },
+      "artists": [
+        {
+          "name": "Go Dugong",
+          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
+        },
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        }
+      ],
+      "duration_ms": 242645,
+      "name": "Randagio",
+      "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1975,6 +1959,22 @@
       "duration_ms": 291080,
       "name": "Frevo",
       "url": "https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+      },
+      "artists": [
+        {
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+        }
+      ],
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2025-02-25 09:38:29",

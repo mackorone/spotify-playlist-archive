@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Debut & Despedida",
+        "url": "https://open.spotify.com/album/4fg9KlWMV1Y2M88eLuZuxW"
+      },
+      "artists": [
+        {
+          "name": "DINDI JANE",
+          "url": "https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Alcohol, alcohol",
+      "url": "https://open.spotify.com/track/0vhkpPpWnFP2p9d6uSxNim"
+    },
+    {
+      "album": {
         "name": "Misiva",
         "url": "https://open.spotify.com/album/1RgRGtuZgoIXvzzUwEI31D"
       },

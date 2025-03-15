@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 
 > Music from "Solo Leveling"! /アニメ「俺だけレベルアップな件」の世界を彩る楽曲をプレイリストで。©Solo Leveling Animation Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,090 likes - 27 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,183 likes - 27 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

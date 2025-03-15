@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,089 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,088 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TSUNAMI](https://open.spotify.com/track/6BoAJg1rH7KqCg2Cz4dcGp) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [TSUNAMI](https://open.spotify.com/album/4ySQiIqxkmw0VOIbKL0rhS) | 2:54 |
-| 2 | [Yedhola Undhe](https://open.spotify.com/track/612qQo2RvmknnS3p49uwI6) | [Ishaq vali](https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT) | [Yedhola Undhe](https://open.spotify.com/album/72kHAHpKN1BNXGsZG8f4YN) | 3:34 |
+| 2 | [Yedhola Undhe](https://open.spotify.com/track/612qQo2RvmknnS3p49uwI6) | [Ishaq Vali](https://open.spotify.com/artist/4iUNdynZHnS2SvMUtrXCZj) | [Yedhola Undhe](https://open.spotify.com/album/72kHAHpKN1BNXGsZG8f4YN) | 3:34 |
 | 3 | [Naa Kalale](https://open.spotify.com/track/1sxVTlj8Ln0uyvP6P3qGcu) | [Viswadeep](https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el), [Manoj Sharma Kuchi](https://open.spotify.com/artist/1yqtYeEH8idTg0IMexmxw5), [Manasa Seshu](https://open.spotify.com/artist/4WR9RvUFi89qh6mOsvHlOB) | [Naa Kalale](https://open.spotify.com/album/2c5XTZKWHtHujpWmkDCHbn) | 3:05 |
 | 4 | [Prathi Kshanam](https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Prathi Kshanam](https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa) | 2:53 |
 | 5 | [Nidarove Cheliya](https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aditya Yashasvi](https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Nidarove Cheliya](https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt) | 3:10 |

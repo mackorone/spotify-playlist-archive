@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,580 likes - 50 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,597 likes - 50 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 2 | [Raga Nata Bhairav \- Remastered](https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: A Morning Raga / An Evening Raga \(Remastered\)](https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx) | 23:18 |
 | 3 | [Raga khafi](https://open.spotify.com/track/5kTOAXrd7nPiNtbTeiCXXb) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD) | [Inde du Nord \- North India: Season and Time / Les heures et les saisons](https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp) | 6:38 |
 | 4 | [Ab Mori Baat \- Live](https://open.spotify.com/track/0GtOIkzvHqCXgbXoa4Lmq6) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Ab Mori Baat \(Live\)](https://open.spotify.com/album/4iYc0qimMEangahJLGYaNB) | 7:12 |
-| 5 | [Rut Badle](https://open.spotify.com/track/1V16KVo3SNhjsasMgHH7LQ) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Om Bongane](https://open.spotify.com/artist/5CbfjjzYQsnMAIBUBFuL0q) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:16 |
-| 6 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
+| 5 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
+| 6 | [Rut Badle](https://open.spotify.com/track/1V16KVo3SNhjsasMgHH7LQ) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Om Bongane](https://open.spotify.com/artist/5CbfjjzYQsnMAIBUBFuL0q) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:16 |
 | 7 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 |
 | 8 | [Hamri Atariya](https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc) | [Rita Dev](https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E) | [Hamri Atariya](https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg) | 10:36 |
 | 9 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |

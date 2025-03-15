@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Ambient music backed by the atmospheric sounds and elements of nature. ",
+  "description": "Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now. ",
   "name": "Wild Ambience",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 198797,
       "name": "6am Beach Walk",
       "url": "https://open.spotify.com/track/3Dwda5nX2MzWv96FpUMODu"
+    },
+    {
+      "album": {
+        "name": "A Glimpse (Remix)",
+        "url": "https://open.spotify.com/album/2kUPfIaM01G0OhJ28Zs9Nx"
+      },
+      "artists": [
+        {
+          "name": "Yannick Lowack",
+          "url": "https://open.spotify.com/artist/4jKjq3qWxfwNoijxhD57fu"
+        },
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "A Glimpse - Remix",
+      "url": "https://open.spotify.com/track/4SHcNenjJdRUoiISTHv7RN"
     },
     {
       "album": {
@@ -88,7 +110,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192000,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/15uNCnNbAsjLx7oJPw4bIy"
@@ -406,7 +428,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 167500,
       "name": "Believing",
       "url": "https://open.spotify.com/track/2rmqKL7fMADJlqoysQ42xj"
@@ -489,6 +511,46 @@
     },
     {
       "album": {
+        "name": "Gaiaphilia",
+        "url": "https://open.spotify.com/album/06orq0k7Xw5suO7n6pdw0U"
+      },
+      "artists": [
+        {
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
+        },
+        {
+          "name": "Takashi Kokubo",
+          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209767,
+      "name": "Birds of Borneo",
+      "url": "https://open.spotify.com/track/3iVliuNd3fU6o9MQGYNG87"
+    },
+    {
+      "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Birds of Paradise",
+      "url": "https://open.spotify.com/track/5Qm47coZ5Eph0roKaCml85"
+    },
+    {
+      "album": {
         "name": "Winds",
         "url": "https://open.spotify.com/album/0Jdg6XhCRiBbOKwvxnIF5b"
       },
@@ -518,10 +580,28 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 248908,
       "name": "Casa De Los Andes - Ambient Meditation Music",
       "url": "https://open.spotify.com/track/1nVSAdrtSQeV7LgHY7fA8H"
+    },
+    {
+      "album": {
+        "name": "Lovingly: A Soundtrack For The Psychedelic Practitioner, vol. III",
+        "url": "https://open.spotify.com/album/47ZHd9HZpfnJeAiDn0scKk"
+      },
+      "artists": [
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 718939,
+      "name": "Cascade",
+      "url": "https://open.spotify.com/track/50es8sPqxW06mTq1QUbWqr"
     },
     {
       "album": {
@@ -720,7 +800,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 155000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6dmYHCc03JbBrz4aFvRGfb"
@@ -742,6 +822,24 @@
       "duration_ms": 168343,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT"
+    },
+    {
+      "album": {
+        "name": "Dawn Birds",
+        "url": "https://open.spotify.com/album/4WuREe2T9AyU6NdVm2cqd0"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166272,
+      "name": "Dawn Birds",
+      "url": "https://open.spotify.com/track/4lTdrXBSG7Si26QIhYzLrZ"
     },
     {
       "album": {
@@ -1081,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Fluidity",
+        "url": "https://open.spotify.com/album/4xR9MRNqVlCWqSmMp9xOEX"
+      },
+      "artists": [
+        {
+          "name": "formless cascade",
+          "url": "https://open.spotify.com/artist/18tc2zBN94cjKYRDUa5ogZ"
+        },
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Fluidity",
+      "url": "https://open.spotify.com/track/6kLTau4KL6Sy7DUvDZkhgY"
+    },
+    {
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/25M0lmZ3Pm2tZcEaHtHWuF"
       },
@@ -1114,6 +1234,24 @@
       "duration_ms": 241500,
       "name": "For The Summer, Or Forever",
       "url": "https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0"
+    },
+    {
+      "album": {
+        "name": "Forest Chants",
+        "url": "https://open.spotify.com/album/4edbEdAQLiIySgyIQdFrGU"
+      },
+      "artists": [
+        {
+          "name": "Domy Castellano",
+          "url": "https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185441,
+      "name": "Forest Chants",
+      "url": "https://open.spotify.com/track/0Gk5QocXtg1m7i4I501T62"
     },
     {
       "album": {
@@ -1182,7 +1320,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 193978,
       "name": "Forest Trill",
       "url": "https://open.spotify.com/track/2tCtg3M5C1DrtjDK6ohc9K"
@@ -1508,7 +1646,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 234988,
       "name": "Hiking With Friends",
       "url": "https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53"
@@ -1678,7 +1816,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 160615,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7pzRLdm6APmgaCPOTRjGNH"
@@ -2054,10 +2192,54 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 205089,
       "name": "Mirai",
       "url": "https://open.spotify.com/track/1IdNFDIkNaeOc78bIm561d"
+    },
+    {
+      "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Modjadji",
+      "url": "https://open.spotify.com/track/7hWjSo4Sw8HzFPPyQL9Xfm"
+    },
+    {
+      "album": {
+        "name": "more true",
+        "url": "https://open.spotify.com/album/3fc2Y7zHwr4cCtPKHDBIDY"
+      },
+      "artists": [
+        {
+          "name": "KR3TURE",
+          "url": "https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu"
+        },
+        {
+          "name": "King Kairos",
+          "url": "https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ"
+        },
+        {
+          "name": "On Clouds",
+          "url": "https://open.spotify.com/artist/4BFrUd9AQ1DtvKysaWGoap"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153562,
+      "name": "more true",
+      "url": "https://open.spotify.com/track/5ylZzMCopGBEUJemnqf3Ym"
     },
     {
       "album": {
@@ -2646,10 +2828,28 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 152905,
       "name": "Palace Nasnath",
       "url": "https://open.spotify.com/track/7nNsuVGAfwnTaelrPRBJis"
+    },
+    {
+      "album": {
+        "name": "Preston Island Soundwalk",
+        "url": "https://open.spotify.com/album/5jm6eZaOpCpYQ5bdBMyaOD"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Part 1, W. 5th Beach Access",
+      "url": "https://open.spotify.com/track/5sIpXj2Ijto10lIiHT7cok"
     },
     {
       "album": {
@@ -2945,6 +3145,28 @@
     },
     {
       "album": {
+        "name": "Radiance Unfolding",
+        "url": "https://open.spotify.com/album/4KTXvXtsbtIxIdeOD81LBY"
+      },
+      "artists": [
+        {
+          "name": "Lightwerx Collective",
+          "url": "https://open.spotify.com/artist/2VDnQUqVBg7BlAaNNdbOxp"
+        },
+        {
+          "name": "Poems at Dusk",
+          "url": "https://open.spotify.com/artist/57V2IZfJB8TGoaZ0qSVfjZ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201238,
+      "name": "Radiance Unfolding",
+      "url": "https://open.spotify.com/track/7LfgNOzZFd4xcz2OGpoUFQ"
+    },
+    {
+      "album": {
         "name": "Music for Living Spaces",
         "url": "https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm"
       },
@@ -3064,10 +3286,28 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 191052,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0kFP20NUmp5M1oMQLbAjPn"
+    },
+    {
+      "album": {
+        "name": "Redwood Resonance",
+        "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Redwood Resonance",
+      "url": "https://open.spotify.com/track/4yyZnLXwIcoAILsFL3OaHr"
     },
     {
       "album": {
@@ -3100,7 +3340,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 198333,
       "name": "Relaxing Thunderstorm",
       "url": "https://open.spotify.com/track/3KifzljKZBBqibTUgGwfRb"
@@ -3166,7 +3406,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 502500,
       "name": "Room for Whatever Is Left",
       "url": "https://open.spotify.com/track/0QxbJ67ZLeDZZSS6RYO3mf"
@@ -3290,6 +3530,28 @@
       "duration_ms": 213010,
       "name": "Seagull",
       "url": "https://open.spotify.com/track/56rWZXYQEhqg2IamYjFf50"
+    },
+    {
+      "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
+      },
+      "artists": [
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270996,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
     },
     {
       "album": {
@@ -3594,6 +3856,28 @@
       "duration_ms": 392500,
       "name": "Slow Sky",
       "url": "https://open.spotify.com/track/5DlLYv7xXpnM1Se5yUPjxB"
+    },
+    {
+      "album": {
+        "name": "som",
+        "url": "https://open.spotify.com/album/3Fnhms1ZuvSsZfS4oKOGBQ"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        },
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "somnium",
+      "url": "https://open.spotify.com/track/4ETbQ9thETcjCwdWSAVqyn"
     },
     {
       "album": {
@@ -3919,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Corsair Bay & Other Stories",
+        "url": "https://open.spotify.com/album/3IZ9uXR9hr3BdTWQChexmO"
+      },
+      "artists": [
+        {
+          "name": "Monika",
+          "url": "https://open.spotify.com/artist/38BFYN3khru2n281KjI4Nd"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468880,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/4Wgiac3MHUw63N3PaIsCLM"
+    },
+    {
+      "album": {
         "name": "The Other Side of Darkness",
         "url": "https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k"
       },
@@ -4060,10 +4362,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 274285,
       "name": "Threshold",
       "url": "https://open.spotify.com/track/7fdcKs5PsbxAFo59pOoBkl"
+    },
+    {
+      "album": {
+        "name": "Tidal Moss (Earthly Records)",
+        "url": "https://open.spotify.com/album/4RtfbqvktEuImDi1iIrPis"
+      },
+      "artists": [
+        {
+          "name": "Norvik",
+          "url": "https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224043,
+      "name": "Tidal Moss (Earthly Records)",
+      "url": "https://open.spotify.com/track/3SQKl5CHHNtzOKiO7QEyfZ"
     },
     {
       "album": {
@@ -4516,7 +4836,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 194400,
       "name": "What If",
       "url": "https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68"
@@ -4570,7 +4890,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 234240,
       "name": "White Noise Healing",
       "url": "https://open.spotify.com/track/3eSZTtujc1pECv2f7quQ7l"
@@ -4614,6 +4934,24 @@
       "duration_ms": 157183,
       "name": "wistful",
       "url": "https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w"
+    },
+    {
+      "album": {
+        "name": "With Every Memory",
+        "url": "https://open.spotify.com/album/26FIVa4NPodwRyXiNE8Nvz"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "With Every Memory",
+      "url": "https://open.spotify.com/track/7og1229RD2zgayEx0OZJzS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,058 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,063 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 22 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
 | 23 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 |
 | 24 | [Big Hoops](https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y) | [Big Hoops](https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH) | 2:19 |
-| 25 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
-| 26 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [ONESOLO](https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 25 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [ONESOLO](https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 26 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
 | 27 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
 | 28 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 29 | [Sweet Dreams \(feat\. Imanbek\)](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |

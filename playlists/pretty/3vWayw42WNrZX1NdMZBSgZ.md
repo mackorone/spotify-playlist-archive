@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain](/playlists/plain/3vWayw42WNrZX1NdMZBSgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3vWayw42WNrZX1NdMZBSgZ)
 
-### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
+### [Pop Latin Hits 2025](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Bomba Estéreo, Rawayana, ASTROPICAL
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,438 likes - 178 songs - 9 hr 22 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,437 likes - 178 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 177 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
 | 178 | [Te Imaginaba](https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/34lHWGbMwEieuMtYcyhqrR) | 2:38 |
 
-Snapshot ID: `AAATQzPbD5qIr4GonvifCVfr1ihDdSxG`
+Snapshot ID: `AAATRFe4ctqeUE93qxYjWQO9fLoN7t/Z`

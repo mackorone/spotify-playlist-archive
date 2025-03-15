@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31582,
+  "num_followers": 31595,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
-        "url": "https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        },
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
-      "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4 \u05d0\u05e0\u05e4\u05dc\u05d0\u05d2\u05d3 2022",
         "url": "https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 350312,
       "name": "\u05e2\u05d5\u05dc\u05dd \u05de\u05e9\u05d5\u05d2\u05e2 - \u05e7\u05d9\u05e1\u05e8\u05d9\u05d4 \u05d0\u05e0\u05e4\u05dc\u05d0\u05d2\u05d3",
       "url": "https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+        "url": "https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+      "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
-      },
-      "artists": [
-        {
-          "name": "Gil Bar Hadas",
-          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "Live 2022",
         "url": "https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272640,
       "name": "\u05d7\u05dc\u05dc\u05d9\u05d5\u05ea - Bonus Track",
       "url": "https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
+      },
+      "artists": [
+        {
+          "name": "Gil Bar Hadas",
+          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
+      },
+      "artists": [
+        {
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
         "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 145000,
       "name": "\u05d9\u05d5\u05de\u05d4",
       "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
-      },
-      "artists": [
-        {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 239411,
       "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
       "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-03-13 22:00:04",

@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "HOTBOX",
+        "url": "https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182925,
+      "name": "HOTBOX",
+      "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
+    },
+    {
+      "album": {
         "name": "Hotter Now",
         "url": "https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh"
       },
@@ -4460,6 +4478,24 @@
       "duration_ms": 165863,
       "name": "Letter 2 Myself",
       "url": "https://open.spotify.com/track/0zvrOBR7cTCzYf7AFaw1z4"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201798,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4"
     },
     {
       "album": {
@@ -6688,7 +6724,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 221379,
       "name": "Rick James",
       "url": "https://open.spotify.com/track/13lHKa49RJRMGRNGftt5Ss"
@@ -8504,7 +8540,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 148120,
       "name": "Waste Your Love",
       "url": "https://open.spotify.com/track/6YHje9JLFYjCDuiNUkzHt3"

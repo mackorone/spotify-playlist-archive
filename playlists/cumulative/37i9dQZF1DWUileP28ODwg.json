@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "God Is In This House",
+        "url": "https://open.spotify.com/album/7uLL5vT8nblJSszzwf7KdZ"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182351,
+      "name": "God Is In This House",
+      "url": "https://open.spotify.com/track/5USopmCCwpf54f4G2sbbXu"
+    },
+    {
+      "album": {
         "name": "Jesus Changed My Life",
         "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
       },
@@ -3872,10 +3890,28 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 192599,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR"
+    },
+    {
+      "album": {
+        "name": "How Many Times (oh how You love me)",
+        "url": "https://open.spotify.com/album/3noiFOBNrnM85LaH7aBO9r"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191779,
+      "name": "How Many Times (oh how You love me)",
+      "url": "https://open.spotify.com/track/5dc0HWu0cc0voNz32RSiR1"
     },
     {
       "album": {
@@ -9986,7 +10022,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 232019,
       "name": "Yes I Will - feat. Azlyn Howard",
       "url": "https://open.spotify.com/track/3Tm3NWC1xcl20KjMSGEQsj"

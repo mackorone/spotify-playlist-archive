@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-556 songs - 23 hr 48 min
+557 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 | 2023-04-18 |  |
 | [Places](https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Places](https://open.spotify.com/album/0qrg9kqWFOZsiwQM5o418l) | 3:30 | 2024-05-14 |  |
 | [Playful Waters](https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Playful Waters](https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd) | 2:32 | 2024-11-26 |  |
+| [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 | 2025-03-14 |  |
 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 | 2023-03-29 |  |
 | [Pool of light](https://open.spotify.com/track/638iDsayTPgIScb5MSn4Qz) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Memoir](https://open.spotify.com/album/6ouP03HKu8kKGIZGXU4JcL) | 2:29 | 2022-09-20 |  |
 | [Pose](https://open.spotify.com/track/2Y2bYMpbNkHoQp0DwlSIej) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Pose](https://open.spotify.com/album/680IQ3Ck2y4b6zmuP7vg1D) | 2:06 | 2024-03-04 |  |

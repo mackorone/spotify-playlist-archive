@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 44 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 45 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 42 | [Sole In Viso](https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Sole In Viso](https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S) | 2:23 |
 | 43 | [Follow](https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Follow](https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS) | 2:01 |
 | 44 | [Falling Softly](https://open.spotify.com/track/74KTeVGUFWJfVw3e7k0W0s) | [Gustav Potter](https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6) | [Falling Softly](https://open.spotify.com/album/1sdwS0IyPGfEpjkMdgpc4T) | 2:19 |
+| 45 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 |
 
-Snapshot ID: `Z8sRXwAAAACtq4gPBTpi/6TcPCjk2G3N`
+Snapshot ID: `Z9OpxAAAAAAXsa1Q5NOTL76P0eCwiSHa`

@@ -2015,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Brutality",
+        "url": "https://open.spotify.com/album/3WvwQPR9sNcBfh7AB9dGp1"
+      },
+      "artists": [
+        {
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178668,
+      "name": "Brutality",
+      "url": "https://open.spotify.com/track/2fWfHHz3hWuAEul5rO2K7Q"
+    },
+    {
+      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 200000,
       "name": "Cagapalo",
       "url": "https://open.spotify.com/track/32vfF5QbU8sAlSC7koukZB"
@@ -9678,7 +9696,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 207679,
       "name": "No tengo amigos",
       "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
@@ -12196,7 +12214,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 165903,
       "name": "Ser Mexicano",
       "url": "https://open.spotify.com/track/6fzP8ju0y8KkHpe8otInxA"
@@ -14533,6 +14551,28 @@
     },
     {
       "album": {
+        "name": "West Plaza",
+        "url": "https://open.spotify.com/album/4M4DgYqKg8k1OiuDtdCaY4"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "PAVEL",
+          "url": "https://open.spotify.com/artist/12L5FprPtupespeEZZt6c5"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "West Plaza",
+      "url": "https://open.spotify.com/track/4RyrKXFQVNnp7Wp8Jgd1Ky"
+    },
+    {
+      "album": {
         "name": "Word",
         "url": "https://open.spotify.com/album/619bFasbM1safSvPjNdI2f"
       },
@@ -14790,6 +14830,28 @@
       "duration_ms": 155897,
       "name": "\u00bfQu\u00e9 Hay Que Hacer?",
       "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel de L.A. Guarda",
+        "url": "https://open.spotify.com/album/43tYh5a6HoFlO0Cq10nDId"
+      },
+      "artists": [
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "\u00c1ngel de L.A. Guarda",
+      "url": "https://open.spotify.com/track/4zJ7HoXJbGlbq8dXMGbzks"
     },
     {
       "album": {

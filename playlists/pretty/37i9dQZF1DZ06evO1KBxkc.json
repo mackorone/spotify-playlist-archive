@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201101,
+  "num_followers": 201098,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB3x8nBv+UH4m6KcmDGLDEf",
+  "snapshot_id": "Z9IgAAAAAAB/5SjX5FTK0LByLI9J48nv",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 287555,
-      "name": "D.T.B. (Interlude)",
-      "url": "https://open.spotify.com/track/6dKHEOxmG7I6SraR7QFT6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 287555,
+      "name": "D.T.B. (Interlude)",
+      "url": "https://open.spotify.com/track/6dKHEOxmG7I6SraR7QFT6e"
     },
     {
       "added_at": null,
@@ -999,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },
       "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 176105,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
+      "duration_ms": 214853,
+      "name": "Say A'",
+      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

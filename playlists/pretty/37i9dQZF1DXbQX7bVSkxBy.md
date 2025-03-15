@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=d\-YhDSQQQReef2azXUA9RA>Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,948 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,958 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

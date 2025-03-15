@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=hK\-x7IDkTJ2LdkftEVCnPQ>Moses Bliss</a> and <a href=https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk?si=uHKBkCl\-TAeeiCFjq0VVUA>Chandler Moore</a>
 
-4,713 songs - 14 day 8 hr 34 min
+4,715 songs - 14 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1494,6 +1494,7 @@
 | [Groanings](https://open.spotify.com/track/39tTh4ptwHpq12peX61tYY) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 2:50 | 2023-07-14 | 2023-07-28 |
 | [Groanings \- Paruto Live peformance](https://open.spotify.com/track/3YCsM8KGYkXEMbAQi1Agjy) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Groanings \(Paruto Live peformance\)](https://open.spotify.com/album/7lCN4xyxbrgOj2CPS4spC3) | 2:33 | 2023-09-01 | 2023-09-15 |
 | [Groter As Die Berge](https://open.spotify.com/track/0KmGtqzCBuOtOTROhS5y3U) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [Dis Tyd](https://open.spotify.com/album/3tvP8cHiZYfmM9qroubQ1S) | 2:48 | 2024-05-03 | 2024-05-10 |
+| [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 |  |
 | [Guide Your Way](https://open.spotify.com/track/4jku393QzOX63vjChnYcnP) | [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [JT Bulinda](https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM) | [Guide Your Way](https://open.spotify.com/album/0iceg2XyY5ydkaxLyQqFYC) | 5:09 | 2024-12-20 | 2025-01-10 |
 | [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 | 2023-06-30 | 2023-07-14 |
 | [Ha Le Mpotsa \- Holly Venom](https://open.spotify.com/track/6AZLRh3kMebkJt0hOhz8qq) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Ha Le Mpotsa](https://open.spotify.com/album/6dqDhIprUTTdHTwHReMBT0) | 4:26 | 2023-10-27 | 2023-11-10 |
@@ -4685,6 +4686,7 @@
 | [Your Name](https://open.spotify.com/track/3LrkGtIglziOUIiGcUjoVT) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Your Name](https://open.spotify.com/album/5V0tPtYombwJBLDwTAnDoO) | 3:37 | 2023-07-28 | 2023-08-11 |
 | [YOUR NAME \- Special Version](https://open.spotify.com/track/23jUHlhSGwf3ippSVwMIV7) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t) | [YOUR NAME \(Special Version\)](https://open.spotify.com/album/0f9st8rSjl7LHDEv7tJL65) | 3:30 | 2023-10-13 | 2023-10-27 |
 | [Your Name is Jesus \- Speed Up Version](https://open.spotify.com/track/5HJLK1QgAVYGfkDu6vdkRt) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Your Name is Jesus \- Speed Up Version](https://open.spotify.com/album/3dSZu7rn4AFSZXZ7rqbq5H) | 3:07 | 2024-09-06 | 2024-09-20 |
+| [Your own](https://open.spotify.com/track/2xv30FkCJ3xPkRRM1QGRoL) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Bayor Martins](https://open.spotify.com/artist/2g3PuqCcgoIYsH1TeiyrLq) | [Your own](https://open.spotify.com/album/7IL5uFzxM9UryFFIjDzn49) | 6:29 | 2025-03-14 |  |
 | [Your Plan](https://open.spotify.com/track/33wg8NYuL7xqIaqa6tdF6W) | [Stephanie Kome\-Ita](https://open.spotify.com/artist/0wjsc0GiCuJmdgwI0AB7iE), [Worship Yakubu](https://open.spotify.com/artist/40BqdSqProiyFXBd5NSeFC), [Mytee](https://open.spotify.com/artist/5MyEDg8wtX3HvzFjV5BJQ8) | [Your Plan](https://open.spotify.com/album/6l3KXVh6FeR8KjivwdBFla) | 3:43 | 2024-04-26 | 2024-05-03 |
 | [Your Prayers](https://open.spotify.com/track/4u314K4h5nfJRCDq4vcnIj) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Your Prayers](https://open.spotify.com/album/6UASZTBDpVmXKK9BHYCZIz) | 4:35 | 2024-03-22 | 2024-04-05 |
 | [Your Presence](https://open.spotify.com/track/2ilVwhb67FXyywjr2nxRER) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Your Presence](https://open.spotify.com/album/6G9MBYoqhEouGmZnLJ5jz4) | 4:12 | 2024-02-16 | 2024-03-01 |

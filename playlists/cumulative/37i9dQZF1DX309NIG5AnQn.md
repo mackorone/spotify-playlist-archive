@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Los Títeres.
+> rock alternativo argentino\. <br/>📷 reybruja.
 
-247 songs - 14 hr 6 min
+248 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2022-03-25 | 2023-03-25 |
 | [Motivos](https://open.spotify.com/track/5sj8qsK8IC2U89ALnWEIEr) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Cuando Éramos Jóvenes](https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw) | 3:33 | 2024-09-13 |  |
 | [Mundo actual](https://open.spotify.com/track/5hiK6Jj3cbhAKbChvmBfr1) | [Sangre de Barro](https://open.spotify.com/artist/1nVPGomlqTNvWO6IrBE8uw) | [Sangre de Barro](https://open.spotify.com/album/5BfsTwWQa5S0FoJ2GiVtQs) | 2:03 | 2024-10-03 |  |
-| [Muy Callados](https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Muy Callados](https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC) | 3:09 | 2023-07-14 |  |
+| [Muy Callados](https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Muy Callados](https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC) | 3:09 | 2023-07-14 | 2025-03-15 |
 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-23 | 2023-05-27 |
 | [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 | 2024-02-02 |  |
 | [Nadie va a decidir por vos](https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 3:41 | 2023-07-28 |  |
@@ -202,6 +202,7 @@
 | [PUNKY PLAYERO](https://open.spotify.com/track/27ItPouIzWP5i4bPasTR8N) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [MIXTAPE DE VERANO](https://open.spotify.com/album/0PxeMQT4VFstgaEdpPjRqV) | 1:23 | 2022-03-25 | 2023-03-25 |
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 | 2024-08-24 |
 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 | 2022-03-25 | 2023-03-25 |
+| [que se la banquen](https://open.spotify.com/track/1SDALVQe638r5X8r0NfAaJ) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [que se la banquen](https://open.spotify.com/album/2RggQwKLfVqYbNM06FDQam) | 2:26 | 2025-03-14 |  |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 |  |

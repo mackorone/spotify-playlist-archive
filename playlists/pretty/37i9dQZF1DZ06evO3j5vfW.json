@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71996,
+  "num_followers": 72001,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAD1luM0QbPT+RBX+Pjvn1CI",
+  "snapshot_id": "Z9IgAAAAAACyvMoprejm2whLXtK7EXiE",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -523,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
       },
       "artists": [
         {
@@ -532,13 +552,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
         }
       ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
-        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
-      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
+        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
       },
       "artists": [
         {
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         }
       ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
+      "duration_ms": 190746,
+      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
+      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -695,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -715,42 +751,6 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -835,6 +835,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 187380,
+      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
         "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
       },
@@ -887,26 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
-        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        },
-        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
         }
       ],
-      "duration_ms": 187380,
-      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -931,26 +951,6 @@
       "duration_ms": 211406,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Iron",
-      "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 202968,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Iron",
+      "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
     },
     {
       "added_at": null,

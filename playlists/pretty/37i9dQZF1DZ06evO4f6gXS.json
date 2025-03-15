@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3312,
+  "num_followers": 3316,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAABbACCmGRz5E7zYZzDBACgG",
+  "snapshot_id": "Z9IgAAAAAAC6TwKCE/DvfB8Wk2viU7MT",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 296786,
-      "name": "2 Win U Back",
-      "url": "https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 337026,
       "name": "Getting on with My Own Life",
       "url": "https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 296786,
+      "name": "2 Win U Back",
+      "url": "https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Your Love Controls Me",
+      "url": "https://open.spotify.com/track/1vue6N2kcKmIkNAEKysBo1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reflections: In Loving Memory",
         "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 260773,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Your Love Controls Me",
-      "url": "https://open.spotify.com/track/1vue6N2kcKmIkNAEKysBo1"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Sweet Ecstasy",
-      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 173520,
       "name": "Taster of the Honey (Not Keeper of the Bee)",
       "url": "https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Sweet Ecstasy",
+      "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
       "duration_ms": 344000,
       "name": "What a Fool",
       "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
     },
     {
       "added_at": null,
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good to the Last Drop",
-        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
       "artists": [
         {
@@ -740,9 +724,25 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 190293,
-      "name": "My Own Special Way",
-      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
+      "duration_ms": 265506,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 300413,
       "name": "Curious",
       "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "You Threw Our Love Away",
-      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
     },
     {
       "added_at": null,
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+      "duration_ms": 270666,
+      "name": "You Threw Our Love Away",
+      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 157133,
       "name": "If You Don't Start Nothing",
       "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good to the Last Drop",
+        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "My Own Special Way",
+      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
     },
     {
       "added_at": null,

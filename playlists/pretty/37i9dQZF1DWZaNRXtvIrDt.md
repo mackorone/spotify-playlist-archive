@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,580 likes - 115 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,592 likes - 115 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [Only Fans \- Original](https://open.spotify.com/track/3Ow4fPSZma6jviVcokl139) | [Ashoju](https://open.spotify.com/artist/0h8WPbEdojs7a6Uo5qYS36), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB), [Side B](https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR) | [Only Fans](https://open.spotify.com/album/6RQwITWBpYWltxw189Bg4W) | 5:07 |
 | 85 | [The Beat](https://open.spotify.com/track/0XWsx1rTJqE6VG7pqr6CNf) | [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [The Beat](https://open.spotify.com/album/3pQPr1qVBJtnW7yyHTrgOY) | 5:55 |
 | 86 | [Sunrise Generation \- Re\-Shape](https://open.spotify.com/track/6vYzvPRweDz4IUYtTr0Ev7) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Sunrise Generation \(Re\-Shape\)](https://open.spotify.com/album/15oBrHQROd8qmsfkJp9eqn) | 6:26 |
-| 87 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
+| 87 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
 | 88 | [PONY \(RIDE ME\)](https://open.spotify.com/track/20lRk7PefckQyVINUfhRuH) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [PONY \(RIDE ME\)](https://open.spotify.com/album/6np6tnmDQv0uWg4IugVNdW) | 2:48 |
 | 89 | [Strong \- Club Mix](https://open.spotify.com/track/4gEPygJnWVwN3CLR5JmKAJ) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [Strong \(Club Mix\)](https://open.spotify.com/album/4xhVhWulpHjlnrsBcAD6SQ) | 4:19 |
 | 90 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |

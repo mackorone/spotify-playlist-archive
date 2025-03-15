@@ -1,38 +1,18 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: LISA",
-  "num_followers": 1743726,
+  "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Doechii",
+  "num_followers": 1743705,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8qYgQAAAABykRGx/gAxJNKo1ukSZrop",
+  "snapshot_id": "Z9PHogAAAADO0s2SkoTxzd8EcWK/tmW3",
   "tracks": [
     {
-      "added_at": "2025-02-28 17:35:36",
+      "added_at": "2025-03-07 06:44:24",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 172846,
-      "name": "When I'm With You (feat. Tyla)",
-      "url": "https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ"
-    },
-    {
-      "added_at": "2024-08-30 04:49:06",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
       "artists": [
         {
@@ -40,9 +20,25 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 174288,
-      "name": "SLIDE",
-      "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-01-24 08:56:43",
@@ -197,6 +193,26 @@
       "url": "https://open.spotify.com/track/25TCMpyYN5FFaPxqtl9rWt"
     },
     {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+        "url": "https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 97371,
+      "name": "FEEL THE BA$S (Prelude) [feat. BEAM]",
+      "url": "https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9"
+    },
+    {
       "added_at": "2024-11-22 18:00:07",
       "album": {
         "name": "Loosies",
@@ -227,6 +243,22 @@
       "duration_ms": 117094,
       "name": "RUDUMB?",
       "url": "https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "It'll All Make Sense Later (Deluxe)",
+        "url": "https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "Taste of Ya",
+      "url": "https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC"
     },
     {
       "added_at": "2025-02-14 08:21:58",
@@ -317,26 +349,46 @@
       "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
     },
     {
-      "added_at": "2025-01-17 08:21:12",
+      "added_at": "2025-02-28 17:35:36",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+      "duration_ms": 172846,
+      "name": "When I'm With You (feat. Tyla)",
+      "url": "https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ"
     },
     {
-      "added_at": "2025-03-07 06:44:24",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 169212,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh"
+    },
+    {
+      "added_at": "2024-08-30 04:49:06",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
@@ -344,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+      "duration_ms": 174288,
+      "name": "SLIDE",
+      "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
     },
     {
       "added_at": "2024-12-06 06:05:41",
@@ -511,22 +563,6 @@
       "duration_ms": 167000,
       "name": "Need U To Need Me",
       "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
-    },
-    {
-      "added_at": "2025-02-21 07:57:37",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1kIG0RfQxRKT8xHDObXdUG"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "2",
-      "url": "https://open.spotify.com/track/5AM2lJKNnirFSDD1goRMdU"
     },
     {
       "added_at": "2025-01-31 09:09:17",
@@ -767,22 +803,6 @@
       "duration_ms": 131133,
       "name": "Let you have it (feat. Kai Ca$h & Really Jaewon)",
       "url": "https://open.spotify.com/track/36T3K1sXVo6FftX0C7o89E"
-    },
-    {
-      "added_at": "2025-02-14 08:21:58",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2025-01-24 08:56:43",
@@ -1033,22 +1053,6 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-06-14 05:27:25",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "GLOCK",
-      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
-    },
-    {
       "added_at": "2024-11-22 18:00:07",
       "album": {
         "name": "GNX",
@@ -1261,6 +1265,22 @@
       "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
     },
     {
+      "added_at": "2025-02-14 08:21:58",
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
       "added_at": "2025-01-24 08:56:43",
       "album": {
         "name": "A Jaguar's Dream",
@@ -1297,22 +1317,6 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
       "added_at": "2023-12-01 18:55:35",
       "album": {
         "name": "TYLA",
@@ -1327,6 +1331,22 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
       "added_at": "2024-07-19 15:46:40",
@@ -1369,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
       "added_at": "2024-06-21 06:59:45",
       "album": {
         "name": "Baddest In The Room",
@@ -1417,20 +1421,36 @@
       "url": "https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr"
     },
     {
-      "added_at": "2024-02-09 07:19:25",
+      "added_at": "2024-06-14 05:27:25",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
       "artists": [
         {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+      "duration_ms": 228560,
+      "name": "GLOCK",
+      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1449,20 +1469,20 @@
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2024-02-09 07:19:25",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
         }
       ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2023-12-01 18:55:35",
@@ -1479,6 +1499,22 @@
       "duration_ms": 144489,
       "name": "BIRTHDAY DANCE",
       "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1697,22 +1733,6 @@
       "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
     },
     {
-      "added_at": "2024-10-25 07:49:44",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 210051,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
-    },
-    {
       "added_at": "2024-11-22 18:00:07",
       "album": {
         "name": "Loosies",
@@ -1727,6 +1747,22 @@
       "duration_ms": 136260,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
+    },
+    {
+      "added_at": "2024-10-25 07:49:44",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 210051,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
     },
     {
       "added_at": "2024-06-21 06:59:45",
@@ -1825,22 +1861,6 @@
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "When It Comes To You",
-        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
-    },
-    {
       "added_at": "2025-01-24 08:56:43",
       "album": {
         "name": "Winter & Summer",
@@ -1875,6 +1895,22 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
       "added_at": "2024-10-04 07:42:06",
@@ -2205,22 +2241,6 @@
       "url": "https://open.spotify.com/track/6617OvEesvCz7kGfXLYW4h"
     },
     {
-      "added_at": "2024-10-18 20:02:01",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
-    },
-    {
       "added_at": "2024-08-30 04:49:06",
       "album": {
         "name": "While We Wait 2",
@@ -2243,6 +2263,22 @@
       "duration_ms": 202850,
       "name": "Know Better (feat. Lil' Mo & Vince Staples)",
       "url": "https://open.spotify.com/track/6u7nuBZnO53vy8Kmpc6kEU"
+    },
+    {
+      "added_at": "2024-10-18 20:02:01",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
       "added_at": "2024-09-13 08:51:44",
@@ -2713,26 +2749,6 @@
       "url": "https://open.spotify.com/track/6CGt1T7l22N6VgzhA8pBT3"
     },
     {
-      "added_at": "2024-12-06 06:05:41",
-      "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Make It Up To You (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "KATIGORI/PIANO",
@@ -2763,22 +2779,6 @@
       "duration_ms": 189266,
       "name": "Rental",
       "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "A Kid From Toronto",
-        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 192595,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
     }
   ],
   "unique_name": "Channel-X",

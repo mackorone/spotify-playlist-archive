@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 131341,
+  "num_followers": 131340,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAAj7JHNOB2tc3FdROAh8PQG",
+  "snapshot_id": "Z9IgAAAAAAAiA+NERNrSnyt40tOsujQ4",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "Dear Dad - Single Version",
-      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
         "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162626,
       "name": "You Can't Catch Me",
       "url": "https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 109466,
+      "name": "Dear Dad - Single Version",
+      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
     },
     {
       "added_at": null,

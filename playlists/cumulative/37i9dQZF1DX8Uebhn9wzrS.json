@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 169301,
       "name": "arrival",
       "url": "https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF"
@@ -6682,7 +6682,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 151741,
       "name": "Chillo",
       "url": "https://open.spotify.com/track/3upxkEVqTiQyqYo40oZOCN"
@@ -12154,7 +12154,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 111546,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr"
@@ -14660,6 +14660,24 @@
       "duration_ms": 141627,
       "name": "Ginger and Lime",
       "url": "https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR"
+    },
+    {
+      "album": {
+        "name": "Ginseng",
+        "url": "https://open.spotify.com/album/7od1BRBYMaG7eKKKhCGRQ3"
+      },
+      "artists": [
+        {
+          "name": "rosetta's stone",
+          "url": "https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Ginseng",
+      "url": "https://open.spotify.com/track/60wRhWFF1tQeuCs4fJjB6p"
     },
     {
       "album": {
@@ -17500,7 +17518,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 118695,
       "name": "If You Were Here",
       "url": "https://open.spotify.com/track/3jFXQ83qHcUPpzJY0JlKCB"
@@ -18220,7 +18238,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "It's Cloudy",
       "url": "https://open.spotify.com/track/269vLZpnY21sgaa8i70k99"
@@ -23654,7 +23672,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 144035,
       "name": "Mister you forgot your hat",
       "url": "https://open.spotify.com/track/7HHLfthMPLGO4INZtNjxHW"
@@ -30510,7 +30528,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 132442,
       "name": "Resting My Eyes",
       "url": "https://open.spotify.com/track/6kw2yo60FfpYIFF52zWwUd"
@@ -33603,6 +33621,24 @@
     },
     {
       "album": {
+        "name": "So Unclear",
+        "url": "https://open.spotify.com/album/4XNZSrUYkcQ97KFcGyl1Cs"
+      },
+      "artists": [
+        {
+          "name": "Kartel of Sound",
+          "url": "https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110569,
+      "name": "So Unclear",
+      "url": "https://open.spotify.com/track/15O01ZW8g1eyRN4wIXYtw8"
+    },
+    {
+      "album": {
         "name": "So Very Much",
         "url": "https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ"
       },
@@ -34540,7 +34576,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 120000,
       "name": "split the bill",
       "url": "https://open.spotify.com/track/6bfd7QGpfOAjT44PuJGGvD"

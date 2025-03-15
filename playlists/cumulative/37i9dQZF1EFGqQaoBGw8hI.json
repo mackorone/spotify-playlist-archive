@@ -8142,10 +8142,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 249226,
       "name": "Sad Songs (Say So Much)",
       "url": "https://open.spotify.com/track/1fF2dvBsbTk2wrOEaR6f5B"
+    },
+    {
+      "album": {
+        "name": "Breaking Hearts",
+        "url": "https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295533,
+      "name": "Sad Songs (Say So Much)",
+      "url": "https://open.spotify.com/track/2LAgzgp3kmBG6uOqwms3eR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Bathe",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Casper Sage",
   "name": "Vanguard",
   "tracks": [
     {
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 175963,
       "name": "brother and sister",
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
@@ -6362,7 +6362,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 206955,
       "name": "Die For Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
@@ -10642,6 +10642,24 @@
       "duration_ms": 212848,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
+    },
+    {
+      "album": {
+        "name": "Before Bleu",
+        "url": "https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey"
+      },
+      "artists": [
+        {
+          "name": "Zeke Bleu",
+          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158193,
+      "name": "Hollow Ground",
+      "url": "https://open.spotify.com/track/3Qs629rdNfGOgdj9lFDSYB"
     },
     {
       "album": {
@@ -16232,6 +16250,28 @@
       "duration_ms": 179407,
       "name": "NTWFL",
       "url": "https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g"
+    },
+    {
+      "album": {
+        "name": "NuDivision",
+        "url": "https://open.spotify.com/album/0ttYxD7ZGnc3PtPTEUq8e3"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144220,
+      "name": "NuDivision",
+      "url": "https://open.spotify.com/track/7i6qaskEiQzuDUMaVzYk6c"
     },
     {
       "album": {

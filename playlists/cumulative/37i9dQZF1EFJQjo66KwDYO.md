@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-66 songs - 3 hr 23 min
+67 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+PARADOX171115+](https://open.spotify.com/track/3eAiiZUtQbUrYitiossY1s) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [In The Name Of Love](https://open.spotify.com/album/25egHGsBVaTA7QQ1gGtIRa) | 3:12 | 2024-08-07 | 2024-10-20 |
 | [+PARADOX171115+](https://open.spotify.com/track/7Etcft70udZGn6uy3PSPvo) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [In The Name Of Love 2](https://open.spotify.com/album/3LkYHeJbCoO41fjaLjaccW) | 3:12 | 2024-10-19 |  |
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2024-08-07 |  |
+| [All Of Me](https://open.spotify.com/track/1puuLNsoHPRSyrMGQjY0wI) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 2:45 | 2025-03-14 |  |
 | [Already Know](https://open.spotify.com/track/6OaLMeC2dKySw0lYyMoXo3) | [23 Unofficial](https://open.spotify.com/artist/3wvA1LQHLvXmkPFm3WtSrI), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [The Unofficial Album](https://open.spotify.com/album/5s8cSWiL3tx1ijNoJRwDm2) | 3:04 | 2024-08-07 |  |
 | [Arena \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/1SUYyb19XaRPXJh9nfLoW0) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Arena \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/2pbAobwTic4qoJQzjkNnwt) | 3:24 | 2024-08-07 |  |
 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 | 2024-08-07 |  |

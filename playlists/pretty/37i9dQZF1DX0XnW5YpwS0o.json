@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 106983,
+  "num_followers": 107021,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 243509,
-      "name": "Season 2 Episode 3",
-      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 228466,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 243509,
+      "name": "Season 2 Episode 3",
+      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Someone To Stay",
-        "url": "https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Someone To Stay",
-      "url": "https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197426,
       "name": "Silvertongue",
       "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Someone To Stay",
+        "url": "https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "Someone To Stay",
+      "url": "https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "The End Of Comedy",
-        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 262521,
       "name": "Say It",
       "url": "https://open.spotify.com/track/7ghmZhLpmQe9nTluI1czmr"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "The End Of Comedy",
+        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 260419,
-      "name": "Loving Someone",
-      "url": "https://open.spotify.com/track/5RD9TjTKGTTA61cBw7PImI"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Ritual Spirit",
         "url": "https://open.spotify.com/album/7lqu3l4C1PAZx4SBUXcoJd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 241132,
       "name": "Voodoo In My Blood",
       "url": "https://open.spotify.com/track/0vs4k1mRSs01iOR5S5sd07"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260419,
+      "name": "Loving Someone",
+      "url": "https://open.spotify.com/track/5RD9TjTKGTTA61cBw7PImI"
     },
     {
       "added_at": "2024-03-18 13:26:28",

@@ -6376,7 +6376,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 230866,
       "name": "Beautiful Ones",
       "url": "https://open.spotify.com/track/5yWVfYEeQRPuFtytvkOgU1"
@@ -13918,7 +13918,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -22363,6 +22363,32 @@
     },
     {
       "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239568,
+      "name": "Happy (Libra)",
+      "url": "https://open.spotify.com/track/0c1Nxty4lg18IaY1eBd8mi"
+    },
+    {
+      "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
       },
@@ -23192,7 +23218,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 221714,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
@@ -33384,7 +33410,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 232653,
       "name": "Minnie <3",
       "url": "https://open.spotify.com/track/4awSm1QqlLxMW58vi428bq"
@@ -46911,6 +46937,24 @@
     },
     {
       "album": {
+        "name": "Siete",
+        "url": "https://open.spotify.com/album/55n3TyJ14ocYJcfX2CH4au"
+      },
+      "artists": [
+        {
+          "name": "QVDO",
+          "url": "https://open.spotify.com/artist/5CggkMUpyXwOYoTtmVtYN1"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153460,
+      "name": "Siete",
+      "url": "https://open.spotify.com/track/30uBwESUFs5bNxPf7YCOaV"
+    },
+    {
+      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -52025,6 +52069,24 @@
     },
     {
       "album": {
+        "name": "Congrats",
+        "url": "https://open.spotify.com/album/2gXD1M54nEGHLVZZea22Rv"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227720,
+      "name": "Tom Tom",
+      "url": "https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL"
+    },
+    {
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -56960,7 +57022,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"

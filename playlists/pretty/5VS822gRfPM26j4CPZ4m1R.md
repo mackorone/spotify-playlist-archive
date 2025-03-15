@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,434 likes - 589 songs - 1 day 11 hr 1 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,438 likes - 590 songs - 1 day 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -597,5 +597,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 587 | [Lulu](https://open.spotify.com/track/4EOMFRy5Azu8vDHFfVkJPy) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Slow Lane](https://open.spotify.com/album/2eDMwa5rxsH3RjQZMhPUoI) | 4:37 |
 | 588 | [Cool Down](https://open.spotify.com/track/57azADqjTPXHWXb3PDv7pF) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Cool Down](https://open.spotify.com/album/1vHxfidoyqGtg9CU4u0y85) | 3:40 |
 | 589 | [Nothing Changes](https://open.spotify.com/track/3pGyNffUcxpFwq86xtMAZ8) | [Soft Crystals](https://open.spotify.com/artist/66zsLlY6oOb8MiD06SYuTF) | [Nothing Changes](https://open.spotify.com/album/6YyWlLJ00dUv5q79v5S1wJ) | 3:02 |
+| 590 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 
-Snapshot ID: `AAALzTRNzuNoggRnGpi1g9ZHNfm+tbY0`
+Snapshot ID: `AAALzgzJbkPCmERmT3lZH2flRrH7GFhI`

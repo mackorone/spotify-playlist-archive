@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 93673,
+  "num_followers": 93695,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+      },
+      "artists": [
+        {
+          "name": "Jinkx Monsoon",
+          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+        }
+      ],
+      "duration_ms": 268459,
+      "name": "Know-It-All",
+      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "American Apparel Ad Girls",
         "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 228271,
       "name": "American Apparel Ad Girls",
       "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
-      },
-      "artists": [
-        {
-          "name": "Jinkx Monsoon",
-          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
-        }
-      ],
-      "duration_ms": 268459,
-      "name": "Know-It-All",
-      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Zubi Zubi Zubi",
-        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
-      },
-      "artists": [
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "Zubi Zubi Zubi",
-      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 153562,
       "name": "Southern Hospitality",
       "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Zubi Zubi Zubi",
+        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
+      },
+      "artists": [
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "Zubi Zubi Zubi",
+      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "PUMPKIN TITS - Single",
-        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
       },
       "artists": [
         {
-          "name": "JIMBO the Drag Clown",
-          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
         }
       ],
-      "duration_ms": 176215,
-      "name": "PUMPKIN TITS",
-      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+        "name": "PUMPKIN TITS - Single",
+        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
       },
       "artists": [
         {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+          "name": "JIMBO the Drag Clown",
+          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
         }
       ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
+      "duration_ms": 176215,
+      "name": "PUMPKIN TITS",
+      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
     },
     {
       "added_at": "2025-01-14 16:17:40",

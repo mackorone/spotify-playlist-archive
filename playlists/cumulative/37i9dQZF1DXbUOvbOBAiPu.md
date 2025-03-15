@@ -4,7 +4,7 @@
 
 > New music from: Helena, Chappell Roan, Netsky & Andromedik
 
-3,919 songs - 8 day 15 hr 47 min
+3,922 songs - 8 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1452,6 +1452,7 @@
 | [Hemorragie](https://open.spotify.com/track/5NVMe3atnjleeJQmEOsv6t) | [Chico Montana](https://open.spotify.com/artist/4EVmWndovXibJ7c0oNNx3I) | [Hemorragie](https://open.spotify.com/album/6UIh6VtWzwpRUOc0di7Urz) | 1:46 | 2025-01-23 | 2025-01-31 |
 | [Her Heart's In LA](https://open.spotify.com/track/3nNPUu1PIy59tZXYLDN9si) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Passport Pack](https://open.spotify.com/album/4Ai7UE4WJyJNnOqhgv8DmW) | 2:58 | 2024-09-26 | 2024-10-04 |
 | [Here I Am](https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 2:53 | 2024-11-15 | 2024-11-22 |
+| [Here In My Arms](https://open.spotify.com/track/7oXHQAuntd25CnfAHXjGyP) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V), [Madeline Roose](https://open.spotify.com/artist/7dwsb0995sc3kkztIcKMOZ) | [Here In My Arms](https://open.spotify.com/album/2lC5JK5LRUqwNqLIX0P2ZD) | 3:47 | 2025-03-13 |  |
 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 | 2025-02-13 | 2025-02-21 |
 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Christophe Verholle](https://open.spotify.com/artist/5cqOALIWK5xoaqHXwikfis) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 | 2024-07-26 | 2024-08-02 |
 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-05-02 | 2024-05-10 |
@@ -3021,6 +3022,7 @@
 | [silence](https://open.spotify.com/track/5yVrLyZgKW1n3EBnDA6HIx) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [silence / Inner Peace](https://open.spotify.com/album/7MpVARok1Vah01ndl4Wj3e) | 3:33 | 2025-01-16 | 2025-01-24 |
 | [Silent Chaos](https://open.spotify.com/track/7csNgeNwky8Atcq2B6nQrT) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Silent Chaos](https://open.spotify.com/album/0T73FUjssfu3pYJC0kg6dT) | 2:30 | 2024-10-03 | 2024-10-11 |
 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 | 2024-05-23 | 2024-06-01 |
+| [Silverline \(lean on me\)](https://open.spotify.com/track/2j7ex6Rt50bJJw2ei7KOO1) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2), [Anna Winkin](https://open.spotify.com/artist/19wbJkKeRqpnf1ibyz1tVI) | [Silverline \(lean on me\)](https://open.spotify.com/album/6oUIMVSaRi6UycUXpDA3oj) | 3:04 | 2025-03-13 |  |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 | 2024-10-04 |
 | [SIMELLAMA](https://open.spotify.com/track/0vfd6WPa548c8FGiCTzh8z) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SIMELLAMA / LAPLATA](https://open.spotify.com/album/1pHADvO4qpeaoTLSEgZjgh) | 2:11 | 2024-08-08 | 2024-08-17 |
 | [Simon Says](https://open.spotify.com/track/717MlEWMwPnrTCMRywsxk4) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Simon Says](https://open.spotify.com/album/6kI8GW4FwRhC8sOfBMFB7G) | 3:13 | 2025-02-06 | 2025-02-14 |
@@ -3308,6 +3310,7 @@
 | [Te Imaginaba](https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU) | 2:38 | 2024-06-27 | 2024-07-05 |
 | [TE QUIERO](https://open.spotify.com/track/5wuUYQbVwJSLPvt4Ra7VUx) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [TE QUIERO](https://open.spotify.com/album/1VBdiqMYdsazDcUBDBPTRL) | 3:13 | 2024-07-26 | 2024-08-02 |
 | [Te taire](https://open.spotify.com/track/4WAEs9dsGElewyvVlCBbqH) | [alster](https://open.spotify.com/artist/5Ollr4XXx8aYz6k36VXirw) | [Te taire](https://open.spotify.com/album/2vBj5iHojlpcaxNvfHkcFB) | 2:40 | 2025-02-13 | 2025-02-21 |
+| [Te Waar Om Mooi Te Zijn](https://open.spotify.com/track/4hihzc1FWSnlMGRnYEZm7s) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [Te Waar Om Mooi Te Zijn](https://open.spotify.com/album/02u6G4zpAqzWsthZTSjkc0) | 2:55 | 2025-03-13 |  |
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-06-20 | 2024-06-28 |
 | [Tears](https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Tears](https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE) | 2:55 | 2024-06-20 | 2024-06-28 |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 | 2024-11-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,790 likes - 60 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,796 likes - 60 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

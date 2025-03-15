@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Jelly Roll
 
-444 songs - 23 hr 57 min
+445 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2023-02-03 | 2023-09-16 |
 | [Out in the Middle](https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 2:46 | 2022-03-14 | 2022-06-25 |
 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 | 2022-06-24 | 2023-04-24 |
+| [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2025-03-14 |  |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2024-01-12 | 2024-06-29 |
 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 | 2023-10-06 |  |
 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 | 2023-08-18 | 2023-09-16 |
@@ -382,7 +383,7 @@
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-09-15 |  |
 | [This Heart](https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [This Heart](https://open.spotify.com/album/1AEpYbXIt9lp2hRK7Qqk9F) | 3:06 | 2024-08-09 | 2024-11-16 |
 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 | 2024-04-12 | 2025-02-10 |
-| [Thought of You](https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Thought of You](https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX) | 2:43 | 2025-02-28 |  |
+| [Thought of You](https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Thought of You](https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX) | 2:43 | 2025-02-28 | 2025-03-15 |
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2022-11-25 | 2024-03-09 |
 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 | 2025-01-24 |  |
 | [Tie Up](https://open.spotify.com/track/1ldVci33AH29zhSR4fTIOt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Tie Up](https://open.spotify.com/album/1LtPTOxjuWJ2iPUy2ILU9e) | 3:08 | 2024-08-09 | 2024-11-09 |

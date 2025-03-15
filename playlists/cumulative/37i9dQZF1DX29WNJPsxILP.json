@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Badshah",
+  "description": "Best of Hindi Hip-Hop! Cover: Bali",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3MnexUpZqQaWoZTQbfEFZl"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/17ZWvL2d7T2LmoxoOLHxVM"
+    },
+    {
+      "album": {
         "name": "PEW PEW!",
         "url": "https://open.spotify.com/album/1jTyUrUnZexu0WPbx1tmi0"
       },
@@ -3935,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn"
+      },
+      "artists": [
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141470,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN"
+    },
+    {
+      "album": {
         "name": "Shana Bann",
         "url": "https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn"
       },
@@ -4008,7 +4048,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 152000,
       "name": "SIZE 7",
       "url": "https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84"
@@ -4344,7 +4384,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 169384,
       "name": "Tere Jaisi",
       "url": "https://open.spotify.com/track/7ebzprvKL2Z1tMOfBC40YG"

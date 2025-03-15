@@ -2,9 +2,9 @@
 
 ### [Forest Bathing](https://open.spotify.com/playlist/37i9dQZF1DXaPleDxjpDoo)
 
-> Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
+> Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-201 songs - 10 hr 40 min
+202 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 | 2024-03-06 |
 | [Sentiment \- Sound Bath](https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Sound Bath](https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j) | 2:42 | 2022-10-21 | 2024-05-02 |
 | [Sentimental Sphere](https://open.spotify.com/track/6r4ExMjhDRJ0Tz6G27G6ac) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Sentimental Sphere](https://open.spotify.com/album/6dQxNOddUuIQIXIXhzzrfE) | 3:03 | 2025-01-15 |  |
+| [Shadow From the Sun](https://open.spotify.com/track/47ErfOP2MM4okFVhZVC9CH) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Shadow From the Sun](https://open.spotify.com/album/2QoIrhaKqBjjEc1zT0UH44) | 2:39 | 2025-03-14 |  |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2022-12-02 | 2024-05-02 |
 | [Sierra Forest Bath](https://open.spotify.com/track/1a2ZmT080ia7c7dBuuOKLe) | [Zen Sound Garden](https://open.spotify.com/artist/2Mk95LJtfBy9tTwtM6qHRd) | [Sierra Forest Bath](https://open.spotify.com/album/72YRpqtfqwqguPLgeMzioV) | 2:36 | 2024-08-23 |  |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2022-09-15 | 2023-10-13 |

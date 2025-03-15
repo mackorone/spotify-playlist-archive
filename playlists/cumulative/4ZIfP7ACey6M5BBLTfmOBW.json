@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Gender reveal",
+        "url": "https://open.spotify.com/album/0Mt6mbxFb8o1nAWZMmXaD1"
+      },
+      "artists": [
+        {
+          "name": "MIRRAR",
+          "url": "https://open.spotify.com/artist/39zqfoXqVbCNHs3Ip4kbGp"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95804,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/4xCvbVYxrxzLaS5nRqjPKF"
+    },
+    {
+      "album": {
         "name": "Angels In The Sky",
         "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
       },
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 139636,
       "name": "Check Fox 5",
       "url": "https://open.spotify.com/track/5cUn1fmjrCgWhrlkVrtR6f"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 111428,
       "name": "Enter The Dragon",
       "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
@@ -2997,6 +3015,50 @@
     },
     {
       "album": {
+        "name": "Freedom of Speech",
+        "url": "https://open.spotify.com/album/1HXFoO8VbqGKPBBqTF1vat"
+      },
+      "artists": [
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "First Question",
+      "url": "https://open.spotify.com/track/6FMzcvCrQc71nuXJWVtk7F"
+    },
+    {
+      "album": {
+        "name": "FLAT shasta (feat. Ash Leone)",
+        "url": "https://open.spotify.com/album/1vVcrBJHl2weQpSqQVoVuy"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        },
+        {
+          "name": "Ash Leone",
+          "url": "https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287082,
+      "name": "FLAT shasta (feat. Ash Leone)",
+      "url": "https://open.spotify.com/track/3zXESgIz8dcqnthjv24p7W"
+    },
+    {
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
       },
@@ -3114,7 +3176,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 122291,
       "name": "Forever Rollin",
       "url": "https://open.spotify.com/track/4ML8XBXgsJI6ScPE98dVta"
@@ -3754,7 +3816,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 141766,
       "name": "ginseng strip 2015",
       "url": "https://open.spotify.com/track/6sqqWi2Pt1CQNk57rNCrrG"
@@ -4434,6 +4496,28 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "album": {
+        "name": "Hit It (feat. Lil Tony Official)",
+        "url": "https://open.spotify.com/album/4BSTs8cTAGJ1KBrUEjmmAq"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        },
+        {
+          "name": "Lil Tony Official",
+          "url": "https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Hit It (feat. Lil Tony Official)",
+      "url": "https://open.spotify.com/track/04jF33RlFGnGCN135WeOCi"
     },
     {
       "album": {
@@ -5334,7 +5418,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 186659,
       "name": "L'S & P'S (feat. Real Boston Richey)",
       "url": "https://open.spotify.com/track/16hLyddaNiGbtfgA85k4nH"
@@ -5666,6 +5750,24 @@
       "duration_ms": 226546,
       "name": "Little Foot Big Foot (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85"
+    },
+    {
+      "album": {
+        "name": "Little Ray Of Light",
+        "url": "https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179841,
+      "name": "Little Ray Of Light",
+      "url": "https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH"
     },
     {
       "album": {
@@ -6303,6 +6405,28 @@
     },
     {
       "album": {
+        "name": "My Baby (feat. Shordie Shordie)",
+        "url": "https://open.spotify.com/album/2LMjRPgRKhs8NODh8DI2di"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        },
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "My Baby (feat. Shordie Shordie)",
+      "url": "https://open.spotify.com/track/6R9Gqy0QyiMpJR6ddlStKF"
+    },
+    {
+      "album": {
         "name": "Cyan Blue",
         "url": "https://open.spotify.com/album/3LbVUrbAn8r1EWvqmJAmy4"
       },
@@ -6336,6 +6460,24 @@
       "duration_ms": 155606,
       "name": "Mystikal Draco's (Psychotic)",
       "url": "https://open.spotify.com/track/4QtMByklJArplbYMOaJVI6"
+    },
+    {
+      "album": {
+        "name": "N***a Poetry",
+        "url": "https://open.spotify.com/album/6cwvVXAd57LnDSUuE0hxKP"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194554,
+      "name": "N***a Poetry",
+      "url": "https://open.spotify.com/track/5EIepiMqbUb7HpWQBfHqFR"
     },
     {
       "album": {
@@ -6722,6 +6864,24 @@
       "duration_ms": 106666,
       "name": "No Way",
       "url": "https://open.spotify.com/track/3B5YN7UlcKAsDUN0q1xQ10"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/6twrxzbFacqaP9yaKklEfU"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165392,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/34cEqOnaJRikAuS8fijvZk"
     },
     {
       "album": {
@@ -7296,7 +7456,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 120412,
       "name": "Pink Dreads",
       "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
@@ -7678,6 +7838,28 @@
       "duration_ms": 123598,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci"
+    },
+    {
+      "album": {
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
     },
     {
       "album": {
@@ -10254,7 +10436,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 120749,
       "name": "Wicked West",
       "url": "https://open.spotify.com/track/4Pkxn6svGIDhp3VBaWYUiT"
@@ -10422,7 +10604,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 211240,
       "name": "Woes of The World",
       "url": "https://open.spotify.com/track/28swS5VUlel9BLsOmgcuxj"
@@ -10444,7 +10626,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 150960,
       "name": "Word On The Street (feat. Rob49)",
       "url": "https://open.spotify.com/track/0OvHs1I5yFJXNZdyaTjUP3"

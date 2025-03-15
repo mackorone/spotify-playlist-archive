@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Bathe
+> Leaders of the new school...Alternative R&B\. Cover: Casper Sage
 
-1,395 songs - 3 day 1 hr 31 min
+1,397 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Brewster](https://open.spotify.com/track/1PcRrMqmrFejKGqqqEZm3s) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Brewster](https://open.spotify.com/album/7CEiIAfj28XpmTb9U3LCep) | 2:24 | 2021-12-10 | 2022-04-26 |
 | [Brewster](https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:24 | 2022-07-15 | 2023-09-30 |
 | [Brewster](https://open.spotify.com/track/5odIVMTBVr7QetfpLY1fPV) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/2BwmEuKqtvwtqpkJadcaQq) | 2:24 | 2022-07-15 | 2022-07-28 |
-| [brother and sister](https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [brother and sister](https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf) | 2:55 | 2024-12-06 |  |
+| [brother and sister](https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [brother and sister](https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf) | 2:55 | 2024-12-06 | 2025-03-15 |
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-08-10 | 2022-12-10 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-04-01 | 2022-10-08 |
 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 | 2023-02-17 | 2024-06-29 |
@@ -337,7 +337,7 @@
 | [Desensitized](https://open.spotify.com/track/7pmcQynEWWrxAUMxtJ3gMj) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Desensitized](https://open.spotify.com/album/1DAz8LOdD3w6pn2B0J1vwE) | 3:00 | 2024-10-20 | 2024-12-07 |
 | [Devil’s Advocate](https://open.spotify.com/track/2BhUsGExfyDXWiYgTeQqAB) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5) | [sneek](https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx) | 4:32 | 2023-11-19 | 2023-12-02 |
 | [diddy crop](https://open.spotify.com/track/7zHAj0PJoJY1yd9dmc0zwJ) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [diddy crop](https://open.spotify.com/album/4TomYKjwhITcPeygcdqWbX) | 1:53 | 2023-07-28 | 2023-10-13 |
-| [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 | 2024-08-16 |  |
+| [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 | 2024-08-16 | 2025-03-15 |
 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 | 2024-08-09 |  |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-02-25 | 2022-10-08 |
 | [DISHONORED](https://open.spotify.com/track/1URH3DZOnsEx6TNqPYsYkk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [IN LOVING MEMORY](https://open.spotify.com/album/5yjvJzb9DJRtgArZhPs6uk) | 2:43 | 2023-12-01 | 2024-04-11 |
@@ -560,6 +560,7 @@
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-04-01 | 2022-08-09 |
 | [Hold Me](https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Hold Me](https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA) | 2:43 | 2022-10-28 | 2023-02-11 |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-25 |
+| [Hollow Ground](https://open.spotify.com/track/3Qs629rdNfGOgdj9lFDSYB) | [Zeke Bleu](https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0) | [Before Bleu](https://open.spotify.com/album/2R9Bi5esA82U43CdRA7Gey) | 2:38 | 2025-03-14 |  |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-02-25 | 2022-07-29 |
 | [Hologram](https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj) | 3:26 | 2022-09-02 | 2022-09-17 |
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-21 | 2022-12-09 |
@@ -849,6 +850,7 @@
 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 | 2024-03-29 | 2024-08-03 |
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2023-04-14 | 2023-04-22 |
 | [NTWFL](https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [NTWFL](https://open.spotify.com/album/67yqGJaYgMvkXi5J1YQcio) | 2:59 | 2021-03-19 | 2022-07-29 |
+| [NuDivision](https://open.spotify.com/track/7i6qaskEiQzuDUMaVzYk6c) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [NuDivision](https://open.spotify.com/album/0ttYxD7ZGnc3PtPTEUq8e3) | 2:24 | 2025-03-14 |  |
 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2023-08-11 | 2023-09-02 |
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-04-01 | 2022-07-16 |
 | [O, The Blood!](https://open.spotify.com/track/2c62n9rmj4yhIZEs86liA8) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [O, The Blood!](https://open.spotify.com/album/4Px25dA9ws4dY4Q2l2BPnC) | 4:01 | 2023-06-16 | 2023-09-02 |

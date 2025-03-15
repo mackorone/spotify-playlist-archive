@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 206694,
+  "num_followers": 206949,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB8Hsr6dt7RSGfSSThMxP9y",
+  "snapshot_id": "Z9IgAAAAAABHeqoh+zz3hxNZzJL7d7aA",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 197107,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+      "duration_ms": 215954,
+      "name": "Catorce de Febrero",
+      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
     },
     {
       "added_at": null,
@@ -391,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
       },
       "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 215954,
-      "name": "Catorce de Febrero",
-      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
       "duration_ms": 398466,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 217182,
+      "name": "Me Prendes",
+      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 217182,
-      "name": "Me Prendes",
-      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amarte a la Antigua",
         "url": "https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 218267,
       "name": "Amarte a la Antigua",
       "url": "https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 176253,
+      "name": "Una Peda",
+      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
     },
     {
       "added_at": null,
@@ -507,38 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 176253,
-      "name": "Una Peda",
-      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 208326,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 205692,
-      "name": "LA PERRIE",
-      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
+      "duration_ms": 208326,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
     },
     {
       "added_at": null,
@@ -595,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 233096,
-      "name": "Pa Que Te Duela",
-      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+      "duration_ms": 205692,
+      "name": "LA PERRIE",
+      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 245911,
       "name": "Dame Tu Calor",
       "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 233096,
+      "name": "Pa Que Te Duela",
+      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 216685,
-      "name": "Tres de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 239874,
       "name": "Ganas Que Te Tengo",
       "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 216685,
+      "name": "Tres de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 242442,
-      "name": "Tentacion",
-      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 226568,
       "name": "NO VOY A ODIARTE",
       "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 242442,
+      "name": "Tentacion",
+      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
     },
     {
       "added_at": null,

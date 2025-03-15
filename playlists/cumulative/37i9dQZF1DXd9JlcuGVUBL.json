@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "All Is Not Lost",
+        "url": "https://open.spotify.com/album/6jqB9GaTtaBMtK52SrFM16"
+      },
+      "artists": [
+        {
+          "name": "Luke Beling",
+          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189916,
+      "name": "All Is Not Lost",
+      "url": "https://open.spotify.com/track/55WgtnBc5idkCZK14il7cB"
+    },
+    {
+      "album": {
         "name": "Am I Okay?",
         "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 193753,
       "name": "Call Me If You Miss Me",
       "url": "https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 193681,
       "name": "Darling It's You",
       "url": "https://open.spotify.com/track/1GIhiutOHkM9MHBDLFNCq3"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 258685,
       "name": "Dear Daddy",
       "url": "https://open.spotify.com/track/6Boy2GLnJwuTw2D7jpijnP"
@@ -904,7 +922,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 177506,
       "name": "Girl I Never Met",
       "url": "https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x"
@@ -1337,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "hummingbird: no rain, no flowers (deluxe)",
+        "url": "https://open.spotify.com/album/4COdErCzwv0rQAFH594bol"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193166,
+      "name": "if looks could kill",
+      "url": "https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 167218,
       "name": "Making Good Time",
       "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
@@ -1630,7 +1666,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 210308,
       "name": "Mulcair Road",
       "url": "https://open.spotify.com/track/3TqBb0sI0oXZqy9LFMQykc"
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-15",
       "duration_ms": 246861,
       "name": "Only God Knows",
       "url": "https://open.spotify.com/track/0H8C3HyC1pK75EI06SVYZd"
@@ -1880,6 +1916,24 @@
       "duration_ms": 162333,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/6JX0MgOc94PlAZTA4BON7c"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/0UHrNH53ojppfIZQ7vLQjU"
+      },
+      "artists": [
+        {
+          "name": "ANJA",
+          "url": "https://open.spotify.com/artist/41Xzs03All3kjYkMuqgIwx"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146460,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2YYyNvojpmVNZCZbrWSv7r"
     },
     {
       "album": {
@@ -2638,7 +2692,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 251784,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
@@ -2656,7 +2710,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 240120,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"

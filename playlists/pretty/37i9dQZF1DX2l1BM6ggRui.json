@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6978,
+  "num_followers": 6984,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "BENCH (with Zion.T)",
-      "url": "https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Page 0",
         "url": "https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 187360,
       "name": "Page 0",
       "url": "https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "BENCH (with Zion.T)",
+      "url": "https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+        "name": "LUMOS",
+        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
       },
       "artists": [
         {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+          "name": "AEONIT",
+          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+      "duration_ms": 157666,
+      "name": "LUMOS",
+      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "LUMOS",
-        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
       },
       "artists": [
         {
-          "name": "AEONIT",
-          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
         }
       ],
-      "duration_ms": 157666,
-      "name": "LUMOS",
-      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -835,18 +835,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "DREAMLIKE",
-        "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
+        "name": "KHAMAI",
+        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
       },
       "artists": [
         {
-          "name": "PL",
-          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 215786,
-      "name": "DREAMLIKE",
-      "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
+      "duration_ms": 205856,
+      "name": "TALK2ME! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -871,26 +875,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "KHAMAI",
-        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
-      },
-      "artists": [
-        {
-          "name": "HUNJIYA",
-          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 205856,
-      "name": "TALK2ME! (feat. pH-1)",
-      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "flowerain",
         "url": "https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ"
       },
@@ -903,6 +887,26 @@
       "duration_ms": 177936,
       "name": "flowerain",
       "url": "https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "For you, my sunshine",
+        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "For you, my sunshine",
+      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -927,22 +931,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "For you, my sunshine",
-        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+        "name": "DREAMLIKE",
+        "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
         }
       ],
-      "duration_ms": 226346,
-      "name": "For you, my sunshine",
-      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
+      "duration_ms": 215786,
+      "name": "DREAMLIKE",
+      "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "The star",
-        "url": "https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
       },
       "artists": [
         {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
         },
         {
-          "name": "Petra",
-          "url": "https://open.spotify.com/artist/3VWH0jNShIR12uJ55lchbw"
+          "name": "HENDERY",
+          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
         }
       ],
-      "duration_ms": 243071,
-      "name": "The star",
-      "url": "https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC"
+      "duration_ms": 229320,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

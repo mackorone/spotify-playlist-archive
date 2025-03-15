@@ -4555,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "Lights, Camera, Action",
+        "url": "https://open.spotify.com/album/6uv1gxDIQAovIucmxbixtW"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "Lights, Camera, Action",
+      "url": "https://open.spotify.com/track/1v5ItDB4dFruhbrlu9rmMr"
+    },
+    {
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp"
       },
@@ -6480,6 +6498,84 @@
       "duration_ms": 178409,
       "name": "Power (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl"
+    },
+    {
+      "album": {
+        "name": "Power (feat. Bipolar Sunshine) [Remixes]",
+        "url": "https://open.spotify.com/album/4Z1Uc35AUT6obJsquZnI7Q"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Asdek",
+          "url": "https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Power (feat. Bipolar Sunshine) - Asdek Remix",
+      "url": "https://open.spotify.com/track/2XgvJUi3ERizYbOfPacQVE"
+    },
+    {
+      "album": {
+        "name": "Power (feat. Bipolar Sunshine) [Remixes]",
+        "url": "https://open.spotify.com/album/4Z1Uc35AUT6obJsquZnI7Q"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Power (feat. Bipolar Sunshine) - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/2TlVLE0lnbH0xxHzOLSmfo"
+    },
+    {
+      "album": {
+        "name": "Power (feat. Bipolar Sunshine) [Remixes]",
+        "url": "https://open.spotify.com/album/4Z1Uc35AUT6obJsquZnI7Q"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Power (feat. Bipolar Sunshine) - SPORTMODE Remix",
+      "url": "https://open.spotify.com/track/01sciopbVzKNFUQ8cCiKHJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 89 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 782 likes - 89 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 28 | [Invocamos \- Ao Vivo](https://open.spotify.com/track/4ihtQFUBGnZ0yEmGd1ZkI2) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Gustavo Tenfen](https://open.spotify.com/artist/0nsZTtQt6ZKtccVlbetSTk) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 5:57 |
 | 29 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 |
 | 30 | [Mil Motivos \- Ao Vivo](https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Mil Motivos \(Ao Vivo\)](https://open.spotify.com/album/3FRxarPiY11wjoiSSJF76b) | 4:56 |
-| 31 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 |
-| 32 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
+| 31 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
+| 32 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 |
 | 33 | [Meu Salvador \- Ao Vivo](https://open.spotify.com/track/3BEdHpS3OlNsZuT9HpdLaN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:30 |
 | 34 | [Avivamento](https://open.spotify.com/track/3lOrDpePtgosqI3CuDHmKs) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Avivamento](https://open.spotify.com/album/3fAEfPchJogYY4LappIgSa) | 5:58 |
 | 35 | [O Rei](https://open.spotify.com/track/4kgMeHkDcl4SjCnGsva3fx) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 7:01 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 48 | [Jesus, Amor Verdadeiro / Eu Te Exalto \- Ao Vivo](https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Jesus, Amor Verdadeiro / Eu Te Exalto \(Ao Vivo\)](https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR) | 4:58 |
 | 49 | [Nunca Falhará \- Ao Vivo](https://open.spotify.com/track/3SK3u55VbBTX2kpdHehbq4) | [Guilherme Baptista](https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Nunca Falhará \(Ao Vivo\)](https://open.spotify.com/album/3NPvGw9qNAUjhtSEdShSvu) | 6:02 |
 | 50 | [Jesus \- Ao Vivo](https://open.spotify.com/track/7v6TBs2l91cNdiyZujXbUn) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 6:38 |
-| 51 | [Profundo \- Ao Vivo](https://open.spotify.com/track/6OJeJs2kIDVLmsWN53THNF) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Profundo \(Ao Vivo\)](https://open.spotify.com/album/6fgLA6sJlIBPFQOmjLTKHo) | 6:46 |
-| 52 | [Caia Fogo \- Ao Vivo](https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Caia Fogo \(Ao Vivo\)](https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA) | 9:37 |
+| 51 | [Caia Fogo \- Ao Vivo](https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Caia Fogo \(Ao Vivo\)](https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA) | 9:37 |
+| 52 | [Profundo \- Ao Vivo](https://open.spotify.com/track/6OJeJs2kIDVLmsWN53THNF) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Profundo \(Ao Vivo\)](https://open.spotify.com/album/6fgLA6sJlIBPFQOmjLTKHo) | 6:46 |
 | 53 | [Escreve o Teu Nome em Nós \- Playback](https://open.spotify.com/track/7MliIRcoe1h52Eka49qjPW) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Escreve o Teu Nome em Nós \(Playback\)](https://open.spotify.com/album/0nFQm0htymyQKuPVyIBsiy) | 4:56 |
 | 54 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 |
 | 55 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 88 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 |
 | 89 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `Abr+SgAAAADMadP35fRvXQXn76hGxY17`
+Snapshot ID: `AbsD4AAAAAA5bcTaxMilb6M0mnRB8IF/`

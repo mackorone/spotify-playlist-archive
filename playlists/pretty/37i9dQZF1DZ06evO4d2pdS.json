@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3319,
+  "num_followers": 3321,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9DOgAAAAAB24DPVetuxAj7DepFTyNFb",
+  "snapshot_id": "Z9IgAAAAAADZYaRbvmuI9dkzlt7haSro",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "310degrees",
-        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124903,
-      "name": "look easy",
-      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Tee Half Beast",
         "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 144000,
       "name": "MilTroit (feat. Lakeyah)",
       "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124903,
+      "name": "look easy",
+      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
     },
     {
       "added_at": null,
@@ -563,34 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
-        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Flau'jae",
-          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
-      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -627,6 +599,34 @@
       "duration_ms": 165517,
       "name": "WANT EM HOOD",
       "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
     },
     {
       "added_at": null,
@@ -695,6 +695,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 163416,
+      "name": "A Letter To You",
+      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "414Princess",
         "url": "https://open.spotify.com/album/1N0ulhehijF2rteWkqQQua"
       },
@@ -711,22 +747,6 @@
       "duration_ms": 218514,
       "name": "Aisle 7 (Remix) [feat. Lakeyah]",
       "url": "https://open.spotify.com/track/3fZ1s8FOseyLqAPmVBVNaC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
     },
     {
       "added_at": null,
@@ -751,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
       "artists": [
         {
@@ -760,13 +780,13 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         },
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 163416,
-      "name": "A Letter To You",
-      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
+      "duration_ms": 238571,
+      "name": "Worth The Wait (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
     },
     {
       "added_at": null,
@@ -799,26 +819,6 @@
       "duration_ms": 126579,
       "name": "Pop Dat",
       "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "Worth The Wait (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 268145,
+  "num_followers": 268264,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 247586,
       "name": "Georgy Porgy",
       "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 257868,
-      "name": "Reminiscing - Remastered 2010",
-      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 205480,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered 2010",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Lost Without Your Love",
-        "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Lost Without Your Love",
-      "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
+      "duration_ms": 150226,
+      "name": "Lonely People",
+      "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
     },
     {
       "added_at": "2023-03-29 20:20:24",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
+        "name": "Lost Without Your Love",
+        "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 150226,
-      "name": "Lonely People",
-      "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
+      "duration_ms": 176893,
+      "name": "Lost Without Your Love",
+      "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Some Things Don't Come Easy",
         "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 172240,
       "name": "We'll Never Have to Say Goodbye Again - Single Version",
       "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
-      },
-      "artists": [
-        {
-          "name": "Pablo Cruise",
-          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Love Will Find A Way",
-      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Chicago XI",
         "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 183666,
       "name": "Baby, What a Big Surprise - Edit",
       "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
+      },
+      "artists": [
+        {
+          "name": "Pablo Cruise",
+          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Love Will Find A Way",
+      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
     },
     {
       "added_at": "2023-03-29 17:34:27",

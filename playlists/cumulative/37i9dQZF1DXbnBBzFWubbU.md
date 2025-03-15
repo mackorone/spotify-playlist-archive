@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-170 songs - 11 hr 2 min
+171 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dua](https://open.spotify.com/track/4u92oAH7FQXEeoXTOFZjRr) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dua](https://open.spotify.com/album/72JN1BC0jTu6H8Dnrw8txu) | 3:46 | 2023-09-08 |  |
 | [Dunya](https://open.spotify.com/track/29YBMSU7BgLmTm7rCLtGIy) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 3:29 | 2023-10-03 |  |
 | [Eastern Jam](https://open.spotify.com/track/4WygV70LzaCA8FgOcpN1w4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:56 | 2023-08-18 |  |
+| [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 | 2025-03-14 |  |
 | [FlashBack](https://open.spotify.com/track/54R4f8iaNV4TQWuTJLbosQ) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [AfroJr.](https://open.spotify.com/artist/1kLA1jm8ulyIeZbKtUxs4J) | [FlashBack](https://open.spotify.com/album/3DDfIESe6MPMKrF4P7LVA2) | 2:22 | 2024-09-13 |  |
 | [Fly to India](https://open.spotify.com/track/6HTqqZKIFCashy9aoCi6qf) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75) | [Annem](https://open.spotify.com/album/4cCQiTtZbWocNmkqQWyXcI) | 7:02 | 2023-10-27 | 2024-06-08 |
 | [Gal Mukdi](https://open.spotify.com/track/4AQw1pwzUrucO5OOMLIrV6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Gal Mukdi](https://open.spotify.com/album/2hYgj4AQhL4f45jmUaIrmx) | 2:53 | 2024-01-19 | 2025-01-14 |
